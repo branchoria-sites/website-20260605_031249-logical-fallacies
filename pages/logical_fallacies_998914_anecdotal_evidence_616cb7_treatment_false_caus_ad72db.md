@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatme
 
 ## Introduction
 
-When someone takes a remedy and then recovers, it is natural to connect the two events. The improvement happened after the treatment, so the treatment appears to be the cause. Yet this is one of the most common forms of false causation in health reasoning. A sequence of events alone cannot establish a cause-and-effect relationship. Many illnesses improve on their own, symptoms often fluctuate, expectations can change how people feel, and other factors may be operating at the same time. As a result, a sincere personal testimony can describe a real recovery while still misidentifying why the recovery occurred. This is why anecdotes about treatments are often starting points for investigation rather than proof of effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelf - NIHby L Irwig · 2008 · Cited by 37 — But we already know the dangers of assuming cause and effect...</span></span></span>
+When someone takes a remedy and then recovers, it is natural to connect the two events. The improvement happened after the treatment, so the treatment appears to be the cause. Yet this is one of the most common forms of false causation in health reasoning. A sequence of events alone cannot establish a cause-and-effect relationship. Many illnesses improve on their own, symptoms often fluctuate, expectations can change how people feel, and other factors may be operating at the same time. As a result, a sincere personal testimony can describe a real recovery while still misidentifying why the recovery occurred. This is why anecdotes about treatments are often starting points for investigation rather than proof of effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelf - NIHby L Irwig · 2008 · Cited by 37 — But we already know the dangers of assuming cause and effect...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1-dark.svg" | relative_url }}" alt="After Treatment illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did the Remedy Cause the Recovery?
@@ -283,7 +283,7 @@ The central logical error is simple: assuming that because recovery followed a t
 
 </div>
 
-Each story may be entirely truthful. The problem is that the story alone cannot distinguish between multiple possible explanations. The treatment might have worked, but the improvement might also have happened for reasons unrelated to the treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+Each story may be entirely truthful. The problem is that the story alone cannot distinguish between multiple possible explanations. The treatment might have worked, but the improvement might also have happened for reasons unrelated to the treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
 This fallacy is especially persuasive because recovery is emotionally significant. A person who suffered and then improved often has a strong incentive to identify a reason for that change. The remedy becomes the most visible candidate because it occurred immediately before the improvement.
 
@@ -291,9 +291,9 @@ This fallacy is especially persuasive because recovery is emotionally significan
 
 The fact that event B followed event A tells us that A happened first. It does not tell us that A caused B.
 
-Consider a common cold. Most people recover within a limited period regardless of whether they use a particular herbal remedy. If someone begins taking the remedy on day six and recovers on day eight, the timing feels persuasive. Yet the recovery may simply reflect the illness reaching its natural end. Without knowing what would have happened in the absence of the remedy, causation remains uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelf - NIHby L Irwig · 2008 · Cited by 37 — But we already know the dangers of assuming cause and effect...</span></span></span>
+Consider a common cold. Most people recover within a limited period regardless of whether they use a particular herbal remedy. If someone begins taking the remedy on day six and recovers on day eight, the timing feels persuasive. Yet the recovery may simply reflect the illness reaching its natural end. Without knowing what would have happened in the absence of the remedy, causation remains uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelf - NIHby L Irwig · 2008 · Cited by 37 — But we already know the dangers of assuming cause and effect...</span></span></span>
 
-The same issue appears with conditions that naturally fluctuate. Pain, allergies, fatigue, skin problems, and many other symptoms often vary from day to day. People frequently seek treatment when symptoms are at their worst. Because extreme episodes are often followed by improvement anyway, any intervention introduced at that point can appear effective even if it contributed little or nothing to the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cureus.com">[Cureus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cureus.com</span><span class="citation-popover-title">408370 the placebo effect in medicine and clinical practice a narrative review</span><span class="citation-popover-snippet">Research should...Read more...</span></span></span>
+The same issue appears with conditions that naturally fluctuate. Pain, allergies, fatigue, skin problems, and many other symptoms often vary from day to day. People frequently seek treatment when symptoms are at their worst. Because extreme episodes are often followed by improvement anyway, any intervention introduced at that point can appear effective even if it contributed little or nothing to the outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cureus.com">[Cureus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cureus.com</span><span class="citation-popover-title">408370 the placebo effect in medicine and clinical practice a narrative review</span><span class="citation-popover-snippet">Research should...Read more...</span></span></span>
 
 A before-and-after story therefore lacks a crucial piece of information: what would have happened without the treatment.
 
@@ -303,7 +303,7 @@ A before-and-after story therefore lacks a crucial piece of information: what wo
 
 Anecdotes typically present only one outcome. They tell us about the person who improved, not the people who did not improve.
 
-This missing comparison matters because many health conditions have substantial rates of spontaneous improvement. If a hundred people recover after taking a remedy, the result sounds impressive. However, if ninety-eight similar people would have recovered without the remedy, the treatment's actual contribution may be very small. Without a comparison group, those possibilities cannot be separated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+This missing comparison matters because many health conditions have substantial rates of spontaneous improvement. If a hundred people recover after taking a remedy, the result sounds impressive. However, if ninety-eight similar people would have recovered without the remedy, the treatment's actual contribution may be very small. Without a comparison group, those possibilities cannot be separated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
 Health researchers therefore rely on controlled studies rather than isolated stories. By comparing treated and untreated groups, they can estimate whether the treatment changes outcomes beyond what would normally occur. The comparison is what allows causal claims to be tested rather than assumed.
 
@@ -313,9 +313,9 @@ A useful thought experiment is to ask: would the same recovery story seem convin
 
 Another reason anecdotes can mislead is that improvement in symptoms is not always the same as improvement in the underlying condition.
 
-Research on placebo effects shows that expectations, care, reassurance, and the treatment [experience]({{ 'experience/' | relative_url }}) itself can influence how people perceive symptoms such as pain, fatigue, anxiety, and nausea. A person may genuinely feel better after receiving an inactive treatment. The improvement is real from the patient's perspective, but it does not necessarily demonstrate that the treatment altered the disease process itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe placebo effect: illness and interpersonal healing</span><span class="citation-popover-snippet">placebo effect: illness and interpersonal healing - PMCby FG Miller · 2009 · Cited by 342 — We suggest the hypothesis that the placebo ef...</span></span></span>
+Research on placebo effects shows that expectations, care, reassurance, and the treatment [experience]({{ 'experience/' | relative_url }}) itself can influence how people perceive symptoms such as pain, fatigue, anxiety, and nausea. A person may genuinely feel better after receiving an inactive treatment. The improvement is real from the patient's perspective, but it does not necessarily demonstrate that the treatment altered the disease process itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe placebo effect: illness and interpersonal healing</span><span class="citation-popover-snippet">placebo effect: illness and interpersonal healing - PMCby FG Miller · 2009 · Cited by 342 — We suggest the hypothesis that the placebo ef...</span></span></span>
 
-For example, placebo effects are often strongest for symptoms influenced by perception and expectation. They can reduce the experience of pain or discomfort without curing the underlying illness. Health authorities and medical researchers therefore distinguish between symptom relief and evidence that a treatment changes the course of a disease. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">the power of the placebo effect</span><span class="citation-popover-snippet">power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</span></span></span>
+For example, placebo effects are often strongest for symptoms influenced by perception and expectation. They can reduce the experience of pain or discomfort without curing the underlying illness. Health authorities and medical researchers therefore distinguish between symptom relief and evidence that a treatment changes the course of a disease.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">the power of the placebo effect</span><span class="citation-popover-snippet">power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</span></span></span>
 
 This distinction is important because a treatment may appear successful in personal testimony even when the apparent success comes largely from symptom changes, natural healing, or both.
 
@@ -336,9 +336,9 @@ The weakness is that such stories usually omit critical information:
 
 </div>
 
-Guides on evaluating health claims repeatedly warn that anecdotal recovery stories can create the illusion of proof while leaving these questions unanswered. A striking testimonial can therefore be evidence that someone recovered, but not evidence that the advertised remedy caused the recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+Guides on evaluating health claims repeatedly warn that anecdotal recovery stories can create the illusion of proof while leaving these questions unanswered. A striking testimonial can therefore be evidence that someone recovered, but not evidence that the advertised remedy caused the recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
-The history of medicine contains many examples of treatments that seemed effective based on enthusiastic personal reports but later failed when tested in controlled trials. The gap between anecdote and rigorous evidence exists precisely because human beings are poor at separating coincidence from causation through observation alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+The history of medicine contains many examples of treatments that seemed effective based on enthusiastic personal reports but later failed when tested in controlled trials. The gap between anecdote and rigorous evidence exists precisely because human beings are poor at separating coincidence from causation through observation alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adq40GTOtXg" title="Are you being misled? How to spot bad nutrition claims using real science | Jessica Knurick | EP#392" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adq40GTOtXg" target="_blank" rel="noopener noreferrer">Are you being misled? How to spot bad nutrition claims using real science | Jessica Knurick | EP#392</a></p><p class="youtube-embed-meta">Channel: The Proof with Simon Hill &middot; Views: 2.3K &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adq40GTOtXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adq40GTOtXg">Open on YouTube</a></p></div></div></div>
 
@@ -348,295 +348,295 @@ When confronted with a personal recovery account, a few questions help determine
 
 ### What would likely have happened without the treatment?
 
-If the condition commonly improves on its own, natural recovery is a serious alternative explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+If the condition commonly improves on its own, natural recovery is a serious alternative explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
 ### Are there comparable cases that did not improve?
 
-A convincing causal claim requires attention to successes and failures, not only the positive examples that get reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+A convincing causal claim requires attention to successes and failures, not only the positive examples that get reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-dark.svg" | relative_url }}" alt="After Treatment illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could symptom changes reflect expectation or placebo effects?
 
-Feeling better can be meaningful and beneficial, but it does not automatically show that the treatment altered the disease mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">the power of the placebo effect</span><span class="citation-popover-snippet">power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</span></span></span>
+Feeling better can be meaningful and beneficial, but it does not automatically show that the treatment altered the disease mechanism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">the power of the placebo effect</span><span class="citation-popover-snippet">power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</span></span></span>
 
 ### Were other factors changing at the same time?
 
-Lifestyle changes, concurrent treatments, rest, diet, social support, and the passage of time can all contribute to recovery. If several factors changed together, identifying a single cause becomes difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cureus.com">[Cureus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cureus.com</span><span class="citation-popover-title">408370 the placebo effect in medicine and clinical practice a narrative review</span><span class="citation-popover-snippet">Research should...Read more...</span></span></span>
+Lifestyle changes, concurrent treatments, rest, diet, social support, and the passage of time can all contribute to recovery. If several factors changed together, identifying a single cause becomes difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cureus.com">[Cureus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cureus.com</span><span class="citation-popover-title">408370 the placebo effect in medicine and clinical practice a narrative review</span><span class="citation-popover-snippet">Research should...Read more...</span></span></span>
 
 ### Is there evidence beyond the anecdote?
 
-The strongest support comes from systematic comparisons that test whether treated groups do better than similar untreated groups. Personal stories may suggest a hypothesis, but broader evidence is needed to establish causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+The strongest support comes from systematic comparisons that test whether treated groups do better than similar untreated groups. Personal stories may suggest a hypothesis, but broader evidence is needed to establish causation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZQLtJmQ4pOA" title="What is anecdotal evidence?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZQLtJmQ4pOA" target="_blank" rel="noopener noreferrer">What is anecdotal evidence?</a></p><p class="youtube-embed-meta">Channel: Rationable &middot; Views: 657 &middot; Uploaded: January 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZQLtJmQ4pOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZQLtJmQ4pOA">Open on YouTube</a></p></div></div></div>
 
 ## The Takeaway
 
-A person who recovers after using a remedy may be describing a genuine experience. The logical mistake arises when that experience is treated as proof that the remedy caused the recovery. Natural healing, symptom fluctuation, placebo effects, concurrent changes, and selective reporting can all create the appearance of effectiveness. The lesson is not that personal experiences are worthless, but that they are incomplete. To know whether a treatment truly caused improvement, we need comparisons that reveal what would have happened otherwise. Anecdotes can point towards a possibility; they cannot, by themselves, establish a cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+A person who recovers after using a remedy may be describing a genuine experience. The logical mistake arises when that experience is treated as proof that the remedy caused the recovery. Natural healing, symptom fluctuation, placebo effects, concurrent changes, and selective reporting can all create the appearance of effectiveness. The lesson is not that personal experiences are worthless, but that they are incomplete. To know whether a treatment truly caused improvement, we need comparisons that reveal what would have happened otherwise. Anecdotes can point towards a possibility; they cannot, by themselves, establish a cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Remedy Cause the Recovery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Remedy Cause the Recovery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly addresses false causal inferences from treatment anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses false causal inferences from treatment anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nWnR1JI7G6gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Simon Singh, Professor Edzard Ernst</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nWnR1JI7G6gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
+</h4>
+<p class="fr-book-author">By Dr. Simon Singh, Professor Edzard Ernst</p>
         
-        <p class="fr-book-desc">Explains placebo effects, regression to the mean, and mistaken causation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains placebo effects, regression to the mean, and mistaken causation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing Treatments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EXTrAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Testing Treatments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing Treatments">Testing Treatments</a>
-        </h4>
-        <p class="fr-book-author">By Imogen Evans, Hazel Thornton et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing Treatments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EXTrAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Testing Treatments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing Treatments">Testing Treatments</a>
+</h4>
+<p class="fr-book-author">By Imogen Evans, Hazel Thornton et al.</p>
         
-        <p class="fr-book-desc">Clarifies why comparisons and trials are needed to establish causation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies why comparisons and trials are needed to establish causation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Covers causal reasoning, scientific testing, and cognitive bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers causal reasoning, scientific testing, and cognitive bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trick or Treatment?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+Treatments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing Treatments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trick or Treatment?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+Treatments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing Treatments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Education Syphilis l&#x27;Hecatombe Disease Vintage Poster Repro FREE S/H"><img src="{{ '/assets/images/marketplace-covers/4288857070c24e1db6cb.jpg' | relative_url }}" alt="Listing image for Medical Education Syphilis l&#x27;Hecatombe Disease Vintage Poster Repro FREE S/H" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Medical Education Syphilis l&#x27;Hecatombe Disease Vintage Poster Repro FREE S/H</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Education Syphilis l&#x27;Hecatombe Disease Vintage Poster Repro FREE S/H"><img src="{{ '/assets/images/marketplace-covers/4288857070c24e1db6cb.jpg' | relative_url }}" alt="Listing image for Medical Education Syphilis l&#x27;Hecatombe Disease Vintage Poster Repro FREE S/H" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Medical Education Syphilis l&#x27;Hecatombe Disease Vintage Poster Repro FREE S/H</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Anatomical Chart Medical Education Study Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/cc574e6e57e5279be6db.jpg' | relative_url }}" alt="Listing image for Human Muscular System Anatomical Chart Medical Education Study Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Anatomical Chart Medical Education Study Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Anatomical Chart Medical Education Study Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/cc574e6e57e5279be6db.jpg' | relative_url }}" alt="Listing image for Human Muscular System Anatomical Chart Medical Education Study Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Anatomical Chart Medical Education Study Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Anatomy Side View Medical Education Science Chart Poster"><img src="{{ '/assets/images/marketplace-covers/9b1b95c18137b8ca2b49.jpg' | relative_url }}" alt="Listing image for Human Muscular System Anatomy Side View Medical Education Science Chart Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Anatomy Side View Medical Education Science Chart Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Anatomy Side View Medical Education Science Chart Poster"><img src="{{ '/assets/images/marketplace-covers/9b1b95c18137b8ca2b49.jpg' | relative_url }}" alt="Listing image for Human Muscular System Anatomy Side View Medical Education Science Chart Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Anatomy Side View Medical Education Science Chart Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK - Medical Education Chart Skeletal System Human Body Brain Physiology Poster"><img src="{{ '/assets/images/marketplace-covers/86ed451bcde20ce35f9a.jpg' | relative_url }}" alt="Listing image for UK - Medical Education Chart Skeletal System Human Body Brain Physiology Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UK - Medical Education Chart Skeletal System Human Body Brain Physiology Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK - Medical Education Chart Skeletal System Human Body Brain Physiology Poster"><img src="{{ '/assets/images/marketplace-covers/86ed451bcde20ce35f9a.jpg' | relative_url }}" alt="Listing image for UK - Medical Education Chart Skeletal System Human Body Brain Physiology Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UK - Medical Education Chart Skeletal System Human Body Brain Physiology Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+education+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-treatment-did-the-remedy-cause-the-recovery-logical-fallacies-medical-education-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -652,7 +652,7 @@ A person who recovers after using a remedy may be describing a genuine experienc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -672,7 +672,7 @@ A person who recovers after using a remedy may be describing a genuine experienc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -704,7 +704,7 @@ A person who recovers after using a remedy may be describing a genuine experienc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -734,7 +734,7 @@ A person who recovers after using a remedy may be describing a genuine experienc
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -792,117 +792,117 @@ A person who recovers after using a remedy may be describing a genuine experienc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBad evidence  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63649/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Health Choices - NCBI Bookshelf - NIHby L Irwig · 2008 · Cited by 37 — But we already know the dangers of assuming cause and effect...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63649/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Health Choices - NCBI Bookshelf - NIHby L Irwig · 2008 · Cited by 37 — But we already know the dangers of assuming cause and effect...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBe sceptical  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63648/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63648/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cureus.com  
    Title: 408370 the placebo effect in medicine and clinical practice a narrative review  
-   Link: <a href="https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research should...Read more...</p></details>
+   Link:<a href="https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research should...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nccih.nih.gov  
    Title: NCCIHPlacebo Effect | NCCIH  
-   Link: <a href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/placebo-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/placebo-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe placebo effect: illness and interpersonal healing  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>placebo effect: illness and interpersonal healing - PMCby FG Miller · 2009 · Cited by 342 — We suggest the hypothesis that the placebo ef...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>placebo effect: illness and interpersonal healing - PMCby FG Miller · 2009 · Cited by 342 — We suggest the hypothesis that the placebo ef...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: health.harvard.edu  
    Title: the power of the placebo effect  
-   Link: <a href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</p></details>
+   Link:<a href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Signaling Theory of Symptoms: An Evolutionary  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10480909/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10480909/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Steinkopf · 2015 · Cited by 65 — However, this phenomenon, known as the placebo effect, does not usually cure the disease, but ra...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10480909/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10480909/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Steinkopf · 2015 · Cited by 65 — However, this phenomenon, known as the placebo effect, does not usually cure the disease, but ra...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cancer.gov  
    Title: Complementary and Alternative Medicine (CAM)  
-   Link: <a href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/about-cancer/treatment/cam</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCI31 Oct 2024 — Modest pain improvements were seen, although a placebo effect could not be ruled out. These are healing systems and beli...</p></details>
+   Link:<a href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/about-cancer/treatment/cam</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCI31 Oct 2024 — Modest pain improvements were seen, although a placebo effect could not be ruled out. These are healing systems and beli...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We conduct and support research and provide information about complementary health products and practices in the [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) of whole person...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We conduct and support research and provide information about complementary health products and practices in the [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) of whole person...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: courses.lumenlearning.com  
    Title: placebo effect  
-   Link: <a href="https://courses.lumenlearning.com/suny-hvcc-healthpsychology/chapter/placebo-effect/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-hvcc-healthpsychology/chapter/placebo-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effect | Health PsychologyThe placebo effect is the concept that patients will perceive an improvement after being treated with an inert...</p></details>
+   Link:<a href="https://courses.lumenlearning.com/suny-hvcc-healthpsychology/chapter/placebo-effect/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-hvcc-healthpsychology/chapter/placebo-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effect | Health PsychologyThe placebo effect is the concept that patients will perceive an improvement after being treated with an inert...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: recoverytrial.net  
-   Link: <a href="https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No clinical benefit from use of hydroxychloroquine in...5 Jun 2020 — The RECOVERY Trial has shown that hydroxychloroquine is not an effe...</p></details>
+   Link:<a href="https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No clinical benefit from use of hydroxychloroquine in...5 Jun 2020 — The RECOVERY Trial has shown that hydroxychloroquine is not an effe...</p></details>
    Published: june 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: clinicaltrials.gov  
-   Link: <a href="https://clinicaltrials.gov/study/NCT01878019" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT01878019</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naloxone is used to treat overdoses of painkilling drugs like morphine. It may be able...Read more...</p></details>
+   Link:<a href="https://clinicaltrials.gov/study/NCT01878019" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT01878019</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naloxone is used to treat overdoses of painkilling drugs like morphine. It may be able...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: clinicaltrials.gov  
-   Link: <a href="https://clinicaltrials.gov/study/NCT00065715" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT00065715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ical trial to gain access to a medical product that has not been approved...Read more...</p></details>
+   Link:<a href="https://clinicaltrials.gov/study/NCT00065715" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT00065715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ical trial to gain access to a medical product that has not been approved...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 375016737 Placebo Effects Through the Lens of Translational Research  
-   Link: <a href="https://www.researchgate.net/publication/375016737_Placebo_Effects_Through_the_Lens_of_Translational_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375016737_Placebo_Effects_Through_the_Lens_of_Translational_Research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Placebo Effects Through the Lens of Translational Research27 Oct 2023 — This book sheds light on the translation of current mechanistic r...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/375016737_Placebo_Effects_Through_the_Lens_of_Translational_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375016737_Placebo_Effects_Through_the_Lens_of_Translational_Research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Placebo Effects Through the Lens of Translational Research27 Oct 2023 — This book sheds light on the translation of current mechanistic r...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jstor.org  
    Title: Clinical theories of placebo effects. Clinical theories of placebo  
-   Link: <a href="https://www.jstor.org/stable/27238634" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/27238634</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Placebos in chronic pain: evidence, theory, ethics, and use...by TJ Kaptchuk · 2020 · Cited by 220 — Specifically focused on chronic pai...</p></details>
+   Link:<a href="https://www.jstor.org/stable/27238634" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/27238634</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Placebos in chronic pain: evidence, theory, ethics, and use...by TJ Kaptchuk · 2020 · Cited by 220 — Specifically focused on chronic pai...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: informedhealthchoices.org  
-   Link: <a href="https://informedhealthchoices.org/wp-content/uploads/2022/11/KeyConceptPoster1.3_SecondarySchoolHealth_EN_forDownload.pdf" target="_blank" rel="noopener noreferrer nofollow">https://informedhealthchoices.org/wp-content/uploads/2022/11/KeyConceptPoster1.3_SecondarySchoolHealth_EN_forDownload.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Often this is because the reason (the basis) for the claim is not trustworthy. You should...Read more...</p></details>
+   Link:<a href="https://informedhealthchoices.org/wp-content/uploads/2022/11/KeyConceptPoster1.3_SecondarySchoolHealth_EN_forDownload.pdf" target="_blank" rel="noopener noreferrer nofollow">https://informedhealthchoices.org/wp-content/uploads/2022/11/KeyConceptPoster1.3_SecondarySchoolHealth_EN_forDownload.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Often this is because the reason (the basis) for the claim is not trustworthy. You should...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6013051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6013051/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>neuroscience of placebo effects: connecting context...by TD Wager · 2015 · Cited by 1076 — For some, the presence of a placebo effect su...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6013051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6013051/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>neuroscience of placebo effects: connecting context...by TD Wager · 2015 · Cited by 1076 — For some, the presence of a placebo effect su...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: avma.org.uk  
    Title: Thana et al 2025 Aftermath of health related harm qual study  
-   Link: <a href="https://www.avma.org.uk/wp-content/uploads/Thana-et-al-2025-Aftermath-of-health-related-harm-qual-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.avma.org.uk/wp-content/uploads/Thana-et-al-2025-Aftermath-of-health-related-harm-qual-study.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What do people do in the aftermath of healthcare-related harm...by L Thana · 2025 · Cited by 1 — This study aims to explore the experien...</p></details>
+   Link:<a href="https://www.avma.org.uk/wp-content/uploads/Thana-et-al-2025-Aftermath-of-health-related-harm-qual-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.avma.org.uk/wp-content/uploads/Thana-et-al-2025-Aftermath-of-health-related-harm-qual-study.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do people do in the aftermath of healthcare-related harm...by L Thana · 2025 · Cited by 1 — This study aims to explore the experien...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: chiro.org  
-   Link: <a href="https://chiro.org/research/ABSTRACTS/Implications_of_Placebo_and_Nocebo.shtml" target="_blank" rel="noopener noreferrer nofollow">https://chiro.org/research/ABSTRACTS/Implications_of_Placebo_and_Nocebo.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cts should lead to better treatment outcomes with fewer side effects.Read more...</p></details>
+   Link:<a href="https://chiro.org/research/ABSTRACTS/Implications_of_Placebo_and_Nocebo.shtml" target="_blank" rel="noopener noreferrer nofollow">https://chiro.org/research/ABSTRACTS/Implications_of_Placebo_and_Nocebo.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cts should lead to better treatment outcomes with fewer side effects.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/325725713_Implications_of_Placebo_and_Nocebo_Effects_for_Clinical_Practice_Expert_Consensus" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325725713_Implications_of_Placebo_and_Nocebo_Effects_for_Clinical_Practice_Expert_Consensus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cts should lead to better treatment outcomes with fewer side effects.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/325725713_Implications_of_Placebo_and_Nocebo_Effects_for_Clinical_Practice_Expert_Consensus" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325725713_Implications_of_Placebo_and_Nocebo_Effects_for_Clinical_Practice_Expert_Consensus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cts should lead to better treatment outcomes with fewer side effects.Read more...</p></details>

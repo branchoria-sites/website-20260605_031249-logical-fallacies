@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link
 
 ## Introduction
 
-Weak-link checks are the diagnostic stage of argument mapping. Once an argument has been broken into premises, conclusions, assumptions, objections and inference links, the next question is simple: which specific part fails? Rather than treating an argument as entirely sound or entirely flawed, a weak-link test examines each component separately. The method helps identify whether a problem lies in a doubtful premise, an unsupported inference, a hidden assumption, or an ineffective objection. This is one of the main advantages of argument mapping: it turns a vague sense that “something is wrong” into a precise diagnosis. Argument-mapping frameworks are designed to expose claims, support relationships, objections and implicit [warrants]({{ 'warrants/' | relative_url }}) so that each element can be evaluated independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">Argument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</span></span></span>
+Weak-link checks are the diagnostic stage of argument mapping. Once an argument has been broken into premises, conclusions, assumptions, objections and inference links, the next question is simple: which specific part fails? Rather than treating an argument as entirely sound or entirely flawed, a weak-link test examines each component separately. The method helps identify whether a problem lies in a doubtful premise, an unsupported inference, a hidden assumption, or an ineffective objection. This is one of the main advantages of argument mapping: it turns a vague sense that “something is wrong” into a precise diagnosis. Argument-mapping frameworks are designed to expose claims, support relationships, objections and implicit [warrants]({{ 'warrants/' | relative_url }}) so that each element can be evaluated independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">Argument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-dark.svg" | relative_url }}" alt="Weak Link Checks illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Which Part of the Argument Actually Fails?
@@ -283,7 +283,7 @@ Weak-link testing avoids this confusion by isolating components. The argument is
 4. Have objections genuinely weakened the argument?
 5. Do qualifiers and [exceptions]({{ 'exceptions/' | relative_url }}) change the strength of the conclusion?
 
-Because argument maps visually separate these elements, weaknesses become easier to locate than they are in ordinary prose. Researchers and critical-thinking educators consistently describe argument maps as tools for evaluating support relations rather than merely listing claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">improving critical thinking through argument mapping</span><span class="citation-popover-snippet">9 Nov 2018 — To clarify, an argument map is a visual representation of a logically structured network of reasoning, in which the argument...</span></span></span>
+Because argument maps visually separate these elements, weaknesses become easier to locate than they are in ordinary prose. Researchers and critical-thinking educators consistently describe argument maps as tools for evaluating support relations rather than merely listing claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">improving critical thinking through argument mapping</span><span class="citation-popover-snippet">9 Nov 2018 — To clarify, an argument map is a visual representation of a logically structured network of reasoning, in which the argument...</span></span></span>
 
 ## Checking Premises
 
@@ -316,7 +316,7 @@ Argument-mapping practice also emphasises [linked premises]({{ 'linked-premises/
 
 </div>
 
-Neither premise independently establishes the conclusion. Weakening either premise damages the whole inference. Mapping makes these dependencies visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
+Neither premise independently establishes the conclusion. Weakening either premise damages the whole inference. Mapping makes these dependencies visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W91qk_3NiVE" title="Arguments and Claims Mini Lesson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W91qk_3NiVE" target="_blank" rel="noopener noreferrer">Arguments and Claims Mini Lesson</a></p><p class="youtube-embed-meta">Channel: Teaching Intentionally &middot; Views: 63.4K &middot; Uploaded: November 2021 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W91qk_3NiVE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W91qk_3NiVE">Open on YouTube</a></p></div></div></div>
 
@@ -330,13 +330,13 @@ For example:
 
 The visible premise is about success elsewhere. The hidden premise is that the relevant conditions are sufficiently similar. If that assumption is weak, the argument's weakness lies there rather than in the explicit premise.
 
-Studies of argument comprehension and warrant reconstruction highlight that natural-language arguments often depend on implicit warrants—unstated propositions that explain why a premise supports a conclusion. Reconstructing these warrants is therefore a crucial weak-link test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
+Studies of argument comprehension and warrant reconstruction highlight that natural-language arguments often depend on implicit warrants—unstated propositions that explain why a premise supports a conclusion. Reconstructing these warrants is therefore a crucial weak-link test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
 
 ## Checking Inferences
 
 A premise may be true and yet fail to justify the conclusion. In such cases the weak link is the inference itself.
 
-Argument-mapping traditions increasingly distinguish objections to premises from objections to inference links. Some mapping systems even allow inference boxes so that the connection between reason and conclusion can be evaluated directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">its constituent claims, and use lines, boxes...</span></span></span>
+Argument-mapping traditions increasingly distinguish objections to premises from objections to inference links. Some mapping systems even allow inference boxes so that the connection between reason and conclusion can be evaluated directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">its constituent claims, and use lines, boxes...</span></span></span>
 
 ### Does the Conclusion Go Beyond the Evidence?
 
@@ -380,7 +380,7 @@ Even granting the premise completely, the conclusion does not follow. The weak l
 
 ## Checking Objections and Qualifiers
 
-Arguments rarely consist only of reasons supporting a conclusion. Strong maps also include objections, rebuttals and qualifications. These components require their own weak-link checks. Argument-mapping systems commonly represent objections and counterarguments explicitly because evaluating opposition is part of evaluating the overall argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deakin.edu.au">[Deakin University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deakin.edu.au</span><span class="citation-popover-snippet">Deakin UniversityArgument mappingObjections to claims (or &#x27;counterarguments&#x27;) can be mapped, and so can rebuttals of those objections. Fi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
+Arguments rarely consist only of reasons supporting a conclusion. Strong maps also include objections, rebuttals and qualifications. These components require their own weak-link checks. Argument-mapping systems commonly represent objections and counterarguments explicitly because evaluating opposition is part of evaluating the overall argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deakin.edu.au">[Deakin University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deakin.edu.au</span><span class="citation-popover-snippet">Deakin UniversityArgument mappingObjections to claims (or &#x27;counterarguments&#x27;) can be mapped, and so can rebuttals of those objections. Fi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
 ### Is the Objection Relevant?
 
@@ -460,272 +460,272 @@ This approach often reveals that the decisive weakness is not where readers firs
 
 ## Why Weak-Link Testing Matters
 
-Weak-link checks transform argument mapping from a descriptive exercise into a critical one. A map alone only displays structure. The real analytical value comes from testing each component independently and determining exactly where support breaks down. By separating premises, inferences, assumptions and objections, the method reduces the temptation to dismiss an argument wholesale or to rely on superficial [fallacy labels]({{ 'labels/' | relative_url }}). Instead, it answers a more useful question: which part of the reasoning actually fails, and why? Reasoninglab <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">improving critical thinking through argument mapping</span><span class="citation-popover-snippet">9 Nov 2018 — To clarify, an argument map is a visual representation of a logically structured network of reasoning, in which the argument...</span></span></span>
+Weak-link checks transform argument mapping from a descriptive exercise into a critical one. A map alone only displays structure. The real analytical value comes from testing each component independently and determining exactly where support breaks down. By separating premises, inferences, assumptions and objections, the method reduces the temptation to dismiss an argument wholesale or to rely on superficial [fallacy labels]({{ 'labels/' | relative_url }}). Instead, it answers a more useful question: which part of the reasoning actually fails, and why? Reasoninglab<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">improving critical thinking through argument mapping</span><span class="citation-popover-snippet">9 Nov 2018 — To clarify, an argument map is a visual representation of a logically structured network of reasoning, in which the argument...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Part of the Argument Actually Fails?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Part of the Argument Actually Fails?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Directly teaches systematic testing of premises and conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches systematic testing of premises and conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Excellent for identifying where reasoning breaks down.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent for identifying where reasoning breaks down.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Covers evaluation of evidence, assumptions and inferences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evaluation of evidence, assumptions and inferences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Helps spot common weaknesses and fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps spot common weaknesses and fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute"><img src="{{ '/assets/images/marketplace-covers/ad6c4b74500ad50c17b8.jpg' | relative_url }}" alt="Listing image for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute"><img src="{{ '/assets/images/marketplace-covers/ad6c4b74500ad50c17b8.jpg' | relative_url }}" alt="Listing image for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search<span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins"><img src="{{ '/assets/images/marketplace-covers/71990c9e6568ae5b18fa.jpg' | relative_url }}" alt="Listing image for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins"><img src="{{ '/assets/images/marketplace-covers/71990c9e6568ae5b18fa.jpg' | relative_url }}" alt="Listing image for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search<span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/4fc5e581271c41a95934.jpg' | relative_url }}" alt="Listing image for THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/4fc5e581271c41a95934.jpg' | relative_url }}" alt="Listing image for THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search<span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Enamel Pin PN1092"><img src="{{ '/assets/images/marketplace-covers/97901c89359640d087c2.jpg' | relative_url }}" alt="Listing image for Thinking Enamel Pin PN1092" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Enamel Pin PN1092</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Enamel Pin PN1092"><img src="{{ '/assets/images/marketplace-covers/97901c89359640d087c2.jpg' | relative_url }}" alt="Listing image for Thinking Enamel Pin PN1092" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Enamel Pin PN1092</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search<span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-link-checks-which-part-of-the-argument-actually-fails-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -741,7 +741,7 @@ Weak-link checks transform argument mapping from a descriptive exercise into a c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -761,7 +761,7 @@ Weak-link checks transform argument mapping from a descriptive exercise into a c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -793,7 +793,7 @@ Weak-link checks transform argument mapping from a descriptive exercise into a c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -823,7 +823,7 @@ Weak-link checks transform argument mapping from a descriptive exercise into a c
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -881,127 +881,127 @@ Weak-link checks transform argument mapping from a descriptive exercise into a c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Argument map  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/argument-mapping/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</p></details>
+   Link:<a href="https://www.reasoninglab.com/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/argument-mapping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>its constituent claims, and use lines, boxes...</p></details>
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>its constituent claims, and use lines, boxes...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</p></details>
    Published: August 4, 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/What-is-a-good-Argument-Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/What-is-a-good-Argument-Map.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a good Argument Map?An inference objection is a rebuttal that shows that the objection above it, regardless of whethe...</p></details>
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/What-is-a-good-Argument-Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/What-is-a-good-Argument-Map.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a good Argument Map?An inference objection is a rebuttal that shows that the objection above it, regardless of whethe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Mapping-at-Work-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Mapping-at-Work-2013.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping at WorkWhat is Argument Mapping? Argument mapping is a way of laying out visually reasoning and evidence for and against...</p></details>
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Mapping-at-Work-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Mapping-at-Work-2013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping at WorkWhat is Argument Mapping? Argument mapping is a way of laying out visually reasoning and evidence for and against...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reasoninglab.com  
    Title: Argument Mapping Start at the top and working down in levels  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingStart at the top and working down in levels - add evidence to support (reasons – green) or oppose (objections – red) any...</p></details>
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingStart at the top and working down in levels - add evidence to support (reasons – green) or oppose (objections – red) any...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: psychologytoday.com  
    Title: improving critical thinking through argument mapping  
-   Link: <a href="https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Nov 2018 — To clarify, an argument map is a visual representation of a logically structured network of reasoning, in which the argument...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Nov 2018 — To clarify, an argument map is a visual representation of a logically structured network of reasoning, in which the argument...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: deakin.edu.au  
-   Link: <a href="https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deakin UniversityArgument mappingObjections to claims (or &#x27;counterarguments&#x27;) can be mapped, and so can rebuttals of those objections. Fi...</p></details>
+   Link:<a href="https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deakin UniversityArgument mappingObjections to claims (or &#x27;counterarguments&#x27;) can be mapped, and so can rebuttals of those objections. Fi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: drcharlesmrusso.substack.com  
    Title: argument mapping  
-   Link: <a href="https://drcharlesmrusso.substack.com/p/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/argument-mapping</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping - by Dr. Charles M. Russo, PhDPre/post rubrics can track clarity, balance of support/objection, explicitness of assumptions, and...</p></details>
+   Link:<a href="https://drcharlesmrusso.substack.com/p/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/argument-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping - by Dr. Charles M. Russo, PhDPre/post rubrics can track clarity, balance of support/objection, explicitness of assumptions, and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ddd.uab.cat  
    Title: cat Argument map  
-   Link: <a href="https://ddd.uab.cat/pub/expbib/2009/34875/oratoria09/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://ddd.uab.cat/pub/expbib/2009/34875/oratoria09/Argument_map</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>map - Wikipedia, the free encyclopedia5 Jul 2016 — Critical thinking concepts: In learning to argument map, students master such key crit...</p></details>
+   Link:<a href="https://ddd.uab.cat/pub/expbib/2009/34875/oratoria09/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://ddd.uab.cat/pub/expbib/2009/34875/oratoria09/Argument_map</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>map - Wikipedia, the free encyclopedia5 Jul 2016 — Critical thinking concepts: In learning to argument map, students master such key crit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: figma.com  
-   Link: <a href="https://www.figma.com/templates/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.figma.com/templates/argument-mapping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping | Free Template | FigJamAn argument map is a box-and-line flowchart that helps you develop any argument. These maps star...</p></details>
+   Link:<a href="https://www.figma.com/templates/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.figma.com/templates/argument-mapping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping | Free Template | FigJamAn argument map is a box-and-line flowchart that helps you develop any argument. These maps star...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mindonmap.com  
    Title: argument mapping  
-   Link: <a href="https://www.mindonmap.com/blog/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindonmap.com/blog/argument-mapping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, this map reveals the argument&#x27;s unseen composition, displaying how to lift the support claim.Read more...</p></details>
+   Link:<a href="https://www.mindonmap.com/blog/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindonmap.com/blog/argument-mapping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, this map reveals the argument&#x27;s unseen composition, displaying how to lift the support claim.Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.ac.uk  
-   Link: <a href="https://www.open.ac.uk/blogs/rrimap/index.php/4-argument-map/" target="_blank" rel="noopener noreferrer nofollow">https://www.open.ac.uk/blogs/rrimap/index.php/4-argument-map/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A4 argument map – Knowledge CartographyArgument mapping is a technique to develop evidence-based thinking using arguments and counterargu...</p></details>
+   Link:<a href="https://www.open.ac.uk/blogs/rrimap/index.php/4-argument-map/" target="_blank" rel="noopener noreferrer nofollow">https://www.open.ac.uk/blogs/rrimap/index.php/4-argument-map/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A4 argument map – Knowledge CartographyArgument mapping is a technique to develop evidence-based thinking using arguments and counterargu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228188551_Visualization_Tools_Argumentation_Schemes_and_Expert_Opinion_Evidence_in_Law" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228188551_Visualization_Tools_Argumentation_Schemes_and_Expert_Opinion_Evidence_in_Law</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Visualization Tools, Argumentation Schemes and...9 Feb 2026 — The visualization of argumentation schemes is illustrated using a ne...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228188551_Visualization_Tools_Argumentation_Schemes_and_Expert_Opinion_Evidence_in_Law" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228188551_Visualization_Tools_Argumentation_Schemes_and_Expert_Opinion_Evidence_in_Law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Visualization Tools, Argumentation Schemes and...9 Feb 2026 — The visualization of argumentation schemes is illustrated using a ne...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument maps; An argument map is a two-dimensional representation of argument structure. It is. usually a box-and-...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument maps; An argument map is a two-dimensional representation of argument structure. It is. usually a box-and-...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W91qk_3NiVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W91qk_3NiVE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments and Claims Mini LessonHere&#x27;s a quick video to help you how to break down an author&#x27;s argument and identify their claim. This vi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W91qk_3NiVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W91qk_3NiVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments and Claims Mini LessonHere&#x27;s a quick video to help you how to break down an author&#x27;s argument and identify their claim. This vi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: oddrops.blog  
    Title: It is aimed largely at education and is intended to help teach  
-   Link: <a href="https://oddrops.blog/2015/09/24/argument-mapping-with-rationale/" target="_blank" rel="noopener noreferrer nofollow">https://oddrops.blog/2015/09/24/argument-mapping-with-rationale/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping with Rationale | oddrops24 Sept 2015 — It is a web-based tool for diagramming the structure of an argument: building an...</p></details>
+   Link:<a href="https://oddrops.blog/2015/09/24/argument-mapping-with-rationale/" target="_blank" rel="noopener noreferrer nofollow">https://oddrops.blog/2015/09/24/argument-mapping-with-rationale/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping with Rationale | oddrops24 Sept 2015 — It is a web-based tool for diagramming the structure of an argument: building an...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33664324</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>can be used to display objections to the logic of reasoning rather than the...Read more...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33664324</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>can be used to display objections to the logic of reasoning rather than the...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gsis.scholasticahq.com  
    Title: 125995 argument mapping in intelligence analysis  
-   Link: <a href="https://gsis.scholasticahq.com/article/125995-argument-mapping-in-intelligence-analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gsis.scholasticahq.com/article/125995-argument-mapping-in-intelligence-analysis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping in Intelligence Analysisby L Johansson — One way to systemize critical, logical thinking is by using a technique or method called...</p></details>
+   Link:<a href="https://gsis.scholasticahq.com/article/125995-argument-mapping-in-intelligence-analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gsis.scholasticahq.com/article/125995-argument-mapping-in-intelligence-analysis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping in Intelligence Analysisby L Johansson — One way to systemize critical, logical thinking is by using a technique or method called...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/A-simple-Rationale-reasoning-map-illustrating-how-pre-attentive-processing-can-help_fig2_236017238" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-simple-Rationale-reasoning-map-illustrating-how-pre-attentive-processing-can-help_fig2_236017238</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A simple Rationale reasoning map, illustrating how pre-...Software-supported argument mapping may be able to help lawyers reason and arg...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/A-simple-Rationale-reasoning-map-illustrating-how-pre-attentive-processing-can-help_fig2_236017238" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-simple-Rationale-reasoning-map-illustrating-how-pre-attentive-processing-can-help_fig2_236017238</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A simple Rationale reasoning map, illustrating how pre-...Software-supported argument mapping may be able to help lawyers reason and arg...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=95869&amp;section=2.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=95869&amp;section=2.2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital thinking tools for better decision making: Session 4This is a diagram that displays the claims you have collected so far and the...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=95869&amp;section=2.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=95869&amp;section=2.2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital thinking tools for better decision making: Session 4This is a diagram that displays the claims you have collected so far and the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rationaleonline.com  
-   Link: <a href="https://rationaleonline.com/docs/en/rationale-help/quick-start" target="_blank" rel="noopener noreferrer nofollow">https://rationaleonline.com/docs/en/rationale-help/quick-start</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>xes); Show evaluation of claims through colour and icons (...</p></details>
+   Link:<a href="https://rationaleonline.com/docs/en/rationale-help/quick-start" target="_blank" rel="noopener noreferrer nofollow">https://rationaleonline.com/docs/en/rationale-help/quick-start</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>xes); Show evaluation of claims through colour and icons (...</p></details>

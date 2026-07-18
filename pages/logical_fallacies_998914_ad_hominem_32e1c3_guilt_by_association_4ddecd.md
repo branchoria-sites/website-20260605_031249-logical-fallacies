@@ -267,16 +267,16 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_associ
 
 ## Introduction
 
-Guilt by association is a form of ad hominem reasoning in which a claim, person or argument is judged primarily through a social connection rather than through its evidence. The central mistake is simple: instead of asking whether an argument is true, people ask whether someone connected to it is disliked, controversial or disreputable. When that substitution occurs, social judgement replaces logical evaluation. Philosophers and argumentation scholars commonly classify guilt by association as a variety of ad hominem attack because it shifts attention from the merits of a claim to the company kept by the person advancing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</span></span></span>
+Guilt by association is a form of ad hominem reasoning in which a claim, person or argument is judged primarily through a social connection rather than through its evidence. The central mistake is simple: instead of asking whether an argument is true, people ask whether someone connected to it is disliked, controversial or disreputable. When that substitution occurs, social judgement replaces logical evaluation. Philosophers and argumentation scholars commonly classify guilt by association as a variety of ad hominem attack because it shifts attention from the merits of a claim to the company kept by the person advancing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-dark.svg" | relative_url }}" alt="Association illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This fallacy is especially persuasive because humans naturally use associations as shortcuts. If a disliked group supports an idea, many people feel suspicious of the idea itself. Yet the truth of a proposition does not change according to who else happens to agree with it. A weak social link may justify further investigation, but it cannot by itself establish that an argument is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span>
+This fallacy is especially persuasive because humans naturally use associations as shortcuts. If a disliked group supports an idea, many people feel suspicious of the idea itself. Yet the truth of a proposition does not change according to who else happens to agree with it. A weak social link may justify further investigation, but it cannot by itself establish that an argument is wrong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span>
 
 ## Strong links versus weak links
 
 The key question is not whether an association exists, but whether it is relevant.
 
-A strong link provides information that genuinely bears on the reliability of a claim. For example, if a witness has a documented history of dishonesty, that fact may affect how their testimony is assessed. Likewise, a financial relationship may be relevant when evaluating potential conflicts of interest. In such cases, the connection helps assess evidence rather than replacing it. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have long noted that personal circumstances can sometimes be legitimately relevant to argument evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</span></span></span>
+A strong link provides information that genuinely bears on the reliability of a claim. For example, if a witness has a documented history of dishonesty, that fact may affect how their testimony is assessed. Likewise, a financial relationship may be relevant when evaluating potential conflicts of interest. In such cases, the connection helps assess evidence rather than replacing it. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have long noted that personal circumstances can sometimes be legitimately relevant to argument evaluation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</span></span></span> Encyclopedia of Philosophy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</span></span></span>
 
 A weak link, by contrast, relies on little more than proximity, overlap or coincidence. Consider the pattern:
 
@@ -288,9 +288,9 @@ A weak link, by contrast, relies on little more than proximity, overlap or coinc
 
 </div>
 
-The conclusion does not follow. Different people often arrive at the same conclusion for different reasons. Agreement on one issue does not establish agreement on others, nor does it transfer moral or intellectual characteristics from one party to another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLGuilt by Association Fallacy</span><span class="citation-popover-snippet">Excelsior OWLGuilt by Association Fallacy - Excelsior OWLA guilt by association fallacy occurs when someone connects an opponent to a dem...</span></span></span>
+The conclusion does not follow. Different people often arrive at the same conclusion for different reasons. Agreement on one issue does not establish agreement on others, nor does it transfer moral or intellectual characteristics from one party to another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLGuilt by Association Fallacy</span><span class="citation-popover-snippet">Excelsior OWLGuilt by Association Fallacy - Excelsior OWLA guilt by association fallacy occurs when someone connects an opponent to a dem...</span></span></span>
 
-The weakness becomes clearer when reversed. A respected scientist and a conspiracy theorist might both believe that exercise improves health. The fact that the conspiracy theorist agrees does not make the health claim false. Evidence remains evidence regardless of who else accepts it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</span></span></span>
+The weakness becomes clearer when reversed. A respected scientist and a conspiracy theorist might both believe that exercise improves health. The fact that the conspiracy theorist agrees does not make the health claim false. Evidence remains evidence regardless of who else accepts it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MZ7ZQigbPUE" title="What is the Fallacy of Association? (Definition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MZ7ZQigbPUE" target="_blank" rel="noopener noreferrer">What is the Fallacy of Association? (Definition)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 4.5K &middot; Uploaded: December 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MZ7ZQigbPUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MZ7ZQigbPUE">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +298,7 @@ The weakness becomes clearer when reversed. A respected scientist and a conspira
 
 Guilt by association works because it exploits emotional reactions that are often stronger than analytical reasoning.
 
-When audiences hear the name of a disliked organisation, political movement or public figure, existing feelings can be transferred to the target of the argument. Propaganda researchers have long described this process as a transfer mechanism: the emotional reputation of one thing is attached to another, encouraging acceptance or rejection without careful evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College
+When audiences hear the name of a disliked organisation, political movement or public figure, existing feelings can be transferred to the target of the argument. Propaganda researchers have long described this process as a transfer mechanism: the emotional reputation of one thing is attached to another, encouraging acceptance or rejection without careful evaluation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College
 
 Several psychological tendencies reinforce the effect:
 
@@ -311,18 +311,18 @@ Several psychological tendencies reinforce the effect:
 
 </div>
 
-Because these shortcuts operate quickly, audiences may never reach the stage of evaluating the underlying reasons. The association itself becomes the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophybytheway.blogspot.com">[Philosophy by the Way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophybytheway.blogspot.com</span><span class="citation-popover-title">guilt by association</span><span class="citation-popover-snippet">Sep 29, 2025 — Guilt by association is a kind of heuristic, or mental shortcut, that people use to decide which companies share their val...</span></span></span>
+Because these shortcuts operate quickly, audiences may never reach the stage of evaluating the underlying reasons. The association itself becomes the argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophybytheway.blogspot.com">[Philosophy by the Way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophybytheway.blogspot.com</span><span class="citation-popover-title">guilt by association</span><span class="citation-popover-snippet">Sep 29, 2025 — Guilt by association is a kind of heuristic, or mental shortcut, that people use to decide which companies share their val...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-dark.svg" | relative_url }}" alt="Association illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When association becomes a substitute for evidence
 
 The fallacy often appears in political and cultural disputes because controversial associations are easy to communicate.
 
-A speaker may suggest that a proposal is dangerous because extremists once supported something similar. Alternatively, an opponent may highlight a person's past acquaintance, endorsement or organisational membership and imply that their current argument can therefore be ignored. The audience is encouraged to infer guilt, unreliability or error from the connection itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Association fallacy</span><span class="citation-popover-snippet">Association fallacy</span></span></span>
+A speaker may suggest that a proposal is dangerous because extremists once supported something similar. Alternatively, an opponent may highlight a person's past acquaintance, endorsement or organisational membership and imply that their current argument can therefore be ignored. The audience is encouraged to infer guilt, unreliability or error from the connection itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Association fallacy</span><span class="citation-popover-snippet">Association fallacy</span></span></span>
 
-One reason this tactic is effective is that many real-world associations are complex. People attend the same events, work in the same institutions, share partial beliefs or cooperate on limited projects without endorsing everything one another believe. Guilt by association compresses these nuanced relationships into a simple message: "they are connected, therefore they are the same." The simplification creates rhetorical force at the cost of logical accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Ad Hominem (Guilt by Association)When the source is viewed negatively because of its association with another person or group who is alre...</span></span></span>
+One reason this tactic is effective is that many real-world associations are complex. People attend the same events, work in the same institutions, share partial beliefs or cooperate on limited projects without endorsing everything one another believe. Guilt by association compresses these nuanced relationships into a simple message: "they are connected, therefore they are the same." The simplification creates rhetorical force at the cost of logical accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Ad Hominem (Guilt by Association)When the source is viewed negatively because of its association with another person or group who is alre...</span></span></span>
 
-The association may even be several steps removed. An argument can be dismissed because it resembles a position once held by a disliked figure, even when there is no direct relationship at all. In such cases, the chain of [relevance]({{ 'relevance/' | relative_url }}) becomes so weak that it provides virtually no information about the truth of the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLGuilt by Association Fallacy</span><span class="citation-popover-snippet">Excelsior OWLGuilt by Association Fallacy - Excelsior OWLA guilt by association fallacy occurs when someone connects an opponent to a dem...</span></span></span>
+The association may even be several steps removed. An argument can be dismissed because it resembles a position once held by a disliked figure, even when there is no direct relationship at all. In such cases, the chain of [relevance]({{ 'relevance/' | relative_url }}) becomes so weak that it provides virtually no information about the truth of the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLGuilt by Association Fallacy</span><span class="citation-popover-snippet">Excelsior OWLGuilt by Association Fallacy - Excelsior OWLA guilt by association fallacy occurs when someone connects an opponent to a dem...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N_ddwtc_H0w" title="Ad Hominem (Guilt by Association)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N_ddwtc_H0w" target="_blank" rel="noopener noreferrer">Ad Hominem (Guilt by Association)</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 18.0K &middot; Uploaded: January 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N_ddwtc_H0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N_ddwtc_H0w">Open on YouTube</a></p></div></div></div>
 
@@ -334,7 +334,7 @@ When encountering an association-based criticism, ask:
 
 **Does the connection directly affect the evidence?**
 
-A financial stake, expert qualification or demonstrated pattern of dishonesty may be relevant. Mere acquaintance or ideological overlap usually is not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</span></span></span> Encyclopedia of Philosophy
+A financial stake, expert qualification or demonstrated pattern of dishonesty may be relevant. Mere acquaintance or ideological overlap usually is not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</span></span></span> Encyclopedia of Philosophy
 
 **Would the argument change if the association disappeared?**
 
@@ -342,11 +342,11 @@ If the reasoning remains exactly the same after removing the social connection, 
 
 **Are the reasons being addressed?**
 
-A genuine rebuttal identifies errors in facts, assumptions, logic or methodology. A guilt-by-association attack often leaves the original reasoning untouched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span>
+A genuine rebuttal identifies errors in facts, assumptions, logic or methodology. A guilt-by-association attack often leaves the original reasoning untouched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span>
 
 **How strong is the link?**
 
-Shared membership in a broad group, attendance at the same event or agreement on one issue rarely justifies conclusions about a person's broader beliefs or the quality of their argument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://simple.wikipedia.org/wiki/Guilt_by_association" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guilt by association</span><span class="citation-popover-snippet">Guilt by associationThis logical fallacy often occurs when negative traits or behaviors of one person are presumed to apply to another...</span></span></span>
+Shared membership in a broad group, attendance at the same event or agreement on one issue rarely justifies conclusions about a person's broader beliefs or the quality of their argument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://simple.wikipedia.org/wiki/Guilt_by_association" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guilt by association</span><span class="citation-popover-snippet">Guilt by associationThis logical fallacy often occurs when negative traits or behaviors of one person are presumed to apply to another...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-3-dark.svg" | relative_url }}" alt="Association illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical lesson
@@ -358,194 +358,194 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XInuneqdJRM" title="Critical Thinking: The Fallacy of Ad Hominem (Guilt By Association)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XInuneqdJRM" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Ad Hominem (Guilt By Association)</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 3.2K &middot; Uploaded: June 2015 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XInuneqdJRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XInuneqdJRM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When association replaces evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When association replaces evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Covers association-based and personal-attack fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers association-based and personal-attack fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Focuses attention on evidence instead of social associations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses attention on evidence instead of social associations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explains group identity and tribal reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains group identity and tribal reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how associative thinking distorts judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how associative thinking distorts judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic &#x27;Thalia&#x27; (White) T-Shirt"><img src="https://i.ebayimg.com/images/g/VLIAAeSwKuhp6N0v/s-l225.jpg" alt="Listing image for Logic &#x27;Thalia&#x27; (White) T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic &#x27;Thalia&#x27; (White) T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic &#x27;Thalia&#x27; (White) T-Shirt"><img src="https://i.ebayimg.com/images/g/VLIAAeSwKuhp6N0v/s-l225.jpg" alt="Listing image for Logic &#x27;Thalia&#x27; (White) T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic &#x27;Thalia&#x27; (White) T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M"><img src="https://i.ebayimg.com/images/g/5SwAAeSwO3BqKiTa/s-l225.jpg" alt="Listing image for Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M"><img src="https://i.ebayimg.com/images/g/5SwAAeSwO3BqKiTa/s-l225.jpg" alt="Listing image for Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic T Shirt Logo new Official Unisex Black"><img src="https://i.ebayimg.com/images/g/rWgAAeSwDe5qI4g-/s-l225.jpg" alt="Listing image for Logic T Shirt Logo new Official Unisex Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic T Shirt Logo new Official Unisex Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic T Shirt Logo new Official Unisex Black"><img src="https://i.ebayimg.com/images/g/rWgAAeSwDe5qI4g-/s-l225.jpg" alt="Listing image for Logic T Shirt Logo new Official Unisex Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic T Shirt Logo new Official Unisex Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White"><img src="https://i.ebayimg.com/images/g/sbYAAOSw5zBnYhXD/s-l225.jpg" alt="Listing image for DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White"><img src="https://i.ebayimg.com/images/g/sbYAAOSw5zBnYhXD/s-l225.jpg" alt="Listing image for DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,213 +751,213 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: owl.excelsior.edu  
    Title: OWLGuilt by Association Fallacy  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLGuilt by Association Fallacy - Excelsior OWLA guilt by association fallacy occurs when someone connects an opponent to a dem...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLGuilt by Association Fallacy - Excelsior OWLA guilt by association fallacy occurs when someone connects an opponent to a dem...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/guiltbya.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/guiltbya.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: butte.edu  
    Title: Glenn Community College Fallacies and Propaganda  
-   Link: <a href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</p></details>
+   Link:<a href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</p></details>
 
-6. <a id="endnote-6"></a>
-   Source: plato.stanford.edu  
-   Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Example: Ad Hominem. Different approaches to fallacies can be illustrated with the fallacy ad hominem. Consider as a first example a...</p></details>
-
-7. <a id="endnote-7"></a>
+6.<a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Example: Ad Hominem. Different approaches to fallacies can be illustrated with the fallacy ad hominem. Consider as a first example a...</p></details>
 
-8. <a id="endnote-8"></a>
+7.<a id="endnote-7"></a>
+   Source: plato.stanford.edu  
+   Title: Encyclopedia of Philosophy Informal Logic  
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Association fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Association_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Association_fallacy</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nature of FallaciesA fallacy is a mistake in reasoning: an argument which either does not prove, or does not provide evidence for, it...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Nature of FallaciesA fallacy is a mistake in reasoning: an argument which either does not prove, or does not provide evidence for, it...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: philosophy.institute  
-   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies: Errors in ReasoningDec 9, 2025 — The fallacy arises when personal characteristics are used as a substitute for e...</p></details>
+   Link:<a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies: Errors in ReasoningDec 9, 2025 — The fallacy arises when personal characteristics are used as a substitute for e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Guilt by association  
-   Link: <a href="https://simple.wikipedia.org/wiki/Guilt_by_association" target="_blank" rel="noopener noreferrer nofollow">https://simple.wikipedia.org/wiki/Guilt_by_association</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by associationThis logical fallacy often occurs when negative traits or behaviors of one person are presumed to apply to another...</p></details>
+   Link:<a href="https://simple.wikipedia.org/wiki/Guilt_by_association" target="_blank" rel="noopener noreferrer nofollow">https://simple.wikipedia.org/wiki/Guilt_by_association</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by associationThis logical fallacy often occurs when negative traits or behaviors of one person are presumed to apply to another...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Informal fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal fallacyInformal fallacies are a type of incorrect argument in natural language. The source of the error is not necessarily du...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal fallacyInformal fallacies are a type of incorrect argument in natural language. The source of the error is not necessarily du...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/[politics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt By AssociationThe United States Supreme Court frequently proclaims that guilt by association has no place in our constitutional sys...</p></details>
+   Link:<a href="https://www.encyclopedia.com/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/[politics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt By AssociationThe United States Supreme Court frequently proclaims that guilt by association has no place in our constitutional sys...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — The ad hominem fallacy involves bringing negative aspects of an ar...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — The ad hominem fallacy involves bringing negative aspects of an ar...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stanford.edu  
-   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
+   Link:<a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic11 Nov 2002 — In assessing ordinary arguments, it may more simply be said that fallacies are common patterns of poor reasoning which...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic11 Nov 2002 — In assessing ordinary arguments, it may more simply be said that fallacies are common patterns of poor reasoning which...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/spr2017/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2017/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophy25 Nov 1996 — In contrast, fallacies like ad hominem, two wrongs reasoning, guilt by associati...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/spr2017/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2017/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophy25 Nov 1996 — In contrast, fallacies like ad hominem, two wrongs reasoning, guilt by associati...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consider as a first example a remark adapted from a Danish...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consider as a first example a remark adapted from a Danish...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LogicOne attempt to use traditional fallacies as a way to define good argument schema (by treating ad hominem, guilt by association, appe...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LogicOne attempt to use traditional fallacies as a way to define good argument schema (by treating ad hominem, guilt by association, appe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Critical Thinking: The Fallacy of Ad Hominem (Guilt By Association)  
-   Link: <a href="https://www.youtube.com/watch?v=XInuneqdJRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XInuneqdJRM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XInuneqdJRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XInuneqdJRM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Guilt by Association Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=cqTVxALYKd8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cqTVxALYKd8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association | [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cqTVxALYKd8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cqTVxALYKd8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association | [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Guilt by Association | Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=mIHEV0cCgMc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mIHEV0cCgMc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mIHEV0cCgMc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mIHEV0cCgMc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</p></details>
+   Link:<a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Guilt by Association)When the source is viewed negatively because of its association with another person or group who is alre...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Guilt by Association)When the source is viewed negatively because of its association with another person or group who is alre...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: philosophybytheway.blogspot.com  
    Title: guilt by association  
-   Link: <a href="https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 29, 2025 — Guilt by association is a kind of heuristic, or mental shortcut, that people use to decide which companies share their val...</p></details>
+   Link:<a href="https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 29, 2025 — Guilt by association is a kind of heuristic, or mental shortcut, that people use to decide which companies share their val...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: legaldictionary.net  
    Title: Guilt by Association  
-   Link: <a href="https://legaldictionary.net/guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow">https://legaldictionary.net/guilt-by-association/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, Cases, Processes19 Mar 2019 — The term “guilt by association” refers to the idea that an individual is guilty of a...</p></details>
+   Link:<a href="https://legaldictionary.net/guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow">https://legaldictionary.net/guilt-by-association/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, Cases, Processes19 Mar 2019 — The term “guilt by association” refers to the idea that an individual is guilty of a...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: kids.kiddle.co  
-   Link: <a href="https://kids.kiddle.co/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Association_fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy Facts for KidsThe association fallacy is a type of logical mistake in thinking. It happens when someone says that a quality of on...</p></details>
+   Link:<a href="https://kids.kiddle.co/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Association_fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy Facts for KidsThe association fallacy is a type of logical mistake in thinking. It happens when someone says that a quality of on...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: transfercredit.org  
-   Link: <a href="https://www.transfercredit.org/blog/humanities/guilt-by-association-fallacy-explained-with-examples" target="_blank" rel="noopener noreferrer nofollow">https://www.transfercredit.org/blog/humanities/guilt-by-association-fallacy-explained-with-examples</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy Explained with ExamplesThis article explains guilt by association, shows how media and debates use it, and g...</p></details>
+   Link:<a href="https://www.transfercredit.org/blog/humanities/guilt-by-association-fallacy-explained-with-examples" target="_blank" rel="noopener noreferrer nofollow">https://www.transfercredit.org/blog/humanities/guilt-by-association-fallacy-explained-with-examples</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy Explained with ExamplesThis article explains guilt by association, shows how media and debates use it, and g...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/guilt-by-association-fallacy-definition-and-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/guilt-by-association-fallacy-definition-and-examples.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy: Definition and ExamplesThe guilt by association fallacy is a logical fallacy that aims to discredit a propo...</p></details>
+   Link:<a href="https://study.com/academy/lesson/guilt-by-association-fallacy-definition-and-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/guilt-by-association-fallacy-definition-and-examples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy: Definition and ExamplesThe guilt by association fallacy is a logical fallacy that aims to discredit a propo...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: philosophicalsociety.com  
-   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesAn [appeal to authority](&amp;#123;&amp;#123; &#x27;authority/&#x27; | relative_url &amp;#125;&amp;#125;) is ordinarily one good way to buttress a line of thought. The practice becomes fallacious when on...</p></details>
+   Link:<a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesAn [appeal to authority](&amp;#123;&amp;#123; &#x27;authority/&#x27; | relative_url &amp;#125;&amp;#125;) is ordinarily one good way to buttress a line of thought. The practice becomes fallacious when on...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/exjw/comments/sig3d9/association_fallacy_a_jw_way_of_thinking_that_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/exjw/comments/sig3d9/association_fallacy_a_jw_way_of_thinking_that_is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A typical one is &quot;guilt by association&quot;. For example the classic &quot;tight pants&quot; talk:.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/exjw/comments/sig3d9/association_fallacy_a_jw_way_of_thinking_that_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/exjw/comments/sig3d9/association_fallacy_a_jw_way_of_thinking_that_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A typical one is &quot;guilt by association&quot;. For example the classic &quot;tight pants&quot; talk:.Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: finmasters.com  
-   Link: <a href="https://finmasters.com/circumstantial-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/circumstantial-ad-hominem/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2023 — Circumstantial ad hominem occurs when someone argues that their opponent&#x27;s argument must be invalid because his or her pos...</p></details>
+   Link:<a href="https://finmasters.com/circumstantial-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/circumstantial-ad-hominem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2023 — Circumstantial ad hominem occurs when someone argues that their opponent&#x27;s argument must be invalid because his or her pos...</p></details>
    Published: May 23, 2023  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: philosophyalevel.com  
    Title: Examples are straw man, circular reasoning, and ad  
-   Link: <a href="https://philosophyalevel.com/posts/informal-fallacies-examples/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/informal-fallacies-examples/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Fallacies: 15 Common Examples of Faulty...31 May 2023 — Informal fallacies are errors in reasoning that depend on context, not...</p></details>
+   Link:<a href="https://philosophyalevel.com/posts/informal-fallacies-examples/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/informal-fallacies-examples/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Fallacies: 15 Common Examples of Faulty...31 May 2023 — Informal fallacies are errors in reasoning that depend on context, not...</p></details>
    Published: May 2023  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: philpapers.org  
    Title: GBA is the erroneous logic that just because  
-   Link: <a href="https://philpapers.org/rec/KOLGBA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/KOLGBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leigh Kolb, Guilt by Associationby L Kolb · 2018 · Cited by 1 — This chapter focuses on one of the common fallacies in Western...</p></details>
+   Link:<a href="https://philpapers.org/rec/KOLGBA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/KOLGBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leigh Kolb, Guilt by Associationby L Kolb · 2018 · Cited by 1 — This chapter focuses on one of the common fallacies in Western...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thelogicofscience.com  
    Title: the rules of logic part 3 logical fallacies  
-   Link: <a href="https://thelogicofscience.com/2015/01/27/the-rules-of-logic-part-3-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thelogicofscience.com/2015/01/27/the-rules-of-logic-part-3-logical-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rules of Logic Part 3: Logical FallaciesJan 27, 2015 — This occurs when you argue that a position is true or valid because of the peo...</p></details>
+   Link:<a href="https://thelogicofscience.com/2015/01/27/the-rules-of-logic-part-3-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thelogicofscience.com/2015/01/27/the-rules-of-logic-part-3-logical-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rules of Logic Part 3: Logical FallaciesJan 27, 2015 — This occurs when you argue that a position is true or valid because of the peo...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23208768/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23208768/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by association and honor by association: the role of...by M Molet · 2013 · Cited by 27 — Guilt by association and honor by association a...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23208768/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23208768/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by association and honor by association: the role of...by M Molet · 2013 · Cited by 27 — Guilt by association and honor by association a...</p></details>

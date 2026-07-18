@@ -274,10 +274,10 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden
 
 ## Introduction
 
-In debates about evidence, one of the most important questions is also one of the simplest: who has to prove the claim? The answer matters because unsupported assertions can appear stronger than they are when the speaker demands that everyone else disprove them first. This manoeuvre is closely connected to the appeal to [ignorance]({{ 'ignorance/' | relative_url }}) fallacy. Instead of providing evidence for a claim, the claimant points to the absence of disproof and treats that absence as support. Philosophers and argumentation scholars consistently describe this as an unjustified shift in the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span>
+In debates about evidence, one of the most important questions is also one of the simplest: who has to prove the claim? The answer matters because unsupported assertions can appear stronger than they are when the speaker demands that everyone else disprove them first. This manoeuvre is closely connected to the appeal to [ignorance]({{ 'ignorance/' | relative_url }}) fallacy. Instead of providing evidence for a claim, the claimant points to the absence of disproof and treats that absence as support. Philosophers and argumentation scholars consistently describe this as an unjustified shift in the burden of proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-dark.svg" | relative_url }}" alt="Proof Burden illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The core principle is straightforward: making a claim does not make it true. Before a claim deserves acceptance, the person advancing it normally has the responsibility to provide reasons, evidence, or arguments in its favour. Without that requirement, any assertion could demand belief simply because nobody has yet disproved it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[2yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</span></span></span>
+The core principle is straightforward: making a claim does not make it true. Before a claim deserves acceptance, the person advancing it normally has the responsibility to provide reasons, evidence, or arguments in its favour. Without that requirement, any assertion could demand belief simply because nobody has yet disproved it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[2yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</span></span></span>
 
 ## Why Possibility Is Not Proof
 
@@ -295,13 +295,13 @@ Burden-shifting often exploits this gap. A claimant may argue:
 
 </div>
 
-Each statement concerns possibility, not proof. The absence of a disproof only shows that certainty is unavailable; it does not provide positive support for the original claim. Appeal-to-ignorance reasoning arises when the speaker treats an unresolved possibility as if it were established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</span></span></span>
+Each statement concerns possibility, not proof. The absence of a disproof only shows that certainty is unavailable; it does not provide positive support for the original claim. Appeal-to-ignorance reasoning arises when the speaker treats an unresolved possibility as if it were established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</span></span></span>
 
-This distinction becomes especially important when claims are difficult or impossible to test directly. A person can always invent a proposition that cannot easily be disproved. If lack of disproof counted as proof, then countless incompatible claims would have to be accepted simultaneously. The burden-of-proof principle exists partly to prevent this problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/nothingness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">ignorance as to how it could be true.Read more</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyNothingness - Stanford Encyclopedia of Philosophyby R Sorensen · 2003 · Cited by 80 — For instance, ma...</span></span></span>
+This distinction becomes especially important when claims are difficult or impossible to test directly. A person can always invent a proposition that cannot easily be disproved. If lack of disproof counted as proof, then countless incompatible claims would have to be accepted simultaneously. The burden-of-proof principle exists partly to prevent this problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/nothingness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">ignorance as to how it could be true.Read more</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyNothingness - Stanford Encyclopedia of Philosophyby R Sorensen · 2003 · Cited by 80 — For instance, ma...</span></span></span>
 
 ## How Burden Shifting Hides Weak Evidence
 
-The burden of proof normally rests with the person introducing a disputed claim. Argumentation theory treats this as a practical rule that allows discussions to progress through reasons and evidence rather than mere assertion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-007-9022-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe Burden of Proof and Its Role in Argumentationby U Hahn · 2007 · Cited by 92 — argumentation · argument from ignorance ·...</span></span></span>
+The burden of proof normally rests with the person introducing a disputed claim. Argumentation theory treats this as a practical rule that allows discussions to progress through reasons and evidence rather than mere assertion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe Burden of Proof and Its Role in Argumentationby U Hahn · 2007 · Cited by 92 — argumentation · argument from ignorance ·...</span></span></span>
 
 When someone shifts the burden of proof, attention moves away from the weakness of their own evidence and towards the supposed failure of critics to refute them. The structure often looks like this:
 
@@ -318,7 +318,7 @@ When someone shifts the burden of proof, attention moves away from the weakness 
 
 The flaw is that the original evidential gap never disappears. The discussion changes subjects. Instead of asking, “What evidence supports this claim?”, participants are pushed into defending themselves against an unlimited number of possibilities. Philosophers and critical-thinking texts identify this move as a common form of appeal to ignorance and misplaced burden of proof. [Texas State University+3Queensborough Community College+3oercollective.caul.edu.au]
 
-A useful warning sign is the phrase “prove me wrong.” In many contexts, it functions not as a genuine invitation to examine evidence but as an attempt to transfer responsibility away from the claimant. Failure to disprove a claim does not automatically make the claim reasonable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammarly.com">[Grammarly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammarly.com</span><span class="citation-popover-snippet">Appeal to Ignorance Fallacy: Definition and ExamplesDec 30, 2022 — With the appeal to ignorance fallacy, the arguer doesn&#x27;t prov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learn.academy4sc.org">[2learn.academy4sc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learn.academy4sc.org</span><span class="citation-popover-snippet">From Ignorance: Can’t Prove A ThingAn argument from ignorance, or in Latin, argumentum ad ignorantiam, places the burden of proof on the...</span></span></span>
+A useful warning sign is the phrase “prove me wrong.” In many contexts, it functions not as a genuine invitation to examine evidence but as an attempt to transfer responsibility away from the claimant. Failure to disprove a claim does not automatically make the claim reasonable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammarly.com">[Grammarly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammarly.com</span><span class="citation-popover-snippet">Appeal to Ignorance Fallacy: Definition and ExamplesDec 30, 2022 — With the appeal to ignorance fallacy, the arguer doesn&#x27;t prov...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learn.academy4sc.org">[2learn.academy4sc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learn.academy4sc.org</span><span class="citation-popover-snippet">From Ignorance: Can’t Prove A ThingAn argument from ignorance, or in Latin, argumentum ad ignorantiam, places the burden of proof on the...</span></span></span>
 
 ## Why the Rule Exists
 
@@ -326,9 +326,9 @@ The burden-of-proof principle is not merely a debating convention. It serves an 
 
 Without some default expectation that claims require support, institutions would struggle to distinguish evidence-based proposals from speculation. Every unverified accusation, rumour, or extraordinary allegation would begin on equal footing with well-supported conclusions.
 
-Legal systems provide a familiar illustration. In criminal proceedings, the prosecution bears the burden of proving guilt rather than requiring the accused to prove innocence. The presumption of innocence exists precisely because proving a negative can be difficult or impossible in many circumstances. The system therefore assigns responsibility to the party making the affirmative accusation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/nothingness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">ignorance as to how it could be true.Read more</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyNothingness - Stanford Encyclopedia of Philosophyby R Sorensen · 2003 · Cited by 80 — For instance, ma...</span></span></span>
+Legal systems provide a familiar illustration. In criminal proceedings, the prosecution bears the burden of proving guilt rather than requiring the accused to prove innocence. The presumption of innocence exists precisely because proving a negative can be difficult or impossible in many circumstances. The system therefore assigns responsibility to the party making the affirmative accusation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/nothingness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">ignorance as to how it could be true.Read more</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyNothingness - Stanford Encyclopedia of Philosophyby R Sorensen · 2003 · Cited by 80 — For instance, ma...</span></span></span>
 
-Scientific practice uses a similar logic. Researchers proposing a new effect, explanation, or discovery are expected to provide evidence that justifies acceptance. Until sufficient evidence appears, the claim remains unproven rather than automatically accepted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span>
+Scientific practice uses a similar logic. Researchers proposing a new effect, explanation, or discovery are expected to provide evidence that justifies acceptance. Until sufficient evidence appears, the claim remains unproven rather than automatically accepted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span>
 
 In governance contexts, this principle helps protect decision-making from being driven by unsupported assertions. Policies that impose costs, restrictions, or risks generally require justification from those advocating them rather than from everyone questioning them.
 
@@ -337,7 +337,7 @@ In governance contexts, this principle helps protect decision-making from being 
 
 Supporters of burden shifting sometimes argue that critics should provide proof because they are making a negative claim. The issue is more complicated than the slogan “you cannot prove a negative” suggests.
 
-Negative claims can sometimes be supported. For example, investigators may show that a reported event could not have occurred because records, physical evidence, or established facts contradict it. Evidence of absence can become relevant when the alleged event would normally leave detectable traces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.pub">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.pub</span><span class="citation-popover-snippet">Burden of ProofNov 25, 2022 — A proof of impossibility or an evidence of absence argument are typical methods to fulfill the...</span></span></span>
+Negative claims can sometimes be supported. For example, investigators may show that a reported event could not have occurred because records, physical evidence, or established facts contradict it. Evidence of absence can become relevant when the alleged event would normally leave detectable traces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.pub">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.pub</span><span class="citation-popover-snippet">Burden of ProofNov 25, 2022 — A proof of impossibility or an evidence of absence argument are typical methods to fulfill the...</span></span></span>
 
 The key question is not whether a statement is positive or negative. The question is who is asking others to accept a disputed proposition.
 
@@ -385,274 +385,274 @@ Burden shifting succeeds because it exploits a natural discomfort with uncertain
 
 The appeal to ignorance takes advantage of this tendency by turning uncertainty into apparent support. The burden-of-proof principle acts as a safeguard against that move. It reminds us that unanswered questions remain unanswered until evidence appears.
 
-In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the lesson is simple but powerful: a claim does not gain credibility merely because critics cannot disprove it. The responsibility to justify a claim belongs primarily to the person asking others to accept it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[3yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy</span></span></span>
+In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the lesson is simple but powerful: a claim does not gain credibility merely because critics cannot disprove it. The responsibility to justify a claim belongs primarily to the person asking others to accept it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[3yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WnKNcbYTlPo" title="Logical Fallacies - Shifting the burden of proof" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer">Logical Fallacies - Shifting the burden of proof</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 7.7K &middot; Uploaded: March 2015 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WnKNcbYTlPo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Has to Prove the Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Has to Prove the Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains why claimants must support assertions with evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why claimants must support assertions with evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Provides practical methods for challenging unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical methods for challenging unsupported claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Directly addresses claims, evidence, and burden of proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses claims, evidence, and burden of proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Covers burden-shifting and related reasoning mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers burden-shifting and related reasoning mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-who-has-to-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -668,7 +668,7 @@ In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'log
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -688,7 +688,7 @@ In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'log
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -720,7 +720,7 @@ In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'log
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -750,7 +750,7 @@ In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'log
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -808,175 +808,175 @@ In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'log
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Burden of proof (philosophy)  
-   Link: <a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/burden-of-proof</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/burden-of-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: ignorance as to how it could be true.Read more  
-   Link: <a href="https://plato.stanford.edu/entries/nothingness/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/nothingness/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyNothingness - Stanford Encyclopedia of Philosophyby R Sorensen · 2003 · Cited by 80 — For instance, ma...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/nothingness/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/nothingness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyNothingness - Stanford Encyclopedia of Philosophyby R Sorensen · 2003 · Cited by 80 — For instance, ma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: moral arguments god  
-   Link: <a href="https://plato.stanford.edu/entries/moral-arguments-god/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/moral-arguments-god/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyMoral Arguments for the Existence of Godby CS Evans · 2014 · Cited by 74 — Someone, however, who belie...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/moral-arguments-god/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/moral-arguments-god/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyMoral Arguments for the Existence of Godby CS Evans · 2014 · Cited by 74 — Someone, however, who belie...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-007-9022-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-007-9022-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe Burden of Proof and Its Role in Argumentationby U Hahn · 2007 · Cited by 92 — argumentation · argument from ignorance ·...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10503" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe Burden of Proof and Its Role in Argumentationby U Hahn · 2007 · Cited by 92 — argumentation · argument from ignorance ·...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oercollective.caul.edu.au  
-   Link: <a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In a courtroom, the burden of proof rests with the prosecution. The...Read more...</p></details>
+   Link:<a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a courtroom, the burden of proof rests with the prosecution. The...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: grammarly.com  
-   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Ignorance Fallacy: Definition and ExamplesDec 30, 2022 — With the appeal to ignorance fallacy, the arguer doesn&#x27;t prov...</p></details>
+   Link:<a href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Ignorance Fallacy: Definition and ExamplesDec 30, 2022 — With the appeal to ignorance fallacy, the arguer doesn&#x27;t prov...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: learn.academy4sc.org  
-   Link: <a href="https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Ignorance: Can’t Prove A ThingAn argument from ignorance, or in Latin, argumentum ad ignorantiam, places the burden of proof on the...</p></details>
+   Link:<a href="https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Ignorance: Can’t Prove A ThingAn argument from ignorance, or in Latin, argumentum ad ignorantiam, places the burden of proof on the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: evidence legal  
-   Link: <a href="https://plato.stanford.edu/entries/evidence-legal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/evidence-legal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyThe Legal Concept of Evidenceby HL Ho · 2015 · Cited by 101 — This entry focuses on the modern concept...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/evidence-legal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/evidence-legal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyThe Legal Concept of Evidenceby HL Ho · 2015 · Cited by 101 — This entry focuses on the modern concept...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-law/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCausation in the Law - Stanford Encyclopedia of Philosophyby M Moore · 2019 · Cited by 91 — As an elem...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-law/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCausation in the Law - Stanford Encyclopedia of Philosophyby M Moore · 2019 · Cited by 91 — As an elem...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/36589</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of ProofNov 25, 2022 — A proof of impossibility or an evidence of absence argument are typical methods to fulfill the...</p></details>
+   Link:<a href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/36589</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of ProofNov 25, 2022 — A proof of impossibility or an evidence of absence argument are typical methods to fulfill the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 419 — However, the inability of an opponent to produce a better argument...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 419 — However, the inability of an opponent to produce a better argument...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/win2014/entries/evil/validity.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2014/entries/evil/validity.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That the argument is deductively valid can be seen as follows. First, let us introduce the following abbreviations:.Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/win2014/entries/evil/validity.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2014/entries/evil/validity.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That the argument is deductively valid can be seen as follows. First, let us introduce the following abbreviations:.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Burden of Proof  
-   Link: <a href="https://www.youtube.com/watch?v=2RRyhq_oMus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2RRyhq_oMus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Shifting the burden of proof...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2RRyhq_oMus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2RRyhq_oMus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Shifting the burden of proof...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WnKNcbYTlPo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart the fallacy that started a witch hunt? - Elizabeth Cox...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WnKNcbYTlPo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart the fallacy that started a witch hunt? - Elizabeth Cox...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</p></details>
+   Link:<a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Shifting-of-the-Burden-of-Proof" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Shifting-of-the-Burden-of-Proof</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting of the Burden of ProofShifting of the Burden of Proof. onus probandi. (also known as: burden of proof [general concept], burden...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Shifting-of-the-Burden-of-Proof" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Shifting-of-the-Burden-of-Proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting of the Burden of ProofShifting of the Burden of Proof. onus probandi. (also known as: burden of proof [general concept], burden...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/argumentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 6, 2026 — 1. The act or process of forming reasons and of drawing conclusions and applying them to a case in disc...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/argumentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 6, 2026 — 1. The act or process of forming reasons and of drawing conclusions and applying them to a case in disc...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thinkingispower.com  
-   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to the Most Common Logical FallaciesThe burden of proof fallacy frequently appears alongside the argument from ignorance fallacy, w...</p></details>
+   Link:<a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to the Most Common Logical FallaciesThe burden of proof fallacy frequently appears alongside the argument from ignorance fallacy, w...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: qcc.cuny.edu  
-   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensborough Community CollegeThe Burden of ProofShifting the burden of proof, a special case of argumentum ad ignorantium, is the falla...</p></details>
+   Link:<a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queensborough Community CollegeThe Burden of ProofShifting the burden of proof, a special case of argumentum ad ignorantium, is the falla...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The argument from ignorance fallacy asserts...TODAY’S FALLACY: ARGUMENT FROM IGNORANCE (AKA Appeal to ignorance) DEFINITION AND EXPLANAT...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The argument from ignorance fallacy asserts...TODAY’S FALLACY: ARGUMENT FROM IGNORANCE (AKA Appeal to ignorance) DEFINITION AND EXPLANAT...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d</a>  
+   Link:<a href="https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40weidagang/logic-traps-the-fallacy-of-appeal-to-ignorance-54735b31c564" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40weidagang/logic-traps-the-fallacy-of-appeal-to-ignorance-54735b31c564</a>  
+   Link:<a href="https://medium.com/%40weidagang/logic-traps-the-fallacy-of-appeal-to-ignorance-54735b31c564" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40weidagang/logic-traps-the-fallacy-of-appeal-to-ignorance-54735b31c564</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: txst.edu  
-   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Ignorance: Department of PhilosophyAppeal to Ignorance. This fallacy occurs when one argues that their... This fallacy wrongl...</p></details>
+   Link:<a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Ignorance: Department of PhilosophyAppeal to Ignorance. This fallacy occurs when one argues that their... This fallacy wrongl...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: philosophy.stackexchange.com  
    Title: is it a shifting of the burden of proof if i show evidence in favor of a posit  
-   Link: <a href="https://philosophy.stackexchange.com/questions/114222/is-it-a-shifting-of-the-burden-of-proof-if-i-show-evidence-in-favor-of-a-posit" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/114222/is-it-a-shifting-of-the-burden-of-proof-if-i-show-evidence-in-favor-of-a-posit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>it a &quot;shifting of the burden of proof&quot; if I show evidence in...Jun 19, 2024 — The &quot;fallacy of shifting the burden of proof&quot; is to refuse...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/114222/is-it-a-shifting-of-the-burden-of-proof-if-i-show-evidence-in-favor-of-a-posit" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/114222/is-it-a-shifting-of-the-burden-of-proof-if-i-show-evidence-in-favor-of-a-posit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it a &quot;shifting of the burden of proof&quot; if I show evidence in...Jun 19, 2024 — The &quot;fallacy of shifting the burden of proof&quot; is to refuse...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ypJITrfih3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypJITrfih3g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Burden of Proof in PhilosophyThe burden of proof is a dialectical tool used to help determine whose job it is to provide further evid...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ypJITrfih3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypJITrfih3g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Burden of Proof in PhilosophyThe burden of proof is a dialectical tool used to help determine whose job it is to provide further evid...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: philosophy.stackexchange.com  
    Title: what is the burden of proof has this principle ever been challenged  
-   Link: <a href="https://philosophy.stackexchange.com/questions/104878/what-is-the-burden-of-proof-has-this-principle-ever-been-challenged" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/104878/what-is-the-burden-of-proof-has-this-principle-ever-been-challenged</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has this principle ever been...Nov 12, 2023 — I have been surprised to find that some people doubt this principle. Onus probandi incumbi...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/104878/what-is-the-burden-of-proof-has-this-principle-ever-been-challenged" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/104878/what-is-the-burden-of-proof-has-this-principle-ever-been-challenged</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has this principle ever been...Nov 12, 2023 — I have been surprised to find that some people doubt this principle. Onus probandi incumbi...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/scireas/ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/ignorance.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageThe Appeal to IgnoranceArgumentum ad Ignorantiam: (appeal to ignorance) the fallacy that a proposition is true simply...</p></details>
+   Link:<a href="https://philosophy.lander.edu/scireas/ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/ignorance.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageThe Appeal to IgnoranceArgumentum ad Ignorantiam: (appeal to ignorance) the fallacy that a proposition is true simply...</p></details>

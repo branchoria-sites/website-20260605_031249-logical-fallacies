@@ -504,13 +504,13 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2-overview-soc
 Persuasive claims often sound stronger than they are because they hide an evidence gap. The claim may contain a true example, a confident statistic, a named expert, or a vivid story, but the evidence still may not justify the conclusion being drawn. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this problem sits behind patterns such as hasty generalisation, cherry-picking, appeal to [ignorance]({{ 'ignorance/' | relative_url }}), weak analogy, false cause and misleading anecdote: the argument asks the reader to travel further than the evidence can safely carry them.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-overview.webp" | relative_url }}" alt="Overview image for Evidence Gaps" loading="eager" decoding="sync" fetchpriority="high">
-The central question is not “Is there any evidence?” but “Is there enough of the right kind of evidence for this claim, in this [context]({{ 'context/' | relative_url }})?” [Informal logic]({{ 'informal-logic/' | relative_url }}) treats everyday argument as a matter of evidence, proof, burden and justification rather than just formal validity, because real-world claims usually depend on incomplete information and judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span> Encyclopedia of Philosophy Evidence gaps matter because they make thin support feel complete, shift attention away from what has not been shown, and encourage people to mistake plausibility for proof.
+The central question is not “Is there any evidence?” but “Is there enough of the right kind of evidence for this claim, in this [context]({{ 'context/' | relative_url }})?” [Informal logic]({{ 'informal-logic/' | relative_url }}) treats everyday argument as a matter of evidence, proof, burden and justification rather than just formal validity, because real-world claims usually depend on incomplete information and judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span> Encyclopedia of Philosophy Evidence gaps matter because they make thin support feel complete, shift attention away from what has not been shown, and encourage people to mistake plausibility for proof.
 
 ## Where Unsupported Leaps Hide
 
 An unsupported leap happens when the conclusion is broader, stronger or more certain than the evidence allows. The problem is not always that the evidence is false. Often it is real but too narrow, too indirect or too selectively presented.
 
-A familiar example is: “Everyone is unhappy with this policy; I have spoken to five people and they all hate it.” The five conversations may be genuine. They may even reveal something important. But they do not support the claim “everyone”. The argument quietly turns a small convenience sample into a population-wide judgement. Writing and critical-thinking guides commonly describe this as hasty generalisation: drawing a broad conclusion from evidence that is too small, too exceptional or not representative enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-snippet">Excelsior OWLHasty Generalization Fallacy &#124; Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</span></span></span>
+A familiar example is: “Everyone is unhappy with this policy; I have spoken to five people and they all hate it.” The five conversations may be genuine. They may even reveal something important. But they do not support the claim “everyone”. The argument quietly turns a small convenience sample into a population-wide judgement. Writing and critical-thinking guides commonly describe this as hasty generalisation: drawing a broad conclusion from evidence that is too small, too exceptional or not representative enough.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-snippet">Excelsior OWLHasty Generalization Fallacy &#124; Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</span></span></span>
 
 Unsupported leaps can take several forms:
 
@@ -530,11 +530,11 @@ The strongest warning sign is a mismatch between the evidence and the wording of
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Evidence and Representative Evidence
 
-Representative evidence is evidence that can reasonably stand for the wider group, pattern or situation being discussed. That is why sampling matters. Pew Research Center describes random sampling as central to probability-based survey research because it gives members of the target population a known chance of selection, reducing the risk that the sample merely reflects whoever was easiest to reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Methods 101: Random Sampling</span><span class="citation-popover-snippet">Pew Research Center Methods 101: Random Sampling</span></span></span> Public-health research guidance similarly distinguishes probability sampling, which supports generalisation more strongly, from non-probability sampling, which may be quicker but is more vulnerable to selection problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthknowledge.org.uk">[HealthKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthknowledge.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Representative evidence is evidence that can reasonably stand for the wider group, pattern or situation being discussed. That is why sampling matters. Pew Research Center describes random sampling as central to probability-based survey research because it gives members of the target population a known chance of selection, reducing the risk that the sample merely reflects whoever was easiest to reach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Methods 101: Random Sampling</span><span class="citation-popover-snippet">Pew Research Center Methods 101: Random Sampling</span></span></span> Public-health research guidance similarly distinguishes probability sampling, which supports generalisation more strongly, from non-probability sampling, which may be quicker but is more vulnerable to selection problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthknowledge.org.uk">[HealthKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthknowledge.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This matters in fallacy-spotting because many persuasive arguments offer evidence that is emotionally persuasive but not representative. A customer testimonial may show that one person had a good experience. It does not show the typical result. A viral post may show that an incident occurred. It does not show how often it occurs. A poll of readers on a partisan website may reveal the views of that website’s audience. It does not necessarily reveal the views of the wider public.
 
-Representativeness depends on the claim being made. If the claim is “this can happen”, one documented case may be enough. If the claim is “this usually happens”, the evidence must show typicality. If the claim is “this policy caused the change”, the evidence must address alternative explanations, timing, comparison groups and confounding factors. In medical and population research, a sample is commonly treated as representative only in relation to a well-defined target population whose results can reasonably be generalised from that sample. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Representativeness depends on the claim being made. If the claim is “this can happen”, one documented case may be enough. If the claim is “this usually happens”, the evidence must show typicality. If the claim is “this policy caused the change”, the evidence must address alternative explanations, timing, comparison groups and confounding factors. In medical and population research, a sample is commonly treated as representative only in relation to a well-defined target population whose results can reasonably be generalised from that sample.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A large sample does not automatically solve the problem. A huge but biased dataset can still mislead if important groups are missing or overrepresented. The gap is not just quantity; it is fit. The reader should ask whether the evidence matches the people, time period, conditions and outcome named in the conclusion.
 
@@ -542,11 +542,11 @@ A large sample does not automatically solve the problem. A huge but biased datas
 
 Persuasive claims often survive because they do contain something that looks like proof. The fallacy lies in what has been left out, not only in what has been included.
 
-Cherry-picking is the clearest example. It presents selected evidence that supports a conclusion while omitting relevant evidence that weakens, complicates or reverses it. The individual facts may be accurate, but the overall picture is distorted. This is why cherry-picking is often described as a fallacy of incomplete evidence: the missing cases are part of the argument’s real evidential meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cherry picking</span><span class="citation-popover-snippet">Cherry picking</span></span></span>
+Cherry-picking is the clearest example. It presents selected evidence that supports a conclusion while omitting relevant evidence that weakens, complicates or reverses it. The individual facts may be accurate, but the overall picture is distorted. This is why cherry-picking is often described as a fallacy of incomplete evidence: the missing cases are part of the argument’s real evidential meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cherry picking</span><span class="citation-popover-snippet">Cherry picking</span></span></span>
 
 A health claim, for instance, might cite one favourable study but ignore larger trials, failed replications, adverse findings or reviews that put the result in context. A political claim might show one dramatic local example while ignoring national data. A business claim might advertise “nine out of ten users saw improvement” without explaining how users were selected, what counted as improvement, how many dropped out, or whether there was a comparison group.
 
-This is also why regulators focus on substantiation in [advertising]({{ 'advertising/' | relative_url }}). The US Federal Trade Commission says objective advertising claims should have a reasonable basis before they are made, and that advertisers must substantiate both express and implied claims conveyed to reasonable consumers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That principle is useful beyond advertising: the strength of the evidence should match the strength and practical significance of the claim.
+This is also why regulators focus on substantiation in [advertising]({{ 'advertising/' | relative_url }}). The US Federal Trade Commission says objective advertising claims should have a reasonable basis before they are made, and that advertisers must substantiate both express and implied claims conveyed to reasonable consumers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That principle is useful beyond advertising: the strength of the evidence should match the strength and practical significance of the claim.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qf03U04rqGQ" title="31 logical fallacies in 8 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer">31 logical fallacies in 8 minutes</a></p><p class="youtube-embed-meta">Channel: Jill Bearup &middot; Views: 2.4M &middot; Uploaded: January 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qf03U04rqGQ">Open on YouTube</a></p></div></div></div>
 
@@ -556,7 +556,7 @@ A one-sided argument is not always fallacious. In a short speech, essay or adver
 
 A claim such as “this programme works because three participants improved” leaves several obvious gaps. How many participants did not improve? Were the improvements measured before and after? Did similar people improve without the programme? Were the reported participants typical or specially chosen? The missing information is not a decorative extra; it determines whether the claim is weak, promising or well supported.
 
-Critical-thinking guidance often frames this as a duty to seek both confirming and opposing information. The Foundation for Critical Thinking’s standards emphasise that reasoning rests on data, information and evidence, and that claims should be restricted to what the available data support while actively looking for information that opposes one’s position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: criticalthinking.org">[criticalthinking.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">criticalthinking.org</span><span class="citation-popover-snippet">Open source on criticalthinking.org.</span></span></span>
+Critical-thinking guidance often frames this as a duty to seek both confirming and opposing information. The Foundation for Critical Thinking’s standards emphasise that reasoning rests on data, information and evidence, and that claims should be restricted to what the available data support while actively looking for information that opposes one’s position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: criticalthinking.org">[criticalthinking.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">criticalthinking.org</span><span class="citation-popover-snippet">Open source on criticalthinking.org.</span></span></span>
 
 This is especially important when a claim relies on:
 
@@ -577,7 +577,7 @@ The practical test is whether the argument would still sound persuasive if the m
 
 The phrase “absence of evidence is not evidence of absence” is useful but easy to overuse. Sometimes missing evidence tells us very little. At other times, it tells us a lot. The difference depends on whether we would reasonably expect the evidence to exist if the claim were true.
 
-The appeal to ignorance fallacy occurs when a person treats lack of proof as proof in the opposite direction: “No one has proved this is false, so it must be true,” or “No one has proved this is true, so it must be false.” Fallacy Files notes that this often appears as a burden-of-proof shift: the person making the claim demands that critics disprove it rather than supplying adequate support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The appeal to ignorance fallacy occurs when a person treats lack of proof as proof in the opposite direction: “No one has proved this is false, so it must be true,” or “No one has proved this is true, so it must be false.” Fallacy Files notes that this often appears as a burden-of-proof shift: the person making the claim demands that critics disprove it rather than supplying adequate support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 But absence can sometimes matter. If a claim predicts clear, repeated, detectable evidence and careful searches keep failing to find it, that absence may weaken the claim. In law, science and public policy, evidential standards often depend on what records, tests, witnesses or measurements should be available. The key is not a slogan but a question: would reliable evidence probably be visible by now if the claim were correct?
 
@@ -591,11 +591,11 @@ For a broad claim, ask: **What is the target population?** A claim about “stud
 
 For a frequency claim, ask: **What is the denominator?** “Thousands of complaints” sounds serious, but its meaning changes depending on whether it comes from ten thousand users or ten million. A raw count without a base rate can make rare events seem common or common events seem exceptional.
 
-For a causal claim, ask: **What else could explain the pattern?** Public-health and epidemiology sources treat confounding as a routine concern because an observed [association]({{ 'association/' | relative_url }}) may be distorted by a third factor linked to both the supposed cause and the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthknowledge.org.uk">[HealthKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthknowledge.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> If an argument does not address plausible alternative causes, it has not yet shown causation.
+For a causal claim, ask: **What else could explain the pattern?** Public-health and epidemiology sources treat confounding as a routine concern because an observed [association]({{ 'association/' | relative_url }}) may be distorted by a third factor linked to both the supposed cause and the outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthknowledge.org.uk">[HealthKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthknowledge.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> If an argument does not address plausible alternative causes, it has not yet shown causation.
 
-For a statistical claim, ask: **What does the number actually measure?** The American Statistical Association’s statement on p-values warned that a p-value, by itself, does not provide a good measure of evidence for a model or hypothesis and must be interpreted with context and other evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A claim can therefore misuse a technically real statistic by giving it more argumentative weight than it can bear.
+For a statistical claim, ask: **What does the number actually measure?** The American Statistical Association’s statement on p-values warned that a p-value, by itself, does not provide a good measure of evidence for a model or hypothesis and must be interpreted with context and other evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A claim can therefore misuse a technically real statistic by giving it more argumentative weight than it can bear.
 
-For a source-based claim, ask: **Does the cited source support the exact conclusion?** Recent research on fallacies in health misinformation has found that credible biomedical publications can be superficially cited in support of false claims, even when the original passages do not actually justify the conclusion being drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence</span><span class="citation-popover-snippet">arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence</span></span></span> The evidence gap is hidden inside the citation itself: the source exists, but the inference from source to claim is faulty.
+For a source-based claim, ask: **Does the cited source support the exact conclusion?** Recent research on fallacies in health misinformation has found that credible biomedical publications can be superficially cited in support of false claims, even when the original passages do not actually justify the conclusion being drawn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence</span><span class="citation-popover-snippet">arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence</span></span></span> The evidence gap is hidden inside the citation itself: the source exists, but the inference from source to claim is faulty.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HpP71KmmlYQ" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HpP71KmmlYQ" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: tamuwritingcenter &middot; Views: 25.1K &middot; Uploaded: June 2020 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HpP71KmmlYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HpP71KmmlYQ">Open on YouTube</a></p></div></div></div>
 
@@ -634,269 +634,269 @@ The strongest critical readers therefore ask evidence questions before reaching 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sonXfzE1hvo" title="Methods 101: Random Sampling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sonXfzE1hvo" target="_blank" rel="noopener noreferrer">Methods 101: Random Sampling</a></p><p class="youtube-embed-meta">Channel: Pew Research Center &middot; Views: 256.8K &middot; Uploaded: May 2017 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sonXfzE1hvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sonXfzE1hvo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Evidence Is the Argument Missing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Evidence Is the Argument Missing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on evidence, proof, and detecting weak claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence, proof, and detecting weak claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people accept weak evidence and unsupported leaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people accept weak evidence and unsupported leaps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Provides frameworks for spotting missing evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for spotting missing evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows how evidence can mislead when improperly used.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how evidence can mislead when improperly used.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-what-evidence-is-the-argument-missing-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -912,7 +912,7 @@ The strongest critical readers therefore ask evidence questions before reaching 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -932,7 +932,7 @@ The strongest critical readers therefore ask evidence questions before reaching 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -964,7 +964,7 @@ The strongest critical readers therefore ask evidence questions before reaching 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -994,7 +994,7 @@ The strongest critical readers therefore ask evidence questions before reaching 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1052,238 +1052,238 @@ The strongest critical readers therefore ask evidence questions before reaching 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: owl.excelsior.edu  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLHasty Generalization Fallacy | Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLHasty Generalization Fallacy | Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Cherry picking  
-   Link: <a href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cherry_picking</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cherry_picking</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406</a>  
+   Link:<a href="https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence  
-   Link: <a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
+   Link:<a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/data/pages/25/2e51737bb044ed99a88bdc1220fe8cb660f7687377bed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/25/2e51737bb044ed99a88bdc1220fe8cb660f7687377bed.pdf</a>  
+   Link:<a href="https://www.criticalthinking.org/data/pages/25/2e51737bb044ed99a88bdc1220fe8cb660f7687377bed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/25/2e51737bb044ed99a88bdc1220fe8cb660f7687377bed.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/pages/a-brief-history-of-the-idea-of-critical-thinking/408" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/a-brief-history-of-the-idea-of-critical-thinking/408</a>  
+   Link:<a href="https://www.criticalthinking.org/pages/a-brief-history-of-the-idea-of-critical-thinking/408" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/a-brief-history-of-the-idea-of-critical-thinking/408</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/data/pages/99/579d6b9722ed3418d0b4a7514f0a9f1d513655794857b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/99/579d6b9722ed3418d0b4a7514f0a9f1d513655794857b.pdf</a>  
+   Link:<a href="https://www.criticalthinking.org/data/pages/99/579d6b9722ed3418d0b4a7514f0a9f1d513655794857b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/99/579d6b9722ed3418d0b4a7514f0a9f1d513655794857b.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/pages/center-for-critical-thinking/401" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/center-for-critical-thinking/401</a>  
+   Link:<a href="https://www.criticalthinking.org/pages/center-for-critical-thinking/401" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/center-for-critical-thinking/401</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/store/get_file.php?inventories_id=159" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/store/get_file.php?inventories_id=159</a>  
+   Link:<a href="https://www.criticalthinking.org/store/get_file.php?inventories_id=159" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/store/get_file.php?inventories_id=159</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/data/pages/14/c4b33ac92ec0940ec11171a6d52d6627519d0ee10b37e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/14/c4b33ac92ec0940ec11171a6d52d6627519d0ee10b37e.pdf</a>  
+   Link:<a href="https://www.criticalthinking.org/data/pages/14/c4b33ac92ec0940ec11171a6d52d6627519d0ee10b37e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/14/c4b33ac92ec0940ec11171a6d52d6627519d0ee10b37e.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/files/White%20PaperAssessmentSept2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/files/White%20PaperAssessmentSept2007.pdf</a>  
+   Link:<a href="https://www.criticalthinking.org/files/White%20PaperAssessmentSept2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/files/White%20PaperAssessmentSept2007.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/data/pages/86/2059cb576fc40aa34de9c999042fcf445f7cdc2d30ae6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/86/2059cb576fc40aa34de9c999042fcf445f7cdc2d30ae6.pdf</a>  
+   Link:<a href="https://www.criticalthinking.org/data/pages/86/2059cb576fc40aa34de9c999042fcf445f7cdc2d30ae6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/86/2059cb576fc40aa34de9c999042fcf445f7cdc2d30ae6.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: criticalthinking.org  
-   Link: <a href="https://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496</a>  
+   Link:<a href="https://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/sum2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2022/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/sum2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2022/entries/logic-informal/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
-21. <a id="endnote-21"></a>
-   Source: plato.stanford.edu  
-   Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
-
-22. <a id="endnote-22"></a>
+21.<a id="endnote-21"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
 
-23. <a id="endnote-23"></a>
+22.<a id="endnote-22"></a>
+   Source: plato.stanford.edu  
+   Title: logic informal  
+   Link:<a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
+
+23.<a id="endnote-23"></a>
    Source: plato.stanford.edu  
    Title: descartes epistemology  
-   Link: <a href="https://plato.stanford.edu/entries/descartes-epistemology/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/descartes-epistemology/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/descartes-epistemology/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/descartes-epistemology/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: plato.stanford.edu  
    Title: plato ethics  
-   Link: <a href="https://plato.stanford.edu/archives/fall2015/entries/plato-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/plato-ethics/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2015/entries/plato-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/plato-ethics/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: plato.stanford.edu  
    Title: plato ethics  
-   Link: <a href="https://plato.stanford.edu/archives/fall2007/entries/plato-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2007/entries/plato-ethics/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2007/entries/plato-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2007/entries/plato-ethics/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: 31 logical fallacies in 8 minutes  
-   Link: <a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qf03U04rqGQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qf03U04rqGQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=HpP71KmmlYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HpP71KmmlYQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Listening, Logical Fallacies, and Evaluating Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HpP71KmmlYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HpP71KmmlYQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Listening, Logical Fallacies, and Evaluating Evidence...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Methods 101: Random Sampling  
-   Link: <a href="https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/</a>  
+   Link:<a href="https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: healthknowledge.org.uk  
-   Link: <a href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population</a>  
+   Link:<a href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
+   Link:<a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ftc.gov  
    Title: advertising faqs guide small business  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: healthknowledge.org.uk  
-   Link: <a href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/biases" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/biases</a>  
+   Link:<a href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/biases" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/biases</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108</a>  
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: writingcenter.unc.edu  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: pewresearch.org  
    Title: for weighting online opt in samples what matters most  
-   Link: <a href="https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/</a>  
+   Link:<a href="https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/</a>  
+   Link:<a href="https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pewresearch.org  
    Title: [social media](&#123;&#123; 'social-media/' | relative_url &#125;&#125;) use 2025 methodology  
-   Link: <a href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/</a>  
+   Link:<a href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: askattest.com  
    Title: representative sample  
-   Link: <a href="https://www.askattest.com/blog/articles/representative-sample" target="_blank" rel="noopener noreferrer nofollow">https://www.askattest.com/blog/articles/representative-sample</a>  
+   Link:<a href="https://www.askattest.com/blog/articles/representative-sample" target="_blank" rel="noopener noreferrer nofollow">https://www.askattest.com/blog/articles/representative-sample</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: methods.sagepub.com  
-   Link: <a href="https://methods.sagepub.com/hnbk/edvol/sage-hdbk-public-opinion-research/chpt/sampling" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/hnbk/edvol/sage-hdbk-public-opinion-research/chpt/sampling</a>  
+   Link:<a href="https://methods.sagepub.com/hnbk/edvol/sage-hdbk-public-opinion-research/chpt/sampling" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/hnbk/edvol/sage-hdbk-public-opinion-research/chpt/sampling</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: unr.edu  
-   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
+   Link:<a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: checkbox.com  
    Title: representative sample  
-   Link: <a href="https://www.checkbox.com/blog/representative-sample" target="_blank" rel="noopener noreferrer nofollow">https://www.checkbox.com/blog/representative-sample</a>  
+   Link:<a href="https://www.checkbox.com/blog/representative-sample" target="_blank" rel="noopener noreferrer nofollow">https://www.checkbox.com/blog/representative-sample</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: quillbot.com  
    Title: appeal to ignorance fallacy  
-   Link: <a href="https://quillbot.com/blog/reasoning/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-ignorance-fallacy/</a>  
+   Link:<a href="https://quillbot.com/blog/reasoning/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-ignorance-fallacy/</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesSo, informal fallacies are errors of reasoning that cannot easily be expressed in our standar...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesSo, informal fallacies are errors of reasoning that cannot easily be expressed in our standar...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: purdueglobalwriting.center  
-   Link: <a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue Global Success CenterHasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a co...</p></details>
+   Link:<a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue Global Success CenterHasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a co...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf</a>  
+   Link:<a href="https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html</a>  
+   Link:<a href="https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: labxchange.org  
-   Link: <a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
+   Link:<a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: burtthompson.net  
-   Link: <a href="https://www.burtthompson.net/uploads/9/6/8/4/9684389/wasserstein-2016__asa_p-value_statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.burtthompson.net/uploads/9/6/8/4/9684389/wasserstein-2016__asa_p-value_statement.pdf</a>  
+   Link:<a href="https://www.burtthompson.net/uploads/9/6/8/4/9684389/wasserstein-2016__asa_p-value_statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.burtthompson.net/uploads/9/6/8/4/9684389/wasserstein-2016__asa_p-value_statement.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: errorstatistics.com  
-   Link: <a href="https://errorstatistics.com/wp-content/uploads/2016/03/4_berry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://errorstatistics.com/wp-content/uploads/2016/03/4_berry.pdf</a>  
+   Link:<a href="https://errorstatistics.com/wp-content/uploads/2016/03/4_berry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://errorstatistics.com/wp-content/uploads/2016/03/4_berry.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/701425677/6-Session-Six-Evidence-Evaluation-Causality" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/701425677/6-Session-Six-Evidence-Evaluation-Causality</a>  
+   Link:<a href="https://www.scribd.com/document/701425677/6-Session-Six-Evidence-Evaluation-Causality" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/701425677/6-Session-Six-Evidence-Evaluation-Causality</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/critical-thinking-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/critical-thinking-fallacies</a>
+   Link:<a href="https://www.logicallyfallacious.com/critical-thinking-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/critical-thinking-fallacies</a>

@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-overv
 
 ## Introduction
 
-A hasty generalisation happens when an argument draws a broad conclusion from evidence that is too small, too narrow, or too badly selected to support it. The weakness is not simply that the speaker has generalised; everyday reasoning often has to move from examples to broader claims. The fallacy lies in treating a thin or distorted sample as if it represents the wider group, pattern, product, policy, population or trend. University writing guides commonly describe it as making assumptions about a whole group from an inadequate or atypical sample, and statistics sources describe the same underlying problem as poor generalisation from data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Hasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a conclusion about a population...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[2purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Hasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a conclusion about a population...</span></span></span>
+A hasty generalisation happens when an argument draws a broad conclusion from evidence that is too small, too narrow, or too badly selected to support it. The weakness is not simply that the speaker has generalised; everyday reasoning often has to move from examples to broader claims. The fallacy lies in treating a thin or distorted sample as if it represents the wider group, pattern, product, policy, population or trend. University writing guides commonly describe it as making assumptions about a whole group from an inadequate or atypical sample, and statistics sources describe the same underlying problem as poor generalisation from data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Hasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a conclusion about a population...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[2purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Hasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a conclusion about a population...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-overview.webp" | relative_url }}" alt="Overview image for Bad Samples" loading="eager" decoding="sync" fetchpriority="high">
 This page focuses on the evidence problem behind the fallacy: how much evidence is enough, what makes examples unrepresentative, and how a better generalisation differs from a reckless one. The practical test is not “Have I seen an example?” but “Is this example, or set of examples, good evidence for the size of claim being made?”
@@ -510,7 +510,7 @@ This page focuses on the evidence problem behind the fallacy: how much evidence 
 
 The simplest hasty generalisation uses a tiny sample to make a sweeping claim. “Two students disliked the course, so the course is badly taught.” “My last three parcels arrived late, so the company is unreliable.” “One person recovered after taking a remedy, so the remedy works.” Each claim might point towards a question worth investigating, but the evidence is not yet strong enough for the conclusion.
 
-[Small samples]({{ 'small-samples/' | relative_url }}) are risky because chance variation is larger when there are few observations. A sample of two, five or ten cases can easily produce a striking pattern that fades when more cases are added. The US National Institute of Standards and Technology notes that sample-size choices depend on what is being estimated, how variable the population is, what precision is needed, and practical limits on collecting data; there is no universal magic number that makes evidence adequate in every setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itl.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itl.nist.gov</span><span class="citation-popover-snippet">Open source on nist.gov.</span></span></span>
+[Small samples]({{ 'small-samples/' | relative_url }}) are risky because chance variation is larger when there are few observations. A sample of two, five or ten cases can easily produce a striking pattern that fades when more cases are added. The US National Institute of Standards and Technology notes that sample-size choices depend on what is being estimated, how variable the population is, what precision is needed, and practical limits on collecting data; there is no universal magic number that makes evidence adequate in every setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itl.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itl.nist.gov</span><span class="citation-popover-snippet">Open source on nist.gov.</span></span></span>
 
 That last point matters for fallacy-spotting. A hasty generalisation is not defeated by shouting “sample size!” at every small dataset. Sometimes a small sample is enough: one cracked bridge beam may be enough to justify an inspection, and one confirmed contaminated batch may be enough to withdraw a product. But those are cautious risk responses, not broad claims that every bridge is unsafe or every batch is contaminated. The bigger and more varied the conclusion, the stronger the sample needs to be.
 
@@ -530,13 +530,13 @@ The fallacy often appears when a speaker skips these middle steps. A small sampl
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-1-dark.svg" | relative_url }}" alt="Bad Samples illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Biased examples: why more anecdotes do not always help
 
-A weak sample is not only a small sample. It can also be a biased one. A biased sample systematically over-represents some cases and under-represents others, so adding more examples may simply repeat the same distortion at larger scale. Sampling-bias research describes this as a threat to external validity: the findings may not generalise because the people, cases or observations included in the study are not representative of the target population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSampling Bias and Potential Threats to External Validity</span><span class="citation-popover-snippet">When conducting surveys, researchers often choose 1...Read more...</span></span></span>
+A weak sample is not only a small sample. It can also be a biased one. A biased sample systematically over-represents some cases and under-represents others, so adding more examples may simply repeat the same distortion at larger scale. Sampling-bias research describes this as a threat to external validity: the findings may not generalise because the people, cases or observations included in the study are not representative of the target population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSampling Bias and Potential Threats to External Validity</span><span class="citation-popover-snippet">When conducting surveys, researchers often choose 1...Read more...</span></span></span>
 
 This is why “I have hundreds of examples” is not always a strong defence. Hundreds of complaints on a review site may reveal real problems among complainants, but they do not automatically show what most customers experienced. Hundreds of posts from one online community may show the views of that community, but not of a whole country. A large dataset collected from whoever chooses to respond can still be misleading if the people most likely to respond are unusually angry, enthusiastic, wealthy, online, available, politically engaged, or otherwise different from the group being described.
 
-The famous 1936 Literary [Digest poll]({{ 'digest-poll/' | relative_url }}) is a memorable case because it shows that size alone cannot save a bad sample. The magazine received about 2.4 million returned ballots and still wrongly predicted that Republican Alf Landon would defeat Franklin D. Roosevelt. Historical accounts highlight two problems: the sample frame leaned towards people reachable through sources such as telephone and car-registration lists, and the poll depended on voluntary responses, creating room for response bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathcenter.oxford.emory.edu">[Math Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathcenter.oxford.emory.edu</span><span class="citation-popover-title">historical Blunders</span><span class="citation-popover-snippet">historical Blunders</span></span></span>
+The famous 1936 Literary [Digest poll]({{ 'digest-poll/' | relative_url }}) is a memorable case because it shows that size alone cannot save a bad sample. The magazine received about 2.4 million returned ballots and still wrongly predicted that Republican Alf Landon would defeat Franklin D. Roosevelt. Historical accounts highlight two problems: the sample frame leaned towards people reachable through sources such as telephone and car-registration lists, and the poll depended on voluntary responses, creating room for response bias.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathcenter.oxford.emory.edu">[Math Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathcenter.oxford.emory.edu</span><span class="citation-popover-title">historical Blunders</span><span class="citation-popover-snippet">historical Blunders</span></span></span>
 
-That example is useful beyond polling. It shows the difference between **quantity** and **representativeness**. A million examples drawn from the wrong place may be weaker evidence than a much smaller sample designed to include the right range of people or cases. Modern survey organisations therefore pay close attention to how participants are reached, not merely how many responses are collected. Pew Research Center, for instance, describes using address-based sampling and multiple response modes in its National Public Opinion Reference Survey methodology, including mail, online, paper and phone options, to reduce coverage problems that could arise from relying on one channel alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Methodology</span><span class="citation-popover-snippet">Pew Research Center Methodology</span></span></span>
+That example is useful beyond polling. It shows the difference between **quantity** and **representativeness**. A million examples drawn from the wrong place may be weaker evidence than a much smaller sample designed to include the right range of people or cases. Modern survey organisations therefore pay close attention to how participants are reached, not merely how many responses are collected. Pew Research Center, for instance, describes using address-based sampling and multiple response modes in its National Public Opinion Reference Survey methodology, including mail, online, paper and phone options, to reduce coverage problems that could arise from relying on one channel alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Methodology</span><span class="citation-popover-snippet">Pew Research Center Methodology</span></span></span>
 
 Biased examples commonly enter arguments through:
 
@@ -558,9 +558,9 @@ The key question is not “Are these examples real?” They may be entirely real
 
 Many hasty generalisations are persuasive because they begin with true observations. Some teenagers do spend too much time online. Some politicians do break promises. Some studies do fail to replicate. Some customers do receive poor service. The fallacy appears when “some” quietly becomes “most”, “all”, “always”, “never”, or “that is just how they are”.
 
-This leap is especially tempting when the examples fit an existing stereotype. Purdue Global’s writing centre notes that hasty generalisations often sit behind stereotypes, because one person or event is treated as typical of a whole class. <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Hasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a conclusion about a population...</span></span></span> A stereotype can make a weak sample feel stronger than it is: once the listener already expects a pattern, a single vivid case may seem like confirmation rather than a small, possibly atypical data point.
+This leap is especially tempting when the examples fit an existing stereotype. Purdue Global’s writing centre notes that hasty generalisations often sit behind stereotypes, because one person or event is treated as typical of a whole class.<span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Hasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a conclusion about a population...</span></span></span> A stereotype can make a weak sample feel stronger than it is: once the listener already expects a pattern, a single vivid case may seem like confirmation rather than a small, possibly atypical data point.
 
-The cognitive version of this problem is sometimes discussed as belief in the “law of small numbers”: the mistaken expectation that small samples will closely resemble the larger population. Tversky and Kahneman’s classic work argued that people often treat small samples as more representative than they really are, and later research continues to examine sample-size neglect as a persistent reasoning problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">BELIE F IN THE LAW OF SMALL NUMBERS</span></span></span>
+The cognitive version of this problem is sometimes discussed as belief in the “law of small numbers”: the mistaken expectation that small samples will closely resemble the larger population. Tversky and Kahneman’s classic work argued that people often treat small samples as more representative than they really are, and later research continues to examine sample-size neglect as a persistent reasoning problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">BELIE F IN THE LAW OF SMALL NUMBERS</span></span></span>
 
 In everyday [debate]({{ 'debate/' | relative_url }}), this creates a recognisable pattern:
 
@@ -581,7 +581,7 @@ This does not mean personal [experience]({{ 'experience/' | relative_url }}) is 
 
 There is no single sample size that makes every generalisation safe. “Enough” depends on the claim being made. A claim about a narrow, uniform group needs less evidence than a claim about a large, diverse population. A claim about a dramatic effect may need fewer observations than a claim about a subtle difference. A claim used for a high-stakes decision needs stronger evidence than a casual working guess.
 
-Statistics guidance on sample size makes this context-dependence clear: researchers consider the target population, the parameter being estimated, population variability, desired precision, cost, prior knowledge and practical [feasibility]({{ 'feasibility/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itl.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itl.nist.gov</span><span class="citation-popover-snippet">Open source on nist.gov.</span></span></span> In medical and experimental settings, sample size also affects the risk of missing real effects or reporting unstable results; a widely cited “Statistics in Brief” article describes sample size as a major determinant of the risk of false-negative findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span></span></span>
+Statistics guidance on sample size makes this context-dependence clear: researchers consider the target population, the parameter being estimated, population variability, desired precision, cost, prior knowledge and practical [feasibility]({{ 'feasibility/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itl.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itl.nist.gov</span><span class="citation-popover-snippet">Open source on nist.gov.</span></span></span> In medical and experimental settings, sample size also affects the risk of missing real effects or reporting unstable results; a widely cited “Statistics in Brief” article describes sample size as a major determinant of the risk of false-negative findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span></span></span>
 
 For ordinary arguments, the practical standard is less technical but still disciplined. Before accepting a generalisation, ask:
 
@@ -604,7 +604,7 @@ A better generalisation matches its wording to its evidence. Instead of saying �
 
 Hasty generalisations are common in public debate because public arguments often reward speed, vividness and confidence. A single viral video becomes “what people are like now”. A dramatic local crime becomes proof of a national trend. A few bad encounters become a judgement about a profession, generation, nationality or political group. The sample is memorable, but the conclusion outruns it.
 
-Polling and survey examples show why this matters. The American [Association]({{ 'association/' | relative_url }}) for Public Opinion Research’s work on non-probability sampling stresses that such methods vary widely and require careful assessment before researchers use them to make claims about a larger population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aapor.org">[AAPOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aapor.org</span><span class="citation-popover-title">NPS TF Report Final 7 revised FNL 6 22 13 1</span><span class="citation-popover-snippet">NPS TF Report Final 7 revised FNL 6 22 13 1</span></span></span> More recent research on nonprobability samples makes a similar point: they can be useful when limitations are assessed, mitigated and clearly communicated, but their unknown selection mechanisms can lead to spurious conclusions, and very large nonprobability datasets can be “effectively” much smaller than they appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv We need to talk about nonprobability samples</span><span class="citation-popover-snippet">arXiv We need to talk about nonprobability samples</span></span></span>
+Polling and survey examples show why this matters. The American [Association]({{ 'association/' | relative_url }}) for Public Opinion Research’s work on non-probability sampling stresses that such methods vary widely and require careful assessment before researchers use them to make claims about a larger population.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aapor.org">[AAPOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aapor.org</span><span class="citation-popover-title">NPS TF Report Final 7 revised FNL</span><span class="citation-popover-snippet">NPS TF Report Final 7 revised FNL</span></span></span> More recent research on nonprobability samples makes a similar point: they can be useful when limitations are assessed, mitigated and clearly communicated, but their unknown selection mechanisms can lead to spurious conclusions, and very large nonprobability datasets can be “effectively” much smaller than they appear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv We need to talk about nonprobability samples</span><span class="citation-popover-snippet">arXiv We need to talk about nonprobability samples</span></span></span>
 
 This distinction is useful for evaluating modern evidence. Online reviews, social-media posts, call-in polls, petition signatures, comment sections and platform analytics can reveal real signals. They can show what certain active groups care about, what complaints recur, or what experiences deserve closer attention. But they are usually weak evidence for claims about everyone, because the route into the sample is not neutral.
 
@@ -616,7 +616,7 @@ The same issue appears in workplace and consumer arguments. A manager who only h
 
 The answer to hasty generalisation is not to avoid generalising altogether. Human beings have to make provisional judgements from incomplete evidence. Scientists, journalists, teachers, doctors, managers and ordinary citizens all use samples because complete information is often impossible. The goal is to make generalisations that are proportionate to the evidence and open to correction.
 
-A stronger generalisation usually does three things. First, it defines the group clearly. Second, it explains how the evidence was gathered. Third, it uses wording that reflects uncertainty. “In this survey of 1,200 adults selected through a probability-based panel…” is much stronger than “Everyone thinks…” because the reader can see the population, method and limits of the claim. Probability sampling is widely valued in quantitative research because each member of the population has a known chance of selection, which helps reduce selection bias when the aim is population-level inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2772906024005089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A stronger generalisation usually does three things. First, it defines the group clearly. Second, it explains how the evidence was gathered. Third, it uses wording that reflects uncertainty. “In this survey of 1,200 adults selected through a probability-based panel…” is much stronger than “Everyone thinks…” because the reader can see the population, method and limits of the claim. Probability sampling is widely valued in quantitative research because each member of the population has a known chance of selection, which helps reduce selection bias when the aim is population-level inference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2772906024005089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Careful wording also prevents a useful observation from turning into a fallacy. Compare these versions:
 
@@ -649,237 +649,237 @@ Ask four questions:
 The most reliable version of the lesson is modest but powerful: examples are not automatically evidence of a general rule. They become good evidence only when they are numerous enough, relevant enough and representative enough for the claim being made. A hasty generalisation fails because it treats a weak sample as if it had already done that work.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Evidence Is Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Evidence Is Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Directly addresses judgments from small samples and cognitive biases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses judgments from small samples and cognitive biases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Explains how evidence quality affects conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how evidence quality affects conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how people misread patterns from limited or biased information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how people misread patterns from limited or biased information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Illustrates misleading generalizations from weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates misleading generalizations from weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79343ddf06168bc7feb6.jpg' | relative_url }}" alt="Listing image for Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79343ddf06168bc7feb6.jpg' | relative_url }}" alt="Listing image for Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1990f2b8a18e523a6aff.jpg' | relative_url }}" alt="Listing image for Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1990f2b8a18e523a6aff.jpg' | relative_url }}" alt="Listing image for Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-samples-how-much-evidence-is-enough-logical-fallacies-statistics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -895,7 +895,7 @@ The most reliable version of the lesson is modest but powerful: examples are not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -915,7 +915,7 @@ The most reliable version of the lesson is modest but powerful: examples are not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -947,7 +947,7 @@ The most reliable version of the lesson is modest but powerful: examples are not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -977,7 +977,7 @@ The most reliable version of the lesson is modest but powerful: examples are not
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1035,146 +1035,146 @@ The most reliable version of the lesson is modest but powerful: examples are not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: purdueglobalwriting.center  
-   Link: <a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
+   Link:<a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSampling Bias and Potential [Threats](&#123;&#123; 'threats/' | relative_url &#125;&#125;) to External Validity  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When conducting surveys, researchers often choose 1...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When conducting surveys, researchers often choose 1...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: itl.nist.gov  
-   Link: <a href="https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm</a>  
+   Link:<a href="https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stats.org.uk  
    Title: BELIE F IN THE LAW OF SMALL NUMBERS  
-   Link: <a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
+   Link:<a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan we shift belief in the 'Law of Small Numbers'?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCStatistics in Brief: The Importance of Sample Size  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aapor.org  
    Title: NPS TF Report Final 7 revised FNL 6 22 13 1  
-   Link: <a href="https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf</a>  
+   Link:<a href="https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv We need to talk about nonprobability samples  
-   Link: <a href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.07298</a>  
+   Link:<a href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.07298</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2772906024005089" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772906024005089</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2772906024005089" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772906024005089</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: itl.nist.gov  
-   Link: <a href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm</a>  
+   Link:<a href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nvlpubs.nist.gov  
    Title: jresv47n6p491 A1b  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/jres/47/jresv47n6p491_A1b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/jres/47/jresv47n6p491_A1b.pdf</a>  
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/jres/47/jresv47n6p491_A1b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/jres/47/jresv47n6p491_A1b.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0169534723000058" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169534723000058</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0169534723000058" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169534723000058</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - UNC Writing CenterHasty generalization. Definition: Making assumptions about a whole group or range of case...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - UNC Writing CenterHasty generalization. Definition: Making assumptions about a whole group or range of case...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mathcenter.oxford.emory.edu  
    Title: historical Blunders  
-   Link: <a href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow">https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/</a>  
+   Link:<a href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow">https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Methodology  
-   Link: <a href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/</a>  
+   Link:<a href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/representative" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/representative</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/representative" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/representative</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: opentextbooks.library.arizona.edu  
    Title: hasty generalizations  
-   Link: <a href="https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/</a>  
+   Link:<a href="https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pewresearch.org  
    Title: comparing two types of online survey samples  
-   Link: <a href="https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/</a>  
+   Link:<a href="https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linguee.nl  
-   Link: <a href="https://www.linguee.nl/engels-nederlands/vertaling/representative.html" target="_blank" rel="noopener noreferrer nofollow">https://www.linguee.nl/engels-nederlands/vertaling/representative.html</a>  
+   Link:<a href="https://www.linguee.nl/engels-nederlands/vertaling/representative.html" target="_blank" rel="noopener noreferrer nofollow">https://www.linguee.nl/engels-nederlands/vertaling/representative.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gymglish.com  
-   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/representative" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/representative</a>  
+   Link:<a href="https://www.gymglish.com/en/gymglish/english-translation/representative" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/representative</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: What is Hasty Generalization? (Easiest Explanation)  
-   Link: <a href="https://www.youtube.com/watch?v=zXystSfiClI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zXystSfiClI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 What is hasty generalization? [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) Explained #25...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zXystSfiClI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zXystSfiClI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 What is hasty generalization? [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) Explained #25...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: What is hasty generalization? Logical Fallacies Explained #25  
-   Link: <a href="https://www.youtube.com/watch?v=ZK-DMZziTMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZK-DMZziTMw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Hasty Generalization (Logical Fallacy)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZK-DMZziTMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZK-DMZziTMw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Hasty Generalization (Logical Fallacy)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/8285370/Belief_in_the_law_of_small_numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8285370/Belief_in_the_law_of_small_numbers</a>  
+   Link:<a href="https://www.academia.edu/8285370/Belief_in_the_law_of_small_numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8285370/Belief_in_the_law_of_small_numbers</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: bookdown.org  
-   Link: <a href="https://bookdown.org/pkaldunn/SRM-Textbook/Sampling.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/pkaldunn/SRM-Textbook/Sampling.html</a>  
+   Link:<a href="https://bookdown.org/pkaldunn/SRM-Textbook/Sampling.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/pkaldunn/SRM-Textbook/Sampling.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: delighted.com  
-   Link: <a href="https://delighted.com/blog/avoid-7-types-sampling-response-survey-bias" target="_blank" rel="noopener noreferrer nofollow">https://delighted.com/blog/avoid-7-types-sampling-response-survey-bias</a>  
+   Link:<a href="https://delighted.com/blog/avoid-7-types-sampling-response-survey-bias" target="_blank" rel="noopener noreferrer nofollow">https://delighted.com/blog/avoid-7-types-sampling-response-survey-bias</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sarid-ins.com  
-   Link: <a href="https://sarid-ins.com/sample-size-representativeness-in-research/" target="_blank" rel="noopener noreferrer nofollow">https://sarid-ins.com/sample-size-representativeness-in-research/</a>  
+   Link:<a href="https://sarid-ins.com/sample-size-representativeness-in-research/" target="_blank" rel="noopener noreferrer nofollow">https://sarid-ins.com/sample-size-representativeness-in-research/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: olebo.github.io  
-   Link: <a href="https://olebo.github.io/textbook/ch/02/design_dewey_truman.html" target="_blank" rel="noopener noreferrer nofollow">https://olebo.github.io/textbook/ch/02/design_dewey_truman.html</a>  
+   Link:<a href="https://olebo.github.io/textbook/ch/02/design_dewey_truman.html" target="_blank" rel="noopener noreferrer nofollow">https://olebo.github.io/textbook/ch/02/design_dewey_truman.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/hasty" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/hasty</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/hasty" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/hasty</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: tckpublishing.com  
-   Link: <a href="https://www.tckpublishing.com/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.tckpublishing.com/hasty-generalization/</a>
+   Link:<a href="https://www.tckpublishing.com/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.tckpublishing.com/hasty-generalization/</a>

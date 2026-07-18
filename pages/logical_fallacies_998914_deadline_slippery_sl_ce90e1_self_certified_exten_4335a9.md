@@ -271,15 +271,15 @@ image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_
 Self-certified extensions are often introduced as a practical compromise between strict [deadlines]({{ 'deadlines/' | relative_url }}) and the reality that people sometimes face short-term problems that are difficult to document immediately. In universities and other assessment systems, a self-certified extension typically allows a brief postponement without requiring medical notes or other evidence. Critics sometimes argue that such schemes will inevitably be abused and will eventually undermine all deadlines. Within the broader debate about deadline extensions and [slippery slope]({{ 'slippery-slope/' | relative_url }}) fears, self-certification provides a useful test case: can a limited exception help genuine cases without creating widespread strategic delay?
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-1-dark.svg" | relative_url }}" alt="Self Certify illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The evidence suggests that the answer depends less on the existence of self-certification itself and more on how it is designed. Institutions that allow self-certified extensions rarely offer unlimited discretion. Instead, they attach [boundaries]({{ 'boundaries/' | relative_url }}) that are specifically intended to prevent the progression from “one justified exception” to “deadlines no longer matter”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
+The evidence suggests that the answer depends less on the existence of self-certification itself and more on how it is designed. Institutions that allow self-certified extensions rarely offer unlimited discretion. Instead, they attach [boundaries]({{ 'boundaries/' | relative_url }}) that are specifically intended to prevent the progression from “one justified exception” to “deadlines no longer matter”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
 
 ## Why Self-Certification Exists
 
 The main justification for self-certification is that some genuine difficulties are short-lived, unpredictable, and hard to document quickly. A student with a brief illness, a sudden caring responsibility, or an unexpected personal problem may need a few extra days but may not be able to obtain evidence before the deadline.
 
-Several universities now allow short self-certified extensions for this reason. Examples include policies permitting five- to seven-day extensions without supporting documentation, often for coursework rather than examinations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ox.ac.uk">[Oxford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ox.ac.uk</span><span class="citation-popover-snippet">ford UniversityProblems completing your assessment3 days ago — You can apply via Student Self Service (go to &#x27;My exams&#x27;, select &#x27;extens...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cst.cam.ac.uk/teaching/exams/deadlines/policy-self-certified-extensions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cst.cam.ac.uk">[Centre for Smart Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cst.cam.ac.uk</span><span class="citation-popover-snippet">Centre for Smart TechnologyDepartmental Policy on self-certified dissertation, coursework...In brief, it allows for students to self-cer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
+Several universities now allow short self-certified extensions for this reason. Examples include policies permitting five- to seven-day extensions without supporting documentation, often for coursework rather than examinations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ox.ac.uk">[Oxford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ox.ac.uk</span><span class="citation-popover-snippet">ford UniversityProblems completing your assessment3 days ago — You can apply via Student Self Service (go to &#x27;My exams&#x27;, select &#x27;extens...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cst.cam.ac.uk/teaching/exams/deadlines/policy-self-certified-extensions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cst.cam.ac.uk">[Centre for Smart Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cst.cam.ac.uk</span><span class="citation-popover-snippet">Centre for Smart TechnologyDepartmental Policy on self-certified dissertation, coursework...In brief, it allows for students to self-cer...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
 
-The policy rationale is partly administrative. Requiring formal evidence for every minor disruption can create costs for students, medical professionals, and administrators. The UK higher education ombudsman, the Office of the Independent Adjudicator (OIA), notes that self-certification can be appropriate when paired with clear limits and expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span>
+The policy rationale is partly administrative. Requiring formal evidence for every minor disruption can create costs for students, medical professionals, and administrators. The UK higher education ombudsman, the Office of the Independent Adjudicator (OIA), notes that self-certification can be appropriate when paired with clear limits and expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span>
 
 From a logical-fallacy perspective, self-certification matters because it challenges a common slippery slope claim. The claim often runs as follows:
 
@@ -302,15 +302,15 @@ The most striking feature of real self-certification policies is that they are r
 
 Common restrictions include:
 
-* Limiting self-certification to one or two uses per semester or academic year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uea.ac.uk/about/university-information/governance/policies-and-regulations/general-regulations/extenuating-circumstances-research-programme-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uea.ac.uk">[University of East Anglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uea.ac.uk</span><span class="citation-popover-snippet">Where students request more than one extension...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcusu.com/advice/extenuatingcircumstances/selfcert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcusu.com">[3bcusu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcusu.com</span><span class="citation-popover-snippet">Self-Certification ClaimsSelf-certification claims provide extensions of 10 working days for any coursework or coursework-style assessmen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tameside.ac.uk">[3tameside.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tameside.ac.uk</span><span class="citation-popover-title">HE Extensions and Extenuating Circumstances Policy2025</span><span class="citation-popover-snippet">Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</span></span></span>
-* Restricting eligibility to certain forms of coursework and excluding presentations, practical assessments, group projects, or examinations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span>
-* Capping the extension length, commonly at five to seven days. Centre for Smart Technology <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
-* Preventing repeated extensions for the same assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
-* Requiring formal evidence once self-certification limits are exhausted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridgestudents.cam.ac.uk/files/2025-26_guidance_for_coursework_extensions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgestudents.cam.ac.uk">[Cambridge Students]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgestudents.cam.ac.uk</span><span class="citation-popover-snippet">up to 7 days) where there is no need to evidence the need for the extension. The relevant application...Read more...</span></span></span>
+* Limiting self-certification to one or two uses per semester or academic year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uea.ac.uk/about/university-information/governance/policies-and-regulations/general-regulations/extenuating-circumstances-research-programme-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uea.ac.uk">[University of East Anglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uea.ac.uk</span><span class="citation-popover-snippet">Where students request more than one extension...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcusu.com/advice/extenuatingcircumstances/selfcert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcusu.com">[3bcusu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcusu.com</span><span class="citation-popover-snippet">Self-Certification ClaimsSelf-certification claims provide extensions of 10 working days for any coursework or coursework-style assessmen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tameside.ac.uk">[3tameside.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tameside.ac.uk</span><span class="citation-popover-title">HE Extensions and Extenuating Circumstances Policy2025</span><span class="citation-popover-snippet">Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</span></span></span>
+* Restricting eligibility to certain forms of coursework and excluding presentations, practical assessments, group projects, or examinations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span>
+* Capping the extension length, commonly at five to seven days. Centre for Smart Technology<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
+* Preventing repeated extensions for the same assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
+* Requiring formal evidence once self-certification limits are exhausted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridgestudents.cam.ac.uk/files/2025-26_guidance_for_coursework_extensions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgestudents.cam.ac.uk">[Cambridge Students]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgestudents.cam.ac.uk</span><span class="citation-popover-snippet">up to 7 days) where there is no need to evidence the need for the extension. The relevant application...Read more...</span></span></span>
 
 These restrictions matter because they target the mechanism that a slippery slope argument would need to establish. If a policy allows only one self-certified claim per semester, for example, then a prediction that unlimited extensions will follow requires additional evidence explaining how those formal limits will fail in practice.
 
-A useful way to think about these safeguards is that they create decision points. Someone may receive a short extension without evidence, but repeated requests trigger a different process. The policy therefore does not simply move from “exception” to “no rule”; it introduces thresholds that must be crossed before additional flexibility is granted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tameside.ac.uk">[2tameside.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tameside.ac.uk</span><span class="citation-popover-title">HE Extensions and Extenuating Circumstances Policy2025</span><span class="citation-popover-snippet">Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</span></span></span>
+A useful way to think about these safeguards is that they create decision points. Someone may receive a short extension without evidence, but repeated requests trigger a different process. The policy therefore does not simply move from “exception” to “no rule”; it introduces thresholds that must be crossed before additional flexibility is granted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tameside.ac.uk">[2tameside.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tameside.ac.uk</span><span class="citation-popover-title">HE Extensions and Extenuating Circumstances Policy2025</span><span class="citation-popover-snippet">Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-2-dark.svg" | relative_url }}" alt="Self Certify illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Abuse Claims Need to Prove
@@ -321,7 +321,7 @@ To support that conclusion, critics need evidence for several distinct claims:
 
 **That misuse actually occurs.**
 
-Research and staff reports indicate that some academics believe students sometimes use extension processes strategically rather than solely for unforeseen difficulties. A recent study of staff perceptions found concerns that extension systems can be exploited and that some requests may be tactical rather than necessity-driven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeshighereducation.com/news/students-routinely-abuse-assessment-deadline-extension-requests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeshighereducation.com">[Times Higher Education (THE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeshighereducation.com</span><span class="citation-popover-snippet">December 19, 2024 — 19 Dec 2024 — Students are routinely misusing “easy to abuse” university systems that allow them to secure extensions...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span>
+Research and staff reports indicate that some academics believe students sometimes use extension processes strategically rather than solely for unforeseen difficulties. A recent study of staff perceptions found concerns that extension systems can be exploited and that some requests may be tactical rather than necessity-driven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeshighereducation.com/news/students-routinely-abuse-assessment-deadline-extension-requests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeshighereducation.com">[Times Higher Education (THE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeshighereducation.com</span><span class="citation-popover-snippet">December 19, 2024 — 19 Dec 2024 — Students are routinely misusing “easy to abuse” university systems that allow them to secure extensions...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span>
 
 **That misuse is common rather than exceptional.**
 
@@ -329,7 +329,7 @@ Evidence that a minority exploit a system does not establish widespread abuse. A
 
 **That safeguards fail.**
 
-If extension limits, frequency caps, and escalation requirements effectively contain strategic use, then the prediction of system-wide erosion becomes much weaker. The burden is on critics to show that these controls are routinely circumvented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
+If extension limits, frequency caps, and escalation requirements effectively contain strategic use, then the prediction of system-wide erosion becomes much weaker. The burden is on critics to show that these controls are routinely circumvented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</span></span></span>
 
 **That the costs exceed the benefits.**
 
@@ -347,282 +347,282 @@ Does usage rise dramatically after introduction? Are repeat requests concentrate
 
 These questions focus on observable outcomes rather than hypothetical chains of events. They therefore provide a stronger basis for policy decisions than claims that any relaxation of evidence requirements must inevitably destroy deadline discipline.
 
-In logical terms, the critical distinction is between demonstrating a mechanism and merely asserting one. Self-certified extensions show that institutions can permit a narrow exception while retaining rules, thresholds, and enforcement structures. Whether a particular scheme succeeds depends on evidence about its operation, not on the assumption that every exception automatically leads to uncontrolled expansion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tameside.ac.uk">[tameside.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tameside.ac.uk</span><span class="citation-popover-title">HE Extensions and Extenuating Circumstances Policy2025</span><span class="citation-popover-snippet">Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[3oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cst.cam.ac.uk/teaching/exams/deadlines/policy-self-certified-extensions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cst.cam.ac.uk">[Centre for Smart Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cst.cam.ac.uk</span><span class="citation-popover-snippet">Centre for Smart TechnologyDepartmental Policy on self-certified dissertation, coursework...In brief, it allows for students to self-cer...</span></span></span>
+In logical terms, the critical distinction is between demonstrating a mechanism and merely asserting one. Self-certified extensions show that institutions can permit a narrow exception while retaining rules, thresholds, and enforcement structures. Whether a particular scheme succeeds depends on evidence about its operation, not on the assumption that every exception automatically leads to uncontrolled expansion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tameside.ac.uk">[tameside.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tameside.ac.uk</span><span class="citation-popover-title">HE Extensions and Extenuating Circumstances Policy2025</span><span class="citation-popover-snippet">Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[3oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cst.cam.ac.uk/teaching/exams/deadlines/policy-self-certified-extensions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cst.cam.ac.uk">[Centre for Smart Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cst.cam.ac.uk</span><span class="citation-popover-snippet">Centre for Smart TechnologyDepartmental Policy on self-certified dissertation, coursework...In brief, it allows for students to self-cer...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6nhA_i4r_-Q" title="The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer">The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 2.1K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6nhA_i4r_-Q">Open on YouTube</a></p></div></div></div>
 
 ## Can Self-Certified Extensions Stay Fair?
 
-The available evidence suggests that fairness does not depend on eliminating all discretion. Instead, fairness depends on whether discretion is structured and limited. Universities that use self-certification typically combine trust with boundaries: short extension periods, restrictions on eligible assessments, caps on frequency, and requirements for evidence once those limits are reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tameside.ac.uk">[tameside.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tameside.ac.uk</span><span class="citation-popover-title">HE Extensions and Extenuating Circumstances Policy2025</span><span class="citation-popover-snippet">Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcusu.com/advice/extenuatingcircumstances/selfcert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcusu.com">[3bcusu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcusu.com</span><span class="citation-popover-snippet">Self-Certification ClaimsSelf-certification claims provide extensions of 10 working days for any coursework or coursework-style assessmen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[3oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span>
+The available evidence suggests that fairness does not depend on eliminating all discretion. Instead, fairness depends on whether discretion is structured and limited. Universities that use self-certification typically combine trust with boundaries: short extension periods, restrictions on eligible assessments, caps on frequency, and requirements for evidence once those limits are reached.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tameside.ac.uk">[tameside.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tameside.ac.uk</span><span class="citation-popover-title">HE Extensions and Extenuating Circumstances Policy2025</span><span class="citation-popover-snippet">Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bcusu.com/advice/extenuatingcircumstances/selfcert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcusu.com">[3bcusu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcusu.com</span><span class="citation-popover-snippet">Self-Certification ClaimsSelf-certification claims provide extensions of 10 working days for any coursework or coursework-style assessmen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[3oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span>
 
-As a result, the strongest argument against self-certification is not simply that abuse could occur. It is that abuse occurs often enough, and safeguards fail often enough, that the policy no longer serves its intended purpose. Without that evidence, the claim that a small self-certified extension will inevitably lead to the collapse of deadline standards remains a slippery slope prediction rather than a demonstrated outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeshighereducation.com/news/students-routinely-abuse-assessment-deadline-extension-requests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeshighereducation.com">[2Times Higher Education (THE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeshighereducation.com</span><span class="citation-popover-snippet">December 19, 2024 — 19 Dec 2024 — Students are routinely misusing “easy to abuse” university systems that allow them to secure extensions...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span>
+As a result, the strongest argument against self-certification is not simply that abuse could occur. It is that abuse occurs often enough, and safeguards fail often enough, that the policy no longer serves its intended purpose. Without that evidence, the claim that a small self-certified extension will inevitably lead to the collapse of deadline standards remains a slippery slope prediction rather than a demonstrated outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Evidence and self-certification</span><span class="citation-popover-snippet">Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeshighereducation.com/news/students-routinely-abuse-assessment-deadline-extension-requests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeshighereducation.com">[2Times Higher Education (THE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeshighereducation.com</span><span class="citation-popover-snippet">December 19, 2024 — 19 Dec 2024 — Students are routinely misusing “easy to abuse” university systems that allow them to secure extensions...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-3-dark.svg" | relative_url }}" alt="Self Certify illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Self Certified Extensions Stay Fair?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Self Certified Extensions Stay Fair?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Supports analysis of evidence for policy concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports analysis of evidence for policy concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Useful for understanding predictions about behavior and misuse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding predictions about behavior and misuse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Helps evaluate claims about abuse, fairness, and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps evaluate claims about abuse, fairness, and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
-        </h4>
-        <p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
+</h4>
+<p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
         
-        <p class="fr-book-desc">Explains slippery-slope and unsupported prediction errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains slippery-slope and unsupported prediction errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-certify-can-self-certified-extensions-stay-fair-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ As a result, the strongest argument against self-certification is not simply tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ As a result, the strongest argument against self-certification is not simply tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ As a result, the strongest argument against self-certification is not simply tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -720,7 +720,7 @@ As a result, the strongest argument against self-certification is not simply tha
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -778,116 +778,116 @@ As a result, the strongest argument against self-certification is not simply tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oiahe.org.uk  
    Title: Evidence and self-certification  
-   Link: <a href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow">https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</p></details>
+   Link:<a href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/" target="_blank" rel="noopener noreferrer nofollow">https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/evidence-and-self-certification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Placing a limit on the number of assessments (or days) for which self-certification will normally be allowed, after which the studen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tameside.ac.uk  
    Title: HE Extensions and Extenuating Circumstances Policy2025  
-   Link: <a href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</p></details>
+   Link:<a href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-certification extensions will only be accepted for a maximum of two occasions over an academic year, with no more than one...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bcusu.com  
-   Link: <a href="https://www.bcusu.com/advice/extenuatingcircumstances/selfcert/" target="_blank" rel="noopener noreferrer nofollow">https://www.bcusu.com/advice/extenuatingcircumstances/selfcert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Certification ClaimsSelf-certification claims provide extensions of 10 working days for any coursework or coursework-style assessmen...</p></details>
+   Link:<a href="https://www.bcusu.com/advice/extenuatingcircumstances/selfcert/" target="_blank" rel="noopener noreferrer nofollow">https://www.bcusu.com/advice/extenuatingcircumstances/selfcert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Certification ClaimsSelf-certification claims provide extensions of 10 working days for any coursework or coursework-style assessmen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Slippery Slope Fallacy (Definition & Easiest Explanation)  
-   Link: <a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalization...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalization...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reading.ac.uk  
-   Link: <a href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</p></details>
+   Link:<a href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of ReadingEC Self Cert FAQsThe self-certification extension will be for seven calendar days. It is NOT permitted to use two se...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cst.cam.ac.uk  
-   Link: <a href="https://www.cst.cam.ac.uk/teaching/exams/deadlines/policy-self-certified-extensions" target="_blank" rel="noopener noreferrer nofollow">https://www.cst.cam.ac.uk/teaching/exams/deadlines/policy-self-certified-extensions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre for Smart TechnologyDepartmental Policy on self-certified dissertation, coursework...In brief, it allows for students to self-cer...</p></details>
+   Link:<a href="https://www.cst.cam.ac.uk/teaching/exams/deadlines/policy-self-certified-extensions" target="_blank" rel="noopener noreferrer nofollow">https://www.cst.cam.ac.uk/teaching/exams/deadlines/policy-self-certified-extensions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centre for Smart TechnologyDepartmental Policy on self-certified dissertation, coursework...In brief, it allows for students to self-cer...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ox.ac.uk  
-   Link: <a href="https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford UniversityProblems completing your assessment3 days ago — You can apply via Student Self Service (go to &#x27;My exams&#x27;, select &#x27;extens...</p></details>
+   Link:<a href="https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford UniversityProblems completing your assessment3 days ago — You can apply via Student Self Service (go to &#x27;My exams&#x27;, select &#x27;extens...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uea.ac.uk  
-   Link: <a href="https://www.uea.ac.uk/about/university-information/governance/policies-and-regulations/general-regulations/extenuating-circumstances-research-programme-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.uea.ac.uk/about/university-information/governance/policies-and-regulations/general-regulations/extenuating-circumstances-research-programme-assessment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Where students request more than one extension...Read more...</p></details>
+   Link:<a href="https://www.uea.ac.uk/about/university-information/governance/policies-and-regulations/general-regulations/extenuating-circumstances-research-programme-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.uea.ac.uk/about/university-information/governance/policies-and-regulations/general-regulations/extenuating-circumstances-research-programme-assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where students request more than one extension...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridgestudents.cam.ac.uk  
-   Link: <a href="https://www.cambridgestudents.cam.ac.uk/files/2025-26_guidance_for_coursework_extensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgestudents.cam.ac.uk/files/2025-26_guidance_for_coursework_extensions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(up to 7 days) where there is no need to evidence the need for the extension. The relevant application...Read more...</p></details>
+   Link:<a href="https://www.cambridgestudents.cam.ac.uk/files/2025-26_guidance_for_coursework_extensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgestudents.cam.ac.uk/files/2025-26_guidance_for_coursework_extensions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(up to 7 days) where there is no need to evidence the need for the extension. The relevant application...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: timeshighereducation.com  
-   Link: <a href="https://www.timeshighereducation.com/news/students-routinely-abuse-assessment-deadline-extension-requests" target="_blank" rel="noopener noreferrer nofollow">https://www.timeshighereducation.com/news/students-routinely-abuse-assessment-deadline-extension-requests</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2024 — 19 Dec 2024 — Students are routinely misusing “easy to abuse” university systems that allow them to secure extensions...</p></details>
+   Link:<a href="https://www.timeshighereducation.com/news/students-routinely-abuse-assessment-deadline-extension-requests" target="_blank" rel="noopener noreferrer nofollow">https://www.timeshighereducation.com/news/students-routinely-abuse-assessment-deadline-extension-requests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2024 — 19 Dec 2024 — Students are routinely misusing “easy to abuse” university systems that allow them to secure extensions...</p></details>
    Published: December 19, 2024  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: greenwichsu.co.uk  
-   Link: <a href="https://www.greenwichsu.co.uk/advice/academic/extenuatingcircumstances/" target="_blank" rel="noopener noreferrer nofollow">https://www.greenwichsu.co.uk/advice/academic/extenuatingcircumstances/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extenuating CircumstancesSelf-Certification. Students can now self-certify up to three times per academic year (additional claims will ne...</p></details>
+   Link:<a href="https://www.greenwichsu.co.uk/advice/academic/extenuatingcircumstances/" target="_blank" rel="noopener noreferrer nofollow">https://www.greenwichsu.co.uk/advice/academic/extenuatingcircumstances/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extenuating CircumstancesSelf-Certification. Students can now self-certify up to three times per academic year (additional claims will ne...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: warwick.ac.uk  
-   Link: <a href="https://warwick.ac.uk/fac/arts/classics/intranets/students/mitigatingcircumstances/what_does_the_portal_look_like.pdf" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/arts/classics/intranets/students/mitigatingcircumstances/what_does_the_portal_look_like.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Certification ExtensionsConsequently, students can self-certify up to 5- working days before an assessment deadline. After inputting...</p></details>
+   Link:<a href="https://warwick.ac.uk/fac/arts/classics/intranets/students/mitigatingcircumstances/what_does_the_portal_look_like.pdf" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/arts/classics/intranets/students/mitigatingcircumstances/what_does_the_portal_look_like.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Certification ExtensionsConsequently, students can self-certify up to 5- working days before an assessment deadline. After inputting...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: surreyunion.org  
-   Link: <a href="https://surreyunion.org/your-support/get-advice-from-the-union/academic-advice/extenuating-circumstance/self-certified-ecs" target="_blank" rel="noopener noreferrer nofollow">https://surreyunion.org/your-support/get-advice-from-the-union/academic-advice/extenuating-circumstance/self-certified-ecs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-certified ECsSelf-certified EC&#x27;s are a way to ask the University for either a deferral or a short extension of an assessment but you...</p></details>
+   Link:<a href="https://surreyunion.org/your-support/get-advice-from-the-union/academic-advice/extenuating-circumstance/self-certified-ecs" target="_blank" rel="noopener noreferrer nofollow">https://surreyunion.org/your-support/get-advice-from-the-union/academic-advice/extenuating-circumstance/self-certified-ecs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-certified ECsSelf-certified EC&#x27;s are a way to ask the University for either a deferral or a short extension of an assessment but you...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: le.ac.uk  
-   Link: <a href="https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification" target="_blank" rel="noopener noreferrer nofollow">https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of LeicesterSelf-certification | PoliciesSelf-certification periods start at 9.00am, on the first day of the period, and concl...</p></details>
+   Link:<a href="https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification" target="_blank" rel="noopener noreferrer nofollow">https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of LeicesterSelf-certification | PoliciesSelf-certification periods start at 9.00am, on the first day of the period, and concl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brighton.ac.uk  
-   Link: <a href="https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BrightonDifficulties with assessmentsSelf-certification extension · Provides an extension of seven calendar days · This is...</p></details>
+   Link:<a href="https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of BrightonDifficulties with assessmentsSelf-certification extension · Provides an extension of seven calendar days · This is...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: intranet.birmingham.ac.uk  
-   Link: <a href="https://intranet.birmingham.ac.uk/student/documents/public/guidance-on-extensions-to-coursework-submission-deadlines-22-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intranet.birmingham.ac.uk/student/documents/public/guidance-on-extensions-to-coursework-submission-deadlines-22-23.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>short-term significant illness or incident for a 5-working day extension only by completing a...Read more...</p></details>
+   Link:<a href="https://intranet.birmingham.ac.uk/student/documents/public/guidance-on-extensions-to-coursework-submission-deadlines-22-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intranet.birmingham.ac.uk/student/documents/public/guidance-on-extensions-to-coursework-submission-deadlines-22-23.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>short-term significant illness or incident for a 5-working day extension only by completing a...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: york.ac.uk  
-   Link: <a href="https://www.york.ac.uk/media/philosophy/documents/pg/Assessment%20Policies%20and%20Practices%20for%20Graduate%20Diploma%20Students%202023-24%20%281%29.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/media/philosophy/documents/pg/Assessment%20Policies%20and%20Practices%20for%20Graduate%20Diploma%20Students%202023-24%20%281%29.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of 4 calendar-days maximum for essay or coursework submissions, and this...Read more...</p></details>
+   Link:<a href="https://www.york.ac.uk/media/philosophy/documents/pg/Assessment%20Policies%20and%20Practices%20for%20Graduate%20Diploma%20Students%202023-24%20%281%29.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/media/philosophy/documents/pg/Assessment%20Policies%20and%20Practices%20for%20Graduate%20Diploma%20Students%202023-24%20%281%29.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of 4 calendar-days maximum for essay or coursework submissions, and this...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kent.ac.uk  
-   Link: <a href="https://www.kent.ac.uk/teaching/qa/credit-framework/documents/cf2020-annex9-mitigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.ac.uk/teaching/qa/credit-framework/documents/cf2020-annex9-mitigation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cation that coincide with coursework assessment (as per section 5.2.1)...Read more...</p></details>
+   Link:<a href="https://www.kent.ac.uk/teaching/qa/credit-framework/documents/cf2020-annex9-mitigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.ac.uk/teaching/qa/credit-framework/documents/cf2020-annex9-mitigation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cation that coincide with coursework assessment (as per section 5.2.1)...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: askqm.qmul.ac.uk  
    Title: Extenuating circumstances: self-certification  
-   Link: <a href="https://askqm.qmul.ac.uk/s/article/Extenuating-circumstances-self-certification" target="_blank" rel="noopener noreferrer nofollow">https://askqm.qmul.ac.uk/s/article/Extenuating-circumstances-self-certification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Extenuating Circumstances policy (revised in 2025) allows students to submit up to two self-certified claims per year academic y...</p></details>
+   Link:<a href="https://askqm.qmul.ac.uk/s/article/Extenuating-circumstances-self-certification" target="_blank" rel="noopener noreferrer nofollow">https://askqm.qmul.ac.uk/s/article/Extenuating-circumstances-self-certification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Extenuating Circumstances policy (revised in 2025) allows students to submit up to two self-certified claims per year academic y...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ntu.ac.uk  
    Title: apply for an assessment deadline extension  
-   Link: <a href="https://www.ntu.ac.uk/studenthub/my-course/student-handbook/apply-for-an-assessment-deadline-extension" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.ac.uk/studenthub/my-course/student-handbook/apply-for-an-assessment-deadline-extension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2026 — An evidenced (longer) extension is for up to 14 days. You can apply for a evidenced extension any time before the assessment...</p></details>
+   Link:<a href="https://www.ntu.ac.uk/studenthub/my-course/student-handbook/apply-for-an-assessment-deadline-extension" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.ac.uk/studenthub/my-course/student-handbook/apply-for-an-assessment-deadline-extension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2026 — An evidenced (longer) extension is for up to 14 days. You can apply for a evidenced extension any time before the assessment...</p></details>

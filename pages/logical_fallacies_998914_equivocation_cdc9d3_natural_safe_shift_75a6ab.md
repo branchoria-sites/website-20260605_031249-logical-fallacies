@@ -274,28 +274,28 @@ image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_
 
 ## Introduction
 
-Calling a product “natural” sounds reassuring. In everyday language, *natural* often suggests something that comes from nature rather than a laboratory. The problem arises when an argument quietly shifts from that descriptive meaning to a very different claim: that the product is therefore safe, healthy, effective, or morally preferable. This shift is a classic example of equivocation and closely overlaps with the appeal-to-nature fallacy. The word *natural* starts as a statement about origin and ends up functioning as evidence of quality without supplying any actual proof. NCCIH <span class="citation-chip-wrap"><a class="citation-chip" href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethics.org.au">[THE ETHICS CENTRE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethics.org.au</span><span class="citation-popover-title">ethics explainer naturalistic fallacy</span><span class="citation-popover-snippet">THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</span></span></span>
+Calling a product “natural” sounds reassuring. In everyday language, *natural* often suggests something that comes from nature rather than a laboratory. The problem arises when an argument quietly shifts from that descriptive meaning to a very different claim: that the product is therefore safe, healthy, effective, or morally preferable. This shift is a classic example of equivocation and closely overlaps with the appeal-to-nature fallacy. The word *natural* starts as a statement about origin and ends up functioning as evidence of quality without supplying any actual proof. NCCIH<span class="citation-chip-wrap"><a class="citation-chip" href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethics.org.au">[THE ETHICS CENTRE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethics.org.au</span><span class="citation-popover-title">ethics explainer naturalistic fallacy</span><span class="citation-popover-snippet">THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-1-dark.svg" | relative_url }}" alt="Natural Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In health, wellness, and consumer marketing, this meaning shift matters because safety depends on evidence, dosage, chemistry, [interactions]({{ 'interactions/' | relative_url }}), and manufacturing quality—not simply on whether a substance originated in nature. Many highly beneficial medicines come from natural sources, but so do poisons, allergens, carcinogens, and toxins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">, healthier, and safer than “unnatural” or synthetic drugs.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</span></span></span>
+In health, wellness, and consumer marketing, this meaning shift matters because safety depends on evidence, dosage, chemistry, [interactions]({{ 'interactions/' | relative_url }}), and manufacturing quality—not simply on whether a substance originated in nature. Many highly beneficial medicines come from natural sources, but so do poisons, allergens, carcinogens, and toxins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">, healthier, and safer than “unnatural” or synthetic drugs.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</span></span></span>
 
 ## Different Meanings of “Natural”
 
 The persuasive force of many “natural product” claims comes from the fact that *natural* has several legitimate meanings.
 
-A product might be called natural because: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ontamination and growth than synthetic raw materials.&quot; While the...Read more...</span></span></span>
+A product might be called natural because:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ontamination and growth than synthetic raw materials.&quot; While the...Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * It comes from a plant, animal, fungus, or mineral source.
 * It contains ingredients found in nature.
 * It has undergone relatively little processing.
-* It avoids synthetic ingredients. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ontamination and growth than synthetic raw materials.&quot; While the...Read more...</span></span></span>
+* It avoids synthetic ingredients.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ontamination and growth than synthetic raw materials.&quot; While the...Read more...</span></span></span>
 * It is marketed as traditional or organic.
 
 </div>
 
-These meanings are not identical. A plant-derived substance can be heavily processed. A synthetic version of a naturally occurring compound may be chemically identical to the natural one. A product can originate in nature yet still contain contaminants or highly concentrated active ingredients. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dictionary.cambridge.org/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dictionary.cambridge.org">[Cambridge Dictionary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dictionary.cambridge.org</span><span class="citation-popover-title">Dictionary NATURAL &#124; English meaning</span><span class="citation-popover-snippet">Cambridge DictionaryNATURAL &#124; English meaning - Cambridge Dictionaryas found in nature and not involving anything made or done by people...</span></span></span>
+These meanings are not identical. A plant-derived substance can be heavily processed. A synthetic version of a naturally occurring compound may be chemically identical to the natural one. A product can originate in nature yet still contain contaminants or highly concentrated active ingredients.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dictionary.cambridge.org/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dictionary.cambridge.org">[Cambridge Dictionary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dictionary.cambridge.org</span><span class="citation-popover-title">Dictionary NATURAL &#124; English meaning</span><span class="citation-popover-snippet">Cambridge DictionaryNATURAL &#124; English meaning - Cambridge Dictionaryas found in nature and not involving anything made or done by people...</span></span></span>
 
 The equivocation occurs when an argument moves from:
 
@@ -305,7 +305,7 @@ to
 
 > “Therefore this product is safe, healthy, or better.”
 
-The first statement concerns origin. The second concerns value, effectiveness, or risk. The conclusion does not follow merely from the premise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethics.org.au">[THE ETHICS CENTRE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethics.org.au</span><span class="citation-popover-title">ethics explainer naturalistic fallacy</span><span class="citation-popover-snippet">THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</span></span></span>
+The first statement concerns origin. The second concerns value, effectiveness, or risk. The conclusion does not follow merely from the premise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethics.org.au">[THE ETHICS CENTRE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethics.org.au</span><span class="citation-popover-title">ethics explainer naturalistic fallacy</span><span class="citation-popover-snippet">THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwcCrqCiwsE" title="9. The Appeal to Nature Fallacy | THUNK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwcCrqCiwsE" target="_blank" rel="noopener noreferrer">9. The Appeal to Nature Fallacy | THUNK</a></p><p class="youtube-embed-meta">Channel: THUNK &middot; Views: 9.4K &middot; Uploaded: January 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwcCrqCiwsE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwcCrqCiwsE">Open on YouTube</a></p></div></div></div>
 
@@ -313,17 +313,17 @@ The first statement concerns origin. The second concerns value, effectiveness, o
 
 Nature produces both [remedies]({{ 'remedies/' | relative_url }}) and hazards. Whether a substance is safe depends on its biological effects, not on whether humans manufactured it.
 
-Health authorities repeatedly warn that “natural” does not automatically mean safe. The U.S. National Center for Complementary and Integrative Health notes that some wild mushrooms are edible while others are deadly, illustrating that natural origin alone says little about risk. The Office of Dietary Supplements similarly warns that some all-natural botanical products, including kava and comfrey, can cause serious liver injury. NCCIH <span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-snippet">Some all-natural botanical products, for example comfrey and kava, can harm the liver.Read more...</span></span></span>
+Health authorities repeatedly warn that “natural” does not automatically mean safe. The U.S. National Center for Complementary and Integrative Health notes that some wild mushrooms are edible while others are deadly, illustrating that natural origin alone says little about risk. The Office of Dietary Supplements similarly warns that some all-natural botanical products, including kava and comfrey, can cause serious liver injury. NCCIH<span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-snippet">Some all-natural botanical products, for example comfrey and kava, can harm the liver.Read more...</span></span></span>
 
 Several factors determine safety:
 
 * **Chemical composition:** Natural substances contain active chemicals that can help or harm.
 * **Dose:** Water, vitamins, and herbal compounds can all become dangerous at sufficiently high levels.
-* **Interactions:** Natural products may interfere with prescription medicines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masseycancercenter.org">[masseycancercenter.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masseycancercenter.org</span><span class="citation-popover-title">the truth behind natural products herbal supplements</span><span class="citation-popover-snippet">Natural products are NOT safer than prescription medications 2. You CAN use complementary therapies with conventional treatments 3. All n...</span></span></span>
+* **Interactions:** Natural products may interfere with prescription medicines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masseycancercenter.org">[masseycancercenter.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masseycancercenter.org</span><span class="citation-popover-title">the truth behind natural products herbal supplements</span><span class="citation-popover-snippet">Natural products are NOT safer than prescription medications 2. You CAN use complementary therapies with conventional treatments 3. All n...</span></span></span>
 * **Preparation and concentration:** Extracts can be far more potent than the original plant.
-* **Contamination and adulteration:** Products may contain unexpected substances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arocjournal.com">[Aroc Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arocjournal.com</span><span class="citation-popover-snippet">Safety Evaluation and Concerns of Natural Products in...by TB Aliu · Cited by 10 — This review examines key safety concerns associated w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">We also include probiotics in this category</span><span class="citation-popover-snippet">PubMed CentralNational Center for Complementary and Integrative Health...by WJ Weber · 2020 · Cited by 20 — NCCIH includes in the term “...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirect“Natural” is not synonymous with “Safe”: Toxicity of...by TE Gaston · 2020 · Cited by 91 — Consumers equate “natural” with...</span></span></span>
+* **Contamination and adulteration:** Products may contain unexpected substances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arocjournal.com">[Aroc Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arocjournal.com</span><span class="citation-popover-snippet">Safety Evaluation and Concerns of Natural Products in...by TB Aliu · Cited by 10 — This review examines key safety concerns associated w...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">We also include probiotics in this category</span><span class="citation-popover-snippet">PubMed CentralNational Center for Complementary and Integrative Health...by WJ Weber · 2020 · Cited by 20 — NCCIH includes in the term “...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirect“Natural” is not synonymous with “Safe”: Toxicity of...by TE Gaston · 2020 · Cited by 91 — Consumers equate “natural” with...</span></span></span>
 
-A useful comparison is digitalis, a heart medication derived from foxglove plants. The fact that the source is natural does not eliminate the need for careful dosing. Likewise, many toxic compounds are entirely natural. Safety is established through testing and evidence, not through origin stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/using-dietary-supplements-wisely" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHUsing Dietary Supplements Wisely</span><span class="citation-popover-snippet">dietary supplements (and some prescription drugs) come from natural sources, but “natural” does not always mean “safe.” For example, the...</span></span></span>
+A useful comparison is digitalis, a heart medication derived from foxglove plants. The fact that the source is natural does not eliminate the need for careful dosing. Likewise, many toxic compounds are entirely natural. Safety is established through testing and evidence, not through origin stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/using-dietary-supplements-wisely" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHUsing Dietary Supplements Wisely</span><span class="citation-popover-snippet">dietary supplements (and some prescription drugs) come from natural sources, but “natural” does not always mean “safe.” For example, the...</span></span></span>
 
 ## Real-World Cases That Break the Assumption
 
@@ -331,20 +331,20 @@ Concrete examples reveal why the slide from natural to safe is unreliable.
 
 ### Herbal Supplements and Liver Damage
 
-Health agencies have documented cases of severe liver injury linked to certain herbal supplements. Kava, often promoted as a natural remedy for anxiety or relaxation, has been associated with serious liver toxicity in some users. The risk arises from the substance's biological effects, not from whether it was naturally sourced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Consumers Need To Know About Dietary Supplements“Natural” does not necessarily mean “safe.” For example, the herbs comfrey and kava can c...</span></span></span>
+Health agencies have documented cases of severe liver injury linked to certain herbal supplements. Kava, often promoted as a natural remedy for anxiety or relaxation, has been associated with serious liver toxicity in some users. The risk arises from the substance's biological effects, not from whether it was naturally sourced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Consumers Need To Know About Dietary Supplements“Natural” does not necessarily mean “safe.” For example, the herbs comfrey and kava can c...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-2-dark.svg" | relative_url }}" alt="Natural Claims illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Herb–Drug Interactions
 
-Research on herbal supplements has identified numerous interactions between natural products and conventional medicines. A supplement may alter how the body metabolises a prescription drug, increasing side effects or reducing effectiveness. The danger comes from pharmacology, not from whether the ingredient grew in the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">We also include probiotics in this category</span><span class="citation-popover-snippet">PubMed CentralNational Center for Complementary and Integrative Health...by WJ Weber · 2020 · Cited by 20 — NCCIH includes in the term “...</span></span></span>
+Research on herbal supplements has identified numerous interactions between natural products and conventional medicines. A supplement may alter how the body metabolises a prescription drug, increasing side effects or reducing effectiveness. The danger comes from pharmacology, not from whether the ingredient grew in the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">We also include probiotics in this category</span><span class="citation-popover-snippet">PubMed CentralNational Center for Complementary and Integrative Health...by WJ Weber · 2020 · Cited by 20 — NCCIH includes in the term “...</span></span></span>
 
 ### Contaminated or Mislabelled Products
 
-Natural products can also pose risks because of manufacturing problems. The NCCIH has warned that some supplements may contain the wrong plant species, inaccurate ingredient quantities, pesticides, heavy metals, or undisclosed pharmaceutical ingredients. These risks exist even when marketing emphasises natural origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[GovDelivery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">Safe Use of Dietary/Herbal SupplementsAug 12, 2016 — An herbal supplement may not contain the correct plant species. The amounts of the i...</span></span></span>
+Natural products can also pose risks because of manufacturing problems. The NCCIH has warned that some supplements may contain the wrong plant species, inaccurate ingredient quantities, pesticides, heavy metals, or undisclosed pharmaceutical ingredients. These risks exist even when marketing emphasises natural origins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[GovDelivery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">Safe Use of Dietary/Herbal SupplementsAug 12, 2016 — An herbal supplement may not contain the correct plant species. The amounts of the i...</span></span></span>
 
 ### Toxic Ingredients Marketed as Natural
 
-Regulators periodically issue warnings about supposedly natural supplements that contain dangerous ingredients. Recent [FDA warnings]({{ 'fda-warnings/' | relative_url }}) have involved weight-loss products marketed as natural remedies that were found to contain highly toxic plant substances capable of causing serious illness or death. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Food and Drug Administration (FDA) has issued an urgent warning about a growing list of weight loss supplements that fraudulently claim t...</span></span></span>
+Regulators periodically issue warnings about supposedly natural supplements that contain dangerous ingredients. Recent [FDA warnings]({{ 'fda-warnings/' | relative_url }}) have involved weight-loss products marketed as natural remedies that were found to contain highly toxic plant substances capable of causing serious illness or death.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Food and Drug Administration (FDA) has issued an urgent warning about a growing list of weight loss supplements that fraudulently claim t...</span></span></span>
 
 ## How Advertising Arguments Exploit the Shift
 
@@ -363,7 +363,7 @@ A typical pattern looks like this:
 
 </div>
 
-This strategy is persuasive because the audience supplies the missing step. The advertisement may never explicitly say, “Natural products are safer.” Instead, imagery, wording, and [context]({{ 'context/' | relative_url }}) encourage that conclusion. The argument works because the meaning of *natural* quietly shifts from a factual description to a quality endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethics.org.au">[THE ETHICS CENTRE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethics.org.au</span><span class="citation-popover-title">ethics explainer naturalistic fallacy</span><span class="citation-popover-snippet">THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</span></span></span>
+This strategy is persuasive because the audience supplies the missing step. The advertisement may never explicitly say, “Natural products are safer.” Instead, imagery, wording, and [context]({{ 'context/' | relative_url }}) encourage that conclusion. The argument works because the meaning of *natural* quietly shifts from a factual description to a quality endorsement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethics.org.au">[THE ETHICS CENTRE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethics.org.au</span><span class="citation-popover-title">ethics explainer naturalistic fallacy</span><span class="citation-popover-snippet">THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</span></span></span>
 
 Food labelling provides another example. Terms such as “natural flavour” refer primarily to the source of flavour compounds, not to superior nutrition, health benefits, or lower processing levels. Consumers may infer more from the label than the term actually guarantees.
 
@@ -398,274 +398,274 @@ rewrite it as:
 
 The weakness of the reasoning becomes much clearer. The argument has moved from a statement about source to a conclusion about risk without supplying the missing evidence.
 
-That is the essence of the equivocation. A single attractive word carries two different meanings, and the argument quietly relies on the audience treating them as if they were the same. In reality, naturalness may describe where a product came from, but only evidence can establish whether it is safe or good. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">, healthier, and safer than “unnatural” or synthetic drugs.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</span></span></span>
+That is the essence of the equivocation. A single attractive word carries two different meanings, and the argument quietly relies on the audience treating them as if they were the same. In reality, naturalness may describe where a product came from, but only evidence can establish whether it is safe or good.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">, healthier, and safer than “unnatural” or synthetic drugs.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1M3mMq5nwc8" title="Appeal to Nature | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1M3mMq5nwc8" target="_blank" rel="noopener noreferrer">Appeal to Nature | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 598 &middot; Uploaded: April 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1M3mMq5nwc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1M3mMq5nwc8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Natural Really Mean Safe or Good?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Natural Really Mean Safe or Good?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Dissects misleading health and marketing claims, including naturalness rhetoric.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Dissects misleading health and marketing claims, including naturalness rhetoric.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches evidence-based evaluation over intuitive labels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evidence-based evaluation over intuitive labels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Provides tools for identifying equivocation and appeal-to-nature reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for identifying equivocation and appeal-to-nature reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Shows how persuasive claims misuse language and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how persuasive claims misuse language and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Wall Art Botanical Prints Set of 3 Prints Green Artwork Boho Poster"><img src="{{ '/assets/images/marketplace-covers/14997a435b715e86cc84.jpg' | relative_url }}" alt="Listing image for Minimalist Wall Art Botanical Prints Set of 3 Prints Green Artwork Boho Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Minimalist Wall Art Botanical Prints Set of 3 Prints Green Artwork Boho Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for botanical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: botanical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Wall Art Botanical Prints Set of 3 Prints Green Artwork Boho Poster"><img src="{{ '/assets/images/marketplace-covers/14997a435b715e86cc84.jpg' | relative_url }}" alt="Listing image for Minimalist Wall Art Botanical Prints Set of 3 Prints Green Artwork Boho Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Minimalist Wall Art Botanical Prints Set of 3 Prints Green Artwork Boho Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for botanical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: botanical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sage Green William Morris Botanical Wall Art Living Room Prints Posters Pictures"><img src="{{ '/assets/images/marketplace-covers/55dc423de3e2f41cb17b.jpg' | relative_url }}" alt="Listing image for Sage Green William Morris Botanical Wall Art Living Room Prints Posters Pictures" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sage Green William Morris Botanical Wall Art Living Room Prints Posters Pictures</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for botanical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: botanical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sage Green William Morris Botanical Wall Art Living Room Prints Posters Pictures"><img src="{{ '/assets/images/marketplace-covers/55dc423de3e2f41cb17b.jpg' | relative_url }}" alt="Listing image for Sage Green William Morris Botanical Wall Art Living Room Prints Posters Pictures" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sage Green William Morris Botanical Wall Art Living Room Prints Posters Pictures</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for botanical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: botanical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical Green Wall Art Prints Plant leaf Print Poster Pictures Home A3 A4"><img src="{{ '/assets/images/marketplace-covers/fc6f06f8f9264f062e3a.jpg' | relative_url }}" alt="Listing image for Botanical Green Wall Art Prints Plant leaf Print Poster Pictures Home A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Botanical Green Wall Art Prints Plant leaf Print Poster Pictures Home A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for botanical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: botanical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical Green Wall Art Prints Plant leaf Print Poster Pictures Home A3 A4"><img src="{{ '/assets/images/marketplace-covers/fc6f06f8f9264f062e3a.jpg' | relative_url }}" alt="Listing image for Botanical Green Wall Art Prints Plant leaf Print Poster Pictures Home A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Botanical Green Wall Art Prints Plant leaf Print Poster Pictures Home A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for botanical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: botanical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Abstract Botanical Wall Art Print Set Of 3 Minimalist Floral Art Pink and Grey"><img src="{{ '/assets/images/marketplace-covers/ec2cb1cc3300888c5967.jpg' | relative_url }}" alt="Listing image for Abstract Botanical Wall Art Print Set Of 3 Minimalist Floral Art Pink and Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Abstract Botanical Wall Art Print Set Of 3 Minimalist Floral Art Pink and Grey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for botanical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: botanical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Abstract Botanical Wall Art Print Set Of 3 Minimalist Floral Art Pink and Grey"><img src="{{ '/assets/images/marketplace-covers/ec2cb1cc3300888c5967.jpg' | relative_url }}" alt="Listing image for Abstract Botanical Wall Art Print Set Of 3 Minimalist Floral Art Pink and Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Abstract Botanical Wall Art Print Set Of 3 Minimalist Floral Art Pink and Grey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for botanical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: botanical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=botanical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-claims-does-natural-really-mean-safe-or-good-logical-fallacies-botanical-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -681,7 +681,7 @@ That is the essence of the equivocation. A single attractive word carries two di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -701,7 +701,7 @@ That is the essence of the equivocation. A single attractive word carries two di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -733,7 +733,7 @@ That is the essence of the equivocation. A single attractive word carries two di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -763,7 +763,7 @@ That is the essence of the equivocation. A single attractive word carries two di
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -821,180 +821,180 @@ That is the essence of the equivocation. A single attractive word carries two di
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, healthier, and safer than “unnatural” or synthetic drugs.Read more...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, healthier, and safer than “unnatural” or synthetic drugs.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ethics.org.au  
    Title: ethics explainer naturalistic fallacy  
-   Link: <a href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://ethics.org.au/ethics-explainer-naturalistic-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</p></details>
+   Link:<a href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://ethics.org.au/ethics-explainer-naturalistic-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dictionary.cambridge.org  
    Title: Dictionary NATURAL | English meaning  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/natural</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge DictionaryNATURAL | English meaning - Cambridge Dictionaryas found in nature and not involving anything made or done by people...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/natural</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge DictionaryNATURAL | English meaning - Cambridge Dictionaryas found in nature and not involving anything made or done by people...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nccih.nih.gov  
    Title: NCCIHUsing Dietary Supplements Wisely  
-   Link: <a href="https://www.nccih.nih.gov/health/using-dietary-supplements-wisely" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/using-dietary-supplements-wisely</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>dietary supplements (and some prescription drugs) come from natural sources, but “natural” does not always mean “safe.” For example, the...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/using-dietary-supplements-wisely" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/using-dietary-supplements-wisely</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dietary supplements (and some prescription drugs) come from natural sources, but “natural” does not always mean “safe.” For example, the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirect“Natural” is not synonymous with “Safe”: Toxicity of...by TE Gaston · 2020 · Cited by 91 — Consumers equate “natural” with...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirect“Natural” is not synonymous with “Safe”: Toxicity of...by TE Gaston · 2020 · Cited by 91 — Consumers equate “natural” with...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: content.govdelivery.com  
-   Link: <a href="https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe Use of Dietary/Herbal SupplementsAug 12, 2016 — An herbal supplement may not contain the correct plant species. The amounts of the i...</p></details>
+   Link:<a href="https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe Use of Dietary/Herbal SupplementsAug 12, 2016 — An herbal supplement may not contain the correct plant species. The amounts of the i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fda.gov  
    Title: 101 dietary supplements  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFDA 101: Dietary SupplementsJun 2, 2022 — Dietary supplements can help improve health but can also have risks...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFDA 101: Dietary SupplementsJun 2, 2022 — Dietary supplements can help improve health but can also have risks...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fda.gov  
    Title: questions and answers dietary supplements  
-   Link: <a href="https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationQuestions and Answers on Dietary SupplementsFeb 21, 2024 — Because FDA does not approve dietary supplements b...</p></details>
+   Link:<a href="https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationQuestions and Answers on Dietary SupplementsFeb 21, 2024 — Because FDA does not approve dietary supplements b...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fda.gov  
    Title: s regulation dietary supplements dr cara welch  
-   Link: <a href="https://www.fda.gov/drugs/news-events-human-drugs/fdas-regulation-dietary-supplements-dr-cara-welch" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/news-events-human-drugs/fdas-regulation-dietary-supplements-dr-cara-welch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFDA&#x27;s Regulation of Dietary Supplements with Dr. Cara...Mar 5, 2024 — FDA does not approve dietary supplemen...</p></details>
+   Link:<a href="https://www.fda.gov/drugs/news-events-human-drugs/fdas-regulation-dietary-supplements-dr-cara-welch" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/news-events-human-drugs/fdas-regulation-dietary-supplements-dr-cara-welch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFDA&#x27;s Regulation of Dietary Supplements with Dr. Cara...Mar 5, 2024 — FDA does not approve dietary supplemen...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationThe FDA is responsible for protecting the public health by ensuring the safety, efficacy, and security o...</p></details>
+   Link:<a href="https://www.fda.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationThe FDA is responsible for protecting the public health by ensuring the safety, efficacy, and security o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/10-facts-about-what-fda-does-and-does-not-approve" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/10-facts-about-what-fda-does-and-does-not-approve</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Facts about What FDA Does and Does Not ApproveJan 26, 2024 — Fact #2: Vitamins, minerals, herbs, and other dietary supplements are NOT...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/10-facts-about-what-fda-does-and-does-not-approve" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/10-facts-about-what-fda-does-and-does-not-approve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Facts about What FDA Does and Does Not ApproveJan 26, 2024 — Fact #2: Vitamins, minerals, herbs, and other dietary supplements are NOT...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fda.gov  
    Title: dietary supplements  
-   Link: <a href="https://www.fda.gov/food/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/dietary-supplements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 1, 2024 — FDA regulates dietary supplements under a different set of regulations than those covering conventional foods and drug prod...</p></details>
+   Link:<a href="https://www.fda.gov/food/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/dietary-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 1, 2024 — FDA regulates dietary supplements under a different set of regulations than those covering conventional foods and drug prod...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0273230020300738" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0273230020300738</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory landscape of dietary supplements and herbal...by S Thakkar · 2020 · Cited by 361 — This review summarizes a significant porti...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0273230020300738" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0273230020300738</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory landscape of dietary supplements and herbal...by S Thakkar · 2020 · Cited by 361 — This review summarizes a significant porti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ods.od.nih.gov  
-   Link: <a href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/WYNTK-Consumer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some all-natural botanical products, for example comfrey and kava, can harm the liver.Read more...</p></details>
+   Link:<a href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/WYNTK-Consumer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some all-natural botanical products, for example comfrey and kava, can harm the liver.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: We also include probiotics in this category  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralNational Center for Complementary and Integrative Health...by WJ Weber · 2020 · Cited by 20 — NCCIH includes in the term “...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralNational Center for Complementary and Integrative Health...by WJ Weber · 2020 · Cited by 20 — NCCIH includes in the term “...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralClinical Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 137 — Though perceived as safe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralClinical Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 137 — Though perceived as safe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arocjournal.com  
-   Link: <a href="https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/" target="_blank" rel="noopener noreferrer nofollow">https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Evaluation and Concerns of Natural Products in...by TB Aliu · Cited by 10 — This review examines key safety concerns associated w...</p></details>
+   Link:<a href="https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/" target="_blank" rel="noopener noreferrer nofollow">https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Evaluation and Concerns of Natural Products in...by TB Aliu · Cited by 10 — This review examines key safety concerns associated w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Administration (FDA) has issued an urgent warning about a growing list of weight loss supplements that fraudulently claim t...</p></details>
+   Link:<a href="https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Administration (FDA) has issued an urgent warning about a growing list of weight loss supplements that fraudulently claim t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumers Need To Know About Dietary Supplements“Natural” does not necessarily mean “safe.” For example, the herbs comfrey and kava can c...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumers Need To Know About Dietary Supplements“Natural” does not necessarily mean “safe.” For example, the herbs comfrey and kava can c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Nature" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nature</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureNature is an inherent character or constitution, particularly of the ecosphere or the universe as a whole. In this general sense...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Nature" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NatureNature is an inherent character or constitution, particularly of the ecosphere or the universe as a whole. In this general sense...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/343466371_NCCIH_Perspectives_on_Clinical_Research_Involving_Natural_Products" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343466371_NCCIH_Perspectives_on_Clinical_Research_Involving_Natural_Products</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCCIH Perspectives on Clinical Research Involving...Despite their use by a large percentage of Americans, there is little evidence for t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/343466371_NCCIH_Perspectives_on_Clinical_Research_Involving_Natural_Products" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343466371_NCCIH_Perspectives_on_Clinical_Research_Involving_Natural_Products</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCCIH Perspectives on Clinical Research Involving...Despite their use by a large percentage of Americans, there is little evidence for t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: masseycancercenter.org  
    Title: the truth behind natural products herbal supplements  
-   Link: <a href="https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/" target="_blank" rel="noopener noreferrer nofollow">https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural products are NOT safer than prescription medications 2. You CAN use complementary therapies with conventional treatments 3. All n...</p></details>
+   Link:<a href="https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/" target="_blank" rel="noopener noreferrer nofollow">https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Natural products are NOT safer than prescription medications 2. You CAN use complementary therapies with conventional treatments 3. All n...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365088518_Natural_Does_Not_Mean_Safe" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365088518_Natural_Does_Not_Mean_Safe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Natural Does Not Mean SafeSome chemicals in medicinal plants that are of safety concerns include the endocrine-disrupting chemicals...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365088518_Natural_Does_Not_Mean_Safe" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365088518_Natural_Does_Not_Mean_Safe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Natural Does Not Mean SafeSome chemicals in medicinal plants that are of safety concerns include the endocrine-disrupting chemicals...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/adnature.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/adnature.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Appeal to NatureAn argument appeals to nature when it claims that something is good because it&#x27;s natural, or bad because...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/adnature.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/adnature.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Appeal to NatureAn argument appeals to nature when it claims that something is good because it&#x27;s natural, or bad because...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/natural</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; Meaningnatural, ingenuous, naive, unsophisticated, artless mean free from pretension or calculation. natural implies...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/natural</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; Meaningnatural, ingenuous, naive, unsophisticated, artless mean free from pretension or calculation. natural implies...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jamesfodor.com  
-   Link: <a href="https://jamesfodor.com/naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://jamesfodor.com/naturalistic-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naturalistic FallacyThe naturalistic fallacy (also called an appeal to nature) is committed when one argues that because something happen...</p></details>
+   Link:<a href="https://jamesfodor.com/naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://jamesfodor.com/naturalistic-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naturalistic FallacyThe naturalistic fallacy (also called an appeal to nature) is committed when one argues that because something happen...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_nature" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_nature</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to natureAn appeal to nature is a rhetorical technique for presenting and proposing the argument that &quot;a thing is good because...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Appeal_to_nature" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_nature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to natureAn appeal to nature is a rhetorical technique for presenting and proposing the argument that &quot;a thing is good because...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EnglishLearning/comments/pdo4jg/what_does_natural_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EnglishLearning/comments/pdo4jg/what_does_natural_mean/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What does &quot;natural&quot; mean?: r/EnglishLearningDom was impressed with Ramsey&#x27;s skills: Dom: You&#x27;re a natural. Ramsey: Of course I am. What...</p></details>
+   Link:<a href="https://www.reddit.com/r/EnglishLearning/comments/pdo4jg/what_does_natural_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EnglishLearning/comments/pdo4jg/what_does_natural_mean/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What does &quot;natural&quot; mean?: r/EnglishLearningDom was impressed with Ramsey&#x27;s skills: Dom: You&#x27;re a natural. Ramsey: Of course I am. What...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: m.facebook.com  
    Title: natural doesnt necessarily mean safer or better while some medicines are derived  
-   Link: <a href="https://m.facebook.com/NIH.ODS/photos/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122181307191/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/NIH.ODS/photos/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122181307191/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Natural” doesn&#x27;t necessarily mean safer or better. While some medicines are derived from plants, not all products from nature are effect...</p></details>
+   Link:<a href="https://m.facebook.com/NIH.ODS/photos/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122181307191/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/NIH.ODS/photos/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122181307191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Natural” doesn&#x27;t necessarily mean safer or better. While some medicines are derived from plants, not all products from nature are effect...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/natural</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of, existing in, or produced by nature; natural science; natural cliffs. 2. in accordance with human nature; it is only natural to want t...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/natural</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of, existing in, or produced by nature; natural science; natural cliffs. 2. in accordance with human nature; it is only natural to want t...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: partiallyexaminedlife.com  
    Title: when a fallacy aint a fallacy the naturalistic fallacy  
-   Link: <a href="https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When a Fallacy Ain&#x27;t a Fallacy: The Naturalistic Fallacy27 Feb 2026 — The accusation of a naturalistic fallacy is lodged when someone def...</p></details>
+   Link:<a href="https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When a Fallacy Ain&#x27;t a Fallacy: The Naturalistic Fallacy27 Feb 2026 — The accusation of a naturalistic fallacy is lodged when someone def...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ontamination and growth than synthetic raw materials.&quot; While the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ontamination and growth than synthetic raw materials.&quot; While the...Read more...</p></details>

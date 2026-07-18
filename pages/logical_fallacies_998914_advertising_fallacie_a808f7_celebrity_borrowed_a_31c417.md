@@ -277,15 +277,15 @@ image: /assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_celeb
 Celebrity endorsements are a common feature of modern [advertising]({{ 'advertising/' | relative_url }}), but they illustrate a recurring fallacy in consumer persuasion: the tendency to treat fame as evidence. A well-known actor, athlete, musician or influencer can make a product seem more trustworthy, effective or desirable even when that person has no special knowledge of the product category. The persuasive force comes not from proof of the claim but from the audience's positive feelings towards the endorser.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_celebrity_borrowed_a_31c417-Illustration-1-dark.svg" | relative_url }}" alt="Celebrity Ads illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_celebrity_borrowed_a_31c417-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_celebrity_borrowed_a_31c417-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader study of advertising fallacies, celebrity endorsements matter because they can encourage consumers to substitute borrowed authority for genuine evidence. A famous face may help attract attention or communicate a brand image, but fame alone does not demonstrate that a medicine works, a financial service is reliable, or a skincare product will produce the advertised results. Understanding how this transfer of trust operates helps consumers separate emotional appeal from actual support for a claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</span></span></span>
+Within the broader study of advertising fallacies, celebrity endorsements matter because they can encourage consumers to substitute borrowed authority for genuine evidence. A famous face may help attract attention or communicate a brand image, but fame alone does not demonstrate that a medicine works, a financial service is reliable, or a skincare product will produce the advertised results. Understanding how this transfer of trust operates helps consumers separate emotional appeal from actual support for a claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</span></span></span>
 
 ## How Endorsement Transfers Trust
 
-Advertising researchers have long observed that celebrity endorsements work partly through a process known as meaning transfer. Rather than providing technical evidence, celebrities bring cultural associations with them. A successful athlete may symbolise discipline and achievement; a popular actor may symbolise attractiveness or confidence. Those qualities can become mentally attached to the advertised product. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article-abstract/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6623 — The model shows how meanings pass from celebrity to product and fr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</span></span></span>
+Advertising researchers have long observed that celebrity endorsements work partly through a process known as meaning transfer. Rather than providing technical evidence, celebrities bring cultural associations with them. A successful athlete may symbolise discipline and achievement; a popular actor may symbolise attractiveness or confidence. Those qualities can become mentally attached to the advertised product.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article-abstract/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6623 — The model shows how meanings pass from celebrity to product and fr...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</span></span></span>
 
 The key point is that the transfer concerns perception, not proof. If a famous tennis player appears in an advert for a watch, viewers may unconsciously associate the watch with excellence, prestige or success. None of those associations demonstrate that the watch keeps better time than competitors. The celebrity's reputation is functioning as a shortcut that encourages favourable judgement.
 
-This mechanism is especially powerful because people often make decisions under limited attention. Consumers rarely investigate every product claim in detail. Familiar faces provide a quick cue that feels informative even when the connection between celebrity and product is weak. Research on celebrity endorsement repeatedly finds that symbolic associations can move from celebrity to brand and influence consumer attitudes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article-abstract/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6623 — The model shows how meanings pass from celebrity to product and fr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">An integrative approach to examining the celebrity...by SJ Lee · 2023 · Cited by 48 — The meaning transfer model (MTM) is a key theory t...</span></span></span>
+This mechanism is especially powerful because people often make decisions under limited attention. Consumers rarely investigate every product claim in detail. Familiar faces provide a quick cue that feels informative even when the connection between celebrity and product is weak. Research on celebrity endorsement repeatedly finds that symbolic associations can move from celebrity to brand and influence consumer attitudes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article-abstract/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6623 — The model shows how meanings pass from celebrity to product and fr...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">An integrative approach to examining the celebrity...by SJ Lee · 2023 · Cited by 48 — The meaning transfer model (MTM) is a key theory t...</span></span></span>
 
 In logical terms, the weakness appears when audiences move from:
 
@@ -310,7 +310,7 @@ The problem emerges when expertise is assumed rather than demonstrated. An actor
 
 Advertising often blurs these distinctions. The positive reputation earned in one domain can spill over into unrelated domains. Consumers may unconsciously treat a celebrity's success as a general marker of reliability, even though expertise is usually narrow and [context]({{ 'context/' | relative_url }})-specific.
 
-Research on influencer marketing similarly suggests that perceived fit between the endorser and the product category affects persuasive power. Audiences respond differently when the source appears relevant to the product being promoted. Even then, [relevance]({{ 'relevance/' | relative_url }}) does not replace independent evidence for the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</span></span></span>
+Research on influencer marketing similarly suggests that perceived fit between the endorser and the product category affects persuasive power. Audiences respond differently when the source appears relevant to the product being promoted. Even then, [relevance]({{ 'relevance/' | relative_url }}) does not replace independent evidence for the claim itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</span></span></span>
 
 ## Payment, Sponsorship and Hidden Incentives
 
@@ -318,9 +318,9 @@ Another reason celebrity endorsements can mislead is that audiences may underest
 
 Many endorsements are paid promotions. Others involve free products, equity stakes, affiliate commissions or long-term sponsorship agreements. These arrangements do not automatically make the endorsement false, but they create incentives that consumers should know about when evaluating the message.
 
-Advertising regulators have increasingly focused on transparency. The US Federal Trade Commission's Endorsement Guides require disclosure of material connections between advertisers and endorsers so that consumers understand when a recommendation is sponsored. The underlying principle is that endorsements should be honest and should not create misleading impressions about independence or objectivity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span>
+Advertising regulators have increasingly focused on transparency. The US Federal Trade Commission's Endorsement Guides require disclosure of material connections between advertisers and endorsers so that consumers understand when a recommendation is sponsored. The underlying principle is that endorsements should be honest and should not create misleading impressions about independence or objectivity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span>
 
-The growth of influencer marketing has made this issue more visible. Sponsored posts can resemble ordinary personal recommendations, making it difficult for audiences to distinguish advertising from genuine personal opinion. Studies of affiliate marketing and influencer content have found that disclosure practices are often inconsistent and that many users do not fully recognise promotional relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</span></span></span>
+The growth of influencer marketing has made this issue more visible. Sponsored posts can resemble ordinary personal recommendations, making it difficult for audiences to distinguish advertising from genuine personal opinion. Studies of affiliate marketing and influencer content have found that disclosure practices are often inconsistent and that many users do not fully recognise promotional relationships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</span></span></span>
 
 The persuasive effect of celebrity endorsement becomes stronger when consumers forget that the speaker may be acting as a paid marketer rather than as an independent evaluator.
 
@@ -340,7 +340,7 @@ This does not mean endorsements are deceptive by definition. It means consumers 
 
 The second does not automatically establish the first. Even if the celebrity genuinely uses the product, many other factors may explain the outcome.
 
-Regulatory guidance reflects this concern by emphasising that endorsements should not convey misleading claims and that advertisers must possess support for claims reasonably implied by endorsements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span>
+Regulatory guidance reflects this concern by emphasising that endorsements should not convey misleading claims and that advertisers must possess support for claims reasonably implied by endorsements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZgQYvu76siE" title="The Power of Celebrity Endorsements and Influencers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZgQYvu76siE" target="_blank" rel="noopener noreferrer">The Power of Celebrity Endorsements and Influencers</a></p><p class="youtube-embed-meta">Channel: ElizabethNickerson &middot; Views: 21.0K &middot; Uploaded: June 2019 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZgQYvu76siE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZgQYvu76siE">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +348,7 @@ Regulatory guidance reflects this concern by emphasising that endorsements shoul
 
 Some of the most memorable endorsement controversies illustrate the risks of borrowed authority.
 
-The promotion of the Fyre Festival by numerous celebrities and influencers became a widely discussed example of how fame can generate confidence without providing meaningful evidence about the quality or viability of an event. Promotional campaigns relied heavily on celebrity visibility and aspirational imagery, yet those signals offered little information about whether organisers could deliver what was promised. Subsequent criticism focused not only on the organisers but also on the broader influencer culture that encouraged consumers to treat celebrity promotion as a substitute for verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Blame the Fyre Festival Fiasco on the Plague of Celebrity Influencers</span><span class="citation-popover-snippet">Ja Rule and Billy McFarland, the main faces behind the festival, initially bore the blame, but it later pointed towards numerous influenc...</span></span></span>
+The promotion of the Fyre Festival by numerous celebrities and influencers became a widely discussed example of how fame can generate confidence without providing meaningful evidence about the quality or viability of an event. Promotional campaigns relied heavily on celebrity visibility and aspirational imagery, yet those signals offered little information about whether organisers could deliver what was promised. Subsequent criticism focused not only on the organisers but also on the broader influencer culture that encouraged consumers to treat celebrity promotion as a substitute for verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Blame the Fyre Festival Fiasco on the Plague of Celebrity Influencers</span><span class="citation-popover-snippet">Ja Rule and Billy McFarland, the main faces behind the festival, initially bore the blame, but it later pointed towards numerous influenc...</span></span></span>
 
 Such cases are useful because they expose the difference between attention and evidence. Celebrity involvement may increase visibility, excitement and trust, but those effects do not guarantee product quality, safety or performance.
 
@@ -384,272 +384,272 @@ These questions do not require rejecting endorsements outright. Instead, they he
 
 Celebrity endorsements succeed because they borrow trust, status and cultural meaning from a familiar person and attach those qualities to a product. The mechanism is psychologically powerful and commercially valuable, but it does not solve the central evidential question: does the product actually do what is claimed?
 
-Fame can communicate aspiration, identity and emotional appeal. It cannot, by itself, establish effectiveness, safety, quality or suitability. Consumers avoid the fallacy when they treat celebrity approval as one piece of information rather than as evidence that replaces independent verification. In advertising, the strongest claims remain those supported by relevant facts, not by the reputation of the person delivering the message. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span>
+Fame can communicate aspiration, identity and emotional appeal. It cannot, by itself, establish effectiveness, safety, quality or suitability. Consumers avoid the fallacy when they treat celebrity approval as one piece of information rather than as evidence that replaces independent verification. In advertising, the strongest claims remain those supported by relevant facts, not by the reputation of the person delivering the message. OUP Academic<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Fame Is Not Product Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Fame Is Not Product Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains heuristic judgments based on status and familiarity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains heuristic judgments based on status and familiarity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7XGPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7XGPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Shows how memorable messengers influence belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how memorable messengers influence belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Highlights authority-related cognitive errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights authority-related cognitive errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains authority and liking effects behind celebrity endorsements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains authority and liking effects behind celebrity endorsements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII RAF Veteran Signed Collectible | Neville Duke Autograph"><img src="{{ '/assets/images/marketplace-covers/8afe4a5f17cb9a31fc14.jpg' | relative_url }}" alt="Listing image for WWII RAF Veteran Signed Collectible | Neville Duke Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">WWII RAF Veteran Signed Collectible | Neville Duke Autograph</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for autograph collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: autograph collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII RAF Veteran Signed Collectible | Neville Duke Autograph"><img src="{{ '/assets/images/marketplace-covers/8afe4a5f17cb9a31fc14.jpg' | relative_url }}" alt="Listing image for WWII RAF Veteran Signed Collectible | Neville Duke Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">WWII RAF Veteran Signed Collectible | Neville Duke Autograph</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for autograph collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: autograph collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8x12 Beautiful Adrienne Barbeau🔥FILM Actress Photo Signed Autograph Collectible"><img src="{{ '/assets/images/marketplace-covers/ea91248ace7b302def2c.jpg' | relative_url }}" alt="Listing image for 8x12 Beautiful Adrienne Barbeau🔥FILM Actress Photo Signed Autograph Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">8x12 Beautiful Adrienne Barbeau🔥FILM Actress Photo Signed Autograph Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for autograph collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: autograph collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8x12 Beautiful Adrienne Barbeau🔥FILM Actress Photo Signed Autograph Collectible"><img src="{{ '/assets/images/marketplace-covers/ea91248ace7b302def2c.jpg' | relative_url }}" alt="Listing image for 8x12 Beautiful Adrienne Barbeau🔥FILM Actress Photo Signed Autograph Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">8x12 Beautiful Adrienne Barbeau🔥FILM Actress Photo Signed Autograph Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for autograph collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: autograph collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Falklands Veteran Signed Collectible | Paul Moore Autograph"><img src="{{ '/assets/images/marketplace-covers/9e828f82ae91b44edfc0.jpg' | relative_url }}" alt="Listing image for Falklands Veteran Signed Collectible | Paul Moore Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Falklands Veteran Signed Collectible | Paul Moore Autograph</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for autograph collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: autograph collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Falklands Veteran Signed Collectible | Paul Moore Autograph"><img src="{{ '/assets/images/marketplace-covers/9e828f82ae91b44edfc0.jpg' | relative_url }}" alt="Listing image for Falklands Veteran Signed Collectible | Paul Moore Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Falklands Veteran Signed Collectible | Paul Moore Autograph</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for autograph collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: autograph collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for George Lazenby &#x27;007&#x27; Autograph | James Bond Collectible First Day Cover + COA"><img src="{{ '/assets/images/marketplace-covers/7395498c9f863159169b.jpg' | relative_url }}" alt="Listing image for George Lazenby &#x27;007&#x27; Autograph | James Bond Collectible First Day Cover + COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">George Lazenby &#x27;007&#x27; Autograph | James Bond Collectible First Day Cover + COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for autograph collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: autograph collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for George Lazenby &#x27;007&#x27; Autograph | James Bond Collectible First Day Cover + COA"><img src="{{ '/assets/images/marketplace-covers/7395498c9f863159169b.jpg' | relative_url }}" alt="Listing image for George Lazenby &#x27;007&#x27; Autograph | James Bond Collectible First Day Cover + COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">George Lazenby &#x27;007&#x27; Autograph | James Bond Collectible First Day Cover + COA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for autograph collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: autograph collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=autograph+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-ads-why-fame-is-not-product-evidence-logical-fallacies-autograph-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -665,7 +665,7 @@ Fame can communicate aspiration, identity and emotional appeal. It cannot, by it
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -685,7 +685,7 @@ Fame can communicate aspiration, identity and emotional appeal. It cannot, by it
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -717,7 +717,7 @@ Fame can communicate aspiration, identity and emotional appeal. It cannot, by it
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ Fame can communicate aspiration, identity and emotional appeal. It cannot, by it
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -805,132 +805,132 @@ Fame can communicate aspiration, identity and emotional appeal. It cannot, by it
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
    Title: Academic Who Is the Celebrity Endorser?  
-   Link: <a href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcr/article/16/3/310/1818800</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</p></details>
+   Link:<a href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcr/article/16/3/310/1818800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An integrative approach to examining the celebrity...by SJ Lee · 2023 · Cited by 48 — The meaning transfer model (MTM) is a key theory t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An integrative approach to examining the celebrity...by SJ Lee · 2023 · Cited by 48 — The meaning transfer model (MTM) is a key theory t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academic.oup.com  
    Title: Academic Who Is the Celebrity Endorser?  
-   Link: <a href="https://academic.oup.com/jcr/article-abstract/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcr/article-abstract/16/3/310/1818800</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Foundations of the...by G McCracken · 1989 · Cited by 6623 — The model shows how meanings pass from celebrity to product and fr...</p></details>
+   Link:<a href="https://academic.oup.com/jcr/article-abstract/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcr/article-abstract/16/3/310/1818800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Foundations of the...by G McCracken · 1989 · Cited by 6623 — The model shows how meanings pass from celebrity to product and fr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect How does celebrity meaning transfer?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1057740811001045" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1057740811001045</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the...by FM Miller · 2012 · Cited by 251 — The results support, at the individual level, McCracken&#x27;s theoretical axiom con...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1057740811001045" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1057740811001045</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the...by FM Miller · 2012 · Cited by 251 — The results support, at the individual level, McCracken&#x27;s theoretical axiom con...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.02453</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</p></details>
+   Link:<a href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.02453</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
+   Link:<a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
+   Link:<a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: Blame the Fyre Festival Fiasco on the Plague of Celebrity Influencers  
-   Link: <a href="https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ja Rule and Billy McFarland, the main faces behind the festival, initially bore the blame, but it later pointed towards numerous influenc...</p></details>
+   Link:<a href="https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ja Rule and Billy McFarland, the main faces behind the festival, initially bore the blame, but it later pointed towards numerous influenc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials</a>  
+   Link:<a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertisement EndorsementsThe FTC&#x27;s Endorsement Guides: Being Up-Front With Consumers. Endorsements are an import...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertisement EndorsementsThe FTC&#x27;s Endorsement Guides: Being Up-Front With Consumers. Endorsements are an import...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/89088004/Cultural-Meaning" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/89088004/Cultural-Meaning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Meaning | PDF | Self | CelebrityCelebrity endorsement is, in fact, a special instance ofa more general processof meaning transfe...</p></details>
+   Link:<a href="https://www.scribd.com/document/89088004/Cultural-Meaning" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/89088004/Cultural-Meaning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Meaning | PDF | Self | CelebrityCelebrity endorsement is, in fact, a special instance ofa more general processof meaning transfe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bookdown.org  
    Title: celebrity endorsement  
-   Link: <a href="https://bookdown.org/mike/marketing_research/celebrity-endorsement.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/mike/marketing_research/celebrity-endorsement.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility and source attractiveness model are criticized. Meaning transfer model is then proposed to explain the effectiveness o...</p></details>
+   Link:<a href="https://bookdown.org/mike/marketing_research/celebrity-endorsement.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/mike/marketing_research/celebrity-endorsement.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility and source attractiveness model are criticized. Meaning transfer model is then proposed to explain the effectiveness o...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jean-pfiffelmann.com  
-   Link: <a href="https://www.jean-pfiffelmann.com/brand-meaning-transfer-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.jean-pfiffelmann.com/brand-meaning-transfer-model/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brand Meaning Transfer Modelby J Pfiffelmann — The Brand Meaning Transfer Model proposed by McCracken conceptualizes how cultural meaning...</p></details>
+   Link:<a href="https://www.jean-pfiffelmann.com/brand-meaning-transfer-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.jean-pfiffelmann.com/brand-meaning-transfer-model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brand Meaning Transfer Modelby J Pfiffelmann — The Brand Meaning Transfer Model proposed by McCracken conceptualizes how cultural meaning...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/274328416/McCracken-1989-Endorsement-Process" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/274328416/McCracken-1989-Endorsement-Process</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity Endorsement: Meaning Transfer Model | PDF | SelfThe meaning transfer model posits that celebrities are effective endorsers beca...</p></details>
+   Link:<a href="https://www.scribd.com/document/274328416/McCracken-1989-Endorsement-Process" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/274328416/McCracken-1989-Endorsement-Process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity Endorsement: Meaning Transfer Model | PDF | SelfThe meaning transfer model posits that celebrities are effective endorsers beca...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3669894_code2204844.pdf?abstractid=3669894&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3669894_code2204844.pdf?abstractid=3669894&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>guides for social media influencers on endorsements...These guides are particularly important in social media posts so that a reader kno...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3669894_code2204844.pdf?abstractid=3669894&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3669894_code2204844.pdf?abstractid=3669894&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>guides for social media influencers on endorsements...These guides are particularly important in social media posts so that a reader kno...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4VKn50yl/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4VKn50yl/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meaning transfer in celebrity endorsementsthe authors aim to investigate the basic components of the “Meaning Transfer Model” proposed by...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4VKn50yl/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4VKn50yl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meaning transfer in celebrity endorsementsthe authors aim to investigate the basic components of the “Meaning Transfer Model” proposed by...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wakeforestlawreview.com  
-   Link: <a href="https://www.wakeforestlawreview.com/wp-content/uploads/2019/09/Carr_FTC-Guides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wakeforestlawreview.com/wp-content/uploads/2019/09/Carr_FTC-Guides.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ftc guides for social media influencersEven if less than the majority of consumers are misled, the endorsement may be considered deceptiv...</p></details>
+   Link:<a href="https://www.wakeforestlawreview.com/wp-content/uploads/2019/09/Carr_FTC-Guides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wakeforestlawreview.com/wp-content/uploads/2019/09/Carr_FTC-Guides.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ftc guides for social media influencersEven if less than the majority of consumers are misled, the endorsement may be considered deceptiv...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: healthlawadvisor.com  
-   Link: <a href="https://www.healthlawadvisor.com/influencers-brand-ambassadors-and-marketers-take-note-ftc-has-finalized-updates-to-its-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.healthlawadvisor.com/influencers-brand-ambassadors-and-marketers-take-note-ftc-has-finalized-updates-to-its-endorsement-guides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Has Finalized Updates to Its Endorsement GuidesAug 8, 2023 — The FTC proposed changing the Endorsement Guide&#x27;s definition of “endorse...</p></details>
+   Link:<a href="https://www.healthlawadvisor.com/influencers-brand-ambassadors-and-marketers-take-note-ftc-has-finalized-updates-to-its-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.healthlawadvisor.com/influencers-brand-ambassadors-and-marketers-take-note-ftc-has-finalized-updates-to-its-endorsement-guides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Has Finalized Updates to Its Endorsement GuidesAug 8, 2023 — The FTC proposed changing the Endorsement Guide&#x27;s definition of “endorse...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hklaw.com  
-   Link: <a href="https://www.hklaw.com/en/insights/publications/2010/04/tougher-new-ftc-ad-guides-for-celebrity-endorsemen" target="_blank" rel="noopener noreferrer nofollow">https://www.hklaw.com/en/insights/publications/2010/04/tougher-new-ftc-ad-guides-for-celebrity-endorsemen</a>  
+   Link:<a href="https://www.hklaw.com/en/insights/publications/2010/04/tougher-new-ftc-ad-guides-for-celebrity-endorsemen" target="_blank" rel="noopener noreferrer nofollow">https://www.hklaw.com/en/insights/publications/2010/04/tougher-new-ftc-ad-guides-for-celebrity-endorsemen</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: fenwick.com  
-   Link: <a href="https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Announces Updated Endorsement Guides to Combat…25 Jul 2023 — The Guides set forth general principles for evaluating endorsements and...</p></details>
+   Link:<a href="https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Announces Updated Endorsement Guides to Combat…25 Jul 2023 — The Guides set forth general principles for evaluating endorsements and...</p></details>

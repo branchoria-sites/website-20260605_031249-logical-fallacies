@@ -504,15 +504,15 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-overview-
 Debates make [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) especially tempting because speakers have to think quickly, protect their credibility, answer attacks and persuade an audience at the same time. A fallacy in live debate is not just a textbook error with a Latin name; it is often a fast rhetorical move that shifts attention away from the real point at issue. The practical skill is therefore not “spotting fallacies” as a way to score cheap points. It is learning to ask, under pressure: What claim is being made? What reason is being offered? Does that reason actually answer the question? What would be the fairest version of the opponent’s point?
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-overview.webp" | relative_url }}" alt="Overview image for Debate" loading="eager" decoding="sync" fetchpriority="high">
-That matters because a live audience may reward confidence, humour, speed or emotional force before it rewards careful reasoning. Argumentation theory treats fallacies as moves that obstruct the reasonable resolution of disagreement, while debate practice adds a further complication: the speaker must correct the reasoning without looking evasive, pedantic or unfair. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Pragma-Dialectical Approach to the Fallacies Revisited &#124; Argumentation &#124; Springer Nature Link...</span></span></span>
+That matters because a live audience may reward confidence, humour, speed or emotional force before it rewards careful reasoning. Argumentation theory treats fallacies as moves that obstruct the reasonable resolution of disagreement, while debate practice adds a further complication: the speaker must correct the reasoning without looking evasive, pedantic or unfair.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Pragma-Dialectical Approach to the Fallacies Revisited &#124; Argumentation &#124; Springer Nature Link...</span></span></span>
 
 ## Why fallacies thrive in live debate
 
-A written argument can be paused, reread and checked. A live debate moves in seconds. That speed creates ideal conditions for straw men, [false dilemmas]({{ 'false-dilemma/' | relative_url }}), hasty generalisations, [slippery slopes]({{ 'slippery-slope/' | relative_url }}), ad hominem attacks and appeals to popularity. Purdue OWL’s general definition is useful here: fallacies are common reasoning errors that undermine an argument, often because a claim lacks relevant evidence or relies on an illegitimate point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Purdue OWL® - Purdue University...</span></span></span>
+A written argument can be paused, reread and checked. A live debate moves in seconds. That speed creates ideal conditions for straw men, [false dilemmas]({{ 'false-dilemma/' | relative_url }}), hasty generalisations, [slippery slopes]({{ 'slippery-slope/' | relative_url }}), ad hominem attacks and appeals to popularity. Purdue OWL’s general definition is useful here: fallacies are common reasoning errors that undermine an argument, often because a claim lacks relevant evidence or relies on an illegitimate point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Purdue OWL® - Purdue University...</span></span></span>
 
 The debate setting adds three pressures. First, speakers are rewarded for immediacy: a sharp but flawed answer can sound stronger than a careful qualified one. Second, the audience may not track every premise, so a fallacy can work by leaving a memorable impression rather than by proving anything. Third, the opponent has limited time to decide whether to rebut the fallacy directly, expose the missing evidence, or return to the central clash.
 
-A useful debate mindset is to treat fallacies as derailments. The problem is not merely that the other speaker used a bad label-worthy form. The problem is that the exchange has been moved away from the point that would actually decide the issue. In pragma-dialectical argumentation theory, fallacies are understood as violations of rules for a reasonable critical discussion, because they hinder the resolution of a disagreement on its merits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
+A useful debate mindset is to treat fallacies as derailments. The problem is not merely that the other speaker used a bad label-worthy form. The problem is that the exchange has been moved away from the point that would actually decide the issue. In pragma-dialectical argumentation theory, fallacies are understood as violations of rules for a reasonable critical discussion, because they hinder the resolution of a disagreement on its merits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
 
 ## Fast rebuttal checks
 
@@ -532,22 +532,22 @@ A practical fast-check sequence is:
 
 For example, suppose a speaker says: “My opponent’s policy failed in one city, so it will fail everywhere.” A slow textbook response might call this a hasty generalisation. A better live response is: “One city is not a test of every version of the policy. They have not shown that the same conditions apply here, so this example does not carry the national conclusion they need.” The rebuttal identifies the leap, explains the missing bridge and keeps the audience focused on decision quality.
 
-The same pattern works for ad hominem attacks. Research on web argumentation notes that even in settings where debate rules are enforced, arguers can lapse into attacking the opponent rather than the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[1802.06613] Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation...</span></span></span> In live strategy, the reply should be brief: “That criticism is about me, not the evidence. The question remains whether the figures support the claim.” This avoids being dragged into a personality contest.
+The same pattern works for ad hominem attacks. Research on web argumentation notes that even in settings where debate rules are enforced, arguers can lapse into attacking the opponent rather than the argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[1802.06613] Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation...</span></span></span> In live strategy, the reply should be brief: “That criticism is about me, not the evidence. The question remains whether the figures support the claim.” This avoids being dragged into a personality contest.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-1-dark.svg" | relative_url }}" alt="Debate illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Audience persuasion is not the same as sound reasoning
 
-Debate is partly logical and partly rhetorical. Argumentation theory studies both the process of disagreement and the ways participants try to make their standpoint prevail; rhetoric, [informal logic]({{ 'informal-logic/' | relative_url }}) and pragma-dialectics each examine different aspects of that exchange. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/61798/chapter/546190860?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span> This is why fallacies can be persuasive even when they are weak as reasoning.
+Debate is partly logical and partly rhetorical. Argumentation theory studies both the process of disagreement and the ways participants try to make their standpoint prevail; rhetoric, [informal logic]({{ 'informal-logic/' | relative_url }}) and pragma-dialectics each examine different aspects of that exchange.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/61798/chapter/546190860?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span> This is why fallacies can be persuasive even when they are weak as reasoning.
 
 A [false dilemma]({{ 'false-dilemma/' | relative_url }}) may work because it gives the audience a clean choice. A [slippery slope]({{ 'slippery-slope/' | relative_url }}) may work because it turns uncertainty into fear. An appeal to popularity may work because people take social consensus as a shortcut. An ad hominem may work because it damages trust before the evidence is evaluated. These moves often succeed not by proving a conclusion, but by changing what the audience pays attention to.
 
-Research on persuasion also complicates the idea that one argument style works equally for everyone. A large-scale study on audience effects found that belief change can vary with audience characteristics, and that different people may respond differently to factual or emotional argument styles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[1802.06613] Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation...</span></span></span> For debate strategy, the lesson is not to manipulate the audience with fallacies. It is to remember that exposing a flaw is only half the task; the rebuttal must also be understandable, relevant and memorable.
+Research on persuasion also complicates the idea that one argument style works equally for everyone. A large-scale study on audience effects found that belief change can vary with audience characteristics, and that different people may respond differently to factual or emotional argument styles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[1802.06613] Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation...</span></span></span> For debate strategy, the lesson is not to manipulate the audience with fallacies. It is to remember that exposing a flaw is only half the task; the rebuttal must also be understandable, relevant and memorable.
 
 That is why a strong response often has three parts: concede what is fair, isolate what is unsupported, and give the audience a replacement frame. For example: “It is true that costs matter. But their argument assumes any cost increase makes the policy a failure. The real question is whether the benefits justify the cost, and they have not compared the two.”
 
 ## Fair reconstruction before attack
 
-One danger in fallacy-spotting is that it can become a fallacy of its own: mislabelling an opponent’s argument in order to dismiss it. The principle of charity is a guard against this. In argumentation, it means interpreting an ambiguous argument in its strongest reasonable form before criticising it. A 2023 discussion of the dialectical principle of charity argues that, where more than one interpretation is available, arguers should avoid attributing fallacy, irrationality or falsehood when a more rational interpretation fits the context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09618-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
+One danger in fallacy-spotting is that it can become a fallacy of its own: mislabelling an opponent’s argument in order to dismiss it. The principle of charity is a guard against this. In argumentation, it means interpreting an ambiguous argument in its strongest reasonable form before criticising it. A 2023 discussion of the dialectical principle of charity argues that, where more than one interpretation is available, arguers should avoid attributing fallacy, irrationality or falsehood when a more rational interpretation fits the context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09618-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
 
 In live debate, fair reconstruction has strategic value as well as ethical value. It prevents the speaker from attacking a straw man, and it signals confidence to the audience. A debater who can say, “The strongest version of their argument is this…” often sounds more credible than one who rushes to mock the weakest wording.
 
@@ -581,7 +581,7 @@ Use the label when it clarifies the flaw quickly:
 
 Avoid leading with the label when the audience may hear it as evasive. “That’s ad hominem” can sound abstract; “Attacking the speaker does not answer the evidence” is clearer. “That’s slippery slope” may sound dismissive; “They have not shown the chain of events that would take us from this policy to that extreme outcome” explains the missing reasoning.
 
-This distinction matches a broader point from pragma-dialectics: the same familiar fallacy name can cover different kinds of argumentative failure depending on the stage and function of the move. An appeal to authority, for example, may be wrong because the speaker refuses to defend the claim, because the authority is irrelevant, or because ethos is being used in place of argument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-94-007-6883-3_10-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span> In live debate, the response should target the actual failure, not merely the nearest label.
+This distinction matches a broader point from pragma-dialectics: the same familiar fallacy name can cover different kinds of argumentative failure depending on the stage and function of the move. An appeal to authority, for example, may be wrong because the speaker refuses to defend the claim, because the authority is irrelevant, or because ethos is being used in place of argument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span> In live debate, the response should target the actual failure, not merely the nearest label.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-2-dark.svg" | relative_url }}" alt="Debate illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Handling fallacies without losing the room
@@ -596,7 +596,7 @@ A strong live response usually follows this order:
 
 **3. Re-centre the decision.** Tie the flaw back to the motion, criterion or burden: “So this cannot establish that the policy should be rejected.”
 
-This approach is especially important when correcting emotionally charged claims. Research on misinformation correction suggests that [corrections]({{ 'corrections/' | relative_url }}) often improve factual beliefs, and strong “backfire” effects are less common than once feared, but correction effects can be limited by motivation, identity and context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In debate terms, simply saying “false” may not be enough. The audience needs an alternative explanation that preserves what they care about while removing the faulty inference.
+This approach is especially important when correcting emotionally charged claims. Research on misinformation correction suggests that [corrections]({{ 'corrections/' | relative_url }}) often improve factual beliefs, and strong “backfire” effects are less common than once feared, but correction effects can be limited by motivation, identity and context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In debate terms, simply saying “false” may not be enough. The audience needs an alternative explanation that preserves what they care about while removing the faulty inference.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NKEhdsnKKHs" title="How to Argue - Philosophical Reasoning: Crash Course Philosophy #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer">How to Argue - Philosophical Reasoning: Crash Course Philosophy #2</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 5.3M &middot; Uploaded: February 2016 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NKEhdsnKKHs">Open on YouTube</a></p></div></div></div>
 
@@ -634,194 +634,194 @@ The best debaters make this visible to the audience. They do not merely announce
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bX0LMp11CXI" title="Rebuttal Basics in Debate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bX0LMp11CXI" target="_blank" rel="noopener noreferrer">Rebuttal Basics in Debate</a></p><p class="youtube-embed-meta">Channel: National Speech &amp; Debate Association &middot; Views: 13.5K &middot; Uploaded: September 2021 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bX0LMp11CXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bX0LMp11CXI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Spot Fallacies in Debate. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Spot Fallacies in Debate. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
-        </h4>
-        <p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
+</h4>
+<p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
         
-        <p class="fr-book-desc">Directly teaches identification of common debate fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches identification of common debate fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Provides practical tools for constructing and evaluating arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical tools for constructing and evaluating arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Covers reasoning errors commonly seen in debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers reasoning errors commonly seen in debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
-        </h4>
-        <p class="fr-book-author">By Jay Heinrichs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
+</h4>
+<p class="fr-book-author">By Jay Heinrichs</p>
         
-        <p class="fr-book-desc">Shows persuasive techniques and how arguments succeed or fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows persuasive techniques and how arguments succeed or fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1984 Ronald Reagan vs Walter Mondale Debate Poster"><img src="https://i.ebayimg.com/images/g/xr0AAOSwW0VcApCC/s-l225.jpg" alt="Listing image for 1984 Ronald Reagan vs Walter Mondale Debate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">1984 Ronald Reagan vs Walter Mondale Debate Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1984 Ronald Reagan vs Walter Mondale Debate Poster"><img src="https://i.ebayimg.com/images/g/xr0AAOSwW0VcApCC/s-l225.jpg" alt="Listing image for 1984 Ronald Reagan vs Walter Mondale Debate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">1984 Ronald Reagan vs Walter Mondale Debate Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debate Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Yj0AAeSwz8RpiOL5/s-l225.jpg" alt="Listing image for Debate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Debate Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debate Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Yj0AAeSwz8RpiOL5/s-l225.jpg" alt="Listing image for Debate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Debate Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359"><img src="https://i.ebayimg.com/images/g/7~0AAOSwdSZmKOX1/s-l225.jpg" alt="Listing image for PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359"><img src="https://i.ebayimg.com/images/g/7~0AAOSwdSZmKOX1/s-l225.jpg" alt="Listing image for PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6YgAAeSwyqhphikr/s-l225.jpg" alt="Listing image for Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6YgAAeSwyqhphikr/s-l225.jpg" alt="Listing image for Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -837,7 +837,7 @@ The best debaters make this visible to the audience. They do not merely announce
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -857,7 +857,7 @@ The best debaters make this visible to the audience. They do not merely announce
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -889,7 +889,7 @@ The best debaters make this visible to the audience. They do not merely announce
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -941,7 +941,7 @@ The best debaters make this visible to the audience. They do not merely announce
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -986,7 +986,7 @@ The best debaters make this visible to the audience. They do not merely announce
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1027,132 +1027,132 @@ The best debaters make this visible to the audience. They do not merely announce
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09605-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pragma-Dialectical Approach to the Fallacies Revisited | Argumentation | Springer Nature Link...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09605-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pragma-Dialectical Approach to the Fallacies Revisited | Argumentation | Springer Nature Link...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/61798/chapter/546190860?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/61798/chapter/546190860?searchresult=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/61798/chapter/546190860?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/61798/chapter/546190860?searchresult=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL® - Purdue University...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL® - Purdue University...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[1802.06613] Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation...</p></details>
+   Link:<a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[1802.06613] Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.09085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.09085</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[1708.09085] Argument Strength is in the Eye of the Beholder: Audience Effects in Persuasion...</p></details>
+   Link:<a href="https://arxiv.org/abs/1708.09085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.09085</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[1708.09085] Argument Strength is in the Eye of the Beholder: Audience Effects in Persuasion...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09615-8</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09615-8</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-023-09618-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09618-5</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10503-023-09618-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09618-5</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-94-007-6883-3_10-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-94-007-6883-3_10-1</a>  
+   Link:<a href="https://link.springer.com/rwe/10.1007/978" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_2</a>  
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-031-94094" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11031-024-10067-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11031-024-10067-0</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s11031-024-10067-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11031-024-10067-0</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: owl.purdue.edu  
    Title: rhetorical strategies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: owl.purdue.edu  
    Title: logic in writing  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: opentextbooks.rug.nl  
    Title: principle of charity  
-   Link: <a href="https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/</a>  
+   Link:<a href="https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: geol.umd.edu  
-   Link: <a href="https://www.geol.umd.edu/sgc/lectures/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geol.umd.edu/sgc/lectures/fallacies.html</a>  
+   Link:<a href="https://www.geol.umd.edu/sgc/lectures/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geol.umd.edu/sgc/lectures/fallacies.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: How to Argue  
-   Link: <a href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NKEhdsnKKHs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debate fallacies how to spot and respond argument strategy 19 Common Fallacies, Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NKEhdsnKKHs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debate fallacies how to spot and respond argument strategy 19 Common Fallacies, Explained...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: How to Win Every Argument (Even if You Are Wrong)  
-   Link: <a href="https://www.youtube.com/watch?v=IS8doeSyVNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IS8doeSyVNo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Argue - Philosophical Reasoning: Crash Course Philosophy #2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IS8doeSyVNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IS8doeSyVNo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Argue - Philosophical Reasoning: Crash Course Philosophy #2...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/321493526_Strategic_maneuvering_by_personal_attacks_in_spokespersons%27_argumentative_replies_at_diplomatic_press_conferences_A_pragma-dialectical_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321493526_Strategic_maneuvering_by_personal_attacks_in_spokespersons%27_argumentative_replies_at_diplomatic_press_conferences_A_pragma-dialectical_perspective</a>  
+   Link:<a href="https://www.researchgate.net/publication/321493526_Strategic_maneuvering_by_personal_attacks_in_spokespersons%27_argumentative_replies_at_diplomatic_press_conferences_A_pragma-dialectical_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321493526_Strategic_maneuvering_by_personal_attacks_in_spokespersons%27_argumentative_replies_at_diplomatic_press_conferences_A_pragma-dialectical_perspective</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion</a>  
+   Link:<a href="https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Ethpolsocpsy/posts/1056865664471138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Ethpolsocpsy/posts/1056865664471138/</a>  
+   Link:<a href="https://www.facebook.com/groups/Ethpolsocpsy/posts/1056865664471138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Ethpolsocpsy/posts/1056865664471138/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/intr/article/36/1/344/1253158/Biased-processing-of-political-fact-checks-on" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/intr/article/36/1/344/1253158/Biased-processing-of-political-fact-checks-on</a>  
+   Link:<a href="https://www.emerald.com/intr/article/36/1/344/1253158/Biased-processing-of-political-fact-checks-on" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/intr/article/36/1/344/1253158/Biased-processing-of-political-fact-checks-on</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: futurelearn.com  
-   Link: <a href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9148" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9148</a>  
+   Link:<a href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9148" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9148</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: prilo.ai  
-   Link: <a href="https://prilo.ai/nsda-resources/how-to-flow-debate" target="_blank" rel="noopener noreferrer nofollow">https://prilo.ai/nsda-resources/how-to-flow-debate</a>  
+   Link:<a href="https://prilo.ai/nsda-resources/how-to-flow-debate" target="_blank" rel="noopener noreferrer nofollow">https://prilo.ai/nsda-resources/how-to-flow-debate</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: purdueglobalwriting.center  
-   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
+   Link:<a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rozenbergquarterly.com  
-   Link: <a href="https://rozenbergquarterly.com/issa-proceedings-2006-informal-logic-and-pragma-dialectics/" target="_blank" rel="noopener noreferrer nofollow">https://rozenbergquarterly.com/issa-proceedings-2006-informal-logic-and-pragma-dialectics/</a>
+   Link:<a href="https://rozenbergquarterly.com/issa-proceedings-2006-informal-logic-and-pragma-dialectics/" target="_blank" rel="noopener noreferrer nofollow">https://rozenbergquarterly.com/issa-proceedings-2006-informal-logic-and-pragma-dialectics/</a>

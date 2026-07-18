@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status
 
 ## Introduction
 
-Status quo bias is the tendency to prefer the current state of affairs simply because it is the current state. Within discussions of appeal to [tradition]({{ 'tradition/' | relative_url }}) and familiar practices, it helps explain why existing methods often seem safer, more sensible or less risky than proposed alternatives, even when nobody has compared the options carefully. Researchers have repeatedly found that people disproportionately stick with default choices and established arrangements, not necessarily because those options are better, but because change feels uncertain and psychologically costly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">Status quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</span></span></span>
+Status quo bias is the tendency to prefer the current state of affairs simply because it is the current state. Within discussions of appeal to [tradition]({{ 'tradition/' | relative_url }}) and familiar practices, it helps explain why existing methods often seem safer, more sensible or less risky than proposed alternatives, even when nobody has compared the options carefully. Researchers have repeatedly found that people disproportionately stick with default choices and established arrangements, not necessarily because those options are better, but because change feels uncertain and psychologically costly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">Status quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-dark.svg" | relative_url }}" alt="Status Quo illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This bias matters because it can make familiar practices appear self-justifying. When people argue that a procedure, rule or habit should continue because it is already in place, they may be relying less on evidence and more on a cognitive preference for what feels normal. Status quo bias therefore provides one of the psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) that can make appeal-to-tradition arguments persuasive.
@@ -283,17 +283,17 @@ This bias matters because it can make familiar practices appear self-justifying.
 
 The key feature of status quo bias is that the existing option is not judged by the same standard as alternatives. A proposed change must prove itself, while the current arrangement often escapes equivalent scrutiny.
 
-In classic experiments by William Samuelson and Richard Zeckhauser, participants were more likely to select an option when it was presented as the existing choice than when the same option was presented without any special status. Simply labelling an alternative as the status quo increased its attractiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A review of current...by ME Godefroid · 2023 · Cited by 135 — Samuelson and Zeckhauser (1988) identified the cognitive misperception of...</span></span></span>
+In classic experiments by William Samuelson and Richard Zeckhauser, participants were more likely to select an option when it was presented as the existing choice than when the same option was presented without any special status. Simply labelling an alternative as the status quo increased its attractiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A review of current...by ME Godefroid · 2023 · Cited by 135 — Samuelson and Zeckhauser (1988) identified the cognitive misperception of...</span></span></span>
 
 Several psychological processes help create this advantage:
 
-* **Loss aversion:** People tend to [experience]({{ 'experience/' | relative_url }}) potential losses more intensely than equivalent gains. Any change is easily framed as giving something up, while the benefits remain uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
+* **Loss aversion:** People tend to [experience]({{ 'experience/' | relative_url }}) potential losses more intensely than equivalent gains. Any change is easily framed as giving something up, while the benefits remain uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
-* **Regret avoidance:** If a person keeps the current system and problems occur, responsibility feels diffuse. If they actively choose a new option and problems occur, they may feel personally responsible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
-* **Mere familiarity:** Repeated exposure often increases comfort and perceived trustworthiness. Existing practices have the advantage of being known quantities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
-* **Decision effort:** Evaluating alternatives requires time, information and mental energy. Leaving things unchanged often feels easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: executiveeducation.wharton.upenn.edu">[Wharton Executive Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">executiveeducation.wharton.upenn.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Regret avoidance:** If a person keeps the current system and problems occur, responsibility feels diffuse. If they actively choose a new option and problems occur, they may feel personally responsible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
+* **Mere familiarity:** Repeated exposure often increases comfort and perceived trustworthiness. Existing practices have the advantage of being known quantities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
+* **Decision effort:** Evaluating alternatives requires time, information and mental energy. Leaving things unchanged often feels easier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: executiveeducation.wharton.upenn.edu">[Wharton Executive Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">executiveeducation.wharton.upenn.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
@@ -305,7 +305,7 @@ Status quo bias is especially strong when uncertainty is present. People may kno
 
 This does not mean people believe the existing arrangement is perfect. Rather, they often know more about its weaknesses than about the weaknesses of alternatives. The known defects of the current system can feel less threatening than the unknown defects of a proposed replacement.
 
-Behavioural researchers have shown that people frequently treat departures from the current state as potential losses relative to a mental reference point. The existing arrangement becomes the baseline against which everything else is measured. Because losses loom larger than gains, change starts at a psychological disadvantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
+Behavioural researchers have shown that people frequently treat departures from the current state as potential losses relative to a mental reference point. The existing arrangement becomes the baseline against which everything else is measured. Because losses loom larger than gains, change starts at a psychological disadvantage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
 
 This is one reason appeals to tradition can sound convincing. A speaker does not always need to demonstrate that an old practice works better. It may be enough to highlight uncertainty about change. Once the current arrangement is mentally framed as the safe baseline, alternatives can appear risky by comparison.
 
@@ -317,18 +317,18 @@ Status quo bias appears in many ordinary decisions, often in situations where no
 
 ### Default Choices
 
-One of the most striking examples involves default settings. Research on organ-donation systems has found large differences between countries that require people to opt in and those that automatically enrol people unless they opt out. Many individuals stay with the default rather than actively changing it, even though the decision is important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Status Quo BiasFirst, we prefer the norm because of two other cognitive biases: loss aversion and regret avoidance. Second, we prefer the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to donate organs: do what you like or like what we do?by S Beraldo · 2021 · Cited by 39 — An effective method to increase the number of p...</span></span></span>
+One of the most striking examples involves default settings. Research on organ-donation systems has found large differences between countries that require people to opt in and those that automatically enrol people unless they opt out. Many individuals stay with the default rather than actively changing it, even though the decision is important.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Status Quo BiasFirst, we prefer the norm because of two other cognitive biases: loss aversion and regret avoidance. Second, we prefer the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to donate organs: do what you like or like what we do?by S Beraldo · 2021 · Cited by 39 — An effective method to increase the number of p...</span></span></span>
 
 The lesson is not merely about organ donation. It demonstrates how powerfully people gravitate toward what is already designated as the current choice.
 
 ### Workplace Practices
 
-Organisations frequently continue using established procedures long after circumstances have changed. Employees may defend familiar reporting systems, meeting structures or technologies because replacing them introduces uncertainty and learning costs. Resistance often stems from attachment to the current arrangement rather than a demonstrated superiority of the existing process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[SUE Behavioural Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-title">status quo bias at work</span><span class="citation-popover-snippet">Every alternative is unconsciously measured against the current situation as the...Read more...</span></span></span>
+Organisations frequently continue using established procedures long after circumstances have changed. Employees may defend familiar reporting systems, meeting structures or technologies because replacing them introduces uncertainty and learning costs. Resistance often stems from attachment to the current arrangement rather than a demonstrated superiority of the existing process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[SUE Behavioural Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-title">status quo bias at work</span><span class="citation-popover-snippet">Every alternative is unconsciously measured against the current situation as the...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-2-dark.svg" | relative_url }}" alt="Status Quo illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Personal Financial Decisions
 
-Studies cited in the original status quo bias research found substantial inertia in decisions involving health plans and retirement programmes. Individuals often remained with existing selections even when alternatives were available and potentially beneficial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</span></span></span>
+Studies cited in the original status quo bias research found substantial inertia in decisions involving health plans and retirement programmes. Individuals often remained with existing selections even when alternatives were available and potentially beneficial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</span></span></span>
 
 In each case, the existing option benefits from a hidden advantage: it does not have to earn trust from scratch.
 
@@ -344,7 +344,7 @@ A reasonable argument might say:
 
 > The existing process has been tested repeatedly, performs well on these measures, and proposed alternatives have not yet demonstrated comparable results.
 
-Status quo bias(#endnote-3 "Endnote 3") as argument is closer to: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
+Status quo bias(#endnote-3 "Endnote 3") as argument is closer to:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
 
 > The existing process is already in place, so changing it is probably a mistake.
 
@@ -372,7 +372,7 @@ Another method is to evaluate alternatives using the same criteria:
 
 </div>
 
-Researchers have also proposed thought experiments such as the “reversal test”, which asks whether people would oppose changes in both directions. If increasing a feature seems bad and decreasing it also seems bad, the current level may be receiving special protection simply because it is the current level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
+Researchers have also proposed thought experiments such as the “reversal test”, which asks whether people would oppose changes in both directions. If increasing a feature seems bad and decreasing it also seems bad, the current level may be receiving special protection simply because it is the current level.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
 
 The goal is not to favour change. It is to remove the hidden bonus that familiarity gives to existing arrangements.
 
@@ -386,269 +386,269 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AYUH3MF12uM" title="Status Quo Bias - Cognitive Bias Mini Series (13/20) - Mental Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AYUH3MF12uM" target="_blank" rel="noopener noreferrer">Status Quo Bias - Cognitive Bias Mini Series (13/20) - Mental Models</a></p><p class="youtube-embed-meta">Channel: Kartik Parekh &middot; Views: 55 &middot; Uploaded: February 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AYUH3MF12uM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AYUH3MF12uM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Familiar Choices Feel Safer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Familiar Choices Feel Safer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains status quo bias, loss aversion and why familiar options feel safer.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains status quo bias, loss aversion and why familiar options feel safer.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Covers common biases that favour existing choices over alternatives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers common biases that favour existing choices over alternatives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lwKRgkLNgXsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
-        </h4>
-        <p class="fr-book-author">By Dan Ariely</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lwKRgkLNgXsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
+</h4>
+<p class="fr-book-author">By Dan Ariely</p>
         
-        <p class="fr-book-desc">Shows how people systematically make biased decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how people systematically make biased decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Explains defaults and why existing options gain an advantage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains defaults and why existing options gain an advantage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predictably Irrational</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Predictably+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predictably Irrational</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=status-quo-why-familiar-choices-feel-safer-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -664,7 +664,7 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -684,7 +684,7 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -716,7 +716,7 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -804,184 +804,184 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
    Title: Status quo bias in decision making  
-   Link: <a href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF00055564</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF00055564</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Status quo bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Status_quo_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Status_quo_bias</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donation Decisions: When Deviating from the Status...by M Motsenok · 2025 — Our research contributes to the decision-making literature o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Donation Decisions: When Deviating from the Status...by M Motsenok · 2025 — Our research contributes to the decision-making literature o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/273914178_Putting_Public_Policy_Defaults_to_the_Test_The_Case_of_Organ_Donor_Registration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273914178_Putting_Public_Policy_Defaults_to_the_Test_The_Case_of_Organ_Donor_Registration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Organ Donor Registration | Request PDFGovernments using behavioural insights in public policy increasingly change defaults in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/273914178_Putting_Public_Policy_Defaults_to_the_Test_The_Case_of_Organ_Donor_Registration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273914178_Putting_Public_Policy_Defaults_to_the_Test_The_Case_of_Organ_Donor_Registration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Organ Donor Registration | Request PDFGovernments using behavioural insights in public policy increasingly change defaults in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375551554_An_Analysis_of_Status_Quo_Bias_and_Its_Applications_in_Behavioral_Economics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375551554_An_Analysis_of_Status_Quo_Bias_and_Its_Applications_in_Behavioral_Economics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An Analysis of Status Quo Bias and Its Applications...2 May 2026 — Status quo bias is a common psychological bias in decision-maki...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/375551554_An_Analysis_of_Status_Quo_Bias_and_Its_Applications_in_Behavioral_Economics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375551554_An_Analysis_of_Status_Quo_Bias_and_Its_Applications_in_Behavioral_Economics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An Analysis of Status Quo Bias and Its Applications...2 May 2026 — Status quo bias is a common psychological bias in decision-maki...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/328137078_Omission_and_commission_in_judgment_and_decision_making_Understanding_and_linking_action-inaction_effects_using_the_concept_of_normality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328137078_Omission_and_commission_in_judgment_and_decision_making_Understanding_and_linking_action-inaction_effects_using_the_concept_of_normality</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Status-quo bias and default bias seem to represent a different phenomenon than the. action-effect and omission bias (Schweitzer...Read...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/328137078_Omission_and_commission_in_judgment_and_decision_making_Understanding_and_linking_action-inaction_effects_using_the_concept_of_normality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328137078_Omission_and_commission_in_judgment_and_decision_making_Understanding_and_linking_action-inaction_effects_using_the_concept_of_normality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status-quo bias and default bias seem to represent a different phenomenon than the. action-effect and omission bias (Schweitzer...Read...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389092488_I_%27ll_have_what_I_had_before_but_with_a_cherry_on_top_leveraging_status_quo_bias_when_introducing_organizational_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389092488_I_%27ll_have_what_I_had_before_but_with_a_cherry_on_top_leveraging_status_quo_bias_when_introducing_organizational_change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>leveraging status quo bias when introducing organizational...add a small feature that provides a “reason to change”, and employee suppor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389092488_I_%27ll_have_what_I_had_before_but_with_a_cherry_on_top_leveraging_status_quo_bias_when_introducing_organizational_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389092488_I_%27ll_have_what_I_had_before_but_with_a_cherry_on_top_leveraging_status_quo_bias_when_introducing_organizational_change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>leveraging status quo bias when introducing organizational...add a small feature that provides a “reason to change”, and employee suppor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11301-022-00283-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of current...by ME Godefroid · 2023 · Cited by 135 — Samuelson and Zeckhauser (1988) identified the cognitive misperception of...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11301-022-00283-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of current...by ME Godefroid · 2023 · Cited by 135 — Samuelson and Zeckhauser (1988) identified the cognitive misperception of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Status Quo Bias: Why We Resist Change (3-Minute Explainer)  
-   Link: <a href="https://www.youtube.com/watch?v=pGn0K6SrMa0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pGn0K6SrMa0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Critical Thinking Trap Explained in 8 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pGn0K6SrMa0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pGn0K6SrMa0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every Critical Thinking Trap Explained in 8 Minutes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Every Critical Thinking Trap Explained in 8 Minutes  
-   Link: <a href="https://www.youtube.com/watch?v=pCxu_NJBbX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pCxu_NJBbX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias - Cognitive Bias Mini Series (13/20) - Mental Models...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pCxu_NJBbX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pCxu_NJBbX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias - Cognitive Bias Mini Series (13/20) - Mental Models...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Status Quo Bias  
-   Link: <a href="https://www.youtube.com/watch?v=AYUH3MF12uM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AYUH3MF12uM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brainy Business podcast ep 376...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AYUH3MF12uM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AYUH3MF12uM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brainy Business podcast ep 376...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Status Quo Bias | The Brainy Business podcast ep 376  
-   Link: <a href="https://www.youtube.com/watch?v=Ox2w3EhtLB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ox2w3EhtLB4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Behavioral Finance Biases: Status Quo Bias Example...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ox2w3EhtLB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ox2w3EhtLB4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Behavioral Finance Biases: Status Quo Bias Example...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: executiveeducation.wharton.upenn.edu  
-   Link: <a href="https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/</a>  
+   Link:<a href="https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rzeckhauser.scholars.harvard.edu  
    Title: Status Quo Bias in Decision Making  
-   Link: <a href="https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quo Bias in Decision Making - Richard ZeckhauserWilliam Samuelson and Richard Zeckhauser. 1988. “Status Quo Bias in Decision Making”. Jou...</p></details>
+   Link:<a href="https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quo Bias in Decision Making - Richard ZeckhauserWilliam Samuelson and Richard Zeckhauser. 1988. “Status Quo Bias in Decision Making”. Jou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: learningloop.io  
-   Link: <a href="https://learningloop.io/plays/psychology/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://learningloop.io/plays/psychology/status-quo-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Overcome hesitation to drive changeUse status quo bias to prompt users to change behavior when they need to - step-by-st...</p></details>
+   Link:<a href="https://learningloop.io/plays/psychology/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://learningloop.io/plays/psychology/status-quo-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Overcome hesitation to drive changeUse status quo bias to prompt users to change behavior when they need to - step-by-st...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo BiasFirst, we prefer the norm because of two other cognitive biases: loss aversion and regret avoidance. Second, we prefer the...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo BiasFirst, we prefer the norm because of two other cognitive biases: loss aversion and regret avoidance. Second, we prefer the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/intervention/bias-in-organ-donation" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/bias-in-organ-donation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabBias in organ donationResults showed that in the countries using the opt-out structure, organ donation rates were close t...</p></details>
+   Link:<a href="https://thedecisionlab.com/intervention/bias-in-organ-donation" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/bias-in-organ-donation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabBias in organ donationResults showed that in the countries using the opt-out structure, organ donation rates were close t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: suebehaviouraldesign.com  
    Title: status quo bias at work  
-   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every alternative is unconsciously measured against the current situation as the...Read more...</p></details>
+   Link:<a href="https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every alternative is unconsciously measured against the current situation as the...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedirect.com  
    Title: To change or not to change?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812400235X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S016726812400235X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias and...by G Barokas · 2024 · Cited by 8 — In this study, we explore the relationship between SQB and subjective well-be...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812400235X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S016726812400235X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias and...by G Barokas · 2024 · Cited by 8 — In this study, we explore the relationship between SQB and subjective well-be...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/pdf/41760530.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/pdf/41760530.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias in Decision Makingby W SAMUELSON · 1988 · Cited by 9272 — Most real decisions, unlike those of economics texts, have a st...</p></details>
+   Link:<a href="https://www.jstor.org/stable/pdf/41760530.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/pdf/41760530.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias in Decision Makingby W SAMUELSON · 1988 · Cited by 9272 — Most real decisions, unlike those of economics texts, have a st...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchprospect.com  
-   Link: <a href="https://www.researchprospect.com/what-is-the-status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.researchprospect.com/what-is-the-status-quo-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Meaning &amp; Examples17 Jul 2023 — 2: Endowment Effect, Loss Aversion, and Status Quo Bias; 3: Causes; 4: How to Overcome...</p></details>
+   Link:<a href="https://www.researchprospect.com/what-is-the-status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.researchprospect.com/what-is-the-status-quo-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Meaning &amp; Examples17 Jul 2023 — 2: Endowment Effect, Loss Aversion, and Status Quo Bias; 3: Causes; 4: How to Overcome...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: communicationcache.com  
-   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/status_quo_bias_in_decision_making.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/status_quo_bias_in_decision_making.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias in Decision MakingA series of decision-making experiments shows that individuals disproportionately stick with the status...</p></details>
+   Link:<a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/status_quo_bias_in_decision_making.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/status_quo_bias_in_decision_making.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias in Decision MakingA series of decision-making experiments shows that individuals disproportionately stick with the status...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: verywellmind.com  
    Title: status quo bias psychological definition 4065385  
-   Link: <a href="https://www.verywellmind.com/status-quo-bias-psychological-definition-4065385" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/status-quo-bias-psychological-definition-4065385</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Status Quo Bias Affects Our DecisionsDec 15, 2025 — The status quo bias is a type of cognitive bias that involves the preference...</p></details>
+   Link:<a href="https://www.verywellmind.com/status-quo-bias-psychological-definition-4065385" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/status-quo-bias-psychological-definition-4065385</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Status Quo Bias Affects Our DecisionsDec 15, 2025 — The status quo bias is a type of cognitive bias that involves the preference...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: behavioraleconomics.com  
    Title: Status quo bias  
-   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/status-quo-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubDec 4, 2024 — Status quo bias is evident when people prefer things to stay the same by doing nothing (see also inertia) or by...</p></details>
+   Link:<a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/status-quo-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubDec 4, 2024 — Status quo bias is evident when people prefer things to stay the same by doing nothing (see also inertia) or by...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: economicshelp.org  
    Title: status quo bias  
-   Link: <a href="https://www.economicshelp.org/blog/glossary/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.economicshelp.org/blog/glossary/status-quo-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interestingly Samuelson, W., &amp; Zeckhauser (1988) found a preference for the status quo was greater with more choices. This suggests that...</p></details>
+   Link:<a href="https://www.economicshelp.org/blog/glossary/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.economicshelp.org/blog/glossary/status-quo-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interestingly Samuelson, W., &amp; Zeckhauser (1988) found a preference for the status quo was greater with more choices. This suggests that...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: technologyadoptionbarriers.org  
    Title: bibliography 1 5 status quo bias samuelson zeckhauser 1988  
-   Link: <a href="https://technologyadoptionbarriers.org/bibliography-1-5-status-quo-bias-samuelson-zeckhauser-1988/" target="_blank" rel="noopener noreferrer nofollow">https://technologyadoptionbarriers.org/bibliography-1-5-status-quo-bias-samuelson-zeckhauser-1988/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias – Samuelson &amp; Zeckhauser (1988) | TABSFor system design in organizational and consumer contexts, understanding status quo...</p></details>
+   Link:<a href="https://technologyadoptionbarriers.org/bibliography-1-5-status-quo-bias-samuelson-zeckhauser-1988/" target="_blank" rel="noopener noreferrer nofollow">https://technologyadoptionbarriers.org/bibliography-1-5-status-quo-bias-samuelson-zeckhauser-1988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias – Samuelson &amp; Zeckhauser (1988) | TABSFor system design in organizational and consumer contexts, understanding status quo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scite.ai  
-   Link: <a href="https://scite.ai/reports/status-quo-bias-in-decision-bWYj58" target="_blank" rel="noopener noreferrer nofollow">https://scite.ai/reports/status-quo-bias-in-decision-bWYj58</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision makingData on the selections of health plans and retirement programs by faculty members reveal that the statu...</p></details>
+   Link:<a href="https://scite.ai/reports/status-quo-bias-in-decision-bWYj58" target="_blank" rel="noopener noreferrer nofollow">https://scite.ai/reports/status-quo-bias-in-decision-bWYj58</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision makingData on the selections of health plans and retirement programs by faculty members reveal that the statu...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: insidebe.com  
-   Link: <a href="https://insidebe.com/articles/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/status-quo-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Everything You Need to KnowStatus quo bias is a subconscious, cognitive bias that causes us to stick with the way things...</p></details>
+   Link:<a href="https://insidebe.com/articles/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/status-quo-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Everything You Need to KnowStatus quo bias is a subconscious, cognitive bias that causes us to stick with the way things...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: stafforini.com  
-   Link: <a href="https://stafforini.com/works/samuelson-1988-status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://stafforini.com/works/samuelson-1988-status-quo-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision makingA series of decision-making experiments shows that individuals disproportionately stick with the status...</p></details>
+   Link:<a href="https://stafforini.com/works/samuelson-1988-status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://stafforini.com/works/samuelson-1988-status-quo-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision makingA series of decision-making experiments shows that individuals disproportionately stick with the status...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: andrewclark.co.uk  
-   Link: <a href="https://andrewclark.co.uk/all-media/status-quo-bias-in-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://andrewclark.co.uk/all-media/status-quo-bias-in-decision-making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Product Management Book SummariesStatus Quo Bias in Decision MakingData on the selections of health plans and retirement programs by facu...</p></details>
+   Link:<a href="https://andrewclark.co.uk/all-media/status-quo-bias-in-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://andrewclark.co.uk/all-media/status-quo-bias-in-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Product Management Book SummariesStatus Quo Bias in Decision MakingData on the selections of health plans and retirement programs by facu...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ifo.de  
-   Link: <a href="https://www.ifo.de/DocDL/dice-report-2016-4-li-nikolka-december.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/dice-report-2016-4-li-nikolka-december.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>le gravitate toward the status quo because the losses weigh more heavily psychologically than the...Read more...</p></details>
+   Link:<a href="https://www.ifo.de/DocDL/dice-report-2016-4-li-nikolka-december.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/dice-report-2016-4-li-nikolka-december.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>le gravitate toward the status quo because the losses weigh more heavily psychologically than the...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: jbsfm.org  
-   Link: <a href="https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/" target="_blank" rel="noopener noreferrer nofollow">https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Games and Economic Behavior, 69(2), 411–...</p></details>
+   Link:<a href="https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/" target="_blank" rel="noopener noreferrer nofollow">https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Games and Economic Behavior, 69(2), 411–...</p></details>
 
 4
 
@@ -989,40 +989,40 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
 
 4. DOI: [https://doi.org/10.1016/j.geb...Read](https://doi.org/10.1016/j.geb...Read) more
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: emerald.com  
    Title: Remind me that I matter how self worth bias can  
-   Link: <a href="https://www.emerald.com/jocm/article/37/8/53/1231474/Remind-me-that-I-matter-how-self-worth-bias-can" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jocm/article/37/8/53/1231474/Remind-me-that-I-matter-how-self-worth-bias-can</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>quo bias, Loss aversion, Organizational change, Change management, Leadership, Communication... Much of the aforementioned loss averse d...</p></details>
+   Link:<a href="https://www.emerald.com/jocm/article/37/8/53/1231474/Remind-me-that-I-matter-how-self-worth-bias-can" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jocm/article/37/8/53/1231474/Remind-me-that-I-matter-how-self-worth-bias-can</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>quo bias, Loss aversion, Organizational change, Change management, Leadership, Communication... Much of the aforementioned loss averse d...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/defaults-and-donation-decisions-2nwbeg022d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/defaults-and-donation-decisions-2nwbeg022d.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e number of individuals who decide to become...Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/defaults-and-donation-decisions-2nwbeg022d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/defaults-and-donation-decisions-2nwbeg022d.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e number of individuals who decide to become...Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: trainingpractice.co.nz  
    Title: the status quo bias and you  
-   Link: <a href="https://www.trainingpractice.co.nz/post/the-status-quo-bias-and-you" target="_blank" rel="noopener noreferrer nofollow">https://www.trainingpractice.co.nz/post/the-status-quo-bias-and-you</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jul 2021 — In 1988 researchers William Samuelson and Richard Zeckhauser coined the term &#x27;status quo bias&#x27;. A series of decision-making...</p></details>
+   Link:<a href="https://www.trainingpractice.co.nz/post/the-status-quo-bias-and-you" target="_blank" rel="noopener noreferrer nofollow">https://www.trainingpractice.co.nz/post/the-status-quo-bias-and-you</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jul 2021 — In 1988 researchers William Samuelson and Richard Zeckhauser coined the term &#x27;status quo bias&#x27;. A series of decision-making...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ijsser.org  
-   Link: <a href="https://ijsser.org/2025files/ijsser_10__161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsser.org/2025files/ijsser_10__161.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behavioral Economics of Organ Donationby HM Kirtikumar — Likewise, the status quo bias favors the default option, which in opt-out sy...</p></details>
+   Link:<a href="https://ijsser.org/2025files/ijsser_10__161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsser.org/2025files/ijsser_10__161.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Behavioral Economics of Organ Donationby HM Kirtikumar — Likewise, the status quo bias favors the default option, which in opt-out sy...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to donate organs: do what you like or like what we do?by S Beraldo · 2021 · Cited by 39 — An effective method to increase the number of p...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to donate organs: do what you like or like what we do?by S Beraldo · 2021 · Cited by 39 — An effective method to increase the number of p...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3059787/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3059787/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A suboptimal bias toward accepting the status quo option in decision-making is well established behaviorally, but the underlying...Read...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3059787/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3059787/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A suboptimal bias toward accepting the status quo option in decision-making is well established behaviorally, but the underlying...Read...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ideas.repec.org  
    Title: v1y1988i1p7 59  
-   Link: <a href="https://ideas.repec.org/r/kap/jrisku/v1y1988i1p7-59.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/r/kap/jrisku/v1y1988i1p7-59.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Status Quo Bias in Decision Making&quot;Status Quo Effect and Preferences Uncertainty: A Heteroscedastic Extreme Value (HEV) Model,&quot; Jurnal...</p></details>
+   Link:<a href="https://ideas.repec.org/r/kap/jrisku/v1y1988i1p7-59.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/r/kap/jrisku/v1y1988i1p7-59.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Status Quo Bias in Decision Making&quot;Status Quo Effect and Preferences Uncertainty: A Heteroscedastic Extreme Value (HEV) Model,&quot; Jurnal...</p></details>

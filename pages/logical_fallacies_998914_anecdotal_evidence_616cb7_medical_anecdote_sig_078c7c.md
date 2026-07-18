@@ -277,15 +277,15 @@ image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_medical
 Anecdotes are often treated with suspicion in discussions of evidence, and for good reason: a single story cannot establish that a treatment works or that a risk is common. Yet medicine would be less safe if it ignored patient stories altogether. Individual reports of unexpected symptoms, unusual side effects, or rare harms frequently act as early warning signals. They alert clinicians and regulators to possibilities that were not recognised during clinical trials and suggest questions that deserve urgent investigation.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_medical_anecdote_sig_078c7c-Illustration-1-dark.svg" | relative_url }}" alt="Medical Signals illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_medical_anecdote_sig_078c7c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_medical_anecdote_sig_078c7c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key distinction is between a **signal** and **proof**. A patient story can indicate that a problem may exist. It cannot, by itself, demonstrate that a medicine caused the problem, how often it occurs, or which patients are at risk. In evidence-based medicine, anecdotes are most valuable when they trigger stronger forms of evidence gathering rather than replace them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
+The key distinction is between a **signal** and **proof**. A patient story can indicate that a problem may exist. It cannot, by itself, demonstrate that a medicine caused the problem, how often it occurs, or which patients are at risk. In evidence-based medicine, anecdotes are most valuable when they trigger stronger forms of evidence gathering rather than replace them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
 
 ## Can a Patient Story Warn Us Early?
 
-Medicine has long relied on observations from individual patients and clinicians to identify dangers that formal research initially missed. This is especially important because pre-approval clinical trials have limits. Trials may involve only a few thousand participants, run for a limited time, and often exclude groups such as pregnant women, people with multiple illnesses, or those taking many medicines simultaneously. Rare adverse effects may therefore remain invisible until a treatment reaches millions of people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stg-blogs.bmj.com">[BMJ Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stg-blogs.bmj.com</span><span class="citation-popover-title">rare adverse events clinical trials understanding rule three</span><span class="citation-popover-snippet">BMJ BlogsRare adverse events in clinical trialsNov 14, 2017 —... drug manufacturers, especially in cases where the reported harms are se...</span></span></span>
+Medicine has long relied on observations from individual patients and clinicians to identify dangers that formal research initially missed. This is especially important because pre-approval clinical trials have limits. Trials may involve only a few thousand participants, run for a limited time, and often exclude groups such as pregnant women, people with multiple illnesses, or those taking many medicines simultaneously. Rare adverse effects may therefore remain invisible until a treatment reaches millions of people.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stg-blogs.bmj.com">[BMJ Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stg-blogs.bmj.com</span><span class="citation-popover-title">rare adverse events clinical trials understanding rule three</span><span class="citation-popover-snippet">BMJ BlogsRare adverse events in clinical trialsNov 14, 2017 —... drug manufacturers, especially in cases where the reported harms are se...</span></span></span>
 
-When a doctor notices an unusual reaction, or when patients independently report a similar problem, those reports can be collected through pharmacovigilance systems—the organised monitoring of medicine safety after approval. International systems such as the World Health Organization's monitoring network gather millions of reports and look for patterns that appear repeatedly across countries and populations. A single anecdote is weak evidence, but many similar anecdotes can form a meaningful signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
+When a doctor notices an unusual reaction, or when patients independently report a similar problem, those reports can be collected through pharmacovigilance systems—the organised monitoring of medicine safety after approval. International systems such as the World Health Organization's monitoring network gather millions of reports and look for patterns that appear repeatedly across countries and populations. A single anecdote is weak evidence, but many similar anecdotes can form a meaningful signal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
 
-This is one reason the simple dismissal of all anecdotes as "mere stories" can be misleading. In medicine, some of the most important safety discoveries began with isolated observations that later proved significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stg-blogs.bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stg-blogs.bmj.com</span><span class="citation-popover-title">rare adverse events clinical trials understanding rule three</span><span class="citation-popover-snippet">BMJ BlogsRare adverse events in clinical trialsNov 14, 2017 —... drug manufacturers, especially in cases where the reported harms are se...</span></span></span>
+This is one reason the simple dismissal of all anecdotes as "mere stories" can be misleading. In medicine, some of the most important safety discoveries began with isolated observations that later proved significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stg-blogs.bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stg-blogs.bmj.com</span><span class="citation-popover-title">rare adverse events clinical trials understanding rule three</span><span class="citation-popover-snippet">BMJ BlogsRare adverse events in clinical trialsNov 14, 2017 —... drug manufacturers, especially in cases where the reported harms are se...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0ZbbWCytmhA" title="How do we detect a signals?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0ZbbWCytmhA" target="_blank" rel="noopener noreferrer">How do we detect a signals?</a></p><p class="youtube-embed-meta">Channel: Cliniminds India &middot; Views: 539 &middot; Uploaded: June 2024 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0ZbbWCytmhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0ZbbWCytmhA">Open on YouTube</a></p></div></div></div>
 
@@ -293,9 +293,9 @@ This is one reason the simple dismissal of all anecdotes as "mere stories" can b
 
 Rare harms present a special challenge. If a serious side effect occurs once in every 50,000 patients, even a well-designed trial may never encounter it. Case reports therefore fill an important gap.
 
-The most famous example is thalidomide. In the late 1950s and early 1960s, clinicians began noticing an unusual rise in severe birth defects among babies whose mothers had taken the drug during pregnancy. These early observations were not definitive proof, but they provided the first warning that something was wrong. Subsequent investigation confirmed the [association]({{ 'association/' | relative_url }}), and the tragedy transformed drug-safety monitoring worldwide. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctdt.co.in">[2ctdt.co.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctdt.co.in</span><span class="citation-popover-snippet">birth defects became permanently linked as a result of...Read more...</span></span></span>
+The most famous example is thalidomide. In the late 1950s and early 1960s, clinicians began noticing an unusual rise in severe birth defects among babies whose mothers had taken the drug during pregnancy. These early observations were not definitive proof, but they provided the first warning that something was wrong. Subsequent investigation confirmed the [association]({{ 'association/' | relative_url }}), and the tragedy transformed drug-safety monitoring worldwide. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctdt.co.in">[2ctdt.co.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctdt.co.in</span><span class="citation-popover-snippet">birth defects became permanently linked as a result of...Read more...</span></span></span>
 
-Other serious drug-related harms have also first appeared in case reports or small case series before being confirmed through larger investigations. Reviews of pharmacovigilance history note that reports of congenital abnormalities linked to valproate, for example, emerged initially through case reports before stronger evidence accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s40800-017-0053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Importance of Publishing Adverse Drug Reaction Case Reportsby RR Shah · 2017 · Cited by 23 — However, strong evidence suggesting...</span></span></span>
+Other serious drug-related harms have also first appeared in case reports or small case series before being confirmed through larger investigations. Reviews of pharmacovigilance history note that reports of congenital abnormalities linked to valproate, for example, emerged initially through case reports before stronger evidence accumulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s40800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Importance of Publishing Adverse Drug Reaction Case Reportsby RR Shah · 2017 · Cited by 23 — However, strong evidence suggesting...</span></span></span>
 
 Case reports are particularly valuable when they contain features that make coincidence less likely, such as:
 
@@ -305,7 +305,7 @@ Case reports are particularly valuable when they contain features that make coin
 * Repeated occurrence in multiple unrelated patients.
 * Improvement after stopping the treatment.
 * Recurrence after re-exposure, when such re-exposure occurs unintentionally and safely.
-* A biologically plausible mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-title">bmj.k4051~adverse drug reactions</span><span class="citation-popover-snippet">Adverse drug reactionsby RE Ferner · 2018 · Cited by 53 — Rechallenge is not generally advised if the suspected adverse drug reaction...</span></span></span>
+* A biologically plausible mechanism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-title">bmj.k4051~adverse drug reactions</span><span class="citation-popover-snippet">Adverse drug reactionsby RE Ferner · 2018 · Cited by 53 — Rechallenge is not generally advised if the suspected adverse drug reaction...</span></span></span>
 
 </div>
 
@@ -320,7 +320,7 @@ A patient may develop a serious illness after taking a medicine. The timing migh
 
 This is where the logic of evidence becomes important. Anecdotes can show that an event is possible. They cannot reliably show that it is typical, frequent, or caused by the treatment. Treating a signal as proof is a version of the same evidential mistake that underlies many anecdotal fallacies: drawing a broad conclusion from insufficient evidence.
 
-Research examining adverse-drug-reaction signals has repeatedly found that some early warnings are later confirmed, while others are not. The fact that many signals fail to hold up under further scrutiny is not a weakness of the system; it is the expected outcome of a process designed to detect potential problems early. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/332/7539/488.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Case reports of suspected adverse drug reactionsby JP Vandenbroucke · 2006 · Cited by 19 — Case reports of suspected adverse drug reac...</span></span></span>
+Research examining adverse-drug-reaction signals has repeatedly found that some early warnings are later confirmed, while others are not. The fact that many signals fail to hold up under further scrutiny is not a weakness of the system; it is the expected outcome of a process designed to detect potential problems early.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/332/7539/488.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Case reports of suspected adverse drug reactionsby JP Vandenbroucke · 2006 · Cited by 19 — Case reports of suspected adverse drug reac...</span></span></span>
 
 The goal is sensitivity rather than certainty. Regulators would rather investigate a number of false alarms than miss a genuine danger that could harm large numbers of patients.
 
@@ -330,7 +330,7 @@ The goal is sensitivity rather than certainty. Regulators would rather investiga
 
 Once a signal emerges, researchers seek stronger forms of evidence.
 
-The first step is often to determine whether similar reports exist elsewhere. Pharmacovigilance databases can reveal whether clinicians and patients in different places are reporting the same pattern. Statistical methods can then assess whether the reported event appears unusually often in association with a particular medicine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
+The first step is often to determine whether similar reports exist elsewhere. Pharmacovigilance databases can reveal whether clinicians and patients in different places are reporting the same pattern. Statistical methods can then assess whether the reported event appears unusually often in association with a particular medicine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
 
 Further investigation may include:
 
@@ -340,7 +340,7 @@ Further investigation may include:
 * Cohort studies tracking outcomes among people who did and did not receive the treatment.
 * Reanalysis of clinical-trial data.
 * Mechanistic research exploring how the harm might occur biologically.
-* Regulatory review of accumulated evidence from multiple sources. BMJ <span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
+* Regulatory review of accumulated evidence from multiple sources. BMJ<span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
 
 </div>
 
@@ -353,274 +353,274 @@ The role of anecdotes in medicine illustrates an important lesson about evidence
 
 When someone reports an unexpected reaction to a medicine, the report should neither be accepted as conclusive proof nor dismissed as irrelevant. Its proper role is to raise a question. Medicine advances by turning such observations into testable hypotheses and then subjecting them to more rigorous scrutiny.
 
-This balanced approach avoids two opposite errors. One is the anecdotal fallacy: assuming that a vivid personal [experience]({{ 'experience/' | relative_url }}) proves a general claim. The other is ignoring potentially important observations simply because they come from individuals. Medical safety systems work precisely because they treat anecdotes as clues—valuable enough to investigate, but not strong enough to settle the matter on their own. BMJ <span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
+This balanced approach avoids two opposite errors. One is the anecdotal fallacy: assuming that a vivid personal [experience]({{ 'experience/' | relative_url }}) proves a general claim. The other is ignoring potentially important observations simply because they come from individuals. Medical safety systems work precisely because they treat anecdotes as clues—valuable enough to investigate, but not strong enough to settle the matter on their own. BMJ<span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OctiisKowL8" title="Assessment and Reporting of Adverse Drug Reactions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OctiisKowL8" target="_blank" rel="noopener noreferrer">Assessment and Reporting of Adverse Drug Reactions</a></p><p class="youtube-embed-meta">Channel: PhRMAFoundation &middot; Views: 1.5K &middot; Uploaded: June 2018 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OctiisKowL8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OctiisKowL8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Patient Story Warn US Early?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Patient Story Warn US Early?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly addresses medical anecdotes, trials, and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses medical anecdotes, trials, and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nWnR1JI7G6gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Simon Singh, Professor Edzard Ernst</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nWnR1JI7G6gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
+</h4>
+<p class="fr-book-author">By Dr. Simon Singh, Professor Edzard Ernst</p>
         
-        <p class="fr-book-desc">Shows why personal recovery stories are weak evidence for effectiveness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why personal recovery stories are weak evidence for effectiveness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+by+Dr.+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing Treatments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EXTrAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Testing Treatments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing Treatments">Testing Treatments</a>
-        </h4>
-        <p class="fr-book-author">By Imogen Evans, Hazel Thornton et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing Treatments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EXTrAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Testing Treatments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing Treatments">Testing Treatments</a>
+</h4>
+<p class="fr-book-author">By Imogen Evans, Hazel Thornton et al.</p>
         
-        <p class="fr-book-desc">Explains why case reports generate signals but do not establish proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why case reports generate signals but do not establish proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Covers scientific skepticism, medical claims, and cognitive pitfalls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers scientific skepticism, medical claims, and cognitive pitfalls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trick or Treatment?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+Treatments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing Treatments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trick or Treatment?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+Treatments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing Treatments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medical-signals-can-a-patient-story-warn-us-early-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ This balanced approach avoids two opposite errors. One is the anecdotal fallacy:
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ This balanced approach avoids two opposite errors. One is the anecdotal fallacy:
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ This balanced approach avoids two opposite errors. One is the anecdotal fallacy:
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ This balanced approach avoids two opposite errors. One is the anecdotal fallacy:
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -776,192 +776,192 @@ This balanced approach avoids two opposite errors. One is the anecdotal fallacy:
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCase reports of suspected adverse drug reactions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1363912/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1363912/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by YK Loke · 2006 · Cited by 141 — Abstract. Objective To determine whether anecdotal reports of suspected adverse drug reactions are...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1363912/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1363912/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by YK Loke · 2006 · Cited by 141 — Abstract. Objective To determine whether anecdotal reports of suspected adverse drug reactions are...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stg-blogs.bmj.com  
    Title: rare adverse events clinical trials understanding rule three  
-   Link: <a href="https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/" target="_blank" rel="noopener noreferrer nofollow">https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ BlogsRare adverse events in clinical trialsNov 14, 2017 —... drug manufacturers, especially in cases where the reported harms are se...</p></details>
+   Link:<a href="https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/" target="_blank" rel="noopener noreferrer nofollow">https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ BlogsRare adverse events in clinical trialsNov 14, 2017 —... drug manufacturers, especially in cases where the reported harms are se...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAdverse drug reactions – no farewell to harms  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2000567/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2000567/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>drug reactions – no farewell to harms - PMC - NIHby JK Aronson · 2007 · Cited by 34 — Adverse drug reactions – no farewell to harms · The...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2000567/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2000567/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drug reactions – no farewell to harms - PMC - NIHby JK Aronson · 2007 · Cited by 34 — Adverse drug reactions – no farewell to harms · The...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/332/7539/488.1" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7539/488.1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports of suspected adverse drug reactionsby JP Vandenbroucke · 2006 · Cited by 19 — Case reports of suspected adverse drug reac...</p></details>
+   Link:<a href="https://www.bmj.com/content/332/7539/488.1" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7539/488.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports of suspected adverse drug reactionsby JP Vandenbroucke · 2006 · Cited by 19 — Case reports of suspected adverse drug reac...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/332/7539/488.2" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7539/488.2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports of suspected adverse drug reactionsby S Russmann · 2006 · Cited by 12 — Yes, in rare instances case reports do more harm...</p></details>
+   Link:<a href="https://www.bmj.com/content/332/7539/488.2" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7539/488.2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports of suspected adverse drug reactionsby S Russmann · 2006 · Cited by 12 — Yes, in rare instances case reports do more harm...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn historical overview over Pharmacovigilance  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6132952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6132952/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Fornasier · 2018 · Cited by 315 — The tragedy of thalidomide brought to light many problems and critical issues, in particu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6132952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6132952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Fornasier · 2018 · Cited by 315 — The tragedy of thalidomide brought to light many problems and critical issues, in particu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ctdt.co.in  
-   Link: <a href="https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText" target="_blank" rel="noopener noreferrer nofollow">https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>birth defects became permanently linked as a result of...Read more...</p></details>
+   Link:<a href="https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText" target="_blank" rel="noopener noreferrer nofollow">https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>birth defects became permanently linked as a result of...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s40800-017-0053-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s40800-017-0053-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Publishing Adverse Drug Reaction Case Reportsby RR Shah · 2017 · Cited by 23 — However, strong evidence suggesting...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s40800" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s40800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Publishing Adverse Drug Reaction Case Reportsby RR Shah · 2017 · Cited by 23 — However, strong evidence suggesting...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ovid.com  
    Title: bmj.k4051~adverse drug reactions  
-   Link: <a href="https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse drug reactionsby RE Ferner · 2018 · Cited by 53 — Rechallenge is not generally advised if the suspected adverse drug reaction...</p></details>
+   Link:<a href="https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse drug reactionsby RE Ferner · 2018 · Cited by 53 — Rechallenge is not generally advised if the suspected adverse drug reaction...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bmj.com  
    Title: bmj 2022 071752  
-   Link: <a href="https://www.bmj.com/content/379/bmj-2022-071752" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/379/bmj-2022-071752</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterization and corroboration of safety signals...by MM Dhodapkar · 2022 · Cited by 81 — A study demonstrating a significant ass...</p></details>
+   Link:<a href="https://www.bmj.com/content/379/bmj-2022-071752" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/379/bmj-2022-071752</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterization and corroboration of safety signals...by MM Dhodapkar · 2022 · Cited by 81 — A study demonstrating a significant ass...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/332/7537/335/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7537/335/rapid-responses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adverse drug reaction (ADR) is by performing a controlled follow-up study.... -making which play a significant role in...Read more...</p></details>
+   Link:<a href="https://www.bmj.com/content/332/7537/335/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7537/335/rapid-responses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adverse drug reaction (ADR) is by performing a controlled follow-up study.... -making which play a significant role in...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bmj.com  
    Title: bmj 2021 068983  
-   Link: <a href="https://www.bmj.com/content/377/bmj-2021-068983" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/377/bmj-2021-068983</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Better reporting of harms in randomized trials: an extension of the CONSORT...Read more...</p></details>
+   Link:<a href="https://www.bmj.com/content/377/bmj-2021-068983" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/377/bmj-2021-068983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Better reporting of harms in randomized trials: an extension of the CONSORT...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/</a>  
+   Link:<a href="https://www.bmj.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/377/bmj.o1055" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/377/bmj.o1055</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Better measuring and reporting of adverse events are...by CA Shaheed · 2022 · Cited by 5 — The CONSORT extension for harms3 provides gui...</p></details>
+   Link:<a href="https://www.bmj.com/content/377/bmj.o1055" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/377/bmj.o1055</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Better measuring and reporting of adverse events are...by CA Shaheed · 2022 · Cited by 5 — The CONSORT extension for harms3 provides gui...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: casereports-corporate.bmj.com  
-   Link: <a href="https://casereports-corporate.bmj.com/" target="_blank" rel="noopener noreferrer nofollow">https://casereports-corporate.bmj.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Includes information on adverse reactions and drug effectiveness, aimed at pharmaceutical...</p></details>
+   Link:<a href="https://casereports-corporate.bmj.com/" target="_blank" rel="noopener noreferrer nofollow">https://casereports-corporate.bmj.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Includes information on adverse reactions and drug effectiveness, aimed at pharmaceutical...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: casereports.bmj.com  
-   Link: <a href="https://casereports.bmj.com/content/13/8/e238555" target="_blank" rel="noopener noreferrer nofollow">https://casereports.bmj.com/content/13/8/e238555</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bmj.comStevens-Johnson syndrome-toxic epidermal necrolysisby SS Sen · 2020 · Cited by 11 — We hereby report a fatal case of SJS and toxic...</p></details>
+   Link:<a href="https://casereports.bmj.com/content/13/8/e238555" target="_blank" rel="noopener noreferrer nofollow">https://casereports.bmj.com/content/13/8/e238555</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bmj.comStevens-Johnson syndrome-toxic epidermal necrolysisby SS Sen · 2020 · Cited by 11 — We hereby report a fatal case of SJS and toxic...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bmj.com  
    Title: case reports vital pharmacovigilance  
-   Link: <a href="https://www.bmj.com/rapid-response/2011/10/31/case-reports-vital-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/31/case-reports-vital-pharmacovigilance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports vital for pharmacovigilanceFeb 9, 2006 — Case reports of suspected adverse drug reactions—systematic literature survey of fo...</p></details>
+   Link:<a href="https://www.bmj.com/rapid-response/2011/10/31/case-reports-vital-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/31/case-reports-vital-pharmacovigilance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports vital for pharmacovigilanceFeb 9, 2006 — Case reports of suspected adverse drug reactions—systematic literature survey of fo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/13/1/e068127" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/13/1/e068127</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mining techniques for detecting signals of adverse...by Y Guan · 2023 · Cited by 6 — This study aimed to analyse cardiac therapy drug-re...</p></details>
+   Link:<a href="https://bmjopen.bmj.com/content/13/1/e068127" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/13/1/e068127</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mining techniques for detecting signals of adverse...by Y Guan · 2023 · Cited by 6 — This study aimed to analyse cardiac therapy drug-re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366028801_Signals_of_Adverse_Drug_Reactions_Communicated_by_Pharmacovigilance_Stakeholders_A_Scoping_Review_of_the_Global_Literature" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366028801_Signals_of_Adverse_Drug_Reactions_Communicated_by_Pharmacovigilance_Stakeholders_A_Scoping_Review_of_the_Global_Literature</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Signals of Adverse Drug Reactions Communicated...We shall hand-search the websites of 35 regulatory agencies/authorities, restrict...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/366028801_Signals_of_Adverse_Drug_Reactions_Communicated_by_Pharmacovigilance_Stakeholders_A_Scoping_Review_of_the_Global_Literature" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366028801_Signals_of_Adverse_Drug_Reactions_Communicated_by_Pharmacovigilance_Stakeholders_A_Scoping_Review_of_the_Global_Literature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Signals of Adverse Drug Reactions Communicated...We shall hand-search the websites of 35 regulatory agencies/authorities, restrict...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iris.who.int  
    Title: int SAFET Y MONITORING  
-   Link: <a href="https://iris.who.int/bitstreams/5967e7fc-c971-46b7-9bd7-6689b26ea3aa/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/5967e7fc-c971-46b7-9bd7-6689b26ea3aa/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MONITORING - IRISby World Health Organization · 2012 · Cited by 54 — The aim of spontaneous reporting systems is to detect new signals, a...</p></details>
+   Link:<a href="https://iris.who.int/bitstreams/5967e7fc-c971-46b7-9bd7-6689b26ea3aa/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/5967e7fc-c971-46b7-9bd7-6689b26ea3aa/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MONITORING - IRISby World Health Organization · 2012 · Cited by 54 — The aim of spontaneous reporting systems is to detect new signals, a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s40264-022-01258-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s40264-022-01258-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Adverse Drug Reactions Communicated by...by D Sartori · 2023 · Cited by 38 — Signals of adverse drug reactions (ADRs) can be supporte...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s40264-022-01258-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s40264-022-01258-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Adverse Drug Reactions Communicated by...by D Sartori · 2023 · Cited by 38 — Signals of adverse drug reactions (ADRs) can be supporte...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: who-umc.org  
-   Link: <a href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow">https://who-umc.org/media/1777/25297.pdf</a>  
+   Link:<a href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow">https://who-umc.org/media/1777/25297.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: who-umc.org  
    Title: Uppsala Monitoring Centre Viewpoint Part 2 Uppsala Monitoring Centre  
-   Link: <a href="https://who-umc.org/media/mswlqbsc/viewpoint-part-2-uppsala-monitoring-centre.pdf" target="_blank" rel="noopener noreferrer nofollow">https://who-umc.org/media/mswlqbsc/viewpoint-part-2-uppsala-monitoring-centre.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization, receives reports of adverse drug reactions from more than 70 countries and...</p></details>
+   Link:<a href="https://who-umc.org/media/mswlqbsc/viewpoint-part-2-uppsala-monitoring-centre.pdf" target="_blank" rel="noopener noreferrer nofollow">https://who-umc.org/media/mswlqbsc/viewpoint-part-2-uppsala-monitoring-centre.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization, receives reports of adverse drug reactions from more than 70 countries and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: repository.ubn.ru.nl  
    Title: mmubn000001 270541349  
-   Link: <a href="https://repository.ubn.ru.nl/bitstream/handle/2066/93699/mmubn000001_270541349.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/93699/mmubn000001_270541349.pdf?sequence=3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADVERSE DRUG REACTIONSby RHB Meyboom · 1998 · Cited by 23 — sified case reports in the database of the Uppsala Monitoring Centre, cases t...</p></details>
+   Link:<a href="https://repository.ubn.ru.nl/bitstream/handle/2066/93699/mmubn000001_270541349.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/93699/mmubn000001_270541349.pdf?sequence=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADVERSE DRUG REACTIONSby RHB Meyboom · 1998 · Cited by 23 — sified case reports in the database of the Uppsala Monitoring Centre, cases t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1299173055/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1299173055/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uppsala Monitoring Centre retrieved the dates of the reports of ADRs to calculate the TTC. All data were charted and...</p></details>
+   Link:<a href="https://d-nb.info/1299173055/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1299173055/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uppsala Monitoring Centre retrieved the dates of the reports of ADRs to calculate the TTC. All data were charted and...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cioms.ch  
-   Link: <a href="https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Aspects of Signal Detection in PharmacovigilancePharmacovigilance is defined as “the science and activities relating to the det...</p></details>
+   Link:<a href="https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Aspects of Signal Detection in PharmacovigilancePharmacovigilance is defined as “the science and activities relating to the det...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: southcarolina.himss.org  
-   Link: <a href="https://southcarolina.himss.org/node/293131" target="_blank" rel="noopener noreferrer nofollow">https://southcarolina.himss.org/node/293131</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection Innovation Boosts Safety and Uncovers...Safety signal monitoring has barely changed in 70 years, from when the practice was fi...</p></details>
+   Link:<a href="https://southcarolina.himss.org/node/293131" target="_blank" rel="noopener noreferrer nofollow">https://southcarolina.himss.org/node/293131</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detection Innovation Boosts Safety and Uncovers...Safety signal monitoring has barely changed in 70 years, from when the practice was fi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: uppsalareports.org  
    Title: underreporting in pharmacovigilance where do we go from here  
-   Link: <a href="https://uppsalareports.org/articles/underreporting-in-pharmacovigilance-where-do-we-go-from-here/" target="_blank" rel="noopener noreferrer nofollow">https://uppsalareports.org/articles/underreporting-in-pharmacovigilance-where-do-we-go-from-here/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Underreporting in pharmacovigilance: Where do we go...18 Feb 2026 — Uppsala Monitoring Centre recommends that a healthy national pharmac...</p></details>
+   Link:<a href="https://uppsalareports.org/articles/underreporting-in-pharmacovigilance-where-do-we-go-from-here/" target="_blank" rel="noopener noreferrer nofollow">https://uppsalareports.org/articles/underreporting-in-pharmacovigilance-where-do-we-go-from-here/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Underreporting in pharmacovigilance: Where do we go...18 Feb 2026 — Uppsala Monitoring Centre recommends that a healthy national pharmac...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pubrica.com  
-   Link: <a href="https://pubrica.com/academy/medical-device/post-marketing-surveillance-drug-safety/" target="_blank" rel="noopener noreferrer nofollow">https://pubrica.com/academy/medical-device/post-marketing-surveillance-drug-safety/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[6]. Case Study 2: Thalidomide. Thalidomide was originally approved for use as...Read more...</p></details>
+   Link:<a href="https://pubrica.com/academy/medical-device/post-marketing-surveillance-drug-safety/" target="_blank" rel="noopener noreferrer nofollow">https://pubrica.com/academy/medical-device/post-marketing-surveillance-drug-safety/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[6]. Case Study 2: Thalidomide. Thalidomide was originally approved for use as...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: asianjpr.com  
-   Link: <a href="https://asianjpr.com/HTML_Papers/Asian%20Journal%20of%20Pharmaceutical%20Research__PID__2024-14-2-14.html" target="_blank" rel="noopener noreferrer nofollow">https://asianjpr.com/HTML_Papers/Asian%20Journal%20of%20Pharmaceutical%20Research__PID__2024-14-2-14.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>safety and efficacy of medicinal product but there was a need of a common...Read more...</p></details>
+   Link:<a href="https://asianjpr.com/HTML_Papers/Asian%20Journal%20of%20Pharmaceutical%20Research__PID__2024-14-2-14.html" target="_blank" rel="noopener noreferrer nofollow">https://asianjpr.com/HTML_Papers/Asian%20Journal%20of%20Pharmaceutical%20Research__PID__2024-14-2-14.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>safety and efficacy of medicinal product but there was a need of a common...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
    Title: (PDF) Real-world pharmacovigilance study on neonatal  
-   Link: <a href="https://www.researchgate.net/publication/396360043_Real-world_pharmacovigilance_study_on_neonatal_congenital_anomalies_associated_with_maternal_drug_exposure_using_the_FDA_Adverse_Event_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396360043_Real-world_pharmacovigilance_study_on_neonatal_congenital_anomalies_associated_with_maternal_drug_exposure_using_the_FDA_Adverse_Event_Reporting_System</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports were categorized as drug-related. neonatal congenital anomaly reports (see Figure 1... signals indicate potential risks. of spec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396360043_Real-world_pharmacovigilance_study_on_neonatal_congenital_anomalies_associated_with_maternal_drug_exposure_using_the_FDA_Adverse_Event_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396360043_Real-world_pharmacovigilance_study_on_neonatal_congenital_anomalies_associated_with_maternal_drug_exposure_using_the_FDA_Adverse_Event_Reporting_System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reports were categorized as drug-related. neonatal congenital anomaly reports (see Figure 1... signals indicate potential risks. of spec...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: redalyc.org  
-   Link: <a href="https://www.redalyc.org/journal/5705/570569642003/570569642003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.redalyc.org/journal/5705/570569642003/570569642003.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thalidomide surveillance and pharmacovigilance in Brazilby LF Leal · 2021 · Cited by 1 — Results: New cases of congenital abnormalities w...</p></details>
+   Link:<a href="https://www.redalyc.org/journal/5705/570569642003/570569642003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.redalyc.org/journal/5705/570569642003/570569642003.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thalidomide surveillance and pharmacovigilance in Brazilby LF Leal · 2021 · Cited by 1 — Results: New cases of congenital abnormalities w...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ijprems.com  
-   Link: <a href="https://www.ijprems.com/ijprems-paper/a-review-article-on-pharmacovigilence" target="_blank" rel="noopener noreferrer nofollow">https://www.ijprems.com/ijprems-paper/a-review-article-on-pharmacovigilence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s (phocomelia) in 46 countries worldwide. This highlighted...Read more...</p></details>
+   Link:<a href="https://www.ijprems.com/ijprems-paper/a-review-article-on-pharmacovigilence" target="_blank" rel="noopener noreferrer nofollow">https://www.ijprems.com/ijprems-paper/a-review-article-on-pharmacovigilence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s (phocomelia) in 46 countries worldwide. This highlighted...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: repub.eur.nl  
    Title: 'a new potentially causal association,  
-   Link: <a href="https://repub.eur.nl/pub/106001/Thesis-APacurariu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/106001/Thesis-APacurariu.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of signal detection in Pharmacovigilanceby A Păcurariu · 2018 · Cited by 1 — The first step, signal detection, is the process of mon...</p></details>
+   Link:<a href="https://repub.eur.nl/pub/106001/Thesis-APacurariu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/106001/Thesis-APacurariu.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of signal detection in Pharmacovigilanceby A Păcurariu · 2018 · Cited by 1 — The first step, signal detection, is the process of mon...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: linical.com  
    Title: the new world of pharmacovigilance  
-   Link: <a href="https://www.linical.com/articles-research/the-new-world-of-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.linical.com/articles-research/the-new-world-of-pharmacovigilance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 25, 2025 — It was later recognized that thalidomide use in pregnancy resulted in severe congenital malformations in thousands of infa...</p></details>
+   Link:<a href="https://www.linical.com/articles-research/the-new-world-of-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.linical.com/articles-research/the-new-world-of-pharmacovigilance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 25, 2025 — It was later recognized that thalidomide use in pregnancy resulted in severe congenital malformations in thousands of infa...</p></details>

@@ -501,27 +501,27 @@ image: /assets/images/logical_fallacies_998914_political_speech_fal_4164bc-overv
 
 ## Introduction
 
-Political speech fallacies are errors or manipulations in reasoning that routinely surface in public debates, campaigns and formal legislative discussion. They matter because they can shape public perceptions, sway voter judgement and steer collective decisions not through sound evidence but through emotional appeal, misrepresentation or distraction. Unlike purely academic instances of flawed logic, fallacies in political contexts interact deeply with identity, group dynamics and governance priorities, making the ability to recognise them a core public‑reasoning skill. This article explores how such fallacies operate in political speech, how they impact the quality of public [debate]({{ 'debate/' | relative_url }}), and why understanding them is essential for informed civic engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
+Political speech fallacies are errors or manipulations in reasoning that routinely surface in public debates, campaigns and formal legislative discussion. They matter because they can shape public perceptions, sway voter judgement and steer collective decisions not through sound evidence but through emotional appeal, misrepresentation or distraction. Unlike purely academic instances of flawed logic, fallacies in political contexts interact deeply with identity, group dynamics and governance priorities, making the ability to recognise them a core public‑reasoning skill. This article explores how such fallacies operate in political speech, how they impact the quality of public [debate]({{ 'debate/' | relative_url }}), and why understanding them is essential for informed civic engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc-overview.webp" | relative_url }}" alt="Overview image for Politics" loading="eager" decoding="sync" fetchpriority="high">
 ## Campaign framing: Fallacies as persuasive devices
 
-Political speakers often face the dual pressures of persuading large audiences and competing for attention in media‑saturated environments. Studies of political discourse show that fallacies are not accidental lapses but can be **strategic elements of rhetorical framing**. For example, scholars analysing contemporary political language find that informal fallacies such as *ad hominem* and *[false dilemma]({{ 'false-dilemma/' | relative_url }})* are *tactically employed* to simplify complex topics and mobilise emotional reactions rather than engage with detailed evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
+Political speakers often face the dual pressures of persuading large audiences and competing for attention in media‑saturated environments. Studies of political discourse show that fallacies are not accidental lapses but can be **strategic elements of rhetorical framing**. For example, scholars analysing contemporary political language find that informal fallacies such as *ad hominem* and *[false dilemma]({{ 'false-dilemma/' | relative_url }})* are *tactically employed* to simplify complex topics and mobilise emotional reactions rather than engage with detailed evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
 
-In real campaigns, fallacies appear as devices to **amplify fear, identity cues or group loyalty** rather than facilitate analytical evaluation. A classic case is the *appeal to [emotion]({{ 'emotion/' | relative_url }})*: when a policy debate about healthcare turns into a narrative about “our children’s safety”, the argument shifts from empirical costs and benefits to an emotional anchor that is hard to dispute on the basis of reason alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Common Logical Fallacies in Political Debates - Logical Fallacies in Political Debates - Logical Fallacies in Political Debates...</span></span></span>
+In real campaigns, fallacies appear as devices to **amplify fear, identity cues or group loyalty** rather than facilitate analytical evaluation. A classic case is the *appeal to [emotion]({{ 'emotion/' | relative_url }})*: when a policy debate about healthcare turns into a narrative about “our children’s safety”, the argument shifts from empirical costs and benefits to an emotional anchor that is hard to dispute on the basis of reason alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Common Logical Fallacies in Political Debates - Logical Fallacies in Political Debates - Logical Fallacies in Political Debates...</span></span></span>
 
-Importantly, research on actual parliamentary debate illustrates that such tactics are widespread across ideological divides. An analysis of investiture debates in Spain found numerous instances of *ad hominem*, *straw man* and *appeal to majority* fallacies, used to both discredit opponents and simplify complex legislative issues. These tactics did not just weaken argument quality; they shaped **how audiences understood the legitimacy and seriousness of the issues at stake**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">November 29, 2024...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
+Importantly, research on actual parliamentary debate illustrates that such tactics are widespread across ideological divides. An analysis of investiture debates in Spain found numerous instances of *ad hominem*, *straw man* and *appeal to majority* fallacies, used to both discredit opponents and simplify complex legislative issues. These tactics did not just weaken argument quality; they shaped **how audiences understood the legitimacy and seriousness of the issues at stake**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">November 29, 2024...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc-Illustration-1-dark.svg" | relative_url }}" alt="Politics illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Policy relevance: Fallacies that distort public reasoning
 
 Public debate is ideally about evidence and policy trade‑offs. But political fallacies commonly blur that axis by shifting [relevance]({{ 'relevance/' | relative_url }}) away from key facts. **Relevance fallacies** are those in which the connection between evidence and conclusion is weak or deceptive, even if the conclusion might incidentally be true.
 
-* **Red herrings and [false dilemmas]({{ 'false-dilemma/' | relative_url }})** narrow complex policy choices into oversimplified binaries, such as “either full [deregulation]({{ 'deregulation/' | relative_url }}) or economic collapse”, ignoring nuanced positions supported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-title">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span><span class="citation-popover-snippet">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span></span></span>
-* **Appeal to popularity (ad populum)** treats widespread belief as proof of validity, sidestepping whether the belief is justified by data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">políticos a examen: el uso de falacias en el discurso parlamentario español &#124; aDResearch ESIC International Journal of Communication Rese...</span></span></span>
-* **Misplaced appeals to authority** occur when a supposed expert is cited on matters outside their expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-title">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span><span class="citation-popover-snippet">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span></span></span>
+* **Red herrings and [false dilemmas]({{ 'false-dilemma/' | relative_url }})** narrow complex policy choices into oversimplified binaries, such as “either full [deregulation]({{ 'deregulation/' | relative_url }}) or economic collapse”, ignoring nuanced positions supported by evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-title">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span><span class="citation-popover-snippet">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span></span></span>
+* **Appeal to popularity (ad populum)** treats widespread belief as proof of validity, sidestepping whether the belief is justified by data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">políticos a examen: el uso de falacias en el discurso parlamentario español &#124; aDResearch ESIC International Journal of Communication Rese...</span></span></span>
+* **Misplaced appeals to authority** occur when a supposed expert is cited on matters outside their expertise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-title">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span><span class="citation-popover-snippet">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span></span></span>
 
-These devices are powerful precisely because they *appear* to carry political relevance: they draw on voters’ values, group identity or fear of loss rather than reasoned evaluation of evidence. When fallacies are embedded in policy speech, they can lead publics and lawmakers alike to prioritise *feelings over facts*, impeding substantive debate on real policy effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinklawfully.com">[Think Lawfully]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinklawfully.com</span><span class="citation-popover-title">Think Lawfully What Logical Fallacies Look Like in Public Debates</span><span class="citation-popover-snippet">Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</span></span></span>
+These devices are powerful precisely because they *appear* to carry political relevance: they draw on voters’ values, group identity or fear of loss rather than reasoned evaluation of evidence. When fallacies are embedded in policy speech, they can lead publics and lawmakers alike to prioritise *feelings over facts*, impeding substantive debate on real policy effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinklawfully.com">[Think Lawfully]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinklawfully.com</span><span class="citation-popover-title">Think Lawfully What Logical Fallacies Look Like in Public Debates</span><span class="citation-popover-snippet">Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P3w6LTkRCZQ" title="How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P3w6LTkRCZQ" target="_blank" rel="noopener noreferrer">How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)</a></p><p class="youtube-embed-meta">Channel: Mr. Beat &middot; Views: 3.4M &middot; Uploaded: March 2021 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P3w6LTkRCZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P3w6LTkRCZQ">Open on YouTube</a></p></div></div></div>
 
@@ -529,13 +529,13 @@ These devices are powerful precisely because they *appear* to carry political re
 
 Political debates are rarely neutral spaces where only evidence matters. Instead, emotion and identity are central drivers of how arguments are constructed and received. This interplay makes certain fallacies especially effective and difficult to counter:
 
-* **[Straw man arguments]({{ 'straw-man/' | relative_url }})** simplify an opponent’s policy position into a caricature and attack that simplified version, not the real proposal. This exploits cognitive shortcuts and emotional reactions to perceived threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Instead of addressi...</span></span></span>
-* **Slippery slope scenarios** depict moderate policy moves as inevitably leading to extreme, undesirable outcomes, playing on fear and uncertainty rather than causal evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Logical Fallacies in Political Debates - Logical Fallacies in Political DebatesLOGICAL FALLACIES IN POLITICAL DEBATES [Button: Log in]Sig...</span></span></span>
-* **Appeal to emotion** foregrounds visceral reactions (fear, sympathy) over dispassionate evidence, making arguments feel persuasive even when logically weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinklawfully.com">[Think Lawfully]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinklawfully.com</span><span class="citation-popover-title">Think Lawfully What Logical Fallacies Look Like in Public Debates</span><span class="citation-popover-snippet">Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</span></span></span>
+* **[Straw man arguments]({{ 'straw-man/' | relative_url }})** simplify an opponent’s policy position into a caricature and attack that simplified version, not the real proposal. This exploits cognitive shortcuts and emotional reactions to perceived threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Instead of addressi...</span></span></span>
+* **Slippery slope scenarios** depict moderate policy moves as inevitably leading to extreme, undesirable outcomes, playing on fear and uncertainty rather than causal evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Logical Fallacies in Political Debates - Logical Fallacies in Political DebatesLOGICAL FALLACIES IN POLITICAL DEBATES [Button: Log in]Sig...</span></span></span>
+* **Appeal to emotion** foregrounds visceral reactions (fear, sympathy) over dispassionate evidence, making arguments feel persuasive even when logically weak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinklawfully.com">[Think Lawfully]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinklawfully.com</span><span class="citation-popover-title">Think Lawfully What Logical Fallacies Look Like in Public Debates</span><span class="citation-popover-snippet">Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</span></span></span>
 
-Research analysing political speech acts—including debates from election campaigns—confirms that fallacious reasoning often goes hand in hand with *strategic emotional framing*. In some cases, fallacies are carried out “politely” to gain audience approval rather than offend, reflecting an awareness of social norms alongside rhetorical objectives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jlls.org/index.php/jlls/article/view/3698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jlls.org">[jlls.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jlls.org</span><span class="citation-popover-snippet">Open source on jlls.org.</span></span></span>
+Research analysing political speech acts—including debates from election campaigns—confirms that fallacious reasoning often goes hand in hand with *strategic emotional framing*. In some cases, fallacies are carried out “politely” to gain audience approval rather than offend, reflecting an awareness of social norms alongside rhetorical objectives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jlls.org/index.php/jlls/article/view/3698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jlls.org">[jlls.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jlls.org</span><span class="citation-popover-snippet">Open source on jlls.org.</span></span></span>
 
-The consequence of these patterns is not merely that arguments are weak; it is that **public understanding of issues becomes skewed towards simplified narratives that resonate emotionally but lack evidential support**. This distorts democratic decision‑making and can entrench polarization by strengthening group‑aligned beliefs at the expense of cross‑group dialogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
+The consequence of these patterns is not merely that arguments are weak; it is that **public understanding of issues becomes skewed towards simplified narratives that resonate emotionally but lack evidential support**. This distorts democratic decision‑making and can entrench polarization by strengthening group‑aligned beliefs at the expense of cross‑group dialogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wMuyBOeSQVs" title="ULTIMATE DEBATE RHETORIC! Trump &amp; Clinton sparring, logos, ethos, &amp; pathos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wMuyBOeSQVs" target="_blank" rel="noopener noreferrer">ULTIMATE DEBATE RHETORIC! Trump &amp; Clinton sparring, logos, ethos, &amp; pathos</a></p><p class="youtube-embed-meta">Channel: Lauren Sergy &middot; Views: 69.8K &middot; Uploaded: October 2016 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wMuyBOeSQVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wMuyBOeSQVs">Open on YouTube</a></p></div></div></div>
 
@@ -550,278 +550,278 @@ Fallacies in political discourse affect more than academic debates; they influen
 
 * distinguish *emotional appeal* from *policy evidence*,
 * avoid being misled by *oversimplified binaries*,
-* and hold speakers accountable to substantive argumentation rather than rhetorical trickery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinklawfully.com">[Think Lawfully]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinklawfully.com</span><span class="citation-popover-title">Think Lawfully What Logical Fallacies Look Like in Public Debates</span><span class="citation-popover-snippet">Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</span></span></span>
+* and hold speakers accountable to substantive argumentation rather than rhetorical trickery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinklawfully.com">[Think Lawfully]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinklawfully.com</span><span class="citation-popover-title">Think Lawfully What Logical Fallacies Look Like in Public Debates</span><span class="citation-popover-snippet">Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</span></span></span>
 
 </div>
 
-Moreover, research underscores that fallacies are not confined to any single political ideology or institution; they are pervasive in persuasion across contexts and cultures. Understanding these patterns supports more critical engagement with political language, enabling voters to focus debate on evidence, relevance and genuine policy choices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">November 29, 2024...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
+Moreover, research underscores that fallacies are not confined to any single political ideology or institution; they are pervasive in persuasion across contexts and cultures. Understanding these patterns supports more critical engagement with political language, enabling voters to focus debate on evidence, relevance and genuine policy choices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">November 29, 2024...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wwUe7T2OKQE" title="19 Common Fallacies, Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wwUe7T2OKQE" target="_blank" rel="noopener noreferrer">19 Common Fallacies, Explained.</a></p><p class="youtube-embed-meta">Channel: Jared Henderson &middot; Views: 688.4K &middot; Uploaded: May 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wwUe7T2OKQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wwUe7T2OKQE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Public Arguments Go Off Track. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Public Arguments Go Off Track. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explains moral reasoning and political persuasion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains moral reasoning and political persuasion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers cognitive shortcuts exploited in political rhetoric.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cognitive shortcuts exploited in political rhetoric.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Propaganda+by+Edward+L.+Bernays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7K7ZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Propaganda+by+Edward+L.+Bernays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Propaganda">Propaganda</a>
-        </h4>
-        <p class="fr-book-author">By Edward L. Bernays</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Propaganda+by+Edward+L.+Bernays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7K7ZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Propaganda+by+Edward+L.+Bernays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Propaganda">Propaganda</a>
+</h4>
+<p class="fr-book-author">By Edward L. Bernays</p>
         
-        <p class="fr-book-desc">Directly relevant to political messaging and influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Propaganda+by+Edward+L.+Bernays&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to political messaging and influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Propaganda+by+Edward+L.+Bernays&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Words+That+Work+by+Frank+I.+Luntz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Words That Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mLplAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Words That Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Words+That+Work+by+Frank+I.+Luntz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Words That Work">Words That Work</a>
-        </h4>
-        <p class="fr-book-author">By Frank I. Luntz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Words+That+Work+by+Frank+I.+Luntz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Words That Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mLplAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Words That Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Words+That+Work+by+Frank+I.+Luntz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Words That Work">Words That Work</a>
+</h4>
+<p class="fr-book-author">By Frank I. Luntz</p>
         
-        <p class="fr-book-desc">Shows how wording shapes public reactions to policy debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Words+That+Work+by+Frank+I.+Luntz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how wording shapes public reactions to policy debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Words+That+Work+by+Frank+I.+Luntz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Propaganda</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Propaganda</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JAK Political Cartoon Poster C1967 Yemen FLOSY &amp; NLF"><img src="{{ '/assets/images/marketplace-covers/a7a04f6fe1f6f51d349c.jpg' | relative_url }}" alt="Listing image for JAK Political Cartoon Poster C1967 Yemen FLOSY &amp; NLF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">JAK Political Cartoon Poster C1967 Yemen FLOSY &amp; NLF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political cartoon poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: political cartoon poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JAK Political Cartoon Poster C1967 Yemen FLOSY &amp; NLF"><img src="{{ '/assets/images/marketplace-covers/a7a04f6fe1f6f51d349c.jpg' | relative_url }}" alt="Listing image for JAK Political Cartoon Poster C1967 Yemen FLOSY &amp; NLF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">JAK Political Cartoon Poster C1967 Yemen FLOSY &amp; NLF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political cartoon poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: political cartoon poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Political Cartoon Wall Art Poster - Satirical Print Home Decor"><img src="{{ '/assets/images/marketplace-covers/3510de8d7fea1d3ae802.jpg' | relative_url }}" alt="Listing image for Vintage Political Cartoon Wall Art Poster - Satirical Print Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Political Cartoon Wall Art Poster - Satirical Print Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political cartoon poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: political cartoon poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Political Cartoon Wall Art Poster - Satirical Print Home Decor"><img src="{{ '/assets/images/marketplace-covers/3510de8d7fea1d3ae802.jpg' | relative_url }}" alt="Listing image for Vintage Political Cartoon Wall Art Poster - Satirical Print Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Political Cartoon Wall Art Poster - Satirical Print Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political cartoon poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: political cartoon poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Cartoon: Upper and Lower Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/63b7258ed78769b6725b.jpg' | relative_url }}" alt="Listing image for Political Cartoon: Upper and Lower Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Political Cartoon: Upper and Lower Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political cartoon poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: political cartoon poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Cartoon: Upper and Lower Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/63b7258ed78769b6725b.jpg' | relative_url }}" alt="Listing image for Political Cartoon: Upper and Lower Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Political Cartoon: Upper and Lower Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political cartoon poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: political cartoon poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPQR 1970 Poster, Italian Satirical poster, Political cartoon poster"><img src="{{ '/assets/images/marketplace-covers/5c8b8361ce4d8f0b66f4.jpg' | relative_url }}" alt="Listing image for SPQR 1970 Poster, Italian Satirical poster, Political cartoon poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SPQR 1970 Poster, Italian Satirical poster, Political cartoon poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political cartoon poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: political cartoon poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPQR 1970 Poster, Italian Satirical poster, Political cartoon poster"><img src="{{ '/assets/images/marketplace-covers/5c8b8361ce4d8f0b66f4.jpg' | relative_url }}" alt="Listing image for SPQR 1970 Poster, Italian Satirical poster, Political cartoon poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SPQR 1970 Poster, Italian Satirical poster, Political cartoon poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political cartoon poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: political cartoon poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+cartoon+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=politics-how-public-arguments-go-off-track-logical-fallacies-political-cartoon-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -837,7 +837,7 @@ Moreover, research underscores that fallacies are not confined to any single pol
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -857,7 +857,7 @@ Moreover, research underscores that fallacies are not confined to any single pol
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -889,7 +889,7 @@ Moreover, research underscores that fallacies are not confined to any single pol
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -919,7 +919,7 @@ Moreover, research underscores that fallacies are not confined to any single pol
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -977,134 +977,134 @@ Moreover, research underscores that fallacies are not confined to any single pol
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journal.institutre.org  
-   Link: <a href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow">https://journal.institutre.org/index.php/jsid/article/view/227</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2022...</p></details>
+   Link:<a href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow">https://journal.institutre.org/index.php/jsid/article/view/227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2022...</p></details>
    Published: May 20, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oboe.com  
    Title: Common [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) in Political Debates  
-   Link: <a href="https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Logical Fallacies in Political Debates - Logical Fallacies in Political Debates - Logical Fallacies in Political Debates...</p></details>
+   Link:<a href="https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Logical Fallacies in Political Debates - Logical Fallacies in Political Debates - Logical Fallacies in Political Debates...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: revistasinvestigacion.esic.edu  
-   Link: <a href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 29, 2024...</p></details>
+   Link:<a href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 29, 2024...</p></details>
    Published: November 29, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jlls.org  
-   Link: <a href="https://www.jlls.org/index.php/jlls/article/view/3698" target="_blank" rel="noopener noreferrer nofollow">https://www.jlls.org/index.php/jlls/article/view/3698</a>  
+   Link:<a href="https://www.jlls.org/index.php/jlls/article/view/3698" target="_blank" rel="noopener noreferrer nofollow">https://www.jlls.org/index.php/jlls/article/view/3698</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: revistasinvestigacion.esic.edu  
-   Link: <a href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291" target="_blank" rel="noopener noreferrer nofollow">https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>políticos a examen: el uso de falacias en el discurso parlamentario español | aDResearch ESIC International Journal of Communication Rese...</p></details>
+   Link:<a href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291" target="_blank" rel="noopener noreferrer nofollow">https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>políticos a examen: el uso de falacias en el discurso parlamentario español | aDResearch ESIC International Journal of Communication Rese...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jlls.org  
-   Link: <a href="https://www.jlls.org/index.php/jlls/article/view/4268" target="_blank" rel="noopener noreferrer nofollow">https://www.jlls.org/index.php/jlls/article/view/4268</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ARGUMENTATIVE TACTIC OF RHETORICAL FALLACIES IN POLITICAL DISCOURSE | Saleh Hamad | Journal of Language and Linguistic StudiesARGUMENTATI...</p></details>
+   Link:<a href="https://www.jlls.org/index.php/jlls/article/view/4268" target="_blank" rel="noopener noreferrer nofollow">https://www.jlls.org/index.php/jlls/article/view/4268</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARGUMENTATIVE TACTIC OF RHETORICAL FALLACIES IN POLITICAL DISCOURSE | Saleh Hamad | Journal of Language and Linguistic StudiesARGUMENTATI...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oboe.com  
    Title: Common Logical Fallacies in Political Debates  
-   Link: <a href="https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of addressi...</p></details>
+   Link:<a href="https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of addressi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oboe.com  
    Title: Common Logical Fallacies in Political Debates  
-   Link: <a href="https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies in Political Debates - Logical Fallacies in Political DebatesLOGICAL FALLACIES IN POLITICAL DEBATES [Button: Log in]Sig...</p></details>
+   Link:<a href="https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies in Political Debates - Logical Fallacies in Political DebatesLOGICAL FALLACIES IN POLITICAL DEBATES [Button: Log in]Sig...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oboe.com  
    Title: Common Logical Fallacies in Political Debates  
-   Link: <a href="https://oboe.com/learn/detecting-logical-fallacies-in-politics-12vetxj/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/detecting-logical-fallacies-in-politics-12vetxj/common-logical-fallacies-in-political-debates-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Logical Fallacies in Politics - Detecting Logical Fallacies in PoliticsDETECTING LOGICAL FALLACIES IN POLITICS DETECTING LOGICA...</p></details>
+   Link:<a href="https://oboe.com/learn/detecting-logical-fallacies-in-politics-12vetxj/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/detecting-logical-fallacies-in-politics-12vetxj/common-logical-fallacies-in-political-debates-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Logical Fallacies in Politics - Detecting Logical Fallacies in PoliticsDETECTING LOGICAL FALLACIES IN POLITICS DETECTING LOGICA...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oboe.com  
    Title: The straw man fallacy happens when someo  
-   Link: <a href="https://oboe.com/learn/spotting-logical-fallacies-in-politics-1wzurbj/common-logical-fallacies-in-political-debates-spotting-logical-fallacies-in-politics-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-logical-fallacies-in-politics-1wzurbj/common-logical-fallacies-in-political-debates-spotting-logical-fallacies-in-politics-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Logical Fallacies in Political Debates - Spotting Logical Fallacies in Politics - Spotting Logical Fallacies in PoliticsSPOTTING L...</p></details>
+   Link:<a href="https://oboe.com/learn/spotting-logical-fallacies-in-politics-1wzurbj/common-logical-fallacies-in-political-debates-spotting-logical-fallacies-in-politics-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-logical-fallacies-in-politics-1wzurbj/common-logical-fallacies-in-political-debates-spotting-logical-fallacies-in-politics-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Logical Fallacies in Political Debates - Spotting Logical Fallacies in Politics - Spotting Logical Fallacies in PoliticsSPOTTING L...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oboe.com  
    Title: Case Studies of Logical Fallacies in Political Debates  
-   Link: <a href="https://oboe.com/learn/spotting-fallacies-in-political-debates-1ray6bw/case-studies-of-logical-fallacies-in-political-debates-spotting-fallacies-in-political-debates-3" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-fallacies-in-political-debates-1ray6bw/case-studies-of-logical-fallacies-in-political-debates-spotting-fallacies-in-political-debates-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Fallacies in Political Debates - Spotting Fallacies in Political DebatesImage Image SPOTTING FALLACIES IN POLITICAL DEBATES SPOT...</p></details>
+   Link:<a href="https://oboe.com/learn/spotting-fallacies-in-political-debates-1ray6bw/case-studies-of-logical-fallacies-in-political-debates-spotting-fallacies-in-political-debates-3" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-fallacies-in-political-debates-1ray6bw/case-studies-of-logical-fallacies-in-political-debates-spotting-fallacies-in-political-debates-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Fallacies in Political Debates - Spotting Fallacies in Political DebatesImage Image SPOTTING FALLACIES IN POLITICAL DEBATES SPOT...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thinklawfully.com  
    Title: Think Lawfully What Logical Fallacies Look Like in Public Debates  
-   Link: <a href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</p></details>
+   Link:<a href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fallacyguide.com  
    Title: The Fallacy Guide Fallacies in Politics – The Fallacy Guide | The Fallacy Guide  
-   Link: <a href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/politics</a>  
+   Link:<a href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/politics</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ejournal.ukm.my  
-   Link: <a href="https://ejournal.ukm.my/gema/article/view/54197" target="_blank" rel="noopener noreferrer nofollow">https://ejournal.ukm.my/gema/article/view/54197</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speech Act as a Performance of Fallacies in Nouri al-Maliki’s Political Speeches | Hamad | GEMA Online® Journal of Language StudiesCOMPLE...</p></details>
+   Link:<a href="https://ejournal.ukm.my/gema/article/view/54197" target="_blank" rel="noopener noreferrer nofollow">https://ejournal.ukm.my/gema/article/view/54197</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speech Act as a Performance of Fallacies in Nouri al-Maliki’s Political Speeches | Hamad | GEMA Online® Journal of Language StudiesCOMPLE...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: repository.unp.ac.id  
-   Link: <a href="https://repository.unp.ac.id/id/eprint/8204/" target="_blank" rel="noopener noreferrer nofollow">https://repository.unp.ac.id/id/eprint/8204/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Logical Fallacy in Argument of Campaign Team Debate of Joko Widodo and Prabowo Subianto - Repository Universitas Negeri Padan...</p></details>
+   Link:<a href="https://repository.unp.ac.id/id/eprint/8204/" target="_blank" rel="noopener noreferrer nofollow">https://repository.unp.ac.id/id/eprint/8204/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Logical Fallacy in Argument of Campaign Team Debate of Joko Widodo and Prabowo Subianto - Repository Universitas Negeri Padan...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: macrothink.org  
-   Link: <a href="https://www.macrothink.org/journal/index.php/jsss/article/view/7616" target="_blank" rel="noopener noreferrer nofollow">https://www.macrothink.org/journal/index.php/jsss/article/view/7616</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>H. Al-Hindawi, Musaab A. Alkhazaali, Duaa Al-Awadi ABSTRACT Fallacy as a derailment of strategic maneuvering can be def...</p></details>
+   Link:<a href="https://www.macrothink.org/journal/index.php/jsss/article/view/7616" target="_blank" rel="noopener noreferrer nofollow">https://www.macrothink.org/journal/index.php/jsss/article/view/7616</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>H. Al-Hindawi, Musaab A. Alkhazaali, Duaa Al-Awadi ABSTRACT Fallacy as a derailment of strategic maneuvering can be def...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: boa.unimib.it  
-   Link: <a href="https://www.boa.unimib.it/handle/10281/50497" target="_blank" rel="noopener noreferrer nofollow">https://www.boa.unimib.it/handle/10281/50497</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We propose an examination of the role of fallacies in political argumentation. In the first two sections w...</p></details>
+   Link:<a href="https://www.boa.unimib.it/handle/10281/50497" target="_blank" rel="noopener noreferrer nofollow">https://www.boa.unimib.it/handle/10281/50497</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We propose an examination of the role of fallacies in political argumentation. In the first two sections w...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spotfallacy.com  
-   Link: <a href="https://spotfallacy.com/blog/logical-fallacy/logical-fallacies-political-leaders-use" target="_blank" rel="noopener noreferrer nofollow">https://spotfallacy.com/blog/logical-fallacy/logical-fallacies-political-leaders-use</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>POLITICS IS IDENTITY-DRIVEN For many people, political beliefs connect to identity: religion, region...</p></details>
+   Link:<a href="https://spotfallacy.com/blog/logical-fallacy/logical-fallacies-political-leaders-use" target="_blank" rel="noopener noreferrer nofollow">https://spotfallacy.com/blog/logical-fallacy/logical-fallacies-political-leaders-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>POLITICS IS IDENTITY-DRIVEN For many people, political beliefs connect to identity: religion, region...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: publicleadershipinstitute.org  
    Title: Five logical fallacies often used in political and policy debate  
-   Link: <a href="https://publicleadershipinstitute.org/2018/08/15/five-logical-fallacies-often-used-political-policy-debate/" target="_blank" rel="noopener noreferrer nofollow">https://publicleadershipinstitute.org/2018/08/15/five-logical-fallacies-often-used-political-policy-debate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public leadership InstituteAugust 15, 2018 — IDEALOG FIVE LOGICAL FALLACIES OFTEN USED IN POLITICAL AND POLICY DEBATE 8/15/2018 Progressi...</p></details>
+   Link:<a href="https://publicleadershipinstitute.org/2018/08/15/five-logical-fallacies-often-used-political-policy-debate/" target="_blank" rel="noopener noreferrer nofollow">https://publicleadershipinstitute.org/2018/08/15/five-logical-fallacies-often-used-political-policy-debate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public leadership InstituteAugust 15, 2018 — IDEALOG FIVE LOGICAL FALLACIES OFTEN USED IN POLITICAL AND POLICY DEBATE 8/15/2018 Progressi...</p></details>
    Published: August 15, 2018  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theodysseyonline.com  
    Title: The Most Common Logical Fallacies In Politics  
-   Link: <a href="https://www.theodysseyonline.com/common-logical-fallacies-politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theodysseyonline.com/common-logical-fallacies-politics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 12, 2016 — THE MOST COMMON LOGICAL FALLACIES IN POLITICS HOW POLITICIANS OFTEN TRY TO MISLEAD YOU Katie Hiegel Dec 12, 2016 2520...</p></details>
+   Link:<a href="https://www.theodysseyonline.com/common-logical-fallacies-politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theodysseyonline.com/common-logical-fallacies-politics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 12, 2016 — THE MOST COMMON LOGICAL FALLACIES IN POLITICS HOW POLITICIANS OFTEN TRY TO MISLEAD YOU Katie Hiegel Dec 12, 2016 2520...</p></details>
    Published: December 12, 2016  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35990918/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35990918/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>schemes, fallacies, and evidence in politicians&#x27; argumentative tweets-A coded dataset - PubMedJuly 30, 2022 — FULL TEXT LINKS Elsevier Sc...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35990918/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35990918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>schemes, fallacies, and evidence in politicians&#x27; argumentative tweets-A coded dataset - PubMedJuly 30, 2022 — FULL TEXT LINKS Elsevier Sc...</p></details>
    Published: July 30, 2022  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: <a href="http://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Political logical fallacies public debate rhetoric 15 Logical Fallacies from the 2020 U.S. Presidential Debates none...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Political logical fallacies public debate rhetoric 15 Logical Fallacies from the 2020 U.S. Presidential Debates none...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)  
-   Link: <a href="http://www.youtube.com/watch?v=P3w6LTkRCZQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P3w6LTkRCZQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ULTIMATE DEBATE RHETORIC! Trump &amp; Clinton sparring, logos, ethos, &amp; pathos...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=P3w6LTkRCZQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P3w6LTkRCZQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ULTIMATE DEBATE RHETORIC! Trump &amp; Clinton sparring, logos, ethos, &amp; pathos...</p></details>

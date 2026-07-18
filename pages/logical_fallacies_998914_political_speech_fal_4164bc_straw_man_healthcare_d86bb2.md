@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_political_speech_fal_4164bc_straw
 
 ## Introduction
 
-A straw man fallacy occurs when a real argument is replaced with a weaker, more alarming, or more extreme version and that substitute is attacked instead. In healthcare policy debates, this fallacy is especially powerful because the subject matter already involves fear, illness, cost, ageing, disability, and family [wellbeing]({{ 'wellbeing/' | relative_url }}). Rather than engaging with the actual details of a proposal, speakers may recast it as a threat to patients, doctors, or personal freedom. The resulting [debate]({{ 'debate/' | relative_url }}) can become centred on a caricature rather than the policy itself. Healthcare discussions are particularly vulnerable because many proposals are technically complex, making simplified distortions easier to communicate and easier for audiences to remember. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Straw man</span><span class="citation-popover-snippet">May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+A straw man fallacy occurs when a real argument is replaced with a weaker, more alarming, or more extreme version and that substitute is attacked instead. In healthcare policy debates, this fallacy is especially powerful because the subject matter already involves fear, illness, cost, ageing, disability, and family [wellbeing]({{ 'wellbeing/' | relative_url }}). Rather than engaging with the actual details of a proposal, speakers may recast it as a threat to patients, doctors, or personal freedom. The resulting [debate]({{ 'debate/' | relative_url }}) can become centred on a caricature rather than the policy itself. Healthcare discussions are particularly vulnerable because many proposals are technically complex, making simplified distortions easier to communicate and easier for audiences to remember.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Straw man</span><span class="citation-popover-snippet">May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_straw_man_healthcare_d86bb2-Illustration-1-dark.svg" | relative_url }}" alt="Straw Man illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_straw_man_healthcare_d86bb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_straw_man_healthcare_d86bb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How a Policy Proposal Gets Simplified into a Caricature
@@ -282,19 +282,19 @@ A common pattern looks like this:
 3. Critics replace the proposal with a simpler and more threatening description.
 4. Public debate shifts toward the threatening description rather than the original policy.
 
-For example, discussions about market-oriented healthcare reforms have sometimes been reframed as if supporters believe healthcare is identical to any ordinary consumer product. Critics then attack that simplified claim rather than the more nuanced argument that market [mechanisms]({{ 'mechanisms/' | relative_url }}) may help address certain healthcare problems despite healthcare's unique characteristics. The caricature is easier to attack than the actual position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cato.org">[Cato Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cato.org</span><span class="citation-popover-title">health policy straw man</span><span class="citation-popover-snippet">I don&#x27;t know where Wessel comes...Read more...</span></span></span>
+For example, discussions about market-oriented healthcare reforms have sometimes been reframed as if supporters believe healthcare is identical to any ordinary consumer product. Critics then attack that simplified claim rather than the more nuanced argument that market [mechanisms]({{ 'mechanisms/' | relative_url }}) may help address certain healthcare problems despite healthcare's unique characteristics. The caricature is easier to attack than the actual position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cato.org">[Cato Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cato.org</span><span class="citation-popover-title">health policy straw man</span><span class="citation-popover-snippet">I don&#x27;t know where Wessel comes...Read more...</span></span></span>
 
 The same mechanism appears across ideological divides. Proposals for public insurance programmes may be portrayed as complete government control over medical decisions, while proposals for private-sector reforms may be portrayed as abandoning vulnerable patients entirely. In both cases, the debate shifts away from the proposal's actual design and toward an exaggerated substitute.
 
 ## Why Healthcare Is Especially Vulnerable to Straw Man Distortions
 
-Healthcare policy combines several features that make straw man arguments effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cato.org">[cato.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cato.org</span><span class="citation-popover-title">health policy straw man</span><span class="citation-popover-snippet">I don&#x27;t know where Wessel comes...Read more...</span></span></span>
+Healthcare policy combines several features that make straw man arguments effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cato.org">[cato.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cato.org</span><span class="citation-popover-title">health policy straw man</span><span class="citation-popover-snippet">I don&#x27;t know where Wessel comes...Read more...</span></span></span>
 
 ### Technical complexity creates opportunities for simplification
 
 Most healthcare proposals involve insurance rules, reimbursement systems, eligibility standards, provider incentives, and regulatory details. Few citizens have time to study these elements closely. Simplified narratives therefore compete successfully against detailed explanations.
 
-Research on policy framing shows that the way healthcare proposals are described can significantly alter public support, even when the underlying policy remains unchanged. Framing shortcuts help audiences process complexity but can also create openings for distortion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1532673X20926125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow Policy Comparisons Alter Political Support for Health...Framing proposals with analogies can alter policy preferences s...</span></span></span>
+Research on policy framing shows that the way healthcare proposals are described can significantly alter public support, even when the underlying policy remains unchanged. Framing shortcuts help audiences process complexity but can also create openings for distortion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1532673X20926125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow Policy Comparisons Alter Political Support for Health...Framing proposals with analogies can alter policy preferences s...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfil34ayaEU" title="CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 967.4K &middot; Uploaded: April 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfil34ayaEU">Open on YouTube</a></p></div></div></div>
 
@@ -321,16 +321,16 @@ Policy reforms typically predict future outcomes rather than describe current fa
 
 Healthcare straw men rarely succeed through abstraction alone. They usually become persuasive when attached to vivid stories.
 
-A striking example emerged during debate over the United States Affordable Care Act. A provision encouraging voluntary end-of-life consultations between patients and healthcare professionals was transformed by critics into the claim that government-created "death panels" would determine who deserved medical treatment. Fact-checkers and policy analysts repeatedly found that the legislation contained no such mechanism, yet the phrase became one of the most memorable elements of the entire healthcare debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kff.org">[KFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kff.org</span><span class="citation-popover-title">what death panels can teach us about health misinformation</span><span class="citation-popover-snippet">What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</span></span></span> Wikipedia The power of the claim came partly from its emotional imagery. Rather than discussing reimbursement rules for medical consultations <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Straw man</span><span class="citation-popover-snippet">May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>, the debate became associated with bureaucrats deciding life-and-death questions. Polling later showed that substantial portions of the public continued to believe the claim years after it had been widely challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kff.org">[KFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kff.org</span><span class="citation-popover-title">what death panels can teach us about health misinformation</span><span class="citation-popover-snippet">What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</span></span></span>
+A striking example emerged during debate over the United States Affordable Care Act. A provision encouraging voluntary end-of-life consultations between patients and healthcare professionals was transformed by critics into the claim that government-created "death panels" would determine who deserved medical treatment. Fact-checkers and policy analysts repeatedly found that the legislation contained no such mechanism, yet the phrase became one of the most memorable elements of the entire healthcare debate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kff.org">[KFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kff.org</span><span class="citation-popover-title">what death panels can teach us about health misinformation</span><span class="citation-popover-snippet">What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</span></span></span> Wikipedia The power of the claim came partly from its emotional imagery. Rather than discussing reimbursement rules for medical consultations<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Straw man</span><span class="citation-popover-snippet">May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>, the debate became associated with bureaucrats deciding life-and-death questions. Polling later showed that substantial portions of the public continued to believe the claim years after it had been widely challenged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kff.org">[KFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kff.org</span><span class="citation-popover-title">what death panels can teach us about health misinformation</span><span class="citation-popover-snippet">What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</span></span></span>
 
-Research examining media coverage of the controversy found that the myth persisted even after extensive reporting and fact-checking. The emotional framing proved more durable than detailed policy explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking Sarah Palin: Mainstream news coverage of &#x27;...This study examines how traditional media reported on the &#x27;death pane...</span></span></span>
+Research examining media coverage of the controversy found that the myth persisted even after extensive reporting and fact-checking. The emotional framing proved more durable than detailed policy explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking Sarah Palin: Mainstream news coverage of &#x27;...This study examines how traditional media reported on the &#x27;death pane...</span></span></span>
 
 This illustrates a broader lesson about healthcare straw men: concrete stories about vulnerable individuals often outperform technical corrections because people naturally remember narratives more readily than procedural details.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_straw_man_healthcare_d86bb2-Illustration-2-dark.svg" | relative_url }}" alt="Straw Man illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_straw_man_healthcare_d86bb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_straw_man_healthcare_d86bb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Distinguishes a Straw Man from Legitimate Criticism?
 
-Not every sharp criticism of healthcare policy is a straw man. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cato.org">[cato.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cato.org</span><span class="citation-popover-title">health policy straw man</span><span class="citation-popover-snippet">I don&#x27;t know where Wessel comes...Read more...</span></span></span>
+Not every sharp criticism of healthcare policy is a straw man.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cato.org">[cato.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cato.org</span><span class="citation-popover-title">health policy straw man</span><span class="citation-popover-snippet">I don&#x27;t know where Wessel comes...Read more...</span></span></span>
 
 A legitimate critique addresses the proposal that supporters actually advocate. It may argue that projected savings are unrealistic, that coverage expansion is insufficient, or that implementation risks are underestimated. Such criticisms engage with the proposal's real claims.
 
@@ -343,7 +343,7 @@ Consider the distinction:
 
 The first statement addresses a likely policy consequence. The second attributes a more extreme objective or mechanism than the proposal contains.
 
-Similarly, debates over insurance mandates have sometimes shifted from questions about healthcare financing toward exaggerated hypotheticals suggesting that government authority over health insurance automatically implies authority over unrelated personal consumption choices. Such analogies can sometimes illuminate principles, but they can also substitute a more dramatic scenario for the actual healthcare proposal under discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death panel</span><span class="citation-popover-snippet">Death panelDeath panel is a political term that originated during the 2009 debate about federal health care legislation to cover the u...</span></span></span>
+Similarly, debates over insurance mandates have sometimes shifted from questions about healthcare financing toward exaggerated hypotheticals suggesting that government authority over health insurance automatically implies authority over unrelated personal consumption choices. Such analogies can sometimes illuminate principles, but they can also substitute a more dramatic scenario for the actual healthcare proposal under discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death panel</span><span class="citation-popover-snippet">Death panelDeath panel is a political term that originated during the 2009 debate about federal health care legislation to cover the u...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGZkCPo7tC0" title="The Strawman Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer">The Strawman Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 544.0K &middot; Uploaded: October 2014 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGZkCPo7tC0">Open on YouTube</a></p></div></div></div>
 
@@ -383,269 +383,269 @@ The result is not simply poor argumentation. It is a reduction in the quality of
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dP5imeWMDVg" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dP5imeWMDVg" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 68.0K &middot; Uploaded: April 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dP5imeWMDVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dP5imeWMDVg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Healthcare Claims Become Straw Men. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Healthcare Claims Become Straw Men. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Covers common reasoning failures closely related to straw man arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers common reasoning failures closely related to straw man arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Directly discusses misleading debate techniques and distortions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly discusses misleading debate techniques and distortions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers spot distortions, shortcuts, and misrepresentations in public debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers spot distortions, shortcuts, and misrepresentations in public debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Teaches how to reconstruct and evaluate arguments fairly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to reconstruct and evaluate arguments fairly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-3a18b7-how-healthcare-claims-become-straw-men-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ The result is not simply poor argumentation. It is a reduction in the quality of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ The result is not simply poor argumentation. It is a reduction in the quality of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ The result is not simply poor argumentation. It is a reduction in the quality of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ The result is not simply poor argumentation. It is a reduction in the quality of
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -801,102 +801,102 @@ The result is not simply poor argumentation. It is a reduction in the quality of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</p></details>
    Published: May 5, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cato.org  
    Title: health policy straw man  
-   Link: <a href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow">https://www.cato.org/blog/health-policy-straw-man</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I don&#x27;t know where Wessel comes...Read more...</p></details>
+   Link:<a href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow">https://www.cato.org/blog/health-policy-straw-man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I don&#x27;t know where Wessel comes...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kff.org  
    Title: what death panels can teach us about health misinformation  
-   Link: <a href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</p></details>
+   Link:<a href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Death panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Death_panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_panel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Death panelDeath panel is a political term that originated during the 2009 debate about federal health care legislation to cover the u...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Death_panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Death panelDeath panel is a political term that originated during the 2009 debate about federal health care legislation to cover the u...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Sarah Palin: Mainstream news coverage of &#x27;...This study examines how traditional media reported on the &#x27;death pane...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Sarah Palin: Mainstream news coverage of &#x27;...This study examines how traditional media reported on the &#x27;death pane...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Broccoli mandate  
-   Link: <a href="https://en.wikipedia.org/wiki/Broccoli_mandate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Broccoli_mandate</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Broccoli_mandate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Broccoli_mandate</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1532673X20926125" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1532673X20926125</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow Policy Comparisons Alter Political Support for Health...Framing proposals with analogies can alter policy preferences s...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1532673X20926125" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1532673X20926125</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow Policy Comparisons Alter Political Support for Health...Framing proposals with analogies can alter policy preferences s...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gnovisjournal.georgetown.edu  
    Title: health care reform vs obamacare partisan framing of fox msnbc nyt and wsj  
-   Link: <a href="https://gnovisjournal.georgetown.edu/journal/health-care-reform-vs-obamacare-partisan-framing-of-fox-msnbc-nyt-and-wsj/" target="_blank" rel="noopener noreferrer nofollow">https://gnovisjournal.georgetown.edu/journal/health-care-reform-vs-obamacare-partisan-framing-of-fox-msnbc-nyt-and-wsj/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“ObamaCare”: Partisan Framing of...30 Nov 2012 — Also this study examined how journalists attempted to situate the debate over U.S. heal...</p></details>
+   Link:<a href="https://gnovisjournal.georgetown.edu/journal/health-care-reform-vs-obamacare-partisan-framing-of-fox-msnbc-nyt-and-wsj/" target="_blank" rel="noopener noreferrer nofollow">https://gnovisjournal.georgetown.edu/journal/health-care-reform-vs-obamacare-partisan-framing-of-fox-msnbc-nyt-and-wsj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“ObamaCare”: Partisan Framing of...30 Nov 2012 — Also this study examined how journalists attempted to situate the debate over U.S. heal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youcanknowthings.com  
    Title: 10 [logical fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) used in vaccine arguments  
-   Link: <a href="https://www.youcanknowthings.com/10-logical-fallacies-used-in-vaccine-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://www.youcanknowthings.com/10-logical-fallacies-used-in-vaccine-arguments/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 5, 2022 — “If the COVID vaccines work, then why are vaccinated people getting COVID?” This is an example of the false dichotomy falla...</p></details>
+   Link:<a href="https://www.youcanknowthings.com/10-logical-fallacies-used-in-vaccine-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://www.youcanknowthings.com/10-logical-fallacies-used-in-vaccine-arguments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 5, 2022 — “If the COVID vaccines work, then why are vaccinated people getting COVID?” This is an example of the false dichotomy falla...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: publicintegrity.org  
    Title: analysis death panels fact and fiction  
-   Link: <a href="https://publicintegrity.org/health/analysis-death-panels-fact-and-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://publicintegrity.org/health/analysis-death-panels-fact-and-fiction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They exist inside the big health insurance corporations that every day make decisions on whether or not people enrolled in their...Read...</p></details>
+   Link:<a href="https://publicintegrity.org/health/analysis-death-panels-fact-and-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://publicintegrity.org/health/analysis-death-panels-fact-and-fiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They exist inside the big health insurance corporations that every day make decisions on whether or not people enrolled in their...Read...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fuqua.duke.edu  
    Title: death panel myth hard correct  
-   Link: <a href="https://www.fuqua.duke.edu/duke-fuqua-insights/death-panel-myth-hard-correct" target="_blank" rel="noopener noreferrer nofollow">https://www.fuqua.duke.edu/duke-fuqua-insights/death-panel-myth-hard-correct</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duke&#x27;s Fuqua School of BusinessNew Research Shows &#x27;Death Panel&#x27; Myth Hard to Correct8 Jan 2013 — What they found is that while there is n...</p></details>
+   Link:<a href="https://www.fuqua.duke.edu/duke-fuqua-insights/death-panel-myth-hard-correct" target="_blank" rel="noopener noreferrer nofollow">https://www.fuqua.duke.edu/duke-fuqua-insights/death-panel-myth-hard-correct</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duke&#x27;s Fuqua School of BusinessNew Research Shows &#x27;Death Panel&#x27; Myth Hard to Correct8 Jan 2013 — What they found is that while there is n...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12266455/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12266455/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>opposition to universal health care policies in the...by K Chow · 2025 · Cited by 1 — This study investigates the content and themes pre...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12266455/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12266455/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>opposition to universal health care policies in the...by K Chow · 2025 · Cited by 1 — This study investigates the content and themes pre...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oah.org  
    Title: chapin healthcare  
-   Link: <a href="https://www.oah.org/2017/03/24/chapin-healthcare/" target="_blank" rel="noopener noreferrer nofollow">https://www.oah.org/2017/03/24/chapin-healthcare/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Historical Origins of Today&#x27;s Healthcare Debates24 Mar 2017 — The ACA proved just how difficult it has been for policymakers to refor...</p></details>
+   Link:<a href="https://www.oah.org/2017/03/24/chapin-healthcare/" target="_blank" rel="noopener noreferrer nofollow">https://www.oah.org/2017/03/24/chapin-healthcare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Historical Origins of Today&#x27;s Healthcare Debates24 Mar 2017 — The ACA proved just how difficult it has been for policymakers to refor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scholarship.law.bu.edu  
-   Link: <a href="https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2308&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2308&amp;[context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Debate on Health Care Reform by Replacing...by GJ Annas · 1995 · Cited by 267 — For example, this perspective encourages us to ignor...</p></details>
+   Link:<a href="https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2308&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2308&amp;[context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Debate on Health Care Reform by Replacing...by GJ Annas · 1995 · Cited by 267 — For example, this perspective encourages us to ignor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Logical Fallacies Explained: Why Adults Argue So Poorly Today  
-   Link: <a href="https://www.youtube.com/watch?v=Hx4GtmSK6Rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hx4GtmSK6Rw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hx4GtmSK6Rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hx4GtmSK6Rw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: <a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfil34ayaEU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strawman Fallacy | Idea Channel | PBS Digital Studios...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfil34ayaEU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strawman Fallacy | Idea Channel | PBS Digital Studios...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Strawman Fallacy | Idea Channel | PBS Digital Studios  
-   Link: <a href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGZkCPo7tC0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot Logical Fallacies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGZkCPo7tC0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot Logical Fallacies...</p></details>

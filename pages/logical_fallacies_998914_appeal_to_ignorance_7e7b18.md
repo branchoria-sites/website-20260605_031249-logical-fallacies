@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-overvi
 
 ## Introduction
 
-Appeal to ignorance is the mistake of treating missing proof as if it were proof in the opposite direction. It appears in two familiar forms: “no one has proved this false, so it must be true” and “no one has proved this true, so it must be false.” The problem is not uncertainty itself. The problem is converting a gap in evidence into a confident conclusion without showing that the missing evidence would reasonably have been found if the claim were true. The Internet Encyclopedia of Philosophy describes the fallacy in exactly this two-way pattern and links it to an unjustified shift in the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</span></span></span>
+Appeal to ignorance is the mistake of treating missing proof as if it were proof in the opposite direction. It appears in two familiar forms: “no one has proved this false, so it must be true” and “no one has proved this true, so it must be false.” The problem is not uncertainty itself. The problem is converting a gap in evidence into a confident conclusion without showing that the missing evidence would reasonably have been found if the claim were true. The Internet Encyclopedia of Philosophy describes the fallacy in exactly this two-way pattern and links it to an unjustified shift in the burden of proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-overview.webp" | relative_url }}" alt="Overview image for Ignorance" loading="eager" decoding="sync" fetchpriority="high">
 This matters because real life is full of incomplete records, unfinished investigations, unpublished studies, silent witnesses, unavailable data and [rumours]({{ 'rumours/' | relative_url }}) that cannot be checked immediately. Good reasoning can sometimes learn from silence: a well-designed search that finds nothing may count against a claim. But a lazy or impossible search proves little. The useful question is not “is there proof?” but “what kind of evidence should we expect, who looked for it, how hard did they look, and would the method have detected it?” That distinction separates legitimate caution from the appeal to ignorance.
@@ -512,7 +512,7 @@ This matters because real life is full of incomplete records, unfinished investi
 
 The simplest appeal to ignorance treats “not proved” as “disproved” or “not disproved” as “proved.” A person might say, “No one has proved that this supplement is unsafe, so it is safe,” or “No one has proved that the witness is lying, so the story must be true.” Both examples smuggle certainty into a place where the evidence only supports a weaker conclusion: the matter is unresolved.
 
-This is why the phrase “absence of evidence is not evidence of absence” became so useful in science and medicine. In a short but influential BMJ statistics note, Douglas Altman and Martin Bland warned that a non-significant or missing result should not be described as proof that there is no effect; a study may simply be too small, too noisy or badly designed to detect the effect it was supposed to test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/311/7003/485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Statistics notes: Absence of evidence is not evidence of absence BMJ 1995; 311:485 doi:10.1136/bmj.311.7003.485...Read more...</span></span></span> Later BMJ discussion made the same point in practical clinical terms: some uncertainty always remains, so the real task is deciding when the evidence is strong enough for action, not pretending that uncertainty has vanished. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAbsence of evidence is not evidence of absence</span><span class="citation-popover-snippet">However, we need to have some rules for deciding when we are fairly sure that we...Read more...</span></span></span>
+This is why the phrase “absence of evidence is not evidence of absence” became so useful in science and medicine. In a short but influential BMJ statistics note, Douglas Altman and Martin Bland warned that a non-significant or missing result should not be described as proof that there is no effect; a study may simply be too small, too noisy or badly designed to detect the effect it was supposed to test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/311/7003/485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Statistics notes: Absence of evidence is not evidence of absence BMJ 1995; 311:485 doi:10.1136/bmj.311.7003.485...Read more...</span></span></span> Later BMJ discussion made the same point in practical clinical terms: some uncertainty always remains, so the real task is deciding when the evidence is strong enough for action, not pretending that uncertainty has vanished.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAbsence of evidence is not evidence of absence</span><span class="citation-popover-snippet">However, we need to have some rules for deciding when we are fairly sure that we...Read more...</span></span></span>
 
 The fallacy is especially tempting when the missing proof would be inconvenient. “There are no complaints, so there is no problem” may be reasonable if customers are routinely surveyed, complaints are easy to submit and records are audited. It is much weaker if people fear retaliation, do not know where to report, or have stopped expecting a response. In the second case, the silence may tell us more about the reporting system than about the absence of harm.
 
@@ -533,11 +533,11 @@ Appeal to ignorance happens when the argument jumps from the first line straight
 
 Missing evidence can matter when the situation creates a reasonable expectation of evidence. If a city claims it rained heavily overnight but streets, roofs, drains and weather records are all dry, the absence of expected traces is not neutral. It is evidence against the claim because the alleged event would normally leave detectable signs. The key is expectation: would this claim, if true, probably have produced evidence available to the searcher?
 
-Philosophical work on arguments from ignorance often treats this as a defeasible, or revisable, form of reasoning rather than a simple textbook error. Martin Hinton’s paper in *[Informal Logic]({{ 'informal-logic/' | relative_url }})* presents arguments from ignorance as presumptive arguments that can be assessed by asking whether the relevant evidence base is complete enough for the conclusion being drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic On Arguments from Ignorance</span><span class="citation-popover-snippet">Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span> The Stanford Encyclopedia of Philosophy’s entry on informal logic also notes that some argument schemes traditionally labelled fallacies can be legitimate in the right [context]({{ 'context/' | relative_url }}), depending on how they are used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Encyclopedia of Philosophy Informal Logic</span></span></span> Encyclopedia of Philosophy
+Philosophical work on arguments from ignorance often treats this as a defeasible, or revisable, form of reasoning rather than a simple textbook error. Martin Hinton’s paper in *[Informal Logic]({{ 'informal-logic/' | relative_url }})* presents arguments from ignorance as presumptive arguments that can be assessed by asking whether the relevant evidence base is complete enough for the conclusion being drawn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic On Arguments from Ignorance</span><span class="citation-popover-snippet">Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span> The Stanford Encyclopedia of Philosophy’s entry on informal logic also notes that some argument schemes traditionally labelled fallacies can be legitimate in the right [context]({{ 'context/' | relative_url }}), depending on how they are used.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Encyclopedia of Philosophy Informal Logic</span></span></span> Encyclopedia of Philosophy
 
-Archaeology gives a clear example because it often works with broken, partial and biased traces. Eran Wallach’s study of inference from absence in archaeology argues that such reasoning becomes plausible only where the missing evidence was highly expected: not finding a type of artefact matters more when the site, preservation conditions and search methods make it likely that the artefact would have survived and been recognised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/WALIFA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive Inference from absence: the case of archaeology</span><span class="citation-popover-snippet">Phil Archive Inference from absence: the case of archaeology</span></span></span> A missing palace inscription, for example, is weaker evidence than the absence of ordinary domestic pottery in a carefully excavated settlement where such pottery should be abundant.
+Archaeology gives a clear example because it often works with broken, partial and biased traces. Eran Wallach’s study of inference from absence in archaeology argues that such reasoning becomes plausible only where the missing evidence was highly expected: not finding a type of artefact matters more when the site, preservation conditions and search methods make it likely that the artefact would have survived and been recognised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/WALIFA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive Inference from absence: the case of archaeology</span><span class="citation-popover-snippet">Phil Archive Inference from absence: the case of archaeology</span></span></span> A missing palace inscription, for example, is weaker evidence than the absence of ordinary domestic pottery in a carefully excavated settlement where such pottery should be abundant.
 
-The same logic applies outside archaeology. A null result in a medical trial is more informative when the trial had enough statistical power, used relevant outcomes and measured the right population. A 2023 paper on replication and [null results]({{ 'null-results/' | relative_url }}) warns that non-significant findings in both an original and replication study do not automatically show that an effect is absent; small studies can repeatedly look “null” while still being too weak to answer the question. The authors point to equivalence testing and Bayes factors as ways to quantify evidence for absence more carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same logic applies outside archaeology. A null result in a medical trial is more informative when the trial had enough statistical power, used relevant outcomes and measured the right population. A 2023 paper on replication and [null results]({{ 'null-results/' | relative_url }}) warns that non-significant findings in both an original and replication study do not automatically show that an effect is absent; small studies can repeatedly look “null” while still being too weak to answer the question. The authors point to equivalence testing and Bayes factors as ways to quantify evidence for absence more carefully.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 So the corrective is not “never reason from missing evidence.” It is: do not reason from missing evidence unless the search was strong enough, targeted enough and fair enough for the conclusion being claimed.
 
@@ -545,13 +545,13 @@ So the corrective is not “never reason from missing evidence.” It is: do not
 
 ## The burden of proof is not a debating trick
 
-Appeal to ignorance often works by moving the burden of proof onto the wrong person. Someone makes a claim, supplies little or no evidence, and then demands that critics disprove it. If critics cannot do so immediately, the claim is treated as established. Fallacy Files describes this pattern as common in [debate]({{ 'debate/' | relative_url }}) because the side with the presumption has the easier task: it can “win” merely by preventing the other side from proving enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Appeal to ignorance often works by moving the burden of proof onto the wrong person. Someone makes a claim, supplies little or no evidence, and then demands that critics disprove it. If critics cannot do so immediately, the claim is treated as established. Fallacy Files describes this pattern as common in [debate]({{ 'debate/' | relative_url }}) because the side with the presumption has the easier task: it can “win” merely by preventing the other side from proving enough.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The burden of proof matters because argument is not only about possible worlds. Almost anything can be made to sound possible if the standard is “you cannot prove it impossible.” A hidden cause might exist, an unrecorded event might have happened, a secret document might appear later. But possibility is not proof. The person asserting the claim must provide reasons strong enough for the claim’s strength, practical stakes and context.
 
 This does not mean that negative claims are impossible to prove. “You can’t prove a negative” is itself misleading. Some negative claims can be supported very strongly: there is no elephant in the room, no largest prime number, no passport in this drawer after a complete search. What changes is the scope and method. A narrow negative claim can often be tested; a vast negative claim, such as “no example exists anywhere,” usually needs much more care.
 
-Legal reasoning shows why burden of proof is not always symmetrical. In criminal law, the presumption of innocence means that a failure to prove guilt is enough for acquittal, not because missing proof magically proves factual innocence in every possible sense, but because the legal system assigns the burden to the prosecution. The European Court of Human Rights’ Article 6 case-law guide states that an accused person is presumed innocent until proved guilty according to law. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ks.echr.coe.int">[ECHR-KS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ks.echr.coe.int</span><span class="citation-popover-title">ECHR-KSArticle 6 (criminal) Presumption of innocence</span><span class="citation-popover-snippet">ECHR-KSArticle 6 (criminal) Presumption of innocence</span></span></span> In that setting, “not proved guilty” has a defined procedural force; it is not the same as an everyday claim that any unproven allegation must be false in all respects.
+Legal reasoning shows why burden of proof is not always symmetrical. In criminal law, the presumption of innocence means that a failure to prove guilt is enough for acquittal, not because missing proof magically proves factual innocence in every possible sense, but because the legal system assigns the burden to the prosecution. The European Court of Human Rights’ Article 6 case-law guide states that an accused person is presumed innocent until proved guilty according to law.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ks.echr.coe.int">[ECHR-KS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ks.echr.coe.int</span><span class="citation-popover-title">ECHR-KSArticle 6 (criminal) Presumption of innocence</span><span class="citation-popover-snippet">ECHR-KSArticle 6 (criminal) Presumption of innocence</span></span></span> In that setting, “not proved guilty” has a defined procedural force; it is not the same as an everyday claim that any unproven allegation must be false in all respects.
 
 That distinction is crucial. In public debate, a person may be right to withhold belief from an unsupported claim. But they overreach if they turn “not enough evidence to accept this” into “therefore the opposite is certainly true.”
 
@@ -562,7 +562,7 @@ Rumours often exploit the appeal to ignorance because they live in a zone where 
 
 This is not always irrational. Institutions sometimes delay, conceal or mishandle information. But the appeal to ignorance appears when suspicion is treated as confirmation. A missing denial is not automatically evidence that a rumour is true. It may reflect legal constraints, privacy rules, lack of access, slow verification, a decision not to amplify a falsehood, or simple administrative delay.
 
-Research on misinformation under uncertainty helps explain why this pattern spreads. A 2021 study on communication of uncertainty and preliminary evidence examined how uncertain early evidence can still support inferred misinformation as people share and interpret claims in [social media]({{ 'social-media/' | relative_url }}) settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAbsence of evidence is not evidence of absence</span><span class="citation-popover-snippet">However, we need to have some rules for deciding when we are fairly sure that we...Read more...</span></span></span> A 2022 paper on fact-checking and missing counter-evidence argues that real-world misinformation often emerges when credible counter-evidence is not yet available, making simple “find the refuting source” approaches unrealistic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research on misinformation under uncertainty helps explain why this pattern spreads. A 2021 study on communication of uncertainty and preliminary evidence examined how uncertain early evidence can still support inferred misinformation as people share and interpret claims in [social media]({{ 'social-media/' | relative_url }}) settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAbsence of evidence is not evidence of absence</span><span class="citation-popover-snippet">However, we need to have some rules for deciding when we are fairly sure that we...Read more...</span></span></span> A 2022 paper on fact-checking and missing counter-evidence argues that real-world misinformation often emerges when credible counter-evidence is not yet available, making simple “find the refuting source” approaches unrealistic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A careful response to rumours therefore avoids two opposite mistakes. The first is credulity: “it has not been disproved, so it is probably true.” The second is over-dismissal: “it has not been proved, so it is definitely false.” Better wording keeps the uncertainty visible: “There is no good evidence for this at present,” “the available records do not support it,” or “this claim would require evidence that has not appeared.”
 
@@ -574,7 +574,7 @@ That kind of wording matters because it prevents a false sense of closure. It al
 
 The strongest way to avoid appeal to ignorance is to ask whether the missing evidence was reasonably expected. This turns an abstract fallacy label into a practical evidence test.
 
-A missing proof is more meaningful when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A missing proof is more meaningful when:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -593,269 +593,269 @@ The best antidote is disciplined modesty. Instead of asking missing evidence to 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-3-dark.svg" | relative_url }}" alt="Ignorance illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does Missing Evidence Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does Missing Evidence Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Directly addresses evidence, uncertainty, and logical fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evidence, uncertainty, and logical fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Explains how to reason under uncertainty and incomplete information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to reason under uncertainty and incomplete information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides background on cognitive shortcuts behind appeal-to-ignorance errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on cognitive shortcuts behind appeal-to-ignorance errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Teaches standards of evidence and burden of proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches standards of evidence and burden of proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ignorance-what-does-missing-evidence-prove-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -871,7 +871,7 @@ The best antidote is disciplined modesty. Instead of asking missing evidence to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -891,7 +891,7 @@ The best antidote is disciplined modesty. Instead of asking missing evidence to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -923,7 +923,7 @@ The best antidote is disciplined modesty. Instead of asking missing evidence to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -953,7 +953,7 @@ The best antidote is disciplined modesty. Instead of asking missing evidence to 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1011,185 +1011,185 @@ The best antidote is disciplined modesty. Instead of asking missing evidence to 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/311/7003/485" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/311/7003/485</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics notes: Absence of evidence is not evidence of absence BMJ 1995; 311:485 doi:10.1136/bmj.311.7003.485...Read more...</p></details>
+   Link:<a href="https://www.bmj.com/content/311/7003/485" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/311/7003/485</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics notes: Absence of evidence is not evidence of absence BMJ 1995; 311:485 doi:10.1136/bmj.311.7003.485...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAbsence of evidence is not evidence of absence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, we need to have some rules for deciding when we are fairly sure that we...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, we need to have some rules for deciding when we are fairly sure that we...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: philarchive.org  
    Title: Phil Archive Inference from absence: the case of archaeology  
-   Link: <a href="https://philarchive.org/archive/WALIFA" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/WALIFA</a>  
+   Link:<a href="https://philarchive.org/archive/WALIFA" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/WALIFA</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.04587</a>  
+   Link:<a href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.04587</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ks.echr.coe.int  
    Title: ECHR-KSArticle 6 (criminal) Presumption of innocence  
-   Link: <a href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence</a>  
+   Link:<a href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8620171/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8620171/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8620171/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8620171/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2210.13865" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.13865</a>  
+   Link:<a href="https://arxiv.org/abs/2210.13865" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.13865</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: legal probabilism  
-   Link: <a href="https://plato.stanford.edu/archives/sum2021/entries/legal-probabilism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2021/entries/legal-probabilism/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/sum2021/entries/legal-probabilism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2021/entries/legal-probabilism/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/spr2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2013/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/spr2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2013/entries/logic-informal/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/sum2025/entries/assertion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2025/entries/assertion/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/sum2025/entries/assertion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2025/entries/assertion/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/anarchism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/anarchism/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/anarchism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/anarchism/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: temporal parts  
-   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/temporal-parts/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/temporal-parts/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2025/entries/temporal-parts/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/temporal-parts/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/presupposition/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/presupposition/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/328/7438/476?page=1&amp;panels_ajax_tab_tab=bmj_related_rapid_responses&amp;panels_ajax_tab_trigger=rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/328/7438/476?page=1&amp;panels_ajax_tab_tab=bmj_related_rapid_responses&amp;panels_ajax_tab_trigger=rapid-responses</a>  
+   Link:<a href="https://www.bmj.com/content/328/7438/476?page=1&amp;panels_ajax_tab_tab=bmj_related_rapid_responses&amp;panels_ajax_tab_trigger=rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/328/7438/476?page=1&amp;panels_ajax_tab_tab=bmj_related_rapid_responses&amp;panels_ajax_tab_trigger=rapid-responses</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/342/bmj.d3126" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.d3126</a>  
+   Link:<a href="https://www.bmj.com/content/342/bmj.d3126" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.d3126</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/311/7003/485/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/311/7003/485/rr</a>  
+   Link:<a href="https://www.bmj.com/content/311/7003/485/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/311/7003/485/rr</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: <a href="https://www.bmj.com/content/343/bmj.d3340/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/343/bmj.d3340/rapid-responses</a>  
+   Link:<a href="https://www.bmj.com/content/343/bmj.d3340/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/343/bmj.d3340/rapid-responses</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: informallogic.ca  
    Title: Informal Logic On Arguments from Ignorance  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4697/4356</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4697/4356</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</p></details>
    Published: May 30, 2018  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Evidence of absence  
-   Link: <a href="https://en.wikipedia.org/wiki/Evidence_of_absence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Evidence_of_absence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Evidence_of_absence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Evidence_of_absence</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Presumption of innocence  
-   Link: <a href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presumption_of_innocence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presumption_of_innocence</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/absence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/absence</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/absence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/absence</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: resolve.cambridge.org  
    Title: the presumption of innocence  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/68FB4EDCF7374BEBB19966E8B9592B19/9781139093606c7_p199-240_CBO.pdf/the-presumption-of-innocence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/68FB4EDCF7374BEBB19966E8B9592B19/9781139093606c7_p199-240_CBO.pdf/the-presumption-of-innocence.pdf</a>  
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/68FB4EDCF7374BEBB19966E8B9592B19/9781139093606c7_p199-240_CBO.pdf/the-presumption-of-innocence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/68FB4EDCF7374BEBB19966E8B9592B19/9781139093606c7_p199-240_CBO.pdf/the-presumption-of-innocence.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: anesthesia.healthsci.mcmaster.ca  
    Title: absence of evidence is not evidence of absence  
-   Link: <a href="https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf</a>  
+   Link:<a href="https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignorance.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignorance.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
+   Link:<a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: qcc.cuny.edu  
    Title: Burden of Proof  
-   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
+   Link:<a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Absence of Evidence Isn't Evidence of Absence--Writing Notes  
-   Link: <a href="https://www.youtube.com/watch?v=u7T_5-1N930" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u7T_5-1N930</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Argument From Ignorance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u7T_5-1N930" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u7T_5-1N930</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Argument From Ignorance...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DebateReligion/comments/dx4ux4/absence_of_evidence_is_not_evidence_of_absence_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/dx4ux4/absence_of_evidence_is_not_evidence_of_absence_is/</a>  
+   Link:<a href="https://www.reddit.com/r/DebateReligion/comments/dx4ux4/absence_of_evidence_is_not_evidence_of_absence_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/dx4ux4/absence_of_evidence_is_not_evidence_of_absence_is/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: labxchange.org  
-   Link: <a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
+   Link:<a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: edge.org  
-   Link: <a href="https://www.edge.org/response-detail/10824" target="_blank" rel="noopener noreferrer nofollow">https://www.edge.org/response-detail/10824</a>  
+   Link:<a href="https://www.edge.org/response-detail/10824" target="_blank" rel="noopener noreferrer nofollow">https://www.edge.org/response-detail/10824</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: effectiviology.com  
-   Link: <a href="https://effectiviology.com/absence-of-evidence-is-not-evidence-of-absence/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/absence-of-evidence-is-not-evidence-of-absence/</a>  
+   Link:<a href="https://effectiviology.com/absence-of-evidence-is-not-evidence-of-absence/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/absence-of-evidence-is-not-evidence-of-absence/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: txst.edu  
-   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html</a>  
+   Link:<a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: howtowriteaphd.org  
-   Link: <a href="https://howtowriteaphd.org/hypothesis.html" target="_blank" rel="noopener noreferrer nofollow">https://howtowriteaphd.org/hypothesis.html</a>  
+   Link:<a href="https://howtowriteaphd.org/hypothesis.html" target="_blank" rel="noopener noreferrer nofollow">https://howtowriteaphd.org/hypothesis.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cps.gov.uk  
-   Link: <a href="https://www.cps.gov.uk/about-cps/how-a-criminal-case-works" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/how-a-criminal-case-works</a>  
+   Link:<a href="https://www.cps.gov.uk/about-cps/how-a-criminal-case-works" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/how-a-criminal-case-works</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/b0rygm/is_absence_of_evidence_evidence_of_absence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/b0rygm/is_absence_of_evidence_evidence_of_absence/</a>  
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/b0rygm/is_absence_of_evidence_evidence_of_absence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/b0rygm/is_absence_of_evidence_evidence_of_absence/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/</a>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/</a>

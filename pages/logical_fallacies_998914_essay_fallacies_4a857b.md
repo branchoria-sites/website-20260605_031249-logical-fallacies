@@ -501,45 +501,45 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b-overview-s
 
 ## Introduction
 
-Fallacies weaken student essays because they break the connection between thesis, reasons and evidence. A paper may contain accurate facts, fluent sentences and confident language, yet still fail academically if its evidence does not actually prove the claim being made. University writing centres often frame academic argument as a point of view supported by evidence, not merely a personal opinion or a string of quotations. The problem with fallacies is that they make unsupported leaps look like reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</span></span></span>
+Fallacies weaken student essays because they break the connection between thesis, reasons and evidence. A paper may contain accurate facts, fluent sentences and confident language, yet still fail academically if its evidence does not actually prove the claim being made. University writing centres often frame academic argument as a point of view supported by evidence, not merely a personal opinion or a string of quotations. The problem with fallacies is that they make unsupported leaps look like reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-overview.webp" | relative_url }}" alt="Overview image for Essays" loading="eager" decoding="sync" fetchpriority="high">
-In essay writing, the most useful question is not simply “Can I name the fallacy?” but “Where has the argument stopped doing its job?” A hasty generalisation may turn one example into a sweeping conclusion. A straw man may make an opposing view easier to dismiss by misrepresenting it. A false cause may treat sequence as proof of causation. These are not just [debate]({{ 'debate/' | relative_url }})-club errors; they are common academic writing problems because they reduce credibility, invite marker objections and make the thesis less persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In essay writing, the most useful question is not simply “Can I name the fallacy?” but “Where has the argument stopped doing its job?” A hasty generalisation may turn one example into a sweeping conclusion. A straw man may make an opposing view easier to dismiss by misrepresenting it. A false cause may treat sequence as proof of causation. These are not just [debate]({{ 'debate/' | relative_url }})-club errors; they are common academic writing problems because they reduce credibility, invite marker objections and make the thesis less persuasive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why essay fallacies usually begin as writing problems
 
-In student essays, fallacies rarely appear as neat textbook examples. They often begin as ordinary drafting shortcuts: a thesis is too broad, a paragraph opens with a claim it cannot support, a quotation is dropped in without explanation, or a counterargument is dismissed before it has been fairly described. Purdue OWL describes fallacies as reasoning errors that undermine the logic of an argument and are often recognisable because the claim lacks supporting evidence. That description fits many weak essay paragraphs: the problem is not always that the writer has no evidence, but that the evidence does not carry the argumentative weight placed on it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacie...</span></span></span>
+In student essays, fallacies rarely appear as neat textbook examples. They often begin as ordinary drafting shortcuts: a thesis is too broad, a paragraph opens with a claim it cannot support, a quotation is dropped in without explanation, or a counterargument is dismissed before it has been fairly described. Purdue OWL describes fallacies as reasoning errors that undermine the logic of an argument and are often recognisable because the claim lacks supporting evidence. That description fits many weak essay paragraphs: the problem is not always that the writer has no evidence, but that the evidence does not carry the argumentative weight placed on it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacie...</span></span></span>
 
-This is why fallacies matter in academic writing more than as a list of labels. A student might write, “[Social media]({{ 'social-media/' | relative_url }}) is destroying young people’s attention spans because my classmates cannot focus in lectures.” The sentence has a recognisable hasty generalisation: a small local observation is treated as evidence for a broad population claim. But the academic writing problem is more practical. The claim is too large for the evidence, the population is undefined, the causal mechanism is missing, and possible alternative explanations are ignored. Scribbr’s explanation of hasty generalisation stresses the problem of drawing a conclusion from too few or unrepresentative cases; writing centres make the same point in more essay-focused language when they warn students against unsupported claims and weak evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why fallacies matter in academic writing more than as a list of labels. A student might write, “[Social media]({{ 'social-media/' | relative_url }}) is destroying young people’s attention spans because my classmates cannot focus in lectures.” The sentence has a recognisable hasty generalisation: a small local observation is treated as evidence for a broad population claim. But the academic writing problem is more practical. The claim is too large for the evidence, the population is undefined, the causal mechanism is missing, and possible alternative explanations are ignored. Scribbr’s explanation of hasty generalisation stresses the problem of drawing a conclusion from too few or unrepresentative cases; writing centres make the same point in more essay-focused language when they warn students against unsupported claims and weak evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A useful way to diagnose essay fallacies is to treat every body paragraph as a small argument. It should contain a claim, a reason, evidence and an explanation of why that evidence matters. The Toulmin model, often used in writing instruction, breaks argument into claim, grounds, warrant, qualifier, rebuttal and backing; Purdue’s account of the model highlights that the warrant is the link between the claim and the evidence. When essays feel persuasive but remain logically weak, the missing piece is often this warrant: the writer has shown something, but not explained why it proves the point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">OWLToulmin Argument</span></span></span>
+A useful way to diagnose essay fallacies is to treat every body paragraph as a small argument. It should contain a claim, a reason, evidence and an explanation of why that evidence matters. The Toulmin model, often used in writing instruction, breaks argument into claim, grounds, warrant, qualifier, rebuttal and backing; Purdue’s account of the model highlights that the warrant is the link between the claim and the evidence. When essays feel persuasive but remain logically weak, the missing piece is often this warrant: the writer has shown something, but not explained why it proves the point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">OWLToulmin Argument</span></span></span>
 
 ## Claims and reasons must fit each other
 
 A strong essay does not just make a claim and then add information underneath it. The reason must be the right kind of support for that claim. If the thesis says a policy is ineffective, the essay needs evidence about outcomes, implementation, comparison or measurable impact. If the thesis says a novel presents a character as morally conflicted, the essay needs textual evidence and analysis of language, structure or narrative [context]({{ 'context/' | relative_url }}). A mismatch between claim and reason is where many academic fallacies take root.
 
-One common mismatch is the **because gap**. A paragraph asserts a conclusion and then gives a reason that may be emotionally appealing but does not prove it. For example: “University attendance should not be required because students dislike compulsory lectures.” Dislike may be relevant to motivation or engagement, but it does not by itself prove that attendance policies are educationally ineffective. The claim would need evidence about learning outcomes, participation, student autonomy or equity. Newcastle University’s academic skills guidance makes the same practical point: university work requires evidence that justifies a point and shows how the writer reached the conclusion, rather than asking the reader to accept the statement on trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncl.ac.uk">[Newcastle University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncl.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One common mismatch is the **because gap**. A paragraph asserts a conclusion and then gives a reason that may be emotionally appealing but does not prove it. For example: “University attendance should not be required because students dislike compulsory lectures.” Dislike may be relevant to motivation or engagement, but it does not by itself prove that attendance policies are educationally ineffective. The claim would need evidence about learning outcomes, participation, student autonomy or equity. Newcastle University’s academic skills guidance makes the same practical point: university work requires evidence that justifies a point and shows how the writer reached the conclusion, rather than asking the reader to accept the statement on trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncl.ac.uk">[Newcastle University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncl.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Another mismatch is the **scale jump**. A student moves from a narrow observation to a broad thesis without showing that the evidence is typical. “One company improved productivity after introducing remote work, so remote work is better for all industries” is not merely underdeveloped; it risks hasty generalisation. The revision is not to remove the example, but to reduce the claim or add wider evidence: “This case suggests that remote work can improve productivity in some knowledge-work settings when performance metrics are clear.” That version uses a qualifier, narrows the population and avoids pretending that one case proves a universal rule.
 
-A third mismatch is the **category error**. The reason supports a different claim from the one the paragraph says it is proving. A student arguing that a historical decision was unethical might spend a paragraph proving that it was unpopular. Unpopularity may be evidence of public reaction, but it is not the same as ethical failure. The paragraph needs a moral criterion, not just opinion data. This is why academic argument benefits from explicit reasoning: the writer must show not only what the evidence says, but what kind of claim it can legitimately support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assignmenthelpaustralia.io">[assignmenthelpaustralia.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assignmenthelpaustralia.io</span><span class="citation-popover-title">build an argument in academic writing</span><span class="citation-popover-snippet">build an argument in academic writing</span></span></span>
+A third mismatch is the **category error**. The reason supports a different claim from the one the paragraph says it is proving. A student arguing that a historical decision was unethical might spend a paragraph proving that it was unpopular. Unpopularity may be evidence of public reaction, but it is not the same as ethical failure. The paragraph needs a moral criterion, not just opinion data. This is why academic argument benefits from explicit reasoning: the writer must show not only what the evidence says, but what kind of claim it can legitimately support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assignmenthelpaustralia.io">[assignmenthelpaustralia.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assignmenthelpaustralia.io</span><span class="citation-popover-title">build an argument in academic writing</span><span class="citation-popover-snippet">build an argument in academic writing</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-1-dark.svg" | relative_url }}" alt="Essays illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence gaps that make essays look less credible
 
-[Evidence gaps]({{ 'evidence-gaps/' | relative_url }}) are not limited to missing citations. A paper can cite many sources and still contain weak reasoning if the evidence is thin, selective, misread or left unexplained. Miami University’s Howe Writing Center warns that simply including a statistic or quotation is not enough; evidence has to be explained and connected to the claim. The University of Sheffield gives a similar warning: having some evidence does not automatically prove an argument, because the writer must explain how and why the evidence is sufficient, valid and reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+[Evidence gaps]({{ 'evidence-gaps/' | relative_url }}) are not limited to missing citations. A paper can cite many sources and still contain weak reasoning if the evidence is thin, selective, misread or left unexplained. Miami University’s Howe Writing Center warns that simply including a statistic or quotation is not enough; evidence has to be explained and connected to the claim. The University of Sheffield gives a similar warning: having some evidence does not automatically prove an argument, because the writer must explain how and why the evidence is sufficient, valid and reliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A common gap is **quotation without interpretation**. The student inserts a sentence from a source and assumes the reader will infer its [relevance]({{ 'relevance/' | relative_url }}). In literary analysis, this might mean quoting a line of dialogue without analysing tone, imagery or context. In social science writing, it might mean presenting a statistic without explaining the sample, time period or measurement. The result is not a formal fallacy in the strictest sense, but it produces a fallacy-like weakness: the essay appears to have evidence while leaving the key inference unstated.
 
-Another gap is **cherry-picking**, where the essay includes only the evidence that supports the thesis and ignores obvious complications. Haverford’s writing guidance gives the example of a student writing about Hamlet while omitting a scene that clearly contradicts the main idea; the omission weakens the paper because an informed reader is likely to notice the missing counter-evidence. This is especially damaging in academic writing because assessors often know the material well enough to see what has been left out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haverford.edu">[Haverford College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haverford.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Another gap is **cherry-picking**, where the essay includes only the evidence that supports the thesis and ignores obvious complications. Haverford’s writing guidance gives the example of a student writing about Hamlet while omitting a scene that clearly contradicts the main idea; the omission weakens the paper because an informed reader is likely to notice the missing counter-evidence. This is especially damaging in academic writing because assessors often know the material well enough to see what has been left out.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haverford.edu">[Haverford College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haverford.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A third gap is **causal overreach**. Students often write as though one event caused another because it happened first, because the two are correlated, or because the explanation feels plausible. In an essay, this can appear in sentences such as “After the curriculum changed, exam results fell, proving that the new curriculum failed.” The evidence may raise a serious question, but it does not by itself rule out cohort differences, assessment changes, funding pressures or wider social factors. The fallacy is not that causal claims are forbidden; it is that causal claims require evidence strong enough to exclude simpler or rival explanations.
 
 ## Counterarguments are where many fallacies become visible
 
-Counterargument sections are a stress test for essay reasoning. When a writer fairly presents a serious objection and answers it with evidence, the essay becomes more credible. When a writer misrepresents the objection, the essay often slips into a straw man fallacy. Harvard College Writing Center describes counterarguments as challenges that readers could reasonably raise against the thesis or its supporting claims; George Mason University’s writing guidance adds that well-handled counterarguments can strengthen a paper because the writer acknowledges and responds to opposition directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Counterargument sections are a stress test for essay reasoning. When a writer fairly presents a serious objection and answers it with evidence, the essay becomes more credible. When a writer misrepresents the objection, the essay often slips into a straw man fallacy. Harvard College Writing Center describes counterarguments as challenges that readers could reasonably raise against the thesis or its supporting claims; George Mason University’s writing guidance adds that well-handled counterarguments can strengthen a paper because the writer acknowledges and responds to opposition directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A straw man in an essay might look like this: “Critics of renewable energy think society should abandon all modern technology.” That is easier to attack than a real policy objection about cost, storage, grid reliability or land use, but it is not a fair version of the opposing view. Excelsior OWL notes that straw man reasoning works by misrepresenting or exaggerating another position; in academic writing, the effect is to make the writer seem less trustworthy because the paper avoids the strongest version of the issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-snippet">Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabTo avoid straw man fallacies, it&#x27;s important to practice active listening sk...</span></span></span>
+A straw man in an essay might look like this: “Critics of renewable energy think society should abandon all modern technology.” That is easier to attack than a real policy objection about cost, storage, grid reliability or land use, but it is not a fair version of the opposing view. Excelsior OWL notes that straw man reasoning works by misrepresenting or exaggerating another position; in academic writing, the effect is to make the writer seem less trustworthy because the paper avoids the strongest version of the issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-snippet">Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabTo avoid straw man fallacies, it&#x27;s important to practice active listening sk...</span></span></span>
 
 Good counterargument writing does not mean giving equal space to every objection. It means selecting the most relevant challenge and answering it honestly. A useful structure is: state the objection in terms its supporters would recognise; explain why it matters; then respond with evidence, distinction or qualification. For example, instead of “Opponents of homework do not care about learning,” a stronger essay might write, “Critics argue that homework can widen inequality when students have unequal access to quiet study space and parental support. This objection matters, but it does not rule out all homework; it suggests that assignments should be purposeful, limited and designed with access in mind.” The second version avoids caricature and produces a more defensible thesis.
 
@@ -549,13 +549,13 @@ Good counterargument writing does not mean giving equal space to every objection
 
 Fallacy names can be helpful when they point to a specific revision. They are less helpful when used as accusations. In essays, the goal is not to label the writer as illogical, but to identify where the draft needs narrower claims, better evidence or clearer reasoning.
 
-**Hasty generalisation:** The writer draws a broad conclusion from too little evidence. This is common in essays that rely heavily on personal [experience]({{ 'experience/' | relative_url }}), one case study or a small set of examples. The fix is to narrow the claim, add representative evidence or acknowledge limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Hasty generalisation:** The writer draws a broad conclusion from too little evidence. This is common in essays that rely heavily on personal [experience]({{ 'experience/' | relative_url }}), one case study or a small set of examples. The fix is to narrow the claim, add representative evidence or acknowledge limits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**False dilemma:** The essay presents two options as if they are the only possibilities. A paragraph might claim that schools must either ban phones completely or accept constant distraction. Academic writing usually needs a more precise range of options: restricted use, device-free periods, teacher discretion, accessibility exceptions or different rules by age group. UNC’s fallacies guide treats false dilemmas as a common reasoning error because they oversimplify choices that may have more than two sides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</span></span></span>
+**False dilemma:** The essay presents two options as if they are the only possibilities. A paragraph might claim that schools must either ban phones completely or accept constant distraction. Academic writing usually needs a more precise range of options: restricted use, device-free periods, teacher discretion, accessibility exceptions or different rules by age group. UNC’s fallacies guide treats false dilemmas as a common reasoning error because they oversimplify choices that may have more than two sides.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</span></span></span>
 
-**Slippery slope:** The writer predicts an extreme chain of consequences without enough evidence for each step. “If universities allow AI tools for brainstorming, students will stop learning altogether” is not impossible as a concern, but it needs a mechanism and evidence. Without those, the essay relies on fear of the endpoint rather than proof of the chain. Writing guides commonly list slippery slope reasoning among fallacies to watch for because it can make speculation sound like inevitability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisc.pb.unizin.org">[Wisc Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisc.pb.unizin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Slippery slope:** The writer predicts an extreme chain of consequences without enough evidence for each step. “If universities allow AI tools for brainstorming, students will stop learning altogether” is not impossible as a concern, but it needs a mechanism and evidence. Without those, the essay relies on fear of the endpoint rather than proof of the chain. Writing guides commonly list slippery slope reasoning among fallacies to watch for because it can make speculation sound like inevitability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisc.pb.unizin.org">[Wisc Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisc.pb.unizin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Appeal to inappropriate authority:** The writer cites a famous person, organisation or source whose expertise does not match the claim. A celebrity’s view on public health policy, for instance, does not carry the same weight as epidemiological research. This problem is especially common when students search for quotable material rather than relevant evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisc.pb.unizin.org">[Wisc Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisc.pb.unizin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Appeal to inappropriate authority:** The writer cites a famous person, organisation or source whose expertise does not match the claim. A celebrity’s view on public health policy, for instance, does not carry the same weight as epidemiological research. This problem is especially common when students search for quotable material rather than relevant evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisc.pb.unizin.org">[Wisc Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisc.pb.unizin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Circular reasoning:** The paragraph restates its conclusion as its proof. “This interpretation is convincing because it is the best reading of the poem” sounds like support but gives the reader no independent reason to agree. Revision requires adding textual evidence and explaining how it supports the interpretation.
 
@@ -564,15 +564,15 @@ Fallacy names can be helpful when they point to a specific revision. They are le
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-2-dark.svg" | relative_url }}" alt="Essays illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Revision checks that catch fallacies before submission
 
-The best revision process does not begin by hunting for fallacy names. It begins by testing the essay’s chain of support. The claim-evidence-reasoning approach is useful because it asks the writer to separate what they are arguing, what proof they have and how the proof supports the point. Research and teaching literature on claim-evidence-reasoning frameworks has found the structure useful for helping students make claims based on evidence and explain the reasoning that links them, especially in scientific and argumentative writing contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: j-psp.com">[j-psp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">j-psp.com</span><span class="citation-popover-snippet">Open source on j-psp.com.</span></span></span>
+The best revision process does not begin by hunting for fallacy names. It begins by testing the essay’s chain of support. The claim-evidence-reasoning approach is useful because it asks the writer to separate what they are arguing, what proof they have and how the proof supports the point. Research and teaching literature on claim-evidence-reasoning frameworks has found the structure useful for helping students make claims based on evidence and explain the reasoning that links them, especially in scientific and argumentative writing contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: j-psp.com">[j-psp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">j-psp.com</span><span class="citation-popover-snippet">Open source on j-psp.com.</span></span></span>
 
 A practical revision pass can use five questions:
 
 1. **What exactly is the claim?** If the sentence uses words such as “always”, “never”, “everyone”, “proves” or “inevitably”, check whether the evidence really supports that level of certainty.
 2. **What reason is being offered?** A reason should answer “why should the reader believe this?” not merely repeat the claim in different words.
-3. **What evidence supports the reason?** Evidence may be textual detail, data, scholarly research, historical documents, examples or observation, depending on the discipline. The important point is that it must be appropriate to the kind of claim being made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+3. **What evidence supports the reason?** Evidence may be textual detail, data, scholarly research, historical documents, examples or observation, depending on the discipline. The important point is that it must be appropriate to the kind of claim being made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 4. **What warrant connects the evidence to the claim?** This is the often-missing sentence that explains why the evidence matters. Without it, readers may see information but not argument.
-5. **What would a fair critic say?** If the essay ignores an obvious exception, rival explanation or stronger counterargument, the argument may appear selective or evasive. Counterargument revision is therefore not a decorative final paragraph; it is a credibility check. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+5. **What would a fair critic say?** If the essay ignores an obvious exception, rival explanation or stronger counterargument, the argument may appear selective or evasive. Counterargument revision is therefore not a decorative final paragraph; it is a credibility check.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This process also helps students avoid overcorrecting. Not every strong claim is a fallacy. Academic writing is allowed to argue boldly, provided the scope, evidence and reasoning match. A thesis such as “The policy failed” can be valid if the essay defines failure and proves it. The fallacy appears when the essay claims more than its evidence can responsibly show.
 
@@ -590,7 +590,7 @@ The same pattern applies across disciplines. In history, a student should distin
 
 ## Why fallacy revision improves credibility, not just logic
 
-Markers often respond to fallacies as credibility problems. A paragraph that exaggerates, omits inconvenient evidence or misstates an opposing view makes the reader less willing to trust the rest of the paper. Texas A&M’s writing centre puts the point plainly: fallacious arguments may seem convincing at first, but closer examination reveals assumptions that do not hold up; they may oversimplify, lack adequate evidence, make jumps in logic or divert attention from the real issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.tamu.edu">[University Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.tamu.edu</span><span class="citation-popover-title">University Writing Center Fallacies</span><span class="citation-popover-snippet">University Writing Center Fallacies</span></span></span>
+Markers often respond to fallacies as credibility problems. A paragraph that exaggerates, omits inconvenient evidence or misstates an opposing view makes the reader less willing to trust the rest of the paper. Texas A&M’s writing centre puts the point plainly: fallacious arguments may seem convincing at first, but closer examination reveals assumptions that do not hold up; they may oversimplify, lack adequate evidence, make jumps in logic or divert attention from the real issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.tamu.edu">[University Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.tamu.edu</span><span class="citation-popover-title">University Writing Center Fallacies</span><span class="citation-popover-snippet">University Writing Center Fallacies</span></span></span>
 
 That is why the final revision check should focus on reader trust. Does the essay show its reasoning, or ask for belief? Does it handle evidence that complicates the thesis, or hide it? Does each paragraph advance the argument, or merely sound relevant? Does the conclusion follow from what the essay has actually proved, rather than from what the writer hoped to prove?
 
@@ -599,269 +599,269 @@ Essay fallacies are not just mistakes in logic terminology. They are signs that 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-3-dark.svg" | relative_url }}" alt="Essays illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fallacies Weaken Student Essays. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Fallacies Weaken Student Essays. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Say / I Say on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DPHR0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for They Say / I Say" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Say / I Say">They Say / I Say</a>
-        </h4>
-        <p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Say / I Say on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DPHR0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for They Say / I Say" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Say / I Say">They Say / I Say</a>
+</h4>
+<p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
         
-        <p class="fr-book-desc">Shows how to build supported arguments and engage objections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to build supported arguments and engage objections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-2xoPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Craft of Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Argument">The Craft of Argument</a>
-        </h4>
-        <p class="fr-book-author">By Joseph M. Williams, Gregory G. Colomb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-2xoPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Craft of Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Argument">The Craft of Argument</a>
+</h4>
+<p class="fr-book-author">By Joseph M. Williams, Gregory G. Colomb</p>
         
-        <p class="fr-book-desc">Connects claims, reasons, evidence, and logical structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects claims, reasons, evidence, and logical structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Teaches sound argumentative construction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches sound argumentative construction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz09huOeEJcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tracy Bowell, Gary Kemp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz09huOeEJcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tracy Bowell, Gary Kemp</p>
         
-        <p class="fr-book-desc">Explains common reasoning flaws in essays.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common reasoning flaws in essays.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Say / I Say</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Say / I Say</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a981336db61093af3168.jpg' | relative_url }}" alt="Listing image for Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for writing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: writing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a981336db61093af3168.jpg' | relative_url }}" alt="Listing image for Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for writing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: writing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Graphic Sign Writing Poster lettering sign decal"><img src="{{ '/assets/images/marketplace-covers/29df8ffd4abc94c6f15e.jpg' | relative_url }}" alt="Listing image for Vinyl Graphic Sign Writing Poster lettering sign decal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vinyl Graphic Sign Writing Poster lettering sign decal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for writing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: writing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Graphic Sign Writing Poster lettering sign decal"><img src="{{ '/assets/images/marketplace-covers/29df8ffd4abc94c6f15e.jpg' | relative_url }}" alt="Listing image for Vinyl Graphic Sign Writing Poster lettering sign decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vinyl Graphic Sign Writing Poster lettering sign decal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for writing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: writing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d0cbf5ad35129bf57439.jpg' | relative_url }}" alt="Listing image for Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for writing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: writing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d0cbf5ad35129bf57439.jpg' | relative_url }}" alt="Listing image for Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Writing Is Magic For Those Who Beli Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for writing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: writing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Writing Is My Superpower Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/169cfc28fbfb451216c7.jpg' | relative_url }}" alt="Listing image for Writing Is My Superpower Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Writing Is My Superpower Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for writing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: writing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Writing Is My Superpower Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/169cfc28fbfb451216c7.jpg' | relative_url }}" alt="Listing image for Writing Is My Superpower Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Writing Is My Superpower Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for writing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: writing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=writing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=essays-how-fallacies-weaken-student-essays-logical-fallacies-writing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -877,7 +877,7 @@ Essay fallacies are not just mistakes in logic terminology. They are signs that 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -897,7 +897,7 @@ Essay fallacies are not just mistakes in logic terminology. They are signs that 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -929,7 +929,7 @@ Essay fallacies are not just mistakes in logic terminology. They are signs that 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -959,7 +959,7 @@ Essay fallacies are not just mistakes in logic terminology. They are signs that 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1017,192 +1017,192 @@ Essay fallacies are not just mistakes in logic terminology. They are signs that 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Argument  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacie...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacie...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterThis handout discusses common logical fallacies that you may encounter in your own writin...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterThis handout discusses common logical fallacies that you may encounter in your own writin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: owl.excelsior.edu  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabTo avoid straw man fallacies, it&#x27;s important to practice active listening sk...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabTo avoid straw man fallacies, it&#x27;s important to practice active listening sk...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: owl.purdue.edu  
    Title: OWLToulmin Argument  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assignmenthelpaustralia.io  
    Title: build an argument in academic writing  
-   Link: <a href="https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow">https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing</a>  
+   Link:<a href="https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow">https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: haverford.edu  
-   Link: <a href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf</a>  
+   Link:<a href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: writingcenter.fas.harvard.edu  
-   Link: <a href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.fas.harvard.edu/counterargument</a>  
+   Link:<a href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.fas.harvard.edu/counterargument</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: j-psp.com  
-   Link: <a href="https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446" target="_blank" rel="noopener noreferrer nofollow">https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446</a>  
+   Link:<a href="https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446" target="_blank" rel="noopener noreferrer nofollow">https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: j-psp.com  
-   Link: <a href="https://www.j-psp.com/download/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.j-psp.com/download/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446.pdf</a>  
+   Link:<a href="https://www.j-psp.com/download/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.j-psp.com/download/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unc.edu  
-   Link: <a href="https://www.unc.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.unc.edu/</a>  
+   Link:<a href="https://www.unc.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.unc.edu/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unc.edu  
    Title: Before the crowd, these Tar Heels celebrated together  
-   Link: <a href="https://www.unc.edu/posts/2026/05/09/before-the-crowd-these-tar-heels-celebrated-together/" target="_blank" rel="noopener noreferrer nofollow">https://www.unc.edu/posts/2026/05/09/before-the-crowd-these-tar-heels-celebrated-together/</a>  
+   Link:<a href="https://www.unc.edu/posts/2026/05/09/before-the-crowd-these-tar-heels-celebrated-together/" target="_blank" rel="noopener noreferrer nofollow">https://www.unc.edu/posts/2026/05/09/before-the-crowd-these-tar-heels-celebrated-together/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribbr.com  
-   Link: <a href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants</a>  
+   Link:<a href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pressbooks.pub  
-   Link: <a href="https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/</a>  
+   Link:<a href="https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: utsa.pressbooks.pub  
-   Link: <a href="https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/" target="_blank" rel="noopener noreferrer nofollow">https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/</a>  
+   Link:<a href="https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/" target="_blank" rel="noopener noreferrer nofollow">https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: owl.excelsior.edu  
    Title: logical fallacies  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/</a>  
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Hasty Generalization Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/hasty-generalization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalization Fallacy | Definition &amp; Examples - Scribbr26 Apr 2023 — A hasty generalization fallacy occurs when people draw...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/hasty-generalization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalization Fallacy | Definition &amp; Examples - Scribbr26 Apr 2023 — A hasty generalization fallacy occurs when people draw...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ncl.ac.uk  
-   Link: <a href="https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/</a>  
+   Link:<a href="https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: miamioh.edu  
-   Link: <a href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html</a>  
+   Link:<a href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: writingcenter.gmu.edu  
    Title: The Writing Center All About Counterarguments | General  
-   Link: <a href="https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments</a>  
+   Link:<a href="https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wisc.pb.unizin.org  
-   Link: <a href="https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/" target="_blank" rel="noopener noreferrer nofollow">https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/</a>  
+   Link:<a href="https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/" target="_blank" rel="noopener noreferrer nofollow">https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: writingcenter.tamu.edu  
    Title: University Writing Center Fallacies  
-   Link: <a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
+   Link:<a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/University</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/University</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: unr.edu  
-   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
+   Link:<a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unr.edu  
-   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments</a>  
+   Link:<a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Academic Argument  
-   Link: <a href="https://www.youtube.com/watch?v=BXhosYuw4jU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXhosYuw4jU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=BXhosYuw4jU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXhosYuw4jU</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/slang/unc" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/slang/unc</a>  
+   Link:<a href="https://www.merriam-webster.com/slang/unc" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/slang/unc</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mvmlearning.wordpress.com  
-   Link: <a href="https://mvmlearning.wordpress.com/2017/03/04/argument/" target="_blank" rel="noopener noreferrer nofollow">https://mvmlearning.wordpress.com/2017/03/04/argument/</a>  
+   Link:<a href="https://mvmlearning.wordpress.com/2017/03/04/argument/" target="_blank" rel="noopener noreferrer nofollow">https://mvmlearning.wordpress.com/2017/03/04/argument/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pressbooks.cuny.edu  
    Title: logical fallacies  
-   Link: <a href="https://pressbooks.cuny.edu/qcenglish110writingguides/chapter/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.cuny.edu/qcenglish110writingguides/chapter/logical-fallacies/</a>  
+   Link:<a href="https://pressbooks.cuny.edu/qcenglish110writingguides/chapter/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.cuny.edu/qcenglish110writingguides/chapter/logical-fallacies/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: walton.uark.edu  
    Title: logical fallacies  
-   Link: <a href="https://walton.uark.edu/business-communication-lab/resources/business-writing-resources/logical-fallacies.php" target="_blank" rel="noopener noreferrer nofollow">https://walton.uark.edu/business-communication-lab/resources/business-writing-resources/logical-fallacies.php</a>  
+   Link:<a href="https://walton.uark.edu/business-communication-lab/resources/business-writing-resources/logical-fallacies.php" target="_blank" rel="noopener noreferrer nofollow">https://walton.uark.edu/business-communication-lab/resources/business-writing-resources/logical-fallacies.php</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
+   Link:<a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: 10 Common Logical Fallacies and How to Spot Them  
-   Link: <a href="https://www.youtube.com/watch?v=0LlSphkniJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0LlSphkniJQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies Part 2: Most Commonly Used Fallacies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0LlSphkniJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0LlSphkniJQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies Part 2: Most Commonly Used Fallacies...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61558331019289/posts/%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-in-academic-essay-writing-harvard-college-writing-center-just-of/122201665172277700/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558331019289/posts/%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-in-academic-essay-writing-harvard-college-writing-center-just-of/122201665172277700/</a>  
+   Link:<a href="https://www.facebook.com/61558331019289/posts/%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-in-academic-essay-writing-harvard-college-writing-center-just-of/122201665172277700/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558331019289/posts/%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-in-academic-essay-writing-harvard-college-writing-center-just-of/122201665172277700/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392825153_Using_of_claim_evidence_and_reasoning_strategy_in_scientific_explanation_and_argumentative_writing_skills_of_grade_nine_chemistry_students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392825153_Using_of_claim_evidence_and_reasoning_strategy_in_scientific_explanation_and_argumentative_writing_skills_of_grade_nine_chemistry_students</a>  
+   Link:<a href="https://www.researchgate.net/publication/392825153_Using_of_claim_evidence_and_reasoning_strategy_in_scientific_explanation_and_argumentative_writing_skills_of_grade_nine_chemistry_students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392825153_Using_of_claim_evidence_and_reasoning_strategy_in_scientific_explanation_and_argumentative_writing_skills_of_grade_nine_chemistry_students</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/A-link-between-claim-grounds-and-warrant_fig2_321725631" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-link-between-claim-grounds-and-warrant_fig2_321725631</a>  
+   Link:<a href="https://www.researchgate.net/figure/A-link-between-claim-grounds-and-warrant_fig2_321725631" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-link-between-claim-grounds-and-warrant_fig2_321725631</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ucd.ie  
-   Link: <a href="https://www.ucd.ie/writingcentre/t4media/Academic%20Style%20-%20Common%20Mistakes_SoRh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucd.ie/writingcentre/t4media/Academic%20Style%20-%20Common%20Mistakes_SoRh.pdf</a>  
+   Link:<a href="https://www.ucd.ie/writingcentre/t4media/Academic%20Style%20-%20Common%20Mistakes_SoRh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucd.ie/writingcentre/t4media/Academic%20Style%20-%20Common%20Mistakes_SoRh.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: study.com  
-   Link: <a href="https://study.com/learn/lesson/supporting-claims-with-evidence-reasoning.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/supporting-claims-with-evidence-reasoning.html</a>  
+   Link:<a href="https://study.com/learn/lesson/supporting-claims-with-evidence-reasoning.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/supporting-claims-with-evidence-reasoning.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: itslitteaching.com  
-   Link: <a href="https://itslitteaching.com/cerwriting/" target="_blank" rel="noopener noreferrer nofollow">https://itslitteaching.com/cerwriting/</a>  
+   Link:<a href="https://itslitteaching.com/cerwriting/" target="_blank" rel="noopener noreferrer nofollow">https://itslitteaching.com/cerwriting/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: luc.edu  
-   Link: <a href="https://www.luc.edu/literacy/tutoring/commonwritingproblemshowtofixthem/" target="_blank" rel="noopener noreferrer nofollow">https://www.luc.edu/literacy/tutoring/commonwritingproblemshowtofixthem/</a>  
+   Link:<a href="https://www.luc.edu/literacy/tutoring/commonwritingproblemshowtofixthem/" target="_blank" rel="noopener noreferrer nofollow">https://www.luc.edu/literacy/tutoring/commonwritingproblemshowtofixthem/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: epic-essay.com  
-   Link: <a href="https://www.epic-essay.com/blogs/counterarguments-in-academic-writing-how-to-address-opposing-views-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.epic-essay.com/blogs/counterarguments-in-academic-writing-how-to-address-opposing-views-effectively/</a>
+   Link:<a href="https://www.epic-essay.com/blogs/counterarguments-in-academic-writing-how-to-address-opposing-views-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.epic-essay.com/blogs/counterarguments-in-academic-writing-how-to-address-opposing-views-effectively/</a>

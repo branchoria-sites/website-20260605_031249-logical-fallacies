@@ -274,20 +274,20 @@ image: /assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appea
 
 ## Introduction
 
-An appeal to pity can feel highly relevant when a student is facing genuine hardship. Illness, family crises, financial pressure, bereavement, or other difficulties naturally invite compassion. The key question in reasoning, however, is not whether the hardship is real but whether it proves the specific claim being made. In grading disputes, this distinction is especially important. A student's difficult circumstances may justify support, extensions, accommodations, or alternative arrangements, but they do not automatically demonstrate that the required academic standard has been met. An appeal to pity becomes fallacious when sympathy is used as evidence for a conclusion that requires different evidence. In the language of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a [relevance]({{ 'relevance/' | relative_url }}) problem: the emotional facts may be true and important, yet still fail to establish the grading claim under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</span></span></span>
+An appeal to pity can feel highly relevant when a student is facing genuine hardship. Illness, family crises, financial pressure, bereavement, or other difficulties naturally invite compassion. The key question in reasoning, however, is not whether the hardship is real but whether it proves the specific claim being made. In grading disputes, this distinction is especially important. A student's difficult circumstances may justify support, extensions, accommodations, or alternative arrangements, but they do not automatically demonstrate that the required academic standard has been met. An appeal to pity becomes fallacious when sympathy is used as evidence for a conclusion that requires different evidence. In the language of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a [relevance]({{ 'relevance/' | relative_url }}) problem: the emotional facts may be true and important, yet still fail to establish the grading claim under discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appeals_grading_843f13-Illustration-1-dark.svg" | relative_url }}" alt="Pity Appeals illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appeals_grading_843f13-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appeals_grading_843f13-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Pity Feels Relevant
 
 Grading decisions concern real people, not abstract numbers. Because educational outcomes affect scholarships, careers, family expectations, and self-esteem, stories of hardship often seem inseparable from academic judgement.
 
-This reaction is understandable. Human beings are responsive to compassion, and emotional information can influence persuasion even when it does not directly address the issue being evaluated. Research on emotional framing and argument evaluation suggests that emotional content can make weak reasoning appear more convincing and can reduce people's ability to identify fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
+This reaction is understandable. Human beings are responsive to compassion, and emotional information can influence persuasion even when it does not directly address the issue being evaluated. Research on emotional framing and argument evaluation suggests that emotional content can make weak reasoning appear more convincing and can reduce people's ability to identify fallacies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
 
 Consider a student who says:
 
 > "Please raise my grade. My laptop was stolen, my car broke down, and I have had an awful semester."
 
-The circumstances may be genuine and unfortunate. Yet the grading question is whether the submitted work satisfies the criteria for the grade requested. The hardship explains why performance may have suffered, but it does not itself demonstrate that the work deserved a higher mark. This is why logic texts commonly use grade appeals as examples of the appeal to pity fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[Philosophy at HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">pens when people argue for special treatment on the basis of...Read more...</span></span></span>
+The circumstances may be genuine and unfortunate. Yet the grading question is whether the submitted work satisfies the criteria for the grade requested. The hardship explains why performance may have suffered, but it does not itself demonstrate that the work deserved a higher mark. This is why logic texts commonly use grade appeals as examples of the appeal to pity fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[Philosophy at HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">pens when people argue for special treatment on the basis of...Read more...</span></span></span>
 
 The emotional force of the story can create a sense that refusing the request would be harsh. However, "this person deserves sympathy" and "this work earned a higher grade" are different conclusions. The first may be true while the second remains unproven.
 
@@ -297,7 +297,7 @@ The emotional force of the story can create a sense that refusing the request wo
 
 The strongest relevance test asks what standard is actually being applied.
 
-If a course grade is based on demonstrated mastery, then the relevant evidence includes exam performance, assignment quality, participation requirements, or other stated assessment criteria. Hardship may explain the result, but explanation is not the same as justification. A reason can account for why something happened without proving that a different evaluation is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[Athabasca University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Athabasca University Press Chapter 15</span><span class="citation-popover-snippet">Fallacies of Emotional BiasThe fallacy of appeal to pity occurs when we attempt to evoke feelings of pity or compassion in order to cause...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span>
+If a course grade is based on demonstrated mastery, then the relevant evidence includes exam performance, assignment quality, participation requirements, or other stated assessment criteria. Hardship may explain the result, but explanation is not the same as justification. A reason can account for why something happened without proving that a different evaluation is correct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[Athabasca University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Athabasca University Press Chapter 15</span><span class="citation-popover-snippet">Fallacies of Emotional BiasThe fallacy of appeal to pity occurs when we attempt to evoke feelings of pity or compassion in order to cause...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span>
 
 This distinction becomes clearer when comparing different institutional responses:
 
@@ -305,7 +305,7 @@ Question being decidedRelevant evidenceShould the grade be changed?Quality of wo
 
 The same hardship can be highly relevant to one decision and largely irrelevant to another.
 
-For example, if university policy permits deadline extensions for documented illness, then evidence of illness is directly relevant. In that [context]({{ 'context/' | relative_url }}), appealing to hardship is not a fallacy because the hardship is part of the decision rule itself. The reasoning becomes fallacious only when the hardship is treated as proof of a claim that depends on different standards, such as whether an essay demonstrated the required level of analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/what-is-ad-misericordiam-1688966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Definition and Examples of Argumentum Ad Misericordiam</span><span class="citation-popover-snippet">Definition and Examples of Argumentum Ad MisericordiamMay 17, 2025 — When an appeal to sympathy or pity is highly exaggerated or irreleva...</span><span class="citation-popover-meta">Published: May 17, 2025</span></span></span>
+For example, if university policy permits deadline extensions for documented illness, then evidence of illness is directly relevant. In that [context]({{ 'context/' | relative_url }}), appealing to hardship is not a fallacy because the hardship is part of the decision rule itself. The reasoning becomes fallacious only when the hardship is treated as proof of a claim that depends on different standards, such as whether an essay demonstrated the required level of analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/what-is-ad-misericordiam-1688966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Definition and Examples of Argumentum Ad Misericordiam</span><span class="citation-popover-snippet">Definition and Examples of Argumentum Ad MisericordiamMay 17, 2025 — When an appeal to sympathy or pity is highly exaggerated or irreleva...</span><span class="citation-popover-meta">Published: May 17, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4hxidTI0kZQ" title="Informal Fallacies: Appeal to Pity (Ad misericordiam)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4hxidTI0kZQ" target="_blank" rel="noopener noreferrer">Informal Fallacies: Appeal to Pity (Ad misericordiam)</a></p><p class="youtube-embed-meta">Channel: Reasons to Believe &middot; Views: 4.3K &middot; Uploaded: April 2016 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4hxidTI0kZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4hxidTI0kZQ">Open on YouTube</a></p></div></div></div>
 
@@ -313,7 +313,7 @@ For example, if university policy permits deadline extensions for documented ill
 
 A common misunderstanding is that all emotional appeals are irrational. They are not.
 
-An appeal to pity becomes fallacious when it replaces evidence rather than supplementing it. Argumentation scholars and critical-thinking texts consistently note that appeals to compassion can be legitimate when compassion is relevant to the decision being made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> In educational settings, emotional information may be relevant when:
+An appeal to pity becomes fallacious when it replaces evidence rather than supplementing it. Argumentation scholars and critical-thinking texts consistently note that appeals to compassion can be legitimate when compassion is relevant to the decision being made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> In educational settings, emotional information may be relevant when:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,278 +369,278 @@ When confronted with a plea for a higher grade based primarily on hardship, a si
 
 </div>
 
-If the hardship supports a different conclusion than the one being argued for, the reasoning has drifted away from the issue under evaluation. That drift is the hallmark of an appeal to pity as a fallacy of relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAd Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of relevance.......</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</span></span></span>
+If the hardship supports a different conclusion than the one being argued for, the reasoning has drifted away from the issue under evaluation. That drift is the hallmark of an appeal to pity as a fallacy of relevance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAd Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of relevance.......</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</span></span></span>
 
 ## The Core Lesson
 
-Appeals to pity in grading disputes are persuasive because compassion matters. The mistake is not caring about hardship; the mistake is treating hardship as proof of a claim that must be established by academic evidence. Strong reasoning keeps these issues distinct. Sympathy may justify support, flexibility, or assistance, but a grade is earned by satisfying the criteria used to award it. When emotional considerations replace those criteria rather than informing a separate decision, the appeal to pity has crossed from compassion into fallacious reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[Philosophy at HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">pens when people argue for special treatment on the basis of...Read more...</span></span></span>
+Appeals to pity in grading disputes are persuasive because compassion matters. The mistake is not caring about hardship; the mistake is treating hardship as proof of a claim that must be established by academic evidence. Strong reasoning keeps these issues distinct. Sympathy may justify support, flexibility, or assistance, but a grade is earned by satisfying the criteria used to award it. When emotional considerations replace those criteria rather than informing a separate decision, the appeal to pity has crossed from compassion into fallacious reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[Philosophy at HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">pens when people argue for special treatment on the basis of...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GBIGUQKzCkE" title="Critical Thinking: The Fallacy of Appeal to Pity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GBIGUQKzCkE" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal to Pity</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 3.7K &middot; Uploaded: December 2014 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GBIGUQKzCkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GBIGUQKzCkE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Sympathy Does Not Prove the Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Sympathy Does Not Prove the Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Directly teaches relevance tests that separate emotional appeals from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches relevance tests that separate emotional appeals from evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Shows how conclusions should follow from evidence rather than sympathy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how conclusions should follow from evidence rather than sympathy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Includes discussion of relevance fallacies such as appeals to emotion and pity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of relevance fallacies such as appeals to emotion and pity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Explores reasoning mistakes that can distort judgment when emotions are involved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reasoning mistakes that can distort judgment when emotions are involved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pity-appeals-when-sympathy-does-not-prove-the-claim-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -656,7 +656,7 @@ Appeals to pity in grading disputes are persuasive because compassion matters. T
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -676,7 +676,7 @@ Appeals to pity in grading disputes are persuasive because compassion matters. T
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -708,7 +708,7 @@ Appeals to pity in grading disputes are persuasive because compassion matters. T
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ Appeals to pity in grading disputes are persuasive because compassion matters. T
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -796,129 +796,129 @@ Appeals to pity in grading disputes are persuasive because compassion matters. T
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scribbr.com  
    Title: appeal to pity  
-   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-pity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-pity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.09695</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.09695</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</p></details>
    Published: October 9, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: philosophy.hku.hk  
-   Link: <a href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/fallacy/list.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pens when people argue for special treatment on the basis of...Read more...</p></details>
+   Link:<a href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/fallacy/list.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pens when people argue for special treatment on the basis of...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thoughtco.com  
    Title: Thought Co Definition and Examples of Argumentum Ad Misericordiam  
-   Link: <a href="https://www.thoughtco.com/what-is-ad-misericordiam-1688966" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/what-is-ad-misericordiam-1688966</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples of Argumentum Ad MisericordiamMay 17, 2025 — When an appeal to sympathy or pity is highly exaggerated or irreleva...</p></details>
+   Link:<a href="https://www.thoughtco.com/what-is-ad-misericordiam-1688966" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/what-is-ad-misericordiam-1688966</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples of Argumentum Ad MisericordiamMay 17, 2025 — When an appeal to sympathy or pity is highly exaggerated or irreleva...</p></details>
    Published: May 17, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: read.aupress.ca  
    Title: Athabasca University Press Chapter 15  
-   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Emotional BiasThe fallacy of appeal to pity occurs when we attempt to evoke feelings of pity or compassion in order to cause...</p></details>
+   Link:<a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Emotional BiasThe fallacy of appeal to pity occurs when we attempt to evoke feelings of pity or compassion in order to cause...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/misery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/misery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: afterall.net  
    Title: appeal to pity  
-   Link: <a href="https://afterall.net/illogic/motive/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/motive/appeal-to-pity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illogic at Afterall.net1 Jan 2026 — In this fallacious argument it is implied that agreement should be forthcoming out of sympathy for th...</p></details>
+   Link:<a href="https://afterall.net/illogic/motive/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/motive/appeal-to-pity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illogic at Afterall.net1 Jan 2026 — In this fallacious argument it is implied that agreement should be forthcoming out of sympathy for th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: study.com  
    Title: Appeal to Pity Fallacy | Definition & Examples  
-   Link: <a href="https://study.com/academy/lesson/video/appeal-to-pity-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/appeal-to-pity-fallacy-definition-examples.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoThe appeal to pity fallacy (argumentum ad misericodiam) occurs when someone tries to win an argument by emphasizing unfortunate cons...</p></details>
+   Link:<a href="https://study.com/academy/lesson/video/appeal-to-pity-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/appeal-to-pity-fallacy-definition-examples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideoThe appeal to pity fallacy (argumentum ad misericodiam) occurs when someone tries to win an argument by emphasizing unfortunate cons...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: study.com  
    Title: Appeal to Pity Fallacy | Definition & Examples  
-   Link: <a href="https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LessonThe appeal to pity fallacy is a logical fallacy in which a person making an argument ignores the argument or fails to provide a rat...</p></details>
+   Link:<a href="https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LessonThe appeal to pity fallacy is a logical fallacy in which a person making an argument ignores the argument or fails to provide a rat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conceptions of fallacies are that they are false but...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conceptions of fallacies are that they are false but...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PityDescription: The attempt to distract from the truth of the conclusion by the use of pity. Logical Forms: Person 1 is accuse...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PityDescription: The attempt to distract from the truth of the conclusion by the use of pity. Logical Forms: Person 1 is accuse...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 226186090 Appeal to pity A case study of the argumentum ad misericordiam  
-   Link: <a href="https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Appeal to pity: A case study of the argumentum ad...Nov 29, 2020 — PDF | The appeal to pity, orargumentum ad misericordiam, has tr...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Appeal to pity: A case study of the argumentum ad...Nov 29, 2020 — PDF | The appeal to pity, orargumentum ad misericordiam, has tr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: coursehero.com  
    Title: 29288077 Define and describe the appeal to Pity argumentum ad  
-   Link: <a href="https://www.coursehero.com/tutors-problems/English/29288077-Define-and-describe-the-appeal-to-Pity-argumentum-ad/" target="_blank" rel="noopener noreferrer nofollow">https://www.coursehero.com/tutors-problems/English/29288077-Define-and-describe-the-appeal-to-Pity-argumentum-ad/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An appeal to pity or the argumentum ad misericordiam is a fallacy where someone tries to win certain support for an idea...Read more...</p></details>
+   Link:<a href="https://www.coursehero.com/tutors-problems/English/29288077-Define-and-describe-the-appeal-to-Pity-argumentum-ad/" target="_blank" rel="noopener noreferrer nofollow">https://www.coursehero.com/tutors-problems/English/29288077-Define-and-describe-the-appeal-to-Pity-argumentum-ad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An appeal to pity or the argumentum ad misericordiam is a fallacy where someone tries to win certain support for an idea...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/354151720/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/354151720/Appeal-to-Pity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ls to pity, [ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;), equivocation, composition, division...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/354151720/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/354151720/Appeal-to-Pity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ls to pity, [ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;), equivocation, composition, division...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: inquiresabound.wordpress.com  
    Title: argumentum ad misericordiam appeal to pity  
-   Link: <a href="https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Misericordiam (Appeal to Pity) - Meta/InquiresSep 5, 2021 — It is an appeal to [emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;), specifically pity, as a piece of evidence inst...</p></details>
+   Link:<a href="https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Misericordiam (Appeal to Pity) - Meta/InquiresSep 5, 2021 — It is an appeal to [emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;), specifically pity, as a piece of evidence inst...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/Appeal_to_Pity.html?id=X7JzWpRV4T0C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Appeal_to_Pity.html?id=X7JzWpRV4T0C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksAppeal to Pity: Argumentum ad MisericordiamAppeal to pity has frequently been exploited with amazing success as a deceptive t...</p></details>
+   Link:<a href="https://books.google.com/books/about/Appeal_to_Pity.html?id=X7JzWpRV4T0C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Appeal_to_Pity.html?id=X7JzWpRV4T0C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksAppeal to Pity: Argumentum ad MisericordiamAppeal to pity has frequently been exploited with amazing success as a deceptive t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: grammarly.com  
    Title: What Is the Appeal to Pity Fallacy?  
-   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-pity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/appeal-to-pity-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples12 Oct 2022 — The appeal to pity fallacy is the fallacy of supporting a position by attempting to provoke pity or...</p></details>
+   Link:<a href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-pity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/appeal-to-pity-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples12 Oct 2022 — The appeal to pity fallacy is the fallacy of supporting a position by attempting to provoke pity or...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: quillbot.com  
    Title: What Is Appeal to Pity Fallacy?  
-   Link: <a href="https://quillbot.com/blog/reasoning/appeal-to-pity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-pity-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; DefinitionJun 24, 2024 — The appeal to pity fallacy occurs when an argument attempts to persuade by evoking compassion rathe...</p></details>
+   Link:<a href="https://quillbot.com/blog/reasoning/appeal-to-pity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-pity-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; DefinitionJun 24, 2024 — The appeal to pity fallacy occurs when an argument attempts to persuade by evoking compassion rathe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ses.edu  
    Title: argumentum ad misericoriam  
-   Link: <a href="https://ses.edu/argumentum-ad-misericoriam/" target="_blank" rel="noopener noreferrer nofollow">https://ses.edu/argumentum-ad-misericoriam/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 14, 2017 — The person who appeals to pity is exploiting the feelings of the hearer rather than putting forth convincing evidence that...</p></details>
+   Link:<a href="https://ses.edu/argumentum-ad-misericoriam/" target="_blank" rel="noopener noreferrer nofollow">https://ses.edu/argumentum-ad-misericoriam/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 14, 2017 — The person who appeals to pity is exploiting the feelings of the hearer rather than putting forth convincing evidence that...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pressbooks.pub  
    Title: chapter 12 rhetorical appeals and fallacies  
-   Link: <a href="https://pressbooks.pub/centralarizonacollege/chapter/chapter-12-rhetorical-appeals-and-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/centralarizonacollege/chapter/chapter-12-rhetorical-appeals-and-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stirring emotions in an audience is a way to get them involved in the argument, and involvement can create more...</p></details>
+   Link:<a href="https://pressbooks.pub/centralarizonacollege/chapter/chapter-12-rhetorical-appeals-and-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/centralarizonacollege/chapter/chapter-12-rhetorical-appeals-and-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stirring emotions in an audience is a way to get them involved in the argument, and involvement can create more...</p></details>

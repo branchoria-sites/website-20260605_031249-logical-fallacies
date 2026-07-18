@@ -277,7 +277,7 @@ image: /assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_revie
 Online review sites can be useful warning systems. A cluster of complaints about delayed deliveries, billing errors, defective products, or poor customer service may reveal a genuine problem that deserves attention. The mistake arises when people assume that visible reviews automatically represent the experiences of all customers.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-1-dark.svg" | relative_url }}" alt="Review Bias illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is a classic form of weak-sample reasoning. Most review platforms rely on voluntary participation: customers decide for themselves whether to post. Because the people who choose to respond often differ from those who remain silent, the resulting sample may not reflect the broader customer population. Researchers describe this as voluntary response bias or self-selection bias, where individuals with stronger feelings are more likely to participate than those with neutral experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/self-selection-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">self selection bias</span><span class="citation-popover-snippet">What Is Self-Selection Bias? &#124; Definition &amp; ExampleNov 16, 2022 — Self-selection bias refers to bias arising in situations where i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/methodology/sampling-methods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">sampling methods</span><span class="citation-popover-snippet">Types, Techniques &amp; ExamplesSep 19, 2019 — Voluntary response samples are always at least somewhat biased, as some people will inherently...</span></span></span>
+This is a classic form of weak-sample reasoning. Most review platforms rely on voluntary participation: customers decide for themselves whether to post. Because the people who choose to respond often differ from those who remain silent, the resulting sample may not reflect the broader customer population. Researchers describe this as voluntary response bias or self-selection bias, where individuals with stronger feelings are more likely to participate than those with neutral experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/self-selection-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">self selection bias</span><span class="citation-popover-snippet">What Is Self-Selection Bias? &#124; Definition &amp; ExampleNov 16, 2022 — Self-selection bias refers to bias arising in situations where i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/methodology/sampling-methods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">sampling methods</span><span class="citation-popover-snippet">Types, Techniques &amp; ExamplesSep 19, 2019 — Voluntary response samples are always at least somewhat biased, as some people will inherently...</span></span></span>
 
 In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the danger is not reading reviews. The danger is drawing sweeping conclusions from a group of reviewers whose relationship to the full customer base is unknown.
 
@@ -285,7 +285,7 @@ In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'log
 
 Review sites rarely collect opinions from a randomly selected set of customers. Instead, they collect opinions from people motivated enough to leave a review.
 
-This matters because motivation is not evenly distributed. Research on online reviewing has repeatedly found that consumers with especially positive or especially negative experiences are more likely to post, while those with ordinary experiences often remain silent. As a result, review data can over-represent strong reactions and under-represent routine ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/338850994_Customer_Motivation_and_Response_Bias_in_Online_Reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Customer Motivation and Response Bias in Online ReviewsThe voluntary nature of online customer review platforms self-selects customers wi...</span></span></span>
+This matters because motivation is not evenly distributed. Research on online reviewing has repeatedly found that consumers with especially positive or especially negative experiences are more likely to post, while those with ordinary experiences often remain silent. As a result, review data can over-represent strong reactions and under-represent routine ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/338850994_Customer_Motivation_and_Response_Bias_in_Online_Reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Customer Motivation and Response Bias in Online ReviewsThe voluntary nature of online customer review platforms self-selects customers wi...</span></span></span>
 
 The mechanism is straightforward:
 
@@ -297,9 +297,9 @@ The mechanism is straightforward:
 
 </div>
 
-The visible review population therefore differs from the full customer population. This is the essence of self-selection bias: participants choose themselves, and that choice is related to the thing being measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/bias-in-research/self-selection-bias-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Self-Selection Bias?</span><span class="citation-popover-snippet">Definition &amp; Example - Scribbr16 Nov 2022 — Self-selection bias refers to bias arising in situations where individuals are allowed to c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/self-selection-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">self selection bias</span><span class="citation-popover-snippet">What Is Self-Selection Bias? &#124; Definition &amp; ExampleNov 16, 2022 — Self-selection bias refers to bias arising in situations where i...</span></span></span>
+The visible review population therefore differs from the full customer population. This is the essence of self-selection bias: participants choose themselves, and that choice is related to the thing being measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/bias-in-research/self-selection-bias-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Self-Selection Bias?</span><span class="citation-popover-snippet">Definition &amp; Example - Scribbr16 Nov 2022 — Self-selection bias refers to bias arising in situations where individuals are allowed to c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/self-selection-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">self selection bias</span><span class="citation-popover-snippet">What Is Self-Selection Bias? &#124; Definition &amp; ExampleNov 16, 2022 — Self-selection bias refers to bias arising in situations where i...</span></span></span>
 
-The result can be misleading in two different directions. Some platforms may accumulate disproportionately negative reports because dissatisfied customers are more motivated to complain. Other platforms may display unusually positive ratings because satisfied customers are encouraged to review while unhappy customers disengage or leave without commenting. Researchers studying online reviews have documented multiple forms of selection bias rather than a single universal pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/19389655231223364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing the Bias in Online Reviews Using Propensity...8 Jan 2024 — A common strategy to mitigate this bias is increasing t...</span></span></span>
+The result can be misleading in two different directions. Some platforms may accumulate disproportionately negative reports because dissatisfied customers are more motivated to complain. Other platforms may display unusually positive ratings because satisfied customers are encouraged to review while unhappy customers disengage or leave without commenting. Researchers studying online reviews have documented multiple forms of selection bias rather than a single universal pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/19389655231223364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing the Bias in Online Reviews Using Propensity...8 Jan 2024 — A common strategy to mitigate this bias is increasing t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rf-fIpB4D50" title="Sampling Methods and Bias with Surveys: Crash Course Statistics #10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rf-fIpB4D50" target="_blank" rel="noopener noreferrer">Sampling Methods and Bias with Surveys: Crash Course Statistics #10</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 432.3K &middot; Uploaded: March 2018 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rf-fIpB4D50" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rf-fIpB4D50">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +309,7 @@ A common mistake is to treat review counts as if they were survey results.
 
 Suppose a business serves 500,000 customers in a year and receives 1,000 negative reviews online. Those reviews may indicate a real issue. They may even reveal a serious issue. What they do not automatically establish is that most customers had the same [experience]({{ 'experience/' | relative_url }}).
 
-Without knowing how reviewers differ from non-reviewers, broad population claims become difficult to justify. Statisticians and survey researchers routinely warn that voluntary samples have limited ability to support generalisations about an entire population because participation itself introduces systematic differences between respondents and non-respondents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inmoment.com/blog/voluntary-response-bias-in-sampling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmoment.com">[InMoment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmoment.com</span><span class="citation-popover-title">voluntary response bias in sampling</span><span class="citation-popover-snippet">3 Jan 2024 — Voluntary response bias refers to how allowing your sample to self-select skews your data, and you don&#x27;t actually get result...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.quirks.com/glossary/voluntary-response-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quirks.com">[3quirks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quirks.com</span><span class="citation-popover-snippet">to a sample that may not accurately represent the...Read more...</span></span></span> Scribbr Review sites are therefore stronger at answering some questions than others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/self-selection-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">self selection bias</span><span class="citation-popover-snippet">What Is Self-Selection Bias? &#124; Definition &amp; ExampleNov 16, 2022 — Self-selection bias refers to bias arising in situations where i...</span></span></span>
+Without knowing how reviewers differ from non-reviewers, broad population claims become difficult to justify. Statisticians and survey researchers routinely warn that voluntary samples have limited ability to support generalisations about an entire population because participation itself introduces systematic differences between respondents and non-respondents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inmoment.com/blog/voluntary-response-bias-in-sampling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmoment.com">[InMoment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmoment.com</span><span class="citation-popover-title">voluntary response bias in sampling</span><span class="citation-popover-snippet">3 Jan 2024 — Voluntary response bias refers to how allowing your sample to self-select skews your data, and you don&#x27;t actually get result...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.quirks.com/glossary/voluntary-response-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quirks.com">[3quirks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quirks.com</span><span class="citation-popover-snippet">to a sample that may not accurately represent the...Read more...</span></span></span> Scribbr Review sites are therefore stronger at answering some questions than others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/self-selection-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">self selection bias</span><span class="citation-popover-snippet">What Is Self-Selection Bias? &#124; Definition &amp; ExampleNov 16, 2022 — Self-selection bias refers to bias arising in situations where i...</span></span></span>
 
 **They can often help answer:**
 
@@ -338,7 +338,7 @@ The distinction is important. A review site may provide valuable evidence about 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-2-dark.svg" | relative_url }}" alt="Review Bias illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Many Complaints Still Matter
 
-Recognising voluntary response bias does not mean dismissing complaints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inmoment.com/blog/voluntary-response-bias-in-sampling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmoment.com">[inmoment.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmoment.com</span><span class="citation-popover-title">voluntary response bias in sampling</span><span class="citation-popover-snippet">3 Jan 2024 — Voluntary response bias refers to how allowing your sample to self-select skews your data, and you don&#x27;t actually get result...</span></span></span>
+Recognising voluntary response bias does not mean dismissing complaints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inmoment.com/blog/voluntary-response-bias-in-sampling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmoment.com">[inmoment.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmoment.com</span><span class="citation-popover-title">voluntary response bias in sampling</span><span class="citation-popover-snippet">3 Jan 2024 — Voluntary response bias refers to how allowing your sample to self-select skews your data, and you don&#x27;t actually get result...</span></span></span>
 
 A different error occurs when businesses or supporters wave away every criticism by saying that “people only review when they are unhappy”. While voluntary response bias limits what can be inferred, it does not make complaints meaningless.
 
@@ -354,13 +354,13 @@ A hasty generalisation would be:
 
 The first claim stays close to the available evidence. The second leaps beyond it.
 
-This distinction mirrors a broader principle in reasoning: evidence may justify concern, further investigation, or a tentative hypothesis long before it justifies a sweeping conclusion about an entire population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSampling Bias and Potential Threats to External Validity</span><span class="citation-popover-snippet">Bias and Potential Threats to External Validity - PMCby SW Chen · 2021 · Cited by 78 — Findings demonstrate that sampling bias can be eas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</span></span></span>
+This distinction mirrors a broader principle in reasoning: evidence may justify concern, further investigation, or a tentative hypothesis long before it justifies a sweeping conclusion about an entire population.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSampling Bias and Potential Threats to External Validity</span><span class="citation-popover-snippet">Bias and Potential Threats to External Validity - PMCby SW Chen · 2021 · Cited by 78 — Findings demonstrate that sampling bias can be eas...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dyZo-zCLJEE" title="Sampling Techniques Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dyZo-zCLJEE" target="_blank" rel="noopener noreferrer">Sampling Techniques Part 1</a></p><p class="youtube-embed-meta">Channel: ProfRobBob &middot; Views: 17.3K &middot; Uploaded: October 2011 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dyZo-zCLJEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dyZo-zCLJEE">Open on YouTube</a></p></div></div></div>
 
 ## How to Read Clusters of Complaints Cautiously
 
-When evaluating online reviews, a few questions can help prevent weak-sample reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/571301/EPRS_BRI%282015%29571301_EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europarl.europa.eu">[europarl.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europarl.europa.eu</span><span class="citation-popover-title">eu Online consumer reviews</span><span class="citation-popover-snippet">consumer reviews - European ParliamentOnline consumer review sites and platforms are tools that are widely used by consumers and are beco...</span></span></span>
+When evaluating online reviews, a few questions can help prevent weak-sample reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/571301/EPRS_BRI%282015%29571301_EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europarl.europa.eu">[europarl.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europarl.europa.eu</span><span class="citation-popover-title">eu Online consumer reviews</span><span class="citation-popover-snippet">consumer reviews - European ParliamentOnline consumer review sites and platforms are tools that are widely used by consumers and are beco...</span></span></span>
 
 ### How many customers are invisible?
 
@@ -370,7 +370,7 @@ The absence of information about non-reviewers is often the central limitation o
 
 ### Are the complaints independent?
 
-Ten complaints describing the same issue from different people may be more informative than ten complaints repeating a story that has already gone viral. Social influence can shape what reviewers notice and discuss, potentially amplifying particular themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</span></span></span>
+Ten complaints describing the same issue from different people may be more informative than ten complaints repeating a story that has already gone viral. Social influence can shape what reviewers notice and discuss, potentially amplifying particular themes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-3-dark.svg" | relative_url }}" alt="Review Bias illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Is there evidence beyond the reviews?
@@ -381,7 +381,7 @@ When outside evidence points in the same direction as review patterns, confidenc
 
 ### Are reviewers representative of typical customers?
 
-Different platforms attract different audiences. A specialist review forum, a complaints website, and a retailer's review page may each draw different kinds of users. Even very large numbers of reviews can remain unrepresentative if the same kinds of people are consistently over-represented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publichealthtoxicology.com/Methodological-considerations-for-the-design-and-implementation-of-reliable-and-valid%2C141977%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthtoxicology.com">[publichealthtoxicology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthtoxicology.com</span><span class="citation-popover-snippet">September 14, 2021 — A low response rate (or small sample size) does not automatically signal a selection bias problem just as a high res...</span><span class="citation-popover-meta">Published: September 14, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSampling Bias and Potential Threats to External Validity</span><span class="citation-popover-snippet">Bias and Potential Threats to External Validity - PMCby SW Chen · 2021 · Cited by 78 — Findings demonstrate that sampling bias can be eas...</span></span></span>
+Different platforms attract different audiences. A specialist review forum, a complaints website, and a retailer's review page may each draw different kinds of users. Even very large numbers of reviews can remain unrepresentative if the same kinds of people are consistently over-represented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publichealthtoxicology.com/Methodological-considerations-for-the-design-and-implementation-of-reliable-and-valid%2C141977%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthtoxicology.com">[publichealthtoxicology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthtoxicology.com</span><span class="citation-popover-snippet">September 14, 2021 — A low response rate (or small sample size) does not automatically signal a selection bias problem just as a high res...</span><span class="citation-popover-meta">Published: September 14, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSampling Bias and Potential Threats to External Validity</span><span class="citation-popover-snippet">Bias and Potential Threats to External Validity - PMCby SW Chen · 2021 · Cited by 78 — Findings demonstrate that sampling bias can be eas...</span></span></span>
 
 ## The Fallacy Behind “Everyone Says It’s Terrible”
 
@@ -394,269 +394,269 @@ Review sites can reveal genuine defects, recurring failures, and important consu
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wFrX5wolqP8" title="Self-selection bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wFrX5wolqP8" target="_blank" rel="noopener noreferrer">Self-selection bias</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 5.9K &middot; Uploaded: January 2016 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wFrX5wolqP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wFrX5wolqP8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Bad Reviews Show the Whole Picture?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Bad Reviews Show the Whole Picture?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Explains sampling bias and representativeness relevant to review sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sampling bias and representativeness relevant to review sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows how selective data can create misleading impressions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how selective data can create misleading impressions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases that affect interpretation of customer feedback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases that affect interpretation of customer feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages looking beyond visible examples before generalizing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages looking beyond visible examples before generalizing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d3521ce73baa7710ac2.jpg' | relative_url }}" alt="Listing image for Business Motivation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Business Motivation Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d3521ce73baa7710ac2.jpg' | relative_url }}" alt="Listing image for Business Motivation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Business Motivation Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation OCR Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3966318cec1acd2f6896.jpg' | relative_url }}" alt="Listing image for Business Motivation OCR Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Business Motivation OCR Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation OCR Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3966318cec1acd2f6896.jpg' | relative_url }}" alt="Listing image for Business Motivation OCR Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Business Motivation OCR Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CEO Business Motivation Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ddf9563185aed3b4372f.jpg' | relative_url }}" alt="Listing image for CEO Business Motivation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">CEO Business Motivation Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CEO Business Motivation Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ddf9563185aed3b4372f.jpg' | relative_url }}" alt="Listing image for CEO Business Motivation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">CEO Business Motivation Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivation Business Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a738a179b3b29621c43a.jpg' | relative_url }}" alt="Listing image for Motivation Business Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivation Business Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivation Business Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a738a179b3b29621c43a.jpg' | relative_url }}" alt="Listing image for Motivation Business Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivation Business Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=review-bias-do-bad-reviews-show-the-whole-picture-logical-fallacies-business-motivation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -672,7 +672,7 @@ Review sites can reveal genuine defects, recurring failures, and important consu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -692,7 +692,7 @@ Review sites can reveal genuine defects, recurring failures, and important consu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -724,7 +724,7 @@ Review sites can reveal genuine defects, recurring failures, and important consu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ Review sites can reveal genuine defects, recurring failures, and important consu
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -812,157 +812,157 @@ Review sites can reveal genuine defects, recurring failures, and important consu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scribbr.com  
    Title: self selection bias  
-   Link: <a href="https://www.scribbr.com/research-bias/self-selection-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/self-selection-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Self-Selection Bias? | Definition &amp; ExampleNov 16, 2022 — Self-selection bias refers to bias arising in situations where i...</p></details>
+   Link:<a href="https://www.scribbr.com/research-bias/self-selection-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/self-selection-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Self-Selection Bias? | Definition &amp; ExampleNov 16, 2022 — Self-selection bias refers to bias arising in situations where i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: quirks.com  
-   Link: <a href="https://www.quirks.com/glossary/voluntary-response-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.quirks.com/glossary/voluntary-response-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to a sample that may not accurately represent the...Read more...</p></details>
+   Link:<a href="https://www.quirks.com/glossary/voluntary-response-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.quirks.com/glossary/voluntary-response-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to a sample that may not accurately represent the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378720625000448</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in online reviews: The roles played by consumers and...by P Jinna · 2025 · Cited by 2 — The characteristics and behavi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/338850994_Customer_Motivation_and_Response_Bias_in_Online_Reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338850994_Customer_Motivation_and_Response_Bias_in_Online_Reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Customer Motivation and Response Bias in Online ReviewsThe voluntary nature of online customer review platforms self-selects customers wi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/338850994_Customer_Motivation_and_Response_Bias_in_Online_Reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338850994_Customer_Motivation_and_Response_Bias_in_Online_Reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Customer Motivation and Response Bias in Online ReviewsThe voluntary nature of online customer review platforms self-selects customers wi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribbr.com  
    Title: sampling methods  
-   Link: <a href="https://www.scribbr.com/methodology/sampling-methods/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/methodology/sampling-methods/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types, Techniques &amp; ExamplesSep 19, 2019 — Voluntary response samples are always at least somewhat biased, as some people will inherently...</p></details>
+   Link:<a href="https://www.scribbr.com/methodology/sampling-methods/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/methodology/sampling-methods/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types, Techniques &amp; ExamplesSep 19, 2019 — Voluntary response samples are always at least somewhat biased, as some people will inherently...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: inmoment.com  
    Title: voluntary response bias in sampling  
-   Link: <a href="https://inmoment.com/blog/voluntary-response-bias-in-sampling/" target="_blank" rel="noopener noreferrer nofollow">https://inmoment.com/blog/voluntary-response-bias-in-sampling/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jan 2024 — Voluntary response bias refers to how allowing your sample to self-select skews your data, and you don&#x27;t actually get result...</p></details>
+   Link:<a href="https://inmoment.com/blog/voluntary-response-bias-in-sampling/" target="_blank" rel="noopener noreferrer nofollow">https://inmoment.com/blog/voluntary-response-bias-in-sampling/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jan 2024 — Voluntary response bias refers to how allowing your sample to self-select skews your data, and you don&#x27;t actually get result...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is possible if the study was...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is possible if the study was...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Sampling Bias  
-   Link: <a href="https://www.sciencedirect.com/topics/mathematics/sampling-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/mathematics/sampling-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sampling Bias - an overviewSampling bias is defined as the skewing of a sample away from the population it represents, resulting from err...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/mathematics/sampling-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/mathematics/sampling-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sampling Bias - an overviewSampling bias is defined as the skewing of a sample away from the population it represents, resulting from err...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: publichealthtoxicology.com  
-   Link: <a href="https://www.publichealthtoxicology.com/Methodological-considerations-for-the-design-and-implementation-of-reliable-and-valid%2C141977%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.publichealthtoxicology.com/Methodological-considerations-for-the-design-and-implementation-of-reliable-and-valid%2C141977%2C0%2C2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 2021 — A low response rate (or small sample size) does not automatically signal a selection bias problem just as a high res...</p></details>
+   Link:<a href="https://www.publichealthtoxicology.com/Methodological-considerations-for-the-design-and-implementation-of-reliable-and-valid%2C141977%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.publichealthtoxicology.com/Methodological-considerations-for-the-design-and-implementation-of-reliable-and-valid%2C141977%2C0%2C2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 2021 — A low response rate (or small sample size) does not automatically signal a selection bias problem just as a high res...</p></details>
    Published: September 14, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSampling Bias and Potential [Threats](&#123;&#123; 'threats/' | relative_url &#125;&#125;) to External Validity  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias and Potential Threats to External Validity - PMCby SW Chen · 2021 · Cited by 78 — Findings demonstrate that sampling bias can be eas...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias and Potential Threats to External Validity - PMCby SW Chen · 2021 · Cited by 78 — Findings demonstrate that sampling bias can be eas...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2772766125000278" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772766125000278</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The volunteer participation paradox: Ethical tensions...by T Hiratsuka · 2025 · Cited by 19 — This article explores manifestations of th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2772766125000278" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772766125000278</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The volunteer participation paradox: Ethical tensions...by T Hiratsuka · 2025 · Cited by 19 — This article explores manifestations of th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2772906024005089" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772906024005089</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to choose a sampling technique and determine...by SK Ahmed · 2024 · Cited by 858 — This article offers practical guidance for resear...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2772906024005089" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772906024005089</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to choose a sampling technique and determine...by SK Ahmed · 2024 · Cited by 858 — This article offers practical guidance for resear...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/315541736_The_impact_of_non-response_bias_due_to_sampling_in_public_health_studies_A_comparison_of_voluntary_versus_mandatory_recruitment_in_a_Dutch_national_survey_on_adolescent_health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315541736_The_impact_of_non-response_bias_due_to_sampling_in_public_health_studies_A_comparison_of_voluntary_versus_mandatory_recruitment_in_a_Dutch_national_survey_on_adolescent_health</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The impact of non-response bias due to sampling in...16 Mar 2017 — This study examines the extent to which prevalence estimates of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/315541736_The_impact_of_non-response_bias_due_to_sampling_in_public_health_studies_A_comparison_of_voluntary_versus_mandatory_recruitment_in_a_Dutch_national_survey_on_adolescent_health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315541736_The_impact_of_non-response_bias_due_to_sampling_in_public_health_studies_A_comparison_of_voluntary_versus_mandatory_recruitment_in_a_Dutch_national_survey_on_adolescent_health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The impact of non-response bias due to sampling in...16 Mar 2017 — This study examines the extent to which prevalence estimates of...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: Understanding and Overcoming Biases in Customer Reviews  
-   Link: <a href="https://www.researchgate.net/profile/Edward-Malthouse/publication/301879681_Understanding_and_Overcoming_Biases_in_Customer_Reviews/links/573736b308ae9ace840bf0b1/Understanding-and-Overcoming-Biases-in-Customer-Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Edward-Malthouse/publication/301879681_Understanding_and_Overcoming_Biases_in_Customer_Reviews/links/573736b308ae9ace840bf0b1/Understanding-and-Overcoming-Biases-in-Customer-Reviews.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Mar 2016 — Anderson (1998) found that dissatisfied customers are more likely to be vocal about their dissatisfaction than satisfied cu...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Edward-Malthouse/publication/301879681_Understanding_and_Overcoming_Biases_in_Customer_Reviews/links/573736b308ae9ace840bf0b1/Understanding-and-Overcoming-Biases-in-Customer-Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Edward-Malthouse/publication/301879681_Understanding_and_Overcoming_Biases_in_Customer_Reviews/links/573736b308ae9ace840bf0b1/Understanding-and-Overcoming-Biases-in-Customer-Reviews.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>22 Mar 2016 — Anderson (1998) found that dissatisfied customers are more likely to be vocal about their dissatisfaction than satisfied cu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribbr.co.uk  
    Title: Scribbr What Is Self-Selection Bias?  
-   Link: <a href="https://www.scribbr.co.uk/bias-in-research/self-selection-bias-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/bias-in-research/self-selection-bias-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Example - Scribbr16 Nov 2022 — Self-selection bias refers to bias arising in situations where individuals are allowed to c...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/bias-in-research/self-selection-bias-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/bias-in-research/self-selection-bias-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Example - Scribbr16 Nov 2022 — Self-selection bias refers to bias arising in situations where individuals are allowed to c...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: omniconvert.com  
    Title: voluntary response bias  
-   Link: <a href="https://www.omniconvert.com/what-is/voluntary-response-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.omniconvert.com/what-is/voluntary-response-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Voluntary Response BIasJun 7, 2025 — Voluntary response bias occurs when individuals who feel strongly about a subject are more l...</p></details>
+   Link:<a href="https://www.omniconvert.com/what-is/voluntary-response-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.omniconvert.com/what-is/voluntary-response-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Voluntary Response BIasJun 7, 2025 — Voluntary response bias occurs when individuals who feel strongly about a subject are more l...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/19389655231223364" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/19389655231223364</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReducing the Bias in Online Reviews Using Propensity...8 Jan 2024 — A common strategy to mitigate this bias is increasing t...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/19389655231223364" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/19389655231223364</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReducing the Bias in Online Reviews Using Propensity...8 Jan 2024 — A common strategy to mitigate this bias is increasing t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: europarl.europa.eu  
    Title: eu Online consumer reviews  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/571301/EPRS_BRI%282015%29571301_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/571301/EPRS_BRI%282015%29571301_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>consumer reviews - European ParliamentOnline consumer review sites and platforms are tools that are widely used by consumers and are beco...</p></details>
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/571301/EPRS_BRI%282015%29571301_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/571301/EPRS_BRI%282015%29571301_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>consumer reviews - European ParliamentOnline consumer review sites and platforms are tools that are widely used by consumers and are beco...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3656246_code937168.pdf?abstractid=3656246&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3656246_code937168.pdf?abstractid=3656246&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com1 Online Review Solicitations Reduce Extremity Bias in...Finally, I provide evidence that review solicitations for the company w...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3656246_code937168.pdf?abstractid=3656246&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3656246_code937168.pdf?abstractid=3656246&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com1 Online Review Solicitations Reduce Extremity Bias in...Finally, I provide evidence that review solicitations for the company w...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: uca.edu  
-   Link: <a href="https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Sampling TechniquesThese are important questions. Each of the sampling techniques described in this chapter has advantages and...</p></details>
+   Link:<a href="https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Sampling TechniquesThese are important questions. Each of the sampling techniques described in this chapter has advantages and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: web.ma.utexas.edu  
-   Link: <a href="https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html" target="_blank" rel="noopener noreferrer nofollow">https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sampling and ExtrapolationOften, voluntary response samples oversample people who have strong opinions and undersample people who don&#x27;t c...</p></details>
+   Link:<a href="https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html" target="_blank" rel="noopener noreferrer nofollow">https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sampling and ExtrapolationOften, voluntary response samples oversample people who have strong opinions and undersample people who don&#x27;t c...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: surveymonkey.com  
-   Link: <a href="https://www.surveymonkey.com/market-research/resources/sampling-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.surveymonkey.com/market-research/resources/sampling-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sampling Bias And How To Avoid ItSampling bias is a type of survey bias that occurs when a research study does not use a representative s...</p></details>
+   Link:<a href="https://www.surveymonkey.com/market-research/resources/sampling-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.surveymonkey.com/market-research/resources/sampling-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sampling Bias And How To Avoid ItSampling bias is a type of survey bias that occurs when a research study does not use a representative s...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: statisticshowto.com  
-   Link: <a href="https://www.statisticshowto.com/voluntary-response-sample/" target="_blank" rel="noopener noreferrer nofollow">https://www.statisticshowto.com/voluntary-response-sample/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voluntary Response Sample in Statistics: DefinitionA voluntary response sample is a sample made up of volunteers. Compared to a random sa...</p></details>
+   Link:<a href="https://www.statisticshowto.com/voluntary-response-sample/" target="_blank" rel="noopener noreferrer nofollow">https://www.statisticshowto.com/voluntary-response-sample/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voluntary Response Sample in Statistics: DefinitionA voluntary response sample is a sample made up of volunteers. Compared to a random sa...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: GOV.UK  
    Title: main report cdei review into bias in algorithmic decision making  
-   Link: <a href="https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>into bias in algorithmic decision-making27 Nov 2020 — Some forms of bias constitute discrimination under the Equality Act 2010, namely wh...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>into bias in algorithmic decision-making27 Nov 2020 — Some forms of bias constitute discrimination under the Equality Act 2010, namely wh...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Rf-fIpB4D50" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rf-fIpB4D50</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sampling Methods and Bias with Surveys: Crash Course Statistics #10March 28, 2018 — distribute, they&#x27;re also susceptible to bias and error...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rf-fIpB4D50" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rf-fIpB4D50</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sampling Methods and Bias with Surveys: Crash Course Statistics #10March 28, 2018 — distribute, they&#x27;re also susceptible to bias and error...</p></details>
    Published: March 28, 2018  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dixa.com  
-   Link: <a href="https://www.dixa.com/blog/3-important-statistics-that-show-how-reviews-influence-consumers/" target="_blank" rel="noopener noreferrer nofollow">https://www.dixa.com/blog/3-important-statistics-that-show-how-reviews-influence-consumers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>their purchasing decisions and reduces doubts, leading to a higher conversion...Read more...</p></details>
+   Link:<a href="https://www.dixa.com/blog/3-important-statistics-that-show-how-reviews-influence-consumers/" target="_blank" rel="noopener noreferrer nofollow">https://www.dixa.com/blog/3-important-statistics-that-show-how-reviews-influence-consumers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>their purchasing decisions and reduces doubts, leading to a higher conversion...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nielsen.com  
-   Link: <a href="https://www.nielsen.com/insights/2012/consumer-trust-in-online-social-and-mobile-[advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.nielsen.com/insights/2012/consumer-trust-in-online-social-and-mobile-[advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations from friends and family, above all other forms of advertising.Read more...</p></details>
+   Link:<a href="https://www.nielsen.com/insights/2012/consumer-trust-in-online-social-and-mobile-[advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.nielsen.com/insights/2012/consumer-trust-in-online-social-and-mobile-[advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations from friends and family, above all other forms of advertising.Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cronfa.swan.ac.uk  
    Title: swan.ac.uk Why consumers do not provide online reviews?  
-   Link: <a href="https://cronfa.swan.ac.uk/Record/cronfa55632/Download/55632__18931__d3d723612d3242a9829ecc1c3203f7d5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swan.ac.uk/Record/cronfa55632/Download/55632__18931__d3d723612d3242a9829ecc1c3203f7d5.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Doneddu · Cited by 1 — I think that companies should let people know that their views count, because I think most people think...</p></details>
+   Link:<a href="https://cronfa.swan.ac.uk/Record/cronfa55632/Download/55632__18931__d3d723612d3242a9829ecc1c3203f7d5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swan.ac.uk/Record/cronfa55632/Download/55632__18931__d3d723612d3242a9829ecc1c3203f7d5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Doneddu · Cited by 1 — I think that companies should let people know that their views count, because I think most people think...</p></details>

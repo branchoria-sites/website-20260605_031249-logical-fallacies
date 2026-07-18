@@ -501,14 +501,14 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-overview-
 
 ## Introduction
 
-No True Scotsman is the fallacy of protecting a general claim by moving the definition of the group after a counterexample appears. The pattern is simple: someone says “No member of this group does X”; a real member of the group is shown doing X; the speaker replies that the person is not a “true”, “real”, “genuine” or “proper” member after all. The problem is not that definitions can never be refined. The problem is that the refinement arrives just in time to save the claim, with no independent test for who counts. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because it turns evidence into something the claim can always outrun. Instead of learning from counterexamples, the argument quietly changes the membership rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
+No True Scotsman is the fallacy of protecting a general claim by moving the definition of the group after a counterexample appears. The pattern is simple: someone says “No member of this group does X”; a real member of the group is shown doing X; the speaker replies that the person is not a “true”, “real”, “genuine” or “proper” member after all. The problem is not that definitions can never be refined. The problem is that the refinement arrives just in time to save the claim, with no independent test for who counts. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because it turns evidence into something the claim can always outrun. Instead of learning from counterexamples, the argument quietly changes the membership rules.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-overview.webp" | relative_url }}" alt="Overview image for No True" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Category Gets Redefined
 
-The classic example is attributed to philosopher Antony Flew: “No Scotsman puts sugar on his porridge.” When Angus is offered as a Scotsman who does exactly that, the reply becomes “No true Scotsman puts sugar on his porridge.” The word “true” does the argumentative work. It does not provide a census rule, legal definition, cultural criterion or evidence about Scottish eating habits. It merely protects the original generalisation from a case that would otherwise weaken it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+The classic example is attributed to philosopher Antony Flew: “No Scotsman puts sugar on his porridge.” When Angus is offered as a Scotsman who does exactly that, the reply becomes “No true Scotsman puts sugar on his porridge.” The word “true” does the argumentative work. It does not provide a census rule, legal definition, cultural criterion or evidence about Scottish eating habits. It merely protects the original generalisation from a case that would otherwise weaken it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
-This is why No True Scotsman is often called an “appeal to purity”. The speaker treats the group as if its “real” members must preserve the quality being defended. A counterexample is not answered; it is expelled. The move is especially tempting where group identity is emotionally important: political camps, religions, fandoms, professions, nations, schools of thought and moral movements. “No real scientist would say that”, “no genuine patriot would object”, or “no true supporter would criticise the leader” may be valid only if there is a prior, defensible standard for the group. Without that standard, the phrase works as a gatekeeping device rather than a reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">how to spot the no true scotsman fallacy</span><span class="citation-popover-snippet">Logically FallaciousHow to Spot the No True Scotsman Fallacy16 May 2026 — If you want to spot the No True Scotsman fallacy in arguments...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+This is why No True Scotsman is often called an “appeal to purity”. The speaker treats the group as if its “real” members must preserve the quality being defended. A counterexample is not answered; it is expelled. The move is especially tempting where group identity is emotionally important: political camps, religions, fandoms, professions, nations, schools of thought and moral movements. “No real scientist would say that”, “no genuine patriot would object”, or “no true supporter would criticise the leader” may be valid only if there is a prior, defensible standard for the group. Without that standard, the phrase works as a gatekeeping device rather than a reason.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">how to spot the no true scotsman fallacy</span><span class="citation-popover-snippet">Logically FallaciousHow to Spot the No True Scotsman Fallacy16 May 2026 — If you want to spot the No True Scotsman fallacy in arguments...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 The fallacy usually has three moving parts:
 
@@ -527,9 +527,9 @@ The key warning sign is timing. A definition offered before the dispute may be a
 
 A counterexample matters because many No True Scotsman arguments begin as universal or near-universal claims. “No X does Y” can be defeated by one genuine X that does Y. In ordinary reasoning, that should prompt a more careful claim: “many Xs do not do Y”, “X discourages Y”, “Y conflicts with the official rules of X”, or “this person is a member but is acting against the group’s stated values”. Those revisions may be fair because they concede that the first claim was too broad.
 
-The fallacy appears when the speaker refuses that concession and instead makes the original claim unfalsifiable. If every counterexample can be dismissed as “not a true X”, then no evidence can count against the claim. The argument has shifted from an empirical statement about a group to a circular definition: true members are the ones who fit the claim, and anyone who does not fit the claim was never a true member. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
+The fallacy appears when the speaker refuses that concession and instead makes the original claim unfalsifiable. If every counterexample can be dismissed as “not a true X”, then no evidence can count against the claim. The argument has shifted from an empirical statement about a group to a circular definition: true members are the ones who fit the claim, and anyone who does not fit the claim was never a true member.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
 
-This also explains why No True Scotsman overlaps with, but is not identical to, several neighbouring fallacies. It can resemble **equivocation**, because the meaning of a key term changes during the argument. Stanford’s discussion of fallacies describes equivocation as exploiting a term’s ambiguity across an argument, which is close to what happens when “Scotsman” quietly becomes “Scotsman who meets my preferred moral or behavioural test”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Encyclopedia of Philosophy Fallacies</span></span></span> Encyclopedia of Philosophy It can also resemble **moving the goalposts**, because the standard for acceptance is changed after the evidence arrives. But the distinctive feature of No True Scotsman is that the shifted standard concerns membership in a category: who counts as a real member, genuine case or authentic example.
+This also explains why No True Scotsman overlaps with, but is not identical to, several neighbouring fallacies. It can resemble **equivocation**, because the meaning of a key term changes during the argument. Stanford’s discussion of fallacies describes equivocation as exploiting a term’s ambiguity across an argument, which is close to what happens when “Scotsman” quietly becomes “Scotsman who meets my preferred moral or behavioural test”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Encyclopedia of Philosophy Fallacies</span></span></span> Encyclopedia of Philosophy It can also resemble **moving the goalposts**, because the standard for acceptance is changed after the evidence arrives. But the distinctive feature of No True Scotsman is that the shifted standard concerns membership in a category: who counts as a real member, genuine case or authentic example.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_g9pdWyAaDs" title="Religion and the No True Scotsman Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer">Religion and the No True Scotsman Fallacy</a></p><p class="youtube-embed-meta">Channel: ReligionForBreakfast &middot; Views: 67.8K &middot; Uploaded: January 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_g9pdWyAaDs">Open on YouTube</a></p></div></div></div>
 
@@ -537,16 +537,16 @@ This also explains why No True Scotsman overlaps with, but is not identical to, 
 
 Not every disputed definition is a fallacy. Groups and concepts often have real [boundaries]({{ 'boundaries/' | relative_url }}). “No qualified surgeon performs operations without medical training” is not refuted by pointing to an untrained person who falsely claims to be a surgeon. “No legal voter in this election was under eighteen” is not refuted by a seventeen-year-old who attempted to vote, because the age rule is part of the prior legal definition. In those cases, the exclusion is not invented to dodge evidence; it is built into the category.
 
-A fair definition has to do more than protect a favoured conclusion. It should be available before the counterexample, apply consistently to favourable and unfavourable cases, and be grounded in recognised criteria. [Informal logic]({{ 'informal-logic/' | relative_url }}) is concerned with real-life argument in public debate, education, law, medicine and everyday exchange, where definitions often need [context]({{ 'context/' | relative_url }}) rather than rigid dictionary treatment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Encyclopedia of Philosophy Fallacies</span></span></span> Encyclopedia of Philosophy That context can make a narrowing definition legitimate, but it can also make a manipulative narrowing harder to spot.
+A fair definition has to do more than protect a favoured conclusion. It should be available before the counterexample, apply consistently to favourable and unfavourable cases, and be grounded in recognised criteria. [Informal logic]({{ 'informal-logic/' | relative_url }}) is concerned with real-life argument in public debate, education, law, medicine and everyday exchange, where definitions often need [context]({{ 'context/' | relative_url }}) rather than rigid dictionary treatment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Encyclopedia of Philosophy Fallacies</span></span></span> Encyclopedia of Philosophy That context can make a narrowing definition legitimate, but it can also make a manipulative narrowing harder to spot.
 
 A useful test is whether the revised definition would still be accepted if it weakened the speaker’s own side. Suppose someone says, “No true environmentalist flies long-haul.” If challenged with well-known environmental campaigners who have flown to climate conferences, the speaker might define “true environmentalist” as “someone who never uses high-emission transport”. That definition is clear, but it is also unusually strict and conveniently excludes many recognised examples. It may be a personal standard, but it cannot fairly support a broad claim about the movement unless the speaker argues for that standard independently.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-Illustration-2-dark.svg" | relative_url }}" alt="No True illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Moving Definitions and Persuasive Labels
 
-Moving definitions become more powerful when the disputed word carries emotional approval. Words such as “real”, “genuine”, “patriotic”, “responsible”, “civilised”, “free” or “extreme” do not merely classify; they praise or blame. This connects No True Scotsman to the wider problem of persuasive definition, where a familiar term is redefined in a way that helps one side of an argument while seeming neutral. Charles Stevenson introduced the idea of persuasive definition in work on emotive meaning, and later argumentation theorists have treated such definitions as powerful tools in moral, legal and political [debate]({{ 'debate/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/ABEPD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Persuasive definition</span><span class="citation-popover-snippet">Phil Papers Persuasive definition</span></span></span>
+Moving definitions become more powerful when the disputed word carries emotional approval. Words such as “real”, “genuine”, “patriotic”, “responsible”, “civilised”, “free” or “extreme” do not merely classify; they praise or blame. This connects No True Scotsman to the wider problem of persuasive definition, where a familiar term is redefined in a way that helps one side of an argument while seeming neutral. Charles Stevenson introduced the idea of persuasive definition in work on emotive meaning, and later argumentation theorists have treated such definitions as powerful tools in moral, legal and political [debate]({{ 'debate/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/ABEPD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Persuasive definition</span><span class="citation-popover-snippet">Phil Papers Persuasive definition</span></span></span>
 
-The persuasive force comes from a swap: the speaker keeps the positive emotional aura of the word while changing its descriptive boundary. “Freedom” may be redefined so only one policy counts as freedom. “Democracy” may be narrowed so inconvenient democracies are dismissed as not real democracies. “Science” may be used to include only conclusions one already accepts. In each case, the debate seems to be about a factual category, but the definition may be carrying a hidden value judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment8</span><span class="citation-popover-snippet">University Press &amp; Assessment8</span></span></span> University Press & Assessment
+The persuasive force comes from a swap: the speaker keeps the positive emotional aura of the word while changing its descriptive boundary. “Freedom” may be redefined so only one policy counts as freedom. “Democracy” may be narrowed so inconvenient democracies are dismissed as not real democracies. “Science” may be used to include only conclusions one already accepts. In each case, the debate seems to be about a factual category, but the definition may be carrying a hidden value judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment8</span><span class="citation-popover-snippet">University Press &amp; Assessment8</span></span></span> University Press & Assessment
 
 That does not mean every value-laden definition is dishonest. Political and ethical language is often contested because people genuinely disagree about what matters most. The problem arises when the redefinition is smuggled in as though it were already settled. A fair argument says, “Here is the definition I am using, and here is why it is justified.” A moving-definition argument says, in effect, “Your counterexample does not count because my preferred conclusion requires it not to count.”
 
@@ -582,194 +582,194 @@ The fairest [repair]({{ 'repair/' | relative_url }}) is often simple: separate *
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0_NCtdOKQ04" title="No True Scotsman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0_NCtdOKQ04" target="_blank" rel="noopener noreferrer">No True Scotsman</a></p><p class="youtube-embed-meta">Channel: John Corvino &middot; Views: 21.2K &middot; Uploaded: October 2018 &middot; Length: 1 minute 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0_NCtdOKQ04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0_NCtdOKQ04">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Definitions Moving to Escape Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Definitions Moving to Escape Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Directly addresses informal fallacies including category-protection tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses informal fallacies including category-protection tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logically Fallacious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WFvhN9lSm5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Logically Fallacious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logically Fallacious">Logically Fallacious</a>
-        </h4>
-        <p class="fr-book-author">By Bo Bennett</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logically Fallacious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WFvhN9lSm5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Logically Fallacious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logically Fallacious">Logically Fallacious</a>
+</h4>
+<p class="fr-book-author">By Bo Bennett</p>
         
-        <p class="fr-book-desc">Contains extensive coverage of fallacious reasoning patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains extensive coverage of fallacious reasoning patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Explains common fallacies through memorable examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common fallacies through memorable examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages revising beliefs when counterexamples appear.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages revising beliefs when counterexamples appear.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Logically+Fallacious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Logically Fallacious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Logically+Fallacious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Logically Fallacious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid"><img src="https://i.ebayimg.com/images/g/k8MAAeSwOZBpK04H/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid"><img src="https://i.ebayimg.com/images/g/k8MAAeSwOZBpK04H/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rush Traffic Jams Logic Hour Game Strategy Skill Puzzle Kid Educational Toy Gift"><img src="https://i.ebayimg.com/images/g/LiAAAeSwX7Rpn0IE/s-l225.jpg" alt="Listing image for Rush Traffic Jams Logic Hour Game Strategy Skill Puzzle Kid Educational Toy Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Rush Traffic Jams Logic Hour Game Strategy Skill Puzzle Kid Educational Toy Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rush Traffic Jams Logic Hour Game Strategy Skill Puzzle Kid Educational Toy Gift"><img src="https://i.ebayimg.com/images/g/LiAAAeSwX7Rpn0IE/s-l225.jpg" alt="Listing image for Rush Traffic Jams Logic Hour Game Strategy Skill Puzzle Kid Educational Toy Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Rush Traffic Jams Logic Hour Game Strategy Skill Puzzle Kid Educational Toy Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game"><img src="https://i.ebayimg.com/images/g/AMQAAeSwLDNqETma/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game"><img src="https://i.ebayimg.com/images/g/AMQAAeSwLDNqETma/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/qroAAeSwDgxqB0pE/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/qroAAeSwDgxqB0pE/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-definitions-moving-to-escape-evidence-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="are-definitions-moving-to-escape-evidence-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -785,7 +785,7 @@ The fairest [repair]({{ 'repair/' | relative_url }}) is often simple: separate *
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -805,7 +805,7 @@ The fairest [repair]({{ 'repair/' | relative_url }}) is often simple: separate *
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -837,7 +837,7 @@ The fairest [repair]({{ 'repair/' | relative_url }}) is often simple: separate *
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -889,7 +889,7 @@ The fairest [repair]({{ 'repair/' | relative_url }}) is often simple: separate *
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -934,7 +934,7 @@ The fairest [repair]({{ 'repair/' | relative_url }}) is often simple: separate *
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -975,215 +975,215 @@ The fairest [repair]({{ 'repair/' | relative_url }}) is often simple: separate *
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scribbr.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy | Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy | Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: No true Scotsman  
-   Link: <a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: philpapers.org  
    Title: Phil Papers Persuasive definition  
-   Link: <a href="https://philpapers.org/rec/ABEPD" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/ABEPD</a>  
+   Link:<a href="https://philpapers.org/rec/ABEPD" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/ABEPD</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cambridge.org  
    Title: University Press & Assessment8  
-   Link: <a href="https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A</a>  
+   Link:<a href="https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Persuasive definition  
-   Link: <a href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Persuasive_definition</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Persuasive_definition</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/win2008/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2008/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/win2008/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2008/entries/logic-informal/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: roger bacon  
-   Link: <a href="https://plato.stanford.edu/archives/fall2015/entries/roger-bacon/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/roger-bacon/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2015/entries/roger-bacon/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/roger-bacon/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: plato.stanford.edu  
    Title: mill moral political  
-   Link: <a href="https://plato.stanford.edu/archives/win2008/entries/mill-moral-political/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2008/entries/mill-moral-political/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/win2008/entries/mill-moral-political/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2008/entries/mill-moral-political/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: philpapers.org  
    Title: WALLAA 7  
-   Link: <a href="https://philpapers.org/rec/WALLAA-7" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALLAA-7</a>  
+   Link:<a href="https://philpapers.org/rec/WALLAA-7" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALLAA-7</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: No True Scotsman  
-   Link: <a href="https://www.youtube.com/watch?v=0_NCtdOKQ04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_NCtdOKQ04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Religion and the No True Scotsman Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0_NCtdOKQ04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_NCtdOKQ04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Religion and the No True Scotsman Fallacy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Religion and the No True Scotsman Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_g9pdWyAaDs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman | Logical Fallacies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_g9pdWyAaDs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman | Logical Fallacies...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: No True Scotsman | Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=g4jkflsSuPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g4jkflsSuPE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: No True Scotsman...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g4jkflsSuPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g4jkflsSuPE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: No True Scotsman...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: logicallyfallacious.com  
    Title: how to spot the no true scotsman fallacy  
-   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousHow to Spot the No True Scotsman Fallacy16 May 2026 — If you want to spot the No True Scotsman fallacy in arguments...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousHow to Spot the No True Scotsman Fallacy16 May 2026 — If you want to spot the No True Scotsman fallacy in arguments...</p></details>
    Published: May 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousNo True ScotsmanWhen a universal (“all”, “every”, etc.) claim is refuted, rather than conceding the point or meaningf...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousNo True ScotsmanWhen a universal (“all”, “every”, etc.) claim is refuted, rather than conceding the point or meaningf...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribbr.co.uk  
    Title: No True Scotsman Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/no-true-scotsman/</a>  
+   Link:<a href="https://www.scribbr.co.uk/fallacy/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/no-true-scotsman/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: bachelorprint.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/</a>  
+   Link:<a href="https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: bachelorprint.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/</a>  
+   Link:<a href="https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: diplomacy.edu  
    Title: No true Scotsman  
-   Link: <a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
+   Link:<a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: quillbot.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
+   Link:<a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ru.scribd.com  
    Title: No true Scotsman  
-   Link: <a href="https://ru.scribd.com/document/734350253/No-true-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/734350253/No-true-Scotsman</a>  
+   Link:<a href="https://ru.scribd.com/document/734350253/No-true-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/734350253/No-true-Scotsman</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: torahmusings.com  
    Title: No true Scotsman  
-   Link: <a href="https://www.torahmusings.com/wp-content/uploads/2006/08/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.torahmusings.com/wp-content/uploads/2006/08/No_true_Scotsman</a>  
+   Link:<a href="https://www.torahmusings.com/wp-content/uploads/2006/08/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.torahmusings.com/wp-content/uploads/2006/08/No_true_Scotsman</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: paraphrasetool.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://paraphrasetool.com/usage/no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://paraphrasetool.com/usage/no-true-scotsman-fallacy</a>  
+   Link:<a href="https://paraphrasetool.com/usage/no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://paraphrasetool.com/usage/no-true-scotsman-fallacy</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: logicalfallacies.org  
    Title: No True Scotsman  
-   Link: <a href="https://www.logicalfallacies.org/no-true-scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/no-true-scotsman.html</a>  
+   Link:<a href="https://www.logicalfallacies.org/no-true-scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/no-true-scotsman.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: faithalone.org  
    Title: no true scotsman  
-   Link: <a href="https://faithalone.org/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://faithalone.org/blog/no-true-scotsman/</a>  
+   Link:<a href="https://faithalone.org/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://faithalone.org/blog/no-true-scotsman/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: logical-fallacy.com  
    Title: No True Scotsman  
-   Link: <a href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/no-true-scotsman/</a>  
+   Link:<a href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/no-true-scotsman/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/scotsman.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/scotsman.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Flew&#x27;s No True Scotsman Fallacy a...In this paper, I discuss ways where context can help to explain why the No True Scotsman...</p></details>
+   Link:<a href="https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Flew&#x27;s No True Scotsman Fallacy a...In this paper, I discuss ways where context can help to explain why the No True Scotsman...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/254406106_Persuasive_Definitions_and_Public_Policy_Arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254406106_Persuasive_Definitions_and_Public_Policy_Arguments</a>  
+   Link:<a href="https://www.researchgate.net/publication/254406106_Persuasive_Definitions_and_Public_Policy_Arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254406106_Persuasive_Definitions_and_Public_Policy_Arguments</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/38741164/Praise_for_David_McRaneys_You_Are_Not_So_Smart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38741164/Praise_for_David_McRaneys_You_Are_Not_So_Smart</a>  
+   Link:<a href="https://www.academia.edu/38741164/Praise_for_David_McRaneys_You_Are_Not_So_Smart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38741164/Praise_for_David_McRaneys_You_Are_Not_So_Smart</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: bsecs.org.uk  
-   Link: <a href="https://www.bsecs.org.uk/wp-content/uploads/2019/06/Abstracts-A-D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bsecs.org.uk/wp-content/uploads/2019/06/Abstracts-A-D.pdf</a>  
+   Link:<a href="https://www.bsecs.org.uk/wp-content/uploads/2019/06/Abstracts-A-D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bsecs.org.uk/wp-content/uploads/2019/06/Abstracts-A-D.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ccsenet.org  
-   Link: <a href="https://www.ccsenet.org/journal/index.php/jpl/article/view/45932" target="_blank" rel="noopener noreferrer nofollow">https://www.ccsenet.org/journal/index.php/jpl/article/view/45932</a>  
+   Link:<a href="https://www.ccsenet.org/journal/index.php/jpl/article/view/45932" target="_blank" rel="noopener noreferrer nofollow">https://www.ccsenet.org/journal/index.php/jpl/article/view/45932</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/</a>  
+   Link:<a href="https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/fallacy/comments/l8yhxo/can_someone_explain_the_no_true_scotsman_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/l8yhxo/can_someone_explain_the_no_true_scotsman_fallacy/</a>  
+   Link:<a href="https://www.reddit.com/r/fallacy/comments/l8yhxo/can_someone_explain_the_no_true_scotsman_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/l8yhxo/can_someone_explain_the_no_true_scotsman_fallacy/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions</a>  
+   Link:<a href="https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/818962193/Ethics-and-Language-By-Charles-L-STevenson-New-Haven-Connecticut-1944-Yale-University-Press-1149051012-7ba2f2e43a859358b6489e6c3ca80" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/818962193/Ethics-and-Language-By-Charles-L-STevenson-New-Haven-Connecticut-1944-Yale-University-Press-1149051012-7ba2f2e43a859358b6489e6c3ca80</a>
+   Link:<a href="https://www.scribd.com/document/818962193/Ethics-and-Language-By-Charles-L-STevenson-New-Haven-Connecticut-1944-Yale-University-Press-1149051012-7ba2f2e43a859358b6489e6c3ca80" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/818962193/Ethics-and-Language-By-Charles-L-STevenson-New-Haven-Connecticut-1944-Yale-University-Press-1149051012-7ba2f2e43a859358b6489e6c3ca80</a>

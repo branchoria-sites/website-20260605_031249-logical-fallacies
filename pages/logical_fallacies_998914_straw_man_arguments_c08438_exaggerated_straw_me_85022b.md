@@ -274,10 +274,10 @@ image: /assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exagge
 
 ## Introduction
 
-Exaggeration is one of the most common ways a straw man argument is created. Instead of responding to a measured claim, an opponent inflates it into a far more radical position and then attacks that stronger-sounding version. A proposal to limit something becomes a proposal to ban it. A request for caution becomes opposition to all progress. A criticism of one policy becomes hostility toward an entire institution. The result is a [debate]({{ 'debate/' | relative_url }}) that appears decisive while never addressing the original point. Argumentation scholars describe straw man reasoning as the misrepresentation of another person's commitments in order to refute a position they did not actually defend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</span></span></span>
+Exaggeration is one of the most common ways a straw man argument is created. Instead of responding to a measured claim, an opponent inflates it into a far more radical position and then attacks that stronger-sounding version. A proposal to limit something becomes a proposal to ban it. A request for caution becomes opposition to all progress. A criticism of one policy becomes hostility toward an entire institution. The result is a [debate]({{ 'debate/' | relative_url }}) that appears decisive while never addressing the original point. Argumentation scholars describe straw man reasoning as the misrepresentation of another person's commitments in order to refute a position they did not actually defend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exaggerated_straw_me_85022b-Illustration-1-dark.svg" | relative_url }}" alt="Exaggeration illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exaggerated_straw_me_85022b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exaggerated_straw_me_85022b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader family of [straw man arguments]({{ 'straw-man/' | relative_url }}), exaggeration is distinctive because the original claim often remains recognisable. The distortion is not a complete invention. Instead, qualifications, limits, [exceptions]({{ 'exceptions/' | relative_url }}) and trade-offs are stripped away until the claim looks extreme enough to reject easily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe Straw Man Fallacy (Chapter 9)Jun 5, 2014 — It is said to be the fallacy of misrepresenting an...</span></span></span>
+Within the broader family of [straw man arguments]({{ 'straw-man/' | relative_url }}), exaggeration is distinctive because the original claim often remains recognisable. The distortion is not a complete invention. Instead, qualifications, limits, [exceptions]({{ 'exceptions/' | relative_url }}) and trade-offs are stripped away until the claim looks extreme enough to reject easily.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe Straw Man Fallacy (Chapter 9)Jun 5, 2014 — It is said to be the fallacy of misrepresenting an...</span></span></span>
 
 ## How Exaggeration Changes the Original Claim
 
@@ -293,7 +293,7 @@ Or:
 * Original claim: “This evidence is not yet conclusive.”
 * Exaggerated version: “You reject all evidence.”
 
-The exaggeration often works because audiences remember the stronger wording more easily than the careful wording. Nuance requires attention; extremes are memorable. As a result, listeners may come away believing they have heard a genuine summary when they have actually heard a distorted one. Scholars of argumentation note that straw man reasoning succeeds partly because audiences often encounter the opponent's position only through the description provided by the critic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">two forms of the straw man</span><span class="citation-popover-snippet">Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — According to a widely accepted characterization, one co...</span></span></span>
+The exaggeration often works because audiences remember the stronger wording more easily than the careful wording. Nuance requires attention; extremes are memorable. As a result, listeners may come away believing they have heard a genuine summary when they have actually heard a distorted one. Scholars of argumentation note that straw man reasoning succeeds partly because audiences often encounter the opponent's position only through the description provided by the critic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">two forms of the straw man</span><span class="citation-popover-snippet">Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — According to a widely accepted characterization, one co...</span></span></span>
 
 A key feature of this mechanism is the removal of qualifications. Words such as “some”, “many”, “certain”, “under specific conditions”, or “on balance” disappear. In their place come absolute terms such as “all”, “never”, “always”, or “completely”. The change may seem small linguistically, but it can transform the meaning of an argument.
 
@@ -305,7 +305,7 @@ First, extreme positions are often easier to defeat. Few people support absolute
 
 Second, exaggeration simplifies complex disagreements. Real disputes often involve competing values, uncertainty and compromise. Recasting one side as extreme removes that complexity and turns the discussion into a choice between reasonableness and absurdity.
 
-Third, exaggeration can trigger emotional reactions. A listener may react strongly to a claim about banning something, destroying an industry or undermining public safety, even when no such proposal was made. The emotional response then attaches itself to the original speaker unfairly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</span></span></span>
+Third, exaggeration can trigger emotional reactions. A listener may react strongly to a claim about banning something, destroying an industry or undermining public safety, even when no such proposal was made. The emotional response then attaches itself to the original speaker unfairly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jbkSRLYSojo" title="Hans Rosling&#x27;s 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jbkSRLYSojo" target="_blank" rel="noopener noreferrer">Hans Rosling&#x27;s 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC</a></p><p class="youtube-embed-meta">Channel: BBC &middot; Views: 11.4M &middot; Uploaded: November 2010 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jbkSRLYSojo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jbkSRLYSojo">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +328,7 @@ Several warning signs frequently indicate that exaggeration may be occurring:
 
 </div>
 
-A common example discussed in public explanations of straw man reasoning is the shift from “reduce a budget” to “you must hate the people who depend on that budget”, or from “change a procedure” to “you want to make the system impossible to operate”. In each case, the critic attacks a stronger claim than the one actually presented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markmanson.net">[Mark Manson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markmanson.net</span><span class="citation-popover-snippet">Mark Manson8 Logical Fallacies That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a per...</span></span></span>
+A common example discussed in public explanations of straw man reasoning is the shift from “reduce a budget” to “you must hate the people who depend on that budget”, or from “change a procedure” to “you want to make the system impossible to operate”. In each case, the critic attacks a stronger claim than the one actually presented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markmanson.net">[Mark Manson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markmanson.net</span><span class="citation-popover-snippet">Mark Manson8 Logical Fallacies That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a per...</span></span></span>
 
 The danger is not merely rhetorical. Once exaggeration enters a discussion, participants can end up debating a position that nobody holds. Time and attention are spent rebutting an invented extreme while the original issue remains unresolved.
 
@@ -351,7 +351,7 @@ An exaggerated straw man typically looks like:
 
 The first formulation asks whether a consequence follows. The second simply attributes the consequence as an established commitment.
 
-Argumentation theorists emphasise that evaluating alleged straw men requires attention to what a speaker is actually committed to defending within the [context]({{ 'context/' | relative_url }}) of the discussion. A criticism is legitimate when it engages those commitments; it becomes fallacious when it substitutes new commitments that were never accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</span></span></span>
+Argumentation theorists emphasise that evaluating alleged straw men requires attention to what a speaker is actually committed to defending within the [context]({{ 'context/' | relative_url }}) of the discussion. A criticism is legitimate when it engages those commitments; it becomes fallacious when it substitutes new commitments that were never accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RUwS1uAdUcI" title="Hans Rosling: Debunking third-world myths with the best stats you&#x27;ve ever seen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RUwS1uAdUcI" target="_blank" rel="noopener noreferrer">Hans Rosling: Debunking third-world myths with the best stats you&#x27;ve ever seen</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.2M &middot; Uploaded: January 2007 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RUwS1uAdUcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RUwS1uAdUcI">Open on YouTube</a></p></div></div></div>
 
@@ -391,197 +391,197 @@ This approach restores the missing nuance that exaggeration removed. It also shi
 
 Exaggeration is particularly damaging because it often looks like ordinary paraphrasing. Unlike a completely fabricated position, the exaggerated version usually retains some connection to the original claim. That resemblance makes the distortion harder to detect.
 
-The practical effect is that moderate positions can be made to appear unreasonable without ever being answered on their own terms. Debates become less about evaluating proposals and more about defending against accusations of extremism. Recognising this mechanism helps keep attention on the actual claim under discussion and preserves the possibility of meaningful disagreement rather than argument against a caricature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[writingcenter.unc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-snippet">The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position and tries to score points by kno...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</span></span></span>
+The practical effect is that moderate positions can be made to appear unreasonable without ever being answered on their own terms. Debates become less about evaluating proposals and more about defending against accusations of extremism. Recognising this mechanism helps keep attention on the actual claim under discussion and preserves the possibility of meaningful disagreement rather than argument against a caricature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[writingcenter.unc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-snippet">The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position and tries to score points by kno...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Moderate Claims Become Easy Targets. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Moderate Claims Become Easy Targets. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzjNnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzjNnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Includes exaggerated and distorted argument examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes exaggerated and distorted argument examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Focuses on revising beliefs and understanding others accurately.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on revising beliefs and understanding others accurately.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Systematically explains argument distortions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Systematically explains argument distortions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explains why opponents are often caricatured.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why opponents are often caricatured.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polis Invitation to Debate Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/QSkAAeSwvpZp1~fE/s-l225.jpg" alt="Listing image for Polis Invitation to Debate Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Polis Invitation to Debate Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polis Invitation to Debate Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/QSkAAeSwvpZp1~fE/s-l225.jpg" alt="Listing image for Polis Invitation to Debate Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Polis Invitation to Debate Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Heated Debate Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sRkAAeSwEpNp2SZe/s-l225.jpg" alt="Listing image for Heated Debate Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Heated Debate Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Heated Debate Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sRkAAeSwEpNp2SZe/s-l225.jpg" alt="Listing image for Heated Debate Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Heated Debate Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mrs Merton Debates Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6ssAAeSwQHtpy~sl/s-l225.jpg" alt="Listing image for Mrs Merton Debates Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Mrs Merton Debates Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mrs Merton Debates Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6ssAAeSwQHtpy~sl/s-l225.jpg" alt="Listing image for Mrs Merton Debates Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Mrs Merton Debates Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Will You Shut Up Man? Biden Debate Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/GEIAAeSwgIRp2SSN/s-l225.jpg" alt="Listing image for Will You Shut Up Man? Biden Debate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Will You Shut Up Man? Biden Debate Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Will You Shut Up Man? Biden Debate Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/GEIAAeSwgIRp2SSN/s-l225.jpg" alt="Listing image for Will You Shut Up Man? Biden Debate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Will You Shut Up Man? Biden Debate Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-moderate-claims-become-easy-targets-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-moderate-claims-become-easy-targets-debate-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ The practical effect is that moderate positions can be made to appear unreasonab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ The practical effect is that moderate positions can be made to appear unreasonab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ The practical effect is that moderate positions can be made to appear unreasonab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ The practical effect is that moderate positions can be made to appear unreasonab
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ The practical effect is that moderate positions can be made to appear unreasonab
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,109 +787,109 @@ The practical effect is that moderate positions can be made to appear unreasonab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: philpapers.org  
    Title: Phil Papers The straw man fallacy  
-   Link: <a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</p></details>
+   Link:<a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Straw Man Fallacy (Chapter 9)Jun 5, 2014 — It is said to be the fallacy of misrepresenting an...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Straw Man Fallacy (Chapter 9)Jun 5, 2014 — It is said to be the fallacy of misrepresenting an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: owl.excelsior.edu  
    Title: OWLStraw Man Fallacy  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: writingcenter.unc.edu  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position and tries to score points by kno...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position and tries to score points by kno...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: communicationcache.com  
    Title: two forms of the straw man  
-   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — According to a widely accepted characterization, one co...</p></details>
+   Link:<a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — According to a widely accepted characterization, one co...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: markmanson.net  
-   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Manson8 [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a per...</p></details>
+   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Manson8 [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a per...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribbr.com  
    Title: straw man fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; ExamplesApr 12, 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; ExamplesApr 12, 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: libguides.eur.nl  
-   Link: <a href="https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>information &amp; data: Argumentation26 Mar 2025 — In the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position and...</p></details>
+   Link:<a href="https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>information &amp; data: Argumentation26 Mar 2025 — In the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position and...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Normative and Pragmatic Model of for Assessing Straw...Feb 23, 2019 — PDF | This paper builds a nine-step method for determining wheth...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Normative and Pragmatic Model of for Assessing Straw...Feb 23, 2019 — PDF | This paper builds a nine-step method for determining wheth...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/4d1pli/eli5_what_is_a_straw_man_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/4d1pli/eli5_what_is_a_straw_man_argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What is a &#x27;Straw Man&#x27; argument?: r/explainlikeimfiveIt means that you&#x27;re not arguing against what your opponent actually said, but...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/4d1pli/eli5_what_is_a_straw_man_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/4d1pli/eli5_what_is_a_straw_man_argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What is a &#x27;Straw Man&#x27; argument?: r/explainlikeimfiveIt means that you&#x27;re not arguing against what your opponent actually said, but...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eli5 what is a strawman argument?: r/explainlikeimfiveIt&#x27;s usually a distortion or exaggeration of your opponents views. Opponent: &quot;Sear...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eli5 what is a strawman argument?: r/explainlikeimfiveIt&#x27;s usually a distortion or exaggeration of your opponents views. Opponent: &quot;Sear...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/m/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/straw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRAWA single mother&#x27;s world unravels in chaos as her day goes from bad to worse to catastrophic as she struggles to care for her ill dau...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/m/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/straw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STRAWA single mother&#x27;s world unravels in chaos as her day goes from bad to worse to catastrophic as she struggles to care for her ill dau...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1156570343134328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1156570343134328/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: STRAW MAN DEFINITION...... Straw Man fallacy. This informal fallacy involves replacing an opponent&#x27;s actual position wi...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1156570343134328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1156570343134328/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: STRAW MAN DEFINITION...... Straw Man fallacy. This informal fallacy involves replacing an opponent&#x27;s actual position wi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: deverbovitae.com  
-   Link: <a href="https://www.deverbovitae.com/articles/strawman/" target="_blank" rel="noopener noreferrer nofollow">https://www.deverbovitae.com/articles/strawman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strawman ArgumentThe “straw man” fallacious argument takes place when a person refutes an argument which was not actually made but wa...</p></details>
+   Link:<a href="https://www.deverbovitae.com/articles/strawman/" target="_blank" rel="noopener noreferrer nofollow">https://www.deverbovitae.com/articles/strawman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strawman ArgumentThe “straw man” fallacious argument takes place when a person refutes an argument which was not actually made but wa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dwc.knaw.nl  
-   Link: <a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacyIn this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in orde...</p></details>
+   Link:<a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacyIn this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in orde...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1n4ovpp/what_makes_strawman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1n4ovpp/what_makes_strawman_a_fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What makes strawman a fallacy?: r/askphilosophyI&#x27;m genuinely struggling to identify what&#x27;s the exact property of fallaciousness on the s...</p></details>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/1n4ovpp/what_makes_strawman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1n4ovpp/what_makes_strawman_a_fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What makes strawman a fallacy?: r/askphilosophyI&#x27;m genuinely struggling to identify what&#x27;s the exact property of fallaciousness on the s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-14-straw-man-fallacydefinition-and-explanation-a-straw-man/823604086430957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-14-straw-man-fallacydefinition-and-explanation-a-straw-man/823604086430957/</a>  
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-14-straw-man-fallacydefinition-and-explanation-a-straw-man/823604086430957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-14-straw-man-fallacydefinition-and-explanation-a-straw-man/823604086430957/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: quizlet.com  
    Title: Logical Fallacies (The Writing Center, UNC-Chapel Hill)(D) Straw Man  
-   Link: <a href="https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The arguer sets up a weak version of the opponent&#x27;s position and tries to score points by knocking it down. (D) [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;). Partway thro...</p></details>
+   Link:<a href="https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The arguer sets up a weak version of the opponent&#x27;s position and tries to score points by knocking it down. (D) [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;). Partway thro...</p></details>

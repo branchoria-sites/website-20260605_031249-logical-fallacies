@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_exten
 
 ## Introduction
 
-A request for a deadline extension does not become unfair simply because it is granted. In debates about [slippery slope]({{ 'slippery-slope/' | relative_url }}) arguments, people often assume that any exception will undermine equal treatment. That claim is frequently fallacious because it skips over the crucial question: what mechanism would actually make the system unfair? A genuine fairness problem arises not from flexibility itself, but from the way flexibility is exercised. When similar cases receive different treatment because decisions are hidden, inconsistent, biased, or based on vague standards, an extension can create real inequality rather than merely imagined risk. The key distinction is between controlled discretion and arbitrary discretion. Institutions can accommodate legitimate needs while preserving fairness, but only if they apply transparent and consistent criteria. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span>
+A request for a deadline extension does not become unfair simply because it is granted. In debates about [slippery slope]({{ 'slippery-slope/' | relative_url }}) arguments, people often assume that any exception will undermine equal treatment. That claim is frequently fallacious because it skips over the crucial question: what mechanism would actually make the system unfair? A genuine fairness problem arises not from flexibility itself, but from the way flexibility is exercised. When similar cases receive different treatment because decisions are hidden, inconsistent, biased, or based on vague standards, an extension can create real inequality rather than merely imagined risk. The key distinction is between controlled discretion and arbitrary discretion. Institutions can accommodate legitimate needs while preserving fairness, but only if they apply transparent and consistent criteria.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1-dark.svg" | relative_url }}" alt="Fairness Risk illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Does One Extension Become Unfair?
@@ -288,9 +288,9 @@ This distinction matters because deadline disputes often become trapped in a fal
 * Either enforce every deadline rigidly.
 * Or allow extensions and destroy fairness.
 
-In practice, many institutions operate successfully between those extremes. Universities, courts, professional bodies, and public agencies routinely allow extensions, special consideration, or reasonable adjustments while maintaining formal rules about eligibility, evidence, and review. The existence of an exception does not automatically create unfairness; inconsistent access to [exceptions]({{ 'exceptions/' | relative_url }}) does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-snippet">Disability and requests for additional consideration - OIAHEExtensions to coursework submission deadlines;; Alternative methods of assess...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qmul.ac.uk">[Queen Mary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qmul.ac.uk</span><span class="citation-popover-title">Extenuating Circumstances Policy</span><span class="citation-popover-snippet">12 Jun 2025 — a) Provide an extension to a written coursework deadline. Extensions would normally be a maximum 7 calendar days. Exception...</span></span></span> University of London
+In practice, many institutions operate successfully between those extremes. Universities, courts, professional bodies, and public agencies routinely allow extensions, special consideration, or reasonable adjustments while maintaining formal rules about eligibility, evidence, and review. The existence of an exception does not automatically create unfairness; inconsistent access to [exceptions]({{ 'exceptions/' | relative_url }}) does.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-snippet">Disability and requests for additional consideration - OIAHEExtensions to coursework submission deadlines;; Alternative methods of assess...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qmul.ac.uk">[Queen Mary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qmul.ac.uk</span><span class="citation-popover-title">Extenuating Circumstances Policy</span><span class="citation-popover-snippet">12 Jun 2025 — a) Provide an extension to a written coursework deadline. Extensions would normally be a maximum 7 calendar days. Exception...</span></span></span> University of London
 
-The slippery slope concern becomes reasonable only when someone can identify a credible pathway from one exception to unequal treatment. Merely asserting that “everyone will want one” is not enough. Evidence is needed that decision-makers cannot or will not distinguish between cases. UCLA School of Law <span class="citation-chip-wrap"><a class="citation-chip" href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decisions.scc-csc.ca">[SCC Decisions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decisions.scc-csc.ca</span><span class="citation-popover-title">SCC Decisions R. v. J.J</span><span class="citation-popover-snippet">SCC DecisionsR. v. J.J. - SCC Cases30 Jun 2022 — It is no answer simply to impugn a concern as a “slippery slope” argument. After all, so...</span></span></span>
+The slippery slope concern becomes reasonable only when someone can identify a credible pathway from one exception to unequal treatment. Merely asserting that “everyone will want one” is not enough. Evidence is needed that decision-makers cannot or will not distinguish between cases. UCLA School of Law<span class="citation-chip-wrap"><a class="citation-chip" href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decisions.scc-csc.ca">[SCC Decisions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decisions.scc-csc.ca</span><span class="citation-popover-title">SCC Decisions R. v. J.J</span><span class="citation-popover-snippet">SCC DecisionsR. v. J.J. - SCC Cases30 Jun 2022 — It is no answer simply to impugn a concern as a “slippery slope” argument. After all, so...</span></span></span>
 
 ## Fairness Concerns That Are Not Fallacies
 
@@ -300,7 +300,7 @@ Some objections to extensions are grounded in real risks rather than speculative
 
 A common problem arises when extension requests depend heavily on personal relationships. Individuals with supportive supervisors, sympathetic lecturers, or greater confidence in navigating bureaucracy may receive accommodations that others never discover are available.
 
-In such situations, fairness is threatened because access to flexibility depends on social position rather than relevant circumstances. Transparency research consistently identifies visibility of procedures and access to decision-makers as important [safeguards]({{ 'safeguards/' | relative_url }}) against unequal outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
+In such situations, fairness is threatened because access to flexibility depends on social position rather than relevant circumstances. Transparency research consistently identifies visibility of procedures and access to decision-makers as important [safeguards]({{ 'safeguards/' | relative_url }}) against unequal outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuSlhlTl93g" title="Fairness in Practice: Aspects of Procedural Fairness Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuSlhlTl93g" target="_blank" rel="noopener noreferrer">Fairness in Practice: Aspects of Procedural Fairness Webinar</a></p><p class="youtube-embed-meta">Channel: BC Ombudsperson&#x27;s Office &middot; Views: 3.5K &middot; Uploaded: December 2017 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuSlhlTl93g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuSlhlTl93g">Open on YouTube</a></p></div></div></div>
 
@@ -308,13 +308,13 @@ In such situations, fairness is threatened because access to flexibility depends
 
 A policy that says extensions may be granted for “good reasons” provides broad discretion but little guidance. Different officials may interpret the phrase differently.
 
-One administrator might regard caring responsibilities as sufficient justification. Another might not. One might require documentary evidence. Another might rely on personal judgement. The broader and less defined the standard, the greater the risk that similar cases will receive different outcomes. Procedural fairness literature repeatedly emphasises that fairness depends on procedures appropriate to the circumstances rather than unconstrained discretion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span>
+One administrator might regard caring responsibilities as sufficient justification. Another might not. One might require documentary evidence. Another might rely on personal judgement. The broader and less defined the standard, the greater the risk that similar cases will receive different outcomes. Procedural fairness literature repeatedly emphasises that fairness depends on procedures appropriate to the circumstances rather than unconstrained discretion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span>
 
 ### Hidden Decisions
 
 Fairness problems multiply when extension decisions are not recorded or explained.
 
-If applicants cannot see how decisions are made, they cannot determine whether the process is being applied consistently. Hidden exceptions also make it difficult for organisations to detect patterns of favouritism, bias, or unequal treatment. Transparency contributes to consistency and predictability precisely because it allows decisions to be compared against established standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
+If applicants cannot see how decisions are made, they cannot determine whether the process is being applied consistently. Hidden exceptions also make it difficult for organisations to detect patterns of favouritism, bias, or unequal treatment. Transparency contributes to consistency and predictability precisely because it allows decisions to be compared against established standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-dark.svg" | relative_url }}" alt="Fairness Risk illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Warning Signs in Discretionary Decisions
@@ -329,7 +329,7 @@ A single extension request may signal a broader fairness problem when several wa
 
 **Policies exist but are rarely followed.** Written criteria lose their value if actual decisions depend on unwritten practices.
 
-**Appeals are unavailable or ineffective.** Fair procedures normally include some mechanism for reviewing disputed decisions. Without review, inconsistent decisions can persist unchecked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: claytonutz.com">[Clayton Utz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">claytonutz.com</span><span class="citation-popover-title">public law essentials procedural fairness</span><span class="citation-popover-snippet">Public Law Essentials: Procedural fairness2 Dec 2024 — Procedural fairness in administrative decision-making relates to the fairness of t...</span></span></span>
+**Appeals are unavailable or ineffective.** Fair procedures normally include some mechanism for reviewing disputed decisions. Without review, inconsistent decisions can persist unchecked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: claytonutz.com">[Clayton Utz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">claytonutz.com</span><span class="citation-popover-title">public law essentials procedural fairness</span><span class="citation-popover-snippet">Public Law Essentials: Procedural fairness2 Dec 2024 — Procedural fairness in administrative decision-making relates to the fairness of t...</span></span></span>
 
 These warning signs identify concrete [mechanisms]({{ 'mechanisms/' | relative_url }}) by which an extension system can become unfair. They are stronger arguments than abstract predictions that “the deadline will soon mean nothing.”
 
@@ -339,7 +339,7 @@ These warning signs identify concrete [mechanisms]({{ 'mechanisms/' | relative_u
 
 A common misunderstanding is that treating everyone identically is always the fairest approach. In many settings, equal treatment may require different treatment.
 
-For example, disability accommodations often include extensions, additional consideration, or other adjustments designed to ensure that assessment measures the intended skill rather than the effects of a disability. The purpose is not to provide an advantage but to create a more level playing field. Refusing all extensions in the name of uniformity can itself create unequal outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-snippet">Disability and requests for additional consideration - OIAHEExtensions to coursework submission deadlines;; Alternative methods of assess...</span></span></span>
+For example, disability accommodations often include extensions, additional consideration, or other adjustments designed to ensure that assessment measures the intended skill rather than the effects of a disability. The purpose is not to provide an advantage but to create a more level playing field. Refusing all extensions in the name of uniformity can itself create unequal outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-snippet">Disability and requests for additional consideration - OIAHEExtensions to coursework submission deadlines;; Alternative methods of assess...</span></span></span>
 
 This is why fairness debates should focus on relevant differences rather than identical treatment. If two cases differ in ways that matter to the purpose of the rule, different outcomes may be justified. What threatens fairness is not recognising relevant differences but applying them inconsistently.
 
@@ -364,7 +364,7 @@ Effective systems typically answer several questions in advance:
 
 When these questions are answered publicly, decision-makers retain flexibility while reducing arbitrariness. Consistent criteria also protect those who oppose an extension. They can be confident that the decision was made according to known rules rather than favouritism.
 
-Research and policy guidance across administrative and educational settings repeatedly link fairness to transparency, predictability, consistency, and documented procedures. These safeguards make it possible to grant justified extensions without undermining confidence in the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lshtm.ac.uk">[LSHTM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lshtm.ac.uk</span><span class="citation-popover-title">ademic manual chapter 07</span><span class="citation-popover-snippet">ademic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</span></span></span>
+Research and policy guidance across administrative and educational settings repeatedly link fairness to transparency, predictability, consistency, and documented procedures. These safeguards make it possible to grant justified extensions without undermining confidence in the system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lshtm.ac.uk">[LSHTM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lshtm.ac.uk</span><span class="citation-popover-title">ademic manual chapter 07</span><span class="citation-popover-snippet">ademic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-dark.svg" | relative_url }}" alt="Fairness Risk illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Fairness Test
@@ -373,272 +373,272 @@ The most important question is not whether one person received extra time. It is
 
 A slippery slope argument claims that an exception will inevitably produce unfairness. A fairness analysis asks whether the decision-making process already contains mechanisms that prevent unequal treatment. When criteria are transparent, reasons are documented, and similar cases are handled similarly, an extension may strengthen fairness rather than weaken it. When discretion is opaque, inconsistent, or selectively available, the fairness risk is genuine.
 
-The difference lies not in the exception itself, but in the quality of the process governing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
+The difference lies not in the exception itself, but in the quality of the process governing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does One Extension Become Unfair?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does One Extension Become Unfair?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Useful for assessing fairness claims logically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing fairness claims logically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Justice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpNK0OEY0gYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Justice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Justice">Justice</a>
-        </h4>
-        <p class="fr-book-author">By Michael J. Sandel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Justice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpNK0OEY0gYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Justice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Justice">Justice</a>
+</h4>
+<p class="fr-book-author">By Michael J. Sandel</p>
         
-        <p class="fr-book-desc">Directly addresses fairness, consistency, and decision-making principles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses fairness, consistency, and decision-making principles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Helps evaluate fairness arguments and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps evaluate fairness arguments and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases that can affect equitable decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases that can affect equitable decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Justice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Justice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Justice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Justice</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ethically Pastel version 2 Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b94a6085b9bbbed839a6.jpg' | relative_url }}" alt="Listing image for Ethically Pastel version 2 Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ethically Pastel version 2 Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ethics wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ethics wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ethically Pastel version 2 Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b94a6085b9bbbed839a6.jpg' | relative_url }}" alt="Listing image for Ethically Pastel version 2 Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ethically Pastel version 2 Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ethics wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ethics wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3f1e8d85a6a6cfe0ac88.jpg' | relative_url }}" alt="Listing image for Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ethics wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ethics wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3f1e8d85a6a6cfe0ac88.jpg' | relative_url }}" alt="Listing image for Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ethics wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ethics wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b873c43fe551e9a456c2.jpg' | relative_url }}" alt="Listing image for Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ethics wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ethics wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b873c43fe551e9a456c2.jpg' | relative_url }}" alt="Listing image for Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ethical Definition Meaning Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ethics wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ethics wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ethics Definition Meaning Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/adf8f32295d0072b4544.jpg' | relative_url }}" alt="Listing image for Ethics Definition Meaning Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ethics Definition Meaning Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ethics wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ethics wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ethics Definition Meaning Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/adf8f32295d0072b4544.jpg' | relative_url }}" alt="Listing image for Ethics Definition Meaning Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ethics Definition Meaning Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ethics wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ethics wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ethics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairness-risk-when-does-one-extension-become-unfair-logical-fallacies-ethics-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -654,7 +654,7 @@ The difference lies not in the exception itself, but in the quality of the proce
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -674,7 +674,7 @@ The difference lies not in the exception itself, but in the quality of the proce
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -706,7 +706,7 @@ The difference lies not in the exception itself, but in the quality of the proce
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -736,7 +736,7 @@ The difference lies not in the exception itself, but in the quality of the proce
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -794,108 +794,108 @@ The difference lies not in the exception itself, but in the quality of the proce
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: alrc.gov.au  
-   Link: <a href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</p></details>
+   Link:<a href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oiahe.org.uk  
-   Link: <a href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow">https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disability and requests for additional consideration - OIAHEExtensions to coursework submission [deadlines](&amp;#123;&amp;#123; &#x27;deadlines/&#x27; | relative_url &amp;#125;&amp;#125;);; Alternative methods of assess...</p></details>
+   Link:<a href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow">https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disability and requests for additional consideration - OIAHEExtensions to coursework submission [deadlines](&amp;#123;&amp;#123; &#x27;deadlines/&#x27; | relative_url &amp;#125;&amp;#125;);; Alternative methods of assess...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: www2.law.ucla.edu  
    Title: School of Law The Mechanisms of the Slippery Slope  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slope risks might also be hidden - especially from aver- age voters - by information...</p></details>
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slope risks might also be hidden - especially from aver- age voters - by information...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: qmul.ac.uk  
    Title: Extenuating Circumstances Policy  
-   Link: <a href="https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jun 2025 — a) Provide an extension to a written coursework deadline. Extensions would normally be a maximum 7 calendar days. Exception...</p></details>
+   Link:<a href="https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jun 2025 — a) Provide an extension to a written coursework deadline. Extensions would normally be a maximum 7 calendar days. Exception...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: decisions.scc-csc.ca  
    Title: SCC Decisions R. v. J.J  
-   Link: <a href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do" target="_blank" rel="noopener noreferrer nofollow">https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCC DecisionsR. v. J.J. - SCC Cases30 Jun 2022 — It is no answer simply to impugn a concern as a “slippery slope” argument. After all, so...</p></details>
+   Link:<a href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do" target="_blank" rel="noopener noreferrer nofollow">https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCC DecisionsR. v. J.J. - SCC Cases30 Jun 2022 — It is no answer simply to impugn a concern as a “slippery slope” argument. After all, so...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: claytonutz.com  
    Title: public law essentials procedural fairness  
-   Link: <a href="https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness" target="_blank" rel="noopener noreferrer nofollow">https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Law Essentials: Procedural fairness2 Dec 2024 — Procedural fairness in administrative decision-making relates to the fairness of t...</p></details>
+   Link:<a href="https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness" target="_blank" rel="noopener noreferrer nofollow">https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Law Essentials: Procedural fairness2 Dec 2024 — Procedural fairness in administrative decision-making relates to the fairness of t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lshtm.ac.uk  
    Title: ademic manual chapter 07  
-   Link: <a href="https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ademic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</p></details>
+   Link:<a href="https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ademic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: diokami.wordpress.com  
    Title: fairness slippery slope  
-   Link: <a href="https://diokami.wordpress.com/2015/03/10/fairness-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://diokami.wordpress.com/2015/03/10/fairness-slippery-slope/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Titivillus - WordPress.com10 Mar 2015 — A fairness slippery slope argument is one that exploits the vagueness of a categ...</p></details>
+   Link:<a href="https://diokami.wordpress.com/2015/03/10/fairness-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://diokami.wordpress.com/2015/03/10/fairness-slippery-slope/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Titivillus - WordPress.com10 Mar 2015 — A fairness slippery slope argument is one that exploits the vagueness of a categ...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskAcademiaUK/comments/1ih1dwu/derby_uni_have_removed_reasonable_adjustments_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAcademiaUK/comments/1ih1dwu/derby_uni_have_removed_reasonable_adjustments_is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Derby Uni have removed reasonable adjustmentsWhile I agree that offering automatic extensions to every deadline may not be a reasonable a...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskAcademiaUK/comments/1ih1dwu/derby_uni_have_removed_reasonable_adjustments_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAcademiaUK/comments/1ih1dwu/derby_uni_have_removed_reasonable_adjustments_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Derby Uni have removed reasonable adjustmentsWhile I agree that offering automatic extensions to every deadline may not be a reasonable a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slopeThe core of the slippery slope argument is that a specific decision under [debate](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;) is likely to result in unintended conse...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slopeThe core of the slippery slope argument is that a specific decision under [debate](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;) is likely to result in unintended conse...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: realaw.blog  
-   Link: <a href="https://realaw.blog/2025/01/17/triggering-access-to-justice-the-relation-between-the-duty-to-give-reasons-and-time-limits-in-administrative-litigation-in-italy-germany-and-france-by-flaminia-aperio-bella/" target="_blank" rel="noopener noreferrer nofollow">https://realaw.blog/2025/01/17/triggering-access-to-justice-the-relation-between-the-duty-to-give-reasons-and-time-limits-in-administrative-litigation-in-italy-germany-and-france-by-flaminia-aperio-bella/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triggering access to justice: the relation between the duty...17 Jan 2025 — This blog post focuses on time limits in administrative liti...</p></details>
+   Link:<a href="https://realaw.blog/2025/01/17/triggering-access-to-justice-the-relation-between-the-duty-to-give-reasons-and-time-limits-in-administrative-litigation-in-italy-germany-and-france-by-flaminia-aperio-bella/" target="_blank" rel="noopener noreferrer nofollow">https://realaw.blog/2025/01/17/triggering-access-to-justice-the-relation-between-the-duty-to-give-reasons-and-time-limits-in-administrative-litigation-in-italy-germany-and-france-by-flaminia-aperio-bella/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triggering access to justice: the relation between the duty...17 Jan 2025 — This blog post focuses on time limits in administrative liti...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bryanschwartzlaw.com  
-   Link: <a href="https://www.bryanschwartzlaw.com/a-win-for-fairness-in-the-u-s-supreme-court-administrative-filing-deadlines-are-not-generally-jurisdictional-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.bryanschwartzlaw.com/a-win-for-fairness-in-the-u-s-supreme-court-administrative-filing-deadlines-are-not-generally-jurisdictional-requirements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court: Administrative Filing Deadlines are Not Generally Jurisdictional Requirements. The United States...Read more...</p></details>
+   Link:<a href="https://www.bryanschwartzlaw.com/a-win-for-fairness-in-the-u-s-supreme-court-administrative-filing-deadlines-are-not-generally-jurisdictional-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.bryanschwartzlaw.com/a-win-for-fairness-in-the-u-s-supreme-court-administrative-filing-deadlines-are-not-generally-jurisdictional-requirements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court: Administrative Filing Deadlines are Not Generally Jurisdictional Requirements. The United States...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: canlii.org  
-   Link: <a href="https://www.canlii.org/en/commentary/doc/2024CanLIIDocs31" target="_blank" rel="noopener noreferrer nofollow">https://www.canlii.org/en/commentary/doc/2024CanLIIDocs31</a>  
+   Link:<a href="https://www.canlii.org/en/commentary/doc/2024CanLIIDocs31" target="_blank" rel="noopener noreferrer nofollow">https://www.canlii.org/en/commentary/doc/2024CanLIIDocs31</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scope.org.uk  
    Title: reasonable adjustments college university  
-   Link: <a href="https://www.scope.org.uk/advice-and-support/reasonable-adjustments-college-university" target="_blank" rel="noopener noreferrer nofollow">https://www.scope.org.uk/advice-and-support/reasonable-adjustments-college-university</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasonable adjustments in college and university26 Aug 2025 — Under the Equality Act, disabled students have rights to reasonable adjustm...</p></details>
+   Link:<a href="https://www.scope.org.uk/advice-and-support/reasonable-adjustments-college-university" target="_blank" rel="noopener noreferrer nofollow">https://www.scope.org.uk/advice-and-support/reasonable-adjustments-college-university</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasonable adjustments in college and university26 Aug 2025 — Under the Equality Act, disabled students have rights to reasonable adjustm...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hallandwilcox.com.au  
-   Link: <a href="https://hallandwilcox.com.au/news/regulating-the-discretion-to-extend-time-applying-statutory-extension-of-time-provisions/" target="_blank" rel="noopener noreferrer nofollow">https://hallandwilcox.com.au/news/regulating-the-discretion-to-extend-time-applying-statutory-extension-of-time-provisions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ringe upon the general right of access to the courts.Read more...</p></details>
+   Link:<a href="https://hallandwilcox.com.au/news/regulating-the-discretion-to-extend-time-applying-statutory-extension-of-time-provisions/" target="_blank" rel="noopener noreferrer nofollow">https://hallandwilcox.com.au/news/regulating-the-discretion-to-extend-time-applying-statutory-extension-of-time-provisions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ringe upon the general right of access to the courts.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: yalelawandpolicy.org  
    Title: 6 mooney deadlines in civil litigation  
-   Link: <a href="https://yalelawandpolicy.org/sites/default/files/YLPR/6_mooney_deadlines_in_civil_litigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yalelawandpolicy.org/sites/default/files/YLPR/6_mooney_deadlines_in_civil_litigation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deadlines in Civil Litigationby J Mooney · 2019 · Cited by 4 — But the new weighing principles would provide a more equitable normative b...</p></details>
+   Link:<a href="https://yalelawandpolicy.org/sites/default/files/YLPR/6_mooney_deadlines_in_civil_litigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yalelawandpolicy.org/sites/default/files/YLPR/6_mooney_deadlines_in_civil_litigation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deadlines in Civil Litigationby J Mooney · 2019 · Cited by 4 — But the new weighing principles would provide a more equitable normative b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: edwebcontent.ed.ac.uk  
    Title: exceptional circumstances policy final  
-   Link: <a href="https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/exceptional_circumstances_policy_-_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/exceptional_circumstances_policy_-_final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Web ContentExceptional Circumstances Policy16 Sept 2024 — 1.1 The purpose of this policy is to ensure a fair and consistent response to...</p></details>
+   Link:<a href="https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/exceptional_circumstances_policy_-_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/exceptional_circumstances_policy_-_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web ContentExceptional Circumstances Policy16 Sept 2024 — 1.1 The purpose of this policy is to ensure a fair and consistent response to...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: europeanpapers.eu  
    Title: A Journal on Law and Integration, Vol  
-   Link: <a href="https://www.europeanpapers.eu/sites/default/files/EP_eJ_2021_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpapers.eu/sites/default/files/EP_eJ_2021_2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2021, No 2... precedent for the K 3/21 ruling. This [tu quoque](&amp;#123;&amp;#123; &#x27;tu-quoque/&#x27; | relative_url &amp;#125;&amp;#125;) argument is unfounded, as the two rulings reveal a number of dis- simila...</p></details>
+   Link:<a href="https://www.europeanpapers.eu/sites/default/files/EP_eJ_2021_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpapers.eu/sites/default/files/EP_eJ_2021_2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2021, No 2... precedent for the K 3/21 ruling. This [tu quoque](&amp;#123;&amp;#123; &#x27;tu-quoque/&#x27; | relative_url &amp;#125;&amp;#125;) argument is unfounded, as the two rulings reveal a number of dis- simila...</p></details>

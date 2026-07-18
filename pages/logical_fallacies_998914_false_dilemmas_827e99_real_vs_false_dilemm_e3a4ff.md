@@ -274,14 +274,14 @@ image: /assets/images/logical_fallacies_998914_false_dilemmas_827e99_real_vs_fal
 
 ## Introduction
 
-Not every either-or choice is a [false dilemma]({{ 'false-dilemma/' | relative_url }}). Some situations genuinely narrow to [two options]({{ 'two-options/' | relative_url }}), and recognising this distinction is important for evaluating arguments fairly. A false dilemma becomes fallacious because it excludes real alternatives. A real dilemma, by contrast, exists when the available options are genuinely exhaustive for the decision being made, even if neither option is attractive. The key question is not whether there are only two choices on the table, but whether there are only two choices that remain possible within the relevant decision frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span>
+Not every either-or choice is a [false dilemma]({{ 'false-dilemma/' | relative_url }}). Some situations genuinely narrow to [two options]({{ 'two-options/' | relative_url }}), and recognising this distinction is important for evaluating arguments fairly. A false dilemma becomes fallacious because it excludes real alternatives. A real dilemma, by contrast, exists when the available options are genuinely exhaustive for the decision being made, even if neither option is attractive. The key question is not whether there are only two choices on the table, but whether there are only two choices that remain possible within the relevant decision frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_real_vs_false_dilemm_e3a4ff-Illustration-1-dark.svg" | relative_url }}" alt="Real Choices illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_real_vs_false_dilemm_e3a4ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_real_vs_false_dilemm_e3a4ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because criticism of [false dilemmas]({{ 'false-dilemma/' | relative_url }}) can itself become a mistake. People sometimes assume that every binary choice hides a middle ground. In reality, some votes, verdicts, [deadlines]({{ 'deadlines/' | relative_url }}), and emergency decisions require selecting one of two mutually exclusive outcomes. The challenge is determining when the binary reflects reality and when it reflects an artificially narrowed argument.
 
 ## When Is a Dilemma Actually Real?
 
-A dilemma is genuinely binary when the available alternatives are both **mutually exclusive** and **jointly exhaustive**. Mutually exclusive means both options cannot be chosen simultaneously. Jointly exhaustive means there is no third possibility within the decision being made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.c2.com/?FalseDichotomy=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.c2.com">[wiki.c2.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.c2.com</span><span class="citation-popover-snippet">False DichotomyA dichotomy is a set of two mutually exclusive, jointly exhaustive alternatives. Dichotomies are typically expressed with...</span></span></span>
+A dilemma is genuinely binary when the available alternatives are both **mutually exclusive** and **jointly exhaustive**. Mutually exclusive means both options cannot be chosen simultaneously. Jointly exhaustive means there is no third possibility within the decision being made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.c2.com/?FalseDichotomy=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.c2.com">[wiki.c2.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.c2.com</span><span class="citation-popover-snippet">False DichotomyA dichotomy is a set of two mutually exclusive, jointly exhaustive alternatives. Dichotomies are typically expressed with...</span></span></span>
 
 Consider a simple logical example:
 
@@ -293,7 +293,7 @@ Consider a simple logical example:
 
 </div>
 
-This is a genuine dichotomy rather than a false one. Likewise, in [formal logic]({{ 'formal-logic/' | relative_url }}), a disjunctive argument can be valid when the alternatives truly exhaust the possibilities. The logical structure itself is not defective; the problem arises only when the list of alternatives is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesBut the false dilemma fallacy is due to false premises. Still other... The fallacy is called...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span> The practical lesson is that a binary choice is not suspicious merely because it contains two options. It becomes suspicious only when thereis reason to believe that other relevant options have been omitted.
+This is a genuine dichotomy rather than a false one. Likewise, in [formal logic]({{ 'formal-logic/' | relative_url }}), a disjunctive argument can be valid when the alternatives truly exhaust the possibilities. The logical structure itself is not defective; the problem arises only when the list of alternatives is incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesBut the false dilemma fallacy is due to false premises. Still other... The fallacy is called...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span> The practical lesson is that a binary choice is not suspicious merely because it contains two options. It becomes suspicious only when thereis reason to believe that other relevant options have been omitted.
 
 ## Jointly Exhaustive Choices
 
@@ -328,7 +328,7 @@ For example:
 * Either a coin landed heads or it did not land heads.
 * Either a particular event occurred or it did not occur.
 
-These alternatives are exhaustive because one option is the direct negation of the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
+These alternatives are exhaustive because one option is the direct negation of the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
 
 By contrast:
 
@@ -391,199 +391,199 @@ Several mistakes occur when people try to identify false dilemmas.
 
 ## The Key Distinction
 
-The central question is not whether an argument presents two options. The central question is whether those two options genuinely cover the available possibilities relevant to the decision at hand. A false dilemma artificially narrows the field. A real dilemma reflects genuine constraints, exhaustive alternatives, or unavoidable decision rules. Understanding that difference helps prevent two opposite errors: accepting a misleading binary when other options exist, and rejecting a legitimate binary merely because reality outside the immediate choice remains complex. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
+The central question is not whether an argument presents two options. The central question is whether those two options genuinely cover the available possibilities relevant to the decision at hand. A false dilemma artificially narrows the field. A real dilemma reflects genuine constraints, exhaustive alternatives, or unavoidable decision rules. Understanding that difference helps prevent two opposite errors: accepting a misleading binary when other options exist, and rejecting a legitimate binary merely because reality outside the immediate choice remains complex.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lurgo_TnOnA" title="Formal and Informal Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lurgo_TnOnA" target="_blank" rel="noopener noreferrer">Formal and Informal Fallacies</a></p><p class="youtube-embed-meta">Channel: teachphilosophy &middot; Views: 11.1K &middot; Uploaded: January 2013 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lurgo_TnOnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lurgo_TnOnA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Is a Dilemma Actually Real?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Is a Dilemma Actually Real?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Patrick J. Hurley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Patrick J. Hurley</p>
         
-        <p class="fr-book-desc">Directly explains valid dichotomies, validity, and logical structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains valid dichotomies, validity, and logical structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jDOoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Logic">Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Irving M. Copi, Carl Cohen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jDOoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Logic">Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Irving M. Copi, Carl Cohen et al.</p>
         
-        <p class="fr-book-desc">Covers exhaustive categories and deductive reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers exhaustive categories and deductive reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Helps distinguish sound framing from fallacious framing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps distinguish sound framing from fallacious framing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Explains false dilemmas alongside legitimate dilemmas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains false dilemmas alongside legitimate dilemmas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)"><img src="https://i.ebayimg.com/images/g/YmEAAeSwfWxpe5MF/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)"><img src="https://i.ebayimg.com/images/g/YmEAAeSwfWxpe5MF/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Logic Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/oQQAAOSwGVNidEo0/s-l225.jpg" alt="Listing image for Large A3 Logic Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Large A3 Logic Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Logic Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/oQQAAOSwGVNidEo0/s-l225.jpg" alt="Listing image for Large A3 Logic Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Large A3 Logic Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/~WAAAeSwEdBpYQ3U/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/~WAAAeSwEdBpYQ3U/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic *beep* Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/XqsAAeSwVEZp1Tdl/s-l225.jpg" alt="Listing image for Logic *beep* Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic *beep* Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic *beep* Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/XqsAAeSwVEZp1Tdl/s-l225.jpg" alt="Listing image for Logic *beep* Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic *beep* Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-dilemma-actually-real-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-is-a-dilemma-actually-real-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ The central question is not whether an argument presents two options. The centra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ The central question is not whether an argument presents two options. The centra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ The central question is not whether an argument presents two options. The centra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ The central question is not whether an argument presents two options. The centra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ The central question is not whether an argument presents two options. The centra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,131 +789,131 @@ The central question is not whether an argument presents two options. The centra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: False dilemma  
-   Link: <a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wiki.c2.com  
-   Link: <a href="https://wiki.c2.com/?FalseDichotomy=" target="_blank" rel="noopener noreferrer nofollow">https://wiki.c2.com/?FalseDichotomy=</a>  
+   Link:<a href="https://wiki.c2.com/?FalseDichotomy=" target="_blank" rel="noopener noreferrer nofollow">https://wiki.c2.com/?FalseDichotomy=</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — It suggests that philosophy needs an [informal logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) to add...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — It suggests that philosophy needs an [informal logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) to add...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: web.stanford.edu  
    Title: Logical Fallacies  
-   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesFalse Dilemma: two choices are given when in fact there are three options; From Ignorance: because something is not known to be...</p></details>
+   Link:<a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesFalse Dilemma: two choices are given when in fact there are three options; From Ignorance: because something is not known to be...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesBut the false dilemma fallacy is due to false premises. Still other... The fallacy is called...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesBut the false dilemma fallacy is due to false premises. Still other... The fallacy is called...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: seop.illc.uva.nl  
-   Link: <a href="https://seop.illc.uva.nl/entries/contradiction/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/contradiction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyContradictionby LR Horn · 2006 · Cited by 130 — The law of contradictories is such that if one contrad...</p></details>
+   Link:<a href="https://seop.illc.uva.nl/entries/contradiction/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/contradiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyContradictionby LR Horn · 2006 · Cited by 130 — The law of contradictories is such that if one contrad...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/propositional-logic-sentential-logic/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/propositional-logic-sentential-logic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyPropositional Logic(Disjunctive syllogism is sometimes also called “modus tollendo ponens” or... fals...</p></details>
+   Link:<a href="https://iep.utm.edu/propositional-logic-sentential-logic/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/propositional-logic-sentential-logic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyPropositional Logic(Disjunctive syllogism is sometimes also called “modus tollendo ponens” or... fals...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribbr.co.uk  
    Title: False Dilemma Fallacy | Examples & Definition  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/false-dilemma/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist)...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/false-dilemma/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist)...</p></details>
    Published: May 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: microsoft.com  
    Title: false dilemma fallacy  
-   Link: <a href="https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a false dilemma fallacy? Explore...17 Dec 2024 — A type of logical fallacy that misrepresents an issue by presenting only two op...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a false dilemma fallacy? Explore...17 Dec 2024 — A type of logical fallacy that misrepresents an issue by presenting only two op...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: logicallyfallacious.com  
    Title: False Dilemma  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fallaciesDescription: When only two choices are presented yet more exist, or a spectrum of possible choices exists between two extremes...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fallaciesDescription: When only two choices are presented yet more exist, or a spectrum of possible choices exists between two extremes...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: owl.excelsior.edu  
    Title: logical fallacies false dilemma  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dilemma Fallacy - Excelsior OWLA false dilemma is a logical fallacy that presents only two options or sides to an issue when there are ac...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dilemma Fallacy - Excelsior OWLA false dilemma is a logical fallacy that presents only two options or sides to an issue when there are ac...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribbr.com  
    Title: false dilemma fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/false-dilemma-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition30 May 2023 — The false dilemma fallacy means presenting a limited number of options as if they were the only option...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/false-dilemma-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition30 May 2023 — The false dilemma fallacy means presenting a limited number of options as if they were the only option...</p></details>
    Published: May 2023  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pastpaperhero.com  
-   Link: <a href="https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common logical fallacies and reasoning errorsFalse dilemma occurs when an argument illegitimately limits options to two; Dichotomy errors...</p></details>
+   Link:<a href="https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common logical fallacies and reasoning errorsFalse dilemma occurs when an argument illegitimately limits options to two; Dichotomy errors...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is incorrect argumentation in logic and rhetoric resulting in a lack of validity, or more generally, a lack of...</p></details>
+   Link:<a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is incorrect argumentation in logic and rhetoric resulting in a lack of validity, or more generally, a lack of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2688029951255361/posts/6694802633911386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2688029951255361/posts/6694802633911386/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a false dichotomy in logical fallacyA false dichotomy (or false dilemma) is a logical fallacy in which a limited number of choice...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2688029951255361/posts/6694802633911386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2688029951255361/posts/6694802633911386/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a false dichotomy in logical fallacyA false dichotomy (or false dilemma) is a logical fallacy in which a limited number of choice...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/black-or-white" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/black-or-white</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is black or whiteYou presented two alternative states as the only possibilities, when in fact more possibilities exi...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/black-or-white" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/black-or-white</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is black or whiteYou presented two alternative states as the only possibilities, when in fact more possibilities exi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: philosophy.stackexchange.com  
    Title: which of common rules of inference are rejected on some philosophical grounds  
-   Link: <a href="https://philosophy.stackexchange.com/questions/68932/which-of-common-rules-of-inference-are-rejected-on-some-philosophical-grounds" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/68932/which-of-common-rules-of-inference-are-rejected-on-some-philosophical-grounds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of common rules of inference are rejected on some...7 Dec 2019 — Disjunction introduction jointly with disjunctive syllogism {p∨q,¬p} ⊢...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/68932/which-of-common-rules-of-inference-are-rejected-on-some-philosophical-grounds" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/68932/which-of-common-rules-of-inference-are-rejected-on-some-philosophical-grounds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of common rules of inference are rejected on some...7 Dec 2019 — Disjunction introduction jointly with disjunctive syllogism {p∨q,¬p} ⊢...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: digitalcommons.unomaha.edu  
-   Link: <a href="https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&amp;[context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Called the &#x27;False Dilemma Fallacy&#x27; (FDF)by R Conces · 2023 · Cited by 1 — Abstract: This work is a revision of the False Dilemma Fallacy...</p></details>
+   Link:<a href="https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&amp;[context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Called the &#x27;False Dilemma Fallacy&#x27; (FDF)by R Conces · 2023 · Cited by 1 — Abstract: This work is a revision of the False Dilemma Fallacy...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-9-false-choicedefinition-and-explanation-the-false-choice-/810469734411059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-9-false-choicedefinition-and-explanation-the-false-choice-/810469734411059/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the options that are presented are collectively exhaustive.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-9-false-choicedefinition-and-explanation-the-false-choice-/810469734411059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-9-false-choicedefinition-and-explanation-the-false-choice-/810469734411059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the options that are presented are collectively exhaustive.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
    Title: What Is the Either-Or Fallacy?  
-   Link: <a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma, Dichotomy...The either-or fallacy, also called a false dilemma, is a logical error that happens when someone presents...</p></details>
+   Link:<a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma, Dichotomy...The either-or fallacy, also called a false dilemma, is a logical error that happens when someone presents...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: False Dilemma: Either Love it or Fear it  
-   Link: <a href="https://www.youtube.com/watch?v=iZ3u8sP8tDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3u8sP8tDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic Series...A false dilemma is a logical fallacy that claims are only two choices when upon closer inspection they&#x27;re more possibilit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iZ3u8sP8tDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3u8sP8tDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic Series...A false dilemma is a logical fallacy that claims are only two choices when upon closer inspection they&#x27;re more possibilit...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: st.network  
-   Link: <a href="https://st.network/analysis/top/the-false-dilemma-why-would-you-accept-not-having-a-choice.html" target="_blank" rel="noopener noreferrer nofollow">https://st.network/analysis/top/the-false-dilemma-why-would-you-accept-not-having-a-choice.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The false dilemma: Are there really only two choices?10 Aug 2020 — This fallacy contains the false supposition that, in a given matter, t...</p></details>
+   Link:<a href="https://st.network/analysis/top/the-false-dilemma-why-would-you-accept-not-having-a-choice.html" target="_blank" rel="noopener noreferrer nofollow">https://st.network/analysis/top/the-false-dilemma-why-would-you-accept-not-having-a-choice.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The false dilemma: Are there really only two choices?10 Aug 2020 — This fallacy contains the false supposition that, in a given matter, t...</p></details>

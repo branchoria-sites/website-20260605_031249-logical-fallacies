@@ -277,7 +277,7 @@ image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards
 Accusations of hypocrisy are often dismissed as examples of the [tu quoque]({{ 'tu-quoque/' | relative_url }}) fallacy: “You do it too, therefore your argument is wrong.” In many cases that dismissal is correct. A rule does not become false merely because someone violates it. However, disputes about double standards occupy a special position. When the issue is whether rules are being applied fairly, consistently, and equally, comparing how different people are treated is not a distraction from the argument—it is often the argument itself.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-1-dark.svg" | relative_url }}" alt="Double Standards illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key distinction is simple. If a hypocrisy charge is used to avoid addressing a claim, it remains a fallacy. If it is used to show that the same standard is being enforced differently against similar cases, it may identify a genuine problem of fairness, legitimacy, or governance. In debates about institutions, discipline, regulation, and public authority, equal treatment is frequently the central question rather than a side issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Though textbook tu quoque arguments are fallacies of relevance, many versions of arguments from hypocrisy are indirectly relevant to the...</span></span></span>
+The key distinction is simple. If a hypocrisy charge is used to avoid addressing a claim, it remains a fallacy. If it is used to show that the same standard is being enforced differently against similar cases, it may identify a genuine problem of fairness, legitimacy, or governance. In debates about institutions, discipline, regulation, and public authority, equal treatment is frequently the central question rather than a side issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Though textbook tu quoque arguments are fallacies of relevance, many versions of arguments from hypocrisy are indirectly relevant to the...</span></span></span>
 
 ## When Double Standards Are the Point
 
@@ -293,7 +293,7 @@ A double-standards argument asks a different question:
 
 Here the focus shifts from the speaker's character to the consistency of the decision-making process. The concern is not whether the rule exists, but whether authorities are applying it impartially.
 
-This distinction matters because many systems derive legitimacy from equal treatment. Legal and constitutional traditions across democratic societies emphasise equality before the law and the idea that no individual should receive special exemptions merely because of status, influence, or identity. The principle that people in comparable circumstances should be treated comparably is widely recognised as a core element of the rule of law. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://fra.europa.eu/en/eu-charter/article/20-equality-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fra.europa.eu">[EU Agency for Fundamental Rights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fra.europa.eu</span><span class="citation-popover-title">EU Agency for Fundamental Rights Article 20</span><span class="citation-popover-snippet">EU Agency for Fundamental RightsArticle 20 - Equality before the lawArticle 16 (1) Citizens are equal before the law and public authoriti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission What is the rule of law?</span><span class="citation-popover-snippet">European CommissionUnder the rule of law, all public powers always act within the constraints set out by law, in accordance with the valu...</span></span></span>
+This distinction matters because many systems derive legitimacy from equal treatment. Legal and constitutional traditions across democratic societies emphasise equality before the law and the idea that no individual should receive special exemptions merely because of status, influence, or identity. The principle that people in comparable circumstances should be treated comparably is widely recognised as a core element of the rule of law. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://fra.europa.eu/en/eu-charter/article/20-equality-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fra.europa.eu">[EU Agency for Fundamental Rights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fra.europa.eu</span><span class="citation-popover-title">EU Agency for Fundamental Rights Article 20</span><span class="citation-popover-snippet">EU Agency for Fundamental RightsArticle 20 - Equality before the lawArticle 16 (1) Citizens are equal before the law and public authoriti...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission What is the rule of law?</span><span class="citation-popover-snippet">European CommissionUnder the rule of law, all public powers always act within the constraints set out by law, in accordance with the valu...</span></span></span>
 
 As a result, pointing to inconsistent enforcement is not automatically a logical fallacy. It may be evidence that the institution itself is failing to live up to its stated standards.
 
@@ -314,7 +314,7 @@ The same logic appears in many settings:
 
 </div>
 
-In each case, comparison is necessary because the complaint concerns unequal treatment. The accusation is not merely “you are hypocritical.” It is “your enforcement practices are inconsistent with the standards you claim to uphold.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission What is the rule of law?</span><span class="citation-popover-snippet">European CommissionUnder the rule of law, all public powers always act within the constraints set out by law, in accordance with the valu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: venice.coe.int">[2venice.coe.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">venice.coe.int</span><span class="citation-popover-snippet">Rule of Law ChecklistEquality before the law and non-discrimination. 1. Principle. Does the... Is there a perception that prosecutorial...</span></span></span>
+In each case, comparison is necessary because the complaint concerns unequal treatment. The accusation is not merely “you are hypocritical.” It is “your enforcement practices are inconsistent with the standards you claim to uphold.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission What is the rule of law?</span><span class="citation-popover-snippet">European CommissionUnder the rule of law, all public powers always act within the constraints set out by law, in accordance with the valu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: venice.coe.int">[2venice.coe.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">venice.coe.int</span><span class="citation-popover-snippet">Rule of Law ChecklistEquality before the law and non-discrimination. 1. Principle. Does the... Is there a perception that prosecutorial...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jqMEarZ9r8A" title="Bernadette&#x27;s Hypocrisy Exposed: What is Special Pleading? | Logical Fallacies in The Big Bang Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jqMEarZ9r8A" target="_blank" rel="noopener noreferrer">Bernadette&#x27;s Hypocrisy Exposed: What is Special Pleading? | Logical Fallacies in The Big Bang Theory</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 1.7K &middot; Uploaded: April 2024 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jqMEarZ9r8A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jqMEarZ9r8A">Open on YouTube</a></p></div></div></div>
 
@@ -342,7 +342,7 @@ Now imagine someone responds:
 
 Unless the claim is that officers were treated differently under the same circumstances, the observation may not affect whether the speeding violation occurred. It may simply redirect attention away from the case at hand.
 
-The difference lies in the target of the criticism. Genuine double-standard arguments scrutinise the enforcement system. Mere tu quoque responses focus on the personal inconsistency of an opponent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">to Fallacies - Stanford Encyclopedia of Philosophy9. At (2010, 179) Walton says that a fallacy is an argument that seems to be correct bu...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</span></span></span>
+The difference lies in the target of the criticism. Genuine double-standard arguments scrutinise the enforcement system. Mere tu quoque responses focus on the personal inconsistency of an opponent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">to Fallacies - Stanford Encyclopedia of Philosophy9. At (2010, 179) Walton says that a fallacy is an argument that seems to be correct bu...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-2-dark.svg" | relative_url }}" alt="Double Standards illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Testing Whether Like Cases Are Really Alike
@@ -373,7 +373,7 @@ Authorities often possess legitimate reasons for treating cases differently:
 
 The presence of unequal outcomes alone does not prove a double standard. The key question is whether the differences relied upon actually justify the distinction.
 
-This is why many accusations of hypocrisy become contentious. One side sees two equivalent cases receiving different treatment. The other side argues that the cases differ in ways that matter. The [debate]({{ 'debate/' | relative_url }}) then shifts from moral [outrage]({{ 'outrage/' | relative_url }}) to the more precise question of whether the distinctions are relevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fra.europa.eu/en/eu-charter/article/20-equality-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fra.europa.eu">[EU Agency for Fundamental Rights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fra.europa.eu</span><span class="citation-popover-title">EU Agency for Fundamental Rights Article 20</span><span class="citation-popover-snippet">EU Agency for Fundamental RightsArticle 20 - Equality before the lawArticle 16 (1) Citizens are equal before the law and public authoriti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undp.org">[UNDP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undp.org</span><span class="citation-popover-snippet">6. The principles of equality and non-discrimination are a.Read more...</span></span></span>
+This is why many accusations of hypocrisy become contentious. One side sees two equivalent cases receiving different treatment. The other side argues that the cases differ in ways that matter. The [debate]({{ 'debate/' | relative_url }}) then shifts from moral [outrage]({{ 'outrage/' | relative_url }}) to the more precise question of whether the distinctions are relevant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fra.europa.eu/en/eu-charter/article/20-equality-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fra.europa.eu">[EU Agency for Fundamental Rights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fra.europa.eu</span><span class="citation-popover-title">EU Agency for Fundamental Rights Article 20</span><span class="citation-popover-snippet">EU Agency for Fundamental RightsArticle 20 - Equality before the lawArticle 16 (1) Citizens are equal before the law and public authoriti...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undp.org">[UNDP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undp.org</span><span class="citation-popover-snippet">6. The principles of equality and non-discrimination are a.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Men872PWMfI" title="Logcial Fallacies: Special Pleading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Men872PWMfI" target="_blank" rel="noopener noreferrer">Logcial Fallacies: Special Pleading</a></p><p class="youtube-embed-meta">Channel: Bitesize Philosophy &middot; Views: 1.7K &middot; Uploaded: August 2023 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Men872PWMfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Men872PWMfI">Open on YouTube</a></p></div></div></div>
 
@@ -381,7 +381,7 @@ This is why many accusations of hypocrisy become contentious. One side sees two 
 
 Concerns about double standards become especially significant when institutions exercise coercive power.
 
-Legal scholars and governance bodies frequently identify arbitrary or selective enforcement as a threat to the rule of law because it undermines predictability, equality, and public trust. Citizens are more likely to accept unfavourable decisions when they believe the same standards apply to everyone. Conversely, perceived favouritism can weaken confidence even when individual decisions are legally defensible. PMC 3Wikipedia ScienceDirect This helps explain why accusations of double standards are common in political debate. They are often attempts to challenge the legitimacy of <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1755309111000037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Selective enforcement of regulationby D Chen · 2011 · Cited by 90 — Selective enforcement occurs when law enforcers derail the course of...</span></span></span> enforcement rather than the validity of the underlying rule.
+Legal scholars and governance bodies frequently identify arbitrary or selective enforcement as a threat to the rule of law because it undermines predictability, equality, and public trust. Citizens are more likely to accept unfavourable decisions when they believe the same standards apply to everyone. Conversely, perceived favouritism can weaken confidence even when individual decisions are legally defensible. PMC 3Wikipedia ScienceDirect This helps explain why accusations of double standards are common in political debate. They are often attempts to challenge the legitimacy of<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1755309111000037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Selective enforcement of regulationby D Chen · 2011 · Cited by 90 — Selective enforcement occurs when law enforcers derail the course of...</span></span></span> enforcement rather than the validity of the underlying rule.
 
 A government may be correct that corruption is wrong. Critics can still raise a serious fairness objection if anti-corruption measures are directed exclusively at political opponents while allies receive protection. The criticism does not deny the rule. It questions whether the rule is being administered impartially.
 
@@ -405,7 +405,7 @@ The reasoning may be legitimate when it follows this pattern:
 
 </div>
 
-The first attacks the truth or value of the rule through the speaker's inconsistency. The second examines whether the rule is being applied consistently across cases. Informal-logic scholars have argued that some arguments from hypocrisy become relevant precisely because they reveal issues of authority, sincerity, practicality, or enforcement rather than attempting to refute the underlying claim directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Though textbook tu quoque arguments are fallacies of relevance, many versions of arguments from hypocrisy are indirectly relevant to the...</span></span></span>
+The first attacks the truth or value of the rule through the speaker's inconsistency. The second examines whether the rule is being applied consistently across cases. Informal-logic scholars have argued that some arguments from hypocrisy become relevant precisely because they reveal issues of authority, sincerity, practicality, or enforcement rather than attempting to refute the underlying claim directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Though textbook tu quoque arguments are fallacies of relevance, many versions of arguments from hypocrisy are indirectly relevant to the...</span></span></span>
 
 ## What Makes a Strong Double-Standards Argument?
 
@@ -431,194 +431,194 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/36-Xv16NZ_c" title="Tu quoque: You Too?!? - Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer">Tu quoque: You Too?!? - Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 9.2K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=36-Xv16NZ_c">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Double Standards Are the Point. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Double Standards Are the Point. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers understand how people evaluate consistency, equal treatment, and decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how people evaluate consistency, equal treatment, and decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explores why groups apply standards differently and disagree about fairness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why groups apply standards differently and disagree about fairness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Justice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpNK0OEY0gYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Justice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Justice">Justice</a>
-        </h4>
-        <p class="fr-book-author">By Michael J. Sandel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Justice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpNK0OEY0gYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Justice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Justice">Justice</a>
+</h4>
+<p class="fr-book-author">By Michael J. Sandel</p>
         
-        <p class="fr-book-desc">Directly addresses fairness, equal treatment, and legitimacy of rules.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses fairness, equal treatment, and legitimacy of rules.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Justice+by+Michael+J.+Sandel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Helps distinguish valid fairness critiques from fallacious personal attacks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps distinguish valid fairness critiques from fallacious personal attacks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Justice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Justice</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Justice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Justice</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3"><img src="https://i.ebayimg.com/images/g/aqgAAOSw0s9mAMYz/s-l225.jpg" alt="Listing image for LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3"><img src="https://i.ebayimg.com/images/g/aqgAAOSw0s9mAMYz/s-l225.jpg" alt="Listing image for LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch"><img src="https://i.ebayimg.com/images/g/No4AAOSwgyBmw8Rr/s-l225.jpg" alt="Listing image for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch"><img src="https://i.ebayimg.com/images/g/No4AAOSwgyBmw8Rr/s-l225.jpg" alt="Listing image for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Signed Everybody Album Poster With Frame"><img src="https://i.ebayimg.com/images/g/nd0AAeSwoApoMksV/s-l225.jpg" alt="Listing image for Logic Signed Everybody Album Poster With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Signed Everybody Album Poster With Frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Signed Everybody Album Poster With Frame"><img src="https://i.ebayimg.com/images/g/nd0AAeSwoApoMksV/s-l225.jpg" alt="Listing image for Logic Signed Everybody Album Poster With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Signed Everybody Album Poster With Frame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph"><img src="https://i.ebayimg.com/images/g/OakAAeSwANhpVBzJ/s-l225.jpg" alt="Listing image for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph"><img src="https://i.ebayimg.com/images/g/OakAAeSwANhpVBzJ/s-l225.jpg" alt="Listing image for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-double-standards-are-the-point-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-double-standards-are-the-point-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -783,7 +783,7 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -824,156 +824,156 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKTQA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Though textbook tu quoque arguments are fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), many versions of arguments from hypocrisy are indirectly relevant to the...</p></details>
+   Link:<a href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKTQA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Though textbook tu quoque arguments are fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), many versions of arguments from hypocrisy are indirectly relevant to the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: There are  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: venice.coe.int  
-   Link: <a href="https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf</a>  
+   Link:<a href="https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9006207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9006207/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconciling the Theory and the Practice of the Rule of Law in...by J Beqiraj · 2022 · Cited by 29 — These principles are grouped into...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9006207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9006207/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconciling the Theory and the Practice of the Rule of Law in...by J Beqiraj · 2022 · Cited by 29 — These principles are grouped into...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: undp.org  
-   Link: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6. The principles of equality and non-discrimination are a.Read more...</p></details>
+   Link:<a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6. The principles of equality and non-discrimination are a.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Selective enforcement  
-   Link: <a href="https://en.wikipedia.org/wiki/Selective_enforcement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selective_enforcement</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Selective_enforcement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selective_enforcement</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1755309111000037" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1755309111000037</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Selective enforcement of regulationby D Chen · 2011 · Cited by 90 — Selective enforcement occurs when law enforcers derail the course of...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1755309111000037" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1755309111000037</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Selective enforcement of regulationby D Chen · 2011 · Cited by 90 — Selective enforcement occurs when law enforcers derail the course of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: review.law.stanford.edu  
    Title: Marshall 72 Stan. L. Rev. 1421  
-   Link: <a href="https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/05/Marshall-72-Stan.-L.-Rev.-1421.pdf" target="_blank" rel="noopener noreferrer nofollow">https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/05/Marshall-72-Stan.-L.-Rev.-1421.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protection Clause protects generally against the law being applied differently against people of...Read more...</p></details>
+   Link:<a href="https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/05/Marshall-72-Stan.-L.-Rev.-1421.pdf" target="_blank" rel="noopener noreferrer nofollow">https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/05/Marshall-72-Stan.-L.-Rev.-1421.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protection Clause protects generally against the law being applied differently against people of...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Fallacies - Stanford Encyclopedia of Philosophy9. At (2010, 179) Walton says that a fallacy is an argument that seems to be correct bu...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Fallacies - Stanford Encyclopedia of Philosophy9. At (2010, 179) Walton says that a fallacy is an argument that seems to be correct bu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fra.europa.eu  
    Title: EU Agency for Fundamental Rights Article 20  
-   Link: <a href="https://fra.europa.eu/en/eu-charter/article/20-equality-law" target="_blank" rel="noopener noreferrer nofollow">https://fra.europa.eu/en/eu-charter/article/20-equality-law</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Agency for Fundamental RightsArticle 20 - Equality before the lawArticle 16 (1) Citizens are equal before the law and public authoriti...</p></details>
+   Link:<a href="https://fra.europa.eu/en/eu-charter/article/20-equality-law" target="_blank" rel="noopener noreferrer nofollow">https://fra.europa.eu/en/eu-charter/article/20-equality-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU Agency for Fundamental RightsArticle 20 - Equality before the lawArticle 16 (1) Citizens are equal before the law and public authoriti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commission.europa.eu  
    Title: European Commission What is the rule of law?  
-   Link: <a href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionUnder the rule of law, all public powers always act within the constraints set out by law, in accordance with the valu...</p></details>
+   Link:<a href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionUnder the rule of law, all public powers always act within the constraints set out by law, in accordance with the valu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Fallacy | Definition &amp; Examples - LessonMore precisely, the tu quoque fallacy, a circumstantial ad hominem, attempts to counter...</p></details>
+   Link:<a href="https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Fallacy | Definition &amp; Examples - LessonMore precisely, the tu quoque fallacy, a circumstantial ad hominem, attempts to counter...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: finmasters.com  
    Title: Tu Quoque Fallacy  
-   Link: <a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>
+   Link:<a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thoughtco.com  
    Title: Tu Quoque  
-   Link: <a href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which does not attack a per...</p></details>
+   Link:<a href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which does not attack a per...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: philosophicalsociety.com  
-   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesInconsistency, moreover, may raise issues of hypocrisy or double standards, but it does not bear upon the argument at ha...</p></details>
+   Link:<a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesInconsistency, moreover, may raise issues of hypocrisy or double standards, but it does not bear upon the argument at ha...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Tu quoque)Description: Claiming the argument is flawed by pointing out that the one making the argument is not acting consist...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Tu quoque)Description: Claiming the argument is flawed by pointing out that the one making the argument is not acting consist...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401073238_Selective_Enforcement_in_the_Criminal_Justice_System_Between_Discretion_and_Abuse_of_Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401073238_Selective_Enforcement_in_the_Criminal_Justice_System_Between_Discretion_and_Abuse_of_Authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Selective Enforcement in the Criminal Justice System10 Apr 2026 — Selective enforcement has been shown to undermine the principles...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401073238_Selective_Enforcement_in_the_Criminal_Justice_System_Between_Discretion_and_Abuse_of_Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401073238_Selective_Enforcement_in_the_Criminal_Justice_System_Between_Discretion_and_Abuse_of_Authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Selective Enforcement in the Criminal Justice System10 Apr 2026 — Selective enforcement has been shown to undermine the principles...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: legalblogs.wolterskluwer.com  
-   Link: <a href="https://legalblogs.wolterskluwer.com/competition-blog/rethinking-the-rule-of-law-in-eu-economic-governance-insights-from-the-2025-report/" target="_blank" rel="noopener noreferrer nofollow">https://legalblogs.wolterskluwer.com/competition-blog/rethinking-the-rule-of-law-in-eu-economic-governance-insights-from-the-2025-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Rule of Law in EU Economic Governance29 Jul 2025 — Legal certainty, equal treatment, and impartial enforcement are essential for busi...</p></details>
+   Link:<a href="https://legalblogs.wolterskluwer.com/competition-blog/rethinking-the-rule-of-law-in-eu-economic-governance-insights-from-the-2025-report/" target="_blank" rel="noopener noreferrer nofollow">https://legalblogs.wolterskluwer.com/competition-blog/rethinking-the-rule-of-law-in-eu-economic-governance-insights-from-the-2025-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Rule of Law in EU Economic Governance29 Jul 2025 — Legal certainty, equal treatment, and impartial enforcement are essential for busi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dergipark.org.tr  
-   Link: <a href="https://dergipark.org.tr/en/download/article-file/5316284" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/5316284</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>argument, commonly dismissed as a fallacy or an obsolete defence in international...Read more...</p></details>
+   Link:<a href="https://dergipark.org.tr/en/download/article-file/5316284" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/5316284</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>argument, commonly dismissed as a fallacy or an obsolete defence in international...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/cliffs-questions/8524229" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/8524229</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>made the case to me that I need to lose weight, citing several health problems...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/cliffs-questions/8524229" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/8524229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>made the case to me that I need to lose weight, citing several health problems...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: europeanlawinstitute.eu  
-   Link: <a href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Charter_of_Fundamental_Constitutional_Principles_of_a_European_Democracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Charter_of_Fundamental_Constitutional_Principles_of_a_European_Democracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Principle 25: Equality before the law. Everyone is equal...Read more...</p></details>
+   Link:<a href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Charter_of_Fundamental_Constitutional_Principles_of_a_European_Democracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Charter_of_Fundamental_Constitutional_Principles_of_a_European_Democracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Principle 25: Equality before the law. Everyone is equal...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the personal decisions of the advice givers...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, the personal decisions of the advice givers...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reneual.eu  
-   Link: <a href="https://www.reneual.eu/projects-and-publications/reneual-2-0?catid=2&amp;id=21&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.reneual.eu/projects-and-publications/reneual-2-0?catid=2&amp;id=21&amp;view=article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bitrary measures, even when exercising their discretion.Read more...</p></details>
+   Link:<a href="https://www.reneual.eu/projects-and-publications/reneual-2-0?catid=2&amp;id=21&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.reneual.eu/projects-and-publications/reneual-2-0?catid=2&amp;id=21&amp;view=article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bitrary measures, even when exercising their discretion.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scourse, particularly in political and ethical contexts.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scourse, particularly in political and ethical contexts.Read more...</p></details>

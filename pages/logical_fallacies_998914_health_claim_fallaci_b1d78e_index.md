@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-health-claim/
 description: Focused pages that expand on Remedies.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_health_claim_fallaci_b1d78e
 parent_title: Remedies
@@ -16,7 +16,7 @@ parent_permalink: /remedies/
 
 # Explore Topics in Remedies
 
-The following pages expand on the main **[Remedies]({{ '/remedies/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Remedies]({{ '/remedies/' | relative_url }})** page and cover its key branches in.
 
 - [FDA Warnings]({{ '/fda-warnings/' | relative_url }})
 - [Ad Red Flags]({{ '/ad-red-flags/' | relative_url }})

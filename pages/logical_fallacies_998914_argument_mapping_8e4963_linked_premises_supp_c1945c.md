@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_pr
 
 ## Introduction
 
-One of the most common mistakes in analysing arguments is treating every stated reason as if it independently supports the conclusion. In reality, many arguments depend on **linked premises**—claims that only provide support when they are combined. If those premises are separated and counted as independent reasons, the argument can appear much stronger than it really is. Argument mapping helps reveal this problem by showing whether reasons stand alone or function as a single package. Researchers and argument-mapping guides commonly describe these connected claims as *co-premises* or *dependent premises*: neither premise does enough work on its own, but together they create the inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
+One of the most common mistakes in analysing arguments is treating every stated reason as if it independently supports the conclusion. In reality, many arguments depend on **linked premises**—claims that only provide support when they are combined. If those premises are separated and counted as independent reasons, the argument can appear much stronger than it really is. Argument mapping helps reveal this problem by showing whether reasons stand alone or function as a single package. Researchers and argument-mapping guides commonly describe these connected claims as *co-premises* or *dependent premises*: neither premise does enough work on its own, but together they create the inference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-dark.svg" | relative_url }}" alt="Linked Premises illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding linked premises matters because many apparent examples of strong evidence are actually cases of **false support patterns**. The support seems substantial only because one argument has been mistakenly counted as several.
@@ -293,7 +293,7 @@ Consider:
 
 </div>
 
-Neither premise independently establishes the conclusion. Knowing only that surgeons complete training does not tell us anything about Dr Smith. Knowing only that Dr Smith is a surgeon does not establish the training requirement. The support arises from the combination. This is a linked argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jan.ucc.nau.edu">[2jan.ucc.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jan.ucc.nau.edu</span><span class="citation-popover-snippet">4: Independent and Linked PremisesIn contrast to independent premises, linked premises work together to reach a conclusion. Consider the...</span></span></span>
+Neither premise independently establishes the conclusion. Knowing only that surgeons complete training does not tell us anything about Dr Smith. Knowing only that Dr Smith is a surgeon does not establish the training requirement. The support arises from the combination. This is a linked argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jan.ucc.nau.edu">[2jan.ucc.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jan.ucc.nau.edu</span><span class="citation-popover-snippet">4: Independent and Linked PremisesIn contrast to independent premises, linked premises work together to reach a conclusion. Consider the...</span></span></span>
 
 Now compare:
 
@@ -306,7 +306,7 @@ Now compare:
 
 </div>
 
-Each reason retains some force even if the others are removed. The argument contains multiple independent lines of support rather than one linked chain. Argument-mapping literature often calls this a convergent structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> CliffsNotes The distinction is not merely technical. It changes how much evidence the argument actually contains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffsnotes.com">[cliffsnotes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffsnotes.com</span><span class="citation-popover-title">□ Independent premises: Use separate arrows to maintain</span><span class="citation-popover-snippet">Mastering Argument Mapping: A Guide to Analyzing ComplexArgument Mapping Rules: ○ Mapping Rules: □ Co-premises: Join together...</span></span></span>
+Each reason retains some force even if the others are removed. The argument contains multiple independent lines of support rather than one linked chain. Argument-mapping literature often calls this a convergent structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> CliffsNotes The distinction is not merely technical. It changes how much evidence the argument actually contains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffsnotes.com">[cliffsnotes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffsnotes.com</span><span class="citation-popover-title">□ Independent premises: Use separate arrows to maintain</span><span class="citation-popover-snippet">Mastering Argument Mapping: A Guide to Analyzing ComplexArgument Mapping Rules: ○ Mapping Rules: □ Co-premises: Join together...</span></span></span>
 
 ## Recognising Co-Premises
 
@@ -322,7 +322,7 @@ Linked premises usually display one of three patterns.
 
 </div>
 
-This structure is common in everyday reasoning and [formal logic]({{ 'formal-logic/' | relative_url }}) alike. Neither statement works properly without the other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php?m=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingNote that the two premises are connected together before linking to the conclusion. This merging of the links indic...</span></span></span>
+This structure is common in everyday reasoning and [formal logic]({{ 'formal-logic/' | relative_url }}) alike. Neither statement works properly without the other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php?m=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingNote that the two premises are connected together before linking to the conclusion. This merging of the links indic...</span></span></span>
 
 **Evidence plus a connecting assumption**
 
@@ -330,7 +330,7 @@ This structure is common in everyday reasoning and [formal logic]({{ 'formal-log
 * The schools are relevantly similar.
 * Therefore, the policy will increase scores here.
 
-People often state the evidence but leave the connecting assumption unstated. The support exists only if both parts are accepted. Argument-mapping researchers note that hidden co-premises and unstated [warrants]({{ 'warrants/' | relative_url }}) frequently carry the real burden of persuasion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Argument Mapping: Understanding and Making Arguments w...Nate Otey from ThinkerAnalytix visits The Stoa to discuss argument mappi...</span></span></span>
+People often state the evidence but leave the connecting assumption unstated. The support exists only if both parts are accepted. Argument-mapping researchers note that hidden co-premises and unstated [warrants]({{ 'warrants/' | relative_url }}) frequently carry the real burden of persuasion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Argument Mapping: Understanding and Making Arguments w...Nate Otey from ThinkerAnalytix visits The Stoa to discuss argument mappi...</span></span></span>
 
 **Multiple incomplete facts that become persuasive only together**
 
@@ -344,7 +344,7 @@ People often state the evidence but leave the connecting assumption unstated. Th
 
 Either fact alone is weak. Together they create a stronger inference.
 
-In maps, these claims are usually joined before connecting to the conclusion, signalling that they operate as a single reason rather than separate reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Quizlet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-title">Week 6</span><span class="citation-popover-snippet">Argument Mapping FlashcardsIn argument maps, we depict co-premises by linking the arrows joining them to the conclusion using a &quot;Y&quot; shape...</span></span></span>
+In maps, these claims are usually joined before connecting to the conclusion, signalling that they operate as a single reason rather than separate reasons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Quizlet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-title">Week 6</span><span class="citation-popover-snippet">Argument Mapping FlashcardsIn argument maps, we depict co-premises by linking the arrows joining them to the conclusion using a &quot;Y&quot; shape...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b7QMD8J1BEE" title="Step 3.2: Independent Premises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b7QMD8J1BEE" target="_blank" rel="noopener noreferrer">Step 3.2: Independent Premises</a></p><p class="youtube-embed-meta">Channel: Elon Argumentation &middot; Views: 14.2K &middot; Uploaded: October 2012 &middot; Length: 1 minute 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b7QMD8J1BEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b7QMD8J1BEE">Open on YouTube</a></p></div></div></div>
 
@@ -364,7 +364,7 @@ Suppose someone argues:
 
 </div>
 
-If each premise is mapped independently, the diagram falsely suggests two separate reasons for reliability. Yet presence alone does not establish reliability, and a clear view without presence is impossible. The support is joint rather than independent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php?m=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingNote that the two premises are connected together before linking to the conclusion. This merging of the links indic...</span></span></span>
+If each premise is mapped independently, the diagram falsely suggests two separate reasons for reliability. Yet presence alone does not establish reliability, and a clear view without presence is impossible. The support is joint rather than independent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php?m=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingNote that the two premises are connected together before linking to the conclusion. This merging of the links indic...</span></span></span>
 
 This mistake inflates the apparent strength of the case because readers unconsciously count each arrow as additional evidence.
 
@@ -373,12 +373,12 @@ This mistake inflates the apparent strength of the case because readers unconsci
 
 Another error occurs when a crucial linking assumption remains invisible.
 
-For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
+For example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
 
 * Crime fell after the mayor took office.
 * Therefore, the mayor's policies reduced crime.
 
-The hidden premise is that the policies, rather than other factors, caused the decline. Without that assumption, the evidence does not connect to the conclusion. Making the missing premise explicit often reveals where the argument is vulnerable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federation.edu.au">[Federation University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federation.edu.au</span><span class="citation-popover-snippet">Federation UniversityMapping an argumentA good argument map will make all co-premises explicit. Doing so will allow... In these complex...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube</span><span class="citation-popover-snippet">You Tube</span></span></span>
+The hidden premise is that the policies, rather than other factors, caused the decline. Without that assumption, the evidence does not connect to the conclusion. Making the missing premise explicit often reveals where the argument is vulnerable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federation.edu.au">[Federation University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federation.edu.au</span><span class="citation-popover-snippet">Federation UniversityMapping an argumentA good argument map will make all co-premises explicit. Doing so will allow... In these complex...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube</span><span class="citation-popover-snippet">You Tube</span></span></span>
 
 ### Treating repetition as additional support
 
@@ -400,11 +400,11 @@ If "experts" and "specialists" refer to the same group, the argument does not co
 
 False support patterns occur when the structure of an argument creates an illusion of stronger evidence than actually exists.
 
-One version is **support multiplication**. A linked set of premises is incorrectly treated as several independent reasons. The argument appears more robust because it seems to survive the loss of any one premise. In reality, removing a single co-premise may collapse the entire inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
+One version is **support multiplication**. A linked set of premises is incorrectly treated as several independent reasons. The argument appears more robust because it seems to survive the loss of any one premise. In reality, removing a single co-premise may collapse the entire inference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
 Another version is **evidential stacking**. Several statements appear to provide cumulative support, but they all depend on the same underlying assumption. When that assumption fails, the entire structure weakens at once.
 
-For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
+For example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
 
 * The company's profits rose.
 * Its share price increased.
@@ -412,7 +412,7 @@ For example: <span class="citation-chip-wrap"><a class="citation-chip" href="htt
 
 These may look like three independent reasons to believe the firm is healthy. Yet all three could depend on the same underlying factor, such as a temporary market trend. The apparent diversity of support may be misleading.
 
-Argument mapping is valuable because it forces analysts to identify where support originates rather than simply counting reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://critical-thinking.com.au/thoughts/what-is-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critical-thinking.com.au">[critical-thinking.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critical-thinking.com.au</span><span class="citation-popover-title">what is argument mapping</span><span class="citation-popover-snippet">It&#x27;s a way to show which claims justify what and how.Read more...</span></span></span>
+Argument mapping is valuable because it forces analysts to identify where support originates rather than simply counting reasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://critical-thinking.com.au/thoughts/what-is-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critical-thinking.com.au">[critical-thinking.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critical-thinking.com.au</span><span class="citation-popover-title">what is argument mapping</span><span class="citation-popover-snippet">It&#x27;s a way to show which claims justify what and how.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-3-dark.svg" | relative_url }}" alt="Linked Premises illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Testing Combined Support
@@ -427,7 +427,7 @@ Ask:
 * Would the support become weaker but still exist?
 * Or would the inference collapse completely?
 
-If the inference collapses, the premises are probably linked. If meaningful support remains, they are probably independent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</span></span></span>
+If the inference collapses, the premises are probably linked. If meaningful support remains, they are probably independent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kGgLlip_lvc" title="Argument Mapping: Understanding and Making Arguments w/ Nate Otey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer">Argument Mapping: Understanding and Making Arguments w/ Nate Otey</a></p><p class="youtube-embed-meta">Channel: The Stoa &middot; Views: 3.5K &middot; Uploaded: April 2022 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kGgLlip_lvc">Open on YouTube</a></p></div></div></div>
 
@@ -435,13 +435,13 @@ If the inference collapses, the premises are probably linked. If meaningful supp
 
 When a premise seems unrelated to the conclusion, ask what unstated claim would connect them.
 
-Many apparently simple arguments rely on hidden assumptions. Identifying that hidden bridge often reveals a linked-premise structure rather than an independent one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reasoningforthedigitalage.com/dependentlinked-premises/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoningforthedigitalage.com">[Reasoning for the Digital Age]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoningforthedigitalage.com</span><span class="citation-popover-snippet">Reasoning for the Digital AgeDependent/Linked PremisesDependent premises (sometimes called &#x27;linked&#x27; premises) logically require each othe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.08648" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Many apparently simple arguments rely on hidden assumptions. Identifying that hidden bridge often reveals a linked-premise structure rather than an independent one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reasoningforthedigitalage.com/dependentlinked-premises/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoningforthedigitalage.com">[Reasoning for the Digital Age]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoningforthedigitalage.com</span><span class="citation-popover-snippet">Reasoning for the Digital AgeDependent/Linked PremisesDependent premises (sometimes called &#x27;linked&#x27; premises) logically require each othe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.08648" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ### Ask whether the reasons answer different questions
 
 Independent reasons usually provide different routes to the conclusion. Linked premises often answer different parts of the same route.
 
-For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
+For example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
 
 * "She was at the meeting."
 * "The meeting approved the proposal."
@@ -454,272 +454,272 @@ Many informal fallacies become easier to diagnose once linked premises are ident
 
 A weak argument may seem persuasive because readers unconsciously count each co-premise as a separate piece of evidence. The problem is not always a named fallacy such as hasty generalisation or false cause. Sometimes the deeper issue is structural: the argument possesses only one fragile line of support disguised as several.
 
-Argument maps expose this by showing where premises merge, where assumptions are hidden, and whether support survives when individual claims are tested. When a supposedly strong case depends on a single linked chain, the failure of one premise can undermine the entire argument. Recognising that dependency is often the first step in finding the real weakness in the reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web-archive.southampton.ac.uk">[web-archive.southampton.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web-archive.southampton.ac.uk</span><span class="citation-popover-snippet">13. If the argument map is done properly, then all co-premises of a reason are necessary for the...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federation.edu.au">[Federation University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federation.edu.au</span><span class="citation-popover-snippet">Federation UniversityMapping an argumentA good argument map will make all co-premises explicit. Doing so will allow... In these complex...</span></span></span>
+Argument maps expose this by showing where premises merge, where assumptions are hidden, and whether support survives when individual claims are tested. When a supposedly strong case depends on a single linked chain, the failure of one premise can undermine the entire argument. Recognising that dependency is often the first step in finding the real weakness in the reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web-archive.southampton.ac.uk">[web-archive.southampton.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web-archive.southampton.ac.uk</span><span class="citation-popover-snippet">13. If the argument map is done properly, then all co-premises of a reason are necessary for the...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federation.edu.au">[Federation University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federation.edu.au</span><span class="citation-popover-snippet">Federation UniversityMapping an argumentA good argument map will make all co-premises explicit. Doing so will allow... In these complex...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are These Reasons Independent or One Linked Argument?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are These Reasons Independent or One Linked Argument?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Teaches evaluation of how reasons combine to support conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evaluation of how reasons combine to support conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Excellent for understanding linked premises and support patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent for understanding linked premises and support patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Covers argument reconstruction and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers argument reconstruction and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Patrick J. Hurley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Patrick J. Hurley</p>
         
-        <p class="fr-book-desc">Explains premises, conclusions and logical support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains premises, conclusions and logical support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking of You Voodoo Doll Enamel Pin Funny Cute Creepy Lapel Jacket Backpack"><img src="{{ '/assets/images/marketplace-covers/cce8506f791af6ef63b3.jpg' | relative_url }}" alt="Listing image for Thinking of You Voodoo Doll Enamel Pin Funny Cute Creepy Lapel Jacket Backpack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking of You Voodoo Doll Enamel Pin Funny Cute Creepy Lapel Jacket Backpack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking of You Voodoo Doll Enamel Pin Funny Cute Creepy Lapel Jacket Backpack"><img src="{{ '/assets/images/marketplace-covers/cce8506f791af6ef63b3.jpg' | relative_url }}" alt="Listing image for Thinking of You Voodoo Doll Enamel Pin Funny Cute Creepy Lapel Jacket Backpack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking of You Voodoo Doll Enamel Pin Funny Cute Creepy Lapel Jacket Backpack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search<span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Enamel Pin PN1092"><img src="{{ '/assets/images/marketplace-covers/97901c89359640d087c2.jpg' | relative_url }}" alt="Listing image for Thinking Enamel Pin PN1092" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Enamel Pin PN1092</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Enamel Pin PN1092"><img src="{{ '/assets/images/marketplace-covers/97901c89359640d087c2.jpg' | relative_url }}" alt="Listing image for Thinking Enamel Pin PN1092" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Enamel Pin PN1092</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search<span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute"><img src="{{ '/assets/images/marketplace-covers/ad6c4b74500ad50c17b8.jpg' | relative_url }}" alt="Listing image for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute"><img src="{{ '/assets/images/marketplace-covers/ad6c4b74500ad50c17b8.jpg' | relative_url }}" alt="Listing image for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search<span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins"><img src="{{ '/assets/images/marketplace-covers/71990c9e6568ae5b18fa.jpg' | relative_url }}" alt="Listing image for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins"><img src="{{ '/assets/images/marketplace-covers/71990c9e6568ae5b18fa.jpg' | relative_url }}" alt="Listing image for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search<span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linked-premises-are-these-reasons-independent-or-one-linked-argument-logical-fallacies-critical-thinking-poster-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ Argument maps expose this by showing where premises merge, where assumptions are
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ Argument maps expose this by showing where premises merge, where assumptions are
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ Argument maps expose this by showing where premises merge, where assumptions are
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -817,7 +817,7 @@ Argument maps expose this by showing where premises merge, where assumptions are
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -875,163 +875,163 @@ Argument maps expose this by showing where premises merge, where assumptions are
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: [Argument map](&#123;&#123; 'argument-map/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philosophy.hku.hk  
-   Link: <a href="https://philosophy.hku.hk/think/arg/complex.php?m=1" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/complex.php?m=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[A10] Argument mappingNote that the two premises are connected together before linking to the conclusion. This merging of the links indic...</p></details>
+   Link:<a href="https://philosophy.hku.hk/think/arg/complex.php?m=1" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/complex.php?m=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[A10] Argument mappingNote that the two premises are connected together before linking to the conclusion. This merging of the links indic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jan.ucc.nau.edu  
-   Link: <a href="https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/" target="_blank" rel="noopener noreferrer nofollow">https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4: Independent and Linked PremisesIn contrast to independent premises, linked premises work together to reach a conclusion. Consider the...</p></details>
+   Link:<a href="https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/" target="_blank" rel="noopener noreferrer nofollow">https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4: Independent and Linked PremisesIn contrast to independent premises, linked premises work together to reach a conclusion. Consider the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: web-archive.southampton.ac.uk  
-   Link: <a href="https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13. If the argument map is done properly, then all co-premises of a reason are necessary for the...Read more...</p></details>
+   Link:<a href="https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13. If the argument map is done properly, then all co-premises of a reason are necessary for the...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cliffsnotes.com  
    Title: □ Independent premises: Use separate arrows to maintain  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33664324</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Argument Mapping: A Guide to Analyzing ComplexArgument Mapping Rules: ○ Mapping Rules: □ Co-premises: Join together...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33664324</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Argument Mapping: A Guide to Analyzing ComplexArgument Mapping Rules: ○ Mapping Rules: □ Co-premises: Join together...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kGgLlip_lvc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping: Understanding and Making Arguments w...Nate Otey from ThinkerAnalytix visits The Stoa to discuss argument mappi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kGgLlip_lvc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping: Understanding and Making Arguments w...Nate Otey from ThinkerAnalytix visits The Stoa to discuss argument mappi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2408.08648" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.08648</a>  
+   Link:<a href="https://arxiv.org/abs/2408.08648" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.08648</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: philosophy.hku.hk  
-   Link: <a href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/complex.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</p></details>
+   Link:<a href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/complex.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: quizlet.com  
    Title: Week 6  
-   Link: <a href="https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping FlashcardsIn argument maps, we depict co-premises by linking the arrows joining them to the conclusion using a &quot;Y&quot; shape...</p></details>
+   Link:<a href="https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping FlashcardsIn argument maps, we depict co-premises by linking the arrows joining them to the conclusion using a &quot;Y&quot; shape...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: federation.edu.au  
-   Link: <a href="https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federation UniversityMapping an argumentA good argument map will make all co-premises explicit. Doing so will allow... In these complex...</p></details>
+   Link:<a href="https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federation UniversityMapping an argumentA good argument map will make all co-premises explicit. Doing so will allow... In these complex...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: critical-thinking.com.au  
    Title: what is argument mapping  
-   Link: <a href="https://critical-thinking.com.au/thoughts/what-is-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://critical-thinking.com.au/thoughts/what-is-argument-mapping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a way to show which claims justify what and how.Read more...</p></details>
+   Link:<a href="https://critical-thinking.com.au/thoughts/what-is-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://critical-thinking.com.au/thoughts/what-is-argument-mapping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a way to show which claims justify what and how.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/ca/670649555/lesson-6-argument-mapping-and-multi-layer-arguments-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/ca/670649555/lesson-6-argument-mapping-and-multi-layer-arguments-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 6: Argument Mapping and Multi-Layer ArgumentsArgument maps can indicate whether an argument has co-premises or independent premise...</p></details>
+   Link:<a href="https://quizlet.com/ca/670649555/lesson-6-argument-mapping-and-multi-layer-arguments-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/ca/670649555/lesson-6-argument-mapping-and-multi-layer-arguments-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 6: Argument Mapping and Multi-Layer ArgumentsArgument maps can indicate whether an argument has co-premises or independent premise...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reasons.io  
    Title: Independent and Codependent Premises  
-   Link: <a href="https://reasons.io/learn/06" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/06</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Codependent and independent premises can also be used together to form more complex arguments. Here, we can strength the inference...</p></details>
+   Link:<a href="https://reasons.io/learn/06" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/06</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Codependent and independent premises can also be used together to form more complex arguments. Here, we can strength the inference...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b7QMD8J1BEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b7QMD8J1BEE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Step 3.2: Independent PremisesComments &amp;middot; Step 3.3: Dependent premises &amp;middot; Step 1: Distinguishing Arguments From Other Forms o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b7QMD8J1BEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b7QMD8J1BEE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Step 3.2: Independent PremisesComments &amp;middot; Step 3.3: Dependent premises &amp;middot; Step 1: Distinguishing Arguments From Other Forms o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Gemini said  
-   Link: <a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJxTGuIQFh0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJxTGuIQFh0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: You Tube  
-   Link: <a href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch</a>  
+   Link:<a href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: You Tube  
-   Link: <a href="https://www.youtube.com/watch?v=ol4uuxM8xSI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ol4uuxM8xSI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ol4uuxM8xSI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ol4uuxM8xSI</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: You Tube  
-   Link: <a href="https://www.youtube.com/watch?v=sTPjC-7EDkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sTPjC-7EDkc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=sTPjC-7EDkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sTPjC-7EDkc</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: You Tube  
-   Link: <a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKplZwqFwVk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKplZwqFwVk</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reasoningforthedigitalage.com  
-   Link: <a href="https://reasoningforthedigitalage.com/dependentlinked-premises/" target="_blank" rel="noopener noreferrer nofollow">https://reasoningforthedigitalage.com/dependentlinked-premises/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning for the Digital AgeDependent/Linked PremisesDependent premises (sometimes called &#x27;linked&#x27; premises) logically require each othe...</p></details>
+   Link:<a href="https://reasoningforthedigitalage.com/dependentlinked-premises/" target="_blank" rel="noopener noreferrer nofollow">https://reasoningforthedigitalage.com/dependentlinked-premises/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning for the Digital AgeDependent/Linked PremisesDependent premises (sometimes called &#x27;linked&#x27; premises) logically require each othe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reasoningforthedigitalage.com  
    Title: Put the argument into standard form and make an argument diagram.Read more  
-   Link: <a href="https://reasoningforthedigitalage.com/premise-indicators-serial-and-convergent-premises-argument-diagrams/" target="_blank" rel="noopener noreferrer nofollow">https://reasoningforthedigitalage.com/premise-indicators-serial-and-convergent-premises-argument-diagrams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Premise Indicators, Serial and Convergent...Construct or find TWO arguments that use either convergent or serial premises or both...</p></details>
+   Link:<a href="https://reasoningforthedigitalage.com/premise-indicators-serial-and-convergent-premises-argument-diagrams/" target="_blank" rel="noopener noreferrer nofollow">https://reasoningforthedigitalage.com/premise-indicators-serial-and-convergent-premises-argument-diagrams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Premise Indicators, Serial and Convergent...Construct or find TWO arguments that use either convergent or serial premises or both...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/245489403_Argument_Mapping_with_ReasonAble" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245489403_Argument_Mapping_with_ReasonAble</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Argument Mapping with Reason!AbleA series of classic arguments is a large part of our subject matter, and argumentation is our prim...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/245489403_Argument_Mapping_with_ReasonAble" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245489403_Argument_Mapping_with_ReasonAble</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Argument Mapping with Reason!AbleA series of classic arguments is a large part of our subject matter, and argumentation is our prim...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/steps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/steps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Critical Thinking StepsFor those who require higher levels of analysis, Rationale provides the analysis map format to show the relation...</p></details>
+   Link:<a href="https://www.reasoninglab.com/steps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/steps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Critical Thinking StepsFor those who require higher levels of analysis, Rationale provides the analysis map format to show the relation...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jostwald.com  
-   Link: <a href="https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 – Model Argument MapsA good argument has to be valid (i.e. the logical structure of the argument is such that if all the premises are t...</p></details>
+   Link:<a href="https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 – Model Argument MapsA good argument has to be valid (i.e. the logical structure of the argument is such that if all the premises are t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: modeldiplomat.com  
-   Link: <a href="https://modeldiplomat.com/learn/lessons/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://modeldiplomat.com/learn/lessons/argument-mapping</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping — LessonAn argument map is a visual diagram that shows the structure of an argument: which statements are premises, whic...</p></details>
+   Link:<a href="https://modeldiplomat.com/learn/lessons/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://modeldiplomat.com/learn/lessons/argument-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping — LessonAn argument map is a visual diagram that shows the structure of an argument: which statements are premises, whic...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-ca/document/university-of-winnipeg/intro-to-philosophy/argument-map-notes/20895522" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/university-of-winnipeg/intro-to-philosophy/argument-map-notes/20895522</a>  
+   Link:<a href="https://www.studocu.com/en-ca/document/university-of-winnipeg/intro-to-philosophy/argument-map-notes/20895522" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/university-of-winnipeg/intro-to-philosophy/argument-map-notes/20895522</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reasoninglab.com  
    Title: Argument Mapping Start at the top and working down in levels  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingStart at the top and working down in levels - add evidence to support (reasons – green) or oppose (objections – red) any...</p></details>
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingStart at the top and working down in levels - add evidence to support (reasons – green) or oppose (objections – red) any...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/A-simple-argument-with-co-premises-leading-to-a-conclusion_fig2_5298009" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-simple-argument-with-co-premises-leading-to-a-conclusion_fig2_5298009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ional tool to assist learners at all levels of their education develop skills...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/A-simple-argument-with-co-premises-leading-to-a-conclusion_fig2_5298009" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-simple-argument-with-co-premises-leading-to-a-conclusion_fig2_5298009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ional tool to assist learners at all levels of their education develop skills...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: studocu.com  
    Title: 5. What reasons are given for the premises in the main argument?Read more  
-   Link: <a href="https://www.studocu.com/en-au/document/monash-university/critical-reasoning/week-6-ats2946notes/102446564" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-au/document/monash-university/critical-reasoning/week-6-ats2946notes/102446564</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Week 6 ATS2946 Notes: Understanding Argument Maps &amp;...Draw an argument map for the main argument (Are the MAIN premises linked or indepe...</p></details>
+   Link:<a href="https://www.studocu.com/en-au/document/monash-university/critical-reasoning/week-6-ats2946notes/102446564" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-au/document/monash-university/critical-reasoning/week-6-ats2946notes/102446564</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Week 6 ATS2946 Notes: Understanding Argument Maps &amp;...Draw an argument map for the main argument (Are the MAIN premises linked or indepe...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, 1A-a is a premise, which is itself supported by a reason...</p></details>
+   Link:<a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, 1A-a is a premise, which is itself supported by a reason...</p></details>

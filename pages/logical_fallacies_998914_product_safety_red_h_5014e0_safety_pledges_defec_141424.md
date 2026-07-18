@@ -277,15 +277,15 @@ image: /assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safet
 A company’s statement that “safety is our top priority” is not, by itself, an answer to a product hazard claim. Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and product-safety red herrings, this tactic works by replacing evidence about a specific defect with evidence about corporate values. The statement may be sincere. The problem arises when it is used instead of addressing whether a product failed, who was harmed, what testing found, what corrective action is underway, and what users should do now.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-1-dark.svg" | relative_url }}" alt="Safety Pledges illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Safety values can matter. Strong safety cultures are associated with better reporting, investigation, and prevention practices. But values are not proof that a particular hazard has been identified, understood, or controlled. When reassurance about commitment to safety substitutes for defect evidence, the discussion shifts from the product's performance to the company's character. That shift is the core mechanism of the [red herring]({{ 'red-herring/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://risk-engineering.org/concept/safety-culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: risk-engineering.org">[Risk Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">risk-engineering.org</span><span class="citation-popover-title">Risk Engineering Safety culture: A contentious and confused notion</span><span class="citation-popover-snippet">Risk EngineeringSafety culture: A contentious and confused notionMarch 30, 2020 — The safety culture of an organisation is the product of...</span><span class="citation-popover-meta">Published: March 30, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icsi-eu.org">[2icsi-eu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icsi-eu.org</span><span class="citation-popover-snippet">Safety Culture: From Understanding to ActionThe safety culture reflects the importance the organisational culture grants to safety in all...</span></span></span>
+Safety values can matter. Strong safety cultures are associated with better reporting, investigation, and prevention practices. But values are not proof that a particular hazard has been identified, understood, or controlled. When reassurance about commitment to safety substitutes for defect evidence, the discussion shifts from the product's performance to the company's character. That shift is the core mechanism of the [red herring]({{ 'red-herring/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://risk-engineering.org/concept/safety-culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: risk-engineering.org">[Risk Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">risk-engineering.org</span><span class="citation-popover-title">Risk Engineering Safety culture: A contentious and confused notion</span><span class="citation-popover-snippet">Risk EngineeringSafety culture: A contentious and confused notionMarch 30, 2020 — The safety culture of an organisation is the product of...</span><span class="citation-popover-meta">Published: March 30, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icsi-eu.org">[2icsi-eu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icsi-eu.org</span><span class="citation-popover-snippet">Safety Culture: From Understanding to ActionThe safety culture reflects the importance the organisational culture grants to safety in all...</span></span></span>
 
 ## What a safety-value statement can legitimately do
 
 A safety-value statement is not automatically evasive. In a crisis or investigation, it can serve legitimate purposes.
 
-First, it can communicate organisational priorities. Safety culture is commonly defined as the values, attitudes, behaviours, and practices that shape how an organisation manages risk and responds to hazards. A company may reasonably explain that safety is a guiding principle because stakeholders want to know whether management treats safety seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://risk-engineering.org/concept/safety-culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: risk-engineering.org">[Risk Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">risk-engineering.org</span><span class="citation-popover-title">Risk Engineering Safety culture: A contentious and confused notion</span><span class="citation-popover-snippet">Risk EngineeringSafety culture: A contentious and confused notionMarch 30, 2020 — The safety culture of an organisation is the product of...</span><span class="citation-popover-meta">Published: March 30, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada SAFETY CULTURE POLICY STATEMENT1.0</span><span class="citation-popover-snippet">Transport CanadaSAFETY CULTURE POLICY STATEMENT1.0 INTRODUCTION. Safety culture refers to the shared values, beliefs, attitudes, actions...</span></span></span>
+First, it can communicate organisational priorities. Safety culture is commonly defined as the values, attitudes, behaviours, and practices that shape how an organisation manages risk and responds to hazards. A company may reasonably explain that safety is a guiding principle because stakeholders want to know whether management treats safety seriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://risk-engineering.org/concept/safety-culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: risk-engineering.org">[Risk Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">risk-engineering.org</span><span class="citation-popover-title">Risk Engineering Safety culture: A contentious and confused notion</span><span class="citation-popover-snippet">Risk EngineeringSafety culture: A contentious and confused notionMarch 30, 2020 — The safety culture of an organisation is the product of...</span><span class="citation-popover-meta">Published: March 30, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada SAFETY CULTURE POLICY STATEMENT1.0</span><span class="citation-popover-snippet">Transport CanadaSAFETY CULTURE POLICY STATEMENT1.0 INTRODUCTION. Safety culture refers to the shared values, beliefs, attitudes, actions...</span></span></span>
 
-Second, it can signal intended actions. If a company says safety is its highest priority and then follows that statement with testing data, incident reporting, recalls, design modifications, independent reviews, or customer instructions, the values statement functions as [context]({{ 'context/' | relative_url }}) rather than diversion. Regulators generally focus on those concrete actions. For example, product-safety reporting rules emphasise timely disclosure of hazards and corrective measures rather than declarations of commitment. U.S. Consumer Product Safety Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[2eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</span></span></span>
+Second, it can signal intended actions. If a company says safety is its highest priority and then follows that statement with testing data, incident reporting, recalls, design modifications, independent reviews, or customer instructions, the values statement functions as [context]({{ 'context/' | relative_url }}) rather than diversion. Regulators generally focus on those concrete actions. For example, product-safety reporting rules emphasise timely disclosure of hazards and corrective measures rather than declarations of commitment. U.S. Consumer Product Safety Commission<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[2eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</span></span></span>
 
 The distinction is important: a safety pledge is appropriate as an introduction. It becomes problematic when it becomes the answer.
 
@@ -332,11 +332,11 @@ The distinction resembles the difference between character evidence and factual 
 
 ## A useful case: when safety language meets safety findings
 
-The contrast becomes clearer when examining high-profile safety controversies. Following the Boeing 737 MAX crises and later quality concerns, Boeing repeatedly emphasised safety as a foundational company value. Public statements and policy documents described safety as the company's highest priority and foundation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boeing.com/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-snippet">SafetySafety is our foundation. We strive for first-time quality and hold ourselves to the highest ethical standards as set forth i...</span></span></span>
+The contrast becomes clearer when examining high-profile safety controversies. Following the Boeing 737 MAX crises and later quality concerns, Boeing repeatedly emphasised safety as a foundational company value. Public statements and policy documents described safety as the company's highest priority and foundation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boeing.com/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-snippet">SafetySafety is our foundation. We strive for first-time quality and hold ourselves to the highest ethical standards as set forth i...</span></span></span>
 
-However, independent investigations did not stop at those statements. Regulators and review panels examined reporting systems, quality controls, employee concerns, oversight processes, training, production practices, and measurable safety outcomes. FAA-commissioned reviews and other investigations identified gaps, disconnects, and deficiencies in aspects of Boeing's safety culture and implementation. Later investigations into production problems similarly focused on concrete failures, oversight, and corrective measures rather than corporate values language alone. Reuters 3Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great-2024-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This investigation follows fatal crashes involving Boeing Max jets in 2018 and 2019. The FAA report highlighted a troubling workplace cul...</span></span></span>
+However, independent investigations did not stop at those statements. Regulators and review panels examined reporting systems, quality controls, employee concerns, oversight processes, training, production practices, and measurable safety outcomes. FAA-commissioned reviews and other investigations identified gaps, disconnects, and deficiencies in aspects of Boeing's safety culture and implementation. Later investigations into production problems similarly focused on concrete failures, oversight, and corrective measures rather than corporate values language alone. Reuters 3Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This investigation follows fatal crashes involving Boeing Max jets in 2018 and 2019. The FAA report highlighted a troubling workplace cul...</span></span></span>
 
-The lesson is not that safety commitments are meaningless. Rather, investigators treated those commitments as claims requiring verification through evidence. The question was not whether the company said safety mattered. The question was whether systems, decisions, and outcomes demonstrated that commitment in practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Panel finds safety &#x27;disconnect&#x27; between Boeing management, employees</span><span class="citation-popover-snippet">Commissioned by the U.S. Congress after fatal crashes of Boeing 737 MAX planes in 2018 and 2019, the report criticized Boeing&#x27;s lack of a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">National Transportation Safety Board (NTSB) has sharply criticized Boeing for failing to provide adequate training, guidance, and oversig...</span></span></span>
+The lesson is not that safety commitments are meaningless. Rather, investigators treated those commitments as claims requiring verification through evidence. The question was not whether the company said safety mattered. The question was whether systems, decisions, and outcomes demonstrated that commitment in practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Panel finds safety &#x27;disconnect&#x27; between Boeing management, employees</span><span class="citation-popover-snippet">Commissioned by the U.S. Congress after fatal crashes of Boeing 737 MAX planes in 2018 and 2019, the report criticized Boeing&#x27;s lack of a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">National Transportation Safety Board (NTSB) has sharply criticized Boeing for failing to provide adequate training, guidance, and oversig...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/djj4C1RMkBE" title="Crisis Management and Resolving Contentious Conversations | Honest HR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=djj4C1RMkBE" target="_blank" rel="noopener noreferrer">Crisis Management and Resolving Contentious Conversations | Honest HR</a></p><p class="youtube-embed-meta">Channel: SHRM &middot; Views: 3.4K &middot; Uploaded: May 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=djj4C1RMkBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=djj4C1RMkBE">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +358,7 @@ A simple set of questions helps distinguish a genuine response from a reassuring
 
 If most of these questions remain unanswered, the response may be functioning primarily as reputation management rather than hazard communication.
 
-Regulatory approaches reinforce this distinction. Product-safety frameworks generally emphasise reporting hazards, investigating evidence, notifying authorities, and implementing corrective actions. Requirements to report potentially dangerous defects focus on information and action, not declarations of corporate virtue. Covington & Burling 3U.S. Consumer Product Safety Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[3eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</span></span></span>
+Regulatory approaches reinforce this distinction. Product-safety frameworks generally emphasise reporting hazards, investigating evidence, notifying authorities, and implementing corrective actions. Requirements to report potentially dangerous defects focus on information and action, not declarations of corporate virtue. Covington & Burling 3U.S. Consumer Product Safety Commission<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[3eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-3-dark.svg" | relative_url }}" alt="Safety Pledges illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway
@@ -372,269 +372,269 @@ Those questions test product safety. Statements about values test only what a co
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EbdpkAHcA48" title="Red Herring Fallacy Explained: Why Conversations Go Off Track (And How to Stay Focused)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EbdpkAHcA48" target="_blank" rel="noopener noreferrer">Red Herring Fallacy Explained: Why Conversations Go Off Track (And How to Stay Focused)</a></p><p class="youtube-embed-meta">Channel: Melissa Barlock &middot; Views: 73 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EbdpkAHcA48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EbdpkAHcA48">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When &#x27;We Care About Safety&#x27; Is Not an Answer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When &#x27;We Care About Safety&#x27; Is Not an Answer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains how people are persuaded by reassuring narratives and substitute signals rather than evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people are persuaded by reassuring narratives and substitute signals rather than evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches evaluation of claims, evidence quality, and misleading argument tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evaluation of claims, evidence quality, and misleading argument tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Directly addresses how impressive-sounding statements can distract from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how impressive-sounding statements can distract from evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Covers common reasoning errors that make reassurance tactics persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers common reasoning errors that make reassurance tactics persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality control - Bulgaria vintage poster"><img src="{{ '/assets/images/marketplace-covers/ff1410c756a660d5a440.jpg' | relative_url }}" alt="Listing image for Quality control - Bulgaria vintage poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality control - Bulgaria vintage poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality control - Bulgaria vintage poster"><img src="{{ '/assets/images/marketplace-covers/ff1410c756a660d5a440.jpg' | relative_url }}" alt="Listing image for Quality control - Bulgaria vintage poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality control - Bulgaria vintage poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b49dd3708cdf95a5fd4b.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b49dd3708cdf95a5fd4b.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/42a6a06d7194a4a3468f.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/42a6a06d7194a4a3468f.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/883364da12ef59c4e70f.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/883364da12ef59c4e70f.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-pledges-when-we-care-about-safety-is-not-an-answer-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -650,7 +650,7 @@ Those questions test product safety. Statements about values test only what a co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -670,7 +670,7 @@ Those questions test product safety. Statements about values test only what a co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -702,7 +702,7 @@ Those questions test product safety. Statements about values test only what a co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -732,7 +732,7 @@ Those questions test product safety. Statements about values test only what a co
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -790,135 +790,135 @@ Those questions test product safety. Statements about values test only what a co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: risk-engineering.org  
    Title: Risk Engineering Safety culture: A contentious and confused notion  
-   Link: <a href="https://risk-engineering.org/concept/safety-culture" target="_blank" rel="noopener noreferrer nofollow">https://risk-engineering.org/concept/safety-culture</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk EngineeringSafety culture: A contentious and confused notionMarch 30, 2020 — The safety culture of an organisation is the product of...</p></details>
+   Link:<a href="https://risk-engineering.org/concept/safety-culture" target="_blank" rel="noopener noreferrer nofollow">https://risk-engineering.org/concept/safety-culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk EngineeringSafety culture: A contentious and confused notionMarch 30, 2020 — The safety culture of an organisation is the product of...</p></details>
    Published: March 30, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: icsi-eu.org  
-   Link: <a href="https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Culture: From Understanding to ActionThe safety culture reflects the importance the organisational culture grants to safety in all...</p></details>
+   Link:<a href="https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Culture: From Understanding to ActionThe safety culture reflects the importance the organisational culture grants to safety in all...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tc.canada.ca  
    Title: Transport Canada SAFETY CULTURE POLICY STATEMENT1.0  
-   Link: <a href="https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaSAFETY CULTURE POLICY STATEMENT1.0 INTRODUCTION. Safety culture refers to the shared values, beliefs, attitudes, actions...</p></details>
+   Link:<a href="https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaSAFETY CULTURE POLICY STATEMENT1.0 INTRODUCTION. Safety culture refers to the shared values, beliefs, attitudes, actions...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cpsc.gov  
    Title: Duty to Report to the CPSC Your Rights and Responsibilities  
-   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionDuty to Report to CPSC: Rights and Responsibilities...A company must report to the Commission within 2...</p></details>
+   Link:<a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionDuty to Report to CPSC: Rights and Responsibilities...A company must report to the Commission within 2...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ecfr.gov  
    Title: part 1115  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionProduct Safety Planning, Reporting, and Recall HandbookSection 15 requires companies to report &quot;immedia...</p></details>
+   Link:<a href="https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionProduct Safety Planning, Reporting, and Recall HandbookSection 15 requires companies to report &quot;immedia...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: boeing.com  
-   Link: <a href="https://www.boeing.com/safety" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SafetySafety is our foundation. We strive for first-time quality and hold ourselves to the highest ethical standards as set forth i...</p></details>
+   Link:<a href="https://www.boeing.com/safety" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SafetySafety is our foundation. We strive for first-time quality and hold ourselves to the highest ethical standards as set forth i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: Panel finds safety 'disconnect' between Boeing management, employees  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioned by the U.S. Congress after fatal crashes of Boeing 737 MAX planes in 2018 and 2019, the report criticized Boeing&#x27;s lack of a...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioned by the U.S. Congress after fatal crashes of Boeing 737 MAX planes in 2018 and 2019, the report criticized Boeing&#x27;s lack of a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety Board (NTSB) has sharply criticized Boeing for failing to provide adequate training, guidance, and oversig...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety Board (NTSB) has sharply criticized Boeing for failing to provide adequate training, guidance, and oversig...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/business-and-management/safety-culture" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/business-and-management/safety-culture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety culture | Business and ManagementSafety culture refers to the collective attitudes, values, and behaviors of an organization regar...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/business-and-management/safety-culture" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/business-and-management/safety-culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety culture | Business and ManagementSafety culture refers to the collective attitudes, values, and behaviors of an organization regar...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great-2024-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great-2024-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This investigation follows fatal crashes involving Boeing Max jets in 2018 and 2019. The FAA report highlighted a troubling workplace cul...</p></details>
+   Link:<a href="https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This investigation follows fatal crashes involving Boeing Max jets in 2018 and 2019. The FAA report highlighted a troubling workplace cul...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 737 MAX: Lessons for Engineering Ethics - PMCby J Herkert · 2020 · Cited by 232 — Thus, the case can serve a reminder to current a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 737 MAX: Lessons for Engineering Ethics - PMCby J Herkert · 2020 · Cited by 232 — Thus, the case can serve a reminder to current a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fLRfXxn02Uw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fLRfXxn02Uw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fLRfXxn02Uw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fLRfXxn02Uw</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: democrats-transportation.house.gov  
    Title: boeing 737 max investigation  
-   Link: <a href="https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation" target="_blank" rel="noopener noreferrer nofollow">https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>737 MAX InvestigationThe Committee launched an investigation to ensure accountability, transparency in the certification process, and mos...</p></details>
+   Link:<a href="https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation" target="_blank" rel="noopener noreferrer nofollow">https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>737 MAX InvestigationThe Committee launched an investigation to ensure accountability, transparency in the certification process, and mos...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/346566981_Psychological_Safety_in_Aviation_New_Product_Development_Teams_Case_Study_of_737_MAX_Airplane" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346566981_Psychological_Safety_in_Aviation_New_Product_Development_Teams_Case_Study_of_737_MAX_Airplane</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study of 737 MAX Airplane5 May 2026 — In its mission statement, Boeing emphasizes that one of its core values is its commitment to s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/346566981_Psychological_Safety_in_Aviation_New_Product_Development_Teams_Case_Study_of_737_MAX_Airplane" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346566981_Psychological_Safety_in_Aviation_New_Product_Development_Teams_Case_Study_of_737_MAX_Airplane</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study of 737 MAX Airplane5 May 2026 — In its mission statement, Boeing emphasizes that one of its core values is its commitment to s...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: canadasafetytraining.com  
-   Link: <a href="https://www.canadasafetytraining.com/Safety_Blog/building-a-safety-culture.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.canadasafetytraining.com/Safety_Blog/building-a-safety-culture.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Steps to Build a Strong Safety Culture in the WorkplaceCreating a safety culture in organizations is based on preventing accidents, pro...</p></details>
+   Link:<a href="https://www.canadasafetytraining.com/Safety_Blog/building-a-safety-culture.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.canadasafetytraining.com/Safety_Blog/building-a-safety-culture.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Steps to Build a Strong Safety Culture in the WorkplaceCreating a safety culture in organizations is based on preventing accidents, pro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: worksafe.qld.gov.au  
-   Link: <a href="https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/19365/understanding-safety-culture.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/19365/understanding-safety-culture.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding safety cultureFor a safety culture to be successful it needs to be led from the top—that is, safety culture needs to be emb...</p></details>
+   Link:<a href="https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/19365/understanding-safety-culture.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/19365/understanding-safety-culture.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding safety cultureFor a safety culture to be successful it needs to be led from the top—that is, safety culture needs to be emb...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cov.com  
-   Link: <a href="https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>law, a manufacturer of consumer prod- ucts must report to the CPSC “immediately”—that is, within 24 hours—upon obtaining information that...</p></details>
+   Link:<a href="https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>law, a manufacturer of consumer prod- ucts must report to the CPSC “immediately”—that is, within 24 hours—upon obtaining information that...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nelsonmullins.com  
-   Link: <a href="https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Companies must file Section 15(b) reports “immediately”— meaning within 24 hours—after obtaining information.Read more...</p></details>
+   Link:<a href="https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Companies must file Section 15(b) reports “immediately”— meaning within 24 hours—after obtaining information.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 320789688 Safety Culture and Return to Work Does Perception Matter  
-   Link: <a href="https://www.researchgate.net/publication/320789688_Safety_Culture_and_Return_to_Work_Does_Perception_Matter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320789688_Safety_Culture_and_Return_to_Work_Does_Perception_Matter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zohar (2000) described safety climate as employees&#x27; perception of the priority given to. safety and not based on a supervisor&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/320789688_Safety_Culture_and_Return_to_Work_Does_Perception_Matter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320789688_Safety_Culture_and_Return_to_Work_Does_Perception_Matter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zohar (2000) described safety climate as employees&#x27; perception of the priority given to. safety and not based on a supervisor&#x27;s...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: transportation.gov  
    Title: faa oversight boeings broken safety culture 0  
-   Link: <a href="https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation DepartmentFAA Oversight of Boeing&#x27;s Broken Safety Culture25 Sept 2024 — The FAA will hold Boeing accountable for having an...</p></details>
+   Link:<a href="https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation DepartmentFAA Oversight of Boeing&#x27;s Broken Safety Culture25 Sept 2024 — The FAA will hold Boeing accountable for having an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/s3fs-public/8002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/8002.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 report with the Office of Compliance and Field.Read more...</p></details>
+   Link:<a href="https://www.cpsc.gov/s3fs-public/8002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/8002.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 report with the Office of Compliance and Field.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
    Title: product safety and noncompliance notification guidance  
-   Link: <a href="https://www.gov.uk/government/publications/notifications-of-unsafe-and-noncompliant-products/product-safety-and-noncompliance-notification-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/notifications-of-unsafe-and-noncompliant-products/product-safety-and-noncompliance-notification-guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>safety and noncompliance notification guidance for...13 May 2026 — This guidance is for market surveillance and enforcement authorities...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/notifications-of-unsafe-and-noncompliant-products/product-safety-and-noncompliance-notification-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/notifications-of-unsafe-and-noncompliant-products/product-safety-and-noncompliance-notification-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>safety and noncompliance notification guidance for...13 May 2026 — This guidance is for market surveillance and enforcement authorities...</p></details>
    Published: May 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rucforsk.ruc.dk  
-   Link: <a href="https://rucforsk.ruc.dk/ws/files/111388842/Boeing_project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rucforsk.ruc.dk/ws/files/111388842/Boeing_project.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MAX. We understand that regulatory agencies and customers have...Read more...</p></details>
+   Link:<a href="https://rucforsk.ruc.dk/ws/files/111388842/Boeing_project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rucforsk.ruc.dk/ws/files/111388842/Boeing_project.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAX. We understand that regulatory agencies and customers have...Read more...</p></details>

@@ -268,20 +268,20 @@ image: /assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_o
 
 ## Introduction
 
-Anecdotal evidence does not automatically make a claim false. An anecdote—a personal story, individual [experience]({{ 'experience/' | relative_url }}), or isolated observation—can be weak evidence for a broad conclusion, but weakness of evidence is not the same thing as proof of falsity. This distinction matters because discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) often swing between two errors: treating a vivid story as decisive proof, and treating the label “anecdotal” as decisive disproof. Both moves confuse the quality of the evidence with the truth of the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</span></span></span>
+Anecdotal evidence does not automatically make a claim false. An anecdote—a personal story, individual [experience]({{ 'experience/' | relative_url }}), or isolated observation—can be weak evidence for a broad conclusion, but weakness of evidence is not the same thing as proof of falsity. This distinction matters because discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) often swing between two errors: treating a vivid story as decisive proof, and treating the label “anecdotal” as decisive disproof. Both moves confuse the quality of the evidence with the truth of the claim itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-1-dark.svg" | relative_url }}" alt="Anecdotes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within debates about fallacies and the fallacy fallacy, anecdotes are a common flashpoint. One person offers a personal experience as support for a claim. Another replies, “That's just anecdotal evidence,” and acts as though the matter is settled. The first response may overstate what the anecdote proves, but the second can overstate what the anecdote fails to prove. The proper question is not whether the evidence is anecdotal, but what conclusions the anecdote can reasonably support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</span></span></span>
+Within debates about fallacies and the fallacy fallacy, anecdotes are a common flashpoint. One person offers a personal experience as support for a claim. Another replies, “That's just anecdotal evidence,” and acts as though the matter is settled. The first response may overstate what the anecdote proves, but the second can overstate what the anecdote fails to prove. The proper question is not whether the evidence is anecdotal, but what conclusions the anecdote can reasonably support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</span></span></span>
 
 ## What an Anecdote Can and Cannot Prove
 
-An anecdote is evidence based on individual experience rather than systematic observation. Because it is not collected through controlled or representative methods, it is usually a poor basis for making broad claims about populations, trends, causes, or probabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experiences...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIJudging which tests and treatments really work</span><span class="citation-popover-snippet">NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</span></span></span>
+An anecdote is evidence based on individual experience rather than systematic observation. Because it is not collected through controlled or representative methods, it is usually a poor basis for making broad claims about populations, trends, causes, or probabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experiences...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIJudging which tests and treatments really work</span><span class="citation-popover-snippet">NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</span></span></span>
 
 For example, if someone says:
 
 > “My uncle smoked every day and lived to ninety-five, so smoking is not dangerous.”
 
-the problem is not that the uncle's experience is fictional. The problem is that a single case cannot reliably establish a general conclusion about smoking risks across millions of people. This is closely related to hasty generalisation: drawing a broad conclusion from too small or unrepresentative a sample. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">hasty generalization fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/hastygen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-title">Hasty Generalization</span><span class="citation-popover-snippet">Logical FallacyHasty generalization is the fallacy of generalizing about a population based upon a sample which is too small to be repres...</span></span></span>
+the problem is not that the uncle's experience is fictional. The problem is that a single case cannot reliably establish a general conclusion about smoking risks across millions of people. This is closely related to hasty generalisation: drawing a broad conclusion from too small or unrepresentative a sample.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">hasty generalization fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/hastygen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-title">Hasty Generalization</span><span class="citation-popover-snippet">Logical FallacyHasty generalization is the fallacy of generalizing about a population based upon a sample which is too small to be repres...</span></span></span>
 
 However, the opposite conclusion does not follow either. Suppose someone says:
 
@@ -300,7 +300,7 @@ This distinction is often lost in [debate]({{ 'debate/' | relative_url }}). Anec
 
 </div>
 
-What anecdotes generally cannot do on their own is establish how common something is, how large an effect is, or whether one factor caused another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical case report: a review of its merits and limitationsby T Nissen · 2014 · Cited by 792 — The major advantages of case repor...</span></span></span>
+What anecdotes generally cannot do on their own is establish how common something is, how large an effect is, or whether one factor caused another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical case report: a review of its merits and limitationsby T Nissen · 2014 · Cited by 792 — The major advantages of case repor...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n64Xgr6VDYQ" title="Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer">Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy.</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 8.6K &middot; Uploaded: January 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n64Xgr6VDYQ">Open on YouTube</a></p></div></div></div>
 
@@ -312,13 +312,13 @@ Someone says:
 
 > “My grandmother ate vegetables every day and lived to one hundred. Therefore eating vegetables guarantees a long life.”
 
-The reasoning is weak because a single life story cannot establish a general rule. Longevity depends on many factors, including genetics, environment, healthcare, lifestyle, chance, and other dietary habits. One successful example does not show that vegetables were the decisive cause, nor does it show what outcome most people should expect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK234526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIScientific Principles and Research Practices</span><span class="citation-popover-snippet">Although its goal is to approach true explanations as closely...Read more...</span></span></span>
+The reasoning is weak because a single life story cannot establish a general rule. Longevity depends on many factors, including genetics, environment, healthcare, lifestyle, chance, and other dietary habits. One successful example does not show that vegetables were the decisive cause, nor does it show what outcome most people should expect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK234526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIScientific Principles and Research Practices</span><span class="citation-popover-snippet">Although its goal is to approach true explanations as closely...Read more...</span></span></span>
 
 Yet an overcorrection is equally mistaken:
 
-&gt; “That's anecdotal evidence. Therefore eating vegetables has nothing to do with health.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aphilosopher.drmcl.com">[aphilosopher.drmcl.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aphilosopher.drmcl.com</span><span class="citation-popover-snippet">Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</span></span></span>
+&gt; “That's anecdotal evidence. Therefore eating vegetables has nothing to do with health.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aphilosopher.drmcl.com">[aphilosopher.drmcl.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aphilosopher.drmcl.com</span><span class="citation-popover-snippet">Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</span></span></span>
 
-The anecdote never proved the strong conclusion in the first place, but dismissing it does not establish the opposite conclusion. The appropriate response is that the story is insufficient by itself. To determine whether vegetables contribute to health, we need larger bodies of evidence gathered systematically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Levels of Evidence in Medical Researchby A Vatkar · 2025 · Cited by 14 — Levels in Detail · Level 1: Systematic revi...</span></span></span>
+The anecdote never proved the strong conclusion in the first place, but dismissing it does not establish the opposite conclusion. The appropriate response is that the story is insufficient by itself. To determine whether vegetables contribute to health, we need larger bodies of evidence gathered systematically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Levels of Evidence in Medical Researchby A Vatkar · 2025 · Cited by 14 — Levels in Detail · Level 1: Systematic revi...</span></span></span>
 
 Notice the difference between three positions:
 
@@ -330,16 +330,16 @@ Notice the difference between three positions:
 
 </div>
 
-The third position avoids both the anecdotal fallacy and the fallacy fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aphilosopher.drmcl.com">[aphilosopher.drmcl.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aphilosopher.drmcl.com</span><span class="citation-popover-snippet">Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</span></span></span>
+The third position avoids both the anecdotal fallacy and the fallacy fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aphilosopher.drmcl.com">[aphilosopher.drmcl.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aphilosopher.drmcl.com</span><span class="citation-popover-snippet">Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-2-dark.svg" | relative_url }}" alt="Anecdotes illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Anecdotes Still Matter
 
 People sometimes speak as if anecdotes are worthless. In many contexts, that goes too far.
 
-In medicine and science, individual cases often play an important role in identifying unusual events, generating hypotheses, and drawing attention to phenomena that deserve systematic study. Case reports sit near the bottom of traditional evidence hierarchies because they cannot reliably establish general conclusions, but they can reveal new possibilities and motivate further investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Physicians are encouraged to find the highest level of evidence to answer clinical questions.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAre case reports valuable?</span><span class="citation-popover-snippet">Exploring their role in evidence...by TK Suvvari · 2024 · Cited by 9 — Despite being placed low on the evidence hierarchy, case reports...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Case reports are indispensible for its ability to detect novelties, thereby generating new scientific hypotheses.Read more...</span></span></span>
+In medicine and science, individual cases often play an important role in identifying unusual events, generating hypotheses, and drawing attention to phenomena that deserve systematic study. Case reports sit near the bottom of traditional evidence hierarchies because they cannot reliably establish general conclusions, but they can reveal new possibilities and motivate further investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Physicians are encouraged to find the highest level of evidence to answer clinical questions.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAre case reports valuable?</span><span class="citation-popover-snippet">Exploring their role in evidence...by TK Suvvari · 2024 · Cited by 9 — Despite being placed low on the evidence hierarchy, case reports...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Case reports are indispensible for its ability to detect novelties, thereby generating new scientific hypotheses.Read more...</span></span></span>
 
-Historically, unusual observations have sometimes been the first clues that led researchers to discover diseases, side effects, or previously unrecognised patterns. Researchers do not treat those observations as final proof, but neither do they ignore them merely because they are anecdotal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTips for writing a case report for the novice author</span><span class="citation-popover-snippet">This includes a rare or unusual clinical...Read more...</span></span></span>
+Historically, unusual observations have sometimes been the first clues that led researchers to discover diseases, side effects, or previously unrecognised patterns. Researchers do not treat those observations as final proof, but neither do they ignore them merely because they are anecdotal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTips for writing a case report for the novice author</span><span class="citation-popover-snippet">This includes a rare or unusual clinical...Read more...</span></span></span>
 
 This illustrates an important principle: evidence can be weak without being worthless. An anecdote may justify curiosity, investigation, or caution even when it does not justify certainty.
 
@@ -360,13 +360,13 @@ Useful questions include:
 
 </div>
 
-These questions focus on the strength of the support rather than prematurely deciding the truth of the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://criticalthinkingacademy.net/blog/hasty-generalization.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: criticalthinkingacademy.net">[criticalthinkingacademy.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">criticalthinkingacademy.net</span><span class="citation-popover-title">Hasty Generalization</span><span class="citation-popover-snippet">Simply point out the sample size: &quot;You&#x27;re drawing a conclusion...Read more...</span></span></span>
+These questions focus on the strength of the support rather than prematurely deciding the truth of the conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://criticalthinkingacademy.net/blog/hasty-generalization.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: criticalthinkingacademy.net">[criticalthinkingacademy.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">criticalthinkingacademy.net</span><span class="citation-popover-title">Hasty Generalization</span><span class="citation-popover-snippet">Simply point out the sample size: &quot;You&#x27;re drawing a conclusion...Read more...</span></span></span>
 
 Compare two responses:
 
 **Overreaching response:**
 
-“That's anecdotal evidence, so your claim is wrong.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aphilosopher.drmcl.com">[aphilosopher.drmcl.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aphilosopher.drmcl.com</span><span class="citation-popover-snippet">Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</span></span></span>
+“That's anecdotal evidence, so your claim is wrong.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aphilosopher.drmcl.com">[aphilosopher.drmcl.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aphilosopher.drmcl.com</span><span class="citation-popover-snippet">Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</span></span></span>
 
 **Better response:**
 
@@ -378,7 +378,7 @@ The second reply keeps the discussion centred on evidence quality without commit
 
 ## The Key Lesson
 
-Anecdotes become problematic when they are treated as decisive proof of broad claims. But dismissing a claim solely because the evidence offered is anecdotal can repeat the same reasoning error in reverse. An anecdote may fail to establish a conclusion, yet the conclusion could still be true, false, or partly true for reasons the anecdote does not address. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</span></span></span>
+Anecdotes become problematic when they are treated as decisive proof of broad claims. But dismissing a claim solely because the evidence offered is anecdotal can repeat the same reasoning error in reverse. An anecdote may fail to establish a conclusion, yet the conclusion could still be true, false, or partly true for reasons the anecdote does not address.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</span></span></span>
 
 The most careful approach is to separate two questions:
 
@@ -387,272 +387,272 @@ The most careful approach is to separate two questions:
 1. Does this anecdote provide enough evidence for the conclusion?
 2. Independently of that anecdote, is the conclusion true?
 
-Logical fallacy discussions often go astray when those questions are collapsed into one. An anecdote rarely settles a dispute, but neither does identifying something as anecdotal settle it. The proper conclusion is usually not “therefore true” or “therefore false,” but “therefore we need stronger evidence.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIJudging which tests and treatments really work</span><span class="citation-popover-snippet">NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Anecdotes as evidence: We need guidelines for reporting...by JK Aronson · 2003 · Cited by 131 — Now the hierarchy of clinical evidenc...</span></span></span>
+Logical fallacy discussions often go astray when those questions are collapsed into one. An anecdote rarely settles a dispute, but neither does identifying something as anecdotal settle it. The proper conclusion is usually not “therefore true” or “therefore false,” but “therefore we need stronger evidence.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIJudging which tests and treatments really work</span><span class="citation-popover-snippet">NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Anecdotes as evidence: We need guidelines for reporting...by JK Aronson · 2003 · Cited by 131 — Now the hierarchy of clinical evidenc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Anecdotal Evidence Make a Claim False?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Anecdotal Evidence Make a Claim False?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that cause people to overweight anecdotes and vivid personal stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that cause people to overweight anecdotes and vivid personal stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how to evaluate claims using evidence rather than isolated examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Shows how to evaluate claims using evidence rather than isolated examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Teaches how evidence supports conclusions and why weak evidence is not disproof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how evidence supports conclusions and why weak evidence is not disproof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Helps readers understand representative evidence versus misleading examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand representative evidence versus misleading examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-c0ecbe-does-anecdotal-evidence-make-a-claim-false-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -668,7 +668,7 @@ Logical fallacy discussions often go astray when those questions are collapsed i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -688,7 +688,7 @@ Logical fallacy discussions often go astray when those questions are collapsed i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -720,7 +720,7 @@ Logical fallacy discussions often go astray when those questions are collapsed i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -750,7 +750,7 @@ Logical fallacy discussions often go astray when those questions are collapsed i
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -808,156 +808,156 @@ Logical fallacy discussions often go astray when those questions are collapsed i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/anecdotal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/anecdotal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experiences...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experiences...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: criticalthinkingacademy.net  
    Title: Hasty Generalization  
-   Link: <a href="https://criticalthinkingacademy.net/blog/hasty-generalization.html" target="_blank" rel="noopener noreferrer nofollow">https://criticalthinkingacademy.net/blog/hasty-generalization.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply point out the sample size: &quot;You&#x27;re drawing a conclusion...Read more...</p></details>
+   Link:<a href="https://criticalthinkingacademy.net/blog/hasty-generalization.html" target="_blank" rel="noopener noreferrer nofollow">https://criticalthinkingacademy.net/blog/hasty-generalization.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply point out the sample size: &quot;You&#x27;re drawing a conclusion...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIJudging which tests and treatments really work  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63639/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribbr.com  
    Title: hasty generalization fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fallacyfiles.org  
    Title: Hasty Generalization  
-   Link: <a href="https://www.fallacyfiles.org/hastygen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/hastygen.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallacyHasty generalization is the fallacy of generalizing about a population based upon a sample which is too small to be repres...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/hastygen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/hastygen.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallacyHasty generalization is the fallacy of generalizing about a population based upon a sample which is too small to be repres...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The clinical case report: a review of its merits and limitationsby T Nissen · 2014 · Cited by 792 — The major advantages of case repor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The clinical case report: a review of its merits and limitationsby T Nissen · 2014 · Cited by 792 — The major advantages of case repor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Levels of Evidence in Medical Researchby A Vatkar · 2025 · Cited by 14 — Levels in Detail · Level 1: Systematic revi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Levels of Evidence in Medical Researchby A Vatkar · 2025 · Cited by 14 — Levels in Detail · Level 1: Systematic revi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physicians are encouraged to find the highest level of evidence to answer clinical questions.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physicians are encouraged to find the highest level of evidence to answer clinical questions.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAre case reports valuable?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring their role in evidence...by TK Suvvari · 2024 · Cited by 9 — Despite being placed low on the evidence hierarchy, case reports...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring their role in evidence...by TK Suvvari · 2024 · Cited by 9 — Despite being placed low on the evidence hierarchy, case reports...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports are indispensible for its ability to detect novelties, thereby generating new scientific hypotheses.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports are indispensible for its ability to detect novelties, thereby generating new scientific hypotheses.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTips for writing a case report for the novice author  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes a rare or unusual clinical...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This includes a rare or unusual clinical...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes as evidence: We need guidelines for reporting...by JK Aronson · 2003 · Cited by 131 — Now the hierarchy of clinical evidenc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes as evidence: We need guidelines for reporting...by JK Aronson · 2003 · Cited by 131 — Now the hierarchy of clinical evidenc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIScientific Principles and Research Practices  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK234526/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK234526/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although its goal is to approach true explanations as closely...Read more...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK234526/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK234526/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although its goal is to approach true explanations as closely...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical Fallacies(See also &quot;Scare Tactic&quot; and &quot;The Big &#x27;But&#x27; Fallacy.&quot;) Where there&#x27;s Smoke, there&#x27;s Fire (also Hasty Conclusion...</p></details>
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical Fallacies(See also &quot;Scare Tactic&quot; and &quot;The Big &#x27;But&#x27; Fallacy.&quot;) Where there&#x27;s Smoke, there&#x27;s Fire (also Hasty Conclusion...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: owl.excelsior.edu  
    Title: logical fallacies hasty generalization  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generalization Fallacy - Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simply too small. For i...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generalization Fallacy - Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simply too small. For i...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aphilosopher.drmcl.com  
-   Link: <a href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow">https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</p></details>
+   Link:<a href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow">https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SgtScholar/posts/anecdotal-evidence-refers-to-personal-experience-and-observations-of-course-we-n/1039779834916805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SgtScholar/posts/anecdotal-evidence-refers-to-personal-experience-and-observations-of-course-we-n/1039779834916805/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidence refers to personal experience...ANECDOTAL FALLACY DEFINITION AND EXPLANATION: The anecdotal fallacy uses a personal e...</p></details>
+   Link:<a href="https://www.facebook.com/SgtScholar/posts/anecdotal-evidence-refers-to-personal-experience-and-observations-of-course-we-n/1039779834916805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SgtScholar/posts/anecdotal-evidence-refers-to-personal-experience-and-observations-of-course-we-n/1039779834916805/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidence refers to personal experience...ANECDOTAL FALLACY DEFINITION AND EXPLANATION: The anecdotal fallacy uses a personal e...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: opentextbooks.library.arizona.edu  
-   Link: <a href="https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalizations – Decoding DeceptionA hasty generalization is when someone draws a conclusion about a group, trend, or idea based o...</p></details>
+   Link:<a href="https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalizations – Decoding DeceptionA hasty generalization is when someone draws a conclusion about a group, trend, or idea based o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: critikid.com  
-   Link: <a href="https://critikid.com/hasty-generalization" target="_blank" rel="noopener noreferrer nofollow">https://critikid.com/hasty-generalization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization fallacyIf you commit the hasty generalization fallacy, you jump to conclusions without enough evidence or draw an in...</p></details>
+   Link:<a href="https://critikid.com/hasty-generalization" target="_blank" rel="noopener noreferrer nofollow">https://critikid.com/hasty-generalization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization fallacyIf you commit the hasty generalization fallacy, you jump to conclusions without enough evidence or draw an in...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: brookbushinstitute.com  
-   Link: <a href="https://brookbushinstitute.com/glossary/levels-of-evidence" target="_blank" rel="noopener noreferrer nofollow">https://brookbushinstitute.com/glossary/levels-of-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Levels of EvidenceLevels of evidence are proposed hierarchies of research types that intend to rank the strength and reliability of resea...</p></details>
+   Link:<a href="https://brookbushinstitute.com/glossary/levels-of-evidence" target="_blank" rel="noopener noreferrer nofollow">https://brookbushinstitute.com/glossary/levels-of-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Levels of EvidenceLevels of evidence are proposed hierarchies of research types that intend to rank the strength and reliability of resea...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fallacydetective.com  
-   Link: <a href="https://www.fallacydetective.com/articles/read/short-list-of-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacydetective.com/articles/read/short-list-of-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Short List of FallaciesHasty Generalization: Where someone generalizes about a... It is specifically ** the misuse of ** anecdotal evide...</p></details>
+   Link:<a href="https://www.fallacydetective.com/articles/read/short-list-of-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacydetective.com/articles/read/short-list-of-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Short List of FallaciesHasty Generalization: Where someone generalizes about a... It is specifically ** the misuse of ** anecdotal evide...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/thelibary/posts/2301488029882862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thelibary/posts/2301488029882862/</a>  
+   Link:<a href="https://www.facebook.com/groups/thelibary/posts/2301488029882862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thelibary/posts/2301488029882862/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/</a>  
+   Link:<a href="https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/d38vof/how_to_explain_to_someone_that_anecdotes_dont/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/d38vof/how_to_explain_to_someone_that_anecdotes_dont/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring personal experience fallacies. Defining anecdotes and their significance. Open App.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/d38vof/how_to_explain_to_someone_that_anecdotes_dont/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/d38vof/how_to_explain_to_someone_that_anecdotes_dont/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring personal experience fallacies. Defining anecdotes and their significance. Open App.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
    Title: 391603996 Understanding the Levels of Evidence in Medical Research  
-   Link: <a href="https://www.researchgate.net/publication/391603996_Understanding_the_Levels_of_Evidence_in_Medical_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391603996_Understanding_the_Levels_of_Evidence_in_Medical_Research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Level 5: Expert opinion and anecdotal evidence. These are at the bottom of the hierarchy and rely on personal. experience or...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391603996_Understanding_the_Levels_of_Evidence_in_Medical_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391603996_Understanding_the_Levels_of_Evidence_in_Medical_Research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Level 5: Expert opinion and anecdotal evidence. These are at the bottom of the hierarchy and rely on personal. experience or...Read more...</p></details>

@@ -501,7 +501,7 @@ This matters because personalised debate is often persuasive even when it is log
 
 ## What an ad hominem attack does to an argument
 
-An ad hominem move changes the subject. Instead of answering “Is this claim well supported?”, it answers a different question: “What do we think of the person making it?” The Stanford Encyclopedia of Philosophy describes ad hominem fallacies as cases where negative aspects of an arguer or their situation are brought to bear on the view they are advancing, while the Internet Encyclopedia of Philosophy classifies common variants as abusive, circumstantial and guilt-by-association attacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy
+An ad hominem move changes the subject. Instead of answering “Is this claim well supported?”, it answers a different question: “What do we think of the person making it?” The Stanford Encyclopedia of Philosophy describes ad hominem fallacies as cases where negative aspects of an arguer or their situation are brought to bear on the view they are advancing, while the Internet Encyclopedia of Philosophy classifies common variants as abusive, circumstantial and guilt-by-association attacks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy
 
 The pattern is easy to miss because the personal remark may feel connected to the topic. For example: “You cannot trust her view on housing policy; she owns several properties.” That may raise a legitimate question about interests or bias, but it does not by itself show that her figures are wrong, her inference is invalid or her policy proposal would fail. To become a sound objection, the criticism must connect the personal circumstance to a specific weakness in the evidence or reasoning.
 
@@ -520,9 +520,9 @@ The failure is in step three. Even an untrustworthy person can make a true claim
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-1-dark.svg" | relative_url }}" alt="Ad Hominem illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Relevant character evidence is not the same as an irrelevant insult
 
-A common misunderstanding is that “ad hominem” means “any personal criticism”. That is too crude. Argumentation scholars have long noted that personal facts can be relevant when the discussion depends on trust, expertise, testimony or role-specific judgement. Stanford’s entry on [informal logic]({{ 'informal-logic/' | relative_url }}) gives ad hominem as a case where criticism of an arguer can, in principle, be a reasonable way to cast doubt on a view, depending on the critical questions asked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy
+A common misunderstanding is that “ad hominem” means “any personal criticism”. That is too crude. Argumentation scholars have long noted that personal facts can be relevant when the discussion depends on trust, expertise, testimony or role-specific judgement. Stanford’s entry on [informal logic]({{ 'informal-logic/' | relative_url }}) gives ad hominem as a case where criticism of an arguer can, in principle, be a reasonable way to cast doubt on a view, depending on the critical questions asked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy
 
-The difference is easiest to see in testimony. If a witness is giving evidence, their reliability may matter. Legal [evidence rules]({{ 'evidence-rules/' | relative_url }}) often allow credibility to be attacked or supported in limited ways, especially where the evidence concerns truthfulness rather than general dislike. For instance, Minnesota’s Rule 608 states that witness credibility may be attacked or supported by opinion or reputation evidence, but only as it relates to character for truthfulness or untruthfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revisor.mn.gov">[MN Revisor&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revisor.mn.gov</span><span class="citation-popover-title">Revisor&#x27;s Office Rule 608</span><span class="citation-popover-snippet">Evidence of Character and Conduct of WitnessAugust 6, 2025 — Rule 608. Evidence of Character and Conduct of Witness​. (a) Opinion and rep...</span><span class="citation-popover-meta">Published: August 6, 2025</span></span></span>
+The difference is easiest to see in testimony. If a witness is giving evidence, their reliability may matter. Legal [evidence rules]({{ 'evidence-rules/' | relative_url }}) often allow credibility to be attacked or supported in limited ways, especially where the evidence concerns truthfulness rather than general dislike. For instance, Minnesota’s Rule 608 states that witness credibility may be attacked or supported by opinion or reputation evidence, but only as it relates to character for truthfulness or untruthfulness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revisor.mn.gov">[MN Revisor&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revisor.mn.gov</span><span class="citation-popover-title">Revisor&#x27;s Office Rule 608</span><span class="citation-popover-snippet">Evidence of Character and Conduct of WitnessAugust 6, 2025 — Rule 608. Evidence of Character and Conduct of Witness​. (a) Opinion and rep...</span><span class="citation-popover-meta">Published: August 6, 2025</span></span></span>
 
 That logic does not transfer automatically to every debate. A scientist’s funding source, a politician’s financial interest or an expert’s disciplinary competence may be relevant because they bear on possible bias, access to evidence or reliability. But “this person is arrogant”, “that speaker is ugly”, “she once made a mistake in another [context]({{ 'context/' | relative_url }})” or “he belongs to a group I dislike” usually does no argumentative work. It may change the mood of the debate, but it does not test the claim.
 
@@ -544,13 +544,13 @@ The first and third examples invite closer scrutiny. The second and fourth try t
 
 ## The main forms of personalised fallacy
 
-Ad hominem attacks come in several forms, and each fails in a slightly different way. The Internet Encyclopedia of Philosophy’s taxonomy is useful because it separates insults, circumstances and associations rather than treating all personal attacks as one thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</span></span></span>
+Ad hominem attacks come in several forms, and each fails in a slightly different way. The Internet Encyclopedia of Philosophy’s taxonomy is useful because it separates insults, circumstances and associations rather than treating all personal attacks as one thing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</span></span></span>
 
 **Abusive ad hominem** attacks a person’s character or qualities instead of answering the claim. “Only an idiot would support that tax proposal” is not an argument against the proposal. It may signal contempt, but it supplies no reason about revenue, fairness, incentives or consequences.
 
 **Circumstantial ad hominem** points to the person’s circumstances, interests or position. This is not always irrelevant, but it becomes fallacious when the circumstance is used as a shortcut to rejection. “You work for a teachers’ union, so your argument about school funding is wrong” does not address the data or reasoning. A better version would be: “Because you represent a group affected by this policy, we should compare your figures with independent sources.”
 
-**Tu quoque**, often summarised as “you too”, rejects advice or criticism because the speaker does not live up to it. Stanford gives the example of rejecting advice to exercise because the person giving it does not exercise; the adviser may be inconsistent, but that does not show the advice is bad. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy
+**Tu quoque**, often summarised as “you too”, rejects advice or criticism because the speaker does not live up to it. Stanford gives the example of rejecting advice to exercise because the person giving it does not exercise; the adviser may be inconsistent, but that does not show the advice is bad.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy
 
 **Guilt by association** dismisses a claim because the speaker is linked, loosely or strongly, to a disliked person or group. This can be rhetorically powerful because it lets an audience import a whole set of negative feelings without examining whether the association is meaningful. It is especially weak when the link is vague, old, involuntary, exaggerated or unrelated to the argument.
 
@@ -558,7 +558,7 @@ Ad hominem attacks come in several forms, and each fails in a slightly different
 
 Ad hominem attacks work because they exploit a real feature of human judgement: we often rely on source credibility when we cannot personally verify every claim. In everyday life that shortcut is necessary. We do not independently test every medical, legal, scientific or technical statement we hear. We ask whether the source seems competent, honest and accountable.
 
-The problem is that the shortcut can be hijacked. A personal attack offers the emotional satisfaction of a verdict without the work of analysis. It can make the speaker look exposed, suspect or ridiculous before their evidence has been considered. Experimental research on science communication found that ad hominem attacks against scientists can reduce evaluations of scientific claims, with effects comparable to attacks on the empirical basis of the claims themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The problem is that the shortcut can be hijacked. A personal attack offers the emotional satisfaction of a verdict without the work of analysis. It can make the speaker look exposed, suspect or ridiculous before their evidence has been considered. Experimental research on science communication found that ad hominem attacks against scientists can reduce evaluations of scientific claims, with effects comparable to attacks on the empirical basis of the claims themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That finding is important because it shows why the fallacy is not merely a classroom mistake. If a personal attack can lower confidence in a claim as much as a substantive critique, then audiences may leave a debate feeling that “something has been answered” when the actual evidence remains untouched.
 
@@ -568,9 +568,9 @@ The effect is especially strong when the attack fits an existing suspicion: “t
 
 Personalised debate is not new, but online platforms make it faster, cheaper and more visible. A short insult travels more easily than a careful rebuttal. A quote-post can frame a person as foolish before readers click through. A pile-on can turn one weak personal remark into a social signal: “everyone knows this person is not worth taking seriously.”
 
-Empirical work on web argumentation has tried to measure this pattern rather than merely complain about it. A 2018 NAACL paper on “Before Name-calling” used large-scale annotation studies to examine the dynamics and triggers of ad hominem fallacies in web argumentation, noting that people lapse into personal attacks even in debate settings where fallacies are formally punished. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/N18-1036/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Empirical work on web argumentation has tried to measure this pattern rather than merely complain about it. A 2018 NAACL paper on “Before Name-calling” used large-scale annotation studies to examine the dynamics and triggers of ad hominem fallacies in web argumentation, noting that people lapse into personal attacks even in debate settings where fallacies are formally punished.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/N18-1036/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Later research on CreateDebate, an online debate forum, used machine-learning detection and manual validation across 265,000 arguments. The authors reported that 31.23% of the analysed content contained ad hominem fallacy, and that highly active users posted significantly more ad hominem content in ways the paper associated with suppressing opposing views. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Later research on CreateDebate, an online debate forum, used machine-learning detection and manual validation across 265,000 arguments. The authors reported that 31.23% of the analysed content contained ad hominem fallacy, and that highly active users posted significantly more ad hominem content in ways the paper associated with suppressing opposing views.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These studies should not be read as proving that every heated online comment is an ad hominem fallacy. Detection depends on definitions, annotation choices and platform context. But they do support a practical point: online debate environments can reward personalised moves because they are brief, emotionally legible and socially contagious.
 
@@ -615,11 +615,11 @@ This is the cleanest case: the insult adds nothing. It merely raises the tempera
 
 ## The climate debate shows why character attacks can distort public reasoning
 
-Public science debates offer a concrete example of how ad hominem tactics can move attention from evidence to identity. Research on climate misinformation has found that attacks on scientists’ motives, competence or character are a recurring strategy in efforts to undermine climate science. A 2024 Climate Policy article by Sergei Samoilenko and John Cook developed a typology for classifying climate-related ad hominem attacks and found that bias attacks, such as accusing climate scientists of ideological or political agendas, were especially common. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Public science debates offer a concrete example of how ad hominem tactics can move attention from evidence to identity. Research on climate misinformation has found that attacks on scientists’ motives, competence or character are a recurring strategy in efforts to undermine climate science. A 2024 Climate Policy article by Sergei Samoilenko and John Cook developed a typology for classifying climate-related ad hominem attacks and found that bias attacks, such as accusing climate scientists of ideological or political agendas, were especially common.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This matters because the target is not just an individual reputation. If the audience is persuaded that a scientist is corrupt or politically motivated, they may dismiss the evidence before asking what the measurements show, whether the method is sound or whether independent studies agree. A related article in American Behavioral Scientist describes ad hominem attacks against climate scientists as including personal attacks on character, competence or motives, and treats them as a central contrarian strategy in contemporary climate debates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&amp;mi=ehikzz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because the target is not just an individual reputation. If the audience is persuaded that a scientist is corrupt or politically motivated, they may dismiss the evidence before asking what the measurements show, whether the method is sound or whether independent studies agree. A related article in American Behavioral Scientist describes ad hominem attacks against climate scientists as including personal attacks on character, competence or motives, and treats them as a central contrarian strategy in contemporary climate debates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&amp;mi=ehikzz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same pattern appears in journalism about online abuse of climate scientists and environmental defenders. Reports have described personal attacks, denigration, harassment and [threats]({{ 'threats/' | relative_url }}) directed at people communicating climate information, with concern that such hostility can discourage public participation and distort understanding of the science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Studies noted that this abuse impacts public perception, particularly of Spain&#x27;s state meteorological agency (Aemet), and can dissuade sc...</span></span></span>
+The same pattern appears in journalism about online abuse of climate scientists and environmental defenders. Reports have described personal attacks, denigration, harassment and [threats]({{ 'threats/' | relative_url }}) directed at people communicating climate information, with concern that such hostility can discourage public participation and distort understanding of the science.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Studies noted that this abuse impacts public perception, particularly of Spain&#x27;s state meteorological agency (Aemet), and can dissuade sc...</span></span></span>
 
 The fallacy here is not that scientists are beyond criticism. Scientific claims should be challenged through evidence, methods, replication, uncertainty and peer review. The fallacy occurs when personal suspicion is used to bypass that work.
 
@@ -653,269 +653,269 @@ A debate can be polite and still fallacious if it quietly invites readers to dis
 That distinction keeps fallacy-spotting from becoming another personalised weapon. The aim is not to accuse opponents of “doing ad hominem” as a way to silence them. The aim is to protect the central task of argument: giving reasons that actually bear on the conclusion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Personal Attacks Replace Reasons. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Personal Attacks Replace Reasons. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Directly addresses keeping arguments focused on reasons rather than people.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses keeping arguments focused on reasons rather than people.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Explains ad hominem and many related fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains ad hominem and many related fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows why people judge speakers instead of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why people judge speakers instead of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Promotes intellectual humility over personal attacks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes intellectual humility over personal attacks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monty Python Argument Sketch T-shirt fun funny Homage retro humour John Cleese"><img src="{{ '/assets/images/marketplace-covers/6051894c429d3f1f2e74.jpg' | relative_url }}" alt="Listing image for Monty Python Argument Sketch T-shirt fun funny Homage retro humour John Cleese" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Monty Python Argument Sketch T-shirt fun funny Homage retro humour John Cleese</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: argument t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monty Python Argument Sketch T-shirt fun funny Homage retro humour John Cleese"><img src="{{ '/assets/images/marketplace-covers/6051894c429d3f1f2e74.jpg' | relative_url }}" alt="Listing image for Monty Python Argument Sketch T-shirt fun funny Homage retro humour John Cleese" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Monty Python Argument Sketch T-shirt fun funny Homage retro humour John Cleese</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: argument t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HellDivers 2 Nice Argument Graphic Print Mens Unisex T-Shirt S M L XL 2 3 4 XL"><img src="{{ '/assets/images/marketplace-covers/8bbc19d723738bb1acba.jpg' | relative_url }}" alt="Listing image for HellDivers 2 Nice Argument Graphic Print Mens Unisex T-Shirt S M L XL 2 3 4 XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HellDivers 2 Nice Argument Graphic Print Mens Unisex T-Shirt S M L XL 2 3 4 XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: argument t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HellDivers 2 Nice Argument Graphic Print Mens Unisex T-Shirt S M L XL 2 3 4 XL"><img src="{{ '/assets/images/marketplace-covers/8bbc19d723738bb1acba.jpg' | relative_url }}" alt="Listing image for HellDivers 2 Nice Argument Graphic Print Mens Unisex T-Shirt S M L XL 2 3 4 XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HellDivers 2 Nice Argument Graphic Print Mens Unisex T-Shirt S M L XL 2 3 4 XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: argument t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Simulation Theory Tshirt Philosophical Tee | Coding God Argument Political"><img src="{{ '/assets/images/marketplace-covers/87501872a81f978a1ba4.jpg' | relative_url }}" alt="Listing image for Simulation Theory Tshirt Philosophical Tee | Coding God Argument Political" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Simulation Theory Tshirt Philosophical Tee | Coding God Argument Political</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: argument t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Simulation Theory Tshirt Philosophical Tee | Coding God Argument Political"><img src="{{ '/assets/images/marketplace-covers/87501872a81f978a1ba4.jpg' | relative_url }}" alt="Listing image for Simulation Theory Tshirt Philosophical Tee | Coding God Argument Political" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Simulation Theory Tshirt Philosophical Tee | Coding God Argument Political</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: argument t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Single Stitch T-Shirt There are two sides to every argument S**thead&#x27;s and Mine"><img src="{{ '/assets/images/marketplace-covers/cd116dc7e7ed3f4b1bef.jpg' | relative_url }}" alt="Listing image for Single Stitch T-Shirt There are two sides to every argument S**thead&#x27;s and Mine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Single Stitch T-Shirt There are two sides to every argument S**thead&#x27;s and Mine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: argument t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Single Stitch T-Shirt There are two sides to every argument S**thead&#x27;s and Mine"><img src="{{ '/assets/images/marketplace-covers/cd116dc7e7ed3f4b1bef.jpg' | relative_url }}" alt="Listing image for Single Stitch T-Shirt There are two sides to every argument S**thead&#x27;s and Mine" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Single Stitch T-Shirt There are two sides to every argument S**thead&#x27;s and Mine</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: argument t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-when-personal-attacks-replace-reasons-logical-fallacies-argument-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -931,7 +931,7 @@ That distinction keeps fallacy-spotting from becoming another personalised weapo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -951,7 +951,7 @@ That distinction keeps fallacy-spotting from becoming another personalised weapo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -983,7 +983,7 @@ That distinction keeps fallacy-spotting from becoming another personalised weapo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -1013,7 +1013,7 @@ That distinction keeps fallacy-spotting from becoming another personalised weapo
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1071,162 +1071,162 @@ That distinction keeps fallacy-spotting from becoming another personalised weapo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Ad hominem is...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Ad hominem is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.02062</a>  
+   Link:<a href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.02062</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: web.stanford.edu  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
+   Link:<a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
+   Link:<a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
+   Link:<a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: revisor.mn.gov  
    Title: Revisor's Office Rule 608  
-   Link: <a href="https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of Character and Conduct of WitnessAugust 6, 2025 — Rule 608. Evidence of Character and Conduct of Witness​. (a) Opinion and rep...</p></details>
+   Link:<a href="https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of Character and Conduct of WitnessAugust 6, 2025 — Rule 608. Evidence of Character and Conduct of Witness​. (a) Opinion and rep...</p></details>
    Published: August 6, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aclanthology.org  
-   Link: <a href="https://aclanthology.org/N18-1036/" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/N18-1036/</a>  
+   Link:<a href="https://aclanthology.org/N18-1036/" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/N18-1036/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792</a>  
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&amp;mi=ehikzz" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&amp;mi=ehikzz</a>  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&amp;mi=ehikzz" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&amp;mi=ehikzz</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies noted that this abuse impacts public perception, particularly of Spain&#x27;s state meteorological agency (Aemet), and can dissuade sc...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Studies noted that this abuse impacts public perception, particularly of Spain&#x27;s state meteorological agency (Aemet), and can dissuade sc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders</a>  
+   Link:<a href="https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: legal-resources.uslegalforms.com  
    Title: ad hominem  
-   Link: <a href="https://legal-resources.uslegalforms.com/a/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/a/ad-hominem</a>  
+   Link:<a href="https://legal-resources.uslegalforms.com/a/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/a/ad-hominem</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
+   Link:<a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: psychologyfanatic.com  
    Title: ad hominem attacks  
-   Link: <a href="https://psychologyfanatic.com/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://psychologyfanatic.com/ad-hominem-attacks/</a>  
+   Link:<a href="https://psychologyfanatic.com/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://psychologyfanatic.com/ad-hominem-attacks/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rpmministries.org  
    Title: ad hominem attacks  
-   Link: <a href="https://rpmministries.org/2025/07/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://rpmministries.org/2025/07/ad-hominem-attacks/</a>  
+   Link:<a href="https://rpmministries.org/2025/07/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://rpmministries.org/2025/07/ad-hominem-attacks/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: finmasters.com  
    Title: ad hominem fallacy  
-   Link: <a href="https://finmasters.com/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/ad-hominem-fallacy/</a>  
+   Link:<a href="https://finmasters.com/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/ad-hominem-fallacy/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=-gm-GMIjNpo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-gm-GMIjNpo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to handle ad hominem attacks debate fallacies Mastering the Ad Hominem: Defend Against Logical Fallacies Dre “DreAllDay” Baldwin...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=-gm-GMIjNpo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-gm-GMIjNpo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to handle ad hominem attacks debate fallacies Mastering the Ad Hominem: Defend Against Logical Fallacies Dre “DreAllDay” Baldwin...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Mastering the Ad Hominem: Defend Against Logical Fallacies  
-   Link: <a href="http://www.youtube.com/watch?v=oEtWVduI1UE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=oEtWVduI1UE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is an Ad Hominem Attack? | Argument Clinic | WIRED...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=oEtWVduI1UE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=oEtWVduI1UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is an Ad Hominem Attack? | Argument Clinic | WIRED...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: What is an Ad Hominem Attack? | Argument Clinic | WIRED  
-   Link: <a href="http://www.youtube.com/watch?v=F5CMW2XBH6I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F5CMW2XBH6I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Ad Hominem [HD]...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=F5CMW2XBH6I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F5CMW2XBH6I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Ad Hominem [HD]...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/33339443/Ad_Hominem_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33339443/Ad_Hominem_Argument</a>  
+   Link:<a href="https://www.academia.edu/33339443/Ad_Hominem_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33339443/Ad_Hominem_Argument</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379375006_Developing_a_Critical_Response_to_Ad_Hominem_Attacks_Against_Climate_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379375006_Developing_a_Critical_Response_to_Ad_Hominem_Attacks_Against_Climate_Science</a>  
+   Link:<a href="https://www.researchgate.net/publication/379375006_Developing_a_Critical_Response_to_Ad_Hominem_Attacks_Against_Climate_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379375006_Developing_a_Critical_Response_to_Ad_Hominem_Attacks_Against_Climate_Science</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse</a>  
+   Link:<a href="https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: crankyuncle.com  
-   Link: <a href="https://crankyuncle.com/wp-content/uploads/2023/08/Samoilenko_2023_ad_hom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://crankyuncle.com/wp-content/uploads/2023/08/Samoilenko_2023_ad_hom.pdf</a>  
+   Link:<a href="https://crankyuncle.com/wp-content/uploads/2023/08/Samoilenko_2023_ad_hom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://crankyuncle.com/wp-content/uploads/2023/08/Samoilenko_2023_ad_hom.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: fee.org  
-   Link: <a href="https://fee.org/articles/5-reasons-to-avoid-ad-hominem-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://fee.org/articles/5-reasons-to-avoid-ad-hominem-arguments/</a>  
+   Link:<a href="https://fee.org/articles/5-reasons-to-avoid-ad-hominem-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://fee.org/articles/5-reasons-to-avoid-ad-hominem-arguments/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/</a>  
+   Link:<a href="https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618</a>
+   Link:<a href="https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618</a>

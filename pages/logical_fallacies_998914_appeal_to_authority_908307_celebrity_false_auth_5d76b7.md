@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebr
 
 ## Introduction
 
-Celebrity endorsements are a particularly common form of the [appeal to authority]({{ 'authority/' | relative_url }}) fallacy. The mistake occurs when a claim seems credible because a famous person supports it, even though that person's fame has little or no connection to the subject being discussed. In health, science, finance, and [politics]({{ 'politics/' | relative_url }}), public recognition can easily be confused with relevant expertise. The result is a persuasive shortcut: people may accept a claim because they trust, admire, or identify with the celebrity rather than because the evidence is strong. As a branch of the broader appeal to authority fallacy, celebrity endorsement becomes logically weak when fame substitutes for knowledge, training, or reliable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</span></span></span>
+Celebrity endorsements are a particularly common form of the [appeal to authority]({{ 'authority/' | relative_url }}) fallacy. The mistake occurs when a claim seems credible because a famous person supports it, even though that person's fame has little or no connection to the subject being discussed. In health, science, finance, and [politics]({{ 'politics/' | relative_url }}), public recognition can easily be confused with relevant expertise. The result is a persuasive shortcut: people may accept a claim because they trust, admire, or identify with the celebrity rather than because the evidence is strong. As a branch of the broader appeal to authority fallacy, celebrity endorsement becomes logically weak when fame substitutes for knowledge, training, or reliable evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-1-dark.svg" | relative_url }}" alt="Celebrity Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Celebrity Status Is Not Domain Expertise
@@ -291,15 +291,15 @@ From a logical perspective, the argument often takes a simple form:
 
 </div>
 
-The conclusion does not follow. The celebrity's popularity may explain why people listen, but it does not provide evidence that the claim is accurate. This pattern is widely recognised in discussions of [informal logic]({{ 'informal-logic/' | relative_url }}) as an "appeal to celebrity", a specific variant of appeal to authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</span></span></span>
+The conclusion does not follow. The celebrity's popularity may explain why people listen, but it does not provide evidence that the claim is accurate. This pattern is widely recognised in discussions of [informal logic]({{ 'informal-logic/' | relative_url }}) as an "appeal to celebrity", a specific variant of appeal to authority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</span></span></span>
 
-Importantly, a celebrity can sometimes be a genuine authority. A famous physician discussing medical research or a renowned economist discussing monetary policy may possess relevant expertise. The fallacy arises not because the speaker is famous, but because fame is treated as evidence when expertise is absent or irrelevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arnoldporter.com">[Arnold &amp; Porter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arnoldporter.com</span><span class="citation-popover-title">ftc proposed updates to endorsement guides</span><span class="citation-popover-snippet">Arnold &amp; PorterFTC Proposed Updates to Endorsement Guides and.com...6 Jun 2022 — In the proposed updated Guides, the Commission propose...</span></span></span>
+Importantly, a celebrity can sometimes be a genuine authority. A famous physician discussing medical research or a renowned economist discussing monetary policy may possess relevant expertise. The fallacy arises not because the speaker is famous, but because fame is treated as evidence when expertise is absent or irrelevant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arnoldporter.com">[Arnold &amp; Porter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arnoldporter.com</span><span class="citation-popover-title">ftc proposed updates to endorsement guides</span><span class="citation-popover-snippet">Arnold &amp; PorterFTC Proposed Updates to Endorsement Guides and.com...6 Jun 2022 — In the proposed updated Guides, the Commission propose...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZuERLzNO9l0" title="Science and Religion Are Fallacies? Proof By Authority - The Biggest Logical Fallacy in the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZuERLzNO9l0" target="_blank" rel="noopener noreferrer">Science and Religion Are Fallacies? Proof By Authority - The Biggest Logical Fallacy in the World</a></p><p class="youtube-embed-meta">Channel: Logic Cards Beta &middot; Views: 192 &middot; Uploaded: May 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZuERLzNO9l0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZuERLzNO9l0">Open on YouTube</a></p></div></div></div>
 
 ## Why Celebrity Endorsements Feel So Convincing
 
-The influence of celebrity endorsements is not accidental. Research in marketing and persuasion consistently finds that famous individuals can shape attitudes, purchasing intentions, and public attention. People often transfer positive feelings about a celebrity to the endorsed message or product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0969698920312686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Celebrity endorsements: Investigating the interactive...by K El Hedhli · 2021 · Cited by 111 — This research investigates t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalCelebrity endorser&#x27;s credibility: effect on consumers&#x27;...by C Friis-Jespersen · Cited by 15 — The findings of this study sugg...</span></span></span>
+The influence of celebrity endorsements is not accidental. Research in marketing and persuasion consistently finds that famous individuals can shape attitudes, purchasing intentions, and public attention. People often transfer positive feelings about a celebrity to the endorsed message or product.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0969698920312686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Celebrity endorsements: Investigating the interactive...by K El Hedhli · 2021 · Cited by 111 — This research investigates t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalCelebrity endorser&#x27;s credibility: effect on consumers&#x27;...by C Friis-Jespersen · Cited by 15 — The findings of this study sugg...</span></span></span>
 
 Several psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) help explain the effect:
 
@@ -312,7 +312,7 @@ Several psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) help expl
 
 </div>
 
-Researchers have argued that humans are naturally inclined to pay attention to prestigious individuals and follow their choices, a tendency that can make celebrity endorsements highly persuasive even when expertise is lacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.wharton.upenn.edu">[Knowledge at Wharton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.wharton.upenn.edu</span><span class="citation-popover-snippet">Knowledge at WhartonThe Marketing Psychology Behind Celebrity EndorsementsMay 30, 2023 — The researchers believe the ability of celebriti...</span><span class="citation-popover-meta">Published: May 30, 2023</span></span></span>
+Researchers have argued that humans are naturally inclined to pay attention to prestigious individuals and follow their choices, a tendency that can make celebrity endorsements highly persuasive even when expertise is lacking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.wharton.upenn.edu">[Knowledge at Wharton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.wharton.upenn.edu</span><span class="citation-popover-snippet">Knowledge at WhartonThe Marketing Psychology Behind Celebrity EndorsementsMay 30, 2023 — The researchers believe the ability of celebriti...</span><span class="citation-popover-meta">Published: May 30, 2023</span></span></span>
 
 The persuasive power of celebrity endorsements therefore explains why they work commercially, but it does not justify treating celebrity opinion as proof.
 
@@ -324,9 +324,9 @@ The persuasive power of celebrity endorsements therefore explains why they work 
 
 Health is one of the clearest areas where celebrity authority can become misleading. Famous figures frequently promote diets, supplements, alternative therapies, or wellness routines. Audiences may assume that visible success, attractiveness, or fitness signals medical knowledge.
 
-Research on celebrity influence in health communication shows that celebrity involvement can significantly affect public attitudes and behaviour, sometimes spreading useful information and sometimes amplifying misinformation. Meta-analytic evidence indicates that celebrity interventions can alter health-related knowledge, attitudes, and behaviours, demonstrating the real power of celebrity influence regardless of the quality of the underlying claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 55 — The findings underscore the importance of expanding health c...</span></span></span>
+Research on celebrity influence in health communication shows that celebrity involvement can significantly affect public attitudes and behaviour, sometimes spreading useful information and sometimes amplifying misinformation. Meta-analytic evidence indicates that celebrity interventions can alter health-related knowledge, attitudes, and behaviours, demonstrating the real power of celebrity influence regardless of the quality of the underlying claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 55 — The findings underscore the importance of expanding health c...</span></span></span>
 
-Recent research on health communication and [social media]({{ 'social-media/' | relative_url }}) has also highlighted concerns about misinformation and overgeneralised health advice circulated by influential public figures who lack relevant expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 55 — The findings underscore the importance of expanding health c...</span></span></span>
+Recent research on health communication and [social media]({{ 'social-media/' | relative_url }}) has also highlighted concerns about misinformation and overgeneralised health advice circulated by influential public figures who lack relevant expertise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 55 — The findings underscore the importance of expanding health c...</span></span></span>
 
 The logical error appears when a health recommendation is accepted because a celebrity endorses it rather than because clinical evidence supports it.
 
@@ -341,7 +341,7 @@ Yet financial markets require specialised knowledge, and celebrity confidence is
 
 Celebrities often endorse political candidates, public campaigns, and social causes. While public figures have every right to express political opinions, their support does not automatically establish that a policy proposal is effective or that a candidate's claims are true.
 
-An endorsement may reveal values, preferences, or experiences. It does not substitute for evidence about policy outcomes. This distinction is frequently blurred when celebrity support is treated as a reason to accept a political position without examining its merits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/apcelebs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesLogical Fallacy: Appeal to CelebrityAppealing to celebrity is one of the most common forms of fallacious appeal to authority...</span></span></span>
+An endorsement may reveal values, preferences, or experiences. It does not substitute for evidence about policy outcomes. This distinction is frequently blurred when celebrity support is treated as a reason to accept a political position without examining its merits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/apcelebs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesLogical Fallacy: Appeal to CelebrityAppealing to celebrity is one of the most common forms of fallacious appeal to authority...</span></span></span>
 
 ## When Celebrity Influence Is Useful but Not Authoritative
 
@@ -353,12 +353,12 @@ Celebrities can play constructive roles by:
 
 * Drawing attention to neglected issues.
 * Encouraging public engagement.
-* Increasing awareness of health campaigns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of celebrity disclosure on mental health-related stigmaby PC Gronholm · 2022 · Cited by 67 — Celebrity disclosures can support stigma-red...</span></span></span>
+* Increasing awareness of health campaigns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of celebrity disclosure on mental health-related stigmaby PC Gronholm · 2022 · Cited by 67 — Celebrity disclosures can support stigma-red...</span></span></span>
 * Helping disseminate expert information.
 
 </div>
 
-For example, research on vaccination messaging has found that celebrity endorsement can increase the visibility and spread of public-health messages. Similarly, celebrity disclosures about mental health can raise awareness and reduce stigma. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.05667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">When Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in IndonesiaFebruary 15, 2019...</span><span class="citation-popover-meta">Published: February 15, 2019</span></span></span>
+For example, research on vaccination messaging has found that celebrity endorsement can increase the visibility and spread of public-health messages. Similarly, celebrity disclosures about mental health can raise awareness and reduce stigma.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.05667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">When Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in IndonesiaFebruary 15, 2019...</span><span class="citation-popover-meta">Published: February 15, 2019</span></span></span>
 
 However, these examples do not transform celebrities into experts. Their value lies in communication reach, not in providing independent evidence. A scientifically accurate message remains accurate because of the supporting evidence, not because a celebrity repeats it.
 
@@ -368,7 +368,7 @@ However, these examples do not transform celebrities into experts. Their value l
 
 [Advertising]({{ 'advertising/' | relative_url }}) frequently relies on celebrity endorsements because marketers know that consumers associate familiar faces with trustworthiness and desirability. Yet the logical connection between celebrity status and product quality is often weak or nonexistent.
 
-A famous athlete promoting cooking oil, a musician promoting soft drinks, or an actor promoting financial services may have no relevant expertise regarding the product's effectiveness. The endorsement encourages consumers to borrow trust from the celebrity rather than evaluate evidence about the product itself. Advertising analysts commonly identify such endorsements as classic examples of authority-based persuasion that can become fallacious when expertise is implied but absent. Moving You Forward <span class="citation-chip-wrap"><a class="citation-chip" href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clutch.co">[clutch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clutch.co</span><span class="citation-popover-snippet">per Drake in their commercial. Rapper Drake drinks a...Read more...</span></span></span> Regulators have also recognised the importance of expertise claims. Guidance surrounding endorsements emphasises that purported experts should possess relevant expertise and should base claims on appropriate evidence rather than merely lending their status to a message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arnoldporter.com">[Arnold &amp; Porter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arnoldporter.com</span><span class="citation-popover-title">ftc proposed updates to endorsement guides</span><span class="citation-popover-snippet">Arnold &amp; PorterFTC Proposed Updates to Endorsement Guides and.com...6 Jun 2022 — In the proposed updated Guides, the Commission propose...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwt.com">[Davis Wright Tremaine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwt.com</span><span class="citation-popover-title">ftc advertising endorsement and testimonial guides</span><span class="citation-popover-snippet">Davis Wright TremaineIn a One, Two, Three Punch, the FTC Issues Updated...10 Jul 2023 — The FTC issued (i) its final, updated Guides to...</span></span></span>
+A famous athlete promoting cooking oil, a musician promoting soft drinks, or an actor promoting financial services may have no relevant expertise regarding the product's effectiveness. The endorsement encourages consumers to borrow trust from the celebrity rather than evaluate evidence about the product itself. Advertising analysts commonly identify such endorsements as classic examples of authority-based persuasion that can become fallacious when expertise is implied but absent. Moving You Forward<span class="citation-chip-wrap"><a class="citation-chip" href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clutch.co">[clutch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clutch.co</span><span class="citation-popover-snippet">per Drake in their commercial. Rapper Drake drinks a...Read more...</span></span></span> Regulators have also recognised the importance of expertise claims. Guidance surrounding endorsements emphasises that purported experts should possess relevant expertise and should base claims on appropriate evidence rather than merely lending their status to a message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arnoldporter.com">[Arnold &amp; Porter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arnoldporter.com</span><span class="citation-popover-title">ftc proposed updates to endorsement guides</span><span class="citation-popover-snippet">Arnold &amp; PorterFTC Proposed Updates to Endorsement Guides and.com...6 Jun 2022 — In the proposed updated Guides, the Commission propose...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwt.com">[Davis Wright Tremaine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwt.com</span><span class="citation-popover-title">ftc advertising endorsement and testimonial guides</span><span class="citation-popover-snippet">Davis Wright TremaineIn a One, Two, Three Punch, the FTC Issues Updated...10 Jul 2023 — The FTC issued (i) its final, updated Guides to...</span></span></span>
 
 ## How to Test Whether the Authority Is Relevant
 
@@ -392,272 +392,272 @@ These questions shift attention from status to justification, which is the key d
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-3-dark.svg" | relative_url }}" alt="Celebrity Claims illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Core Lesson
 
-Celebrity endorsements are persuasive because fame attracts attention, creates trust, and encourages identification. None of those qualities, however, automatically create expertise. Within the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the appeal to celebrity occurs when public recognition is mistaken for reliable knowledge. A famous person's opinion may be interesting, influential, or even correct, but its truth depends on evidence and relevant expertise, not on the celebrity's status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/apcelebs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesLogical Fallacy: Appeal to CelebrityAppealing to celebrity is one of the most common forms of fallacious appeal to authority...</span></span></span>
+Celebrity endorsements are persuasive because fame attracts attention, creates trust, and encourages identification. None of those qualities, however, automatically create expertise. Within the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the appeal to celebrity occurs when public recognition is mistaken for reliable knowledge. A famous person's opinion may be interesting, influential, or even correct, but its truth depends on evidence and relevant expertise, not on the celebrity's status.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/apcelebs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesLogical Fallacy: Appeal to CelebrityAppealing to celebrity is one of the most common forms of fallacious appeal to authority...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fame Pretends to Be Expertise. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fame Pretends to Be Expertise. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Shows why evidence matters more than fame.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why evidence matters more than fame.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Challenges assumptions based on status and identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Challenges assumptions based on status and identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains mental shortcuts behind celebrity influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains mental shortcuts behind celebrity influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains authority and social-proof persuasion mechanisms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains authority and social-proof persuasion mechanisms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pop Culture Pop Art Pop Culture Pat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d273d22e46ffbe3bae5e.jpg' | relative_url }}" alt="Listing image for Pop Culture Pop Art Pop Culture Pat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pop Culture Pop Art Pop Culture Pat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pop culture wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: pop culture wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pop Culture Pop Art Pop Culture Pat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d273d22e46ffbe3bae5e.jpg' | relative_url }}" alt="Listing image for Pop Culture Pop Art Pop Culture Pat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pop Culture Pop Art Pop Culture Pat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pop culture wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: pop culture wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie poster canvas pop culture art Painting joker wall Art Modern Wall Decor"><img src="{{ '/assets/images/marketplace-covers/7d0080634b75672ecd30.jpg' | relative_url }}" alt="Listing image for Movie poster canvas pop culture art Painting joker wall Art Modern Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Movie poster canvas pop culture art Painting joker wall Art Modern Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pop culture wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: pop culture wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie poster canvas pop culture art Painting joker wall Art Modern Wall Decor"><img src="{{ '/assets/images/marketplace-covers/7d0080634b75672ecd30.jpg' | relative_url }}" alt="Listing image for Movie poster canvas pop culture art Painting joker wall Art Modern Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Movie poster canvas pop culture art Painting joker wall Art Modern Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pop culture wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: pop culture wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smokey &amp; The Bandit Signed Art Print | 11x14 Retro Pop Culture Wall Art Unframed"><img src="{{ '/assets/images/marketplace-covers/3f986a06ff66dd7b0cf2.jpg' | relative_url }}" alt="Listing image for Smokey &amp; The Bandit Signed Art Print | 11x14 Retro Pop Culture Wall Art Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smokey &amp; The Bandit Signed Art Print | 11x14 Retro Pop Culture Wall Art Unframed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pop culture wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: pop culture wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smokey &amp; The Bandit Signed Art Print | 11x14 Retro Pop Culture Wall Art Unframed"><img src="{{ '/assets/images/marketplace-covers/3f986a06ff66dd7b0cf2.jpg' | relative_url }}" alt="Listing image for Smokey &amp; The Bandit Signed Art Print | 11x14 Retro Pop Culture Wall Art Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smokey &amp; The Bandit Signed Art Print | 11x14 Retro Pop Culture Wall Art Unframed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pop culture wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: pop culture wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Godfather Don Corleone 3D Movie Poster Pop Culture Wall Art McFarlane Toys"><img src="{{ '/assets/images/marketplace-covers/d7396bfc68d92239f955.jpg' | relative_url }}" alt="Listing image for The Godfather Don Corleone 3D Movie Poster Pop Culture Wall Art McFarlane Toys" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Godfather Don Corleone 3D Movie Poster Pop Culture Wall Art McFarlane Toys</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pop culture wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: pop culture wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Godfather Don Corleone 3D Movie Poster Pop Culture Wall Art McFarlane Toys"><img src="{{ '/assets/images/marketplace-covers/d7396bfc68d92239f955.jpg' | relative_url }}" alt="Listing image for The Godfather Don Corleone 3D Movie Poster Pop Culture Wall Art McFarlane Toys" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Godfather Don Corleone 3D Movie Poster Pop Culture Wall Art McFarlane Toys</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pop culture wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: pop culture wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pop+culture+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=celebrity-claims-when-fame-pretends-to-be-expertise-logical-fallacies-pop-culture-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -673,7 +673,7 @@ Celebrity endorsements are persuasive because fame attracts attention, creates t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -693,7 +693,7 @@ Celebrity endorsements are persuasive because fame attracts attention, creates t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -725,7 +725,7 @@ Celebrity endorsements are persuasive because fame attracts attention, creates t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -755,7 +755,7 @@ Celebrity endorsements are persuasive because fame attracts attention, creates t
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -813,133 +813,133 @@ Celebrity endorsements are persuasive because fame attracts attention, creates t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: clutch.co  
-   Link: <a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>per Drake in their commercial. Rapper Drake drinks a...Read more...</p></details>
+   Link:<a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>per Drake in their commercial. Rapper Drake drinks a...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0969698920312686" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0969698920312686</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity endorsements: Investigating the interactive...by K El Hedhli · 2021 · Cited by 111 — This research investigates t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0969698920312686" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0969698920312686</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity endorsements: Investigating the interactive...by K El Hedhli · 2021 · Cited by 111 — This research investigates t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalCelebrity endorser&#x27;s credibility: effect on consumers&#x27;...by C Friis-Jespersen · Cited by 15 — The findings of this study sugg...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalCelebrity endorser&#x27;s credibility: effect on consumers&#x27;...by C Friis-Jespersen · Cited by 15 — The findings of this study sugg...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5251292/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5251292/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities&#x27; impact on health-related knowledge, attitudes...by SJ Hoffman · 2017 · Cited by 134 — We aim to uncover both the directi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5251292/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5251292/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities&#x27; impact on health-related knowledge, attitudes...by SJ Hoffman · 2017 · Cited by 134 — We aim to uncover both the directi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHelpful or harmful?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the impact of social media...by J Kaňková · 2024 · Cited by 55 — The findings underscore the importance of expanding health c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the impact of social media...by J Kaňková · 2024 · Cited by 55 — The findings underscore the importance of expanding health c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9950585/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9950585/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, public health and...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9950585/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9950585/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, public health and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1902.05667" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.05667</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in IndonesiaFebruary 15, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1902.05667" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.05667</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in IndonesiaFebruary 15, 2019...</p></details>
    Published: February 15, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of celebrity disclosure on mental health-related stigmaby PC Gronholm · 2022 · Cited by 67 — Celebrity disclosures can support stigma-red...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of celebrity disclosure on mental health-related stigmaby PC Gronholm · 2022 · Cited by 67 — Celebrity disclosures can support stigma-red...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/apcelebs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/apcelebs.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesLogical Fallacy: Appeal to CelebrityAppealing to celebrity is one of the most common forms of fallacious appeal to authority...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/apcelebs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/apcelebs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesLogical Fallacy: Appeal to CelebrityAppealing to celebrity is one of the most common forms of fallacious appeal to authority...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arnoldporter.com  
    Title: ftc proposed updates to endorsement guides  
-   Link: <a href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold &amp; PorterFTC Proposed Updates to Endorsement Guides and.com...6 Jun 2022 — In the proposed updated Guides, the Commission propose...</p></details>
+   Link:<a href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold &amp; PorterFTC Proposed Updates to Endorsement Guides and.com...6 Jun 2022 — In the proposed updated Guides, the Commission propose...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: knowledge.wharton.upenn.edu  
-   Link: <a href="https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge at WhartonThe Marketing Psychology Behind Celebrity EndorsementsMay 30, 2023 — The researchers believe the ability of celebriti...</p></details>
+   Link:<a href="https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge at WhartonThe Marketing Psychology Behind Celebrity EndorsementsMay 30, 2023 — The researchers believe the ability of celebriti...</p></details>
    Published: May 30, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dwt.com  
    Title: ftc advertising endorsement and testimonial guides  
-   Link: <a href="https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis Wright TremaineIn a One, Two, Three Punch, the FTC Issues Updated...10 Jul 2023 — The FTC issued (i) its final, updated Guides to...</p></details>
+   Link:<a href="https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Davis Wright TremaineIn a One, Two, Three Punch, the FTC Issues Updated...10 Jul 2023 — The FTC issued (i) its final, updated Guides to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: figshare.swinburne.edu.au  
-   Link: <a href="https://figshare.swinburne.edu.au/ndownloader/files/47665651" target="_blank" rel="noopener noreferrer nofollow">https://figshare.swinburne.edu.au/ndownloader/files/47665651</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study included five celebrity and five...Read more...</p></details>
+   Link:<a href="https://figshare.swinburne.edu.au/ndownloader/files/47665651" target="_blank" rel="noopener noreferrer nofollow">https://figshare.swinburne.edu.au/ndownloader/files/47665651</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study included five celebrity and five...Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2279977_code2046006.pdf?abstractid=2279977&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2279977_code2046006.pdf?abstractid=2279977&amp;mirid=1&amp;type=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Celebrity Endorsement on Customer&#x27;s Brand...This research aims to study the impact of celebrity endorsement on customer&#x27;s brand perce...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2279977_code2046006.pdf?abstractid=2279977&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2279977_code2046006.pdf?abstractid=2279977&amp;mirid=1&amp;type=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Celebrity Endorsement on Customer&#x27;s Brand...This research aims to study the impact of celebrity endorsement on customer&#x27;s brand perce...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: acr-journal.com  
-   Link: <a href="https://acr-journal.com/article/celebrity-endorsement-exploring-the-effects-of-celebrity-attractiveness-credibility-on-ad-recall-purchase-intention-1549/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/celebrity-endorsement-exploring-the-effects-of-celebrity-attractiveness-credibility-on-ad-recall-purchase-intention-1549/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity Endorsement: Exploring the Effects of...by AA Santoki · 2025 · Cited by 1 — This research discusses the influence of credibili...</p></details>
+   Link:<a href="https://acr-journal.com/article/celebrity-endorsement-exploring-the-effects-of-celebrity-attractiveness-credibility-on-ad-recall-purchase-intention-1549/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/celebrity-endorsement-exploring-the-effects-of-celebrity-attractiveness-credibility-on-ad-recall-purchase-intention-1549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity Endorsement: Exploring the Effects of...by AA Santoki · 2025 · Cited by 1 — This research discusses the influence of credibili...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ellejoliewellness.com  
-   Link: <a href="https://www.ellejoliewellness.com/blog-1/beware-the-influence-how-ill-informed-celebrities-and-influencers-impact-health-modalities" target="_blank" rel="noopener noreferrer nofollow">https://www.ellejoliewellness.com/blog-1/beware-the-influence-how-ill-informed-celebrities-and-influencers-impact-health-modalities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Celebrities and Influencers Impact Health Advice4 Apr 2024 — Study: The Impact of Misinformation on Dietary Choices...</p></details>
+   Link:<a href="https://www.ellejoliewellness.com/blog-1/beware-the-influence-how-ill-informed-celebrities-and-influencers-impact-health-modalities" target="_blank" rel="noopener noreferrer nofollow">https://www.ellejoliewellness.com/blog-1/beware-the-influence-how-ill-informed-celebrities-and-influencers-impact-health-modalities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Celebrities and Influencers Impact Health Advice4 Apr 2024 — Study: The Impact of Misinformation on Dietary Choices...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bidscube.com  
-   Link: <a href="https://bidscube.com/blog/advertising-fallacies-10-real-world-examples-marketers-still-fall-for/" target="_blank" rel="noopener noreferrer nofollow">https://bidscube.com/blog/advertising-fallacies-10-real-world-examples-marketers-still-fall-for/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority. This is the category of celebrity endorsements from non-experts. Pepsi&#x27;s notorious 2017 ad starring Kendall Jenner —...</p></details>
+   Link:<a href="https://bidscube.com/blog/advertising-fallacies-10-real-world-examples-marketers-still-fall-for/" target="_blank" rel="noopener noreferrer nofollow">https://bidscube.com/blog/advertising-fallacies-10-real-world-examples-marketers-still-fall-for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority. This is the category of celebrity endorsements from non-experts. Pepsi&#x27;s notorious 2017 ad starring Kendall Jenner —...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sayhameed/posts/argumentum-ad-verecundiam-or-appeal-to-authority-is-a-logical-fallacy-that-occur/9895827060452257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sayhameed/posts/argumentum-ad-verecundiam-or-appeal-to-authority-is-a-logical-fallacy-that-occur/9895827060452257/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ccurs when someone claims a statement is true simply because it is endorsed by an...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/sayhameed/posts/argumentum-ad-verecundiam-or-appeal-to-authority-is-a-logical-fallacy-that-occur/9895827060452257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sayhameed/posts/argumentum-ad-verecundiam-or-appeal-to-authority-is-a-logical-fallacy-that-occur/9895827060452257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ccurs when someone claims a statement is true simply because it is endorsed by an...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tandfonline.com  
    Title: Full article: Do celebrities in advertisements matter?  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02650487.2024.2332107" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02650487.2024.2332107</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Ono · 2024 · Cited by 8 — According to the Persuasion knowledge model, celebrity endorsement may lead to not only weak persuasive ef...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02650487.2024.2332107" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02650487.2024.2332107</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Ono · 2024 · Cited by 8 — According to the Persuasion knowledge model, celebrity endorsement may lead to not only weak persuasive ef...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: when health authorities are put in the position of having to refute misinformati  
-   Link: <a href="https://www.facebook.com/insiderscience/posts/when-health-authorities-are-put-in-the-position-of-having-to-refute-misinformati/4168292129946098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/insiderscience/posts/when-health-authorities-are-put-in-the-position-of-having-to-refute-misinformati/4168292129946098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Profile photo of Juan... Learn how to push back against disinformation and rebuild trust: [https://...&quot;](https://...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/insiderscience/posts/when-health-authorities-are-put-in-the-position-of-having-to-refute-misinformati/4168292129946098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/insiderscience/posts/when-health-authorities-are-put-in-the-position-of-having-to-refute-misinformati/4168292129946098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Profile photo of Juan... Learn how to push back against disinformation and rebuild trust: [https://...&quot;](https://...&quot;)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359160018_Conceptual_Model_Development_for_Celebrity_Endorsement_in_Social_Advertising_The_Case_of_Source_Credibility_and_Celebrity-Fan_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359160018_Conceptual_Model_Development_for_Celebrity_Endorsement_in_Social_Advertising_The_Case_of_Source_Credibility_and_Celebrity-Fan_Relationship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>source (celebrity) and celebrity-fan relationship on the cognitive and...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/359160018_Conceptual_Model_Development_for_Celebrity_Endorsement_in_Social_Advertising_The_Case_of_Source_Credibility_and_Celebrity-Fan_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359160018_Conceptual_Model_Development_for_Celebrity_Endorsement_in_Social_Advertising_The_Case_of_Source_Credibility_and_Celebrity-Fan_Relationship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>source (celebrity) and celebrity-fan relationship on the cognitive and...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bridgeportct.gov  
    Title: social media influencers and health misinformation why we must be cautious  
-   Link: <a href="https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to a landmark study by MIT, [false news](&amp;#123;&amp;#123; &#x27;false-news/&#x27; | relative_url &amp;#125;&amp;#125;) stories on Twitter were 70...</p></details>
+   Link:<a href="https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to a landmark study by MIT, [false news](&amp;#123;&amp;#123; &#x27;false-news/&#x27; | relative_url &amp;#125;&amp;#125;) stories on Twitter were 70...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hifa.org  
    Title: social media influencers and health misinformation  
-   Link: <a href="https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Dec 2025 — I would add that tighter regulations are needed not only to recuce disinformation from influencers, but also (and especially...</p></details>
+   Link:<a href="https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Dec 2025 — I would add that tighter regulations are needed not only to recuce disinformation from influencers, but also (and especially...</p></details>

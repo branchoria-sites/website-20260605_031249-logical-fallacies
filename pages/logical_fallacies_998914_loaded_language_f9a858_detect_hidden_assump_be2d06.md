@@ -274,20 +274,20 @@ image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hid
 
 ## Introduction
 
-Many arguments rely on background assumptions, and that is not automatically a problem. Communication would be impossible if every speaker had to defend every premise from first principles. The difficulty arises when an argument depends on an assumption that is controversial, unsupported, or hidden from view. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), especially those involving loaded language and presuppositions, the most important question is often not “What evidence was given?” but “What must already be true for this argument to work?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Many arguments rely on background assumptions, and that is not automatically a problem. Communication would be impossible if every speaker had to defend every premise from first principles. The difficulty arises when an argument depends on an assumption that is controversial, unsupported, or hidden from view. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), especially those involving loaded language and presuppositions, the most important question is often not “What evidence was given?” but “What must already be true for this argument to work?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Spotting hidden assumptions helps prevent acceptance of conclusions that have slipped past scrutiny. A claim can appear persuasive because the crucial premise has been smuggled into the wording rather than defended openly. Critical thinking therefore requires identifying these invisible steps and asking whether they deserve agreement before the conclusion is accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span>
+Spotting hidden assumptions helps prevent acceptance of conclusions that have slipped past scrutiny. A claim can appear persuasive because the crucial premise has been smuggled into the wording rather than defended openly. Critical thinking therefore requires identifying these invisible steps and asking whether they deserve agreement before the conclusion is accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span>
 
 ## Finding What the Statement Presupposes
 
-A hidden assumption is an unstated premise that an argument relies upon. It functions as a bridge between the evidence offered and the conclusion reached. If that bridge collapses, the argument loses much of its force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iu.pressbooks.pub">[iu.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iu.pressbooks.pub</span><span class="citation-popover-snippet">ent, but that is left implicit or unstated.Read more...</span></span></span>
+A hidden assumption is an unstated premise that an argument relies upon. It functions as a bridge between the evidence offered and the conclusion reached. If that bridge collapses, the argument loses much of its force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iu.pressbooks.pub">[iu.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iu.pressbooks.pub</span><span class="citation-popover-snippet">ent, but that is left implicit or unstated.Read more...</span></span></span>
 
 One useful technique is to reconstruct the argument in its simplest form:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* What is the conclusion? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">Critical Thinking: Analysis of Arguments &amp; Assumptions Uploaded by; 1</span><span class="citation-popover-snippet">What is an exaggeration?; 2. What is over generalization?; 3. What is reconstructing an argument?; 4. What is a premise and a conclusi...</span></span></span>
+* What is the conclusion?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">Critical Thinking: Analysis of Arguments &amp; Assumptions Uploaded by; 1</span><span class="citation-popover-snippet">What is an exaggeration?; 2. What is over generalization?; 3. What is reconstructing an argument?; 4. What is a premise and a conclusi...</span></span></span>
 * What evidence is explicitly offered?
 * What additional claim must be true for the evidence to support the conclusion?
 
@@ -303,7 +303,7 @@ A similar pattern appears in everyday debates:
 
 > “The proposal is unnatural, therefore it is wrong.”
 
-The hidden premise is not the word “unnatural” itself. The crucial assumption is that whatever is unnatural is morally wrong. Once stated openly, that premise can be examined rather than silently accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/arg/hidden.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A07] Hidden AssumptionsWhen people give arguments sometimes certain assumptions are left implicit. Example: Cloning human beings is wro...</span></span></span>
+The hidden premise is not the word “unnatural” itself. The crucial assumption is that whatever is unnatural is morally wrong. Once stated openly, that premise can be examined rather than silently accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/arg/hidden.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A07] Hidden AssumptionsWhen people give arguments sometimes certain assumptions are left implicit. Example: Cloning human beings is wro...</span></span></span>
 
 Hidden assumptions often become easier to see when a claim seems to jump too quickly from a fact to a judgement. The missing link is usually the assumption that needs attention.
 
@@ -311,7 +311,7 @@ Hidden assumptions often become easier to see when a claim seems to jump too qui
 
 ## A Simple Diagnostic: Ask “What Must Be True?”
 
-One of the most effective methods for uncovering assumptions is to ask what must be true for the argument to succeed. Educational resources on argument analysis consistently emphasise that evaluating assumptions is a core test of argument strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+One of the most effective methods for uncovering assumptions is to ask what must be true for the argument to succeed. Educational resources on argument analysis consistently emphasise that evaluating assumptions is a core test of argument strength.<span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Suppose someone argues:
 
@@ -336,7 +336,7 @@ This diagnostic is particularly valuable in governance debates because policy ou
 
 A practical way to identify a hidden assumption is to ask whether a reasonable opponent would accept it.
 
-Explicit evidence is usually visible and available for discussion. Hidden assumptions often remain unnoticed because the speaker treats them as common sense. Yet many political, legal, and public-policy disagreements persist precisely because people do not share the same assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: condor.depaul.edu">[condor.depaul.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">condor.depaul.edu</span><span class="citation-popover-snippet">A Guide To Critical ThinkingContrasting Assumptions. If two sides are arguing from different assumptions, it is very effective to focus o...</span></span></span>
+Explicit evidence is usually visible and available for discussion. Hidden assumptions often remain unnoticed because the speaker treats them as common sense. Yet many political, legal, and public-policy disagreements persist precisely because people do not share the same assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: condor.depaul.edu">[condor.depaul.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">condor.depaul.edu</span><span class="citation-popover-snippet">A Guide To Critical ThinkingContrasting Assumptions. If two sides are arguing from different assumptions, it is very effective to focus o...</span></span></span>
 
 For example:
 
@@ -357,7 +357,7 @@ If the answer is no, then the assumption requires defence rather than silent acc
 
 A common mistake is to confuse evidence with the assumptions that give evidence its significance.
 
-Evidence consists of observations, data, testimony, documents, or other reasons offered in support of a claim. Assumptions are the additional propositions that connect that evidence to the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wrestling-with-philosophy.com">[Wrestling with Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wrestling-with-philosophy.com</span><span class="citation-popover-title">In an argument, the conclusion should follow from the premises.Read more</span><span class="citation-popover-snippet">Wrestling with PhilosophyCritical Thinking: Defining an Argument, Premises, and...28 Jan 2013 — The premises are independent reasons and...</span></span></span>
+Evidence consists of observations, data, testimony, documents, or other reasons offered in support of a claim. Assumptions are the additional propositions that connect that evidence to the conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wrestling-with-philosophy.com">[Wrestling with Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wrestling-with-philosophy.com</span><span class="citation-popover-title">In an argument, the conclusion should follow from the premises.Read more</span><span class="citation-popover-snippet">Wrestling with PhilosophyCritical Thinking: Defining an Argument, Premises, and...28 Jan 2013 — The premises are independent reasons and...</span></span></span>
 
 Consider:
 
@@ -383,24 +383,24 @@ This reconstruction often reveals that the real disagreement concerns the hidden
 
 ## When Questions Hide Assumptions
 
-Hidden assumptions frequently appear in questions rather than assertions. Philosophers and logicians describe these as loaded or complex questions because they contain presuppositions that have not been established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageFallacy of Complex QuestionThe complex question fallacy is usually resolved by challenging the false or dubious presu...</span></span></span>
+Hidden assumptions frequently appear in questions rather than assertions. Philosophers and logicians describe these as loaded or complex questions because they contain presuppositions that have not been established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageFallacy of Complex QuestionThe complex question fallacy is usually resolved by challenging the false or dubious presu...</span></span></span>
 
 The classic example is:
 
 > “Have you stopped beating your wife?”
 
-A direct yes-or-no answer appears to concede that wife-beating occurred in the past. The hidden assumption is built into the structure of the question itself. The appropriate response is not necessarily to answer the question but to challenge the presupposition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loaded question</span><span class="citation-popover-snippet">Loaded question</span></span></span>
+A direct yes-or-no answer appears to concede that wife-beating occurred in the past. The hidden assumption is built into the structure of the question itself. The appropriate response is not necessarily to answer the question but to challenge the presupposition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loaded question</span><span class="citation-popover-snippet">Loaded question</span></span></span>
 
 The same mechanism appears in public affairs:
 
 > “Why does the agency continue wasting taxpayers' money?”
 
-The wording presupposes that money is being wasted. Before discussing reasons, a critical thinker should ask whether that presupposition has been established. The Internet Encyclopedia of Philosophy identifies this structure as a classic example of the complex-question fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span>
+The wording presupposes that money is being wasted. Before discussing reasons, a critical thinker should ask whether that presupposition has been established. The Internet Encyclopedia of Philosophy identifies this structure as a classic example of the complex-question fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Hidden Assumptions Often Go Unnoticed
 
-Hidden assumptions are persuasive because people naturally fill gaps in reasoning. Linguists describe presuppositions as information speakers treat as already accepted or taken for granted. Once embedded in ordinary language, these assumptions can pass through conversation with little scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presupposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Hidden assumptions are persuasive because people naturally fill gaps in reasoning. Linguists describe presuppositions as information speakers treat as already accepted or taken for granted. Once embedded in ordinary language, these assumptions can pass through conversation with little scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presupposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Certain linguistic patterns are especially likely to carry assumptions:
 
@@ -432,272 +432,272 @@ Before accepting an argument, ask:
 
 </div>
 
-These questions shift attention from persuasive wording to argumentative structure. In many cases, the weakest part of an argument is not the evidence presented but the premise that nobody noticed was there. Humanities LibreTexts <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span>
+These questions shift attention from persuasive wording to argumentative structure. In many cases, the weakest part of an argument is not the evidence presented but the premise that nobody noticed was there. Humanities LibreTexts<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Detect the Premises No One Defends. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Detect the Premises No One Defends. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Teaches identifying unstated premises and hidden assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches identifying unstated premises and hidden assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Shows how conclusions depend on implicit premises.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how conclusions depend on implicit premises.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Provides practical methods for unpacking arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical methods for unpacking arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking from A to Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eguqPFOziHgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking from A to Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking from A to Z">Thinking from A to Z</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Warburton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking from A to Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eguqPFOziHgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking from A to Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking from A to Z">Thinking from A to Z</a>
+</h4>
+<p class="fr-book-author">By Nigel Warburton</p>
         
-        <p class="fr-book-desc">Covers assumptions, ambiguity, and argumentative moves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers assumptions, ambiguity, and argumentative moves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Warning Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers"><img src="{{ '/assets/images/marketplace-covers/8e54f9572cceb233a010.jpg' | relative_url }}" alt="Listing image for Warning Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Warning Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Warning Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers"><img src="{{ '/assets/images/marketplace-covers/8e54f9572cceb233a010.jpg' | relative_url }}" alt="Listing image for Warning Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Warning Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRUCE LEE - Coffee MUG / CUP - Motivational quotes - Philosophy Enter the Dragon"><img src="{{ '/assets/images/marketplace-covers/e9d1826c3b10bae90b6b.jpg' | relative_url }}" alt="Listing image for BRUCE LEE - Coffee MUG / CUP - Motivational quotes - Philosophy Enter the Dragon" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BRUCE LEE - Coffee MUG / CUP - Motivational quotes - Philosophy Enter the Dragon</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRUCE LEE - Coffee MUG / CUP - Motivational quotes - Philosophy Enter the Dragon"><img src="{{ '/assets/images/marketplace-covers/e9d1826c3b10bae90b6b.jpg' | relative_url }}" alt="Listing image for BRUCE LEE - Coffee MUG / CUP - Motivational quotes - Philosophy Enter the Dragon" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BRUCE LEE - Coffee MUG / CUP - Motivational quotes - Philosophy Enter the Dragon</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers"><img src="{{ '/assets/images/marketplace-covers/83faef9dff1a614b176f.jpg' | relative_url }}" alt="Listing image for Thinking Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers"><img src="{{ '/assets/images/marketplace-covers/83faef9dff1a614b176f.jpg' | relative_url }}" alt="Listing image for Thinking Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Caution Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers"><img src="{{ '/assets/images/marketplace-covers/b7a3432f85d5a7347d76.jpg' | relative_url }}" alt="Listing image for Caution Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Caution Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Caution Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers"><img src="{{ '/assets/images/marketplace-covers/b7a3432f85d5a7347d76.jpg' | relative_url }}" alt="Listing image for Caution Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Caution Philosophy Mug | Philosophy Gifts | Gifts For Philosophy Lovers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-assumptions-how-to-detect-the-premises-no-one-defends-logical-fallacies-philosophy-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -713,7 +713,7 @@ These questions shift attention from persuasive wording to argumentative structu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -733,7 +733,7 @@ These questions shift attention from persuasive wording to argumentative structu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -765,7 +765,7 @@ These questions shift attention from persuasive wording to argumentative structu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -795,7 +795,7 @@ These questions shift attention from persuasive wording to argumentative structu
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -853,166 +853,166 @@ These questions shift attention from persuasive wording to argumentative structu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: human.libretexts.org  
    Title: 4.05: Check the Argument's Assumptions  
-   Link: <a href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</p></details>
+   Link:<a href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</p></details>
    Published: May 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: iu.pressbooks.pub  
-   Link: <a href="https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/" target="_blank" rel="noopener noreferrer nofollow">https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ent, but that is left implicit or unstated.Read more...</p></details>
+   Link:<a href="https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/" target="_blank" rel="noopener noreferrer nofollow">https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ent, but that is left implicit or unstated.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: philosophy.hku.hk  
-   Link: <a href="https://philosophy.hku.hk/think/arg/hidden.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/hidden.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[A07] Hidden AssumptionsWhen people give arguments sometimes certain assumptions are left implicit. Example: Cloning human beings is wro...</p></details>
+   Link:<a href="https://philosophy.hku.hk/think/arg/hidden.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/hidden.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[A07] Hidden AssumptionsWhen people give arguments sometimes certain assumptions are left implicit. Example: Cloning human beings is wro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: condor.depaul.edu  
-   Link: <a href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow">https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Critical ThinkingContrasting Assumptions. If two sides are arguing from different assumptions, it is very effective to focus o...</p></details>
+   Link:<a href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow">https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Critical ThinkingContrasting Assumptions. If two sides are arguing from different assumptions, it is very effective to focus o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wrestling-with-philosophy.com  
    Title: In an argument, the conclusion should follow from the premises.Read more  
-   Link: <a href="https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/" target="_blank" rel="noopener noreferrer nofollow">https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wrestling with PhilosophyCritical Thinking: Defining an Argument, Premises, and...28 Jan 2013 — The premises are independent reasons and...</p></details>
+   Link:<a href="https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/" target="_blank" rel="noopener noreferrer nofollow">https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wrestling with PhilosophyCritical Thinking: Defining an Argument, Premises, and...28 Jan 2013 — The premises are independent reasons and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Loaded question  
-   Link: <a href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_question</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_question</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Presupposition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presupposition</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Presupposition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presupposition</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Begging the question  
-   Link: <a href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Begging_the_question</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the questionIn modern philosophical usage, it has come to refer to an argument in which the premises assume the conclusion wit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Begging_the_question</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the questionIn modern philosophical usage, it has come to refer to an argument in which the premises assume the conclusion wit...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesFallacy of many questions (complex question, fallacy of presuppositions, loaded question, plurium interrogationum) –...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesFallacy of many questions (complex question, fallacy of presuppositions, loaded question, plurium interrogationum) –...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: [Argument map](&#123;&#123; 'argument-map/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument mapThe purpose of mapping is to uncover the logical structure of arguments, identify unstated assumptions, evaluate the suppo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument mapThe purpose of mapping is to uncover the logical structure of arguments, identify unstated assumptions, evaluate the suppo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: my.uq.edu.au  
-   Link: <a href="https://my.uq.edu.au/information-and-services/student-support/study-skills-and-learning-advice/general-study-skills/critical-reading-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://my.uq.edu.au/information-and-services/student-support/study-skills-and-learning-advice/general-study-skills/critical-reading-and-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading and analysisQuestion as you read · Look for links · Evaluate the argument · Assess the source of the information · Identify gaps...</p></details>
+   Link:<a href="https://my.uq.edu.au/information-and-services/student-support/study-skills-and-learning-advice/general-study-skills/critical-reading-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://my.uq.edu.au/information-and-services/student-support/study-skills-and-learning-advice/general-study-skills/critical-reading-and-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading and analysisQuestion as you read · Look for links · Evaluate the argument · Assess the source of the information · Identify gaps...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PresuppositionAccording to the presupposition thesis, both (2) and (3) presuppose (4). Hence, if (4) is false, then (2) and (3) must lack...</p></details>
+   Link:<a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PresuppositionAccording to the presupposition thesis, both (2) and (3) presuppose (4). Hence, if (4) is false, then (2) and (3) must lack...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/critical-thinking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</p></details>
+   Link:<a href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/critical-thinking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesYou use this fallacy when you frame a question so that some controversial presupposition is m...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesYou use this fallacy when you frame a question so that some controversial presupposition is m...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageFallacy of Complex QuestionThe complex question fallacy is usually resolved by challenging the false or dubious presu...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageFallacy of Complex QuestionThe complex question fallacy is usually resolved by challenging the false or dubious presu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Complex Question is a form of Begging the Question. Composition. The Compositi...</p></details>
+   Link:<a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Complex Question is a form of Begging the Question. Composition. The Compositi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 417 — Two competing conceptions of fallacies are that they are false but...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 417 — Two competing conceptions of fallacies are that they are false but...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/presupposition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyApr 1, 2011 — We discuss presupposition, the phenomenon whereby speakers mark linguistically the infor...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2013/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/presupposition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyApr 1, 2011 — We discuss presupposition, the phenomenon whereby speakers mark linguistically the infor...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; Examples13 Feb 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement of...</p></details>
+   Link:<a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; Examples13 Feb 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.learnhigher.ac.uk  
-   Link: <a href="https://archive.learnhigher.ac.uk/resources/files/Critical%20thinking/8%20Critical%20Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.learnhigher.ac.uk/resources/files/Critical%20thinking/8%20Critical%20Thinking.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking | The LearnHigherDoes the argument follow – e.g. does a particular premise really lead to the conclusion offered? 2.4 W...</p></details>
+   Link:<a href="https://archive.learnhigher.ac.uk/resources/files/Critical%20thinking/8%20Critical%20Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.learnhigher.ac.uk/resources/files/Critical%20thinking/8%20Critical%20Thinking.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking | The LearnHigherDoes the argument follow – e.g. does a particular premise really lead to the conclusion offered? 2.4 W...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: learn1.open.ac.uk  
-   Link: <a href="https://learn1.open.ac.uk/mod/oublog/view.php?user=25823" target="_blank" rel="noopener noreferrer nofollow">https://learn1.open.ac.uk/mod/oublog/view.php?user=25823</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blogs | learn122 Jul 2020 — Critical writing. = Critical thinking. And then consider that: Critical reading = argument analysis. And: Cri...</p></details>
+   Link:<a href="https://learn1.open.ac.uk/mod/oublog/view.php?user=25823" target="_blank" rel="noopener noreferrer nofollow">https://learn1.open.ac.uk/mod/oublog/view.php?user=25823</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blogs | learn122 Jul 2020 — Critical writing. = Critical thinking. And then consider that: Critical reading = argument analysis. And: Cri...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/54599119/Critical-Reasoning-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/54599119/Critical-Reasoning-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Reasoning Assumption Strategies | PDF | ArgumentIt discusses how to identify assumptions, strengthen or weaken arguments, make i...</p></details>
+   Link:<a href="https://www.scribd.com/document/54599119/Critical-Reasoning-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/54599119/Critical-Reasoning-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Reasoning Assumption Strategies | PDF | ArgumentIt discusses how to identify assumptions, strengthen or weaken arguments, make i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/reading-rituals/argument-assumptions" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/reading-rituals/argument-assumptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Hidden AssumptionsArgument assumptions are unstated beliefs that must be true for a claim to hold. They&#x27;re the invisible bridges bet...</p></details>
+   Link:<a href="https://readlite.in/reading-rituals/argument-assumptions" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/reading-rituals/argument-assumptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find Hidden AssumptionsArgument assumptions are unstated beliefs that must be true for a claim to hold. They&#x27;re the invisible bridges bet...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/548330619/logic-fallacies-of-presupposition-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/548330619/logic-fallacies-of-presupposition-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic Fallacies of Presupposition FlashcardsA subgroup of the fallacies of presumption. These arguments contain hidden assumptions that m...</p></details>
+   Link:<a href="https://quizlet.com/548330619/logic-fallacies-of-presupposition-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/548330619/logic-fallacies-of-presupposition-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic Fallacies of Presupposition FlashcardsA subgroup of the fallacies of presumption. These arguments contain hidden assumptions that m...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question FallacyDescription: A question that has a presupposition built in, which implies something but protects the one asking t...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question FallacyDescription: A question that has a presupposition built in, which implies something but protects the one asking t...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sussex.ac.uk  
-   Link: <a href="https://www.sussex.ac.uk/skills-hub/critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.ac.uk/skills-hub/critical-thinking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SussexCritical thinking: Skills HubA valid argument needs two conditions: All the premises upon which the argument is base...</p></details>
+   Link:<a href="https://www.sussex.ac.uk/skills-hub/critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.ac.uk/skills-hub/critical-thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of SussexCritical thinking: Skills HubA valid argument needs two conditions: All the premises upon which the argument is base...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: studocu.com  
    Title: Critical Thinking: Analysis of Arguments & Assumptions Uploaded by; 1  
-   Link: <a href="https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is an [exaggeration](&amp;#123;&amp;#123; &#x27;exaggeration/&#x27; | relative_url &amp;#125;&amp;#125;)?; 2. What is over generalization?; 3. What is reconstructing an argument?; 4. What is a premise and a conclusi...</p></details>
+   Link:<a href="https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is an [exaggeration](&amp;#123;&amp;#123; &#x27;exaggeration/&#x27; | relative_url &amp;#125;&amp;#125;)?; 2. What is over generalization?; 3. What is reconstructing an argument?; 4. What is a premise and a conclusi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: prep4gmat.com  
    Title: gmat critical reasoning finding the hidden assumptions  
-   Link: <a href="https://prep4gmat.com/blog_subdomain/gmat-critical-reasoning-finding-the-hidden-assumptions/" target="_blank" rel="noopener noreferrer nofollow">https://prep4gmat.com/blog_subdomain/gmat-critical-reasoning-finding-the-hidden-assumptions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GMAT critical reasoning: Finding the hidden assumptions28 Nov 2021 — An assumption is simply an unstated premise in an argument – though...</p></details>
+   Link:<a href="https://prep4gmat.com/blog_subdomain/gmat-critical-reasoning-finding-the-hidden-assumptions/" target="_blank" rel="noopener noreferrer nofollow">https://prep4gmat.com/blog_subdomain/gmat-critical-reasoning-finding-the-hidden-assumptions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GMAT critical reasoning: Finding the hidden assumptions28 Nov 2021 — An assumption is simply an unstated premise in an argument – though...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/concepts/identify-hidden-assumptions" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/identify-hidden-assumptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authors rarely spell out every step of their reasoning — they assume...Read more...</p></details>
+   Link:<a href="https://readlite.in/concepts/identify-hidden-assumptions" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/identify-hidden-assumptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authors rarely spell out every step of their reasoning — they assume...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/271920521360867/posts/548414493711467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/271920521360867/posts/548414493711467/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying assumptions in critical thinking passages for...✒️Assumption: The missing link between the premise(s) and the conclusion...</p></details>
+   Link:<a href="https://www.facebook.com/groups/271920521360867/posts/548414493711467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/271920521360867/posts/548414493711467/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying assumptions in critical thinking passages for...✒️Assumption: The missing link between the premise(s) and the conclusion...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: prepairo.ai  
-   Link: <a href="https://prepairo.ai/gre/blogs/critical-reasoning-strategies-gre-arguments-assumptions-evidence" target="_blank" rel="noopener noreferrer nofollow">https://prepairo.ai/gre/blogs/critical-reasoning-strategies-gre-arguments-assumptions-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Reasoning Strategies for GRE | Arguments &amp;...23 Dec 2025 — The Assumptions: The unstated beliefs that connect premises...</p></details>
+   Link:<a href="https://prepairo.ai/gre/blogs/critical-reasoning-strategies-gre-arguments-assumptions-evidence" target="_blank" rel="noopener noreferrer nofollow">https://prepairo.ai/gre/blogs/critical-reasoning-strategies-gre-arguments-assumptions-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Reasoning Strategies for GRE | Arguments &amp;...23 Dec 2025 — The Assumptions: The unstated beliefs that connect premises...</p></details>

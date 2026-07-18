@@ -510,7 +510,7 @@ In governance, the useful question is not “Are [exceptions]({{ 'exceptions/' |
 
 Deadline rules are attractive because they are simple. Everyone knows the same cut-off point; administrators can process work; competitors or classmates can trust that nobody is quietly gaining extra time. That is why objections to extensions often sound like fairness arguments rather than mere stubbornness. A late submission, delayed application or postponed compliance date can appear to reward poor planning, create extra administrative work, or disadvantage people who met the original deadline.
 
-The slippery slope enters when those legitimate concerns are inflated into inevitability. The Stanford Encyclopedia of Philosophy describes the slippery slope fallacy as a move from a starting point through incremental inferences to an unwanted conclusion, using that feared end point to reject the starting point. The Internet Encyclopedia of Philosophy similarly treats it as an informal fallacy in which step one is said to lead to step two, then step three, until an unacceptable endpoint is reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — The fallacy of the...</span></span></span> Encyclopedia of Philosophy
+The slippery slope enters when those legitimate concerns are inflated into inevitability. The Stanford Encyclopedia of Philosophy describes the slippery slope fallacy as a move from a starting point through incremental inferences to an unwanted conclusion, using that feared end point to reject the starting point. The Internet Encyclopedia of Philosophy similarly treats it as an informal fallacy in which step one is said to lead to step two, then step three, until an unacceptable endpoint is reached.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — The fallacy of the...</span></span></span> Encyclopedia of Philosophy
 
 A deadline-extension version usually has this shape:
 
@@ -529,11 +529,11 @@ The weak point is often between steps two and three. People may request similar 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-1-dark.svg" | relative_url }}" alt="Deadlines illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Concern Is Reasonable, Not Fallacious
 
-Not every slippery-slope warning is bad reasoning. A deadline system can genuinely erode if exceptions are vague, undocumented, hidden, inconsistently applied or granted by people under pressure to avoid conflict. The University of North Carolina Writing Center’s guidance on fallacies captures the key test: the problem is a chain-reaction claim made without enough evidence for the assumption that the chain will occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterSlippery slope. Definition: The arguer claims that a sort of chain reaction, usually endi...</span></span></span>
+Not every slippery-slope warning is bad reasoning. A deadline system can genuinely erode if exceptions are vague, undocumented, hidden, inconsistently applied or granted by people under pressure to avoid conflict. The University of North Carolina Writing Center’s guidance on fallacies captures the key test: the problem is a chain-reaction claim made without enough evidence for the assumption that the chain will occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterSlippery slope. Definition: The arguer claims that a sort of chain reaction, usually endi...</span></span></span>
 
 For deadline extensions, a reasonable concern normally points to a mechanism. For example, a manager might argue that if extension decisions are made informally by individual supervisors, staff with more sympathetic managers may receive more time than others. That is not a bare slippery-slope panic; it identifies an administrative pathway from discretionary exceptions to unequal treatment.
 
-Legal and policy scholarship makes a similar distinction. Eugene Volokh’s work on [slippery slopes]({{ 'slippery-slope/' | relative_url }}) focuses less on whether such arguments are formally valid in the abstract and more on the mechanisms by which one decision can make later decisions more likely, such as precedent, changed incentives, altered political power or softened [boundaries]({{ 'boundaries/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — erally Eric Lode, Slippery Slope Arguments and Le...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span> Rizzo and Whitman also analyse slippery slopes as operating across layers of decisions, rules, theories and wider programmes, rather than as a single magic domino effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uclalawreview.org">[UCLA Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uclalawreview.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Legal and policy scholarship makes a similar distinction. Eugene Volokh’s work on [slippery slopes]({{ 'slippery-slope/' | relative_url }}) focuses less on whether such arguments are formally valid in the abstract and more on the mechanisms by which one decision can make later decisions more likely, such as precedent, changed incentives, altered political power or softened [boundaries]({{ 'boundaries/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — erally Eric Lode, Slippery Slope Arguments and Le...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span> Rizzo and Whitman also analyse slippery slopes as operating across layers of decisions, rules, theories and wider programmes, rather than as a single magic domino effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uclalawreview.org">[UCLA Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uclalawreview.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Applied to deadlines, that means the question should be practical:
 
@@ -559,13 +559,13 @@ Deadline-extension disputes often mix several different slippery-slope claims. S
 
 The causal version claims that granting extensions will change behaviour. If people know extra time is available, they may plan less carefully, apply late more often, or treat the deadline as flexible. This can be a serious governance concern, especially where extensions are automatic, generous and poorly monitored.
 
-But the causal claim still needs evidence. Some policies reduce this risk by requiring applications before the original deadline, limiting the number of self-certified claims, or distinguishing short extensions from more serious mitigating-circumstances procedures. The University of Brighton, for example, describes a self-certification extension of seven calendar days that is available only once per semester, requires a request at least 48 hours before the deadline, and excludes some types of work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brighton.ac.uk">[University of Brighton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brighton.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+But the causal claim still needs evidence. Some policies reduce this risk by requiring applications before the original deadline, limiting the number of self-certified claims, or distinguishing short extensions from more serious mitigating-circumstances procedures. The University of Brighton, for example, describes a self-certification extension of seven calendar days that is available only once per semester, requires a request at least 48 hours before the deadline, and excludes some types of work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brighton.ac.uk">[University of Brighton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brighton.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That kind of design directly challenges the “everyone will abuse it” leap. It does not prove that abuse never happens; it shows that institutions can build friction, limits and eligibility rules into the exception.
 
 ### The precedent chain: “We will have to say yes next time”
 
-The precedent version is common in schools, workplaces and public administration: “If we grant this extension, we will have no basis for refusing the next one.” This is more plausible than a purely emotional slippery-slope argument because rules do depend on consistency. Frederick Schauer’s work on precedent emphasises that past decisions can matter simply because they exist, and his later scholarship discusses when systems of precedential constraint are desirable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.virginia.edu">[University of Virginia School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.virginia.edu</span><span class="citation-popover-title">frederick schauer</span><span class="citation-popover-snippet">frederick schauer</span></span></span>
+The precedent version is common in schools, workplaces and public administration: “If we grant this extension, we will have no basis for refusing the next one.” This is more plausible than a purely emotional slippery-slope argument because rules do depend on consistency. Frederick Schauer’s work on precedent emphasises that past decisions can matter simply because they exist, and his later scholarship discusses when systems of precedential constraint are desirable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.virginia.edu">[University of Virginia School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.virginia.edu</span><span class="citation-popover-title">frederick schauer</span><span class="citation-popover-snippet">frederick schauer</span></span></span>
 
 But precedent is not the same as surrender. A decision can be written narrowly: “extension granted because the applicant was hospitalised during the final submission period and supplied evidence within the required timeframe.” That precedent does not require granting an extension to someone who forgot the deadline, had routine workload pressure, or disliked the assignment.
 
@@ -581,20 +581,20 @@ Many rules remain rules even with exceptions. Speed limits can coexist with emer
 
 University assessment policies are useful because they show deadline governance in miniature: fairness to the group, compassion for individuals, administrative consistency and academic standards all collide around a single date.
 
-Several UK universities explicitly try to preserve deadlines while allowing controlled relief. City St George’s policy states principles including consistent, fair and transparent practice, responsibility, strict adherence to deadlines, and support for students dealing with unforeseen commitments or circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citystgeorges.ac.uk">[City St George&#x27;s, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citystgeorges.ac.uk</span><span class="citation-popover-title">City St George&#x27;s, University of London Extensions and Late Submissions Policy</span><span class="citation-popover-snippet">City St George&#x27;s, University of London Extensions and Late Submissions Policy</span></span></span> The University of Suffolk’s policy states that no student should gain an unfair advantage through additional time, and that the aim is to enable students to be assessed on equal terms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uos.ac.uk">[University of Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uos.ac.uk</span><span class="citation-popover-title">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span><span class="citation-popover-snippet">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span></span></span>
+Several UK universities explicitly try to preserve deadlines while allowing controlled relief. City St George’s policy states principles including consistent, fair and transparent practice, responsibility, strict adherence to deadlines, and support for students dealing with unforeseen commitments or circumstances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citystgeorges.ac.uk">[City St George&#x27;s, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citystgeorges.ac.uk</span><span class="citation-popover-title">City St George&#x27;s, University of London Extensions and Late Submissions Policy</span><span class="citation-popover-snippet">City St George&#x27;s, University of London Extensions and Late Submissions Policy</span></span></span> The University of Suffolk’s policy states that no student should gain an unfair advantage through additional time, and that the aim is to enable students to be assessed on equal terms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uos.ac.uk">[University of Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uos.ac.uk</span><span class="citation-popover-title">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span><span class="citation-popover-snippet">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span></span></span>
 
 Those policy statements matter because they reject the false binary at the heart of the slippery-slope fear. The choice is not “no extensions” or “no standards”. A third option is a rule-governed exception.
 
 Common [safeguards]({{ 'safeguards/' | relative_url }}) include:
 
-* **Defined eligibility:** The University of Bath distinguishes acceptable reasons and evidence for coursework extensions or individual mitigating circumstances, rather than leaving the decision entirely informal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bath.ac.uk">[University of Bath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bath.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Application timing:** The University of Leeds says students can apply for a coursework extension up to the original coursework deadline, and that retrospective applications after the deadline are not considered for extensions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretariat.leeds.ac.uk">[secretariat.leeds.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretariat.leeds.ac.uk</span><span class="citation-popover-title">Requesting Consideration for Mitigating Circumstances</span><span class="citation-popover-snippet">Requesting Consideration for Mitigating Circumstances</span></span></span>
+* **Defined eligibility:** The University of Bath distinguishes acceptable reasons and evidence for coursework extensions or individual mitigating circumstances, rather than leaving the decision entirely informal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bath.ac.uk">[University of Bath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bath.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Application timing:** The University of Leeds says students can apply for a coursework extension up to the original coursework deadline, and that retrospective applications after the deadline are not considered for extensions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretariat.leeds.ac.uk">[secretariat.leeds.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretariat.leeds.ac.uk</span><span class="citation-popover-title">Requesting Consideration for Mitigating Circumstances</span><span class="citation-popover-snippet">Requesting Consideration for Mitigating Circumstances</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Duration limits:** The University of Birmingham describes coursework extensions of 5, 10 or 15 working days, with longer dissertation or extended-essay extensions available only in exceptional circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intranet.birmingham.ac.uk">[University of Birmingham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intranet.birmingham.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Frequency limits:** The University of Reading states that self-certified short extensions cannot be used consecutively for the same work, and that extra time for one assessment can reduce time for later work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Separate routes for different problems:** Bath Spa University distinguishes short extensions from exceptional-circumstances processes for cases needing a significantly longer period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bathspa.ac.uk">[Bath Spa University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bathspa.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Duration limits:** The University of Birmingham describes coursework extensions of 5, 10 or 15 working days, with longer dissertation or extended-essay extensions available only in exceptional circumstances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intranet.birmingham.ac.uk">[University of Birmingham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intranet.birmingham.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Frequency limits:** The University of Reading states that self-certified short extensions cannot be used consecutively for the same work, and that extra time for one assessment can reduce time for later work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Separate routes for different problems:** Bath Spa University distinguishes short extensions from exceptional-circumstances processes for cases needing a significantly longer period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bathspa.ac.uk">[Bath Spa University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bathspa.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
@@ -605,7 +605,7 @@ These safeguards do not make every policy perfect. They do show why “one exten
 
 The strongest version of the anti-extension argument is not that all exceptions destroy standards. It is that poorly designed exceptions can shift unfairness onto people who met the original deadline. A student who submitted on time while ill, an employee who worked late to meet a cut-off, or a bidder who absorbed extra costs to comply may reasonably resent a casual extension granted to someone else.
 
-That is why good policy treats extensions as a fairness device, not a favour. The University of Suffolk’s wording is useful here: additional time should not put a student in a position of unfair advantage, but should allow assessment on equal terms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uos.ac.uk">[University of Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uos.ac.uk</span><span class="citation-popover-title">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span><span class="citation-popover-snippet">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span></span></span> This is the core governance distinction. Equal treatment does not always mean identical treatment; it means applying a public standard to relevant differences.
+That is why good policy treats extensions as a fairness device, not a favour. The University of Suffolk’s wording is useful here: additional time should not put a student in a position of unfair advantage, but should allow assessment on equal terms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uos.ac.uk">[University of Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uos.ac.uk</span><span class="citation-popover-title">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span><span class="citation-popover-snippet">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span></span></span> This is the core governance distinction. Equal treatment does not always mean identical treatment; it means applying a public standard to relevant differences.
 
 A slippery-slope objection often hides a real distributional question: who bears the cost of flexibility? In education, staff may face compressed marking periods. In procurement, other bidders may have relied on the original timetable. In employment, teammates may have to cover unfinished work. These concerns should be answered directly through policy design, not dismissed as heartlessness and not exaggerated into inevitable collapse.
 
@@ -631,7 +631,7 @@ A practical way to analyse these arguments is to ask for the missing links. The 
 
 First, identify the feared endpoint. Is the speaker worried about administrative overload, unfair advantage, loss of deterrence, legal exposure, grade inflation, lower standards or reputational damage? “Chaos” is not specific enough to evaluate.
 
-Second, ask what mechanism connects the exception to the endpoint. A precedent mechanism is different from a behavioural incentive mechanism. A vague-rule problem is different from a staff-capacity problem. Volokh’s mechanism-focused approach is useful because it moves the discussion from slogan to pathway: how, exactly, does the slide happen? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — erally Eric Lode, Slippery Slope Arguments and Le...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span>
+Second, ask what mechanism connects the exception to the endpoint. A precedent mechanism is different from a behavioural incentive mechanism. A vague-rule problem is different from a staff-capacity problem. Volokh’s mechanism-focused approach is useful because it moves the discussion from slogan to pathway: how, exactly, does the slide happen?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — erally Eric Lode, Slippery Slope Arguments and Le...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span>
 
 Third, check whether safeguards interrupt the chain. If the proposed extension is short, evidenced, recorded, non-repeatable and limited to circumstances beyond the person’s control, the feared slide is weaker. If the proposed extension is informal, unlimited, undocumented and based on sympathy alone, the warning is stronger.
 
@@ -654,15 +654,15 @@ The best answer to slippery-slope fears is not a promise that nothing will go wr
 
 A robust deadline-extension policy usually includes five features.
 
-**Clear categories.** Short technical or welfare-related extensions should be separated from major mitigating-circumstances claims, disability adjustments, deferrals and appeals. Bath Spa’s distinction between short extensions and exceptional-circumstances processes reflects this kind of separation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bathspa.ac.uk">[Bath Spa University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bathspa.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Clear categories.** Short technical or welfare-related extensions should be separated from major mitigating-circumstances claims, disability adjustments, deferrals and appeals. Bath Spa’s distinction between short extensions and exceptional-circumstances processes reflects this kind of separation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bathspa.ac.uk">[Bath Spa University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bathspa.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Published criteria.** Decision-makers need shared standards. Bath’s guidance on acceptable reasons and evidence, and Birmingham’s stated extension lengths, show how criteria can be made legible to applicants before they apply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bath.ac.uk">[University of Bath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bath.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Published criteria.** Decision-makers need shared standards. Bath’s guidance on acceptable reasons and evidence, and Birmingham’s stated extension lengths, show how criteria can be made legible to applicants before they apply.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bath.ac.uk">[University of Bath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bath.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Limits on duration and repetition.** A short extension is easier to justify than an indefinite postponement. Reading’s bar on stacking self-certified short extensions for the same work is a direct anti-slide safeguard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Limits on duration and repetition.** A short extension is easier to justify than an indefinite postponement. Reading’s bar on stacking self-certified short extensions for the same work is a direct anti-slide safeguard.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reading.ac.uk">[University of Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reading.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Records and review.** Decisions should be recorded in enough detail to support consistency checks. City St George’s emphasis on consistent, fair and transparent practice points towards the administrative value of reviewable decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citystgeorges.ac.uk">[City St George&#x27;s, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citystgeorges.ac.uk</span><span class="citation-popover-title">City St George&#x27;s, University of London Extensions and Late Submissions Policy</span><span class="citation-popover-snippet">City St George&#x27;s, University of London Extensions and Late Submissions Policy</span></span></span>
+**Records and review.** Decisions should be recorded in enough detail to support consistency checks. City St George’s emphasis on consistent, fair and transparent practice points towards the administrative value of reviewable decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citystgeorges.ac.uk">[City St George&#x27;s, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citystgeorges.ac.uk</span><span class="citation-popover-title">City St George&#x27;s, University of London Extensions and Late Submissions Policy</span><span class="citation-popover-snippet">City St George&#x27;s, University of London Extensions and Late Submissions Policy</span></span></span>
 
-**Protection against unfair advantage.** The aim should be to neutralise disadvantage, not improve someone’s position beyond others. Suffolk’s policy states this principle directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uos.ac.uk">[University of Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uos.ac.uk</span><span class="citation-popover-title">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span><span class="citation-popover-snippet">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span></span></span>
+**Protection against unfair advantage.** The aim should be to neutralise disadvantage, not improve someone’s position beyond others. Suffolk’s policy states this principle directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uos.ac.uk">[University of Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uos.ac.uk</span><span class="citation-popover-title">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span><span class="citation-popover-snippet">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span></span></span>
 
 These safeguards turn an exception from an ad hoc favour into a governed intervention. They also make later refusal easier: “This new request does not meet the published criteria” is much stronger than “We just do not want too many people asking.”
 
@@ -685,269 +685,269 @@ That is why this fallacy is especially important in policy debate. It can make h
 A deadline does not stop being a deadline because an exception exists. It stops functioning well when exceptions are granted without reasons, limits or accountability. The honest debate is not whether one extension will ruin the rules. It is whether the rule has enough structure to say yes carefully, no fairly, and explain the difference.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Will One Extension Ruin the Rules?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Will One Extension Ruin the Rules?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers assess causal chains and slippery-slope claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess causal chains and slippery-slope claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
-        </h4>
-        <p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
+</h4>
+<p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
         
-        <p class="fr-book-desc">Introduces slippery slope reasoning in an accessible way.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces slippery slope reasoning in an accessible way.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Covers evaluating evidence for predictive claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evaluating evidence for predictive claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores rationalization and flawed reasoning in decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores rationalization and flawed reasoning in decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadlines-will-one-extension-ruin-the-rules-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -963,7 +963,7 @@ A deadline does not stop being a deadline because an exception exists. It stops 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -983,7 +983,7 @@ A deadline does not stop being a deadline because an exception exists. It stops 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1015,7 +1015,7 @@ A deadline does not stop being a deadline because an exception exists. It stops 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -1045,7 +1045,7 @@ A deadline does not stop being a deadline because an exception exists. It stops 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1103,186 +1103,186 @@ A deadline does not stop being a deadline because an exception exists. It stops 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — The fallacy of the...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — The fallacy of the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: www2.law.ucla.edu  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) of the Slippery SlopeNovember 26, 2012 — by E Volokh — erally Eric Lode, Slippery Slope Arguments and Le...</p></details>
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) of the Slippery SlopeNovember 26, 2012 — by E Volokh — erally Eric Lode, Slippery Slope Arguments and Le...</p></details>
    Published: November 26, 2012  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: law.virginia.edu  
    Title: frederick schauer  
-   Link: <a href="https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271" target="_blank" rel="noopener noreferrer nofollow">https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271</a>  
+   Link:<a href="https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271" target="_blank" rel="noopener noreferrer nofollow">https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: secretariat.leeds.ac.uk  
    Title: Requesting Consideration for Mitigating Circumstances  
-   Link: <a href="https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf</a>  
+   Link:<a href="https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: www2.law.ucla.edu  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyfar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyfar.pdf</a>  
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slipperyfar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyfar.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Can you outsmart the slippery slope fallacy?  
-   Link: <a href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qt4f7QrfRRc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qt4f7QrfRRc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterSlippery slope. Definition: The arguer claims that a sort of chain reaction, usually endi...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterSlippery slope. Definition: The arguer claims that a sort of chain reaction, usually endi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uclalawreview.org  
-   Link: <a href="https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/</a>  
+   Link:<a href="https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brighton.ac.uk  
-   Link: <a href="https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx</a>  
+   Link:<a href="https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: citystgeorges.ac.uk  
    Title: City St George's, University of London Extensions and Late Submissions Policy  
-   Link: <a href="https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf</a>  
+   Link:<a href="https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uos.ac.uk  
    Title: University of Suffolk Additional Time due to Extenuating Circumstances Policy  
-   Link: <a href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf</a>  
+   Link:<a href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bath.ac.uk  
-   Link: <a href="https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/" target="_blank" rel="noopener noreferrer nofollow">https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/</a>  
+   Link:<a href="https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/" target="_blank" rel="noopener noreferrer nofollow">https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: intranet.birmingham.ac.uk  
-   Link: <a href="https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx" target="_blank" rel="noopener noreferrer nofollow">https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx</a>  
+   Link:<a href="https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx" target="_blank" rel="noopener noreferrer nofollow">https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reading.ac.uk  
-   Link: <a href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs</a>  
+   Link:<a href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bathspa.ac.uk  
-   Link: <a href="https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/" target="_blank" rel="noopener noreferrer nofollow">https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/</a>  
+   Link:<a href="https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/" target="_blank" rel="noopener noreferrer nofollow">https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribbr.com  
    Title: slippery slope fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
+   Link:<a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribbr.co.uk  
    Title: Slippery Slope Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/</a>  
+   Link:<a href="https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uclalawreview.org  
-   Link: <a href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf</a>  
+   Link:<a href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Slippery slope  
-   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: registryservices.ed.ac.uk  
    Title: coursework extensions  
-   Link: <a href="https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions" target="_blank" rel="noopener noreferrer nofollow">https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions</a>  
+   Link:<a href="https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions" target="_blank" rel="noopener noreferrer nofollow">https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: le.ac.uk  
-   Link: <a href="https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification" target="_blank" rel="noopener noreferrer nofollow">https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification</a>  
+   Link:<a href="https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification" target="_blank" rel="noopener noreferrer nofollow">https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: study.com  
    Title: Slippery Slope Fallacy | Meaning & Examples  
-   Link: <a href="https://study.com/academy/lesson/video/slippery-slope-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/slippery-slope-fallacy-definition-examples.html</a>  
+   Link:<a href="https://study.com/academy/lesson/video/slippery-slope-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/slippery-slope-fallacy-definition-examples.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: csjn.gov.ar  
-   Link: <a href="https://www.csjn.gov.ar/pubextrs/verIndice?fascic=2003-51-02&amp;nm=397&amp;tm=PP" target="_blank" rel="noopener noreferrer nofollow">https://www.csjn.gov.ar/pubextrs/verIndice?fascic=2003-51-02&amp;nm=397&amp;tm=PP</a>  
+   Link:<a href="https://www.csjn.gov.ar/pubextrs/verIndice?fascic=2003-51-02&amp;nm=397&amp;tm=PP" target="_blank" rel="noopener noreferrer nofollow">https://www.csjn.gov.ar/pubextrs/verIndice?fascic=2003-51-02&amp;nm=397&amp;tm=PP</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Slippery Slope Fallacy (Definition & Easiest Explanation)  
-   Link: <a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change  
-   Link: <a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ar39s8NQXUM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Logic: Conquer the Slippery Slope Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ar39s8NQXUM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Logic: Conquer the Slippery Slope Fallacy...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bppassets.s3.eu-west-1.amazonaws.com  
-   Link: <a href="https://bppassets.s3.eu-west-1.amazonaws.com/public/assets/pdf/governance-finance/upp/20.%2BExtensions%2Band%2BExtenuating%2BCircumstances%2BPolicy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bppassets.s3.eu-west-1.amazonaws.com/public/assets/pdf/governance-finance/upp/20.%2BExtensions%2Band%2BExtenuating%2BCircumstances%2BPolicy.pdf</a>  
+   Link:<a href="https://bppassets.s3.eu-west-1.amazonaws.com/public/assets/pdf/governance-finance/upp/20.%2BExtensions%2Band%2BExtenuating%2BCircumstances%2BPolicy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bppassets.s3.eu-west-1.amazonaws.com/public/assets/pdf/governance-finance/upp/20.%2BExtensions%2Band%2BExtenuating%2BCircumstances%2BPolicy.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: mmu.ac.uk  
-   Link: <a href="https://www.mmu.ac.uk/legal/policies/assessment-extensions-procedure-24-25" target="_blank" rel="noopener noreferrer nofollow">https://www.mmu.ac.uk/legal/policies/assessment-extensions-procedure-24-25</a>  
+   Link:<a href="https://www.mmu.ac.uk/legal/policies/assessment-extensions-procedure" target="_blank" rel="noopener noreferrer nofollow">https://www.mmu.ac.uk/legal/policies/assessment-extensions-procedure</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: bath.ac.uk  
-   Link: <a href="https://www.bath.ac.uk/guides/coursework-extensions/" target="_blank" rel="noopener noreferrer nofollow">https://www.bath.ac.uk/guides/coursework-extensions/</a>  
+   Link:<a href="https://www.bath.ac.uk/guides/coursework-extensions/" target="_blank" rel="noopener noreferrer nofollow">https://www.bath.ac.uk/guides/coursework-extensions/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: yorksj.ac.uk  
-   Link: <a href="https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf</a>  
+   Link:<a href="https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: yorksu.org  
-   Link: <a href="https://yorksu.org/advice-support/support-a-z/exceptional-circumstances" target="_blank" rel="noopener noreferrer nofollow">https://yorksu.org/advice-support/support-a-z/exceptional-circumstances</a>  
+   Link:<a href="https://yorksu.org/advice-support/support-a-z/exceptional-circumstances" target="_blank" rel="noopener noreferrer nofollow">https://yorksu.org/advice-support/support-a-z/exceptional-circumstances</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NeutralPolitics/comments/1fatu5/is_the_slippery_slope_argument_a_fallacy_or_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NeutralPolitics/comments/1fatu5/is_the_slippery_slope_argument_a_fallacy_or_is_it/</a>  
+   Link:<a href="https://www.reddit.com/r/NeutralPolitics/comments/1fatu5/is_the_slippery_slope_argument_a_fallacy_or_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NeutralPolitics/comments/1fatu5/is_the_slippery_slope_argument_a_fallacy_or_is_it/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>
+   Link:<a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>

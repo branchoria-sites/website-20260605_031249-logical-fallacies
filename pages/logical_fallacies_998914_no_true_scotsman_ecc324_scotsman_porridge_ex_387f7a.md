@@ -274,14 +274,14 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_
 
 ## Introduction
 
-The porridge story is the best-known illustration of the [No True]({{ 'no-true/' | relative_url }}) Scotsman fallacy because it shows the error in its simplest possible form. A speaker begins with a broad claim about a group: “No Scotsman puts sugar on his porridge.” When a counterexample appears—a Scotsman who does put sugar on his porridge—the speaker does not revise the claim. Instead, the definition changes: “No true Scotsman puts sugar on his porridge.” The example, first popularised by philosopher Antony Flew, remains influential because almost everyone can immediately see what has happened. The discussion is not really about breakfast habits. It is about how an argument can be protected from disproof by changing the meaning of a category after evidence appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+The porridge story is the best-known illustration of the [No True]({{ 'no-true/' | relative_url }}) Scotsman fallacy because it shows the error in its simplest possible form. A speaker begins with a broad claim about a group: “No Scotsman puts sugar on his porridge.” When a counterexample appears—a Scotsman who does put sugar on his porridge—the speaker does not revise the claim. Instead, the definition changes: “No true Scotsman puts sugar on his porridge.” The example, first popularised by philosopher Antony Flew, remains influential because almost everyone can immediately see what has happened. The discussion is not really about breakfast habits. It is about how an argument can be protected from disproof by changing the meaning of a category after evidence appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-1-dark.svg" | relative_url }}" alt="Porridge Case illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Original Porridge Claim
 
-The classic version involves a simple exchange. One person asserts that no Scotsman would put sugar on porridge. Another points to a Scotsman who does exactly that. Rather than accepting that the original claim was too broad, the first speaker adds a qualification and insists that no *true* Scotsman would behave in that way. Antony Flew used this pattern to demonstrate a common argumentative manoeuvre in which a challenged generalisation is rescued by altering the category itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+The classic version involves a simple exchange. One person asserts that no Scotsman would put sugar on porridge. Another points to a Scotsman who does exactly that. Rather than accepting that the original claim was too broad, the first speaker adds a qualification and insists that no *true* Scotsman would behave in that way. Antony Flew used this pattern to demonstrate a common argumentative manoeuvre in which a challenged generalisation is rescued by altering the category itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
-The choice of porridge is part of the example’s effectiveness. Putting sugar on porridge is not part of any recognised definition of Scottish identity. It is a preference. Because the trait is obviously unrelated to nationality, readers can immediately recognise that the counterexample should count. The claim “No Scotsman puts sugar on porridge” is an empirical statement that can be checked against reality. One genuine exception is enough to show that the claim is false or at least overstated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+The choice of porridge is part of the example’s effectiveness. Putting sugar on porridge is not part of any recognised definition of Scottish identity. It is a preference. Because the trait is obviously unrelated to nationality, readers can immediately recognise that the counterexample should count. The claim “No Scotsman puts sugar on porridge” is an empirical statement that can be checked against reality. One genuine exception is enough to show that the claim is false or at least overstated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
 The example therefore strips away distractions. There are no complicated moral issues, political loyalties, or theological disputes. The structure of the reasoning stands out clearly.
 
@@ -291,32 +291,32 @@ The example therefore strips away distractions. There are no complicated moral i
 
 The crucial move is the insertion of a single word: *true*.
 
-Before the counterexample appears, “Scotsman” means a member of the group. After the counterexample appears, “true Scotsman” quietly means a member of the group who already agrees with the original claim. The category has been narrowed specifically to exclude the inconvenient case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</span></span></span>
+Before the counterexample appears, “Scotsman” means a member of the group. After the counterexample appears, “true Scotsman” quietly means a member of the group who already agrees with the original claim. The category has been narrowed specifically to exclude the inconvenient case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</span></span></span>
 
 This matters because the original statement and the revised statement are not the same claim.
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
-* Original claim: No Scotsman puts sugar on porridge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logical-fallacy.com">[logical-fallacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logical-fallacy.com</span><span class="citation-popover-snippet">No True Scotsman - Definition and Examples - Logical Fallacy21 Sept 2024 — Origin · “No Scotsman puts sugar on his porridge,” only to hav...</span></span></span>
+* Original claim: No Scotsman puts sugar on porridge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logical-fallacy.com">[logical-fallacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logical-fallacy.com</span><span class="citation-popover-snippet">No True Scotsman - Definition and Examples - Logical Fallacy21 Sept 2024 — Origin · “No Scotsman puts sugar on his porridge,” only to hav...</span></span></span>
 * Counterexample: Angus is a Scotsman and puts sugar on porridge.
-* Revised claim: No *true* Scotsman puts sugar on porridge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+* Revised claim: No *true* Scotsman puts sugar on porridge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
 </div>
 
-The revision is not supported by an independent rule about Scottish identity. It appears only after the challenge. The definition is adjusted precisely enough to save the original assertion. Philosopher Bradley Dowden describes this kind of move as an ad hoc rescue of a failed generalisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+The revision is not supported by an independent rule about Scottish identity. It appears only after the challenge. The definition is adjusted precisely enough to save the original assertion. Philosopher Bradley Dowden describes this kind of move as an ad hoc rescue of a failed generalisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
-The word *true* gives the impression of a deeper standard, but in the example no such standard is supplied. The speaker is effectively redefining membership so that anyone who disproves the claim is excluded from the group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">oup from a counterexample by shifting the definition of the...Read more...</span></span></span>
+The word *true* gives the impression of a deeper standard, but in the example no such standard is supplied. The speaker is effectively redefining membership so that anyone who disproves the claim is excluded from the group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">oup from a counterexample by shifting the definition of the...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-2-dark.svg" | relative_url }}" alt="Porridge Case illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Example Remains So Memorable
 
 Many [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) require careful analysis to identify. The porridge case is different because the flaw is visible almost instantly.
 
-First, the example uses an ordinary and harmless activity. Nobody believes that adding sugar to porridge determines national identity. This makes the redefinition appear obviously arbitrary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order...</span></span></span>
+First, the example uses an ordinary and harmless activity. Nobody believes that adding sugar to porridge determines national identity. This makes the redefinition appear obviously arbitrary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order...</span></span></span>
 
-Second, the example demonstrates how an argument can become immune to evidence. If every Scotsman who likes sugar is declared “not a true Scotsman”, then no amount of evidence can ever count against the original claim. The argument has become insulated from correction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</span></span></span>
+Second, the example demonstrates how an argument can become immune to evidence. If every Scotsman who likes sugar is declared “not a true Scotsman”, then no amount of evidence can ever count against the original claim. The argument has become insulated from correction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</span></span></span>
 
-Third, the example captures a pattern that appears in many real disputes. People often feel attached to groups they admire. When a group member behaves in a way that contradicts a cherished belief, there is a temptation to protect the group’s image by excluding the offender from the category rather than revising the belief. The porridge story provides a compact model of that tendency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span>
+Third, the example captures a pattern that appears in many real disputes. People often feel attached to groups they admire. When a group member behaves in a way that contradicts a cherished belief, there is a temptation to protect the group’s image by excluding the offender from the category rather than revising the belief. The porridge story provides a compact model of that tendency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4RyXTcqPFv8" title="Abusing The No True Scotsman Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4RyXTcqPFv8" target="_blank" rel="noopener noreferrer">Abusing The No True Scotsman Fallacy</a></p><p class="youtube-embed-meta">Channel: InspiringPhilosophy &middot; Views: 38.3K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4RyXTcqPFv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4RyXTcqPFv8">Open on YouTube</a></p></div></div></div>
 
@@ -326,278 +326,278 @@ Third, the example captures a pattern that appears in many real disputes. People
 
 The enduring value of the porridge story lies in its lesson about how counterexamples should be handled.
 
-When a universal claim is challenged by genuine evidence, there are several reasonable responses. A person can admit the claim was wrong, narrow it using an independently justified definition, or replace it with a more modest statement such as “most Scotsmen” or “many Scotsmen”. What they cannot legitimately do is alter the category solely to protect the original assertion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">oup from a counterexample by shifting the definition of the...Read more...</span></span></span>
+When a universal claim is challenged by genuine evidence, there are several reasonable responses. A person can admit the claim was wrong, narrow it using an independently justified definition, or replace it with a more modest statement such as “most Scotsmen” or “many Scotsmen”. What they cannot legitimately do is alter the category solely to protect the original assertion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">oup from a counterexample by shifting the definition of the...Read more...</span></span></span>
 
-The example therefore highlights a basic principle of good reasoning: definitions should not be rewritten on the spot merely to avoid falsification. A valid category can be clarified, but the clarification must be grounded in a genuine standard rather than invented to eliminate a troublesome case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order...</span></span></span>
+The example therefore highlights a basic principle of good reasoning: definitions should not be rewritten on the spot merely to avoid falsification. A valid category can be clarified, but the clarification must be grounded in a genuine standard rather than invented to eliminate a troublesome case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order...</span></span></span>
 
-That is why the porridge example remains the standard illustration of the No True Scotsman fallacy. In a few lines, it shows how a counterexample can expose an overconfident claim—and how the word *true* can be used to make that counterexample disappear without actually answering it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+That is why the porridge example remains the standard illustration of the No True Scotsman fallacy. In a few lines, it shows how a counterexample can expose an overconfident claim—and how the word *true* can be used to make that counterexample disappear without actually answering it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-3-dark.svg" | relative_url }}" alt="Porridge Case illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Porridge Example Still Works. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Porridge Example Still Works. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Uses simple examples to explain fallacious reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Uses simple examples to explain fallacious reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Provides practical examples similar to the Scotsman case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical examples similar to the Scotsman case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logically Fallacious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WFvhN9lSm5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Logically Fallacious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logically Fallacious">Logically Fallacious</a>
-        </h4>
-        <p class="fr-book-author">By Bo Bennett</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logically Fallacious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WFvhN9lSm5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Logically Fallacious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logically Fallacious">Logically Fallacious</a>
+</h4>
+<p class="fr-book-author">By Bo Bennett</p>
         
-        <p class="fr-book-desc">Covers No True Scotsman and related errors in reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers No True Scotsman and related errors in reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Logically+Fallacious+by+Bo+Bennett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Highlights willingness to accept counterexamples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights willingness to accept counterexamples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Logically+Fallacious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Logically Fallacious</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Logically+Fallacious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Logically Fallacious</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=porridge-case-why-the-porridge-example-still-works-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ That is why the porridge example remains the standard illustration of the No Tru
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ That is why the porridge example remains the standard illustration of the No Tru
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ That is why the porridge example remains the standard illustration of the No Tru
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ That is why the porridge example remains the standard illustration of the No Tru
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -753,125 +753,125 @@ That is why the porridge example remains the standard illustration of the No Tru
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: No true Scotsman  
-   Link: <a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order...</p></details>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribbr.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy | Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy | Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribbr.com  
-   Link: <a href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oup from a counterexample by shifting the definition of the...Read more...</p></details>
+   Link:<a href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oup from a counterexample by shifting the definition of the...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: diplomacy.edu  
    Title: no true scotsman  
-   Link: <a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</p></details>
+   Link:<a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: What is the No True Scotsman Fallacy?  
-   Link: <a href="https://www.youtube.com/watch?v=a2Y27W5srR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a2Y27W5srR0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman fallacy | Middle and High School Homeschooling Logic/Argument video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a2Y27W5srR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a2Y27W5srR0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman fallacy | Middle and High School Homeschooling Logic/Argument video...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nzdgd-CoKtQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nzdgd-CoKtQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy porridge No true Scotsman Seth Roentgen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nzdgd-CoKtQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nzdgd-CoKtQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy porridge No true Scotsman Seth Roentgen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bachelorprint.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy ~ Definition &amp; Examples17 Jul 2024 — The no true Scotsman fallacy, also known as the “appeal to pur...</p></details>
+   Link:<a href="https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy ~ Definition &amp; Examples17 Jul 2024 — The no true Scotsman fallacy, also known as the “appeal to pur...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: quillbot.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cite this...Read more...</p></details>
+   Link:<a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cite this...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: logical-fallacy.com  
-   Link: <a href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/no-true-scotsman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman - Definition and Examples - Logical Fallacy21 Sept 2024 — Origin · “No Scotsman puts sugar on his porridge,” only to hav...</p></details>
+   Link:<a href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/no-true-scotsman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman - Definition and Examples - Logical Fallacy21 Sept 2024 — Origin · “No Scotsman puts sugar on his porridge,” only to hav...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ru.scribd.com  
    Title: No true Scotsman  
-   Link: <a href="https://ru.scribd.com/document/734350253/No-true-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/734350253/No-true-Scotsman</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the No True Scotsman Fallacy | PDFThe &#x27;No true Scotsman&#x27; fallacy is an informal logical fallacy where an individual modifies a claim to e...</p></details>
+   Link:<a href="https://ru.scribd.com/document/734350253/No-true-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/734350253/No-true-Scotsman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the No True Scotsman Fallacy | PDFThe &#x27;No true Scotsman&#x27; fallacy is an informal logical fallacy where an individual modifies a claim to e...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bob-k.medium.com  
    Title: refuting the no true scotsman fallacy 617585074fce  
-   Link: <a href="https://bob-k.medium.com/refuting-the-no-true-scotsman-fallacy-617585074fce" target="_blank" rel="noopener noreferrer nofollow">https://bob-k.medium.com/refuting-the-no-true-scotsman-fallacy-617585074fce</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the No True Scotsman Fallacy | by Bob KowalskiIn general, this fallacy is used in the [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) of a religious person who has committed a c...</p></details>
+   Link:<a href="https://bob-k.medium.com/refuting-the-no-true-scotsman-fallacy-617585074fce" target="_blank" rel="noopener noreferrer nofollow">https://bob-k.medium.com/refuting-the-no-true-scotsman-fallacy-617585074fce</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the No True Scotsman Fallacy | by Bob KowalskiIn general, this fallacy is used in the [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) of a religious person who has committed a c...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy in PhilosophyThe No True Scotsman (NTS) fallacy is an error in logic wherein one person defends a generalization...</p></details>
+   Link:<a href="https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy in PhilosophyThe No True Scotsman (NTS) fallacy is an error in logic wherein one person defends a generalization...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No True ScotsmanVariations: The more generic appeal to purity can be seen when the claim is that someone &quot;does not have enough of&quot; someth...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True ScotsmanVariations: The more generic appeal to purity can be seen when the claim is that someone &quot;does not have enough of&quot; someth...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603</a>  
+   Link:<a href="https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: professor anthony flew and the no true scotsman fallacyno true scotsman or appea  
-   Link: <a href="https://www.facebook.com/HistoryukEIRE/posts/professor-anthony-flew-and-the-no-true-scotsman-fallacyno-true-scotsman-or-appea/6320356674752595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryukEIRE/posts/professor-anthony-flew-and-the-no-true-scotsman-fallacyno-true-scotsman-or-appea/6320356674752595/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Anthony Flew and the No True Scotsman Fallacy...23 Apr 2023 — Professor Anthony Flew and the No True Scotsman Fallacy No True...</p></details>
+   Link:<a href="https://www.facebook.com/HistoryukEIRE/posts/professor-anthony-flew-and-the-no-true-scotsman-fallacyno-true-scotsman-or-appea/6320356674752595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryukEIRE/posts/professor-anthony-flew-and-the-no-true-scotsman-fallacyno-true-scotsman-or-appea/6320356674752595/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Anthony Flew and the No True Scotsman Fallacy...23 Apr 2023 — Professor Anthony Flew and the No True Scotsman Fallacy No True...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philosophyunleashed.com  
    Title: 84 no true argument how a basic fallacy stops criticism and prevents peace  
-   Link: <a href="https://www.philosophyunleashed.com/theblog/84-no-true-argument-how-a-basic-fallacy-stops-criticism-and-prevents-peace" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophyunleashed.com/theblog/84-no-true-argument-how-a-basic-fallacy-stops-criticism-and-prevents-peace</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NO TRUE ARGUMENT - How A Basic Fallacy Stops...May 24, 2021 — Also known as an &quot;appeal to purity&quot;, the &quot;no true Scotsman&quot; fallacy makes...</p></details>
+   Link:<a href="https://www.philosophyunleashed.com/theblog/84-no-true-argument-how-a-basic-fallacy-stops-criticism-and-prevents-peace" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophyunleashed.com/theblog/84-no-true-argument-how-a-basic-fallacy-stops-criticism-and-prevents-peace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NO TRUE ARGUMENT - How A Basic Fallacy Stops...May 24, 2021 — Also known as an &quot;appeal to purity&quot;, the &quot;no true Scotsman&quot; fallacy makes...</p></details>
    Published: May 24, 2021  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: papers.iafor.org  
-   Link: <a href="https://papers.iafor.org/wp-content/uploads/papers/ecerp2017/ECERP2017_36504.pdf" target="_blank" rel="noopener noreferrer nofollow">https://papers.iafor.org/wp-content/uploads/papers/ecerp2017/ECERP2017_36504.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IAFOR Research ArchiveArguing About Religious Identity and the No True...by R Anderson — Anthony Flew critiqued a particular argumentati...</p></details>
+   Link:<a href="https://papers.iafor.org/wp-content/uploads/papers/ecerp2017/ECERP2017_36504.pdf" target="_blank" rel="noopener noreferrer nofollow">https://papers.iafor.org/wp-content/uploads/papers/ecerp2017/ECERP2017_36504.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAFOR Research ArchiveArguing About Religious Identity and the No True...by R Anderson — Anthony Flew critiqued a particular argumentati...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: judaism.stackexchange.com  
    Title: the no true scotsman fallacy and judaism  
-   Link: <a href="https://judaism.stackexchange.com/questions/128498/the-no-true-scotsman-fallacy-and-judaism" target="_blank" rel="noopener noreferrer nofollow">https://judaism.stackexchange.com/questions/128498/the-no-true-scotsman-fallacy-and-judaism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;No True Scotsman&#x27; Fallacy and Judaism - Mi YodeyaMar 8, 2022 — That fallacy is a way for members of a group to disassociate themselves f...</p></details>
+   Link:<a href="https://judaism.stackexchange.com/questions/128498/the-no-true-scotsman-fallacy-and-judaism" target="_blank" rel="noopener noreferrer nofollow">https://judaism.stackexchange.com/questions/128498/the-no-true-scotsman-fallacy-and-judaism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;No True Scotsman&#x27; Fallacy and Judaism - Mi YodeyaMar 8, 2022 — That fallacy is a way for members of a group to disassociate themselves f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hwfielding.com  
    Title: The 'No True Scotsman' fallacy  
-   Link: <a href="https://hwfielding.com/2022/07/14/the-no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://hwfielding.com/2022/07/14/the-no-true-scotsman-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fielding14 Jul 2022 — MacDuff: “My uncle Ian takes honey on his porridge, and he&#x27;s Scottish.” MacBeth: “Perhaps. But no true Scotsman tak...</p></details>
+   Link:<a href="https://hwfielding.com/2022/07/14/the-no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://hwfielding.com/2022/07/14/the-no-true-scotsman-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fielding14 Jul 2022 — MacDuff: “My uncle Ian takes honey on his porridge, and he&#x27;s Scottish.” MacBeth: “Perhaps. But no true Scotsman tak...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/no-true-scotsman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/no-true-scotsman</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>criticisms or flaws of your argument.Read more...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/no-true-scotsman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/no-true-scotsman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>criticisms or flaws of your argument.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/medievallogic/posts/2474352516100572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/medievallogic/posts/2474352516100572/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But no true fallacy would be omitted...</p></details>
+   Link:<a href="https://www.facebook.com/groups/medievallogic/posts/2474352516100572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/medievallogic/posts/2474352516100572/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But no true fallacy would be omitted...</p></details>

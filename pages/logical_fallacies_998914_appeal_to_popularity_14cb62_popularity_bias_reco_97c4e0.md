@@ -277,11 +277,11 @@ image: /assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popul
 Popularity bias in recommender systems is a modern form of appeal to popularity. Instead of a person explicitly arguing that something is true because many people believe it, a digital platform can make popular items appear more frequently, creating the impression that widespread attention is evidence of value, quality, [relevance]({{ 'relevance/' | relative_url }}), or correctness. Trending lists, recommendation feeds, bestseller rankings, view counts, likes, and engagement metrics can all contribute to this effect.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-dark.svg" | relative_url }}" alt="Popularity Bias illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key issue is not that popular content is necessarily bad. Many popular items are genuinely useful, entertaining, or accurate. The problem arises when visibility itself becomes a source of further visibility. Once an item gains an early advantage, recommendation systems may repeatedly expose it to more users, generating a feedback loop in which popularity grows partly because the item was already popular. Researchers describe this as popularity bias, a common tendency of recommendation algorithms to favour already well-known items over less visible alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</span></span></span>
+The key issue is not that popular content is necessarily bad. Many popular items are genuinely useful, entertaining, or accurate. The problem arises when visibility itself becomes a source of further visibility. Once an item gains an early advantage, recommendation systems may repeatedly expose it to more users, generating a feedback loop in which popularity grows partly because the item was already popular. Researchers describe this as popularity bias, a common tendency of recommendation algorithms to favour already well-known items over less visible alternatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</span></span></span>
 
 ## How Popularity Bias Changes What Users See
 
-Most recommendation systems learn from user behaviour. They observe clicks, views, purchases, listening habits, watch time, ratings, and other signals. Because popular items generate more [interactions]({{ 'interactions/' | relative_url }}), they produce more data. Algorithms often treat this larger amount of data as a stronger indication that the item is worth recommending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milvus.io">[Milvus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milvus.io</span><span class="citation-popover-snippet">What is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</span></span></span>
+Most recommendation systems learn from user behaviour. They observe clicks, views, purchases, listening habits, watch time, ratings, and other signals. Because popular items generate more [interactions]({{ 'interactions/' | relative_url }}), they produce more data. Algorithms often treat this larger amount of data as a stronger indication that the item is worth recommending.<span class="citation-chip-wrap"><a class="citation-chip" href="https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milvus.io">[Milvus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milvus.io</span><span class="citation-popover-snippet">What is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</span></span></span>
 
 This creates a sequence that is deceptively simple:
 
@@ -296,15 +296,15 @@ This creates a sequence that is deceptively simple:
 
 </div>
 
-Researchers studying recommendation systems have repeatedly identified this cycle as a feedback loop that can amplify popularity over time. Simulations of user–algorithm interactions show that repeated recommendation cycles can increase popularity concentration while reducing diversity in what users encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3340531.3412152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryFeedback Loop and Bias Amplification in Recommender...19 Oct 2020 — In this paper, we propose a method for simulating...</span></span></span>
+Researchers studying recommendation systems have repeatedly identified this cycle as a feedback loop that can amplify popularity over time. Simulations of user–algorithm interactions show that repeated recommendation cycles can increase popularity concentration while reducing diversity in what users encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3340531.3412152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryFeedback Loop and Bias Amplification in Recommender...19 Oct 2020 — In this paper, we propose a method for simulating...</span></span></span>
 
 From the user's perspective, the resulting feed may look like a neutral reflection of collective judgement. In reality, it is partly the product of a system that continuously converts existing attention into future attention.
 
 ### Why Early Advantages Matter
 
-Popularity bias means that small initial differences can become large outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Popularity Bias In Recommender Systems</span><span class="citation-popover-snippet">Overcoming Biases for a Better Recommender System: How Tech-Titans Combat...</span></span></span>
+Popularity bias means that small initial differences can become large outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Popularity Bias In Recommender Systems</span><span class="citation-popover-snippet">Overcoming Biases for a Better Recommender System: How Tech-Titans Combat...</span></span></span>
 
-A song that receives slightly more early engagement, a video that gains momentum during its first hours online, or a product that appears in a featured position can acquire an advantage that recommendation algorithms repeatedly reinforce. Over time, this process can create a highly unequal distribution of visibility, even when many alternatives are similarly relevant to users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</span></span></span>
+A song that receives slightly more early engagement, a video that gains momentum during its first hours online, or a product that appears in a featured position can acquire an advantage that recommendation algorithms repeatedly reinforce. Over time, this process can create a highly unequal distribution of visibility, even when many alternatives are similarly relevant to users.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</span></span></span>
 
 The resulting impression is often that the most visible items naturally rose to the top because they were the best. Yet visibility and quality are not identical. Visibility itself can become part of the cause of success.
 
@@ -316,24 +316,24 @@ Popularity signals are useful shortcuts. If thousands of people buy a product or
 
 Recommendation systems can unintentionally blur this distinction. Users often encounter content after it has already been filtered and ranked by algorithms. Because the highest-ranked items appear first, people may infer that those items deserve their position.
 
-However, recommendation systems are usually optimised for objectives such as engagement, retention, click-through rates, or viewing time rather than objective quality. A highly engaging item may receive greater exposure regardless of whether it is more informative, more accurate, more creative, or more useful than alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteA Public Service Media Perspective on the Algorithmic...24 Jul 2024 — Recommender systems play an import...</span></span></span>
+However, recommendation systems are usually optimised for objectives such as engagement, retention, click-through rates, or viewing time rather than objective quality. A highly engaging item may receive greater exposure regardless of whether it is more informative, more accurate, more creative, or more useful than alternatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteA Public Service Media Perspective on the Algorithmic...24 Jul 2024 — Recommender systems play an import...</span></span></span>
 
 This matters because appeal-to-popularity reasoning becomes embedded in the environment itself. Rather than hearing someone say, “Everyone likes this, therefore it must be good,” users repeatedly see evidence that many others have already interacted with the same item. The social signal is presented before independent evaluation occurs.
 
 ### The Hidden Assumption
 
-Popularity bias encourages a subtle but important assumption: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Popularity Bias In Recommender Systems</span><span class="citation-popover-snippet">Overcoming Biases for a Better Recommender System: How Tech-Titans Combat...</span></span></span>
+Popularity bias encourages a subtle but important assumption:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Popularity Bias In Recommender Systems</span><span class="citation-popover-snippet">Overcoming Biases for a Better Recommender System: How Tech-Titans Combat...</span></span></span>
 
 **Frequently recommended = widely chosen = probably best.**
 
-Each step may contain some truth, but the chain is not logically guaranteed. A recommendation system can increase exposure independently of quality. Once exposure changes, user behaviour changes as well. Researchers studying digital platforms note that recommendation systems do not merely observe preferences; they can also influence what users encounter and ultimately choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Algorithmic Influence on Social Media Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Personalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</span></span></span>
+Each step may contain some truth, but the chain is not logically guaranteed. A recommendation system can increase exposure independently of quality. Once exposure changes, user behaviour changes as well. Researchers studying digital platforms note that recommendation systems do not merely observe preferences; they can also influence what users encounter and ultimately choose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Algorithmic Influence on Social Media Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Personalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-dark.svg" | relative_url }}" alt="Popularity Bias illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Happens to Less Popular Content?
 
 One consequence of popularity bias is the underrepresentation of "long-tail" content—the vast number of items that receive relatively little attention individually.
 
-Research in music, film, and other recommendation domains has consistently found that less popular items appear less frequently in recommendations than highly popular ones. As a result, niche creators, specialised products, and minority interests can struggle to gain visibility even when they may be highly relevant to particular users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
+Research in music, film, and other recommendation domains has consistently found that less popular items appear less frequently in recommendations than highly popular ones. As a result, niche creators, specialised products, and minority interests can struggle to gain visibility even when they may be highly relevant to particular users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
 
 This creates several effects:
 
@@ -346,7 +346,7 @@ This creates several effects:
 
 </div>
 
-Studies of recommendation feedback loops have found that popularity amplification can reduce aggregate diversity and make user experiences more similar over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
+Studies of recommendation feedback loops have found that popularity amplification can reduce aggregate diversity and make user experiences more similar over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
 
 From the perspective of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because the system increasingly presents consensus as evidence. The more visible an item becomes, the more users interpret its visibility as confirmation that it deserves attention.
 
@@ -356,7 +356,7 @@ From the perspective of [logical fallacies]({{ 'logical-fallacies/' | relative_u
 
 Popularity bias becomes especially important when recommendation systems distribute information rather than entertainment alone.
 
-News feeds, social platforms, search suggestions, and video recommendations often display engagement indicators such as views, shares, likes, or trending status. These signals can influence how people evaluate credibility before examining the underlying evidence. Researchers examining algorithmic recommendation systems note that engagement-based amplification can strengthen feedback loops that shape attention and information exposure. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.weizenbaum-institut.de">[2ojs.weizenbaum-institut.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.weizenbaum-institut.de</span><span class="citation-popover-snippet">Readers click on news articles selected by a recommender system and, in doing so...Read more...</span></span></span>
+News feeds, social platforms, search suggestions, and video recommendations often display engagement indicators such as views, shares, likes, or trending status. These signals can influence how people evaluate credibility before examining the underlying evidence. Researchers examining algorithmic recommendation systems note that engagement-based amplification can strengthen feedback loops that shape attention and information exposure. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.weizenbaum-institut.de">[2ojs.weizenbaum-institut.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.weizenbaum-institut.de</span><span class="citation-popover-snippet">Readers click on news articles selected by a recommender system and, in doing so...Read more...</span></span></span>
 
 In such environments, popularity may begin to function as a substitute for independent verification. A claim appears persuasive because it is repeatedly encountered, heavily shared, or prominently recommended.
 
@@ -396,9 +396,9 @@ Many systems heavily concentrate attention on a small set of already-successful 
 
 Large numbers of likes, views, or downloads may indicate interest, but they do not independently verify factual claims.
 
-**Remember that recommendation systems optimise objectives.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Exploring Popularity Bias in Music Recommendation...19 Aug 2022 — Research has shown that recommender systems are typically biased...</span></span></span>
+**Remember that recommendation systems optimise objectives.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Exploring Popularity Bias in Music Recommendation...19 Aug 2022 — Research has shown that recommender systems are typically biased...</span></span></span>
 
-The platform may be maximising engagement, retention, [advertising]({{ 'advertising/' | relative_url }}) revenue, or user activity rather than truth, expertise, or quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteA Public Service Media Perspective on the Algorithmic...24 Jul 2024 — Recommender systems play an import...</span></span></span>
+The platform may be maximising engagement, retention, [advertising]({{ 'advertising/' | relative_url }}) revenue, or user activity rather than truth, expertise, or quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteA Public Service Media Perspective on the Algorithmic...24 Jul 2024 — Recommender systems play an import...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kq8_jLSbMj8" title="BIAS@ECIR2022 - Mitigating Popularity Bias in Recommendation: Potential and Limits of Calibration .." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kq8_jLSbMj8" target="_blank" rel="noopener noreferrer">BIAS@ECIR2022 - Mitigating Popularity Bias in Recommendation: Potential and Limits of Calibration ..</a></p><p class="youtube-embed-meta">Channel: BIAS Workshop &middot; Views: 208 &middot; Uploaded: June 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kq8_jLSbMj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kq8_jLSbMj8">Open on YouTube</a></p></div></div></div>
 
@@ -406,272 +406,272 @@ The platform may be maximising engagement, retention, [advertising]({{ 'advertis
 
 Popularity bias in recommender systems demonstrates how a classic logical fallacy can become embedded in technological systems rather than expressed directly in argument. The system does not need to claim that popularity proves value. Instead, it repeatedly exposes users to signals of popularity and structures attention around them.
 
-As a result, users may encounter a world in which what is already popular becomes increasingly visible, increasingly familiar, and increasingly persuasive. The central lesson remains the same as in traditional appeal-to-popularity reasoning: widespread attention can be informative, but it is not evidence that a claim is true, a product is best, or a piece of content is most deserving of belief. Visibility measures attention; it does not by itself measure merit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</span></span></span> 2arXiv
+As a result, users may encounter a world in which what is already popular becomes increasingly visible, increasingly familiar, and increasingly persuasive. The central lesson remains the same as in traditional appeal-to-popularity reasoning: widespread attention can be informative, but it is not evidence that a claim is true, a product is best, or a piece of content is most deserving of belief. Visibility measures attention; it does not by itself measure merit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</span></span></span> 2arXiv
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Trending Lists Can Distort Judgment. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Trending Lists Can Distort Judgment. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Explains unintended consequences of algorithmic decision systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains unintended consequences of algorithmic decision systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filter+Bubble+by+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filter Bubble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Qn2ZnjzCE3gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filter Bubble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filter+Bubble+by+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filter Bubble">The Filter Bubble</a>
-        </h4>
-        <p class="fr-book-author">By Eli Pariser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filter+Bubble+by+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filter Bubble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Qn2ZnjzCE3gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filter Bubble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filter+Bubble+by+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filter Bubble">The Filter Bubble</a>
+</h4>
+<p class="fr-book-author">By Eli Pariser</p>
         
-        <p class="fr-book-desc">Directly addresses personalized visibility and ranking effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filter+Bubble+by+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses personalized visibility and ranking effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filter+Bubble+by+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8OSDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
-        </h4>
-        <p class="fr-book-author">By Safiya Umoja Noble</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8OSDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
+</h4>
+<p class="fr-book-author">By Safiya Umoja Noble</p>
         
-        <p class="fr-book-desc">Examines how platforms and algorithms shape visibility and attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how platforms and algorithms shape visibility and attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides bias framework for interpreting popularity signals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides bias framework for interpreting popularity signals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filter+Bubble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filter Bubble</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filter+Bubble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filter Bubble</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4933159ce99c3ff23055.jpg' | relative_url }}" alt="Listing image for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4933159ce99c3ff23055.jpg' | relative_url }}" alt="Listing image for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9193e1e13bdac342d318.jpg' | relative_url }}" alt="Listing image for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9193e1e13bdac342d318.jpg' | relative_url }}" alt="Listing image for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e0832f53ddc60c7e81e5.jpg' | relative_url }}" alt="Listing image for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e0832f53ddc60c7e81e5.jpg' | relative_url }}" alt="Listing image for Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Girl Definition Data S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Scientist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d72ebafe1964c9b44113.jpg' | relative_url }}" alt="Listing image for Data Science Scientist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Scientist Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Scientist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d72ebafe1964c9b44113.jpg' | relative_url }}" alt="Listing image for Data Science Scientist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Science Scientist Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-bias-why-trending-lists-can-distort-judgment-logical-fallacies-data-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -687,7 +687,7 @@ As a result, users may encounter a world in which what is already popular become
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -707,7 +707,7 @@ As a result, users may encounter a world in which what is already popular become
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -739,7 +739,7 @@ As a result, users may encounter a world in which what is already popular become
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -769,7 +769,7 @@ As a result, users may encounter a world in which what is already popular become
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -827,192 +827,192 @@ As a result, users may encounter a world in which what is already popular become
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11257-024-09406-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11257-024-09406-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: milvus.io  
-   Link: <a href="https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</p></details>
+   Link:<a href="https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Feedback Loop and Bias Amplification in Recommender  
-   Link: <a href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2007.13019</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</p></details>
+   Link:<a href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2007.13019</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</p></details>
    Published: July 25, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3340531.3412152" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3340531.3412152</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryFeedback Loop and Bias Amplification in Recommender...19 Oct 2020 — In this paper, we propose a method for simulating...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3340531.3412152" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3340531.3412152</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryFeedback Loop and Bias Amplification in Recommender...19 Oct 2020 — In this paper, we propose a method for simulating...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Influence on [Social Media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Influence on [Social Media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Personalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</p></details>
+   Link:<a href="https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Personalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 240 — Algorithmic mechanisms on digital media are power...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 240 — Algorithmic mechanisms on digital media are power...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.04696</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2019 · Cited by 234 — Research has shown that recommender systems...</p></details>
+   Link:<a href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.04696</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2019 · Cited by 234 — Research has shown that recommender systems...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 11 — This paper investigates the...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 11 — This paper investigates the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ojs.weizenbaum-institut.de  
-   Link: <a href="https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132" target="_blank" rel="noopener noreferrer nofollow">https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Readers click on news articles selected by a recommender system and, in doing so...Read more...</p></details>
+   Link:<a href="https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132" target="_blank" rel="noopener noreferrer nofollow">https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Readers click on news articles selected by a recommender system and, in doing so...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1548367326000062" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1548367326000062</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating user behavior, content...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1548367326000062" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1548367326000062</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating user behavior, content...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularity Bias in Recommendation EnginesPopularity bias refers to a recommender system&#x27;s tendency to over-recommend items that are alrea...</p></details>
+   Link:<a href="https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popularity Bias in Recommendation EnginesPopularity bias refers to a recommender system&#x27;s tendency to over-recommend items that are alrea...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40emreeyukseel/challenges-in-recommender-systems-understanding-implicit-feedback-negative-sampling-and-00fc3c9c34e4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40emreeyukseel/challenges-in-recommender-systems-understanding-implicit-feedback-negative-sampling-and-00fc3c9c34e4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tes a popularity bias which is a common problem that must...Read more...</p></details>
+   Link:<a href="https://medium.com/%40emreeyukseel/challenges-in-recommender-systems-understanding-implicit-feedback-negative-sampling-and-00fc3c9c34e4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40emreeyukseel/challenges-in-recommender-systems-understanding-implicit-feedback-negative-sampling-and-00fc3c9c34e4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tes a popularity bias which is a common problem that must...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1912.04696</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being un...Rea...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1912.04696</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being un...Rea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2208.09517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2208.09517</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2208.09517v1 [cs.IR] 19 Aug 2022by DR Turnbull · 2022 · Cited by 14 — In this paper, we attempt to measure popularity bias both in...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2208.09517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2208.09517</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2208.09517v1 [cs.IR] 19 Aug 2022by DR Turnbull · 2022 · Cited by 14 — In this paper, we attempt to measure popularity bias both in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01118</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Popularity Bias in Recommender Systemsby A Klimashevskaia · 2023 · Cited by 156 — In this paper, we discuss the potential rea...</p></details>
+   Link:<a href="https://arxiv.org/abs/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Popularity Bias in Recommender Systemsby A Klimashevskaia · 2023 · Cited by 156 — In this paper, we discuss the potential rea...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10844-026-01025-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10844-026-01025-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fairness, popularity bias, and user group disparitiesby Y Zoralioglu · 2026 — In this study, we evaluate how users are differently affect...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10844-026-01025-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10844-026-01025-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fairness, popularity bias, and user group disparitiesby Y Zoralioglu · 2026 — In this study, we evaluate how users are differently affect...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/book/10.1007/978-3-642-13287-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/book/10.1007/978-3-642-13287-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Long Tail, Long Fail, and Long Play in the Digital Music Space... Order, [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) and popularity bias in next-song...Read more...</p></details>
+   Link:<a href="https://link.springer.com/book/10.1007/978-3-642-13287-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/book/10.1007/978-3-642-13287-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Long Tail, Long Fail, and Long Play in the Digital Music Space... Order, [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) and popularity bias in next-song...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323003436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457323003436</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flexibly manipulating popularity bias for tackling trade-offs...by H Okamura · 2024 · Cited by 8 — We can effectively and flexibly manip...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323003436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457323003436</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flexibly manipulating popularity bias for tackling trade-offs...by H Okamura · 2024 · Cited by 8 — We can effectively and flexibly manip...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457321001436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457321001436</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the impact of recommender systems on user-...by M Elahi · 2021 · Cited by 81 — In this paper, we study the impact of diffe...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457321001436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457321001436</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the impact of recommender systems on user-...by M Elahi · 2021 · Cited by 81 — In this paper, we study the impact of diffe...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Popularity Bias In Recommender Systems  
-   Link: <a href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D4Us--bvFQo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Biases for a Better Recommender System: How Tech-Titans Combat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D4Us--bvFQo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Biases for a Better Recommender System: How Tech-Titans Combat...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteA Public Service Media Perspective on the Algorithmic...24 Jul 2024 — Recommender systems play an import...</p></details>
+   Link:<a href="https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteA Public Service Media Perspective on the Algorithmic...24 Jul 2024 — Recommender systems play an import...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteUnderstanding Social Media Recommendation AlgorithmsMar 9, 2023 — The algorithms driving social media are...</p></details>
+   Link:<a href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteUnderstanding Social Media Recommendation AlgorithmsMar 9, 2023 — The algorithms driving social media are...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Recommender system  
-   Link: <a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recommender_system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommender systemA recommender system, also called a recommendation algorithm, recommendation engine, or recommendation platform, is...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recommender_system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recommender systemA recommender system, also called a recommendation algorithm, recommendation engine, or recommendation platform, is...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: iss.nus.edu.sg  
    Title: nus.edu.sg Recommender Systems  
-   Link: <a href="https://www.iss.nus.edu.sg/executive-education/course/detail/recommender--systems/data-science" target="_blank" rel="noopener noreferrer nofollow">https://www.iss.nus.edu.sg/executive-education/course/detail/recommender--systems/data-science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Systems - SingaporeLearn to design AI-driven recommender systems using machine learning and Python. This NUS-ISS course covers collaborat...</p></details>
+   Link:<a href="https://www.iss.nus.edu.sg/executive-education/course/detail/recommender--systems/data-science" target="_blank" rel="noopener noreferrer nofollow">https://www.iss.nus.edu.sg/executive-education/course/detail/recommender--systems/data-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systems - SingaporeLearn to design AI-driven recommender systems using machine learning and Python. This NUS-ISS course covers collaborat...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Exploring Popularity Bias in Music Recommendation...19 Aug 2022 — Research has shown that recommender systems are typically biased...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Exploring Popularity Bias in Music Recommendation...19 Aug 2022 — Research has shown that recommender systems are typically biased...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: blogs.biomedcentral.com  
-   Link: <a href="https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy for Fans of Beyond-Mainstream Music13 Apr 2021 — However, it is a widely-known problem that recommender systems are prone to pop...</p></details>
+   Link:<a href="https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy for Fans of Beyond-Mainstream Music13 Apr 2021 — However, it is a widely-known problem that recommender systems are prone to pop...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ftp.informatik.rwth-aachen.de  
-   Link: <a href="https://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-633/wom2010_paper10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendation and the Long Tailby M Levy · Cited by 85 — In this paper we present an empirical study of the rec- ommendations actually m...</p></details>
+   Link:<a href="https://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-633/wom2010_paper10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendation and the Long Tailby M Levy · Cited by 85 — In this paper we present an empirical study of the rec- ommendations actually m...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 58 — Their discussion of the sources of popularity bias i...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 58 — Their discussion of the sources of popularity bias i...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: christophtrattner.com  
-   Link: <a href="https://www.christophtrattner.com/pubs/PopBias2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.christophtrattner.com/pubs/PopBias2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Popularity Bias in Recommender Systemsby A Klimashevskaia · Cited by 179 — In this paper, we discuss the potential reasons fo...</p></details>
+   Link:<a href="https://www.christophtrattner.com/pubs/PopBias2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.christophtrattner.com/pubs/PopBias2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Popularity Bias in Recommender Systemsby A Klimashevskaia · Cited by 179 — In this paper, we discuss the potential reasons fo...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
    Title: 343253269 Feedback Loop and Bias Amplification in Recommender Systems  
-   Link: <a href="https://www.researchgate.net/publication/343253269_Feedback_Loop_and_Bias_Amplification_in_Recommender_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343253269_Feedback_Loop_and_Bias_Amplification_in_Recommender_Systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...31 Jul 2020 — In this paper, we propose a method for simulating the users interact...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/343253269_Feedback_Loop_and_Bias_Amplification_in_Recommender_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343253269_Feedback_Loop_and_Bias_Amplification_in_Recommender_Systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...31 Jul 2020 — In this paper, we propose a method for simulating the users interact...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: orfonline.org  
    Title: from clicks to chaos how social media algorithms amplify extremism  
-   Link: <a href="https://www.orfonline.org/expert-speak/from-clicks-to-chaos-how-social-media-algorithms-amplify-extremism" target="_blank" rel="noopener noreferrer nofollow">https://www.orfonline.org/expert-speak/from-clicks-to-chaos-how-social-media-algorithms-amplify-extremism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From clicks to chaos: How social media algorithms amplify...Feb 13, 2025 — This article explores the mechanisms behind algorithmic ampli...</p></details>
+   Link:<a href="https://www.orfonline.org/expert-speak/from-clicks-to-chaos-how-social-media-algorithms-amplify-extremism" target="_blank" rel="noopener noreferrer nofollow">https://www.orfonline.org/expert-speak/from-clicks-to-chaos-how-social-media-algorithms-amplify-extremism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From clicks to chaos: How social media algorithms amplify...Feb 13, 2025 — This article explores the mechanisms behind algorithmic ampli...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ceur-ws.org  
-   Link: <a href="https://ceur-ws.org/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ceur-ws.org/Vol-633/wom2010_paper10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ally made by the widely-used Last.fm music recommender system, in particular via its...Read more...</p></details>
+   Link:<a href="https://ceur-ws.org/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ceur-ws.org/Vol-633/wom2010_paper10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ally made by the widely-used Last.fm music recommender system, in particular via its...Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: liner.com  
    Title: feedback loop and bias amplification in recommender systems  
-   Link: <a href="https://liner.com/review/feedback-loop-and-bias-amplification-in-recommender-systems" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/feedback-loop-and-bias-amplification-in-recommender-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...Jul 25, 2020 — Regarding this CIKM 2020 paper, this review summarizes how feedback...</p></details>
+   Link:<a href="https://liner.com/review/feedback-loop-and-bias-amplification-in-recommender-systems" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/feedback-loop-and-bias-amplification-in-recommender-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...Jul 25, 2020 — Regarding this CIKM 2020 paper, this review summarizes how feedback...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/papers/feedback-loop-and-bias-amplification-in-recommender-systems-43dh6ke8pd" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/feedback-loop-and-bias-amplification-in-recommender-systems-43dh6ke8pd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecommenders in an offline setting and study the impact of feedback loop on the...Read more...</p></details>
+   Link:<a href="https://scispace.com/papers/feedback-loop-and-bias-amplification-in-recommender-systems-43dh6ke8pd" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/feedback-loop-and-bias-amplification-in-recommender-systems-43dh6ke8pd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ecommenders in an offline setting and study the impact of feedback loop on the...Read more...</p></details>

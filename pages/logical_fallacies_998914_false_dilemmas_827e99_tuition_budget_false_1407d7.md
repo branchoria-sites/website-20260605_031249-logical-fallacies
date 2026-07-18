@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_bud
 
 ## Introduction
 
-Arguments about university tuition and institutional budgets often arrive in a dramatic form: either tuition rises or the institution faces severe decline, programme closures, or even collapse. This framing can contain a genuine financial concern, but it frequently illustrates a [false dilemma]({{ 'false-dilemma/' | relative_url }}). The debate is presented as though only [two options]({{ 'two-options/' | relative_url }}) exist when, in reality, budget decisions usually involve multiple implementation choices about spending priorities, reserves, borrowing, efficiency measures, staffing plans, enrolment strategies, government funding, and the timing of changes. The key question is not whether financial pressures are real. It is whether the proposed “pay more or collapse” framing accurately reflects the range of available responses. Evidence from higher education finance shows that institutions facing revenue pressure often have several possible adjustment mechanisms rather than a single unavoidable path. House of Commons Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-snippet">Institute for Fiscal StudiesHigher education finances: how have they fared, and what...by K Ogden · Cited by 13 — The next government fa...</span></span></span>
+Arguments about university tuition and institutional budgets often arrive in a dramatic form: either tuition rises or the institution faces severe decline, programme closures, or even collapse. This framing can contain a genuine financial concern, but it frequently illustrates a [false dilemma]({{ 'false-dilemma/' | relative_url }}). The debate is presented as though only [two options]({{ 'two-options/' | relative_url }}) exist when, in reality, budget decisions usually involve multiple implementation choices about spending priorities, reserves, borrowing, efficiency measures, staffing plans, enrolment strategies, government funding, and the timing of changes. The key question is not whether financial pressures are real. It is whether the proposed “pay more or collapse” framing accurately reflects the range of available responses. Evidence from higher education finance shows that institutions facing revenue pressure often have several possible adjustment mechanisms rather than a single unavoidable path. House of Commons Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-snippet">Institute for Fiscal StudiesHigher education finances: how have they fared, and what...by K Ogden · Cited by 13 — The next government fa...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-1-dark.svg" | relative_url }}" alt="Budget Debates illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Is It Really Pay More or Collapse?
@@ -283,7 +283,7 @@ The false dilemma appears when a speaker compresses a complex financial situatio
 
 </div>
 
-Such claims can be persuasive because universities and colleges do face genuine financial constraints. In England, concerns about institutional sustainability have increased as tuition fee caps have lagged behind inflation while operating costs have risen. Regulators and parliamentary briefings have warned about growing financial pressures across the sector. House of Commons Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economicsobservatory.com">[Economics Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economicsobservatory.com</span><span class="citation-popover-title">uk higher education finance whats the problem and what can be done</span><span class="citation-popover-snippet">UK higher education finance: what&#x27;s the problem and what...29 Oct 2024 — England&#x27;s once world-leading higher education system has become...</span></span></span>
+Such claims can be persuasive because universities and colleges do face genuine financial constraints. In England, concerns about institutional sustainability have increased as tuition fee caps have lagged behind inflation while operating costs have risen. Regulators and parliamentary briefings have warned about growing financial pressures across the sector. House of Commons Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economicsobservatory.com">[Economics Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economicsobservatory.com</span><span class="citation-popover-title">uk higher education finance whats the problem and what can be done</span><span class="citation-popover-snippet">UK higher education finance: what&#x27;s the problem and what...29 Oct 2024 — England&#x27;s once world-leading higher education system has become...</span></span></span>
 
 Yet acknowledging financial pressure is different from accepting that only one response exists. A budget shortfall does not automatically dictate a specific solution. The reasoning becomes fallacious when the conclusion assumes that every other implementation option has already been exhausted or shown to be impossible.
 
@@ -301,7 +301,7 @@ Consider a university that announces a projected deficit. The public discussion 
 
 However, the actual budget process may involve numerous decisions about expenditure categories, capital projects, staffing patterns, programme restructuring, administrative costs, fundraising, partnership income, debt management, or the use of financial reserves. The binary framing obscures those intermediate choices.
 
-Research on higher education finance repeatedly shows that institutions respond to funding pressures through combinations of strategies rather than a single mechanism. Universities may reduce expenditures, seek new revenue sources, alter enrolment mixes, restructure operations, or combine several approaches simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bipartisanpolicy.org">[Bipartisan Policy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bipartisanpolicy.org</span><span class="citation-popover-title">state funding and college costs reviewing the evidence</span><span class="citation-popover-snippet">Bipartisan Policy CenterState Funding and College Costs: Reviewing the Evidence16 Dec 2024 — When confronted with reduced state funding...</span></span></span>
+Research on higher education finance repeatedly shows that institutions respond to funding pressures through combinations of strategies rather than a single mechanism. Universities may reduce expenditures, seek new revenue sources, alter enrolment mixes, restructure operations, or combine several approaches simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bipartisanpolicy.org">[Bipartisan Policy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bipartisanpolicy.org</span><span class="citation-popover-title">state funding and college costs reviewing the evidence</span><span class="citation-popover-snippet">Bipartisan Policy CenterState Funding and College Costs: Reviewing the Evidence16 Dec 2024 — When confronted with reduced state funding...</span></span></span>
 
 The existence of these alternatives does not prove that tuition increases are unnecessary. It demonstrates only that the [debate]({{ 'debate/' | relative_url }}) should compare competing responses rather than assume one response is inevitable.
 
@@ -315,7 +315,7 @@ The strongest antidote to a false dilemma is identifying the implementation leve
 
 A budget is not a single number. It is a collection of priorities. When administrators claim that tuition must rise, critics often ask which expenditures were reviewed first and whether all categories received equal scrutiny.
 
-Different institutions may make different choices regarding administration, facilities, technology investments, marketing, capital projects, or programme portfolios. Alternative budgeting frameworks, including zero-based and activity-based approaches, exist precisely because organisations can allocate resources in different ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoverresearch.com">[Hanover Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoverresearch.com</span><span class="citation-popover-title">Hanover Research6 Alternative Budget Models for Colleges and Universities</span><span class="citation-popover-snippet">November 25, 2025 — 25 Nov 2025 — Carefully weigh these higher education budget models to promote both the financial and academic wellnes...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
+Different institutions may make different choices regarding administration, facilities, technology investments, marketing, capital projects, or programme portfolios. Alternative budgeting frameworks, including zero-based and activity-based approaches, exist precisely because organisations can allocate resources in different ways.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hanoverresearch.com">[Hanover Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hanoverresearch.com</span><span class="citation-popover-title">Hanover Research6 Alternative Budget Models for Colleges and Universities</span><span class="citation-popover-snippet">November 25, 2025 — 25 Nov 2025 — Carefully weigh these higher education budget models to promote both the financial and academic wellnes...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
 
 ### Timing and Phasing
 
@@ -336,7 +336,7 @@ A university may reasonably argue that reserves cannot permanently solve a struc
 
 Higher education systems often rely on multiple income streams, including government grants, research funding, philanthropy, commercial partnerships, housing income, and international student fees.
 
-Recent analyses of higher education finance have highlighted both the benefits and risks of dependence on particular revenue sources, especially international enrolment. The broader point is that revenue strategy itself is a policy choice. A debate framed solely around tuition can obscure other revenue considerations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10037/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">cbp 10037</span><span class="citation-popover-snippet">House of Commons LibraryHigher education finances and funding in England6 Jun 2025 — This briefing covers how higher education is funded...</span></span></span>
+Recent analyses of higher education finance have highlighted both the benefits and risks of dependence on particular revenue sources, especially international enrolment. The broader point is that revenue strategy itself is a policy choice. A debate framed solely around tuition can obscure other revenue considerations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10037/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">cbp 10037</span><span class="citation-popover-snippet">House of Commons LibraryHigher education finances and funding in England6 Jun 2025 — This briefing covers how higher education is funded...</span></span></span>
 
 ## How Bundled Decisions Change the Argument
 
@@ -381,7 +381,7 @@ Those questions are harder to communicate in a slogan, but they are usually clos
 
 Not every tuition debate involves a fallacy.
 
-There are circumstances in which options genuinely narrow. An institution facing severe liquidity problems, legal obligations, declining enrolment, and limited reserves may have very few practical choices remaining. Financial sustainability concerns documented across parts of the higher education sector are real, and some institutions operate under substantial constraints. House of Commons Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-snippet">Institute for Fiscal StudiesHigher education finances: how have they fared, and what...by K Ogden · Cited by 13 — The next government fa...</span></span></span>
+There are circumstances in which options genuinely narrow. An institution facing severe liquidity problems, legal obligations, declining enrolment, and limited reserves may have very few practical choices remaining. Financial sustainability concerns documented across parts of the higher education sector are real, and some institutions operate under substantial constraints. House of Commons Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-snippet">Institute for Fiscal StudiesHigher education finances: how have they fared, and what...by K Ogden · Cited by 13 — The next government fa...</span></span></span>
 
 The crucial distinction is evidence. A legitimate argument demonstrates why alternative measures are insufficient, exhausted, or disproportionately damaging. A false dilemma merely assumes this without showing it.
 
@@ -409,269 +409,269 @@ That expansion is the central lesson of false dilemmas in tuition and budget deb
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-3-dark.svg" | relative_url }}" alt="Budget Debates illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is It Really Pay More or Collapse?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is It Really Pay More or Collapse?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers examine framing effects in budget debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers examine framing effects in budget debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Useful for evaluating policy and financial claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating policy and financial claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages exploring options beyond forced choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages exploring options beyond forced choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how oversimplified narratives can mislead decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how oversimplified narratives can mislead decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ruins of first university Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/251c017910281a0ab6f4.jpg' | relative_url }}" alt="Listing image for Ruins of first university Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ruins of first university Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for university poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: university poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ruins of first university Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/251c017910281a0ab6f4.jpg' | relative_url }}" alt="Listing image for Ruins of first university Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ruins of first university Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for university poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: university poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Poster Newnham College CAMBRIDGE University RAILWAY TRAVEL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/51e0a1d05a4e2816d2de.jpg' | relative_url }}" alt="Listing image for Vintage Poster Newnham College CAMBRIDGE University RAILWAY TRAVEL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Poster Newnham College CAMBRIDGE University RAILWAY TRAVEL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for university poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: university poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Poster Newnham College CAMBRIDGE University RAILWAY TRAVEL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/51e0a1d05a4e2816d2de.jpg' | relative_url }}" alt="Listing image for Vintage Poster Newnham College CAMBRIDGE University RAILWAY TRAVEL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Poster Newnham College CAMBRIDGE University RAILWAY TRAVEL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for university poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: university poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for City Streets &amp; Architecture Poster | Travel Prints | Urban Wall Art Decoration"><img src="{{ '/assets/images/marketplace-covers/cccf27d002d9447c14fa.jpg' | relative_url }}" alt="Listing image for City Streets &amp; Architecture Poster | Travel Prints | Urban Wall Art Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">City Streets &amp; Architecture Poster | Travel Prints | Urban Wall Art Decoration</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for university poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: university poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for City Streets &amp; Architecture Poster | Travel Prints | Urban Wall Art Decoration"><img src="{{ '/assets/images/marketplace-covers/cccf27d002d9447c14fa.jpg' | relative_url }}" alt="Listing image for City Streets &amp; Architecture Poster | Travel Prints | Urban Wall Art Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">City Streets &amp; Architecture Poster | Travel Prints | Urban Wall Art Decoration</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for university poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: university poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Century Tower of the University of Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/792cbff1241e6542d48f.jpg' | relative_url }}" alt="Listing image for Century Tower of the University of Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Century Tower of the University of Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for university poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: university poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Century Tower of the University of Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/792cbff1241e6542d48f.jpg' | relative_url }}" alt="Listing image for Century Tower of the University of Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Century Tower of the University of Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for university poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: university poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=university+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-debates-is-it-really-pay-more-or-collapse-logical-fallacies-university-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -687,7 +687,7 @@ That expansion is the central lesson of false dilemmas in tuition and budget deb
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -707,7 +707,7 @@ That expansion is the central lesson of false dilemmas in tuition and budget deb
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -739,7 +739,7 @@ That expansion is the central lesson of false dilemmas in tuition and budget deb
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -769,7 +769,7 @@ That expansion is the central lesson of false dilemmas in tuition and budget deb
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -827,103 +827,103 @@ That expansion is the central lesson of false dilemmas in tuition and budget deb
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commonslibrary.parliament.uk  
    Title: cbp 10037  
-   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10037/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10037/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryHigher education finances and funding in England6 Jun 2025 — This briefing covers how higher education is funded...</p></details>
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10037/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10037/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryHigher education finances and funding in England6 Jun 2025 — This briefing covers how higher education is funded...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ifs.org.uk  
-   Link: <a href="https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Fiscal StudiesHigher education finances: how have they fared, and what...by K Ogden · Cited by 13 — The next government fa...</p></details>
+   Link:<a href="https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Fiscal StudiesHigher education finances: how have they fared, and what...by K Ogden · Cited by 13 — The next government fa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bipartisanpolicy.org  
    Title: state funding and college costs reviewing the evidence  
-   Link: <a href="https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bipartisan Policy CenterState Funding and College Costs: Reviewing the Evidence16 Dec 2024 — When confronted with reduced state funding...</p></details>
+   Link:<a href="https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bipartisan Policy CenterState Funding and College Costs: Reviewing the Evidence16 Dec 2024 — When confronted with reduced state funding...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: economicsobservatory.com  
    Title: uk higher education finance whats the problem and what can be done  
-   Link: <a href="https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done" target="_blank" rel="noopener noreferrer nofollow">https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK higher education finance: what&#x27;s the problem and what...29 Oct 2024 — England&#x27;s once world-leading higher education system has become...</p></details>
+   Link:<a href="https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done" target="_blank" rel="noopener noreferrer nofollow">https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK higher education finance: what&#x27;s the problem and what...29 Oct 2024 — England&#x27;s once world-leading higher education system has become...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hanoverresearch.com  
    Title: Hanover Research6 Alternative Budget Models for Colleges and Universities  
-   Link: <a href="https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/" target="_blank" rel="noopener noreferrer nofollow">https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 25, 2025 — 25 Nov 2025 — Carefully weigh these higher education budget models to promote both the financial and academic wellnes...</p></details>
+   Link:<a href="https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/" target="_blank" rel="noopener noreferrer nofollow">https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 25, 2025 — 25 Nov 2025 — Carefully weigh these higher education budget models to promote both the financial and academic wellnes...</p></details>
    Published: November 25, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Higher" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Higher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HigherHigher may refer to: Contents. 1 Music. 1.1 Albums; 1.2 Songs. 2 Other uses; 3 See also. Music. edit · The Higher, a 2002–2012 A...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Higher" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Higher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HigherHigher may refer to: Contents. 1 Music. 1.1 Albums; 1.2 Songs. 2 Other uses; 3 See also. Music. edit · The Higher, a 2002–2012 A...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/higher" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/higher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryHIGHER definition: 1. comparative of high 2. used to refer to an advanced level of education: 3...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/higher" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/higher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryHIGHER definition: 1. comparative of high 2. used to refer to an advanced level of education: 3...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/higher" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/higher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1-syllable words · English terms with audio pronunciation · English terms with homophones · Rhymes:English/aɪə(ɹ) · English non-lemma for...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/higher" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/higher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1-syllable words · English terms with audio pronunciation · English terms with homophones · Rhymes:English/aɪə(ɹ) · English non-lemma for...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: timeshighereducation.com  
    Title: further teaching grant cuts would undermine tuition fee rise  
-   Link: <a href="https://www.timeshighereducation.com/news/further-teaching-grant-cuts-would-undermine-tuition-fee-rise" target="_blank" rel="noopener noreferrer nofollow">https://www.timeshighereducation.com/news/further-teaching-grant-cuts-would-undermine-tuition-fee-rise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Further teaching grant cuts &#x27;would undermine tuition fee rise&#x27;12 May 2026 — Universities have warned the government against further reduc...</p></details>
+   Link:<a href="https://www.timeshighereducation.com/news/further-teaching-grant-cuts-would-undermine-tuition-fee-rise" target="_blank" rel="noopener noreferrer nofollow">https://www.timeshighereducation.com/news/further-teaching-grant-cuts-would-undermine-tuition-fee-rise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Further teaching grant cuts &#x27;would undermine tuition fee rise&#x27;12 May 2026 — Universities have warned the government against further reduc...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sceptical.scot  
    Title: lets debate different models for student fees and grants  
-   Link: <a href="https://sceptical.scot/2017/05/lets-debate-different-models-for-student-fees-and-grants/" target="_blank" rel="noopener noreferrer nofollow">https://sceptical.scot/2017/05/lets-debate-different-models-for-student-fees-and-grants/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s debate different models for student fees and grants15 May 2017 — It seems common to assume that we&#x27;re faced with a straight choice...</p></details>
+   Link:<a href="https://sceptical.scot/2017/05/lets-debate-different-models-for-student-fees-and-grants/" target="_blank" rel="noopener noreferrer nofollow">https://sceptical.scot/2017/05/lets-debate-different-models-for-student-fees-and-grants/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s debate different models for student fees and grants15 May 2017 — It seems common to assume that we&#x27;re faced with a straight choice...</p></details>
    Published: May 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hepi.ac.uk  
    Title: HEPIwhy universities cannot survive on goodwill alone  
-   Link: <a href="https://www.hepi.ac.uk/2026/01/24/weekend-reading-death-by-a-thousand-cuts-why-universities-cannot-survive-on-goodwill-alone/" target="_blank" rel="noopener noreferrer nofollow">https://www.hepi.ac.uk/2026/01/24/weekend-reading-death-by-a-thousand-cuts-why-universities-cannot-survive-on-goodwill-alone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>why universities cannot survive on goodwill alone - HEPI24 Jan 2026 — A key cause of underfunding is the historical stagnation of tuition...</p></details>
+   Link:<a href="https://www.hepi.ac.uk/2026/01/24/weekend-reading-death-by-a-thousand-cuts-why-universities-cannot-survive-on-goodwill-alone/" target="_blank" rel="noopener noreferrer nofollow">https://www.hepi.ac.uk/2026/01/24/weekend-reading-death-by-a-thousand-cuts-why-universities-cannot-survive-on-goodwill-alone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>why universities cannot survive on goodwill alone - HEPI24 Jan 2026 — A key cause of underfunding is the historical stagnation of tuition...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchbriefings.files.parliament.uk  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/CBP-10155/CBP-10155.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/CBP-10155/CBP-10155.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fees in England: History, debates, and international...4 Nov 2024 — Universities UK argued cuts to teaching grants, the 2012 tuition fee...</p></details>
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/CBP-10155/CBP-10155.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/CBP-10155/CBP-10155.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fees in England: History, debates, and international...4 Nov 2024 — Universities UK argued cuts to teaching grants, the 2012 tuition fee...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hepi.ac.uk  
    Title: HEPI'Overstretched and under-resourced'?  
-   Link: <a href="https://www.hepi.ac.uk/2025/05/03/overstretched-and-under-resourced-uk-higher-education-on-the-cusp-of-the-spending-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.hepi.ac.uk/2025/05/03/overstretched-and-under-resourced-uk-higher-education-on-the-cusp-of-the-spending-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK higher education on...3 May 2025 — According to Mark Corver of DataHE, the maximum full-time undergraduate tuition fee, which was rai...</p></details>
+   Link:<a href="https://www.hepi.ac.uk/2025/05/03/overstretched-and-under-resourced-uk-higher-education-on-the-cusp-of-the-spending-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.hepi.ac.uk/2025/05/03/overstretched-and-under-resourced-uk-higher-education-on-the-cusp-of-the-spending-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK higher education on...3 May 2025 — According to Mark Corver of DataHE, the maximum full-time undergraduate tuition fee, which was rai...</p></details>
    Published: May 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: badgerherald.com  
-   Link: <a href="https://badgerherald.com/features/2020/09/08/the-tuition-dilemma-students-universities-grapple-with-budget-cuts-increased-tuition/" target="_blank" rel="noopener noreferrer nofollow">https://badgerherald.com/features/2020/09/08/the-tuition-dilemma-students-universities-grapple-with-budget-cuts-increased-tuition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tuition Dilemma: students, universities grapple with...8 Sept 2020 — The Tuition Dilemma: students, universities grapple with budget...</p></details>
+   Link:<a href="https://badgerherald.com/features/2020/09/08/the-tuition-dilemma-students-universities-grapple-with-budget-cuts-increased-tuition/" target="_blank" rel="noopener noreferrer nofollow">https://badgerherald.com/features/2020/09/08/the-tuition-dilemma-students-universities-grapple-with-budget-cuts-increased-tuition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tuition Dilemma: students, universities grapple with...8 Sept 2020 — The Tuition Dilemma: students, universities grapple with budget...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/heraldscotland/posts/the-question-isnt-whether-international-tuition-is-being-used-to-cover-gaps-in-u/936303161850342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heraldscotland/posts/the-question-isnt-whether-international-tuition-is-being-used-to-cover-gaps-in-u/936303161850342/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ps in university budgets. The question is how long it can...</p></details>
+   Link:<a href="https://www.facebook.com/heraldscotland/posts/the-question-isnt-whether-international-tuition-is-being-used-to-cover-gaps-in-u/936303161850342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heraldscotland/posts/the-question-isnt-whether-international-tuition-is-being-used-to-cover-gaps-in-u/936303161850342/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ps in university budgets. The question is how long it can...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: universitiesuk.ac.uk  
    Title: financial impact government policy  
-   Link: <a href="https://www.universitiesuk.ac.uk/latest/insights-and-analysis/financial-impact-government-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.universitiesuk.ac.uk/latest/insights-and-analysis/financial-impact-government-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The financial impact of government policy decisions on...25 Feb 2026 — Our analysis shows that government policy decisions lead to an es...</p></details>
+   Link:<a href="https://www.universitiesuk.ac.uk/latest/insights-and-analysis/financial-impact-government-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.universitiesuk.ac.uk/latest/insights-and-analysis/financial-impact-government-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The financial impact of government policy decisions on...25 Feb 2026 — Our analysis shows that government policy decisions lead to an es...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arch.astate.edu  
    Title: As a result, budget cuts loom  
-   Link: <a href="https://arch.astate.edu/cgi/viewcontent.cgi?article=1008&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://arch.astate.edu/cgi/viewcontent.cgi?article=1008&amp;[context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in Higher Education that Have Significant...by WR Stripling · 2025 · Cited by 2 — Reducing financial resources has left many univ...</p></details>
+   Link:<a href="https://arch.astate.edu/cgi/viewcontent.cgi?article=1008&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://arch.astate.edu/cgi/viewcontent.cgi?article=1008&amp;[context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in Higher Education that Have Significant...by WR Stripling · 2025 · Cited by 2 — Reducing financial resources has left many univ...</p></details>

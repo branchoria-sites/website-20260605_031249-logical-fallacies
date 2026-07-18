@@ -277,11 +277,11 @@ image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informa
 When a group appears to know more than we do, following its judgement can be rational rather than fallacious. If a team of experienced engineers agrees that a bridge design is unsafe, or if many independent doctors converge on the same diagnosis, their agreement is evidence worth taking seriously. The key question is not whether many people agree, but why they agree.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1-dark.svg" | relative_url }}" alt="Group Knows illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction sits at the centre of informational conformity. People often adopt a group's view because they believe the group has access to better information, greater expertise, or a broader perspective than any one individual. In many situations, this is a sensible shortcut. Yet the same process can become misleading when apparent consensus is produced by imitation rather than independent judgement. Understanding when the crowd is genuinely informative helps separate reasonable trust in collective knowledge from the [bandwagon]({{ 'bandwagon/' | relative_url }}) fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">We base our</span><span class="citation-popover-snippet">6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</span><span class="citation-popover-meta">Published: January 26, 2022</span></span></span>
+This distinction sits at the centre of informational conformity. People often adopt a group's view because they believe the group has access to better information, greater expertise, or a broader perspective than any one individual. In many situations, this is a sensible shortcut. Yet the same process can become misleading when apparent consensus is produced by imitation rather than independent judgement. Understanding when the crowd is genuinely informative helps separate reasonable trust in collective knowledge from the [bandwagon]({{ 'bandwagon/' | relative_url }}) fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">We base our</span><span class="citation-popover-snippet">6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</span><span class="citation-popover-meta">Published: January 26, 2022</span></span></span>
 
 ## When Is Group Judgement Useful Evidence?
 
-Informational conformity occurs when people change their beliefs because they think others possess more accurate information. Unlike conformity driven by a desire to fit in, this form involves genuine belief revision. People are not merely acting as though they agree; they often come to believe the group's conclusion themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">We base our</span><span class="citation-popover-snippet">6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</span><span class="citation-popover-meta">Published: January 26, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.town/advanced-social/understanding-conformity-factors-experiments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.town">[Psychology Town]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.town</span><span class="citation-popover-title">understanding conformity factors experiments</span><span class="citation-popover-snippet">Understanding Conformity: Factors and Experiments in...30 Oct 2025 — Informational social influence occurs when people conform because t...</span></span></span>
+Informational conformity occurs when people change their beliefs because they think others possess more accurate information. Unlike conformity driven by a desire to fit in, this form involves genuine belief revision. People are not merely acting as though they agree; they often come to believe the group's conclusion themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">We base our</span><span class="citation-popover-snippet">6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</span><span class="citation-popover-meta">Published: January 26, 2022</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.town/advanced-social/understanding-conformity-factors-experiments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.town">[Psychology Town]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.town</span><span class="citation-popover-title">understanding conformity factors experiments</span><span class="citation-popover-snippet">Understanding Conformity: Factors and Experiments in...30 Oct 2025 — Informational social influence occurs when people conform because t...</span></span></span>
 
 In everyday life, relying on others is unavoidable. No one can personally verify every scientific finding, medical recommendation, engineering standard, or economic statistic. Much of what people know comes from trusting specialised communities. The fact that thousands of scientists independently arrive at similar conclusions carries evidential weight because those conclusions emerge from extensive investigation and scrutiny.
 
@@ -299,7 +299,7 @@ A crowd can therefore provide useful evidence when:
 
 Under these conditions, agreement is not simply popularity. It becomes evidence about reality.
 
-The idea behind the "wisdom of crowds" illustrates this point. Research has repeatedly shown that diverse groups can outperform individual experts when members contribute independent judgements. The crowd's strength comes from combining many partially correct perspectives rather than from everyone thinking alike. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wisdom_of_the_crowd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wisdom of the crowd</span><span class="citation-popover-snippet">Wisdom of the crowd</span></span></span>
+The idea behind the "wisdom of crowds" illustrates this point. Research has repeatedly shown that diverse groups can outperform individual experts when members contribute independent judgements. The crowd's strength comes from combining many partially correct perspectives rather than from everyone thinking alike.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wisdom_of_the_crowd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wisdom of the crowd</span><span class="citation-popover-snippet">Wisdom of the crowd</span></span></span>
 
 ## Expertise, Independence, and Access to Facts
 
@@ -311,13 +311,13 @@ Three factors largely determine whether a consensus deserves trust.
 
 A unanimous verdict from experienced professionals should generally carry more weight than a unanimous verdict from uninformed observers. Informational conformity is most justified when the group has knowledge, training, or access to evidence unavailable to the individual.
 
-For example, a medical student may sensibly defer to a room of senior physicians discussing a rare condition. The student's conformity is not irrational; it reflects recognition of a large expertise gap. Social psychologists describe informational influence as strongest when people perceive others as possessing superior information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">We base our</span><span class="citation-popover-snippet">6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</span><span class="citation-popover-meta">Published: January 26, 2022</span></span></span>
+For example, a medical student may sensibly defer to a room of senior physicians discussing a rare condition. The student's conformity is not irrational; it reflects recognition of a large expertise gap. Social psychologists describe informational influence as strongest when people perceive others as possessing superior information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">We base our</span><span class="citation-popover-snippet">6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</span><span class="citation-popover-meta">Published: January 26, 2022</span></span></span>
 
 ### Are Judgements Independent?
 
 Independence is often more important than sheer numbers. Ten people who reach the same conclusion after separate investigation provide stronger evidence than a thousand people repeating what they heard from the first ten.
 
-Research on crowd wisdom consistently identifies independence as a critical ingredient. When people make estimates without influencing one another, individual errors tend to offset each other. Once participants begin adjusting their views to match others, this corrective effect can weaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[Network Dynamics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-snippet">Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</span></span></span>
+Research on crowd wisdom consistently identifies independence as a critical ingredient. When people make estimates without influencing one another, individual errors tend to offset each other. Once participants begin adjusting their views to match others, this corrective effect can weaken.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[Network Dynamics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-snippet">Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</span></span></span>
 
 ### Do Members Have Direct Access to Relevant Facts?
 
@@ -337,11 +337,11 @@ A common mistake is assuming that widespread agreement automatically indicates t
 
 Imagine a rumour spreading through a network. The tenth person who repeats it may appear to provide additional confirmation. In reality, all ten individuals may ultimately trace their belief to a single original source. What looks like ten pieces of evidence may be only one piece echoed repeatedly.
 
-Researchers studying social influence have found that communication among group members can reduce the diversity that makes crowd judgement effective. When individuals observe others' answers and revise their own accordingly, opinions often converge. The resulting consensus can appear stronger while becoming less informative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[Network Dynamics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-snippet">Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</span></span></span>
+Researchers studying social influence have found that communication among group members can reduce the diversity that makes crowd judgement effective. When individuals observe others' answers and revise their own accordingly, opinions often converge. The resulting consensus can appear stronger while becoming less informative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[Network Dynamics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-snippet">Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</span></span></span>
 
 This creates a paradox. Agreement becomes more visible precisely as its evidential value may decline.
 
-The danger is especially acute in environments where people can easily see what others believe before forming their own views. Online ratings, viral posts, trending topics, and public vote counts can create [cascades]({{ 'cascades/' | relative_url }}) in which individuals infer that others know something important. Once enough people make that inference, a self-reinforcing herd can emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">Behavioral Economics.com &#124; The BE Hub Social proof</span><span class="citation-popover-snippet">It is also sometimes referred to as a heuristic.Read more...</span></span></span>
+The danger is especially acute in environments where people can easily see what others believe before forming their own views. Online ratings, viral posts, trending topics, and public vote counts can create [cascades]({{ 'cascades/' | relative_url }}) in which individuals infer that others know something important. Once enough people make that inference, a self-reinforcing herd can emerge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">Behavioral Economics.com &#124; The BE Hub Social proof</span><span class="citation-popover-snippet">It is also sometimes referred to as a heuristic.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TYIh4MkcfJA" title="Asch Conformity Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TYIh4MkcfJA" target="_blank" rel="noopener noreferrer">Asch Conformity Experiment</a></p><p class="youtube-embed-meta">Channel: eqivideos &middot; Views: 3.0M &middot; Uploaded: December 2007 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TYIh4MkcfJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TYIh4MkcfJA">Open on YouTube</a></p></div></div></div>
 
@@ -349,7 +349,7 @@ The danger is especially acute in environments where people can easily see what 
 
 An important nuance is that a consensus can occasionally reach the correct answer even when people are following one another. The problem is not that conformity always produces false beliefs. The problem is that conformity can weaken the reliability of the process that generated those beliefs.
 
-Studies of social influence show mixed outcomes. Some research finds that interaction can improve collective judgement when accurate individuals exert greater influence or when information is distributed effectively throughout a network. Other studies find that social influence can reduce crowd accuracy by encouraging convergence around mistaken estimates. The effect depends heavily on who influences whom and how information flows through the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Network dynamics of social influence in the wisdom of crowdsby J Becker · 2017 · Cited by 520 — We present theoretical predictions and...</span></span></span> 2arXiv
+Studies of social influence show mixed outcomes. Some research finds that interaction can improve collective judgement when accurate individuals exert greater influence or when information is distributed effectively throughout a network. Other studies find that social influence can reduce crowd accuracy by encouraging convergence around mistaken estimates. The effect depends heavily on who influences whom and how information flows through the group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Network dynamics of social influence in the wisdom of crowdsby J Becker · 2017 · Cited by 520 — We present theoretical predictions and...</span></span></span> 2arXiv
 
 This means that consensus alone is an incomplete signal. A reader, voter, manager, or consumer should care not only about the existence of agreement but also about the process that produced it.
 
@@ -378,272 +378,272 @@ Informational conformity occupies an important boundary within discussions of [l
 
 The bandwagon fallacy arises when the mere fact of agreement is treated as proof. Informational conformity becomes reasonable when consensus serves as evidence that many competent, relatively independent people have examined the issue. It becomes fallacious when the crowd's size substitutes for investigating how that agreement was formed.
 
-The practical lesson is simple: the crowd can be informative, but its value depends less on how many people agree than on whether those people arrived there independently, knowledgeably, and in contact with the relevant facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</span></span></span>
+The practical lesson is simple: the crowd can be informative, but its value depends less on how many people agree than on whether those people arrived there independently, knowledgeably, and in contact with the relevant facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should You Trust the Crowd?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should You Trust the Crowd?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By James Surowiecki</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
+</h4>
+<p class="fr-book-author">By James Surowiecki</p>
         
-        <p class="fr-book-desc">Directly addresses when collective judgment is informative and when it fails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses when collective judgment is informative and when it fails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Shows how information quality, expertise, and aggregation affect accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how information quality, expertise, and aggregation affect accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides cognitive foundations for understanding reliance on others&#x27; judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cognitive foundations for understanding reliance on others&#x27; judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-        <p class="fr-book-desc">Helps readers evaluate when group judgments improve decisions and when they distort them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate when group judgments improve decisions and when they distort them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ff8fe0c130a32448cb1e.jpg' | relative_url }}" alt="Listing image for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychologist Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ff8fe0c130a32448cb1e.jpg' | relative_url }}" alt="Listing image for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychologist Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-knows-when-should-you-trust-the-crowd-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -659,7 +659,7 @@ The practical lesson is simple: the crowd can be informative, but its value depe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -679,7 +679,7 @@ The practical lesson is simple: the crowd can be informative, but its value depe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -711,7 +711,7 @@ The practical lesson is simple: the crowd can be informative, but its value depe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ The practical lesson is simple: the crowd can be informative, but its value depe
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -799,132 +799,132 @@ The practical lesson is simple: the crowd can be informative, but its value depe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: opentextbc.ca  
    Title: We base our  
-   Link: <a href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</p></details>
+   Link:<a href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</p></details>
    Published: January 26, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: behavioraleconomics.com  
    Title: Behavioral Economics.com | The BE Hub [Social proof](&#123;&#123; 'social-proof/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is also sometimes referred to as a heuristic.Read more...</p></details>
+   Link:<a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is also sometimes referred to as a heuristic.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: psychology.town  
    Title: understanding conformity factors experiments  
-   Link: <a href="https://psychology.town/advanced-social/understanding-conformity-factors-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/advanced-social/understanding-conformity-factors-experiments/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conformity: Factors and Experiments in...30 Oct 2025 — Informational social influence occurs when people conform because t...</p></details>
+   Link:<a href="https://psychology.town/advanced-social/understanding-conformity-factors-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/advanced-social/understanding-conformity-factors-experiments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conformity: Factors and Experiments in...30 Oct 2025 — Informational social influence occurs when people conform because t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Wisdom of the crowd  
-   Link: <a href="https://en.wikipedia.org/wiki/Wisdom_of_the_crowd" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wisdom_of_the_crowd</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wisdom_of_the_crowd" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wisdom_of_the_crowd</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Network dynamics of social influence in the wisdom of crowdsby J Becker · 2017 · Cited by 520 — We present theoretical predictions and...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Network dynamics of social influence in the wisdom of crowdsby J Becker · 2017 · Cited by 520 — We present theoretical predictions and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1008636108</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1008636108</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv When social influence promotes the wisdom of crowds  
-   Link: <a href="https://arxiv.org/abs/2006.12471" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.12471</a>  
+   Link:<a href="https://arxiv.org/abs/2006.12471" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.12471</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv How social influence affects the wisdom of crowds in influence networks  
-   Link: <a href="https://arxiv.org/abs/2204.13610" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.13610</a>  
+   Link:<a href="https://arxiv.org/abs/2204.13610" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.13610</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Social proof  
-   Link: <a href="https://en.wikipedia.org/wiki/Social_proof" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Social_proof</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social proofSocial proof (or informational social influence) is a psychological and social phenomenon wherein people copy the actions...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Social_proof" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Social_proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social proofSocial proof (or informational social influence) is a psychological and social phenomenon wherein people copy the actions...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Asch conformity experiments  
-   Link: <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experimentsIn psychology, [the Asch conformity experiments](&amp;#123;&amp;#123; &#x27;the-asch-conformity-experiments/&#x27; | relative_url &amp;#125;&amp;#125;) were a series of studies testing the Asch paradigm, directed...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experimentsIn psychology, [the Asch conformity experiments](&amp;#123;&amp;#123; &#x27;the-asch-conformity-experiments/&#x27; | relative_url &amp;#125;&amp;#125;) were a series of studies testing the Asch paradigm, directed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychology.town  
    Title: asch conformity line length experiments  
-   Link: <a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: social influence, group pressure, a...</p></details>
+   Link:<a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: social influence, group pressure, a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ndg.asc.upenn.edu  
-   Link: <a href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</p></details>
+   Link:<a href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: 5harad.com  
    Title: wisdom of crowds  
-   Link: <a href="https://5harad.com/papers/wisdom-of-crowds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5harad.com/papers/wisdom-of-crowds.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We conclude our analysis by investigating the wisdom-of- crowd effect in the presence of social influence.Read m...</p></details>
+   Link:<a href="https://5harad.com/papers/wisdom-of-crowds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5harad.com/papers/wisdom-of-crowds.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We conclude our analysis by investigating the wisdom-of- crowd effect in the presence of social influence.Read m...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psychstory.co.uk  
-   Link: <a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYThis demonstrates informational social influence, as individuals used others as a source of informati...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYThis demonstrates informational social influence, as individuals used others as a source of informati...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to which social pressur...</p></details>
+   Link:<a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to which social pressur...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/normative-informational-social-influence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/normative-informational-social-influence.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Normative &amp; Informational Social Influenceby S McLeod · Cited by 3 — Normative social influence is where a person conforms to fit in with...</p></details>
+   Link:<a href="https://www.simplypsychology.org/normative-informational-social-influence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/normative-informational-social-influence.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Normative &amp; Informational Social Influenceby S McLeod · Cited by 3 — Normative social influence is where a person conforms to fit in with...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/gb/519102228/social-influence-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/519102228/social-influence-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence FlashcardsExplain Informational Social Influence (ISI)- Explanations for conformity. Informational Social Influence is a...</p></details>
+   Link:<a href="https://quizlet.com/gb/519102228/social-influence-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/519102228/social-influence-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence FlashcardsExplain Informational Social Influence (ISI)- Explanations for conformity. Informational Social Influence is a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cradall.org  
    Title: How People Learn Brain Mind [Experience](&#123;&#123; 'experience/' | relative_url &#125;&#125;) and School Expanded Edition  
-   Link: <a href="https://cradall.org/sites/default/files/How%20People%20Learn-Brain_Mind_Experience_and%20School%20-%20Expanded%20Edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cradall.org/sites/default/files/How%20People%20Learn-Brain_Mind_Experience_and%20School%20-%20Expanded%20Edition.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn: Brain, Mind, Experience, and Schoolby E Edition · Cited by 33054 — NOTICE: The project that is the subject of this repo...</p></details>
+   Link:<a href="https://cradall.org/sites/default/files/How%20People%20Learn-Brain_Mind_Experience_and%20School%20-%20Expanded%20Edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cradall.org/sites/default/files/How%20People%20Learn-Brain_Mind_Experience_and%20School%20-%20Expanded%20Edition.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn: Brain, Mind, Experience, and Schoolby E Edition · Cited by 33054 — NOTICE: The project that is the subject of this repo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: leadershipiq.com  
    Title: the herding effect how group behavior shapes decision making  
-   Link: <a href="https://www.leadershipiq.com/blogs/leadershipiq/the-herding-effect-how-group-behavior-shapes-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.leadershipiq.com/blogs/leadershipiq/the-herding-effect-how-group-behavior-shapes-decision-making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Herding Effect: How Group Behavior Shapes Decision...26 Oct 2025 — The study found an asymmetry: positive social influence led to si...</p></details>
+   Link:<a href="https://www.leadershipiq.com/blogs/leadershipiq/the-herding-effect-how-group-behavior-shapes-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.leadershipiq.com/blogs/leadershipiq/the-herding-effect-how-group-behavior-shapes-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Herding Effect: How Group Behavior Shapes Decision...26 Oct 2025 — The study found an asymmetry: positive social influence led to si...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 369708064 Conformity and Group Performance  
-   Link: <a href="https://www.researchgate.net/publication/369708064_Conformity_and_Group_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369708064_Conformity_and_Group_Performance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Conformity and Group Performance5 Aug 2023 — This research provides evidence regarding the causal effect of group conformity on tas...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369708064_Conformity_and_Group_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369708064_Conformity_and_Group_Performance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Conformity and Group Performance5 Aug 2023 — This research provides evidence regarding the causal effect of group conformity on tas...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: verywellmind.com  
    Title: Verywell Mind What Is Conformity?  
-   Link: <a href="https://www.verywellmind.com/what-is-conformity-2795889" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-conformity-2795889</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Types, Psychology Research12 Mar 2026 — Conformity can be caused by informational influence when people follow those they bel...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-conformity-2795889" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-conformity-2795889</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Types, Psychology Research12 Mar 2026 — Conformity can be caused by informational influence when people follow those they bel...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: biorxiv.org  
    Title: 2025.11.30.691476v1.full text  
-   Link: <a href="https://www.biorxiv.org/content/10.64898/2025.11.30.691476v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.64898/2025.11.30.691476v1.full-text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informational and Normative Influence on Conformity in...3 Dec 2025 — This preregistered study examined whether adults with autism spect...</p></details>
+   Link:<a href="https://www.biorxiv.org/content/10.64898/2025.11.30.691476v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.64898/2025.11.30.691476v1.full-text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informational and Normative Influence on Conformity in...3 Dec 2025 — This preregistered study examined whether adults with autism spect...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-022-20551-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-20551-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The distribution of initial estimates moderates the effect...by A Almaatouq · 2022 · Cited by 14 — We find that the wisdom of crowds cri...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-022-20551-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-20551-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The distribution of initial estimates moderates the effect...by A Almaatouq · 2022 · Cited by 14 — We find that the wisdom of crowds cri...</p></details>

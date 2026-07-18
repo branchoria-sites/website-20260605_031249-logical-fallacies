@@ -272,7 +272,7 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_homi
 
 ## Introduction
 
-Can attacking a scientist change what people believe about a scientific claim? Research in science communication suggests that it can. A growing body of experimental evidence shows that personal attacks directed at scientists often reduce public confidence in scientific findings even when the underlying evidence remains unchanged. In some studies, attacks on a scientist’s character, integrity, or motives weakened support for a claim almost as much as direct criticism of the evidence itself. This matters because many public debates about vaccines, climate change, genetically modified crops, and public health depend on trust in expert sources as well as understanding of data. When audiences use judgments about a scientist as a shortcut for judging a claim, ad hominem attacks can shape beliefs without addressing the science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</span></span></span>
+Can attacking a scientist change what people believe about a scientific claim? Research in science communication suggests that it can. A growing body of experimental evidence shows that personal attacks directed at scientists often reduce public confidence in scientific findings even when the underlying evidence remains unchanged. In some studies, attacks on a scientist’s character, integrity, or motives weakened support for a claim almost as much as direct criticism of the evidence itself. This matters because many public debates about vaccines, climate change, genetically modified crops, and public health depend on trust in expert sources as well as understanding of data. When audiences use judgments about a scientist as a shortcut for judging a claim, ad hominem attacks can shape beliefs without addressing the science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1-dark.svg" | relative_url }}" alt="Science Effects illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), science communication research is especially interested in this effect because scientific issues are often too complex for non-specialists to evaluate directly. As a result, attacks on the messenger can become attacks on the message in practice, even when they should not be.
@@ -281,11 +281,11 @@ Within the broader study of [logical fallacies]({{ 'logical-fallacies/' | relati
 
 The clearest evidence comes from controlled experiments examining how people respond to scientific claims when information about the scientist is manipulated.
 
-A widely cited study by Ralph Barnes and colleagues presented participants with scientific claims accompanied by different forms of criticism. Some participants saw direct critiques of the evidence, while others saw ad hominem attacks aimed at the scientist, such as allegations of misconduct or conflicts of interest. Across two experiments involving both students and adults, personal attacks significantly reduced acceptance of the scientific claims. Strikingly, the effect was often comparable to criticism directed at the evidence itself. The researchers concluded that attacks on scientists can undermine confidence in research even when no challenge is made to the underlying data or reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span>
+A widely cited study by Ralph Barnes and colleagues presented participants with scientific claims accompanied by different forms of criticism. Some participants saw direct critiques of the evidence, while others saw ad hominem attacks aimed at the scientist, such as allegations of misconduct or conflicts of interest. Across two experiments involving both students and adults, personal attacks significantly reduced acceptance of the scientific claims. Strikingly, the effect was often comparable to criticism directed at the evidence itself. The researchers concluded that attacks on scientists can undermine confidence in research even when no challenge is made to the underlying data or reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span>
 
-The same research also found that allegations of financial conflicts of interest could be nearly as influential as accusations of outright fraud. This finding is important because conflict-of-interest claims frequently appear in public controversies involving health, environmental, and pharmaceutical research. Audiences may treat such accusations as evidence that conclusions are unreliable, even when the scientific methods remain untouched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</span></span></span>
+The same research also found that allegations of financial conflicts of interest could be nearly as influential as accusations of outright fraud. This finding is important because conflict-of-interest claims frequently appear in public controversies involving health, environmental, and pharmaceutical research. Audiences may treat such accusations as evidence that conclusions are unreliable, even when the scientific methods remain untouched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</span></span></span>
 
-Subsequent studies extended these findings into digital communication environments. Research on reactions to scientific content shared online found that hostile comments targeting scientists could lower trust in scientific information. Readers exposed to attacks on researchers sometimes evaluated the science less favourably despite receiving the same factual information as control groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 55 — Results indicate that ad hominem attacks...</span></span></span>
+Subsequent studies extended these findings into digital communication environments. Research on reactions to scientific content shared online found that hostile comments targeting scientists could lower trust in scientific information. Readers exposed to attacks on researchers sometimes evaluated the science less favourably despite receiving the same factual information as control groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 55 — Results indicate that ad hominem attacks...</span></span></span>
 
 The overall pattern is consistent: personal criticism can alter perceptions of scientific claims because many people evaluate both the evidence and the credibility of the person presenting it.
 
@@ -293,22 +293,22 @@ The overall pattern is consistent: personal criticism can alter perceptions of s
 
 ## Why credibility shortcuts are vulnerable
 
-Science communication scholars often explain these effects through the concept of heuristics, or mental shortcuts. Most citizens do not have the time, expertise, or information needed to independently evaluate every scientific claim. Instead, they frequently rely on cues such as expertise, trustworthiness, institutional affiliation, and perceived integrity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ask-force.org/web/Discourse/Nisbet-What-Next-Science-Communication-2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ask-force.org">[ask-force.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ask-force.org</span><span class="citation-popover-title">Matthew C</span><span class="citation-popover-snippet">Nisbet 2,4 and Dietram A. Scheufele 3by P DIRECTIONS · 2009 · Cited by 1561 — In this essay, we review research from the social sciences...</span></span></span>
+Science communication scholars often explain these effects through the concept of heuristics, or mental shortcuts. Most citizens do not have the time, expertise, or information needed to independently evaluate every scientific claim. Instead, they frequently rely on cues such as expertise, trustworthiness, institutional affiliation, and perceived integrity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ask-force.org/web/Discourse/Nisbet-What-Next-Science-Communication-2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ask-force.org">[ask-force.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ask-force.org</span><span class="citation-popover-title">Matthew C</span><span class="citation-popover-snippet">Nisbet 2,4 and Dietram A. Scheufele 3by P DIRECTIONS · 2009 · Cited by 1561 — In this essay, we review research from the social sciences...</span></span></span>
 
 These shortcuts are usually reasonable. Trusting qualified experts is often more practical than personally reviewing complex evidence. The problem arises when information about a scientist becomes disconnected from the quality of the research itself.
 
-An ad hominem attack exploits this vulnerability by shifting attention from evidence to personal characteristics. If audiences conclude that a scientist is dishonest, politically motivated, financially compromised, arrogant, or morally suspect, they may downgrade the credibility of the claim without examining the supporting research. The result is not necessarily irrational from a psychological perspective; people are using available signals to judge credibility. However, it can be fallacious when those signals are treated as proof that the scientific claim is false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Attacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</span></span></span>
+An ad hominem attack exploits this vulnerability by shifting attention from evidence to personal characteristics. If audiences conclude that a scientist is dishonest, politically motivated, financially compromised, arrogant, or morally suspect, they may downgrade the credibility of the claim without examining the supporting research. The result is not necessarily irrational from a psychological perspective; people are using available signals to judge credibility. However, it can be fallacious when those signals are treated as proof that the scientific claim is false.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Attacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</span></span></span>
 
-Research on science communication also suggests that social identity plays a role. People often evaluate scientists through group-based perceptions. When scientists are viewed as distant, elitist, or belonging to an opposing social or political camp, personal attacks may become more persuasive because they reinforce existing stereotypes. Studies examining efforts to humanise scientists have found that emphasising shared identities and relatable characteristics can improve attitudes toward science, suggesting that perceptions of scientists themselves influence how scientific information is received. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcom.sissa.it">[jcom.sissa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcom.sissa.it</span><span class="citation-popover-snippet">Changing attitudes toward scientists by reducing intergroup...by AL Beauchamp · 2022 · Cited by 1 — We experimentally examined how messa...</span></span></span>
+Research on science communication also suggests that social identity plays a role. People often evaluate scientists through group-based perceptions. When scientists are viewed as distant, elitist, or belonging to an opposing social or political camp, personal attacks may become more persuasive because they reinforce existing stereotypes. Studies examining efforts to humanise scientists have found that emphasising shared identities and relatable characteristics can improve attitudes toward science, suggesting that perceptions of scientists themselves influence how scientific information is received.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcom.sissa.it">[jcom.sissa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcom.sissa.it</span><span class="citation-popover-snippet">Changing attitudes toward scientists by reducing intergroup...by AL Beauchamp · 2022 · Cited by 1 — We experimentally examined how messa...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-2-dark.svg" | relative_url }}" alt="Science Effects illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Which attacks appear most influential?
 
-Not all personal attacks have the same impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[journals.plos.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</span></span></span>
+Not all personal attacks have the same impact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[journals.plos.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</span></span></span>
 
-Research on organised attacks against climate scientists has identified recurring patterns. Analyses of climate-contrarian communication found that accusations of political bias, hidden agendas, corruption, or ideological motivation were among the most common forms of ad hominem criticism. These attacks focus less on scientific methods and more on alleged defects in the scientist’s character or motives. Researchers argue that such accusations are especially powerful because they directly target perceived credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/taf/tcpoxx/v24y2024i1p138-151.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v24y2024i1p138 151</span><span class="citation-popover-snippet">The study found that ad hominem attacks, often with bias...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/taf/tcpoxx/v24y2024i1p138-151.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v24y2024i1p138 151</span><span class="citation-popover-snippet">The study found that ad hominem attacks, often with bias...</span></span></span>
+Research on organised attacks against climate scientists has identified recurring patterns. Analyses of climate-contrarian communication found that accusations of political bias, hidden agendas, corruption, or ideological motivation were among the most common forms of ad hominem criticism. These attacks focus less on scientific methods and more on alleged defects in the scientist’s character or motives. Researchers argue that such accusations are especially powerful because they directly target perceived credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/taf/tcpoxx/v24y2024i1p138-151.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v24y2024i1p138 151</span><span class="citation-popover-snippet">The study found that ad hominem attacks, often with bias...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/taf/tcpoxx/v24y2024i1p138-151.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v24y2024i1p138 151</span><span class="citation-popover-snippet">The study found that ad hominem attacks, often with bias...</span></span></span>
 
-The Barnes experiments similarly found that allegations concerning conflicts of interest had substantial influence on attitudes toward scientific claims. This suggests that attacks questioning independence or impartiality may be particularly effective because they connect directly to public concerns about trustworthiness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span>
+The Barnes experiments similarly found that allegations concerning conflicts of interest had substantial influence on attitudes toward scientific claims. This suggests that attacks questioning independence or impartiality may be particularly effective because they connect directly to public concerns about trustworthiness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span>
 
 Importantly, the effectiveness of these attacks does not necessarily mean they are justified. A genuine conflict of interest can be relevant evidence that deserves scrutiny. The fallacious move occurs when the accusation is treated as a substitute for evaluating the research itself rather than as a reason to examine it more carefully.
 
@@ -316,289 +316,289 @@ Importantly, the effectiveness of these attacks does not necessarily mean they a
 
 ## What science debates can do differently
 
-The research creates a challenge for communicators. Scientific institutions often assume that better evidence alone will overcome misinformation. Yet experiments show that attacks on scientists can alter beliefs even when evidence remains constant. Simply supplying more data may not fully address concerns that have become rooted in questions of trust and credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 55 — Results indicate that ad hominem attacks...</span></span></span>
+The research creates a challenge for communicators. Scientific institutions often assume that better evidence alone will overcome misinformation. Yet experiments show that attacks on scientists can alter beliefs even when evidence remains constant. Simply supplying more data may not fully address concerns that have become rooted in questions of trust and credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 55 — Results indicate that ad hominem attacks...</span></span></span>
 
 Several lessons emerge from the literature:
 
 * **Separate claims from personalities.** Communicators can encourage audiences to distinguish between evidence and personal allegations, asking whether criticism addresses the research itself.
 * **Increase transparency.** Open disclosure of funding sources, methods, and uncertainties can reduce the impact of later accusations that information is being hidden.
-* **Humanise scientists.** Research suggests that presenting scientists as relatable people rather than distant experts can reduce social distance and improve trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcom.sissa.it">[jcom.sissa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcom.sissa.it</span><span class="citation-popover-snippet">Changing attitudes toward scientists by reducing intergroup...by AL Beauchamp · 2022 · Cited by 1 — We experimentally examined how messa...</span></span></span>
+* **Humanise scientists.** Research suggests that presenting scientists as relatable people rather than distant experts can reduce social distance and improve trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcom.sissa.it">[jcom.sissa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcom.sissa.it</span><span class="citation-popover-snippet">Changing attitudes toward scientists by reducing intergroup...by AL Beauchamp · 2022 · Cited by 1 — We experimentally examined how messa...</span></span></span>
 * **Explain credibility without demanding blind trust.** Audiences benefit from understanding why expertise matters and how scientific institutions create checks on individual bias.
-* **Address attacks directly when necessary.** Ignoring credibility challenges may leave audiences with unanswered doubts. Responding with evidence, transparency, and [context]({{ 'context/' | relative_url }}) can prevent personal accusations from becoming the dominant frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Ad Hominem Arguments, Rhetoric, and Science...I argue that effective rhetorical tools involve ad hominem strategies, t...</span></span></span>
+* **Address attacks directly when necessary.** Ignoring credibility challenges may leave audiences with unanswered doubts. Responding with evidence, transparency, and [context]({{ 'context/' | relative_url }}) can prevent personal accusations from becoming the dominant frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Ad Hominem Arguments, Rhetoric, and Science...I argue that effective rhetorical tools involve ad hominem strategies, t...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-3-dark.svg" | relative_url }}" alt="Science Effects illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence means for understanding ad hominem fallacies
 
-Science communication research provides an unusually concrete demonstration of why ad hominem arguments matter. Laboratory and field studies show that personal attacks on scientists can measurably change attitudes toward scientific claims. The effect occurs because people often use judgments about credibility as a practical shortcut when evaluating complex information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Attacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</span></span></span>
+Science communication research provides an unusually concrete demonstration of why ad hominem arguments matter. Laboratory and field studies show that personal attacks on scientists can measurably change attitudes toward scientific claims. The effect occurs because people often use judgments about credibility as a practical shortcut when evaluating complex information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Attacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</span></span></span>
 
-This does not mean every discussion of a scientist’s conduct, expertise, or conflicts of interest is irrelevant. In science, credibility can be a legitimate consideration. The key distinction is whether personal information is used to inform evaluation of evidence or to replace it. The strongest finding from the research is that audiences frequently blur that boundary. When they do, attacks on scientists can shape belief even though the evidence itself has not changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Attacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</span></span></span>
+This does not mean every discussion of a scientist’s conduct, expertise, or conflicts of interest is irrelevant. In science, credibility can be a legitimate consideration. The key distinction is whether personal information is used to inform evaluation of evidence or to replace it. The strongest finding from the research is that audiences frequently blur that boundary. When they do, attacks on scientists can shape belief even though the evidence itself has not changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Attacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5xyi4oEHDJM" title="What is an Ad Hominem Attack?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5xyi4oEHDJM" target="_blank" rel="noopener noreferrer">What is an Ad Hominem Attack?</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon &middot; Views: 22.6K &middot; Uploaded: February 2024 &middot; Length: 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5xyi4oEHDJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5xyi4oEHDJM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can attacking a scientist change beliefs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can attacking a scientist change beliefs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Shows how evidence should outweigh attacks on messengers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how evidence should outweigh attacks on messengers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
-        </h4>
-        <p class="fr-book-author">By Tom Nichols</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
+</h4>
+<p class="fr-book-author">By Tom Nichols</p>
         
-        <p class="fr-book-desc">Examines how expert authority is challenged and judged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how expert authority is challenged and judged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Focuses on evaluating claims rather than personalities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating claims rather than personalities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains trust heuristics used in science debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains trust heuristics used in science debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1944 Electromagnetic Spectrum Chart Poster Physics Science Classroom Teacher Art"><img src="{{ '/assets/images/marketplace-covers/6ae5989d301c3cc4f1c3.jpg' | relative_url }}" alt="Listing image for 1944 Electromagnetic Spectrum Chart Poster Physics Science Classroom Teacher Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1944 Electromagnetic Spectrum Chart Poster Physics Science Classroom Teacher Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom poster">Search <span data-ebay-domain-label>eBay.com</span>: science classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1944 Electromagnetic Spectrum Chart Poster Physics Science Classroom Teacher Art"><img src="{{ '/assets/images/marketplace-covers/6ae5989d301c3cc4f1c3.jpg' | relative_url }}" alt="Listing image for 1944 Electromagnetic Spectrum Chart Poster Physics Science Classroom Teacher Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1944 Electromagnetic Spectrum Chart Poster Physics Science Classroom Teacher Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom poster">Search<span data-ebay-domain-label>eBay.com</span>: science classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW SCIENCE CLASSROOM CHEMISTRY POSTER - Periodic Table of the Elements"><img src="{{ '/assets/images/marketplace-covers/b120f013f0008b9d6534.jpg' | relative_url }}" alt="Listing image for NEW SCIENCE CLASSROOM CHEMISTRY POSTER - Periodic Table of the Elements" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">NEW SCIENCE CLASSROOM CHEMISTRY POSTER - Periodic Table of the Elements</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom poster">Search <span data-ebay-domain-label>eBay.com</span>: science classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW SCIENCE CLASSROOM CHEMISTRY POSTER - Periodic Table of the Elements"><img src="{{ '/assets/images/marketplace-covers/b120f013f0008b9d6534.jpg' | relative_url }}" alt="Listing image for NEW SCIENCE CLASSROOM CHEMISTRY POSTER - Periodic Table of the Elements" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">NEW SCIENCE CLASSROOM CHEMISTRY POSTER - Periodic Table of the Elements</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom poster">Search<span data-ebay-domain-label>eBay.com</span>: science classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12 Science Posters for Classroom, 11X14In Educational, Matte-Laminated - for Hal"><img src="{{ '/assets/images/marketplace-covers/f3d86df08db79eeee185.jpg' | relative_url }}" alt="Listing image for 12 Science Posters for Classroom, 11X14In Educational, Matte-Laminated - for Hal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12 Science Posters for Classroom, 11X14In Educational, Matte-Laminated - for Hal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom poster">Search <span data-ebay-domain-label>eBay.com</span>: science classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12 Science Posters for Classroom, 11X14In Educational, Matte-Laminated - for Hal"><img src="{{ '/assets/images/marketplace-covers/f3d86df08db79eeee185.jpg' | relative_url }}" alt="Listing image for 12 Science Posters for Classroom, 11X14In Educational, Matte-Laminated - for Hal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12 Science Posters for Classroom, 11X14In Educational, Matte-Laminated - for Hal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom poster">Search<span data-ebay-domain-label>eBay.com</span>: science classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Posters for Classroom Middle School - 16Pcs Educational Science Career A"><img src="{{ '/assets/images/marketplace-covers/22a046f8132aaf51e9d0.jpg' | relative_url }}" alt="Listing image for Science Posters for Classroom Middle School - 16Pcs Educational Science Career A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Science Posters for Classroom Middle School - 16Pcs Educational Science Career A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom poster">Search <span data-ebay-domain-label>eBay.com</span>: science classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Posters for Classroom Middle School - 16Pcs Educational Science Career A"><img src="{{ '/assets/images/marketplace-covers/22a046f8132aaf51e9d0.jpg' | relative_url }}" alt="Listing image for Science Posters for Classroom Middle School - 16Pcs Educational Science Career A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Science Posters for Classroom Middle School - 16Pcs Educational Science Career A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom poster">Search<span data-ebay-domain-label>eBay.com</span>: science classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-classroom-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="{{ '/assets/images/marketplace-covers/da90b012129e599c7ecd.jpg' | relative_url }}" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="{{ '/assets/images/marketplace-covers/da90b012129e599c7ecd.jpg' | relative_url }}" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 80s Movie Posters Wall Art Classic Vintage Film Cinema Picture Poster Prints"><img src="{{ '/assets/images/marketplace-covers/d88dc6bb036a7fcff3e3.jpg' | relative_url }}" alt="Listing image for 80s Movie Posters Wall Art Classic Vintage Film Cinema Picture Poster Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">80s Movie Posters Wall Art Classic Vintage Film Cinema Picture Poster Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 80s Movie Posters Wall Art Classic Vintage Film Cinema Picture Poster Prints"><img src="{{ '/assets/images/marketplace-covers/d88dc6bb036a7fcff3e3.jpg' | relative_url }}" alt="Listing image for 80s Movie Posters Wall Art Classic Vintage Film Cinema Picture Poster Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">80s Movie Posters Wall Art Classic Vintage Film Cinema Picture Poster Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=science-effects-can-attacking-a-scientist-change-beliefs-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ This does not mean every discussion of a scientist’s conduct, expertise, or co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ This does not mean every discussion of a scientist’s conduct, expertise, or co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ This does not mean every discussion of a scientist’s conduct, expertise, or co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ This does not mean every discussion of a scientist’s conduct, expertise, or co
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -754,111 +754,111 @@ This does not mean every discussion of a scientist’s conduct, expertise, or co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 55 — Results indicate that ad hominem attacks...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 55 — Results indicate that ad hominem attacks...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Attacking science on [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;): How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attacking science on [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;): How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ask-force.org  
    Title: Matthew C  
-   Link: <a href="https://www.ask-force.org/web/Discourse/Nisbet-What-Next-Science-Communication-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ask-force.org/web/Discourse/Nisbet-What-Next-Science-Communication-2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nisbet 2,4 and Dietram A. Scheufele 3by P DIRECTIONS · 2009 · Cited by 1561 — In this essay, we review research from the social sciences...</p></details>
+   Link:<a href="https://www.ask-force.org/web/Discourse/Nisbet-What-Next-Science-Communication-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ask-force.org/web/Discourse/Nisbet-What-Next-Science-Communication-2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nisbet 2,4 and Dietram A. Scheufele 3by P DIRECTIONS · 2009 · Cited by 1561 — In this essay, we review research from the social sciences...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jcom.sissa.it  
-   Link: <a href="https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/" target="_blank" rel="noopener noreferrer nofollow">https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Changing attitudes toward scientists by reducing intergroup...by AL Beauchamp · 2022 · Cited by 1 — We experimentally examined how messa...</p></details>
+   Link:<a href="https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/" target="_blank" rel="noopener noreferrer nofollow">https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Changing attitudes toward scientists by reducing intergroup...by AL Beauchamp · 2022 · Cited by 1 — We experimentally examined how messa...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ideas.repec.org  
    Title: v24y2024i1p138 151  
-   Link: <a href="https://ideas.repec.org/a/taf/tcpoxx/v24y2024i1p138-151.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/taf/tcpoxx/v24y2024i1p138-151.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The study found that ad hominem attacks, often with bias...</p></details>
+   Link:<a href="https://ideas.repec.org/a/taf/tcpoxx/v24y2024i1p138-151.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/taf/tcpoxx/v24y2024i1p138-151.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study found that ad hominem attacks, often with bias...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Ad Hominem Arguments, Rhetoric, and Science...I argue that effective rhetorical tools involve ad hominem strategies, t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Ad Hominem Arguments, Rhetoric, and Science...I argue that effective rhetorical tools involve ad hominem strategies, t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: A D HOMINEM ARGUMENTS, RHETORIC, AND SCIENCE  
-   Link: <a href="https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication/fulltext/5c0919bf4585157ac1ac725b/Ad-Hominem-Arguments-Rhetoric-and-Science-Communication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication/fulltext/5c0919bf4585157ac1ac725b/Ad-Hominem-Arguments-Rhetoric-and-Science-Communication.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In this paper, I contend that evidence-focused strategies of science communication may be complemented by possibly more effective rhetori...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication/fulltext/5c0919bf4585157ac1ac725b/Ad-Hominem-Arguments-Rhetoric-and-Science-Communication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication/fulltext/5c0919bf4585157ac1ac725b/Ad-Hominem-Arguments-Rhetoric-and-Science-Communication.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this paper, I contend that evidence-focused strategies of science communication may be complemented by possibly more effective rhetori...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: deymondlaplasa.com  
    Title: ad hominem  
-   Link: <a href="https://deymondlaplasa.com/claims/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://deymondlaplasa.com/claims/ad-hominem/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>attacks in scientific discussions are as effective at...9 Feb 2026 — “Ad hominem attacks in scientific discussions are as effective at u...</p></details>
+   Link:<a href="https://deymondlaplasa.com/claims/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://deymondlaplasa.com/claims/ad-hominem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attacks in scientific discussions are as effective at...9 Feb 2026 — “Ad hominem attacks in scientific discussions are as effective at u...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/33339443/Ad_Hominem_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33339443/Ad_Hominem_Argument</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ad Hominem ArgumentResearch indicates that ad hominem attacks, common in smear campaigns, distract from core issues and undermine t...</p></details>
+   Link:<a href="https://www.academia.edu/33339443/Ad_Hominem_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33339443/Ad_Hominem_Argument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ad Hominem ArgumentResearch indicates that ad hominem attacks, common in smear campaigns, distract from core issues and undermine t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: library.oapen.org  
-   Link: <a href="https://library.oapen.org/bitstream/20.500.12657/106159/1/9781040444658.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/20.500.12657/106159/1/9781040444658.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OAPEN LibraryScience Communication for ScientistsTrolls may question the credibility of scientists, institutions, or research findings, o...</p></details>
+   Link:<a href="https://library.oapen.org/bitstream/20.500.12657/106159/1/9781040444658.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/20.500.12657/106159/1/9781040444658.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OAPEN LibraryScience Communication for ScientistsTrolls may question the credibility of scientists, institutions, or research findings, o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blogs.lse.ac.uk  
-   Link: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2018/03/06/ad-hominem-attacks-on-scientists-are-just-as-likely-to-undermine-public-faith-in-research-as-legitimate-empirical-critiques/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/impactofsocialsciences/2018/03/06/ad-hominem-attacks-on-scientists-are-just-as-likely-to-undermine-public-faith-in-research-as-legitimate-empirical-critiques/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hominem attacks on scientists are just as likely to...6 Mar 2018 — Media coverage attacking the character and trustworthiness of a scien...</p></details>
+   Link:<a href="https://blogs.lse.ac.uk/impactofsocialsciences/2018/03/06/ad-hominem-attacks-on-scientists-are-just-as-likely-to-undermine-public-faith-in-research-as-legitimate-empirical-critiques/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/impactofsocialsciences/2018/03/06/ad-hominem-attacks-on-scientists-are-just-as-likely-to-undermine-public-faith-in-research-as-legitimate-empirical-critiques/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hominem attacks on scientists are just as likely to...6 Mar 2018 — Media coverage attacking the character and trustworthiness of a scien...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/lReGgOj4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lReGgOj4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effect of ad hominem attacks on the evaluation...Drawing primarily on archival materials from Biswell and the state government, this his...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/lReGgOj4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lReGgOj4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effect of ad hominem attacks on the evaluation...Drawing primarily on archival materials from Biswell and the state government, this his...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.fit.edu  
    Title: Besley Nisbet. 2013. How Scientists View Public Media Political Process  
-   Link: <a href="https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/messaging-climate-change/Besley--Nisbet.-2013.-How-Scientists-View-Public-Media--Political-Process..pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/messaging-climate-change/Besley--Nisbet.-2013.-How-Scientists-View-Public-Media--Political-Process..pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Understanding of Scienceby JC Besley · 2011 · Cited by 546 — We review past studies on how scientists view the public, the goals o...</p></details>
+   Link:<a href="https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/messaging-climate-change/Besley--Nisbet.-2013.-How-Scientists-View-Public-Media--Political-Process..pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/messaging-climate-change/Besley--Nisbet.-2013.-How-Scientists-View-Public-Media--Political-Process..pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Understanding of Scienceby JC Besley · 2011 · Cited by 546 — We review past studies on how scientists view the public, the goals o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: link.springer.com  
    Title: ad hominem argument is much more subtle than a direct personal attack  
-   Link: <a href="https://link.springer.com/article/10.1007/s13194-025-00707-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13194-025-00707-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hominem arguments in scientific discoursesby LP Schäfer · 2026 — To be sure, scientists are occasionally the targets of personal attacks...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s13194-025-00707-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13194-025-00707-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hominem arguments in scientific discoursesby LP Schäfer · 2026 — To be sure, scientists are occasionally the targets of personal attacks...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-effect-of-ad-hominem-attacks-on-the-evaluation-Barnes-Johnston/c9aab31b2448becf40104f6124cce5ac506e3d6b" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-effect-of-ad-hominem-attacks-on-the-evaluation-Barnes-Johnston/c9aab31b2448becf40104f6124cce5ac506e3d6b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s attacks on the empirical basis of the science claims, and that allegations of...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/The-effect-of-ad-hominem-attacks-on-the-evaluation-Barnes-Johnston/c9aab31b2448becf40104f6124cce5ac506e3d6b" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-effect-of-ad-hominem-attacks-on-the-evaluation-Barnes-Johnston/c9aab31b2448becf40104f6124cce5ac506e3d6b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s attacks on the empirical basis of the science claims, and that allegations of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: connectsci.au  
    Title: The defamatory potential of ad hominem criticism  
-   Link: <a href="https://connectsci.au/pc/article/25/1/92/37472/The-defamatory-potential-of-ad-hominem-criticism" target="_blank" rel="noopener noreferrer nofollow">https://connectsci.au/pc/article/25/1/92/37472/The-defamatory-potential-of-ad-hominem-criticism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Jan 2018 — Ad hominem criticism seeks to discredit an argument by attacking the qualities of the arguer, rather than the merits of the...</p></details>
+   Link:<a href="https://connectsci.au/pc/article/25/1/92/37472/The-defamatory-potential-of-ad-hominem-criticism" target="_blank" rel="noopener noreferrer nofollow">https://connectsci.au/pc/article/25/1/92/37472/The-defamatory-potential-of-ad-hominem-criticism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Jan 2018 — Ad hominem criticism seeks to discredit an argument by attacking the qualities of the arguer, rather than the merits of the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ically this term refers to a rhetorical strategy where the speaker attacks...</p></details>
+   Link:<a href="https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ically this term refers to a rhetorical strategy where the speaker attacks...</p></details>

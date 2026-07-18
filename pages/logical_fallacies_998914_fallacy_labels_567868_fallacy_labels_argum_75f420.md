@@ -268,14 +268,14 @@ image: /assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_lab
 
 ## Introduction
 
-[Fallacy labels]({{ 'labels/' | relative_url }}) are most useful when they function as editing tools rather than verbal weapons. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), people often treat labels such as *false dilemma*, *hasty generalisation*, or *begging the question* as a way to defeat an opponent. Yet the practical value of these labels lies elsewhere: they help identify weaknesses in reasoning and suggest specific revisions that can make an argument stronger. Research on argument pedagogy has repeatedly noted that students enjoy the quick sense of mastery that comes from naming fallacies, but that real argument evaluation becomes more productive when labels lead to deeper analysis rather than mere dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Fallacies overlap, ar- guments are amb...</span></span></span>
+[Fallacy labels]({{ 'labels/' | relative_url }}) are most useful when they function as editing tools rather than verbal weapons. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), people often treat labels such as *false dilemma*, *hasty generalisation*, or *begging the question* as a way to defeat an opponent. Yet the practical value of these labels lies elsewhere: they help identify weaknesses in reasoning and suggest specific revisions that can make an argument stronger. Research on argument pedagogy has repeatedly noted that students enjoy the quick sense of mastery that comes from naming fallacies, but that real argument evaluation becomes more productive when labels lead to deeper analysis rather than mere dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Fallacies overlap, ar- guments are amb...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-1-dark.svg" | relative_url }}" alt="Repair illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This perspective fits naturally with the broader lesson of the fallacy fallacy. Discovering a flaw in an argument does not prove the conclusion false. It shows that the support is inadequate. The next question should therefore be: *How can the support be improved?* A fallacy label is most valuable when it points directly to that question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span>
+This perspective fits naturally with the broader lesson of the fallacy fallacy. Discovering a flaw in an argument does not prove the conclusion false. It shows that the support is inadequate. The next question should therefore be: *How can the support be improved?* A fallacy label is most valuable when it points directly to that question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span>
 
 ## Turning Labels into Revision Questions
 
-Many writing guides describe fallacies as reasoning errors that weaken arguments. That description is helpful, but writers, editors, moderators, and teachers often need a practical next step. Instead of stopping at the label, they can convert it into a revision question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span>
+Many writing guides describe fallacies as reasoning errors that weaken arguments. That description is helpful, but writers, editors, moderators, and teachers often need a practical next step. Instead of stopping at the label, they can convert it into a revision question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span>
 
 Consider the difference between these responses:
 
@@ -288,13 +288,13 @@ A useful habit is to translate each fallacy label into a question about missing 
 
 Fallacy labelRevision questionHasty generalisationIs the evidence broad enough to support the conclusion?False dilemmaAre there additional options that have been ignored?Begging the questionWhat independent evidence supports the key claim?Straw manHave I represented the opposing view accurately?Appeal to authorityWhy should this authority be trusted in this specific area?
 
-This approach shifts the conversation from accusation to improvement. It also avoids a common problem identified by argumentation scholars: the tendency to use fallacy terminology primarily as a means of defeating others rather than understanding and evaluating claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/aad/9587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">OpenEdition JournalsThe Fallacy Guide: From the Critique of Fallacies to a...by N Ariel · 2025 — The “adversary method,” as Hundleby arg...</span></span></span>
+This approach shifts the conversation from accusation to improvement. It also avoids a common problem identified by argumentation scholars: the tendency to use fallacy terminology primarily as a means of defeating others rather than understanding and evaluating claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/aad/9587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">OpenEdition JournalsThe Fallacy Guide: From the Critique of Fallacies to a...by N Ariel · 2025 — The “adversary method,” as Hundleby arg...</span></span></span>
 
 ### Why Revision Questions Work Better
 
 Revision questions force attention onto evidence and reasoning rather than labels. A writer who receives the comment “[false dilemma]({{ 'false-dilemma/' | relative_url }})” may feel attacked or confused. A writer who receives the comment “What other plausible options exist?” immediately knows how to revise.
 
-This mirrors broader practices in critical thinking instruction, where evaluation is often paired with recommendations for strengthening an argument rather than merely identifying defects. Asking what evidence is missing, what alternatives exist, or what assumptions remain unsupported encourages the construction of better arguments instead of rewarding fault-finding alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.lumenlearning.com/suny-ccc-spch-1080-1/chapter/chapter-6-review-questions-and-activities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.lumenlearning.com">[Lumen Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.lumenlearning.com</span><span class="citation-popover-snippet">What are the sub-claims? What sorts of evidence or support are provided? Are there any fallacies present in the argument? If you were...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/289957007_Fallacies_and_argument_appraisal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Fallacies and Argument AppraisalThis volume analyzes major fallacies through accessible, everyday examples. Critical questions are develo...</span></span></span>
+This mirrors broader practices in critical thinking instruction, where evaluation is often paired with recommendations for strengthening an argument rather than merely identifying defects. Asking what evidence is missing, what alternatives exist, or what assumptions remain unsupported encourages the construction of better arguments instead of rewarding fault-finding alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.lumenlearning.com/suny-ccc-spch-1080-1/chapter/chapter-6-review-questions-and-activities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.lumenlearning.com">[Lumen Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.lumenlearning.com</span><span class="citation-popover-snippet">What are the sub-claims? What sorts of evidence or support are provided? Are there any fallacies present in the argument? If you were...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/289957007_Fallacies_and_argument_appraisal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Fallacies and Argument AppraisalThis volume analyzes major fallacies through accessible, everyday examples. Critical questions are develo...</span></span></span>
 
 ## False Dilemma, Hasty Generalisation, and Begging the Question
 
@@ -328,7 +328,7 @@ The repair question is straightforward:
 
 The writer might look for reliability studies, fleet data, consumer reports, or large surveys. The original anecdote can remain part of the discussion, but it no longer carries the entire burden of proof.
 
-This illustrates an important distinction: identifying a hasty generalisation does not require rejecting the conclusion. It requires strengthening the evidential support behind it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span>
+This illustrates an important distinction: identifying a hasty generalisation does not require rejecting the conclusion. It requires strengthening the evidential support behind it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span>
 
 ### Begging the Question: Find Independent Support
 
@@ -346,7 +346,7 @@ The repair question becomes:
 
 The writer may introduce performance measures, outcomes, comparative data, or expert evaluation. Once [independent support]({{ 'support-test/' | relative_url }}) appears, the [circularity]({{ 'circularity/' | relative_url }}) disappears.
 
-Among common fallacies, begging the question is especially suited to repair because the weakness often reflects an absent justification rather than an entirely mistaken conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aupress.ca/app/uploads/OER-202403_Dayton_Rodier_2024-Critical-Thinking-Logic-and-Argument-Answer-Key.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aupress.ca">[aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aupress.ca</span><span class="citation-popover-title">OER 202403 Dayton Rodier 2024 Critical Thinking Logic and Argument Answer Key</span><span class="citation-popover-snippet">Answer Key for Critical Thinking, Logic, and Argument (2024)January 17, 2024 — 19 Jan 2024 — Identify the following fallacies of evading...</span><span class="citation-popover-meta">Published: January 17, 2024</span></span></span>
+Among common fallacies, begging the question is especially suited to repair because the weakness often reflects an absent justification rather than an entirely mistaken conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aupress.ca/app/uploads/OER-202403_Dayton_Rodier_2024-Critical-Thinking-Logic-and-Argument-Answer-Key.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aupress.ca">[aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aupress.ca</span><span class="citation-popover-title">OER 202403 Dayton Rodier 2024 Critical Thinking Logic and Argument Answer Key</span><span class="citation-popover-snippet">Answer Key for Critical Thinking, Logic, and Argument (2024)January 17, 2024 — 19 Jan 2024 — Identify the following fallacies of evading...</span><span class="citation-popover-meta">Published: January 17, 2024</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-2-dark.svg" | relative_url }}" alt="Repair illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scope Labels for Weak, Moderate, and Strong Objections
@@ -399,12 +399,12 @@ Examples include:
 
 </div>
 
-Even here, however, the conclusion is not automatically false. The strongest interpretation remains that the argument has failed, not that reality has been settled. This distinction preserves the central lesson behind avoiding the fallacy fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</span></span></span>
+Even here, however, the conclusion is not automatically false. The strongest interpretation remains that the argument has failed, not that reality has been settled. This distinction preserves the central lesson behind avoiding the fallacy fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-3-dark.svg" | relative_url }}" alt="Repair illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Repair-Oriented Approach in Classrooms, Editing, and Moderation
 
-Educational researchers and argumentation scholars have criticised approaches that treat fallacy identification primarily as an adversarial game. When the goal becomes catching mistakes, participants may focus more on scoring points than on improving reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/3035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Popular textbook treatments of the fal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Fallacies overlap, ar- guments are amb...</span></span></span>
+Educational researchers and argumentation scholars have criticised approaches that treat fallacy identification primarily as an adversarial game. When the goal becomes catching mistakes, participants may focus more on scoring points than on improving reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/3035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Popular textbook treatments of the fal...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Fallacies overlap, ar- guments are amb...</span></span></span>
 
 A repair-oriented approach changes the incentives:
 
@@ -419,7 +419,7 @@ A repair-oriented approach changes the incentives:
 
 This method treats fallacies as indicators of where work remains to be done. The goal is not to collect labels but to improve reasoning quality.
 
-Interestingly, recent work on argument generation and evaluation in artificial intelligence has followed a similar path. Researchers have found that systems perform better when fallacy detection is paired with explanations, counterarguments, and revision-oriented reasoning rather than simple classification. The emphasis shifts from naming an error to understanding how the argument can be improved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.05039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Interestingly, recent work on argument generation and evaluation in artificial intelligence has followed a similar path. Researchers have found that systems perform better when fallacy detection is paired with explanations, counterarguments, and revision-oriented reasoning rather than simple classification. The emphasis shifts from naming an error to understanding how the argument can be improved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.05039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IawIjqOJBU8" title="Reading Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IawIjqOJBU8" target="_blank" rel="noopener noreferrer">Reading Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Mometrix Academy &middot; Views: 1.3M &middot; Uploaded: August 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IawIjqOJBU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IawIjqOJBU8">Open on YouTube</a></p></div></div></div>
 
@@ -430,194 +430,194 @@ The strongest use of a fallacy label is not “Gotcha.” It is “What would ma
 That question keeps attention on evidence, reasoning, and revision. It recognises that many arguments contain weaknesses without being worthless, and that identifying a flaw is often the beginning of analysis rather than the end of it. When fallacy labels become prompts for repair, they fulfil their most constructive role: helping people build arguments that are clearer, fairer, and better supported.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fallacy Labels Can Improve Arguments. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Fallacy Labels Can Improve Arguments. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Directly teaches how to identify weaknesses and revise arguments effectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches how to identify weaknesses and revise arguments effectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
-        </h4>
-        <p class="fr-book-author">By Jay Heinrichs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
+</h4>
+<p class="fr-book-author">By Jay Heinrichs</p>
         
-        <p class="fr-book-desc">Focuses on strengthening persuasion rather than merely spotting errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on strengthening persuasion rather than merely spotting errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Provides practical tools for revising and clarifying reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical tools for revising and clarifying reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Thinker&#x27;s Guide to Fallacies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IfmAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Thinker&#x27;s Guide to Fallacies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thinker&#x27;s Guide to Fallacies">The Thinker&#x27;s Guide to Fallacies</a>
-        </h4>
-        <p class="fr-book-author">By Richard Paul, Linda Elder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Thinker&#x27;s Guide to Fallacies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IfmAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Thinker&#x27;s Guide to Fallacies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thinker&#x27;s Guide to Fallacies">The Thinker&#x27;s Guide to Fallacies</a>
+</h4>
+<p class="fr-book-author">By Richard Paul, Linda Elder</p>
         
-        <p class="fr-book-desc">Specifically addresses fallacies as tools for evaluating and improving arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Specifically addresses fallacies as tools for evaluating and improving arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thank+You+for+Arguing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thank You for Arguing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thank+You+for+Arguing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thank You for Arguing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSw3w1p1~TM/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSw3w1p1~TM/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster"><img src="https://i.ebayimg.com/images/g/as0AAeSw3JRp0vdN/s-l225.jpg" alt="Listing image for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster"><img src="https://i.ebayimg.com/images/g/as0AAeSw3JRp0vdN/s-l225.jpg" alt="Listing image for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fallacy-labels-can-improve-arguments-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="how-fallacy-labels-can-improve-arguments-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ That question keeps attention on evidence, reasoning, and revision. It recognise
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ That question keeps attention on evidence, reasoning, and revision. It recognise
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ That question keeps attention on evidence, reasoning, and revision. It recognise
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ That question keeps attention on evidence, reasoning, and revision. It recognise
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -782,7 +782,7 @@ That question keeps attention on evidence, reasoning, and revision. It recognise
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,160 +823,160 @@ That question keeps attention on evidence, reasoning, and revision. It recognise
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/3035/2419</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Fallacies overlap, ar- guments are amb...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/3035/2419</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Fallacies overlap, ar- guments are amb...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/3035" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3035</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Popular textbook treatments of the fal...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/3035" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Popular textbook treatments of the fal...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacie...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacie...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: owl.purdue.edu  
    Title: OWLLogic in Argumentative Writing  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogic in Argumentative Writing - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacie...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogic in Argumentative Writing - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacie...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.openedition.org  
-   Link: <a href="https://journals.openedition.org/aad/9587" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/aad/9587</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenEdition JournalsThe Fallacy Guide: From the Critique of Fallacies to a...by N Ariel · 2025 — The “adversary method,” as Hundleby arg...</p></details>
+   Link:<a href="https://journals.openedition.org/aad/9587" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/aad/9587</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenEdition JournalsThe Fallacy Guide: From the Critique of Fallacies to a...by N Ariel · 2025 — The “adversary method,” as Hundleby arg...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/289957007_Fallacies_and_argument_appraisal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289957007_Fallacies_and_argument_appraisal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies and Argument AppraisalThis volume analyzes major fallacies through accessible, everyday examples. Critical questions are develo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/289957007_Fallacies_and_argument_appraisal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289957007_Fallacies_and_argument_appraisal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies and Argument AppraisalThis volume analyzes major fallacies through accessible, everyday examples. Critical questions are develo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2302.05039" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.05039</a>  
+   Link:<a href="https://arxiv.org/abs/2302.05039" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.05039</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aupress.ca  
    Title: OER 202403 Dayton Rodier 2024 Critical Thinking Logic and Argument Answer Key  
-   Link: <a href="https://www.aupress.ca/app/uploads/OER-202403_Dayton_Rodier_2024-Critical-Thinking-Logic-and-Argument-Answer-Key.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aupress.ca/app/uploads/OER-202403_Dayton_Rodier_2024-Critical-Thinking-Logic-and-Argument-Answer-Key.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answer Key for Critical Thinking, Logic, and Argument (2024)January 17, 2024 — 19 Jan 2024 — Identify the following fallacies of evading...</p></details>
+   Link:<a href="https://www.aupress.ca/app/uploads/OER-202403_Dayton_Rodier_2024-Critical-Thinking-Logic-and-Argument-Answer-Key.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aupress.ca/app/uploads/OER-202403_Dayton_Rodier_2024-Critical-Thinking-Logic-and-Argument-Answer-Key.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answer Key for Critical Thinking, Logic, and Argument (2024)January 17, 2024 — 19 Jan 2024 — Identify the following fallacies of evading...</p></details>
    Published: January 17, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: owl.excelsior.edu  
    Title: OWLStraw Man Fallacy  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv A Logical Fallacy-Informed Framework for Argument Generation  
-   Link: <a href="https://arxiv.org/abs/2408.03618" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.03618</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Logical Fallacy-Informed Framework for Argument GenerationAugust 7, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2408.03618" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.03618</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Logical Fallacy-Informed Framework for Argument GenerationAugust 7, 2024...</p></details>
    Published: August 7, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.23363" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.23363</a>  
+   Link:<a href="https://arxiv.org/abs/2503.23363" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.23363</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: owl.purdue.edu  
    Title: rhetorical strategies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These are some common errors in reasoning that will undermine the logic of your argument. Also, watch out for these slips in other...Rea...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These are some common errors in reasoning that will undermine the logic of your argument. Also, watch out for these slips in other...Rea...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: owl.purdue.edu  
    Title: using logic  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: owl.purdue.edu  
    Title: does logic always work  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/does_logic_always_work.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/does_logic_always_work.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic Always Work? - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/does_logic_always_work.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/does_logic_always_work.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic Always Work? - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: owl.purdue.edu  
    Title: logic in writing  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based reasoning...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based reasoning...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribbr.com  
    Title: logical fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/logical-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies | Definition, Types, List &amp; Examples20 Apr 2023 — A logical fallacy is an argument that may sound convincing or true bu...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/logical-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies | Definition, Types, List &amp; Examples20 Apr 2023 — A logical fallacy is an argument that may sound convincing or true bu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: courses.lumenlearning.com  
-   Link: <a href="https://courses.lumenlearning.com/suny-ccc-spch-1080-1/chapter/chapter-6-review-questions-and-activities/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-ccc-spch-1080-1/chapter/chapter-6-review-questions-and-activities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the sub-claims? What sorts of evidence or support are provided? Are there any fallacies present in the argument? If you were...</p></details>
+   Link:<a href="https://courses.lumenlearning.com/suny-ccc-spch-1080-1/chapter/chapter-6-review-questions-and-activities/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-ccc-spch-1080-1/chapter/chapter-6-review-questions-and-activities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the sub-claims? What sorts of evidence or support are provided? Are there any fallacies present in the argument? If you were...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: studocu.com  
    Title: Understanding Logical Fallacies  
-   Link: <a href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL® ResourcesExplore common logical fallacies in argumentative writing, including definitions and examples to enhance your critic...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL® ResourcesExplore common logical fallacies in argumentative writing, including definitions and examples to enhance your critic...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2024/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2024/entries/feminism-argumentation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy labels and how they teach argument in critical thinking courses.... The Fallacies Approach to Argument Evaluation; 6... Moira H...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2024/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2024/entries/feminism-argumentation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy labels and how they teach argument in critical thinking courses.... The Fallacies Approach to Argument Evaluation; 6... Moira H...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: purdueglobalwriting.center  
-   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Support an Argument and Avoid Logical FallaciesFor more examples of logical fallacies used in argument, refer to the Purdue Global...</p></details>
+   Link:<a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Support an Argument and Avoid Logical FallaciesFor more examples of logical fallacies used in argument, refer to the Purdue Global...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: guidetogrammar.org  
-   Link: <a href="https://guidetogrammar.org/grammar/composition/logic.htm" target="_blank" rel="noopener noreferrer nofollow">https://guidetogrammar.org/grammar/composition/logic.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic in Argumentative WritingA fallacy is an error of reasoning. It can be used against you in an argument, but if you are familiar with...</p></details>
+   Link:<a href="https://guidetogrammar.org/grammar/composition/logic.htm" target="_blank" rel="noopener noreferrer nofollow">https://guidetogrammar.org/grammar/composition/logic.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic in Argumentative WritingA fallacy is an error of reasoning. It can be used against you in an argument, but if you are familiar with...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: core.ac.uk  
    Title: Androcentrism as a fallacy of argumentationby C Hundleby · Cited by 10 —  
-   Link: <a href="https://core.ac.uk/download/pdf/72769656.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/72769656.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT: The deep operation of androcentrism in scientific argumentation demands recognition as a form of fallacy.Read more...</p></details>
+   Link:<a href="https://core.ac.uk/download/pdf/72769656.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/72769656.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT: The deep operation of androcentrism in scientific argumentation demands recognition as a form of fallacy.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: kaf1.org  
-   Link: <a href="https://kaf1.org/wp-content/uploads/2022/10/Common-fallacies-Logical-and-Critical-Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kaf1.org/wp-content/uploads/2022/10/Common-fallacies-Logical-and-Critical-Thinking.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The defects or fallacies presented here tend to be more straightforward than...Read more...</p></details>
+   Link:<a href="https://kaf1.org/wp-content/uploads/2022/10/Common-fallacies-Logical-and-Critical-Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kaf1.org/wp-content/uploads/2022/10/Common-fallacies-Logical-and-Critical-Thinking.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The defects or fallacies presented here tend to be more straightforward than...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: deanramser.com  
    Title: Welcome to the Purdue OWL Logic in Argumentative Writing  
-   Link: <a href="https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: This resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based reasoning...</p></details>
+   Link:<a href="https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: This resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based reasoning...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: quizlet.com  
    Title: Critical Thinking Ch 5: Logical Fallacies of Relevance1  
-   Link: <a href="https://quizlet.com/159981342/critical-thinking-ch-5-logical-fallacies-of-[relevance" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/159981342/critical-thinking-ch-5-logical-fallacies-of-[relevance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Personal Attack (Ad Hominem) · 2. Attacking the Motives · 3. Look Who&#x27;s Talking (Tu Quoque) · 4. Two Wrongs Make a Right · 5. Scare Tacti...</p></details>
+   Link:<a href="https://quizlet.com/159981342/critical-thinking-ch-5-logical-fallacies-of-[relevance" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/159981342/critical-thinking-ch-5-logical-fallacies-of-[relevance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Personal Attack (Ad Hominem) · 2. Attacking the Motives · 3. Look Who&#x27;s Talking (Tu Quoque) · 4. Two Wrongs Make a Right · 5. Scare Tacti...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: quizlet.com  
    Title: Logical Fallacies (Purdue OWL) Flashcards Fallacies  
-   Link: <a href="https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common errors in reasoning that will undermine the logic of your argument. · Slippery Slope · Hasty Generalization · Post hoc ergo proper...</p></details>
+   Link:<a href="https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common errors in reasoning that will undermine the logic of your argument. · Slippery Slope · Hasty Generalization · Post hoc ergo proper...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: studocu.com  
    Title: Enhance your understanding of reasoning skills  
-   Link: <a href="https://www.studocu.com/row/document/meru-university-of-science-and-technology/education/critical-thinking-revision-questions-barriers-logic-and-fallacies/152480764" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/document/meru-university-of-science-and-technology/education/critical-thinking-revision-questions-barriers-logic-and-fallacies/152480764</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking Revision Questions: Barriers, Logic, and...Explore critical thinking barriers, benefits, and logic distinctions in thi...</p></details>
+   Link:<a href="https://www.studocu.com/row/document/meru-university-of-science-and-technology/education/critical-thinking-revision-questions-barriers-logic-and-fallacies/152480764" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/document/meru-university-of-science-and-technology/education/critical-thinking-revision-questions-barriers-logic-and-fallacies/152480764</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking Revision Questions: Barriers, Logic, and...Explore critical thinking barriers, benefits, and logic distinctions in thi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ameet/5-questions-to-improve-your-critical-thinking-skills-part-1-283cf3d1506c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ameet/5-questions-to-improve-your-critical-thinking-skills-part-1-283cf3d1506c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ask in order to exercise our critical thinking skills.Read more...</p></details>
+   Link:<a href="https://medium.com/%40ameet/5-questions-to-improve-your-critical-thinking-skills-part-1-283cf3d1506c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ameet/5-questions-to-improve-your-critical-thinking-skills-part-1-283cf3d1506c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ask in order to exercise our critical thinking skills.Read more...</p></details>

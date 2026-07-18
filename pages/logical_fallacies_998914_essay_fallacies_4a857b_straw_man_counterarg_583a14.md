@@ -268,21 +268,21 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_
 
 ## Introduction
 
-A counterargument strengthens an academic essay only when it engages with an opposing view as that view would actually be presented by a reasonable critic. A straw man counterargument occurs when a writer replaces a real objection with a weaker, simplified, exaggerated or distorted version and then refutes that substitute instead of the genuine argument. Writing centres and logic guides consistently identify this as a major reasoning error because it creates the appearance of rebuttal without addressing the strongest evidence on the other side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</span></span></span> 2scribbr.com
+A counterargument strengthens an academic essay only when it engages with an opposing view as that view would actually be presented by a reasonable critic. A straw man counterargument occurs when a writer replaces a real objection with a weaker, simplified, exaggerated or distorted version and then refutes that substitute instead of the genuine argument. Writing centres and logic guides consistently identify this as a major reasoning error because it creates the appearance of rebuttal without addressing the strongest evidence on the other side.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</span></span></span> 2scribbr.com
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-dark.svg" | relative_url }}" alt="Straw Men illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In academic writing, the problem is not merely unfairness. A straw man signals that the writer may not fully understand the [debate]({{ 'debate/' | relative_url }}), the sources, or the competing interpretations surrounding the topic. As a result, the rebuttal often fails to persuade informed readers, who can see that the real objection remains unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
+In academic writing, the problem is not merely unfairness. A straw man signals that the writer may not fully understand the [debate]({{ 'debate/' | relative_url }}), the sources, or the competing interpretations surrounding the topic. As a result, the rebuttal often fails to persuade informed readers, who can see that the real objection remains unanswered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
 ## How Straw Man Reasoning Appears in Essay Counterarguments
 
-Counterargument sections are designed to show that a writer has considered alternative viewpoints before defending a position. The goal is not to defeat the weakest possible opposition but to address the strongest reasonable challenge to the thesis. Harvard's writing guidance notes that counterarguments should reflect objections that readers could reasonably raise against the writer's claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
+Counterargument sections are designed to show that a writer has considered alternative viewpoints before defending a position. The goal is not to defeat the weakest possible opposition but to address the strongest reasonable challenge to the thesis. Harvard's writing guidance notes that counterarguments should reflect objections that readers could reasonably raise against the writer's claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
 A straw man often appears in one of four ways:
 
 * **Oversimplification:** Reducing a nuanced opposing position to a single extreme claim.
 * **[Exaggeration]({{ 'exaggeration/' | relative_url }}):** Taking a limited argument and presenting it as a much broader or more radical position.
 * **Fabrication:** Responding to claims that opponents never actually made.
-* **Selective quotation or paraphrase:** Removing [context]({{ 'context/' | relative_url }}) so that the opposing view appears weaker than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">straw man fallacy</span><span class="citation-popover-snippet">What Is Straw Man Fallacy? &#124; Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</span></span></span>
+* **Selective quotation or paraphrase:** Removing [context]({{ 'context/' | relative_url }}) so that the opposing view appears weaker than it really is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">straw man fallacy</span><span class="citation-popover-snippet">What Is Straw Man Fallacy? &#124; Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</span></span></span>
 
 Consider an essay arguing that universities should expand online learning options.
 
@@ -298,7 +298,7 @@ The second statement is easier to dismiss, but it does not represent the actual 
 
 ## Why Straw Men Weaken Academic Credibility
 
-Many students assume that the purpose of a counterargument paragraph is to make the opposing side look wrong. Academic readers usually expect something different: evidence that the writer understands competing interpretations and can evaluate them fairly. Writing-centre guidance repeatedly emphasises that argument involves engaging with alternative viewpoints rather than ignoring or caricaturing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[2writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
+Many students assume that the purpose of a counterargument paragraph is to make the opposing side look wrong. Academic readers usually expect something different: evidence that the writer understands competing interpretations and can evaluate them fairly. Writing-centre guidance repeatedly emphasises that argument involves engaging with alternative viewpoints rather than ignoring or caricaturing them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[2writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
 A straw man damages credibility in several ways:
 
@@ -314,9 +314,9 @@ Even if the rebuttal succeeds against the distorted version, the original object
 
 Academic argument relies on intellectual fairness. Readers are more likely to trust writers who represent opposing evidence accurately before responding.
 
-**It weakens critical thinking.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Straw Man Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</span></span></span>
+**It weakens critical thinking.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Straw Man Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</span></span></span>
 
-Counterarguments are intended to test the strength of a thesis. Replacing a strong objection with a weak one removes that test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haverford.edu">[Haverford College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haverford.edu</span><span class="citation-popover-snippet">Haverford CollegeAVOIDING COMMON ERRORS IN LOGIC AND REASONINGJanuary 21, 2005 — By suppressing her knowledge of a possible counter-argum...</span><span class="citation-popover-meta">Published: January 21, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
+Counterarguments are intended to test the strength of a thesis. Replacing a strong objection with a weak one removes that test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haverford.edu">[Haverford College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haverford.edu</span><span class="citation-popover-snippet">Haverford CollegeAVOIDING COMMON ERRORS IN LOGIC AND REASONINGJanuary 21, 2005 — By suppressing her knowledge of a possible counter-argum...</span><span class="citation-popover-meta">Published: January 21, 2005</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfil34ayaEU" title="CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 967.4K &middot; Uploaded: April 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfil34ayaEU">Open on YouTube</a></p></div></div></div>
 
@@ -363,7 +363,7 @@ When responding to scholarly sources, summarise the author's position before cha
 
 ### Separate disagreement from misrepresentation
 
-A fair representation can still lead to a strong rebuttal. Academic writing does not require agreement with the opposing view; it requires accurate description before criticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another person&#x27;s argument, and...</span></span></span>
+A fair representation can still lead to a strong rebuttal. Academic writing does not require agreement with the opposing view; it requires accurate description before criticism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another person&#x27;s argument, and...</span></span></span>
 
 ## Revision Examples for Stronger Rebuttal Paragraphs
 
@@ -426,272 +426,272 @@ Before finalising a counterargument paragraph, apply three questions:
 
 If the answer to any question is no, the paragraph may contain straw man reasoning.
 
-In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargument does not prove strength by making the opposition look absurd. It proves strength by engaging honestly with a credible objection and then showing, through evidence and analysis, why the thesis remains persuasive despite that challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</span></span></span>
+In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargument does not prove strength by making the opposition look absurd. It proves strength by engaging honestly with a credible objection and then showing, through evidence and analysis, why the thesis remains persuasive despite that challenge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are You Answering the Real Objection?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are You Answering the Real Objection?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Emphasizes fair representation of opposing views.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes fair representation of opposing views.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
-        </h4>
-        <p class="fr-book-author">By Jay Heinrichs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
+</h4>
+<p class="fr-book-author">By Jay Heinrichs</p>
         
-        <p class="fr-book-desc">Discusses persuasion, rebuttal, and argumentative tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses persuasion, rebuttal, and argumentative tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Teaches evaluation of opposing arguments fairly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evaluation of opposing arguments fairly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Explains common reasoning mistakes including distortions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common reasoning mistakes including distortions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thank+You+for+Arguing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thank You for Arguing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thank+You+for+Arguing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thank You for Arguing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-are-you-answering-the-real-objection-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -707,7 +707,7 @@ In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -727,7 +727,7 @@ In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -759,7 +759,7 @@ In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -789,7 +789,7 @@ In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargu
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -847,146 +847,146 @@ In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: straw man fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: owl.excelsior.edu  
    Title: OWLStraw Man Fallacy  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another person&#x27;s argument, and...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another person&#x27;s argument, and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: writingcenter.fas.harvard.edu  
-   Link: <a href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.fas.harvard.edu/counterargument</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</p></details>
+   Link:<a href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.fas.harvard.edu/counterargument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: haverford.edu  
-   Link: <a href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Haverford CollegeAVOIDING COMMON ERRORS IN LOGIC AND REASONINGJanuary 21, 2005 — By suppressing her knowledge of a possible counter-argum...</p></details>
+   Link:<a href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haverford CollegeAVOIDING COMMON ERRORS IN LOGIC AND REASONINGJanuary 21, 2005 — By suppressing her knowledge of a possible counter-argum...</p></details>
    Published: January 21, 2005  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribbr.com  
-   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, a seemingly solid but ultimately...Read more...</p></details>
+   Link:<a href="https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, a seemingly solid but ultimately...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: web.ics.purdue.edu  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: <a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a flaw in reasoning. Strong arguments are void of logical fallacies...Read more...</p></details>
+   Link:<a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a flaw in reasoning. Strong arguments are void of logical fallacies...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Argumentative Writing - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other typ...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Argumentative Writing - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other typ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: yourlogicalfallacyis.com  
    Title: Thou shalt not commit logical fallacies A logical fallacy is a flaw in reasoning  
-   Link: <a href="https://yourlogicalfallacyis.com/" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallacies are like tricks or illusions of thought, and they&#x27;re often very sneakily used by politicians and...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallacies are like tricks or illusions of thought, and they&#x27;re often very sneakily used by politicians and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: <a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfil34ayaEU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counterarguments, Concessions, and Refutations in Persuasive Essays...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfil34ayaEU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counterarguments, Concessions, and Refutations in Persuasive Essays...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: writingcenter.gmu.edu  
    Title: The Writing Center All About Counterarguments | General  
-   Link: <a href="https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterA counterargument is an argument that goes against your thesis and that expresses the perspective of someone with an op...</p></details>
+   Link:<a href="https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterA counterargument is an argument that goes against your thesis and that expresses the perspective of someone with an op...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterThis handout discusses common logical fallacies that you may encounter in your own writin...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterThis handout discusses common logical fallacies that you may encounter in your own writin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Argument  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw Man13 May 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thro...</p></details>
+   Link:<a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw Man13 May 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thro...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: purdueglobalwriting.center  
-   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
+   Link:<a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philosocom.com  
    Title: how the strawman s fallacy correlates with objective importance  
-   Link: <a href="https://www.philosocom.com/post/how-the-strawman-s-fallacy-correlates-with-objective-importance" target="_blank" rel="noopener noreferrer nofollow">https://www.philosocom.com/post/how-the-strawman-s-fallacy-correlates-with-objective-importance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How The Strawman&#x27;s Fallacy Correlates With Objective...Jun 6, 2023 — The Strawman&#x27;s Fallacy is a common logical fallacy that happens whe...</p></details>
+   Link:<a href="https://www.philosocom.com/post/how-the-strawman-s-fallacy-correlates-with-objective-importance" target="_blank" rel="noopener noreferrer nofollow">https://www.philosocom.com/post/how-the-strawman-s-fallacy-correlates-with-objective-importance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How The Strawman&#x27;s Fallacy Correlates With Objective...Jun 6, 2023 — The Strawman&#x27;s Fallacy is a common logical fallacy that happens whe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Logical Fallacies - Purdue OWL® ResourcesStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Logical Fallacies - Purdue OWL® ResourcesStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fire.org  
-   Link: <a href="https://www.fire.org/sites/default/files/2025/03/LetsTalk_Think-Clearly-Speak-Clearly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fire.org/sites/default/files/2025/03/LetsTalk_Think-Clearly-Speak-Clearly.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think Clearly, Speak Clearly: Avoiding Logical FallaciesThe two issues may be related, but one does not discount the importance of the other...</p></details>
+   Link:<a href="https://www.fire.org/sites/default/files/2025/03/LetsTalk_Think-Clearly-Speak-Clearly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fire.org/sites/default/files/2025/03/LetsTalk_Think-Clearly-Speak-Clearly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think Clearly, Speak Clearly: Avoiding Logical FallaciesThe two issues may be related, but one does not discount the importance of the other...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: deanramser.com  
-   Link: <a href="https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Purdue OWL Logic in Argumentative WritingStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow arg...</p></details>
+   Link:<a href="https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Purdue OWL Logic in Argumentative WritingStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow arg...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: markmanson.net  
    Title: 8 Logical Fallacies That Mess Us All Up1  
-   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Is Not Causation · 2. [Slippery Slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy · 3. False Dichotomies · 4. Begging the Question · 5. Red Herrings · 6. Appeals...</p></details>
+   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Is Not Causation · 2. [Slippery Slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy · 3. False Dichotomies · 4. Begging the Question · 5. Red Herrings · 6. Appeals...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: purchase.edu  
    Title: 4362 logical fallacies fall 2022docx  
-   Link: <a href="https://www.purchase.edu/live/files/4362-logical-fallacies-fall-2022docx" target="_blank" rel="noopener noreferrer nofollow">https://www.purchase.edu/live/files/4362-logical-fallacies-fall-2022docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical-Fallacies Fall 2022.docxStraw Man: oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument. People who don&#x27;t...</p></details>
+   Link:<a href="https://www.purchase.edu/live/files/4362-logical-fallacies-fall-2022docx" target="_blank" rel="noopener noreferrer nofollow">https://www.purchase.edu/live/files/4362-logical-fallacies-fall-2022docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical-Fallacies Fall 2022.docxStraw Man: oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument. People who don&#x27;t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hazard.kctcs.libguides.com  
    Title: Making an Argument Logical Fallacies  
-   Link: <a href="https://hazard.kctcs.libguides.com/blog/Making-an-Argument-Logical-Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://hazard.kctcs.libguides.com/blog/Making-an-Argument-Logical-Fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an Argument: Logical Fallacies6 Nov 2023 — Straw Man-When A is misrepresented as B. Learn more about... Logical Fallacies from Purdue OW...</p></details>
+   Link:<a href="https://hazard.kctcs.libguides.com/blog/Making-an-Argument-Logical-Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://hazard.kctcs.libguides.com/blog/Making-an-Argument-Logical-Fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an Argument: Logical Fallacies6 Nov 2023 — Straw Man-When A is misrepresented as B. Learn more about... Logical Fallacies from Purdue OW...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: bls.org  
    Title: Harvard Writing Center packet.doc  
-   Link: <a href="https://www.bls.org/ourpages/auto/2013/5/24/41631204/Harvard%20Writing%20Center%20packet.doc?rnd=1369416499623" target="_blank" rel="noopener noreferrer nofollow">https://www.bls.org/ourpages/auto/2013/5/24/41631204/Harvard%20Writing%20Center%20packet.doc?rnd=1369416499623</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Do a Close Reading24 May 2013 — You should also become familiar with the various fallacies that can undermine an argument—the &quot;str...</p></details>
+   Link:<a href="https://www.bls.org/ourpages/auto/2013/5/24/41631204/Harvard%20Writing%20Center%20packet.doc?rnd=1369416499623" target="_blank" rel="noopener noreferrer nofollow">https://www.bls.org/ourpages/auto/2013/5/24/41631204/Harvard%20Writing%20Center%20packet.doc?rnd=1369416499623</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Do a Close Reading24 May 2013 — You should also become familiar with the various fallacies that can undermine an argument—the &quot;str...</p></details>
    Published: May 2013  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: psychologycorner.com  
    Title: What is The Straw Man Fallacy?  
-   Link: <a href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</p></details>
+   Link:<a href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</p></details>

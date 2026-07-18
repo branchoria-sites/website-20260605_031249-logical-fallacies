@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_whataboutism_def
 
 ## Introduction
 
-Whataboutism is one of the most recognisable forms of [tu quoque]({{ 'tu-quoque/' | relative_url }}) reasoning in public debate. Instead of answering a criticism, the target responds with a counteraccusation: “What about your side?” or “What about this other case?” The move can sometimes expose genuine [double standards]({{ 'double-standards/' | relative_url }}), but it often functions as a deflection. Rather than addressing whether the original charge is true, justified, or supported by evidence, the discussion shifts to the critic’s consistency, motives, or past behaviour. As a result, the audience’s attention moves away from the issue under examination and towards a new dispute. Logical analyses generally treat this pattern as a variant of tu quoque because it attempts to blunt criticism through allegations of hypocrisy rather than by directly answering the criticism itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Whataboutism &#124; Definition, Examples, Etymology, Logical</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhataboutism &#124; Definition, Examples, Etymology, Logical...May 13, 2026 — Whataboutism, the rhetorical practice of...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span>
+Whataboutism is one of the most recognisable forms of [tu quoque]({{ 'tu-quoque/' | relative_url }}) reasoning in public debate. Instead of answering a criticism, the target responds with a counteraccusation: “What about your side?” or “What about this other case?” The move can sometimes expose genuine [double standards]({{ 'double-standards/' | relative_url }}), but it often functions as a deflection. Rather than addressing whether the original charge is true, justified, or supported by evidence, the discussion shifts to the critic’s consistency, motives, or past behaviour. As a result, the audience’s attention moves away from the issue under examination and towards a new dispute. Logical analyses generally treat this pattern as a variant of tu quoque because it attempts to blunt criticism through allegations of hypocrisy rather than by directly answering the criticism itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Whataboutism &#124; Definition, Examples, Etymology, Logical</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhataboutism &#124; Definition, Examples, Etymology, Logical...May 13, 2026 — Whataboutism, the rhetorical practice of...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_whataboutism_deflect_361b8d-Illustration-1-dark.svg" | relative_url }}" alt="Whataboutism illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_whataboutism_deflect_361b8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_whataboutism_deflect_361b8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In public arguments, the challenge is not merely identifying whataboutism but distinguishing between a relevant comparison and a diversion. The difference determines whether the exchange clarifies the issue or obscures it.
@@ -288,11 +288,11 @@ A typical pattern looks like this:
 
 </div>
 
-The rhetorical power of the move comes from its emotional appeal. People dislike hypocrisy and often view inconsistent criticism as unfair. By highlighting an opponent’s inconsistency, the accused can make the audience feel that the critic lacks moral standing. Yet even if the critic is inconsistent, the original accusation may still be correct. The truth of a claim does not automatically depend on the character of the person making it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesTu Quoque. The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone&#x27;s arg...</span></span></span>
+The rhetorical power of the move comes from its emotional appeal. People dislike hypocrisy and often view inconsistent criticism as unfair. By highlighting an opponent’s inconsistency, the accused can make the audience feel that the critic lacks moral standing. Yet even if the critic is inconsistent, the original accusation may still be correct. The truth of a claim does not automatically depend on the character of the person making it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesTu Quoque. The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone&#x27;s arg...</span></span></span>
 
 Consider a public official accused of misusing public funds. A whataboutist reply might be: “What about the opposition party’s spending scandal?” The comparison may be factually accurate. However, it does not answer whether the official misused funds. The conversation has shifted from evaluating one allegation to comparing competing allegations.
 
-This is why many descriptions of whataboutism emphasise deflection. The issue under discussion is displaced by a different issue, often one that is politically advantageous to the speaker. FinMasters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Whataboutism &#124; Definition, Examples, Etymology, Logical</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhataboutism &#124; Definition, Examples, Etymology, Logical...May 13, 2026 — Whataboutism, the rhetorical practice of...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merriam-webster.com/wordplay/whataboutism-origin-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merriam-webster.com">[Merriam-Webster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merriam-webster.com</span><span class="citation-popover-snippet">n from one&#x27;s own deeds...</span></span></span>
+This is why many descriptions of whataboutism emphasise deflection. The issue under discussion is displaced by a different issue, often one that is politically advantageous to the speaker. FinMasters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Whataboutism &#124; Definition, Examples, Etymology, Logical</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhataboutism &#124; Definition, Examples, Etymology, Logical...May 13, 2026 — Whataboutism, the rhetorical practice of...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merriam-webster.com/wordplay/whataboutism-origin-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merriam-webster.com">[Merriam-Webster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merriam-webster.com</span><span class="citation-popover-snippet">n from one&#x27;s own deeds...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6vrhIvQuwZc" title="STAR TREK Logical Thinking #48 - Whataboutism (Tu Quoque)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6vrhIvQuwZc" target="_blank" rel="noopener noreferrer">STAR TREK Logical Thinking #48 - Whataboutism (Tu Quoque)</a></p><p class="youtube-embed-meta">Channel: CHDanhauser &middot; Views: 5.9K &middot; Uploaded: December 2022 &middot; Length: 3 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6vrhIvQuwZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6vrhIvQuwZc">Open on YouTube</a></p></div></div></div>
 
@@ -309,14 +309,14 @@ The difficulty is that two separate questions become tangled together:
 
 A whataboutist response often encourages the audience to answer the second question by focusing on the first. Once attention shifts to fairness, the original claim can disappear from view entirely.
 
-This dynamic is especially common in political disputes, where public attention is limited and narratives compete for dominance. The strategic value of whataboutism lies less in disproving an accusation than in preventing sustained scrutiny of it. Researchers studying public discourse and online communication frequently describe whataboutism as a narrative-disrupting or attention-diverting tactic because it changes the frame of discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
+This dynamic is especially common in political disputes, where public attention is limited and narratives compete for dominance. The strategic value of whataboutism lies less in disproving an accusation than in preventing sustained scrutiny of it. Researchers studying public discourse and online communication frequently describe whataboutism as a narrative-disrupting or attention-diverting tactic because it changes the frame of discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_whataboutism_deflect_361b8d-Illustration-2-dark.svg" | relative_url }}" alt="Whataboutism illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_whataboutism_deflect_361b8d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_whataboutism_deflect_361b8d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Comparison Is Genuinely Relevant
 
 Not every “what about” response is fallacious.
 
-Sometimes comparison is necessary to evaluate whether a standard is being applied consistently. If a regulator punishes one company for conduct routinely tolerated in others, pointing to comparable cases may reveal selective enforcement. If a politician condemns a practice they previously defended, highlighting that inconsistency may provide evidence about credibility or sincerity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Though textbook tu quoque arguments are...</span></span></span>
+Sometimes comparison is necessary to evaluate whether a standard is being applied consistently. If a regulator punishes one company for conduct routinely tolerated in others, pointing to comparable cases may reveal selective enforcement. If a politician condemns a practice they previously defended, highlighting that inconsistency may provide evidence about credibility or sincerity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Though textbook tu quoque arguments are...</span></span></span>
 
 A useful test is to ask what conclusion the comparison is supposed to support.
 
@@ -341,7 +341,7 @@ A comparison becomes whataboutist deflection when it argues, explicitly or impli
 
 </div>
 
-The distinction is subtle but important. Evidence of hypocrisy may show that a critic is inconsistent. It does not automatically show that the criticised conduct is acceptable. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have argued that some hypocrisy arguments are relevant to questions of authority or practicality, while remaining irrelevant as direct refutations of the original claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Though textbook tu quoque arguments are...</span></span></span>
+The distinction is subtle but important. Evidence of hypocrisy may show that a critic is inconsistent. It does not automatically show that the criticised conduct is acceptable. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have argued that some hypocrisy arguments are relevant to questions of authority or practicality, while remaining irrelevant as direct refutations of the original claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Though textbook tu quoque arguments are...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8KpntmAv_6E" title="Shutting Down the &#x27;But What About&#x27; Crew! (Musical Short)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8KpntmAv_6E" target="_blank" rel="noopener noreferrer">Shutting Down the &#x27;But What About&#x27; Crew! (Musical Short)</a></p><p class="youtube-embed-meta">Channel: The Critical Thinker &middot; Views: 11.1K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8KpntmAv_6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8KpntmAv_6E">Open on YouTube</a></p></div></div></div>
 
@@ -370,276 +370,276 @@ This method preserves the potentially valuable insight contained in the comparis
 
 The central danger of whataboutism is not that it always involves false comparisons. Often the comparisons are accurate. The problem is that accuracy alone does not make them responsive.
 
-A public argument begins with a specific claim that requires assessment. Whataboutism changes the audience's attention from that claim to the behaviour of someone else. In doing so, it converts a question about evidence, responsibility, or truth into a question about comparative guilt and hypocrisy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Whataboutism &#124; Definition, Examples, Etymology, Logical</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhataboutism &#124; Definition, Examples, Etymology, Logical...May 13, 2026 — Whataboutism, the rhetorical practice of...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merriam-webster.com/dictionary/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merriam-webster.com">[Merriam-Webster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merriam-webster.com</span><span class="citation-popover-snippet">by another is similar or worse.Read more...</span></span></span>
+A public argument begins with a specific claim that requires assessment. Whataboutism changes the audience's attention from that claim to the behaviour of someone else. In doing so, it converts a question about evidence, responsibility, or truth into a question about comparative guilt and hypocrisy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Whataboutism &#124; Definition, Examples, Etymology, Logical</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhataboutism &#124; Definition, Examples, Etymology, Logical...May 13, 2026 — Whataboutism, the rhetorical practice of...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merriam-webster.com/dictionary/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merriam-webster.com">[Merriam-Webster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merriam-webster.com</span><span class="citation-popover-snippet">by another is similar or worse.Read more...</span></span></span>
 
-For that reason, whataboutism is best understood as a distinctive form of tu quoque deflection. It may uncover genuine double standards, and those double standards may themselves deserve criticism. Yet exposing hypocrisy is not the same thing as answering an accusation. The critical question remains unchanged: does the comparison help evaluate the original claim, or does it merely distract from it? When the latter occurs, whataboutism has succeeded in changing the subject without resolving the issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is tu quoqueThis fallacy is also known as the appeal to hypocrisy. It is commonly employed as an effective red herri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/frequently-asked-questions/whats-the-difference-between-tu-quoque-fallacies-and-whataboutism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[3quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-snippet">”Whataboutism is a broader tactic...</span></span></span>
+For that reason, whataboutism is best understood as a distinctive form of tu quoque deflection. It may uncover genuine double standards, and those double standards may themselves deserve criticism. Yet exposing hypocrisy is not the same thing as answering an accusation. The critical question remains unchanged: does the comparison help evaluate the original claim, or does it merely distract from it? When the latter occurs, whataboutism has succeeded in changing the subject without resolving the issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is tu quoqueThis fallacy is also known as the appeal to hypocrisy. It is commonly employed as an effective red herri...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/frequently-asked-questions/whats-the-difference-between-tu-quoque-fallacies-and-whataboutism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[3quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-snippet">”Whataboutism is a broader tactic...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bG5IzHQ0SMM" title="Whataboutism explained (explainity® explainer video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bG5IzHQ0SMM" target="_blank" rel="noopener noreferrer">Whataboutism explained (explainity® explainer video)</a></p><p class="youtube-embed-meta">Channel: explainitychannel &middot; Views: 16.5K &middot; Uploaded: November 2022 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bG5IzHQ0SMM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bG5IzHQ0SMM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Whataboutism Dodges the Real Issue. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Whataboutism Dodges the Real Issue. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Directly covers fallacious argumentative moves, including techniques that resemble tu quoque and whataboutist deflection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers fallacious argumentative moves, including techniques that resemble tu quoque and whataboutist deflection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases and flawed reasoning patterns that help audiences understand why deflections and whataboutism can be persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases and flawed reasoning patterns that help audiences understand why deflections and whataboutism can be persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches evidence-based reasoning and how to resist rhetorical distractions from the central issue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evidence-based reasoning and how to resist rhetorical distractions from the central issue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Helps readers quickly recognize when an argument shifts attention away from the original claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers quickly recognize when an argument shifts attention away from the original claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-82b621-when-whataboutism-dodges-the-real-issue-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ For that reason, whataboutism is best understood as a distinctive form of tu quo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ For that reason, whataboutism is best understood as a distinctive form of tu quo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ For that reason, whataboutism is best understood as a distinctive form of tu quo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ For that reason, whataboutism is best understood as a distinctive form of tu quo
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -795,161 +795,161 @@ For that reason, whataboutism is best understood as a distinctive form of tu quo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Whataboutism | Definition, Examples, Etymology, Logical  
-   Link: <a href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/whataboutism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhataboutism | Definition, Examples, Etymology, Logical...May 13, 2026 — Whataboutism, the rhetorical practice of...</p></details>
+   Link:<a href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/whataboutism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhataboutism | Definition, Examples, Etymology, Logical...May 13, 2026 — Whataboutism, the rhetorical practice of...</p></details>
    Published: May 13, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/wordplay/whataboutism-origin-meaning" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/wordplay/whataboutism-origin-meaning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n from one&#x27;s own deeds...</p></details>
+   Link:<a href="https://www.merriam-webster.com/wordplay/whataboutism-origin-meaning" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/wordplay/whataboutism-origin-meaning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n from one&#x27;s own deeds...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: finmasters.com  
-   Link: <a href="https://finmasters.com/whataboutism/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/whataboutism/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When People Counter Accusations with...2 May 2021 — Whataboutism is a type of logical fallacy that occurs when a person attempts to dive...</p></details>
+   Link:<a href="https://finmasters.com/whataboutism/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/whataboutism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When People Counter Accusations with...2 May 2021 — Whataboutism is a type of logical fallacy that occurs when a person attempts to dive...</p></details>
    Published: May 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.09934</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.09934</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</p></details>
    Published: February 15, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Extremism & Whataboutism: A Case Study on Bangalore Riots  
-   Link: <a href="https://arxiv.org/abs/2109.10526" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.10526</a>  
+   Link:<a href="https://arxiv.org/abs/2109.10526" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.10526</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKTQA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Though textbook tu quoque arguments are...</p></details>
+   Link:<a href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKTQA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Though textbook tu quoque arguments are...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/whataboutism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by another is similar or worse.Read more...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/whataboutism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by another is similar or worse.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: quillbot.com  
-   Link: <a href="https://quillbot.com/blog/frequently-asked-questions/whats-the-difference-between-tu-quoque-fallacies-and-whataboutism/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/frequently-asked-questions/whats-the-difference-between-tu-quoque-fallacies-and-whataboutism/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>”Whataboutism is a broader tactic...</p></details>
+   Link:<a href="https://quillbot.com/blog/frequently-asked-questions/whats-the-difference-between-tu-quoque-fallacies-and-whataboutism/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/frequently-asked-questions/whats-the-difference-between-tu-quoque-fallacies-and-whataboutism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>”Whataboutism is a broader tactic...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is tu quoqueThis fallacy is also known as the appeal to hypocrisy. It is commonly employed as an effective red herri...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is tu quoqueThis fallacy is also known as the appeal to hypocrisy. It is commonly employed as an effective red herri...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: finmasters.com  
    Title: Tu Quoque Fallacy  
-   Link: <a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>
+   Link:<a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/propaganda</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Propaganda is the dissemination of information—facts, arguments, [rumours](&amp;#123;&amp;#123; &#x27;rumours/&#x27; | relative_url &amp;#125;&amp;#125;), half-truths, or lies—to influence public opinion.Read more...</p></details>
+   Link:<a href="https://www.britannica.com/topic/propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/propaganda</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Propaganda is the dissemination of information—facts, arguments, [rumours](&amp;#123;&amp;#123; &#x27;rumours/&#x27; | relative_url &amp;#125;&amp;#125;), half-truths, or lies—to influence public opinion.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; ExamplesFeb 13, 2026 — Fallacy, in logic, erroneous reasoning that has the appearance of soundness. In logic an argum...</p></details>
+   Link:<a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; ExamplesFeb 13, 2026 — Fallacy, in logic, erroneous reasoning that has the appearance of soundness. In logic an argum...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw ManFeb 13, 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thr...</p></details>
+   Link:<a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw ManFeb 13, 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesTu Quoque. The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone&#x27;s arg...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesTu Quoque. The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone&#x27;s arg...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Abstract: Though textbook tu quoque arguments are...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Abstract: Though textbook tu quoque arguments are...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Whataboutism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WhataboutismWhataboutism&quot; or &quot;whataboutery refers to the propaganda strategy of responding to an accusation with a counter-accusation...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Whataboutism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WhataboutismWhataboutism&quot; or &quot;whataboutery refers to the propaganda strategy of responding to an accusation with a counter-accusation...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: philosophypages.com  
-   Link: <a href="https://www.philosophypages.com/lg/e06a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophypages.com/lg/e06a.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of RelevanceThe fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), for example, clearly fail to provide adequate reason for believing the truth of their c...</p></details>
+   Link:<a href="https://www.philosophypages.com/lg/e06a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophypages.com/lg/e06a.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of RelevanceThe fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), for example, clearly fail to provide adequate reason for believing the truth of their c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: philosophicalsociety.com  
-   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesInconsistency, moreover, may raise issues of hypocrisy or double standards, but it does not bear upon the argument at ha...</p></details>
+   Link:<a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesInconsistency, moreover, may raise issues of hypocrisy or double standards, but it does not bear upon the argument at ha...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/whataboutism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHATABOUTISM Definition &amp; Meaninga conversational tactic in which a person responds to an argument or attack by changing the subject to f...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/whataboutism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHATABOUTISM Definition &amp; Meaninga conversational tactic in which a person responds to an argument or attack by changing the subject to f...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A4107772/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A4107772/view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Whataboutism?Whataboutist moves are appeals to evidence about whether one has assessed the total evidence, and so need not be failu...</p></details>
+   Link:<a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A4107772/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A4107772/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Whataboutism?Whataboutist moves are appeals to evidence about whether one has assessed the total evidence, and so need not be failu...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: filosoficas.unam.mx  
-   Link: <a href="https://www.filosoficas.unam.mx/docs/680/files/Whataboutisms-SemiInv.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.filosoficas.unam.mx/docs/680/files/Whataboutisms-SemiInv.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>quoque arguments are whataboutisms where the excluded cases include at least one of the parties involved in the [debate](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;). If, for example...</p></details>
+   Link:<a href="https://www.filosoficas.unam.mx/docs/680/files/Whataboutisms-SemiInv.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.filosoficas.unam.mx/docs/680/files/Whataboutisms-SemiInv.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>quoque arguments are whataboutisms where the excluded cases include at least one of the parties involved in the [debate](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;). If, for example...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The Rhetoric of “Whataboutism” in American  
-   Link: <a href="https://www.researchgate.net/publication/342741261_The_Rhetoric_of_Whataboutism_in_American_Journalism_and_Political_Identity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342741261_The_Rhetoric_of_Whataboutism_in_American_Journalism_and_Political_Identity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whataboutism” is used to name the logical fallacy, “tu quoque” (Latin for “you. also”), which is an attempt to defend against criticism b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342741261_The_Rhetoric_of_Whataboutism_in_American_Journalism_and_Political_Identity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342741261_The_Rhetoric_of_Whataboutism_in_American_Journalism_and_Political_Identity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whataboutism” is used to name the logical fallacy, “tu quoque” (Latin for “you. also”), which is an attempt to defend against criticism b...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: philosophy.stackexchange.com  
    Title: how is pointing out whataboutism a form of tu quoque fallacy  
-   Link: <a href="https://philosophy.stackexchange.com/questions/64723/how-is-pointing-out-whataboutism-a-form-of-tu-quoque-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/64723/how-is-pointing-out-whataboutism-a-form-of-tu-quoque-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is &quot;pointing out whataboutism&quot; a form of tu quoque...21 Jul 2019 — The accusation of whataboutism is itself a form of tu quoque fallacy...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/64723/how-is-pointing-out-whataboutism-a-form-of-tu-quoque-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/64723/how-is-pointing-out-whataboutism-a-form-of-tu-quoque-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is &quot;pointing out whataboutism&quot; a form of tu quoque...21 Jul 2019 — The accusation of whataboutism is itself a form of tu quoque fallacy...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dictionary.cambridge.org  
    Title: Dictionary WHATABOUTISM | English meaning  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/whataboutism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge DictionaryWHATABOUTISM | English meaning - Cambridge Dictionary7 days ago — WHATABOUTISM definition: 1. the practice of answeri...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/whataboutism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge DictionaryWHATABOUTISM | English meaning - Cambridge Dictionary7 days ago — WHATABOUTISM definition: 1. the practice of answeri...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: teachthought.com  
    Title: Teach Thought What Is A Whataboutism?  
-   Link: <a href="https://www.teachthought.com/critical-thinking-posts/what-is-a-whataboutism/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachthought.com/critical-thinking-posts/what-is-a-whataboutism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is A Whataboutism? - TeachThoughtWhat Is A Whataboutism? Whataboutism is a rhetorical deflection that avoids answering a claim by sh...</p></details>
+   Link:<a href="https://www.teachthought.com/critical-thinking-posts/what-is-a-whataboutism/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachthought.com/critical-thinking-posts/what-is-a-whataboutism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is A Whataboutism? - TeachThoughtWhat Is A Whataboutism? Whataboutism is a rhetorical deflection that avoids answering a claim by sh...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/nigerianteachers/posts/4172816779610343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nigerianteachers/posts/4172816779610343/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sms are deflected by raising corresponding...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/nigerianteachers/posts/4172816779610343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nigerianteachers/posts/4172816779610343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sms are deflected by raising corresponding...Read more...</p></details>

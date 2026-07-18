@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_political_speech_fal_4164bc_dereg
 
 ## Introduction
 
-[False dilemma]({{ 'false-dilemma/' | relative_url }}) framing is a common logical fallacy in political debates about deregulation. It occurs when speakers present a complex policy question as if only two choices exist: remove regulations or accept economic decline; protect regulation or destroy innovation; choose freedom or choose bureaucracy. In reality, most regulatory systems contain a wide range of options between these extremes. Policymakers can redesign rules, simplify compliance, target specific sectors, improve enforcement, replace prescriptive requirements with performance standards, or remove ineffective regulations while retaining protections that address genuine market failures. By reducing this spectrum to a binary choice, false dilemma arguments can obscure important trade-offs and weaken public understanding of policy choices. OECD <span class="citation-chip-wrap"><a class="citation-chip" href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbraithwaite.com">[John Braithwaite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbraithwaite.com</span><span class="citation-popover-snippet">John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</span></span></span>
+[False dilemma]({{ 'false-dilemma/' | relative_url }}) framing is a common logical fallacy in political debates about deregulation. It occurs when speakers present a complex policy question as if only two choices exist: remove regulations or accept economic decline; protect regulation or destroy innovation; choose freedom or choose bureaucracy. In reality, most regulatory systems contain a wide range of options between these extremes. Policymakers can redesign rules, simplify compliance, target specific sectors, improve enforcement, replace prescriptive requirements with performance standards, or remove ineffective regulations while retaining protections that address genuine market failures. By reducing this spectrum to a binary choice, false dilemma arguments can obscure important trade-offs and weaken public understanding of policy choices. OECD<span class="citation-chip-wrap"><a class="citation-chip" href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbraithwaite.com">[John Braithwaite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbraithwaite.com</span><span class="citation-popover-snippet">John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-dark.svg" | relative_url }}" alt="Deregulation illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within political speech, this fallacy is particularly influential because regulatory policy is often technical and difficult for non-specialists to evaluate. Simplified narratives are easier to communicate than nuanced discussions of costs, benefits and institutional design. As a result, debates that should focus on evidence frequently become contests between competing extremes.
@@ -294,7 +294,7 @@ A false dilemma emerges when a speaker compresses a broad policy spectrum into a
 
 </div>
 
-These claims create rhetorical clarity but frequently distort the actual policy landscape. Research on regulatory reform consistently shows that governments employ numerous intermediate approaches, including regulatory simplification, targeted exemptions, risk-based enforcement, performance standards, self-certification systems, sunset reviews and hybrid regulatory models. Regulatory reform is therefore not synonymous with complete deregulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kdi.re.kr">[KDI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kdi.re.kr</span><span class="citation-popover-snippet">gulatory Reform, The lessons from implementation in...The trade-specific regulatory agenda offers some helpful examples of the potenti...</span></span></span> [3OECD 3OECD]
+These claims create rhetorical clarity but frequently distort the actual policy landscape. Research on regulatory reform consistently shows that governments employ numerous intermediate approaches, including regulatory simplification, targeted exemptions, risk-based enforcement, performance standards, self-certification systems, sunset reviews and hybrid regulatory models. Regulatory reform is therefore not synonymous with complete deregulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kdi.re.kr">[KDI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kdi.re.kr</span><span class="citation-popover-snippet">gulatory Reform, The lessons from implementation in...The trade-specific regulatory agenda offers some helpful examples of the potenti...</span></span></span> [3OECD 3OECD]
 
 The attraction of the binary frame is political as much as logical. It allows advocates to align their preferred position with positive values such as freedom, growth or safety while associating alternatives with failure or danger. Once the [debate]({{ 'debate/' | relative_url }}) is framed as a choice between prosperity and stagnation, or liberty and control, many potentially viable middle-ground options disappear from public discussion.
 
@@ -302,7 +302,7 @@ The attraction of the binary frame is political as much as logical. It allows ad
 
 Regulation affects multiple goals simultaneously. A rule may increase compliance costs while also reducing safety risks. It may limit some business activity while improving consumer confidence. It may slow market entry in one area while creating more stable long-term conditions for investment.
 
-Because regulations often generate both benefits and costs, they are particularly susceptible to oversimplification. Economic outcomes depend not only on whether regulation exists but on how it is designed, enforced and adapted over time. OECD analyses of regulatory reform repeatedly emphasise regulatory quality, institutional design and policy implementation rather than simple increases or decreases in the number of rules. OECD <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatoryreform.com">[JCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatoryreform.com</span><span class="citation-popover-snippet">Regulatory Policies in OECD CountriesFor example, the OECD Report on Regulatory Reform in Denmark noted concerns that the use of a centra...</span></span></span>
+Because regulations often generate both benefits and costs, they are particularly susceptible to oversimplification. Economic outcomes depend not only on whether regulation exists but on how it is designed, enforced and adapted over time. OECD analyses of regulatory reform repeatedly emphasise regulatory quality, institutional design and policy implementation rather than simple increases or decreases in the number of rules. OECD<span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatoryreform.com">[JCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatoryreform.com</span><span class="citation-popover-snippet">Regulatory Policies in OECD CountriesFor example, the OECD Report on Regulatory Reform in Denmark noted concerns that the use of a centra...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wg-pFtvsvmo" title="Geography | KS1 | KS2 | The world | BBC Teach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wg-pFtvsvmo" target="_blank" rel="noopener noreferrer">Geography | KS1 | KS2 | The world | BBC Teach</a></p><p class="youtube-embed-meta">Channel: BBC Bitesize for Teachers &middot; Views: 413.3K &middot; Uploaded: August 2020 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wg-pFtvsvmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wg-pFtvsvmo">Open on YouTube</a></p></div></div></div>
 
@@ -323,7 +323,7 @@ When debates become binary, several important questions often disappear:
 
 </div>
 
-Research on regulatory reform frequently finds that effects differ substantially across sectors and institutional contexts. Studies examining deregulation and growth show considerable variation in outcomes, with some reforms producing benefits and others generating mixed or uncertain results. The impact depends on market structure, enforcement capacity, competition levels and the specific regulations involved. OECD <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fmg.ac.uk">[2fmg.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fmg.ac.uk</span><span class="citation-popover-snippet">Determinants of Regulatory Reformby S Djankov · 2017 · Cited by 8 — Changes in insolvency, labor law and minority shareholder protections...</span></span></span>
+Research on regulatory reform frequently finds that effects differ substantially across sectors and institutional contexts. Studies examining deregulation and growth show considerable variation in outcomes, with some reforms producing benefits and others generating mixed or uncertain results. The impact depends on market structure, enforcement capacity, competition levels and the specific regulations involved. OECD<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fmg.ac.uk">[2fmg.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fmg.ac.uk</span><span class="citation-popover-snippet">Determinants of Regulatory Reformby S Djankov · 2017 · Cited by 8 — Changes in insolvency, labor law and minority shareholder protections...</span></span></span>
 
 A binary narrative can therefore conceal the very evidence needed to judge whether a proposal is likely to succeed.
 
@@ -331,9 +331,9 @@ A binary narrative can therefore conceal the very evidence needed to judge wheth
 
 One of the most important omissions in false dilemma rhetoric is the possibility of regulatory redesign.
 
-Scholars and practitioners have long discussed alternatives that transcend the simple regulation-versus-deregulation divide. Responsive regulation, risk-based regulation, performance-based standards and periodic regulatory review all represent efforts to improve outcomes without embracing either total control or complete market freedom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbraithwaite.com">[John Braithwaite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbraithwaite.com</span><span class="citation-popover-snippet">John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Regulatory reformFor example, ill-consulted reforms have led to undue burdens that have caused protests and voter dissatisfaction; po...</span></span></span>
+Scholars and practitioners have long discussed alternatives that transcend the simple regulation-versus-deregulation divide. Responsive regulation, risk-based regulation, performance-based standards and periodic regulatory review all represent efforts to improve outcomes without embracing either total control or complete market freedom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbraithwaite.com">[John Braithwaite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbraithwaite.com</span><span class="citation-popover-snippet">John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Regulatory reformFor example, ill-consulted reforms have led to undue burdens that have caused protests and voter dissatisfaction; po...</span></span></span>
 
-For example, a debate about environmental compliance might be framed publicly as a choice between burdensome regulation and unrestricted industrial activity. Yet policymakers may have additional options, including emissions trading systems, targeted monitoring, outcome-based standards or simplified reporting requirements. OECD reviews have highlighted such alternatives as examples of regulatory innovation that do not fit neatly into either side of a binary framing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Taking Stock of Regulatory Reformby A MULTIDISCIPLINARY — The trade-specific regulatory agenda offers some helpful examples of the po...</span></span></span>
+For example, a debate about environmental compliance might be framed publicly as a choice between burdensome regulation and unrestricted industrial activity. Yet policymakers may have additional options, including emissions trading systems, targeted monitoring, outcome-based standards or simplified reporting requirements. OECD reviews have highlighted such alternatives as examples of regulatory innovation that do not fit neatly into either side of a binary framing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Taking Stock of Regulatory Reformby A MULTIDISCIPLINARY — The trade-specific regulatory agenda offers some helpful examples of the po...</span></span></span>
 
 The existence of these middle positions demonstrates why the forced-choice narrative is often misleading.
 
@@ -368,7 +368,7 @@ Binary arguments frequently rely on catastrophic predictions.
 
 Claims that economic collapse, mass unemployment, runaway exploitation or total stagnation will inevitably result from one side of the choice should prompt scrutiny. Complex policy systems rarely produce outcomes that are both certain and absolute.
 
-Economists and regulatory scholars routinely emphasise uncertainty, [context]({{ 'context/' | relative_url }}) and trade-offs when assessing reforms. Broad ideological calls for either wholesale deregulation or wholesale re-regulation have been criticised precisely because they ignore the imperfect and context-dependent nature of policy design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.mit.edu">[MIT Economics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.mit.edu</span><span class="citation-popover-snippet">Joskow Alfred...by PL Joskow · 2009 — Whatever conclusions one comes to about the need for and nature of regulation or deregulation or r...</span></span></span>
+Economists and regulatory scholars routinely emphasise uncertainty, [context]({{ 'context/' | relative_url }}) and trade-offs when assessing reforms. Broad ideological calls for either wholesale deregulation or wholesale re-regulation have been criticised precisely because they ignore the imperfect and context-dependent nature of policy design.<span class="citation-chip-wrap"><a class="citation-chip" href="https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.mit.edu">[MIT Economics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.mit.edu</span><span class="citation-popover-snippet">Joskow Alfred...by PL Joskow · 2009 — Whatever conclusions one comes to about the need for and nature of regulation or deregulation or r...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-3-dark.svg" | relative_url }}" alt="Deregulation illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Does the Speaker Define Success Too Narrowly?
@@ -383,276 +383,276 @@ A realistic evaluation requires examining multiple goals simultaneously rather t
 
 False dilemma framing in deregulation debates does more than simplify arguments. It shapes how citizens understand governance itself. When audiences repeatedly hear that every regulatory choice is a struggle between freedom and control, they may overlook the practical work of designing institutions that balance competing objectives.
 
-Evidence from regulatory reform research points toward a more complex reality. Successful governance often involves continual adjustment, selective reform, experimentation and evaluation rather than movement toward either extreme. Regulatory systems can be excessive, inadequate or simply poorly designed, and different problems require different solutions. OECD <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatoryreform.com">[JCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatoryreform.com</span><span class="citation-popover-snippet">Regulatory Policies in OECD CountriesFor example, the OECD Report on Regulatory Reform in Denmark noted concerns that the use of a centra...</span></span></span>
+Evidence from regulatory reform research points toward a more complex reality. Successful governance often involves continual adjustment, selective reform, experimentation and evaluation rather than movement toward either extreme. Regulatory systems can be excessive, inadequate or simply poorly designed, and different problems require different solutions. OECD<span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatoryreform.com">[JCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatoryreform.com</span><span class="citation-popover-snippet">Regulatory Policies in OECD CountriesFor example, the OECD Report on Regulatory Reform in Denmark noted concerns that the use of a centra...</span></span></span>
 
 Recognising the false dilemma does not determine whether a particular deregulation proposal is good or bad. Instead, it restores the [missing middle]({{ 'missing-middle/' | relative_url }}) of the conversation, allowing debates to focus on evidence, trade-offs and realistic policy alternatives rather than forced choices between opposing extremes.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2hZVGiOi30g" title="False Dilemma Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2hZVGiOi30g" target="_blank" rel="noopener noreferrer">False Dilemma Fallacy</a></p><p class="youtube-embed-meta">Channel: HillTopsEdX &middot; Views: 518 &middot; Uploaded: April 2024 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2hZVGiOi30g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2hZVGiOi30g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Missing Middle in Deregulation Debates. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Missing Middle in Deregulation Debates. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers recognize oversimplified binary thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize oversimplified binary thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Teaches readers to test whether presented choices are exhaustive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to test whether presented choices are exhaustive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Demonstrates policy options beyond all-or-nothing regulatory choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates policy options beyond all-or-nothing regulatory choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+the+Rational+Voter+by+Bryan+Caplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of the Rational Voter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8_S6cOkHK3MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth of the Rational Voter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+the+Rational+Voter+by+Bryan+Caplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of the Rational Voter">The Myth of the Rational Voter</a>
-        </h4>
-        <p class="fr-book-author">By Bryan Caplan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+the+Rational+Voter+by+Bryan+Caplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of the Rational Voter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8_S6cOkHK3MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth of the Rational Voter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+the+Rational+Voter+by+Bryan+Caplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of the Rational Voter">The Myth of the Rational Voter</a>
+</h4>
+<p class="fr-book-author">By Bryan Caplan</p>
         
-        <p class="fr-book-desc">Encourages scrutiny of simplified political narratives and policy framing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+the+Rational+Voter+by+Bryan+Caplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scrutiny of simplified political narratives and policy framing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+the+Rational+Voter+by+Bryan+Caplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hyperinflation Funny Economics Joke Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/37eae610caa5250fb76f.jpg' | relative_url }}" alt="Listing image for Hyperinflation Funny Economics Joke Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hyperinflation Funny Economics Joke Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for economics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: economics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hyperinflation Funny Economics Joke Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/37eae610caa5250fb76f.jpg' | relative_url }}" alt="Listing image for Hyperinflation Funny Economics Joke Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hyperinflation Funny Economics Joke Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for economics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: economics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Economics definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/30e7a45a215e5f531928.jpg' | relative_url }}" alt="Listing image for Economics definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Economics definition Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for economics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: economics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Economics definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/30e7a45a215e5f531928.jpg' | relative_url }}" alt="Listing image for Economics definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Economics definition Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for economics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: economics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Economics Economy Economist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/83b3fd14d2d561547d26.jpg' | relative_url }}" alt="Listing image for Addict Economics Economy Economist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Addict Economics Economy Economist Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for economics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: economics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Economics Economy Economist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/83b3fd14d2d561547d26.jpg' | relative_url }}" alt="Listing image for Addict Economics Economy Economist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Addict Economics Economy Economist Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for economics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: economics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Economics Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/557db7f1e347d0e37bd9.jpg' | relative_url }}" alt="Listing image for Economics Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Economics Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for economics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: economics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Economics Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/557db7f1e347d0e37bd9.jpg' | relative_url }}" alt="Listing image for Economics Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Economics Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for economics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: economics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=economics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deregulation-the-missing-middle-in-deregulation-debates-logical-fallacies-economics-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -668,7 +668,7 @@ Recognising the false dilemma does not determine whether a particular deregulati
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -688,7 +688,7 @@ Recognising the false dilemma does not determine whether a particular deregulati
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -720,7 +720,7 @@ Recognising the false dilemma does not determine whether a particular deregulati
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -750,7 +750,7 @@ Recognising the false dilemma does not determine whether a particular deregulati
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -808,94 +808,94 @@ Recognising the false dilemma does not determine whether a particular deregulati
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory reformFor example, ill-consulted reforms have led to undue burdens that have caused protests and voter dissatisfaction; po...</p></details>
+   Link:<a href="https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory reformFor example, ill-consulted reforms have led to undue burdens that have caused protests and voter dissatisfaction; po...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: economics.mit.edu  
-   Link: <a href="https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf" target="_blank" rel="noopener noreferrer nofollow">https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joskow Alfred...by PL Joskow · 2009 — Whatever conclusions one comes to about the need for and nature of regulation or deregulation or r...</p></details>
+   Link:<a href="https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf" target="_blank" rel="noopener noreferrer nofollow">https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joskow Alfred...by PL Joskow · 2009 — Whatever conclusions one comes to about the need for and nature of regulation or deregulation or r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking Stock of Regulatory Reformby A MULTIDISCIPLINARY — The trade-specific regulatory agenda offers some helpful examples of the po...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taking Stock of Regulatory Reformby A MULTIDISCIPLINARY — The trade-specific regulatory agenda offers some helpful examples of the po...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kdi.re.kr  
-   Link: <a href="https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gulatory Reform, The lessons from implementation in...The trade-specific regulatory agenda offers some helpful examples of the potenti...</p></details>
+   Link:<a href="https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gulatory Reform, The lessons from implementation in...The trade-specific regulatory agenda offers some helpful examples of the potenti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: regulatoryreform.com  
-   Link: <a href="https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory Policies in OECD CountriesFor example, the OECD Report on Regulatory Reform in Denmark noted concerns that the use of a centra...</p></details>
+   Link:<a href="https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory Policies in OECD CountriesFor example, the OECD Report on Regulatory Reform in Denmark noted concerns that the use of a centra...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oecd.org  
    Title: First, it summarises the evidence on the evolution of regulatory  
-   Link: <a href="https://www.oecd.org/en/publications/the-implementation-and-the-effects-of-regulatory-reform_413754754615.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-implementation-and-the-effects-of-regulatory-reform_413754754615.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation and the Effects of Regulatory Reformby R Gönenç · 2000 · Cited by 227 — This paper reviews trends, outcomes and is...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/the-implementation-and-the-effects-of-regulatory-reform_413754754615.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-implementation-and-the-effects-of-regulatory-reform_413754754615.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation and the Effects of Regulatory Reformby R Gönenç · 2000 · Cited by 227 — This paper reviews trends, outcomes and is...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fmg.ac.uk  
-   Link: <a href="https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants of Regulatory Reformby S Djankov · 2017 · Cited by 8 — Changes in insolvency, labor law and minority shareholder protections...</p></details>
+   Link:<a href="https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants of Regulatory Reformby S Djankov · 2017 · Cited by 8 — Changes in insolvency, labor law and minority shareholder protections...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: johnbraithwaite.com  
-   Link: <a href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow">https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</p></details>
+   Link:<a href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow">https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uu.nl  
-   Link: <a href="https://www.uu.nl/sites/default/files/rebo_use_dp_2010_10-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uu.nl/sites/default/files/rebo_use_dp_2010_10-18.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REVIEW OF ECONOMIC THEORIES OF REGULATIONAbstract. This paper reviews the economic theories of regulation. It discusses the public and pr...</p></details>
+   Link:<a href="https://www.uu.nl/sites/default/files/rebo_use_dp_2010_10-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uu.nl/sites/default/files/rebo_use_dp_2010_10-18.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REVIEW OF ECONOMIC THEORIES OF REGULATIONAbstract. This paper reviews the economic theories of regulation. It discusses the public and pr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: worldometers.info  
-   Link: <a href="https://www.worldometers.info/world-map/" target="_blank" rel="noopener noreferrer nofollow">https://www.worldometers.info/world-map/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World MapMap of the World with the names of all countries, territories and major cities, with borders. Zoomable political map of the worl...</p></details>
+   Link:<a href="https://www.worldometers.info/world-map/" target="_blank" rel="noopener noreferrer nofollow">https://www.worldometers.info/world-map/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World MapMap of the World with the names of all countries, territories and major cities, with borders. Zoomable political map of the worl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cerge-ei.cz  
-   Link: <a href="https://www.cerge-ei.cz/pdf/wp/Wp424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cerge-ei.cz/pdf/wp/Wp424.pdf</a>  
+   Link:<a href="https://www.cerge-ei.cz/pdf/wp/Wp424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cerge-ei.cz/pdf/wp/Wp424.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227378701_Deregulation_vs_Re-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227378701_Deregulation_vs_Re-regulation</a>  
+   Link:<a href="https://www.researchgate.net/publication/227378701_Deregulation_vs_Re-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227378701_Deregulation_vs_Re-regulation</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oecdecoscope.blog  
-   Link: <a href="https://oecdecoscope.blog/2025/12/10/regulating-smarter-oecd-economic-outlook-recommendations-on-regulatory-policy-reforms/" target="_blank" rel="noopener noreferrer nofollow">https://oecdecoscope.blog/2025/12/10/regulating-smarter-oecd-economic-outlook-recommendations-on-regulatory-policy-reforms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulating smarter: OECD Economic Outlook...10 Dec 2025 — The summary highlights that smarter regulatory policy, such as reforms that si...</p></details>
+   Link:<a href="https://oecdecoscope.blog/2025/12/10/regulating-smarter-oecd-economic-outlook-recommendations-on-regulatory-policy-reforms/" target="_blank" rel="noopener noreferrer nofollow">https://oecdecoscope.blog/2025/12/10/regulating-smarter-oecd-economic-outlook-recommendations-on-regulatory-policy-reforms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regulating smarter: OECD Economic Outlook...10 Dec 2025 — The summary highlights that smarter regulatory policy, such as reforms that si...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Wg-pFtvsvmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wg-pFtvsvmo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Wg-pFtvsvmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wg-pFtvsvmo</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: europeanpapers.eu  
    Title: limited politicisation strengthening undermining economic regulation eu  
-   Link: <a href="https://www.europeanpapers.eu/e-journal/limited-politicisation-strengthening-undermining-economic-regulation-eu" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpapers.eu/e-journal/limited-politicisation-strengthening-undermining-economic-regulation-eu</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Limited Politicisation: Strengthening, Not Undermining...by G Tagiuri · 2026 — This article is a contribution to a Special Section that...</p></details>
+   Link:<a href="https://www.europeanpapers.eu/e-journal/limited-politicisation-strengthening-undermining-economic-regulation-eu" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpapers.eu/e-journal/limited-politicisation-strengthening-undermining-economic-regulation-eu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limited Politicisation: Strengthening, Not Undermining...by G Tagiuri · 2026 — This article is a contribution to a Special Section that...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bruegel.org  
-   Link: <a href="https://www.bruegel.org/policy-brief/efficiency-and-distribution-european-unions-digital-deregulation-push" target="_blank" rel="noopener noreferrer nofollow">https://www.bruegel.org/policy-brief/efficiency-and-distribution-european-unions-digital-deregulation-push</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reduce the burden of EU digital regulation, regardless of whether it involves lowering...Read more...</p></details>
+   Link:<a href="https://www.bruegel.org/policy-brief/efficiency-and-distribution-european-unions-digital-deregulation-push" target="_blank" rel="noopener noreferrer nofollow">https://www.bruegel.org/policy-brief/efficiency-and-distribution-european-unions-digital-deregulation-push</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reduce the burden of EU digital regulation, regardless of whether it involves lowering...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/240300175_The_Implementation_and_the_Effects_of_Regulatory_Reform_Past_Experience_and_Current_Issues" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240300175_The_Implementation_and_the_Effects_of_Regulatory_Reform_Past_Experience_and_Current_Issues</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation and the Effects of Regulatory ReformThis article reviews trends, outcomes and issues in regulatory reform in OECD coun...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/240300175_The_Implementation_and_the_Effects_of_Regulatory_Reform_Past_Experience_and_Current_Issues" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240300175_The_Implementation_and_the_Effects_of_Regulatory_Reform_Past_Experience_and_Current_Issues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation and the Effects of Regulatory ReformThis article reviews trends, outcomes and issues in regulatory reform in OECD coun...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bear.warrington.ufl.edu  
    Title: Regulatory Impact Analysis OECD  
-   Link: <a href="https://bear.warrington.ufl.edu/centers/purc/docs//PAPERS/TRAINING/Jamaica/July2006/advancedreadings/Regulatory_Impact_Analysis_OECD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bear.warrington.ufl.edu/centers/purc/docs//PAPERS/TRAINING/Jamaica/July2006/advancedreadings/Regulatory_Impact_Analysis_OECD.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory Impact Analysis in OECD Countriesby D Rodrigo · 2005 · Cited by 17 — The emergence of regulatory reform and deregulation in th...</p></details>
+   Link:<a href="https://bear.warrington.ufl.edu/centers/purc/docs//PAPERS/TRAINING/Jamaica/July2006/advancedreadings/Regulatory_Impact_Analysis_OECD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bear.warrington.ufl.edu/centers/purc/docs//PAPERS/TRAINING/Jamaica/July2006/advancedreadings/Regulatory_Impact_Analysis_OECD.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory Impact Analysis in OECD Countriesby D Rodrigo · 2005 · Cited by 17 — The emergence of regulatory reform and deregulation in th...</p></details>

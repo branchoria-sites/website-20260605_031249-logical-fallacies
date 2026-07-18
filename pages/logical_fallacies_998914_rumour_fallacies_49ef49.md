@@ -504,11 +504,11 @@ image: /assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-overview-
 Rumours can feel like evidence because they arrive already wrapped in social confidence: “everyone is saying it”, “no one has disproved it”, “a friend of a friend heard it”, or “this happened right before that”. In logic, the problem is not simply that a rumour is unverified. Some rumours later turn out to be true. The fallacy appears when uncertainty is treated as proof, popularity is treated as confirmation, or a weak coincidence is treated as a cause.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-overview.webp" | relative_url }}" alt="Overview image for Rumours" loading="eager" decoding="sync" fetchpriority="high">
-This makes rumours a useful case study in [logical fallacies]({{ 'logical-fallacies/' | relative_url }}). They often rely on shortcuts that feel sensible in the moment: an appeal to ignorance, a bandwagon appeal, a hasty generalisation, a false cause, or an appeal to anonymous authority. Those shortcuts become especially persuasive during crises, breaking news, health scares and community conflict, when people want quick explanations before reliable evidence has caught up. Research on [social media]({{ 'social-media/' | relative_url }}) rumours describes them as claims whose truth is unverified at the time of posting, and distinguishes long-running rumours from fast-moving rumours that emerge during breaking events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detection and Resolution of Rumours in Social Media: A Survey</span><span class="citation-popover-snippet">Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</span><span class="citation-popover-meta">Published: April 3, 2017</span></span></span>
+This makes rumours a useful case study in [logical fallacies]({{ 'logical-fallacies/' | relative_url }}). They often rely on shortcuts that feel sensible in the moment: an appeal to ignorance, a bandwagon appeal, a hasty generalisation, a false cause, or an appeal to anonymous authority. Those shortcuts become especially persuasive during crises, breaking news, health scares and community conflict, when people want quick explanations before reliable evidence has caught up. Research on [social media]({{ 'social-media/' | relative_url }}) rumours describes them as claims whose truth is unverified at the time of posting, and distinguishes long-running rumours from fast-moving rumours that emerge during breaking events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detection and Resolution of Rumours in Social Media: A Survey</span><span class="citation-popover-snippet">Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</span><span class="citation-popover-meta">Published: April 3, 2017</span></span></span>
 
 ## Why “No One Has Disproved It” Is Not Evidence
 
-A common rumour fallacy is the appeal to [ignorance]({{ 'ignorance/' | relative_url }}): “Nobody has proved this is false, so it might as well be true.” The mistake is a burden-of-proof shift. A person making a claim is treated as if they have supplied evidence merely because critics have not disproved every possible version of it. Fallacy guides describe this as arguing from the absence of disproof rather than from positive support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAppeal to ignorance often takes place in the context of a debate when one side attempts to place the...</span></span></span>
+A common rumour fallacy is the appeal to [ignorance]({{ 'ignorance/' | relative_url }}): “Nobody has proved this is false, so it might as well be true.” The mistake is a burden-of-proof shift. A person making a claim is treated as if they have supplied evidence merely because critics have not disproved every possible version of it. Fallacy guides describe this as arguing from the absence of disproof rather than from positive support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAppeal to ignorance often takes place in the context of a debate when one side attempts to place the...</span></span></span>
 
 This is especially tempting with rumours because they are often hard to test. A claim may involve an unnamed insider, a private conversation, a blurry image, a deleted post or a supposedly suppressed report. The more vague the claim, the harder it is to disprove. But that does not make it stronger. It often makes it weaker, because the claim has been protected from ordinary checking.
 
@@ -522,7 +522,7 @@ The careful alternative is to separate three states that rumours often blur toge
 
 </div>
 
-The third category is not a compromise verdict of “probably true”. It is a warning label. UNHCR’s information-integrity glossary defines a rumour as unverified information passed from person to person and notes that rumours can be true, partly true or false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary additional terminology</span><span class="citation-popover-snippet">Glossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</span></span></span> That definition matters because it prevents the two opposite errors: dismissing every rumour automatically, or accepting every rumour because it has not been disproved.
+The third category is not a compromise verdict of “probably true”. It is a warning label. UNHCR’s information-integrity glossary defines a rumour as unverified information passed from person to person and notes that rumours can be true, partly true or false.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary additional terminology</span><span class="citation-popover-snippet">Glossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</span></span></span> That definition matters because it prevents the two opposite errors: dismissing every rumour automatically, or accepting every rumour because it has not been disproved.
 
 A rumour may reasonably justify caution while evidence is pending. For example, if several residents report a possible local hazard, it may be sensible to check official updates or avoid the area briefly. The fallacy begins when caution hardens into certainty without evidence: “We do not know this is false” becomes “this is what really happened”.
 
@@ -531,11 +531,11 @@ A rumour may reasonably justify caution while evidence is pending. For example, 
 
 Rumours rarely spread as bare claims. They spread with visible signals of agreement: likes, reposts, forwarded messages, comments, [screenshots]({{ 'screenshots/' | relative_url }}) and the repeated phrase “people are saying”. Those signals create an impression of independent confirmation even when many people are simply copying the same unverified source.
 
-This is the bandwagon problem. In logical terms, popularity is not the same as truth. A claim can be widely shared because it is frightening, funny, novel, identity-affirming or emotionally satisfying. A large study of verified true and false news stories on Twitter from 2006 to 2017 found that false news diffused farther, faster, deeper and more broadly than true news; the dataset covered about 126,000 stories tweeted by roughly 3 million people more than 4.5 million times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politics.media.mit.edu">[Scalable Civic Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politics.media.mit.edu</span><span class="citation-popover-title">Scalable Civic Action The spread of true and false news online</span><span class="citation-popover-snippet">Scalable Civic ActionThe spread of true and false news onlineAugust 30, 2020 — by S Vosoughi · Cited by 14070 — We investigated the diffe...</span><span class="citation-popover-meta">Published: August 30, 2020</span></span></span> MIT’s summary of the study emphasised that falsehood spread more rapidly than truth in all categories examined, and that novelty appeared to be one reason false stories attracted attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">study twitter false news travels faster true stories 0308</span></span></span>
+This is the bandwagon problem. In logical terms, popularity is not the same as truth. A claim can be widely shared because it is frightening, funny, novel, identity-affirming or emotionally satisfying. A large study of verified true and false news stories on Twitter from 2006 to 2017 found that false news diffused farther, faster, deeper and more broadly than true news; the dataset covered about 126,000 stories tweeted by roughly 3 million people more than 4.5 million times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politics.media.mit.edu">[Scalable Civic Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politics.media.mit.edu</span><span class="citation-popover-title">Scalable Civic Action The spread of true and false news online</span><span class="citation-popover-snippet">Scalable Civic ActionThe spread of true and false news onlineAugust 30, 2020 — by S Vosoughi · Cited by 14070 — We investigated the diffe...</span><span class="citation-popover-meta">Published: August 30, 2020</span></span></span> MIT’s summary of the study emphasised that falsehood spread more rapidly than truth in all categories examined, and that novelty appeared to be one reason false stories attracted attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">study twitter false news travels faster true stories 0308</span></span></span>
 
 The fallacy is not “many people shared it, therefore it is false”. That would be another bad inference. The mistake is “many people shared it, therefore it is true”. In a rumour chain, repetition can easily be mistaken for corroboration. Ten posts may look like ten witnesses, when all ten may trace back to the same screenshot, the same anonymous account or the same misunderstood clip.
 
-Social cues can also shape behaviour before people have assessed accuracy. Research on misinformation and social cues finds that visible engagement signals can influence whether users like and share posts, though the effect is not always simple and may depend on the design of the platform and the context of the cue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMCThe persuasive effects of social cues and source</span></span></span> The practical lesson is modest but important: popularity should be treated as a clue about attention, not a substitute for evidence.
+Social cues can also shape behaviour before people have assessed accuracy. Research on misinformation and social cues finds that visible engagement signals can influence whether users like and share posts, though the effect is not always simple and may depend on the design of the platform and the context of the cue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMCThe persuasive effects of social cues and source</span></span></span> The practical lesson is modest but important: popularity should be treated as a clue about attention, not a substitute for evidence.
 
 ## Weak Causation Makes Rumours Feel Explanatory
 
@@ -543,7 +543,7 @@ Many rumours gain force because they offer a quick cause for an unsettling event
 
 This can feel reasonable because human beings look for patterns, especially under stress. But sequence is only a starting point for inquiry. To support a causal claim, a rumour needs more than timing. It needs a plausible mechanism, reliable records, comparison with alternative explanations, and evidence that the alleged cause is present where the effect occurs and absent where it does not.
 
-Health rumours show the danger clearly. WHO Europe reported that misinformation during pandemics, health emergencies and humanitarian crises can cause mental, social, political and economic distress and affect health behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A 2026 Reuters investigation described a deadly misinformation crisis in the Democratic Republic of Congo, where false rumours about a mysterious illness contributed to attacks on health workers and other deaths, according to officials and the WHO-led Africa Infodemic Response Alliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</span></span></span>
+Health rumours show the danger clearly. WHO Europe reported that misinformation during pandemics, health emergencies and humanitarian crises can cause mental, social, political and economic distress and affect health behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A 2026 Reuters investigation described a deadly misinformation crisis in the Democratic Republic of Congo, where false rumours about a mysterious illness contributed to attacks on health workers and other deaths, according to officials and the WHO-led Africa Infodemic Response Alliance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</span></span></span>
 
 That example is not just a case of false information. It shows how fallacious reasoning can become socially dangerous. A frightening claim, repeated through trusted community channels, can turn an unverified causal story into an explanation that people act on. Once the rumour supplies a villain, later uncertainty may be interpreted as concealment rather than as a reason to slow down.
 
@@ -555,7 +555,7 @@ Another common rumour structure is the appeal to anonymous authority: “a docto
 
 Appeals to authority are not always fallacies. It is reasonable to give weight to a named, relevant expert speaking within their field, especially when their claim is consistent with other evidence. Rumours become fallacious when the authority cannot be identified, the expertise is irrelevant, the chain of transmission is unclear, or the claim is treated as immune from checking.
 
-The “friend of a friend” pattern is particularly slippery because it sounds close enough to be trustworthy but distant enough to avoid verification. Each person in the chain may honestly believe they are passing on a warning, not inventing a story. UNHCR distinguishes misinformation from disinformation partly by intent: misinformation is inaccurate information shared by people who may not know it is false, while disinformation is deliberately manipulative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary terms</span><span class="citation-popover-snippet">glossary terms</span></span></span> For fallacy analysis, however, the reasoning problem can exist either way. A sincerely shared rumour can still rest on weak support.
+The “friend of a friend” pattern is particularly slippery because it sounds close enough to be trustworthy but distant enough to avoid verification. Each person in the chain may honestly believe they are passing on a warning, not inventing a story. UNHCR distinguishes misinformation from disinformation partly by intent: misinformation is inaccurate information shared by people who may not know it is false, while disinformation is deliberately manipulative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary terms</span><span class="citation-popover-snippet">glossary terms</span></span></span> For fallacy analysis, however, the reasoning problem can exist either way. A sincerely shared rumour can still rest on weak support.
 
 A useful test is whether the authority can be brought into the open. Who exactly made the claim? What did they witness? Are they qualified to know? Is there a document, record, photograph, official statement or independent report that supports it? If the rumour becomes less clear each time those questions are asked, its persuasive force was probably coming from borrowed status rather than evidence.
 
@@ -563,9 +563,9 @@ A useful test is whether the authority can be brought into the open. Who exactly
 
 Rumours often travel fastest when they connect with fear, [anger]({{ 'anger/' | relative_url }}), disgust, hope or group loyalty. Emotional force can make a claim feel true before it has been examined. That does not mean emotions are irrational or irrelevant. Fear may alert people to risk; anger may point to injustice. The fallacy is treating the strength of the feeling as proof of the claim.
 
-Psychological research on fake news has found that relying on emotion can increase belief in false headlines, while more analytical thinking is associated with better truth discernment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">PMCReliance on emotion promotes belief in fake news</span></span></span> A review by Gordon Pennycook and David Rand similarly argues that poor truth discernment is linked not only to political motivation but also to lack of careful reasoning, lack of relevant knowledge and reliance on heuristics such as familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Psychological research on fake news has found that relying on emotion can increase belief in false headlines, while more analytical thinking is associated with better truth discernment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">PMCReliance on emotion promotes belief in fake news</span></span></span> A review by Gordon Pennycook and David Rand similarly argues that poor truth discernment is linked not only to political motivation but also to lack of careful reasoning, lack of relevant knowledge and reliance on heuristics such as familiarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This helps explain why rumours can survive correction. If a rumour gave people a vivid emotional explanation, a later factual correction may feel cold, partial or evasive. Research on misinformation correction notes that retractions do not always fully remove the influence of the original misinformation from later judgements, a problem often called the continued influence effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This helps explain why rumours can survive correction. If a rumour gave people a vivid emotional explanation, a later factual correction may feel cold, partial or evasive. Research on misinformation correction notes that retractions do not always fully remove the influence of the original misinformation from later judgements, a problem often called the continued influence effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The logical lesson is not “ignore emotion”. It is “pause when emotion is doing the evidential work”. A claim that provokes immediate outrage or panic may still be true, but the emotion should trigger verification rather than replace it.
 
@@ -581,13 +581,13 @@ For an everyday reader, the most useful checks are simple:
 Strip away commentary. Is the rumour claiming that something happened, that someone intended something, that a cause has been identified, or that a future event is certain?
 2. **Who is the original source?**
 
-A repost is not a source. A screenshot of a repost is even weaker. Verification guides for user-generated content stress the importance of checking source, date, location and context, especially during emergencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verificationhandbook.com">[verificationhandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verificationhandbook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A repost is not a source. A screenshot of a repost is even weaker. Verification guides for user-generated content stress the importance of checking source, date, location and context, especially during emergencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verificationhandbook.com">[verificationhandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verificationhandbook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 3. **Is there independent corroboration?**
 
-Look for separate reporting, documents, direct witnesses or official records that do not all trace back to the same post. UNICEF’s misinformation guidance recommends checking whether reliable sources are also discussing the claim and warns that absence of corroboration from credible sources raises the risk that a claim is false or misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unicef.org">[UNICEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unicef.org</span><span class="citation-popover-title">quick guide spotting misinformation</span><span class="citation-popover-snippet">quick guide spotting misinformation</span></span></span>
+Look for separate reporting, documents, direct witnesses or official records that do not all trace back to the same post. UNICEF’s misinformation guidance recommends checking whether reliable sources are also discussing the claim and warns that absence of corroboration from credible sources raises the risk that a claim is false or misleading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unicef.org">[UNICEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unicef.org</span><span class="citation-popover-title">quick guide spotting misinformation</span><span class="citation-popover-snippet">quick guide spotting misinformation</span></span></span>
 4. **Could the evidence be old, miscaptioned or from somewhere else?**
 
-Images and videos often persuade because they feel direct. But visual evidence can be real and still misleading if it shows a different time, place or event. Bellingcat’s beginner guide to social media verification highlights geolocation and chronolocation as ways to test whether an image or video matches the claim attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">A Beginner&#x27;s Guide to Social Media Verification</span><span class="citation-popover-snippet">A Beginner&#x27;s Guide to Social Media Verification</span></span></span>
+Images and videos often persuade because they feel direct. But visual evidence can be real and still misleading if it shows a different time, place or event. Bellingcat’s beginner guide to social media verification highlights geolocation and chronolocation as ways to test whether an image or video matches the claim attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">A Beginner&#x27;s Guide to Social Media Verification</span><span class="citation-popover-snippet">A Beginner&#x27;s Guide to Social Media Verification</span></span></span>
 5. **What alternative explanations fit the same facts?**
 
 A rumour often presents one explanation as if it is the only possible one. Asking for alternatives helps reveal false-cause reasoning and hasty generalisation.
@@ -605,7 +605,7 @@ A tricky feature of rumours is that repeating them can amplify them, even when t
 
 A safer approach is to lead with what is known before naming the rumour. For example: “Local health officials say there is no evidence for the claim that…” is better than “Have you heard the rumour that…?” The first frame gives readers an evidential anchor. The second may simply advertise the rumour.
 
-It also helps to avoid mockery. Calling people gullible may make the correction socially costly to accept. In polarised settings, labels can even backfire for some audiences. A study reported in 2024 found that “disputed” labels on false election-fraud tweets did little to change Trump voters’ beliefs and may have reinforced false beliefs among some politically knowledgeable supporters, although the researchers noted contextual limits around the timing and platform trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+It also helps to avoid mockery. Calling people gullible may make the correction socially costly to accept. In polarised settings, labels can even backfire for some audiences. A study reported in 2024 found that “disputed” labels on false election-fraud tweets did little to change Trump voters’ beliefs and may have reinforced false beliefs among some politically knowledgeable supporters, although the researchers noted contextual limits around the timing and platform trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The aim is not to let rumours pass unchallenged. It is to challenge the reasoning: “What is the source?”, “How do we know?”, “Could this be a repost of an older event?”, “Is there a named authority?”, “Has anyone independent verified it?” This keeps the focus on standards of evidence rather than on humiliating the person who shared the claim.
 
@@ -627,269 +627,269 @@ The most disciplined response to a rumour is neither automatic belief nor automa
 That distinction matters because rumours often appear during exactly the moments when clear reasoning is hardest: emergencies, scandals, public-health scares, political conflict and breaking news. In those settings, the safest question is not “Could this be true?” Almost anything could be true in a loose enough sense. The better question is: “What reliable evidence supports this specific claim, and what fallacy am I tempted to use in place of that evidence?”
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Rumours Feel Like Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Rumours Feel Like Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Directly addresses weak evidence, rumours, and credibility claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses weak evidence, rumours, and credibility claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches how to evaluate extraordinary claims and rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to evaluate extraordinary claims and rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why unverified stories can feel convincing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why unverified stories can feel convincing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based evaluation of claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based evaluation of claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumours-why-rumours-feel-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -905,7 +905,7 @@ That distinction matters because rumours often appear during exactly the moments
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -925,7 +925,7 @@ That distinction matters because rumours often appear during exactly the moments
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -957,7 +957,7 @@ That distinction matters because rumours often appear during exactly the moments
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -987,7 +987,7 @@ That distinction matters because rumours often appear during exactly the moments
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1045,196 +1045,196 @@ That distinction matters because rumours often appear during exactly the moments
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Detection and Resolution of Rumours in Social Media: A Survey  
-   Link: <a href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.00656</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.00656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</p></details>
    Published: April 3, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unhcr.org  
    Title: glossary additional terminology  
-   Link: <a href="https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</p></details>
+   Link:<a href="https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: [politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). media.mit.edu  
    Title: Scalable Civic Action The spread of true and false news online  
-   Link: <a href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://politics.media.mit.edu/papers/Vosoughi_Science.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scalable Civic ActionThe spread of true and false news onlineAugust 30, 2020 — by S Vosoughi · Cited by 14070 — We investigated the diffe...</p></details>
+   Link:<a href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://politics.media.mit.edu/papers/Vosoughi_Science.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scalable Civic ActionThe spread of true and false news onlineAugust 30, 2020 — by S Vosoughi · Cited by 14070 — We investigated the diffe...</p></details>
    Published: August 30, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe persuasive effects of social cues and source  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.07562</a>  
+   Link:<a href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.07562</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unhcr.org  
    Title: glossary terms  
-   Link: <a href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms</a>  
+   Link:<a href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReliance on emotion promotes belief in fake news  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
+   Link:<a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: verificationhandbook.com  
-   Link: <a href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow">https://verificationhandbook.com/</a>  
+   Link:<a href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow">https://verificationhandbook.com/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unicef.org  
    Title: quick guide spotting misinformation  
-   Link: <a href="https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation</a>  
+   Link:<a href="https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bellingcat.com  
    Title: A Beginner's Guide to Social Media Verification  
-   Link: <a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
+   Link:<a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bellingcat.com  
    Title: shadow geolocate geolocation locate image tool open source bellingcat measure  
-   Link: <a href="https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/</a>  
+   Link:<a href="https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bellingcat.com  
-   Link: <a href="https://www.bellingcat.com/tag/verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/verification/</a>  
+   Link:<a href="https://www.bellingcat.com/tag/verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/verification/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bellingcat.com  
-   Link: <a href="https://www.bellingcat.com/tag/chronolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/chronolocation/</a>  
+   Link:<a href="https://www.bellingcat.com/tag/chronolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/chronolocation/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bellingcat.com  
-   Link: <a href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/</a>  
+   Link:<a href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691824002221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691824002221</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691824002221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691824002221</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024104999" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024104999</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405844024104999" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024104999</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211883724000091" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211883724000091</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211883724000091" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211883724000091</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691824000921" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691824000921</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691824000921" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691824000921</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unhcr.org  
-   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
+   Link:<a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: help.unhcr.org  
-   Link: <a href="https://help.unhcr.org/czech/safe-online/information/" target="_blank" rel="noopener noreferrer nofollow">https://help.unhcr.org/czech/safe-online/information/</a>  
+   Link:<a href="https://help.unhcr.org/czech/safe-online/information/" target="_blank" rel="noopener noreferrer nofollow">https://help.unhcr.org/czech/safe-online/information/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters</a>  
+   Link:<a href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: science.org  
    Title: fake news spreads faster true news twitter thanks people not bots  
-   Link: <a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
+   Link:<a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scribd.com  
    Title: Bellingcat s Online Investigation Toolkit  
-   Link: <a href="https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit</a>  
+   Link:<a href="https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: imedd.org  
-   Link: <a href="https://www.imedd.org/events/bellingcat/" target="_blank" rel="noopener noreferrer nofollow">https://www.imedd.org/events/bellingcat/</a>  
+   Link:<a href="https://www.imedd.org/events/bellingcat/" target="_blank" rel="noopener noreferrer nofollow">https://www.imedd.org/events/bellingcat/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bellingcat.gitbook.io  
    Title: io Geolocation  
-   Link: <a href="https://bellingcat.gitbook.io/toolkit/categories/geolocation" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/categories/geolocation</a>  
+   Link:<a href="https://bellingcat.gitbook.io/toolkit/categories/geolocation" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/categories/geolocation</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational</a>  
+   Link:<a href="https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: labxchange.org  
-   Link: <a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
+   Link:<a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377300923_Logical_Fallacies_How_They_Undermine_Critical_Thinking_and_How_to_Avoid_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377300923_Logical_Fallacies_How_They_Undermine_Critical_Thinking_and_How_to_Avoid_Them</a>  
+   Link:<a href="https://www.researchgate.net/publication/377300923_Logical_Fallacies_How_They_Undermine_Critical_Thinking_and_How_to_Avoid_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377300923_Logical_Fallacies_How_They_Undermine_Critical_Thinking_and_How_to_Avoid_Them</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/</a>  
+   Link:<a href="https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: rtdna.org  
-   Link: <a href="https://www.rtdna.org/preventing-the-spread-of-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.rtdna.org/preventing-the-spread-of-misinformation-and-disinformation</a>  
+   Link:<a href="https://www.rtdna.org/preventing-the-spread-of-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.rtdna.org/preventing-the-spread-of-misinformation-and-disinformation</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHO/posts/sharing-unverified-health-information-during-the-covid-19-pandemic-can-be-confus/3286468124731881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/sharing-unverified-health-information-during-the-covid-19-pandemic-can-be-confus/3286468124731881/</a>  
+   Link:<a href="https://www.facebook.com/WHO/posts/sharing-unverified-health-information-during-the-covid-19-pandemic-can-be-confus/3286468124731881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/sharing-unverified-health-information-during-the-covid-19-pandemic-can-be-confus/3286468124731881/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Norbert-Schwarz-3/publication/347798577_When_Fake_News_Feels_True/links/5fe97fc4a6fdccdcb80cc213/When-Fake-News-Feels-True.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Norbert-Schwarz-3/publication/347798577_When_Fake_News_Feels_True/links/5fe97fc4a6fdccdcb80cc213/When-Fake-News-Feels-True.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Norbert-Schwarz-3/publication/347798577_When_Fake_News_Feels_True/links/5fe97fc4a6fdccdcb80cc213/When-Fake-News-Feels-True.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Norbert-Schwarz-3/publication/347798577_When_Fake_News_Feels_True/links/5fe97fc4a6fdccdcb80cc213/When-Fake-News-Feels-True.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: advances.in  
-   Link: <a href="https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/</a>  
+   Link:<a href="https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/scientific-social-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/scientific-social-[mechanisms</a>
+   Link:<a href="https://www.linkedin.com/pulse/scientific-social-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/scientific-social-[mechanisms</a>

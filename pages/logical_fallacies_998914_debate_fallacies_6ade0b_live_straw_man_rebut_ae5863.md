@@ -268,10 +268,10 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_stra
 
 ## Introduction
 
-A straw man rebuttal is not primarily about naming a fallacy. In a live [debate]({{ 'debate/' | relative_url }}), its purpose is to restore the original claim before the audience accepts a distorted version of it. A straw man occurs when a speaker replaces an opponent’s actual position with a weaker, more extreme, or simplified version and then attacks that substitute instead of the real argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[2scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">straw man fallacy</span><span class="citation-popover-snippet">What Is Straw Man Fallacy? &#124; Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</span></span></span>
+A straw man rebuttal is not primarily about naming a fallacy. In a live [debate]({{ 'debate/' | relative_url }}), its purpose is to restore the original claim before the audience accepts a distorted version of it. A straw man occurs when a speaker replaces an opponent’s actual position with a weaker, more extreme, or simplified version and then attacks that substitute instead of the real argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[2scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">straw man fallacy</span><span class="citation-popover-snippet">What Is Straw Man Fallacy? &#124; Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_straw_man_rebut_ae5863-Illustration-1-dark.svg" | relative_url }}" alt="Straw Men illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_straw_man_rebut_ae5863-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_straw_man_rebut_ae5863-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The challenge in live debate is timing. Audiences often hear the distortion and the attack in quick succession. If the misrepresentation goes uncorrected, the debate can shift onto ground chosen by the opponent. Effective straw man rebuttals therefore follow a simple mechanism: identify the change, rebuild the fair version, and redirect attention to the issue that was originally under discussion. This approach answers the distortion without becoming trapped in a side argument about rhetoric. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When and how do we deal with straw men?</span><span class="citation-popover-snippet">A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</span></span></span>
+The challenge in live debate is timing. Audiences often hear the distortion and the attack in quick succession. If the misrepresentation goes uncorrected, the debate can shift onto ground chosen by the opponent. Effective straw man rebuttals therefore follow a simple mechanism: identify the change, rebuild the fair version, and redirect attention to the issue that was originally under discussion. This approach answers the distortion without becoming trapped in a side argument about rhetoric.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When and how do we deal with straw men?</span><span class="citation-popover-snippet">A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</span></span></span>
 
 ## Spot the Changed Claim
 
@@ -285,7 +285,7 @@ A straw man works because the replacement claim usually resembles the original c
 
 * **Oversimplification:** a nuanced position is reduced to a crude slogan.
 * **Selective representation:** only the weakest part of a position is presented and treated as the whole position.
-* **Fabrication:** an opponent is attributed a view they never expressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[2dwc.knaw.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-snippet">The straw man fallacyIn the straw man argument, by definition, the misrepresented position of an arguer is used to attack, to criticize o...</span></span></span>
+* **Fabrication:** an opponent is attributed a view they never expressed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[2dwc.knaw.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-snippet">The straw man fallacyIn the straw man argument, by definition, the misrepresented position of an arguer is used to attack, to criticize o...</span></span></span>
 
 </div>
 
@@ -324,11 +324,11 @@ For example:
 
 > “They are arguing against a position I did not take. My claim is that the policy needs targeted reform, not complete replacement. Their criticism only addresses complete replacement.”
 
-This technique mirrors what argumentation scholars describe as addressing the actual standpoint rather than a misrepresented one. The central issue is not merely that a description is inaccurate; it is that the criticism no longer engages with the argument that was originally offered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When and how do we deal with straw men?</span><span class="citation-popover-snippet">A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[2dwc.knaw.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-snippet">The straw man fallacyIn the straw man argument, by definition, the misrepresented position of an arguer is used to attack, to criticize o...</span></span></span>
+This technique mirrors what argumentation scholars describe as addressing the actual standpoint rather than a misrepresented one. The central issue is not merely that a description is inaccurate; it is that the criticism no longer engages with the argument that was originally offered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When and how do we deal with straw men?</span><span class="citation-popover-snippet">A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[2dwc.knaw.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-snippet">The straw man fallacyIn the straw man argument, by definition, the misrepresented position of an arguer is used to attack, to criticize o...</span></span></span>
 
 ### Why Reconstruction Matters
 
-Research on [straw man arguments]({{ 'straw-man/' | relative_url }}) emphasises that the fallacy depends on presenting a more attackable version of a position. If the audience never hears the original position clearly restated, the distortion can continue to shape how the debate is understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15534510802598152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe persuasiveness of the straw man rhetorical techniqueby GY Bizer · 2009 · Cited by 55 — The straw man technique...</span></span></span>
+Research on [straw man arguments]({{ 'straw-man/' | relative_url }}) emphasises that the fallacy depends on presenting a more attackable version of a position. If the audience never hears the original position clearly restated, the distortion can continue to shape how the debate is understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15534510802598152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe persuasiveness of the straw man rhetorical techniqueby GY Bizer · 2009 · Cited by 55 — The straw man technique...</span></span></span>
 
 In practical terms, rebuilding the argument serves two purposes:
 
@@ -354,7 +354,7 @@ For example:
 
 The audience is reminded that the debate concerns the merits of the proposal, not the invented version.
 
-This redirection is especially important because persuasion in live settings depends heavily on maintaining focus. Once a speaker successfully shifts the discussion away from the distorted claim and back to the decision the audience must make, the strategic value of the straw man largely disappears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.11889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This redirection is especially important because persuasion in live settings depends heavily on maintaining focus. Once a speaker successfully shifts the discussion away from the distorted claim and back to the decision the audience must make, the strategic value of the straw man largely disappears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.11889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGZkCPo7tC0" title="The Strawman Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer">The Strawman Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 544.0K &middot; Uploaded: October 2014 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGZkCPo7tC0">Open on YouTube</a></p></div></div></div>
 
@@ -399,7 +399,7 @@ This often legitimises the substitution and pulls the debate further away from t
 
 **Treating every simplification as a straw man.**
 
-Debate requires summarising opposing views. Not every brief summary is a distortion. The key question is whether the revised claim changes the substance of the original position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When and how do we deal with straw men?</span><span class="citation-popover-snippet">A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</span></span></span>
+Debate requires summarising opposing views. Not every brief summary is a distortion. The key question is whether the revised claim changes the substance of the original position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When and how do we deal with straw men?</span><span class="citation-popover-snippet">A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XvD_gg1fQXI" title="Straw Man Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XvD_gg1fQXI" target="_blank" rel="noopener noreferrer">Straw Man Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon &middot; Views: 39.4K &middot; Uploaded: September 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XvD_gg1fQXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XvD_gg1fQXI">Open on YouTube</a></p></div></div></div>
 
@@ -409,272 +409,272 @@ The most effective straw man rebuttals are surprisingly simple. They do not rely
 
 The opponent replaces the original claim with a weaker substitute. The rebuttal replaces that substitute with the real claim.
 
-When done well, the audience sees three things in rapid succession: the distortion, the accurate version, and the unresolved question that actually matters. At that point, the debate returns to the merits of the argument rather than the caricature that briefly took its place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanderbilt.edu">[Vanderbilt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanderbilt.edu</span><span class="citation-popover-title">straw man arguments in political debates</span><span class="citation-popover-snippet">Vanderbilt UniversityStraw Man Arguments in Political Debates6 Apr 2022 — Employing straw man arguments in political debates signals we a...</span></span></span>
+When done well, the audience sees three things in rapid succession: the distortion, the accurate version, and the unresolved question that actually matters. At that point, the debate returns to the merits of the argument rather than the caricature that briefly took its place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanderbilt.edu">[Vanderbilt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanderbilt.edu</span><span class="citation-popover-title">straw man arguments in political debates</span><span class="citation-popover-snippet">Vanderbilt UniversityStraw Man Arguments in Political Debates6 Apr 2022 — Employing straw man arguments in political debates signals we a...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Answer a Straw Man Fast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Answer a Straw Man Fast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Teaches accurate representation of opposing arguments and effective rebuttal.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches accurate representation of opposing arguments and effective rebuttal.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Includes analysis of straw man arguments and rebuttal techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes analysis of straw man arguments and rebuttal techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Thinker&#x27;s Guide to Fallacies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IfmAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Thinker&#x27;s Guide to Fallacies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thinker&#x27;s Guide to Fallacies">The Thinker&#x27;s Guide to Fallacies</a>
-        </h4>
-        <p class="fr-book-author">By Richard Paul, Linda Elder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Thinker&#x27;s Guide to Fallacies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IfmAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Thinker&#x27;s Guide to Fallacies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thinker&#x27;s Guide to Fallacies">The Thinker&#x27;s Guide to Fallacies</a>
+</h4>
+<p class="fr-book-author">By Richard Paul, Linda Elder</p>
         
-        <p class="fr-book-desc">Explains how distorted versions of arguments mislead audiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how distorted versions of arguments mislead audiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
-        </h4>
-        <p class="fr-book-author">By Jay Heinrichs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
+</h4>
+<p class="fr-book-author">By Jay Heinrichs</p>
         
-        <p class="fr-book-desc">Offers practical techniques for responding effectively in live debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers practical techniques for responding effectively in live debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Thinker%27s+to+Fallacies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Thinker&#x27;s to Fallacies books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Thinker%27s+to+Fallacies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Thinker&#x27;s to Fallacies books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for This Man Stole My Data T Shirt Funny Mark Zuckerberg Meme Parody Cursed Gift Tee"><img src="{{ '/assets/images/marketplace-covers/6c1dddf6e8a4f5c43fca.jpg' | relative_url }}" alt="Listing image for This Man Stole My Data T Shirt Funny Mark Zuckerberg Meme Parody Cursed Gift Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">This Man Stole My Data T Shirt Funny Mark Zuckerberg Meme Parody Cursed Gift Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search <span data-ebay-domain-label>eBay.com</span>: debate t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for This Man Stole My Data T Shirt Funny Mark Zuckerberg Meme Parody Cursed Gift Tee"><img src="{{ '/assets/images/marketplace-covers/6c1dddf6e8a4f5c43fca.jpg' | relative_url }}" alt="Listing image for This Man Stole My Data T Shirt Funny Mark Zuckerberg Meme Parody Cursed Gift Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">This Man Stole My Data T Shirt Funny Mark Zuckerberg Meme Parody Cursed Gift Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search<span data-ebay-domain-label>eBay.com</span>: debate t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trump Holding Cat Funny Debate Reference Trump 2024 Unisex T-Shirt"><img src="{{ '/assets/images/marketplace-covers/3536d4bbe8c994348074.jpg' | relative_url }}" alt="Listing image for Trump Holding Cat Funny Debate Reference Trump 2024 Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Trump Holding Cat Funny Debate Reference Trump 2024 Unisex T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search <span data-ebay-domain-label>eBay.com</span>: debate t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trump Holding Cat Funny Debate Reference Trump 2024 Unisex T-Shirt"><img src="{{ '/assets/images/marketplace-covers/3536d4bbe8c994348074.jpg' | relative_url }}" alt="Listing image for Trump Holding Cat Funny Debate Reference Trump 2024 Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Trump Holding Cat Funny Debate Reference Trump 2024 Unisex T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search<span data-ebay-domain-label>eBay.com</span>: debate t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Debate Inspired Graphic T-Shirt Unisex Crewneck"><img src="{{ '/assets/images/marketplace-covers/ba6f28f615efa5605463.jpg' | relative_url }}" alt="Listing image for Funny Debate Inspired Graphic T-Shirt Unisex Crewneck" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Debate Inspired Graphic T-Shirt Unisex Crewneck</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search <span data-ebay-domain-label>eBay.com</span>: debate t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Debate Inspired Graphic T-Shirt Unisex Crewneck"><img src="{{ '/assets/images/marketplace-covers/ba6f28f615efa5605463.jpg' | relative_url }}" alt="Listing image for Funny Debate Inspired Graphic T-Shirt Unisex Crewneck" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Debate Inspired Graphic T-Shirt Unisex Crewneck</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search<span data-ebay-domain-label>eBay.com</span>: debate t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2000 Years Ago Jesus Ended The Debate Christian Believe Black T-Shirt Size S-5XL"><img src="{{ '/assets/images/marketplace-covers/c246e994ba30c7d670fb.jpg' | relative_url }}" alt="Listing image for 2000 Years Ago Jesus Ended The Debate Christian Believe Black T-Shirt Size S-5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2000 Years Ago Jesus Ended The Debate Christian Believe Black T-Shirt Size S-5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search <span data-ebay-domain-label>eBay.com</span>: debate t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2000 Years Ago Jesus Ended The Debate Christian Believe Black T-Shirt Size S-5XL"><img src="{{ '/assets/images/marketplace-covers/c246e994ba30c7d670fb.jpg' | relative_url }}" alt="Listing image for 2000 Years Ago Jesus Ended The Debate Christian Believe Black T-Shirt Size S-5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2000 Years Ago Jesus Ended The Debate Christian Believe Black T-Shirt Size S-5XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search<span data-ebay-domain-label>eBay.com</span>: debate t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-debate-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-men-16d877-how-to-answer-a-straw-man-fast-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -690,7 +690,7 @@ When done well, the audience sees three things in rapid succession: the distorti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -710,7 +710,7 @@ When done well, the audience sees three things in rapid succession: the distorti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -742,7 +742,7 @@ When done well, the audience sees three things in rapid succession: the distorti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -772,7 +772,7 @@ When done well, the audience sees three things in rapid succession: the distorti
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -830,122 +830,122 @@ When done well, the audience sees three things in rapid succession: the distorti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</p></details>
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-031-94094" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: straw man fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect When and how do we deal with straw men?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1907.11889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.11889</a>  
+   Link:<a href="https://arxiv.org/abs/1907.11889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.11889</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dwc.knaw.nl  
-   Link: <a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacyIn the straw man argument, by definition, the misrepresented position of an arguer is used to attack, to criticize o...</p></details>
+   Link:<a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacyIn the straw man argument, by definition, the misrepresented position of an arguer is used to attack, to criticize o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect What makes a straw man acceptable?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three experiments...by J Schumann · 2019 · Cited by 57 — A straw man is a form of fallacious argument that involves the distortion of an...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three experiments...by J Schumann · 2019 · Cited by 57 — A straw man is a form of fallacious argument that involves the distortion of an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vanderbilt.edu  
    Title: straw man arguments in political debates  
-   Link: <a href="https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStraw Man Arguments in Political Debates6 Apr 2022 — Employing straw man arguments in political debates signals we a...</p></details>
+   Link:<a href="https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStraw Man Arguments in Political Debates6 Apr 2022 — Employing straw man arguments in political debates signals we a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Straw" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StrawStraw is an agricultural byproduct consisting of the dry stalks of cereal plants after the grain and chaff have been removed. It...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Straw" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StrawStraw is an agricultural byproduct consisting of the dry stalks of cereal plants after the grain and chaff have been removed. It...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15534510802598152" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15534510802598152</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe persuasiveness of the straw man rhetorical techniqueby GY Bizer · 2009 · Cited by 55 — The straw man technique...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/15534510802598152" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15534510802598152</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe persuasiveness of the straw man rhetorical techniqueby GY Bizer · 2009 · Cited by 55 — The straw man technique...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribbr.co.uk  
    Title: What Is Straw Man Argument?  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/straw-man-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/straw-man-argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples - Scribbr12 Apr 2023 — Straw man argument is the distortion of someone else&#x27;s argument (instead of addressing the...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/straw-man-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/straw-man-argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples - Scribbr12 Apr 2023 — Straw man argument is the distortion of someone else&#x27;s argument (instead of addressing the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/uk/dictionary/english/straw" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/uk/dictionary/english/straw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Значення в англійській мові - Cambridge Dictionarya thin tube made of plastic or waterproof paper that is used to suck liquid into the...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/uk/dictionary/english/straw" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/uk/dictionary/english/straw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Значення в англійській мові - Cambridge Dictionarya thin tube made of plastic or waterproof paper that is used to suck liquid into the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html</a>  
+   Link:<a href="https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394025945_The_Straw_Man_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394025945_The_Straw_Man_Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Straw Man FallacyThis chapter introduces the reader to the core topic of this book, namely the straw man fallacy. It aims to di...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394025945_The_Straw_Man_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394025945_The_Straw_Man_Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Straw Man FallacyThis chapter introduces the reader to the core topic of this book, namely the straw man fallacy. It aims to di...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eli5 what is a strawman argument?: r/explainlikeimfiveA strawman fallacy is twisting and distorting the points of your opponent into a m...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eli5 what is a strawman argument?: r/explainlikeimfiveA strawman fallacy is twisting and distorting the points of your opponent into a m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/straw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningThe meaning of STRAW is stalks of grain after threshing; broadly: dry stalky plant residue used like grain str...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/straw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningThe meaning of STRAW is stalks of grain after threshing; broadly: dry stalky plant residue used like grain str...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: strawofficial.com  
-   Link: <a href="https://strawofficial.com/" target="_blank" rel="noopener noreferrer nofollow">https://strawofficial.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StrawStraw is a humble, young and ticking brand – striving to create and curate ethically made products that take you on an incredible jo...</p></details>
+   Link:<a href="https://strawofficial.com/" target="_blank" rel="noopener noreferrer nofollow">https://strawofficial.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StrawStraw is a humble, young and ticking brand – striving to create and curate ethically made products that take you on an incredible jo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strawman FallacyDescription: Substituting a person&#x27;s actual position or argument with a distorted, exaggerated, or misrepresented version...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strawman FallacyDescription: Substituting a person&#x27;s actual position or argument with a distorted, exaggerated, or misrepresented version...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: STRAW MAN DEFINITION...TODAY&#x27;S FALLACY: STRAW MAN DEFINITION AND EXPLANATION: A straw man argument misrepresents an opp...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: STRAW MAN DEFINITION...TODAY&#x27;S FALLACY: STRAW MAN DEFINITION AND EXPLANATION: A straw man argument misrepresents an opp...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/purple-theory/the-straw-man-fallacy-682ab87445c4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/purple-theory/the-straw-man-fallacy-682ab87445c4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straw Man FallacyStraw man arguments could be by exaggerating an opponent&#x27;s proposition (as in the case above), oversimplifying it, o...</p></details>
+   Link:<a href="https://medium.com/purple-theory/the-straw-man-fallacy-682ab87445c4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/purple-theory/the-straw-man-fallacy-682ab87445c4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Straw Man FallacyStraw man arguments could be by exaggerating an opponent&#x27;s proposition (as in the case above), oversimplifying it, o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of their connection to cognitive heuristics.6 He does so by relying on the; concepts developed...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of their connection to cognitive heuristics.6 He does so by relying on the; concepts developed...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: folia.unifr.ch  
-   Link: <a href="https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=" target="_blank" rel="noopener noreferrer nofollow">https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy denotes the misrepresentation of someone&#x27;s position in order to easily refute that.Read more...</p></details>
+   Link:<a href="https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=" target="_blank" rel="noopener noreferrer nofollow">https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy denotes the misrepresentation of someone&#x27;s position in order to easily refute that.Read more...</p></details>

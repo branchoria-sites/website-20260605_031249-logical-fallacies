@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-equivocation/
 description: Focused pages that expand on Equivocation.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_equivocation_cdc9d3
 parent_title: Equivocation
@@ -16,7 +16,7 @@ parent_permalink: /equivocation/
 
 # Explore Topics in Equivocation
 
-The following pages expand on the main **[Equivocation]({{ '/equivocation/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Equivocation]({{ '/equivocation/' | relative_url }})** page and cover its key branches in.
 
 - [Compare Fallacies]({{ '/compare-fallacies/' | relative_url }})
 - [Free Speech]({{ '/free-speech/' | relative_url }})

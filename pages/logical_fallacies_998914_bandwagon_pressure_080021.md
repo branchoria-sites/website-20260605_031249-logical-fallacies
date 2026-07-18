@@ -501,14 +501,14 @@ image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021-overvie
 
 ## Introduction
 
-Bandwagon pressure is the social push to agree because a view appears popular: “everyone thinks this”, “most people are doing it”, or “you do not want to be the only one left out”. As a logical fallacy, it is a form of appeal to popularity: the fact that many people accept a claim does not, by itself, prove that the claim is true, wise, ethical or well-evidenced. Stanford’s entry on fallacies describes ad populum reasoning as an appeal to popular opinion rather than to relevant proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The fallacy ad popu...</span></span></span> Encyclopedia of Philosophy
+Bandwagon pressure is the social push to agree because a view appears popular: “everyone thinks this”, “most people are doing it”, or “you do not want to be the only one left out”. As a logical fallacy, it is a form of appeal to popularity: the fact that many people accept a claim does not, by itself, prove that the claim is true, wise, ethical or well-evidenced. Stanford’s entry on fallacies describes ad populum reasoning as an appeal to popular opinion rather than to relevant proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The fallacy ad popu...</span></span></span> Encyclopedia of Philosophy
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021-overview.webp" | relative_url }}" alt="Overview image for Bandwagon" loading="eager" decoding="sync" fetchpriority="high">
 This matters because bandwagon arguments rarely feel like formal arguments. They often feel like social belonging. The pressure may come from friends, workplace culture, [advertising]({{ 'advertising/' | relative_url }}), online metrics, polls, trends or public silence from people who disagree. Sometimes popularity is useful information: if a restaurant is busy, it may be good; if many engineers warn about a bridge, that consensus matters. The fallacy begins when popularity replaces the missing evidence, especially where the real question is factual, moral, technical or causal rather than simply social.
 
 ## Why popularity can feel like proof
 
-Bandwagon pressure works because humans are social learners. In uncertain situations, other people’s behaviour can be a useful clue. A queue outside a shop, thousands of positive reviews, or a widely shared public health practice may all reduce the effort of checking everything from scratch. Behavioural researchers often describe this as [social proof]({{ 'social-proof/' | relative_url }}): people use others’ actions as evidence about what is normal, safe or worth doing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofWhile social proof can promote the uptake of positive behaviors, it can also lead to undesirable conformity o...</span></span></span>
+Bandwagon pressure works because humans are social learners. In uncertain situations, other people’s behaviour can be a useful clue. A queue outside a shop, thousands of positive reviews, or a widely shared public health practice may all reduce the effort of checking everything from scratch. Behavioural researchers often describe this as [social proof]({{ 'social-proof/' | relative_url }}): people use others’ actions as evidence about what is normal, safe or worth doing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofWhile social proof can promote the uptake of positive behaviors, it can also lead to undesirable conformity o...</span></span></span>
 
 That shortcut becomes risky when the argument quietly changes shape. “Many people believe this” is not the same as “this is true”. “Most people are buying it” is not the same as “it is good”. “Everyone in this group agrees” is not the same as “there are no serious objections”. Bandwagon reasoning turns a population signal into a substitute for evidence, and the substitution can be hard to notice because the social signal is vivid, immediate and emotionally loaded.
 
@@ -518,11 +518,11 @@ A classic distinction helps here: **popularity may be evidence about popularity*
 
 Bandwagon pressure often persuades less by proving a conclusion than by making disagreement feel socially costly. The implied message is not only “this claim is popular”, but “people like us accept this claim”. That is why bandwagon arguments often appear in identity-heavy settings: [politics]({{ 'politics/' | relative_url }}), fandoms, workplaces, classrooms, investment bubbles, consumer trends and online communities where belonging matters.
 
-Psychologists distinguish between different kinds of conformity. **Normative social influence** occurs when people go along with a group to avoid rejection, embarrassment or isolation; the person may comply publicly without fully believing the claim privately. **Informational social influence** occurs when people accept the group’s view because they think the [group knows]({{ 'group-knows/' | relative_url }}) better, especially in ambiguous situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/normative-informational-social-influence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyNormative &amp; Informational Social Influenceby S McLeod · Cited by 3 — Normative social influence is where a person confor...</span></span></span>
+Psychologists distinguish between different kinds of conformity. **Normative social influence** occurs when people go along with a group to avoid rejection, embarrassment or isolation; the person may comply publicly without fully believing the claim privately. **Informational social influence** occurs when people accept the group’s view because they think the [group knows]({{ 'group-knows/' | relative_url }}) better, especially in ambiguous situations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/normative-informational-social-influence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyNormative &amp; Informational Social Influenceby S McLeod · Cited by 3 — Normative social influence is where a person confor...</span></span></span>
 
 The bandwagon fallacy can exploit either route. Normative pressure says, “Agree, or you will look foolish.” Informational pressure says, “Agree, because all these people cannot be wrong.” Both can be reasonable in limited contexts: a novice may sensibly listen to a room full of experienced pilots, doctors or electricians. The fallacy is not that groups are always wrong. It is that the argument asks the listener to stop asking whether the group’s view is supported by relevant evidence.
 
-Solomon Asch’s famous conformity experiments remain a useful concrete anchor. Participants were asked to judge the length of lines, a simple visual task with a clear answer. When a unanimous group gave the wrong answer before them, many participants conformed at least sometimes, even though the evidence was right in front of them. In Asch’s 1955 report, the question was framed directly: how strong is the urge towards social conformity when others’ opinions conflict with one’s own judgement? <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Opinions and Social Pressure by Solomon E. Asch. I t&quot;. F. SCIENTIFIC. AMERICAN. NOVEMBER. 1955. VOL. 193, NO. 5. PP. 31-35 c. J. Copyrigh...</span></span></span>
+Solomon Asch’s famous conformity experiments remain a useful concrete anchor. Participants were asked to judge the length of lines, a simple visual task with a clear answer. When a unanimous group gave the wrong answer before them, many participants conformed at least sometimes, even though the evidence was right in front of them. In Asch’s 1955 report, the question was framed directly: how strong is the urge towards social conformity when others’ opinions conflict with one’s own judgement?<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Opinions and Social Pressure by Solomon E. Asch. I t&quot;. F. SCIENTIFIC. AMERICAN. NOVEMBER. 1955. VOL. 193, NO. 5. PP. 31-35 c. J. Copyrigh...</span></span></span>
 
 The most important lesson is not that people are mindless followers. Asch also showed that independence was common, and that conformity fell when unanimity was broken. A single ally, even one who simply disrupted the appearance of total agreement, made it easier for people to trust their own perception. That point matters for bandwagon arguments: the appearance of “everyone agrees” may be more powerful than the actual number of people who have good reasons.
 
@@ -553,11 +553,11 @@ This is where bandwagon reasoning differs from legitimate appeals to consensus. 
 
 ## When social proof helps, and when it misleads
 
-Social proof is not automatically irrational. In everyday life, it can be efficient. A hotel guest who sees that most previous guests reused towels may infer that reuse is normal and acceptable. Field research on hotel towel reuse found that descriptive norm messages, such as telling guests that most others reused towels, could outperform standard environmental appeals. One later study reported a higher reuse rate under a descriptive norm message than under a standard message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/goldstein_et_al._2008_-_a_room_with_a_viewpoint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sparq.stanford.edu">[SPARQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sparq.stanford.edu</span><span class="citation-popover-title">SPARQA Room with a Viewpoint: Using Social Norms to Motivate</span><span class="citation-popover-snippet">SPARQA Room with a Viewpoint: Using Social Norms to Motivate</span></span></span>
+Social proof is not automatically irrational. In everyday life, it can be efficient. A hotel guest who sees that most previous guests reused towels may infer that reuse is normal and acceptable. Field research on hotel towel reuse found that descriptive norm messages, such as telling guests that most others reused towels, could outperform standard environmental appeals. One later study reported a higher reuse rate under a descriptive norm message than under a standard message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/goldstein_et_al._2008_-_a_room_with_a_viewpoint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sparq.stanford.edu">[SPARQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sparq.stanford.edu</span><span class="citation-popover-title">SPARQA Room with a Viewpoint: Using Social Norms to Motivate</span><span class="citation-popover-snippet">SPARQA Room with a Viewpoint: Using Social Norms to Motivate</span></span></span>
 
 That example shows why bandwagon pressure is persuasive: it often works. People care about what others do, especially when the behaviour is low-risk, visible and socially meaningful. But it also shows the boundary. A descriptive norm can encourage behaviour, but it does not prove that the behaviour is right in every circumstance. The statement “most guests reused towels” can influence action; it is not, by itself, a full environmental analysis.
 
-In advertising and online platforms, the same mechanism can become manipulative. Star ratings, bestseller badges, “trending” labels, follower counts and “people are viewing this now” messages all make popularity visible. Sometimes they help users navigate too much information. Sometimes they push users to treat popularity as quality. Research on recommender systems has described the bandwagon effect as a distinct problem because visible prior [interactions]({{ 'interactions/' | relative_url }}), such as ratings, views or sales, can influence later user behaviour rather than merely record independent preferences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12701" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Bandwagon Effect: Not Just Another Bias</span><span class="citation-popover-snippet">arXiv The Bandwagon Effect: Not Just Another Bias</span></span></span>
+In advertising and online platforms, the same mechanism can become manipulative. Star ratings, bestseller badges, “trending” labels, follower counts and “people are viewing this now” messages all make popularity visible. Sometimes they help users navigate too much information. Sometimes they push users to treat popularity as quality. Research on recommender systems has described the bandwagon effect as a distinct problem because visible prior [interactions]({{ 'interactions/' | relative_url }}), such as ratings, views or sales, can influence later user behaviour rather than merely record independent preferences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12701" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Bandwagon Effect: Not Just Another Bias</span><span class="citation-popover-snippet">arXiv The Bandwagon Effect: Not Just Another Bias</span></span></span>
 
 The risk is feedback. A thing appears popular, so more people try it; because more people try it, it appears even more popular. The chain may begin with quality, luck, advertising spend, influencer attention, platform design or early manipulation. Once the visible numbers grow, the numbers themselves become part of the persuasion.
 
@@ -565,20 +565,20 @@ The risk is feedback. A thing appears popular, so more people try it; because mo
 
 Bandwagon pressure does not require everyone to agree. It only requires enough people to believe that everyone agrees. That is why silence matters. If dissenters stay quiet, a view can look more dominant than it really is. Others then become more reluctant to speak, which strengthens the impression of consensus.
 
-This dynamic overlaps with the “spiral of silence”, a theory associated with Elisabeth Noelle-Neumann. The core idea is that people are less willing to express opinions they perceive as unpopular, especially where disagreement risks social isolation or punishment. Noelle-Neumann linked public opinion, sanction and fear of isolation, arguing that people monitor the social climate around them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vnecas.wordpress.com/wp-content/uploads/2010/03/spiral_of_silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vnecas.wordpress.com">[agenda-setting Weblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vnecas.wordpress.com</span><span class="citation-popover-title">agenda-setting Weblog The Spiral of Silence A Theory of Public Opinion</span><span class="citation-popover-snippet">agenda-setting Weblog The Spiral of Silence A Theory of Public Opinion</span></span></span>
+This dynamic overlaps with the “spiral of silence”, a theory associated with Elisabeth Noelle-Neumann. The core idea is that people are less willing to express opinions they perceive as unpopular, especially where disagreement risks social isolation or punishment. Noelle-Neumann linked public opinion, sanction and fear of isolation, arguing that people monitor the social climate around them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vnecas.wordpress.com/wp-content/uploads/2010/03/spiral_of_silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vnecas.wordpress.com">[agenda-setting Weblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vnecas.wordpress.com</span><span class="citation-popover-title">agenda-setting Weblog The Spiral of Silence A Theory of Public Opinion</span><span class="citation-popover-snippet">agenda-setting Weblog The Spiral of Silence A Theory of Public Opinion</span></span></span>
 
-Pew Research explored this pattern in a study of discussion around the Snowden-NSA story. The report found that people were generally less willing to discuss the issue on [social media]({{ 'social-media/' | relative_url }}) than in person, and that people were more willing to speak when they believed their audience agreed with them. Pew described this as connected to a long-observed tendency for those who think they hold minority opinions to self-censor for fear of ostracism or ridicule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Social Media and the &#x27;Spiral of Silence</span><span class="citation-popover-snippet">Pew Research Center Social Media and the &#x27;Spiral of Silence</span></span></span>
+Pew Research explored this pattern in a study of discussion around the Snowden-NSA story. The report found that people were generally less willing to discuss the issue on [social media]({{ 'social-media/' | relative_url }}) than in person, and that people were more willing to speak when they believed their audience agreed with them. Pew described this as connected to a long-observed tendency for those who think they hold minority opinions to self-censor for fear of ostracism or ridicule.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Social Media and the &#x27;Spiral of Silence</span><span class="citation-popover-snippet">Pew Research Center Social Media and the &#x27;Spiral of Silence</span></span></span>
 
 For logical fallacies, the lesson is precise: “no one objected” is weaker than it sounds. People may be silent because they agree, but also because they are tired, unsure, outnumbered, junior, afraid of consequences, or convinced that speaking would be pointless. A bandwagon argument often treats silence as consent and visible agreement as total agreement. Both assumptions need testing.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021-Illustration-2-dark.svg" | relative_url }}" alt="Bandwagon illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How groups misread what groups believe
 
-Bandwagon pressure becomes stronger when people misjudge what others privately think. **Pluralistic ignorance** occurs when members of a group systematically misestimate their peers’ private attitudes, feelings or behaviours. A group may publicly sustain a norm that many members privately doubt because each person assumes others support it more strongly than they do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers A century of pluralistic ignorance: what we have learned</span><span class="citation-popover-snippet">Frontiers A century of pluralistic ignorance: what we have learned</span></span></span>
+Bandwagon pressure becomes stronger when people misjudge what others privately think. **Pluralistic ignorance** occurs when members of a group systematically misestimate their peers’ private attitudes, feelings or behaviours. A group may publicly sustain a norm that many members privately doubt because each person assumes others support it more strongly than they do.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers A century of pluralistic ignorance: what we have learned</span><span class="citation-popover-snippet">Frontiers A century of pluralistic ignorance: what we have learned</span></span></span>
 
 This can make a weak consensus look solid. In a workplace, many employees may privately doubt a fashionable strategy but attend meetings where no one wants to be the first to question it. In a classroom, students may pretend to understand because they assume everyone else understands. In an online group, members may repeat the dominant view because dissent looks rare, even when private disagreement is widespread.
 
-A related distortion is the false consensus effect, where people overestimate how many others share their own beliefs or preferences. Open Social Psychology describes it as a bias in which individuals overestimate the extent to which their own beliefs, preferences and behaviours are shared by others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forrt.org/open-social-psychology/chapter16.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forrt.org">[forrt.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forrt.org</span><span class="citation-popover-title">Open Social Psychology</span><span class="citation-popover-snippet">Open Social Psychology</span></span></span>
+A related distortion is the false consensus effect, where people overestimate how many others share their own beliefs or preferences. Open Social Psychology describes it as a bias in which individuals overestimate the extent to which their own beliefs, preferences and behaviours are shared by others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://forrt.org/open-social-psychology/chapter16.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forrt.org">[forrt.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forrt.org</span><span class="citation-popover-title">Open Social Psychology</span><span class="citation-popover-snippet">Open Social Psychology</span></span></span>
 
 Both errors can feed bandwagon reasoning from opposite directions. Pluralistic ignorance can make people conform to a norm they privately doubt. False consensus can make advocates overstate how widely their view is shared. In both cases, the argument “everyone thinks this” may be less a fact than a social perception.
 
@@ -621,7 +621,7 @@ Useful resistance looks like this:
 
 </div>
 
-The last point is especially important. Asch’s work is often remembered for conformity, but one of its most practical lessons is that unanimity is fragile. When even one person breaks the appearance of total agreement, others find it easier to think aloud. In meetings, classrooms and public debate, inviting dissent is not just politeness; it is a guardrail against false consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Opinions and Social Pressure by Solomon E. Asch. I t&quot;. F. SCIENTIFIC. AMERICAN. NOVEMBER. 1955. VOL. 193, NO. 5. PP. 31-35 c. J. Copyrigh...</span></span></span>
+The last point is especially important. Asch’s work is often remembered for conformity, but one of its most practical lessons is that unanimity is fragile. When even one person breaks the appearance of total agreement, others find it easier to think aloud. In meetings, classrooms and public debate, inviting dissent is not just politeness; it is a guardrail against false consensus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Opinions and Social Pressure by Solomon E. Asch. I t&quot;. F. SCIENTIFIC. AMERICAN. NOVEMBER. 1955. VOL. 193, NO. 5. PP. 31-35 c. J. Copyrigh...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021-Illustration-3-dark.svg" | relative_url }}" alt="Bandwagon illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a stronger argument would do instead
@@ -651,269 +651,269 @@ Bandwagon pressure is powerful because it blends reasoning with belonging. It as
 The best defence is not automatic scepticism toward whatever is popular. It is a disciplined pause: identify the claim, identify the population being invoked, ask whether the crowd is relevant, and look for evidence beyond the crowd’s visible behaviour. Popularity can tell us what people are doing or saying. It cannot, on its own, tell us what is true.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are You Being Pressured to Join?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are You Being Pressured to Join?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explores group identity, belonging and opinion formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores group identity, belonging and opinion formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts that make social consensus persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts that make social consensus persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages resisting group pressure and evaluating evidence fairly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages resisting group pressure and evaluating evidence fairly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains social proof and why popularity pressures people to conform.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains social proof and why popularity pressures people to conform.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent"><img src="{{ '/assets/images/marketplace-covers/8053bfddef267988f55d.jpg' | relative_url }}" alt="Listing image for EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent"><img src="{{ '/assets/images/marketplace-covers/8053bfddef267988f55d.jpg' | relative_url }}" alt="Listing image for EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt"><img src="{{ '/assets/images/marketplace-covers/f0d15004219be947bebf.jpg' | relative_url }}" alt="Listing image for Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt"><img src="{{ '/assets/images/marketplace-covers/f0d15004219be947bebf.jpg' | relative_url }}" alt="Listing image for Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt"><img src="{{ '/assets/images/marketplace-covers/7f8efc53d45340c392f5.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt"><img src="{{ '/assets/images/marketplace-covers/7f8efc53d45340c392f5.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee"><img src="{{ '/assets/images/marketplace-covers/11989d6bfd4ca3eb2496.jpg' | relative_url }}" alt="Listing image for Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee"><img src="{{ '/assets/images/marketplace-covers/11989d6bfd4ca3eb2496.jpg' | relative_url }}" alt="Listing image for Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bandwagon-are-you-being-pressured-to-join-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -929,7 +929,7 @@ The best defence is not automatic scepticism toward whatever is popular. It is a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -949,7 +949,7 @@ The best defence is not automatic scepticism toward whatever is popular. It is a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -981,7 +981,7 @@ The best defence is not automatic scepticism toward whatever is popular. It is a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -1011,7 +1011,7 @@ The best defence is not automatic scepticism toward whatever is popular. It is a
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1069,229 +1069,229 @@ The best defence is not automatic scepticism toward whatever is popular. It is a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The fallacy ad popu...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The fallacy ad popu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sparq.stanford.edu  
    Title: SPARQA Room with a Viewpoint: Using Social Norms to Motivate  
-   Link: <a href="https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/goldstein_et_al._2008_-_a_room_with_a_viewpoint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/goldstein_et_al._2008_-_a_room_with_a_viewpoint.pdf</a>  
+   Link:<a href="https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/goldstein_et_al._2008_-_a_room_with_a_viewpoint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/goldstein_et_al._2008_-_a_room_with_a_viewpoint.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv The Bandwagon Effect: Not Just Another Bias  
-   Link: <a href="https://arxiv.org/abs/2206.12701" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12701</a>  
+   Link:<a href="https://arxiv.org/abs/2206.12701" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12701</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: noelle-neumann.de  
    Title: Biography Spiral of Silence  
-   Link: <a href="https://noelle-neumann.de/scientific-work/spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://noelle-neumann.de/scientific-work/spiral-of-silence/</a>  
+   Link:<a href="https://noelle-neumann.de/scientific-work/spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://noelle-neumann.de/scientific-work/spiral-of-silence/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: forrt.org  
    Title: Open Social Psychology  
-   Link: <a href="https://forrt.org/open-social-psychology/chapter16.html" target="_blank" rel="noopener noreferrer nofollow">https://forrt.org/open-social-psychology/chapter16.html</a>  
+   Link:<a href="https://forrt.org/open-social-psychology/chapter16.html" target="_blank" rel="noopener noreferrer nofollow">https://forrt.org/open-social-psychology/chapter16.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: stanford.edu  
-   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
+   Link:<a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: philosophy.institute  
    Title: navigating informal fallacies logical discourse  
-   Link: <a href="https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/</a>  
+   Link:<a href="https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Fallacies: Appeal to the People  
-   Link: <a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bandwagon Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bandwagon Fallacy...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Bandwagon Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=QUw-QQ4ZOsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUw-QQ4ZOsc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Populum Fallacy--Writing Notes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QUw-QQ4ZOsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUw-QQ4ZOsc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Populum Fallacy--Writing Notes...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/social-proof</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabSocial ProofWhile social proof can promote the uptake of positive behaviors, it can also lead to undesirable conformity o...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/social-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabSocial ProofWhile social proof can promote the uptake of positive behaviors, it can also lead to undesirable conformity o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/normative-informational-social-influence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/normative-informational-social-influence.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyNormative &amp; Informational Social Influenceby S McLeod · Cited by 3 — Normative social influence is where a person confor...</p></details>
+   Link:<a href="https://www.simplypsychology.org/normative-informational-social-influence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/normative-informational-social-influence.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyNormative &amp; Informational Social Influenceby S McLeod · Cited by 3 — Normative social influence is where a person confor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pdodds.w3.uvm.edu  
-   Link: <a href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opinions and Social Pressure by Solomon E. Asch. I t&quot;. F. SCIENTIFIC. AMERICAN. NOVEMBER. 1955. VOL. 193, NO. 5. PP. 31-35 c. J. Copyrigh...</p></details>
+   Link:<a href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opinions and Social Pressure by Solomon E. Asch. I t&quot;. F. SCIENTIFIC. AMERICAN. NOVEMBER. 1955. VOL. 193, NO. 5. PP. 31-35 c. J. Copyrigh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: vnecas.wordpress.com  
    Title: agenda-setting Weblog The Spiral of Silence A Theory of Public Opinion  
-   Link: <a href="https://vnecas.wordpress.com/wp-content/uploads/2010/03/spiral_of_silence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vnecas.wordpress.com/wp-content/uploads/2010/03/spiral_of_silence.pdf</a>  
+   Link:<a href="https://vnecas.wordpress.com/wp-content/uploads/2010/03/spiral_of_silence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vnecas.wordpress.com/wp-content/uploads/2010/03/spiral_of_silence.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Social Media and the 'Spiral of Silence'  
-   Link: <a href="https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/</a>  
+   Link:<a href="https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: frontiersin.org  
    Title: Frontiers A century of pluralistic ignorance: what we have learned  
-   Link: <a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
+   Link:<a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pewresearch.org  
    Title: the spiral of silence on social media  
-   Link: <a href="https://www.pewresearch.org/internet/2014/08/27/the-spiral-of-silence-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/27/the-spiral-of-silence-on-social-media/</a>  
+   Link:<a href="https://www.pewresearch.org/internet/2014/08/27/the-spiral-of-silence-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/27/the-spiral-of-silence-on-social-media/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pewresearch.org  
    Title: main analysis political issues and the spiral of silence  
-   Link: <a href="https://www.pewresearch.org/internet/2014/08/26/main-analysis-political-issues-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/26/main-analysis-political-issues-and-the-spiral-of-silence/</a>  
+   Link:<a href="https://www.pewresearch.org/internet/2014/08/26/main-analysis-political-issues-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/26/main-analysis-political-issues-and-the-spiral-of-silence/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Spiral of silence  
-   Link: <a href="https://en.wikipedia.org/wiki/Spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spiral_of_silence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spiral_of_silence</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: False consensus effect  
-   Link: <a href="https://en.wikipedia.org/wiki/False_consensus_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_consensus_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/False_consensus_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_consensus_effect</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/appeal" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/appeal</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/appeal" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/appeal</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thedecisionlab.com  
    Title: Bandwagon Effect  
-   Link: <a href="https://thedecisionlab.com/biases/bandwagon-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/bandwagon-effect</a>  
+   Link:<a href="https://thedecisionlab.com/biases/bandwagon-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/bandwagon-effect</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thedecisionlab.com  
    Title: Pluralistic Ignorance  
-   Link: <a href="https://thedecisionlab.com/biases/pluralistic-ignorance" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/pluralistic-ignorance</a>  
+   Link:<a href="https://thedecisionlab.com/biases/pluralistic-ignorance" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/pluralistic-ignorance</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/force.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/force.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/force.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/force.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: sk.sagepub.com  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-leadership-studies/chpt/conformity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-leadership-studies/chpt/conformity.pdf</a>  
+   Link:<a href="https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-leadership-studies/chpt/conformity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-leadership-studies/chpt/conformity.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: db.arabpsychology.com  
    Title: pluralistic ignorance  
-   Link: <a href="https://db.arabpsychology.com/pluralistic-ignorance/" target="_blank" rel="noopener noreferrer nofollow">https://db.arabpsychology.com/pluralistic-ignorance/</a>  
+   Link:<a href="https://db.arabpsychology.com/pluralistic-ignorance/" target="_blank" rel="noopener noreferrer nofollow">https://db.arabpsychology.com/pluralistic-ignorance/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thejsms.org  
-   Link: <a href="https://thejsms.org/index.php/JSMS/article/view/1271" target="_blank" rel="noopener noreferrer nofollow">https://thejsms.org/index.php/JSMS/article/view/1271</a>  
+   Link:<a href="https://thejsms.org/index.php/JSMS/article/view/1271" target="_blank" rel="noopener noreferrer nofollow">https://thejsms.org/index.php/JSMS/article/view/1271</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: seop.illc.uva.nl  
-   Link: <a href="https://seop.illc.uva.nl/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/fallacies/</a>  
+   Link:<a href="https://seop.illc.uva.nl/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/fallacies/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: green-nudges.com  
    Title: towel reuse  
-   Link: <a href="https://www.green-nudges.com/towel-reuse/" target="_blank" rel="noopener noreferrer nofollow">https://www.green-nudges.com/towel-reuse/</a>  
+   Link:<a href="https://www.green-nudges.com/towel-reuse/" target="_blank" rel="noopener noreferrer nofollow">https://www.green-nudges.com/towel-reuse/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: askphilosophers.org  
-   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
+   Link:<a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: stanforddaily.com  
    Title: From the Community | Stanford runs in remembrance on Memorial Day  
-   Link: <a href="https://stanforddaily.com/2026/05/24/this-memorial-day-stanford-runs/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2026/05/24/this-memorial-day-stanford-runs/</a>  
+   Link:<a href="https://stanforddaily.com/2026/05/24/this-memorial-day-stanford-runs/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2026/05/24/this-memorial-day-stanford-runs/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pulse2.com  
    Title: Stanford University: Protein Engineering And Testing Condensed To A Single Day  
-   Link: <a href="https://pulse2.com/stanford-university-protein-engineering-and-testing-condensed-to-a-single-day/" target="_blank" rel="noopener noreferrer nofollow">https://pulse2.com/stanford-university-protein-engineering-and-testing-condensed-to-a-single-day/</a>  
+   Link:<a href="https://pulse2.com/stanford-university-protein-engineering-and-testing-condensed-to-a-single-day/" target="_blank" rel="noopener noreferrer nofollow">https://pulse2.com/stanford-university-protein-engineering-and-testing-condensed-to-a-single-day/</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: is.muni.cz  
-   Link: <a href="https://is.muni.cz/el/phil/jaro2019/PSX_512/um/Ash_opinion_and_social_pressure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://is.muni.cz/el/phil/jaro2019/PSX_512/um/Ash_opinion_and_social_pressure.pdf</a>  
+   Link:<a href="https://is.muni.cz/el/phil/jaro2019/PSX_512/um/Ash_opinion_and_social_pressure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://is.muni.cz/el/phil/jaro2019/PSX_512/um/Ash_opinion_and_social_pressure.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Ad Populum Fallacy--Writing Notes  
-   Link: <a href="https://www.youtube.com/watch?v=6r337SRhb8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6r337SRhb8I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first video breaks down how the bandwagon fallacy relies on social pressure and popular belief rather than evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6r337SRhb8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6r337SRhb8I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first video breaks down how the bandwagon fallacy relies on social pressure and popular belief rather than evidence...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: What is the Bandwagon Fallacy? (Easiest Explanation)  
-   Link: <a href="https://www.youtube.com/watch?v=i8-85FxoJw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8-85FxoJw4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i8-85FxoJw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8-85FxoJw4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/265728079_Social_Media_and_the_%27Spiral_of_Silence%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265728079_Social_Media_and_the_%27Spiral_of_Silence%27</a>  
+   Link:<a href="https://www.researchgate.net/publication/265728079_Social_Media_and_the_%27Spiral_of_Silence%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265728079_Social_Media_and_the_%27Spiral_of_Silence%27</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/8160117/Social_media_and_the_spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8160117/Social_media_and_the_spiral_of_silence</a>  
+   Link:<a href="https://www.academia.edu/8160117/Social_media_and_the_spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8160117/Social_media_and_the_spiral_of_silence</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/346471582_Why_Is_The_Ad_Populum_A_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346471582_Why_Is_The_Ad_Populum_A_Fallacy</a>  
+   Link:<a href="https://www.researchgate.net/publication/346471582_Why_Is_The_Ad_Populum_A_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346471582_Why_Is_The_Ad_Populum_A_Fallacy</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/254732835_Studies_of_Independence_and_Conformity_I_A_Minority_of_One_Against_a_Unanimous_Majority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254732835_Studies_of_Independence_and_Conformity_I_A_Minority_of_One_Against_a_Unanimous_Majority</a>  
+   Link:<a href="https://www.researchgate.net/publication/254732835_Studies_of_Independence_and_Conformity_I_A_Minority_of_One_Against_a_Unanimous_Majority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254732835_Studies_of_Independence_and_Conformity_I_A_Minority_of_One_Against_a_Unanimous_Majority</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/272384315_The_Disappearance_of_Independence_in_Textbook_Coverage_of_Asch%27s_Social_Pressure_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272384315_The_Disappearance_of_Independence_in_Textbook_Coverage_of_Asch%27s_Social_Pressure_Experiments</a>  
+   Link:<a href="https://www.researchgate.net/publication/272384315_The_Disappearance_of_Independence_in_Textbook_Coverage_of_Asch%27s_Social_Pressure_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272384315_The_Disappearance_of_Independence_in_Textbook_Coverage_of_Asch%27s_Social_Pressure_Experiments</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: drpress.org  
-   Link: <a href="https://drpress.org/ojs/index.php/EHSS/article/download/18031/17553/20232" target="_blank" rel="noopener noreferrer nofollow">https://drpress.org/ojs/index.php/EHSS/article/download/18031/17553/20232</a>  
+   Link:<a href="https://drpress.org/ojs/index.php/EHSS/article/download/18031/17553/20232" target="_blank" rel="noopener noreferrer nofollow">https://drpress.org/ojs/index.php/EHSS/article/download/18031/17553/20232</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>

@@ -501,20 +501,20 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-overvie
 
 ## Introduction
 
-Circular reasoning and unsupported conclusions are central [mechanisms]({{ 'mechanisms/' | relative_url }}) of a common informal logical fallacy in which an argument fails to provide [independent support]({{ 'support-test/' | relative_url }}) for its claim. At its core, this type of reasoning uses the conclusion itself — or something virtually equivalent — as its own justification. The result is an argument that *seems* to work because it loops back on itself, but on closer inspection no new evidence or reasoning enters the chain. This fallacy is especially misleading because it can *feel* persuasive even while being uninformative: the conclusion appears to follow from the premises only because the premises already assume what they set out to prove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
+Circular reasoning and unsupported conclusions are central [mechanisms]({{ 'mechanisms/' | relative_url }}) of a common informal logical fallacy in which an argument fails to provide [independent support]({{ 'support-test/' | relative_url }}) for its claim. At its core, this type of reasoning uses the conclusion itself — or something virtually equivalent — as its own justification. The result is an argument that *seems* to work because it loops back on itself, but on closer inspection no new evidence or reasoning enters the chain. This fallacy is especially misleading because it can *feel* persuasive even while being uninformative: the conclusion appears to follow from the premises only because the premises already assume what they set out to prove.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-overview.webp" | relative_url }}" alt="Overview image for Circularity" loading="eager" decoding="sync" fetchpriority="high">
 ## Begging the Question: When the Argument Presumes Its Conclusion
 
-A classic way circularity shows up in reasoning is through the fallacy called **begging the question**, also known by its Latin name *petitio principii*. Here, one of the premises in an argument assumes the very claim that the argument is supposed to establish. In other words, the argument never gets off the ground because it starts by presuming what it is meant to demonstrate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+A classic way circularity shows up in reasoning is through the fallacy called **begging the question**, also known by its Latin name *petitio principii*. Here, one of the premises in an argument assumes the very claim that the argument is supposed to establish. In other words, the argument never gets off the ground because it starts by presuming what it is meant to demonstrate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
-In its simplest form, begging the question can look like a tautology: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+In its simplest form, begging the question can look like a tautology:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
 > *“God exists because the Bible says so, and the Bible is true because it is the word of God.”*
 
-In this example, the premise doesn’t offer independent evidence for God’s existence; it merely appeals to a source whose authority itself depends on the claim being established. This gives the illusion of support while introducing no new information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+In this example, the premise doesn’t offer independent evidence for God’s existence; it merely appeals to a source whose authority itself depends on the claim being established. This gives the illusion of support while introducing no new information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
-More subtle instances disguise the circularity behind rephrasing, loaded language, or unstated assumptions. For example, saying “Opium puts people to sleep because it contains soporific properties” is circular because *soporific* literally means “sleep-inducing,” so the reason and the conclusion are effectively the same claim in different words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicalfallacies.org/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicalfallacies.org">[logicalfallacies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicalfallacies.org</span><span class="citation-popover-title">Begging The Question</span><span class="citation-popover-snippet">Definition &amp; Examples &#124; LF...</span></span></span>
+More subtle instances disguise the circularity behind rephrasing, loaded language, or unstated assumptions. For example, saying “Opium puts people to sleep because it contains soporific properties” is circular because *soporific* literally means “sleep-inducing,” so the reason and the conclusion are effectively the same claim in different words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicalfallacies.org/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicalfallacies.org">[logicalfallacies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicalfallacies.org</span><span class="citation-popover-title">Begging The Question</span><span class="citation-popover-snippet">Definition &amp; Examples &#124; LF...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-dark.svg" | relative_url }}" alt="Circularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hidden Circular Premises: Where the Loop Hides
@@ -531,35 +531,35 @@ One challenge with circular reasoning is that the circularity is not always expl
 
 </div>
 
-creates a closed loop, but each individual step *seems* to offer support — except that the chain never connects back to any independent evidence. This type of circularity is often concealed by additional [context]({{ 'context/' | relative_url }}) or persuasive wording, making it harder to detect without diagramming the argument or scrutinising its structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-title">Fallacy Files Logical Fallacy: Begging the Question</span><span class="citation-popover-snippet">Fallacy Files Logical Fallacy: Begging the Question</span></span></span>
+creates a closed loop, but each individual step *seems* to offer support — except that the chain never connects back to any independent evidence. This type of circularity is often concealed by additional [context]({{ 'context/' | relative_url }}) or persuasive wording, making it harder to detect without diagramming the argument or scrutinising its structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-title">Fallacy Files Logical Fallacy: Begging the Question</span><span class="citation-popover-snippet">Fallacy Files Logical Fallacy: Begging the Question</span></span></span>
 
-Philosophical treatments of circular arguments discuss how this looping can be disguised when premises and conclusions are restated in synonymous ways or when intermediate steps mask the underlying dependency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-title">Fallacy Files Logical Fallacy: Begging the Question</span><span class="citation-popover-snippet">Fallacy Files Logical Fallacy: Begging the Question</span></span></span>
+Philosophical treatments of circular arguments discuss how this looping can be disguised when premises and conclusions are restated in synonymous ways or when intermediate steps mask the underlying dependency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-title">Fallacy Files Logical Fallacy: Begging the Question</span><span class="citation-popover-snippet">Fallacy Files Logical Fallacy: Begging the Question</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N6U56pMc4_s" title="Critical Thinking #16: Begging the Question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N6U56pMc4_s" target="_blank" rel="noopener noreferrer">Critical Thinking #16: Begging the Question</a></p><p class="youtube-embed-meta">Channel: David Pakman Show &middot; Views: 13.1K &middot; Uploaded: March 2018 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N6U56pMc4_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N6U56pMc4_s">Open on YouTube</a></p></div></div></div>
 
 ## Circular Reasoning vs. Independent Support
 
-At a practical level, the defining problem with circular reasoning and unsupported conclusions is **lack of independent support**. In a sound argument, the premises should provide reasons that someone who doubts the conclusion could nonetheless accept. By contrast, circular reasoning assumes the conclusion within its premises, so the argument only convinces people who already accept the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
+At a practical level, the defining problem with circular reasoning and unsupported conclusions is **lack of independent support**. In a sound argument, the premises should provide reasons that someone who doubts the conclusion could nonetheless accept. By contrast, circular reasoning assumes the conclusion within its premises, so the argument only convinces people who already accept the conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
 For example, saying:
 
 > *“This news source is reliable because it only publishes accurate stories, and we know the stories are accurate because the source is reliable.”*
 
-presents a loop: reliability is supported by accuracy and accuracy by reliability. Unless some external, independently justified evidence about accuracy or reliability is offered, the argument never leaves the loop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
+presents a loop: reliability is supported by accuracy and accuracy by reliability. Unless some external, independently justified evidence about accuracy or reliability is offered, the argument never leaves the loop.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
 
-This lack of independent evidence is what distinguishes mere repetition from genuine support. It is why circular reasoning is treated as a fallacy in [informal logic]({{ 'informal-logic/' | relative_url }}): it fails to advance understanding or justify belief beyond what the audience already assumes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
+This lack of independent evidence is what distinguishes mere repetition from genuine support. It is why circular reasoning is treated as a fallacy in [informal logic]({{ 'informal-logic/' | relative_url }}): it fails to advance understanding or justify belief beyond what the audience already assumes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-2-dark.svg" | relative_url }}" alt="Circularity illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Circular Arguments Are Unconvincing
 
-Despite often being *valid* in the strict formal sense — if the premises are true, then the conclusion is also true — circular arguments are weak as explanations or justifications because they provide no *reason* to accept the premises other than already believing the conclusion. In informal logic, this is what makes them *fallacious*: the argument fails to connect *why* something should be accepted to any evidence or reasoning external to the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
+Despite often being *valid* in the strict formal sense — if the premises are true, then the conclusion is also true — circular arguments are weak as explanations or justifications because they provide no *reason* to accept the premises other than already believing the conclusion. In informal logic, this is what makes them *fallacious*: the argument fails to connect *why* something should be accepted to any evidence or reasoning external to the claim itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
-This is why writers and debaters are encouraged to ask whether premises would still be persuasive to someone who doubts the conclusion. If not, the argument may be merely circular rather than genuinely supportive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
+This is why writers and debaters are encouraged to ask whether premises would still be persuasive to someone who doubts the conclusion. If not, the argument may be merely circular rather than genuinely supportive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-dark.svg" | relative_url }}" alt="Circularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Detection and Avoidance
 
-Recognising circular reasoning often involves:(#endnote-1 "Endnote 1") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
+Recognising circular reasoning often involves:(#endnote-1 "Endnote 1")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -569,276 +569,276 @@ Recognising circular reasoning often involves:(#endnote-1 "Endnote 1") <span cla
 
 </div>
 
-Being alert to these patterns helps distinguish between arguments that *justify* a conclusion and those that merely *reflect* it back on itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
+Being alert to these patterns helps distinguish between arguments that *justify* a conclusion and those that merely *reflect* it back on itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
 
-Circular reasoning and unsupported conclusions remind us that good argumentation requires premises that stand on their own, not just mirrors of what we’re trying to prove. Without such independent support, an argument may seem persuasive but ultimately fails to do the work of genuine reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
+Circular reasoning and unsupported conclusions remind us that good argumentation requires premises that stand on their own, not just mirrors of what we’re trying to prove. Without such independent support, an argument may seem persuasive but ultimately fails to do the work of genuine reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OAXKc-rvMa8" title="Are you Begging the Question? - Gentleman Thinker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer">Are you Begging the Question? - Gentleman Thinker</a></p><p class="youtube-embed-meta">Channel: Philosophy Tube &middot; Views: 152.3K &middot; Uploaded: August 2014 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OAXKc-rvMa8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is the Argument Proving Itself?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is the Argument Proving Itself?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Directly addresses circular reasoning and support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses circular reasoning and support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Explains common logical errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common logical errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides broader reasoning context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader reasoning context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Thinker&#x27;s Guide to Fallacies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IfmAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Thinker&#x27;s Guide to Fallacies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thinker&#x27;s Guide to Fallacies">The Thinker&#x27;s Guide to Fallacies</a>
-        </h4>
-        <p class="fr-book-author">By Richard Paul, Linda Elder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Thinker&#x27;s Guide to Fallacies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IfmAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Thinker&#x27;s Guide to Fallacies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thinker&#x27;s Guide to Fallacies">The Thinker&#x27;s Guide to Fallacies</a>
+</h4>
+<p class="fr-book-author">By Richard Paul, Linda Elder</p>
         
-        <p class="fr-book-desc">Covers begging the question and circularity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers begging the question and circularity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking MU Women&#x27;s T-Shirt M Red Other with Cotton Sleeveless Round Neck Basic"><img src="{{ '/assets/images/marketplace-covers/9b4932e8529b74882821.jpg' | relative_url }}" alt="Listing image for Thinking MU Women&#x27;s T-Shirt M Red Other with Cotton Sleeveless Round Neck Basic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking MU Women&#x27;s T-Shirt M Red Other with Cotton Sleeveless Round Neck Basic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for circular reasoning shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: circular reasoning shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking MU Women&#x27;s T-Shirt M Red Other with Cotton Sleeveless Round Neck Basic"><img src="{{ '/assets/images/marketplace-covers/9b4932e8529b74882821.jpg' | relative_url }}" alt="Listing image for Thinking MU Women&#x27;s T-Shirt M Red Other with Cotton Sleeveless Round Neck Basic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking MU Women&#x27;s T-Shirt M Red Other with Cotton Sleeveless Round Neck Basic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for circular reasoning shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: circular reasoning shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mistakes Allow Thinking To Happen Math Pi Day Numbers Calculation Unisex Tshirt"><img src="{{ '/assets/images/marketplace-covers/3b14569d3e36dda5dd69.jpg' | relative_url }}" alt="Listing image for Mistakes Allow Thinking To Happen Math Pi Day Numbers Calculation Unisex Tshirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mistakes Allow Thinking To Happen Math Pi Day Numbers Calculation Unisex Tshirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for circular reasoning shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: circular reasoning shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mistakes Allow Thinking To Happen Math Pi Day Numbers Calculation Unisex Tshirt"><img src="{{ '/assets/images/marketplace-covers/3b14569d3e36dda5dd69.jpg' | relative_url }}" alt="Listing image for Mistakes Allow Thinking To Happen Math Pi Day Numbers Calculation Unisex Tshirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mistakes Allow Thinking To Happen Math Pi Day Numbers Calculation Unisex Tshirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for circular reasoning shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: circular reasoning shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking About Rugby T-Shirt Funny Joke Rugby Player Gift Idea For Him Dad Son"><img src="{{ '/assets/images/marketplace-covers/bf3dd6d309751850ac72.jpg' | relative_url }}" alt="Listing image for Thinking About Rugby T-Shirt Funny Joke Rugby Player Gift Idea For Him Dad Son" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking About Rugby T-Shirt Funny Joke Rugby Player Gift Idea For Him Dad Son</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for circular reasoning shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: circular reasoning shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking About Rugby T-Shirt Funny Joke Rugby Player Gift Idea For Him Dad Son"><img src="{{ '/assets/images/marketplace-covers/bf3dd6d309751850ac72.jpg' | relative_url }}" alt="Listing image for Thinking About Rugby T-Shirt Funny Joke Rugby Player Gift Idea For Him Dad Son" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking About Rugby T-Shirt Funny Joke Rugby Player Gift Idea For Him Dad Son</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for circular reasoning shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: circular reasoning shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking About Golf T-Shirt Funny Golfing Golfer Father&#x27;s Day Gift Idea Dad Him"><img src="{{ '/assets/images/marketplace-covers/fa88d1e79d1210822985.jpg' | relative_url }}" alt="Listing image for Thinking About Golf T-Shirt Funny Golfing Golfer Father&#x27;s Day Gift Idea Dad Him" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking About Golf T-Shirt Funny Golfing Golfer Father&#x27;s Day Gift Idea Dad Him</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for circular reasoning shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: circular reasoning shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking About Golf T-Shirt Funny Golfing Golfer Father&#x27;s Day Gift Idea Dad Him"><img src="{{ '/assets/images/marketplace-covers/fa88d1e79d1210822985.jpg' | relative_url }}" alt="Listing image for Thinking About Golf T-Shirt Funny Golfing Golfer Father&#x27;s Day Gift Idea Dad Him" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking About Golf T-Shirt Funny Golfing Golfer Father&#x27;s Day Gift Idea Dad Him</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for circular reasoning shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: circular reasoning shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=circular+reasoning+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circularity-is-the-argument-proving-itself-logical-fallacies-circular-reasoning-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -854,7 +854,7 @@ Circular reasoning and unsupported conclusions remind us that good argumentation
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -874,7 +874,7 @@ Circular reasoning and unsupported conclusions remind us that good argumentation
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -906,7 +906,7 @@ Circular reasoning and unsupported conclusions remind us that good argumentation
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -936,7 +936,7 @@ Circular reasoning and unsupported conclusions remind us that good argumentation
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -994,130 +994,130 @@ Circular reasoning and unsupported conclusions remind us that good argumentation
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Circular reasoning  
-   Link: <a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: Begging the Question Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/begging-the-question-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the Question Fallacy | Definition &amp; ExamplesMay 31, 2023...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/begging-the-question-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the Question Fallacy | Definition &amp; ExamplesMay 31, 2023...</p></details>
    Published: May 31, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: logicalfallacies.org  
    Title: Begging The Question  
-   Link: <a href="https://www.logicalfallacies.org/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/begging-the-question.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LF...</p></details>
+   Link:<a href="https://www.logicalfallacies.org/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/begging-the-question.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LF...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rebutly.com  
    Title: Circular Reasoning Fallacy — Definition, Examples & How to Counter | Rebutly  
-   Link: <a href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://rebutly.com/fallacies/circular-reasoning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly...</p></details>
+   Link:<a href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://rebutly.com/fallacies/circular-reasoning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: logical-fallacy.com  
    Title: Begging the Question  
-   Link: <a href="https://www.logical-fallacy.com/articles/begging-the-question/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/begging-the-question/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples - Logical FallacyNovember 3, 2020 — BEGGING THE QUESTION - DEFINITION AND EXAMPLES 2020-11-03 DEFINITION Begging...</p></details>
+   Link:<a href="https://www.logical-fallacy.com/articles/begging-the-question/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/begging-the-question/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples - Logical FallacyNovember 3, 2020 — BEGGING THE QUESTION - DEFINITION AND EXAMPLES 2020-11-03 DEFINITION Begging...</p></details>
    Published: November 3, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: logical-fallacy.com  
    Title: Circular Reasoning  
-   Link: <a href="https://www.logical-fallacy.com/articles/circular-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/circular-reasoning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples - Logical FallacyOctober 2, 2020 — CIRCULAR REASONING - DEFINITION AND EXAMPLES 2020-10-02 What we detect CONTENT...</p></details>
+   Link:<a href="https://www.logical-fallacy.com/articles/circular-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/circular-reasoning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples - Logical FallacyOctober 2, 2020 — CIRCULAR REASONING - DEFINITION AND EXAMPLES 2020-10-02 What we detect CONTENT...</p></details>
    Published: October 2, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: logicalfallacies.org  
    Title: Circular Reasoning  
-   Link: <a href="https://www.logicalfallacies.org/circular-reasoning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/circular-reasoning.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LFCIRCULAR REASONING informal Fallacy The fallacy of circular reasoning occurs when a person assumes the truth of...</p></details>
+   Link:<a href="https://www.logicalfallacies.org/circular-reasoning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/circular-reasoning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LFCIRCULAR REASONING informal Fallacy The fallacy of circular reasoning occurs when a person assumes the truth of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Begging the Question Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/the-begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-begging-the-question-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the Question Fallacy | Definition &amp; ExamplesJune 1, 2023...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/the-begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-begging-the-question-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the Question Fallacy | Definition &amp; ExamplesJune 1, 2023...</p></details>
    Published: June 1, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fallacyfiles.org  
    Title: Fallacy Files Logical Fallacy: Begging the Question  
-   Link: <a href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/begquest.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/begquest.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribbr.co.uk  
    Title: Circular Reasoning Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/circular-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/circular-reasoning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revised on 21 August 2023. The circular reasoning fallacy is an argument that assumes the very t...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/circular-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/circular-reasoning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revised on 21 August 2023. The circular reasoning fallacy is an argument that assumes the very t...</p></details>
    Published: August 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/circular.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Principii, Circular Argument, Begging the QuestionIMAGEPETITIO PRINCIPII (Begging the Question or Circular Argument) Abstract: Petitio pr...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/circular.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Principii, Circular Argument, Begging the QuestionIMAGEPETITIO PRINCIPII (Begging the Question or Circular Argument) Abstract: Petitio pr...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular argument | Definition, History, Examples, &amp; Facts | BritannicaCIRCULAR ARGUMENT logic Also known as: begging the question, petit...</p></details>
+   Link:<a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circular argument | Definition, History, Examples, &amp; Facts | BritannicaCIRCULAR ARGUMENT logic Also known as: begging the question, petit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fallacyguide.com  
-   Link: <a href="https://fallacyguide.com/fallacies/begging-the-question" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/begging-the-question</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SummaryExplanationPatternWhy it mattersExamplesOften Confused WithFAQFurther Reading PresumptionAKA: Circular Reasoning THE BEGGING THE Q...</p></details>
+   Link:<a href="https://fallacyguide.com/fallacies/begging-the-question" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/begging-the-question</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SummaryExplanationPatternWhy it mattersExamplesOften Confused WithFAQFurther Reading PresumptionAKA: Circular Reasoning THE BEGGING THE Q...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fallacies.online  
    Title: Take for example the following statement: > The Bible is God’s W  
-   Link: <a href="https://fallacies.online/wiki/logic/formal_fallacies/circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/circular_reasoning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning – Fallacies OnlineJanuary 25, 2023 — CIRCULAR REASONING A form of logical fallacy in which the position that still has...</p></details>
+   Link:<a href="https://fallacies.online/wiki/logic/formal_fallacies/circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/circular_reasoning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning – Fallacies OnlineJanuary 25, 2023 — CIRCULAR REASONING A form of logical fallacy in which the position that still has...</p></details>
    Published: January 25, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Critical Thinking #16: Begging the Question  
-   Link: <a href="https://www.youtube.com/watch?v=N6U56pMc4_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N6U56pMc4_s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning begging the question fallacy Simpsons [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;): Circular Reasoning Colburn Classroom...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N6U56pMc4_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N6U56pMc4_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning begging the question fallacy Simpsons [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;): Circular Reasoning Colburn Classroom...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-024-09640-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-024-09640-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Around in Circles | Argumentation | Springer Nature LinkNovember 29, 2024 — GOING AROUND IN CIRCLES Begging the Question and the Structur...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10503-024-09640-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-024-09640-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Around in Circles | Argumentation | Springer Nature LinkNovember 29, 2024 — GOING AROUND IN CIRCLES Begging the Question and the Structur...</p></details>
    Published: November 29, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: asa3.org  
-   Link: <a href="https://www.asa3.org/ASA/education/think/circular.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.asa3.org/ASA/education/think/circular.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this fallacy...</p></details>
+   Link:<a href="https://www.asa3.org/ASA/education/think/circular.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.asa3.org/ASA/education/think/circular.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this fallacy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Are you Begging the Question?  
-   Link: <a href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OAXKc-rvMa8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking #16: Begging the Question...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OAXKc-rvMa8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking #16: Begging the Question...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Circular reasoning and begging the question  
-   Link: <a href="https://www.youtube.com/watch?v=3aizAxS5Fm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3aizAxS5Fm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are you Begging the Question? - Gentleman Thinker...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3aizAxS5Fm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3aizAxS5Fm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are you Begging the Question? - Gentleman Thinker...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: What is Circular Reasoning?  
-   Link: <a href="https://www.youtube.com/watch?v=YyigEEx5194" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YyigEEx5194</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning and begging the question...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YyigEEx5194" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YyigEEx5194</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning and begging the question...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Simpsons Logical Fallacies: Circular Reasoning  
-   Link: <a href="https://www.youtube.com/watch?v=hH8VttNKiO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hH8VttNKiO8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Circular Reasoning?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hH8VttNKiO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hH8VttNKiO8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Circular Reasoning?...</p></details>

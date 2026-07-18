@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-appeal-to/
 description: Focused pages that expand on Ignorance.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_appeal_to_ignorance_7e7b18
 parent_title: Ignorance
@@ -16,7 +16,7 @@ parent_permalink: /ignorance/
 
 # Explore Topics in Ignorance
 
-The following pages expand on the main **[Ignorance]({{ '/ignorance/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Ignorance]({{ '/ignorance/' | relative_url }})** page and cover its key branches in.
 
 - [Proof Burden]({{ '/proof-burden/' | relative_url }})
 - [Not Proven]({{ '/not-proven/' | relative_url }})

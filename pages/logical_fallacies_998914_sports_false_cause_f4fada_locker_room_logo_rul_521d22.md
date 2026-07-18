@@ -281,11 +281,11 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
 
 ## What locker-room logo rules mean
 
-In hockey especially, avoiding the team logo on the dressing-room floor has long been treated as an unwritten rule. Players and coaches commonly describe it as a sign of respect for the team, the organisation, and fellow players rather than a competitive tactic. Accounts from hockey writers and former players repeatedly frame the custom as an expression of pride, discipline, and belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twointhebox.com">[Two in the Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twointhebox.com</span><span class="citation-popover-title">Two in the Box Tread lightly, logo etiquette in the locker room</span><span class="citation-popover-snippet">Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</span><span class="citation-popover-meta">Published: July 11, 2013</span></span></span>
+In hockey especially, avoiding the team logo on the dressing-room floor has long been treated as an unwritten rule. Players and coaches commonly describe it as a sign of respect for the team, the organisation, and fellow players rather than a competitive tactic. Accounts from hockey writers and former players repeatedly frame the custom as an expression of pride, discipline, and belonging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twointhebox.com">[Two in the Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twointhebox.com</span><span class="citation-popover-title">Two in the Box Tread lightly, logo etiquette in the locker room</span><span class="citation-popover-snippet">Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</span><span class="citation-popover-meta">Published: July 11, 2013</span></span></span>
 
-The symbolism is straightforward. The logo represents the club's history, current teammates, and shared goals. By consciously avoiding it, players perform a small act that communicates, “the team comes first.” One hockey commentator compared the practice to respecting house rules even if outsiders consider them unnecessary; the value lies in acknowledging the group's norms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twointhebox.com">[Two in the Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twointhebox.com</span><span class="citation-popover-title">Two in the Box Tread lightly, logo etiquette in the locker room</span><span class="citation-popover-snippet">Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</span><span class="citation-popover-meta">Published: July 11, 2013</span></span></span>
+The symbolism is straightforward. The logo represents the club's history, current teammates, and shared goals. By consciously avoiding it, players perform a small act that communicates, “the team comes first.” One hockey commentator compared the practice to respecting house rules even if outsiders consider them unnecessary; the value lies in acknowledging the group's norms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twointhebox.com">[Two in the Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twointhebox.com</span><span class="citation-popover-title">Two in the Box Tread lightly, logo etiquette in the locker room</span><span class="citation-popover-snippet">Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</span><span class="citation-popover-meta">Published: July 11, 2013</span></span></span>
 
-Modern locker-room design often reinforces this idea. Team logos, colours, slogans, and other visual elements are intentionally used to create a sense of identity and cohesion. Sports facility designers explicitly describe branded locker rooms as tools for fostering pride, camaraderie, and commitment to team culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theathleticbrandingco.com">[The Athletic Branding Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theathleticbrandingco.com</span><span class="citation-popover-snippet">The Athletic Branding CompanyThe core function of the locker room has officially changed.February 6, 2023 — 6 Feb 2026 — Logos, bold colo...</span><span class="citation-popover-meta">Published: February 6, 2023</span></span></span>
+Modern locker-room design often reinforces this idea. Team logos, colours, slogans, and other visual elements are intentionally used to create a sense of identity and cohesion. Sports facility designers explicitly describe branded locker rooms as tools for fostering pride, camaraderie, and commitment to team culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theathleticbrandingco.com">[The Athletic Branding Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theathleticbrandingco.com</span><span class="citation-popover-snippet">The Athletic Branding CompanyThe core function of the locker room has officially changed.February 6, 2023 — 6 Feb 2026 — Logos, bold colo...</span><span class="citation-popover-meta">Published: February 6, 2023</span></span></span>
 
 Viewed this way, logo rules function much like a dress code, a pre-game handshake, or a team motto. Their primary purpose is cultural rather than supernatural.
 
@@ -304,9 +304,9 @@ Several factors encourage this transformation:
 
 </div>
 
-Athletes themselves frequently acknowledge that many sports superstitions have no direct effect on performance but persist because they provide routine, confidence, and psychological comfort. A high-school hockey example described “no stepping on the logo” as the team's biggest rule while also recognising that sports superstitions are often rituals athletes use to maintain focus and familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southeasternsportsnetwork.com">[Southeastern Sports Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southeasternsportsnetwork.com</span><span class="citation-popover-snippet">Southeastern Sports NetworkThe Significance of Superstitions27 Dec 2025 — “Our biggest rule is no stepping on the logo in the locker room...</span></span></span>
+Athletes themselves frequently acknowledge that many sports superstitions have no direct effect on performance but persist because they provide routine, confidence, and psychological comfort. A high-school hockey example described “no stepping on the logo” as the team's biggest rule while also recognising that sports superstitions are often rituals athletes use to maintain focus and familiarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southeasternsportsnetwork.com">[Southeastern Sports Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southeasternsportsnetwork.com</span><span class="citation-popover-snippet">Southeastern Sports NetworkThe Significance of Superstitions27 Dec 2025 — “Our biggest rule is no stepping on the logo in the locker room...</span></span></span>
 
-Community discussions around logo etiquette reveal the same pattern. Some participants argue that avoiding the logo forces players to think consciously about the organisation they represent, while others view the practice as arbitrary [tradition]({{ 'tradition/' | relative_url }}). Even among supporters of the custom, the justification often centres on mindfulness and respect rather than measurable competitive advantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">It forces you to stop and think about why you are not stepping on the logo. It...Read more...</span></span></span>
+Community discussions around logo etiquette reveal the same pattern. Some participants argue that avoiding the logo forces players to think consciously about the organisation they represent, while others view the practice as arbitrary [tradition]({{ 'tradition/' | relative_url }}). Even among supporters of the custom, the justification often centres on mindfulness and respect rather than measurable competitive advantage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">It forces you to stop and think about why you are not stepping on the logo. It...Read more...</span></span></span>
 
 The ritual therefore survives because it serves social and psychological functions, not because anyone can demonstrate that it changes the score.
 
@@ -318,7 +318,7 @@ A useful test is to ask what evidence would be needed to prove that stepping on 
 
 One or two memorable incidents are not enough. Teams lose after respecting the logo. Teams win after someone accidentally steps on it. Visitors ignore the rule and often leave victorious. The outcomes vary because sporting performance depends on talent, preparation, tactics, health, decision-making, and chance.
 
-Stories about journalists, celebrities, or opposing players stepping on logos regularly generate controversy precisely because people disagree about what the act means. Yet the debates usually revolve around respect and etiquette rather than demonstrable competitive consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sportingnews.com">[Sporting News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sportingnews.com</span><span class="citation-popover-snippet">Sporting NewsWhy I don&#x27;t step on the logo in NHL locker roomsApril 18, 2016 — 18 Apr 2016 — Fans will get angry because, for the most par...</span><span class="citation-popover-meta">Published: April 18, 2016</span></span></span>
+Stories about journalists, celebrities, or opposing players stepping on logos regularly generate controversy precisely because people disagree about what the act means. Yet the debates usually revolve around respect and etiquette rather than demonstrable competitive consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sportingnews.com">[Sporting News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sportingnews.com</span><span class="citation-popover-snippet">Sporting NewsWhy I don&#x27;t step on the logo in NHL locker roomsApril 18, 2016 — 18 Apr 2016 — Fans will get angry because, for the most par...</span><span class="citation-popover-meta">Published: April 18, 2016</span></span></span>
 
 This distinction matters. A team may reasonably say:
 
@@ -367,7 +367,7 @@ Keeping these ideas separate helps avoid confusion. A ritual can matter deeply t
 
 ## The Practical Value of the Rule
 
-Locker-room logo rules endure because they are inexpensive, easy to understand, and highly visible expressions of team culture. They provide a daily reminder of collective identity and give players a simple way to demonstrate commitment to group standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twointhebox.com">[Two in the Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twointhebox.com</span><span class="citation-popover-title">Two in the Box Tread lightly, logo etiquette in the locker room</span><span class="citation-popover-snippet">Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</span><span class="citation-popover-meta">Published: July 11, 2013</span></span></span>
+Locker-room logo rules endure because they are inexpensive, easy to understand, and highly visible expressions of team culture. They provide a daily reminder of collective identity and give players a simple way to demonstrate commitment to group standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twointhebox.com">[Two in the Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twointhebox.com</span><span class="citation-popover-title">Two in the Box Tread lightly, logo etiquette in the locker room</span><span class="citation-popover-snippet">Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</span><span class="citation-popover-meta">Published: July 11, 2013</span></span></span>
 
 Their value therefore lies in implementation rather than prediction. The rule works as a cultural signal:
 
@@ -387,269 +387,269 @@ From the perspective of logical fallacies, the important lesson is that a meanin
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-3-dark.svg" | relative_url }}" alt="Logo Rules illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Respect Ritual or Real Sports Curse?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Respect Ritual or Real Sports Curse?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SwtFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Culture Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code">The Culture Code</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Coyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SwtFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Culture Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code">The Culture Code</a>
+</h4>
+<p class="fr-book-author">By Daniel Coyle</p>
         
-        <p class="fr-book-desc">Explains rituals, norms, and team culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains rituals, norms, and team culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps separate meaningful rituals from causal claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps separate meaningful rituals from causal claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses attitudes and beliefs within teams.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses attitudes and beliefs within teams.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to losing streaks and causal myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to losing streaks and causal myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Culture+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Culture Code</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Culture+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Culture Code</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Liverpool Crested NB Football Hand Signed by 2016-17 1st Team Squad."><img src="{{ '/assets/images/marketplace-covers/23d345653f746a82e3e0.jpg' | relative_url }}" alt="Listing image for Official Liverpool Crested NB Football Hand Signed by 2016-17 1st Team Squad." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Official Liverpool Crested NB Football Hand Signed by 2016-17 1st Team Squad.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: team crest sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Liverpool Crested NB Football Hand Signed by 2016-17 1st Team Squad."><img src="{{ '/assets/images/marketplace-covers/23d345653f746a82e3e0.jpg' | relative_url }}" alt="Listing image for Official Liverpool Crested NB Football Hand Signed by 2016-17 1st Team Squad." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Official Liverpool Crested NB Football Hand Signed by 2016-17 1st Team Squad.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: team crest sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Custom Club Logo 3D Plaque – Personalised Team Crest Sign | Work Charity"><img src="{{ '/assets/images/marketplace-covers/9e51e57192560650f1f3.jpg' | relative_url }}" alt="Listing image for Large Custom Club Logo 3D Plaque – Personalised Team Crest Sign | Work Charity" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large Custom Club Logo 3D Plaque – Personalised Team Crest Sign | Work Charity</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: team crest sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Custom Club Logo 3D Plaque – Personalised Team Crest Sign | Work Charity"><img src="{{ '/assets/images/marketplace-covers/9e51e57192560650f1f3.jpg' | relative_url }}" alt="Listing image for Large Custom Club Logo 3D Plaque – Personalised Team Crest Sign | Work Charity" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large Custom Club Logo 3D Plaque – Personalised Team Crest Sign | Work Charity</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: team crest sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom LED Football Crest Sign | Personalized Illuminated Team Logo"><img src="{{ '/assets/images/marketplace-covers/9b529e0151461fe846eb.jpg' | relative_url }}" alt="Listing image for Custom LED Football Crest Sign | Personalized Illuminated Team Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom LED Football Crest Sign | Personalized Illuminated Team Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: team crest sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom LED Football Crest Sign | Personalized Illuminated Team Logo"><img src="{{ '/assets/images/marketplace-covers/9b529e0151461fe846eb.jpg' | relative_url }}" alt="Listing image for Custom LED Football Crest Sign | Personalized Illuminated Team Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom LED Football Crest Sign | Personalized Illuminated Team Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: team crest sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Liverpool FC Official Team LED Crest Light Sign LFC Gift"><img src="{{ '/assets/images/marketplace-covers/08360067008ad73ecbf8.jpg' | relative_url }}" alt="Listing image for Liverpool FC Official Team LED Crest Light Sign LFC Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Liverpool FC Official Team LED Crest Light Sign LFC Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: team crest sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Liverpool FC Official Team LED Crest Light Sign LFC Gift"><img src="{{ '/assets/images/marketplace-covers/08360067008ad73ecbf8.jpg' | relative_url }}" alt="Listing image for Liverpool FC Official Team LED Crest Light Sign LFC Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Liverpool FC Official Team LED Crest Light Sign LFC Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: team crest sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logo-rules-respect-ritual-or-real-sports-curse-logical-fallacies-team-crest-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -665,7 +665,7 @@ From the perspective of logical fallacies, the important lesson is that a meanin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -685,7 +685,7 @@ From the perspective of logical fallacies, the important lesson is that a meanin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -717,7 +717,7 @@ From the perspective of logical fallacies, the important lesson is that a meanin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ From the perspective of logical fallacies, the important lesson is that a meanin
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -805,90 +805,90 @@ From the perspective of logical fallacies, the important lesson is that a meanin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: twointhebox.com  
    Title: Two in the Box Tread lightly, logo etiquette in the locker room  
-   Link: <a href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow">https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</p></details>
+   Link:<a href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow">https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</p></details>
    Published: July 11, 2013  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theathleticbrandingco.com  
-   Link: <a href="https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed" target="_blank" rel="noopener noreferrer nofollow">https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Athletic Branding CompanyThe core function of the locker room has officially changed.February 6, 2023 — 6 Feb 2026 — Logos, bold colo...</p></details>
+   Link:<a href="https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed" target="_blank" rel="noopener noreferrer nofollow">https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Athletic Branding CompanyThe core function of the locker room has officially changed.February 6, 2023 — 6 Feb 2026 — Logos, bold colo...</p></details>
    Published: February 6, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: southeasternsportsnetwork.com  
-   Link: <a href="https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/" target="_blank" rel="noopener noreferrer nofollow">https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Southeastern Sports NetworkThe Significance of Superstitions27 Dec 2025 — “Our biggest rule is no stepping on the logo in the locker room...</p></details>
+   Link:<a href="https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/" target="_blank" rel="noopener noreferrer nofollow">https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Southeastern Sports NetworkThe Significance of Superstitions27 Dec 2025 — “Our biggest rule is no stepping on the logo in the locker room...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It forces you to stop and think about why you are not stepping on the logo. It...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It forces you to stop and think about why you are not stepping on the logo. It...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sportingnews.com  
-   Link: <a href="https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw" target="_blank" rel="noopener noreferrer nofollow">https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sporting NewsWhy I don&#x27;t step on the logo in NHL locker roomsApril 18, 2016 — 18 Apr 2016 — Fans will get angry because, for the most par...</p></details>
+   Link:<a href="https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw" target="_blank" rel="noopener noreferrer nofollow">https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sporting NewsWhy I don&#x27;t step on the logo in NHL locker roomsApril 18, 2016 — 18 Apr 2016 — Fans will get angry because, for the most par...</p></details>
    Published: April 18, 2016  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: DO N'T STEP ON THE LOGO  
-   Link: <a href="https://www.youtube.com/watch?v=aBTqigT35xc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aBTqigT35xc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DON&#x27;T STEP ON THE LOGO - NHL Dressing Room ProtocolOne of the great unwritten rules of hockey is to &quot;Respect the Logo&quot;. So why do teams p...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aBTqigT35xc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aBTqigT35xc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DON&#x27;T STEP ON THE LOGO - NHL Dressing Room ProtocolOne of the great unwritten rules of hockey is to &quot;Respect the Logo&quot;. So why do teams p...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: communityfirstigloo.com  
-   Link: <a href="https://communityfirstigloo.com/hockey/culture/standards-of-excellence/locker-room-policy/" target="_blank" rel="noopener noreferrer nofollow">https://communityfirstigloo.com/hockey/culture/standards-of-excellence/locker-room-policy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Locker Room PolicyNo player(s) are allowed to enter the locker room area for any reason unless a screened locker room monitor, coach or m...</p></details>
+   Link:<a href="https://communityfirstigloo.com/hockey/culture/standards-of-excellence/locker-room-policy/" target="_blank" rel="noopener noreferrer nofollow">https://communityfirstigloo.com/hockey/culture/standards-of-excellence/locker-room-policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Locker Room PolicyNo player(s) are allowed to enter the locker room area for any reason unless a screened locker room monitor, coach or m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: coachad.com  
-   Link: <a href="https://coachad.com/articles/the-complete-guide-to-locker-room-graphics-motivating-athletes-strengthening-team-identity/" target="_blank" rel="noopener noreferrer nofollow">https://coachad.com/articles/the-complete-guide-to-locker-room-graphics-motivating-athletes-strengthening-team-identity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coach and Athletic DirectorThe Complete Guide to Locker Room Graphics: Motivating...15 Jan 2026 — From bold team logos to motivational q...</p></details>
+   Link:<a href="https://coachad.com/articles/the-complete-guide-to-locker-room-graphics-motivating-athletes-strengthening-team-identity/" target="_blank" rel="noopener noreferrer nofollow">https://coachad.com/articles/the-complete-guide-to-locker-room-graphics-motivating-athletes-strengthening-team-identity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coach and Athletic DirectorThe Complete Guide to Locker Room Graphics: Motivating...15 Jan 2026 — From bold team logos to motivational q...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: legacy20arenamiddleton.com  
-   Link: <a href="https://www.legacy20arenamiddleton.com/player-resources/locker-room-policy/29111" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy20arenamiddleton.com/player-resources/locker-room-policy/29111</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGACY20 | Locker Room PolicyAll members of the team must have this minimum attire before entering a co-ed locker room so that no player...</p></details>
+   Link:<a href="https://www.legacy20arenamiddleton.com/player-resources/locker-room-policy/29111" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy20arenamiddleton.com/player-resources/locker-room-policy/29111</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGACY20 | Locker Room PolicyAll members of the team must have this minimum attire before entering a co-ed locker room so that no player...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amigraphics.com  
-   Link: <a href="https://amigraphics.com/blog/locker-room-graphics" target="_blank" rel="noopener noreferrer nofollow">https://amigraphics.com/blog/locker-room-graphics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Locker Room Graphics (Wall murals, floor graphics)Nothing grabs attention like a 3D logo proudly mounted on the locker room wall...</p></details>
+   Link:<a href="https://amigraphics.com/blog/locker-room-graphics" target="_blank" rel="noopener noreferrer nofollow">https://amigraphics.com/blog/locker-room-graphics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Locker Room Graphics (Wall murals, floor graphics)Nothing grabs attention like a 3D logo proudly mounted on the locker room wall...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bleacherreport.com  
-   Link: <a href="https://bleacherreport.com/articles/921526-new-york-rangers-victory-hat-and-other-interesting-nhl-locker-room-traditions" target="_blank" rel="noopener noreferrer nofollow">https://bleacherreport.com/articles/921526-new-york-rangers-victory-hat-and-other-interesting-nhl-locker-room-traditions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alas, some people just don&#x27;t respect that locker room tradition. New York...Read more...</p></details>
+   Link:<a href="https://bleacherreport.com/articles/921526-new-york-rangers-victory-hat-and-other-interesting-nhl-locker-room-traditions" target="_blank" rel="noopener noreferrer nofollow">https://bleacherreport.com/articles/921526-new-york-rangers-victory-hat-and-other-interesting-nhl-locker-room-traditions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alas, some people just don&#x27;t respect that locker room tradition. New York...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYlMQ1kBCWb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYlMQ1kBCWb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t&#x27;s on a rug in the tunnel, a mat on the touchline, or painted...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYlMQ1kBCWb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYlMQ1kBCWb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t&#x27;s on a rug in the tunnel, a mat on the touchline, or painted...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hawkslatest/posts/the-logo-is-gone-details-in-the-comments/122281370270034763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hawkslatest/posts/the-logo-is-gone-details-in-the-comments/122281370270034763/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ooms. Now, it&#x27;ll be impossible to do so in Chicago...</p></details>
+   Link:<a href="https://www.facebook.com/hawkslatest/posts/the-logo-is-gone-details-in-the-comments/122281370270034763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hawkslatest/posts/the-logo-is-gone-details-in-the-comments/122281370270034763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ooms. Now, it&#x27;ll be impossible to do so in Chicago...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wqP7d7lIgcw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wqP7d7lIgcw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Justin Bieber Tarnishes Stanley Cup - The Daily Win...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wqP7d7lIgcw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wqP7d7lIgcw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justin Bieber Tarnishes Stanley Cup - The Daily Win...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nbclosangeles.com  
    Title: puckd reporter refuses to respect sanctity of penguins locker room  
-   Link: <a href="https://www.nbclosangeles.com/news/sports/puckd-reporter-refuses-to-respect-sanctity-of-penguins-locker-room/1846731/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbclosangeles.com/news/sports/puckd-reporter-refuses-to-respect-sanctity-of-penguins-locker-room/1846731/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frank from PensBurgh sums up the...Read more...</p></details>
+   Link:<a href="https://www.nbclosangeles.com/news/sports/puckd-reporter-refuses-to-respect-sanctity-of-penguins-locker-room/1846731/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbclosangeles.com/news/sports/puckd-reporter-refuses-to-respect-sanctity-of-penguins-locker-room/1846731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frank from PensBurgh sums up the...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OhMyGoal.KeliNetwork/posts/ben-white-steps-on-atl%C3%A9ticos-logo-players-lose-their-cool-yesterday-during-the-c/1498599554954628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OhMyGoal.KeliNetwork/posts/ben-white-steps-on-atl%C3%A9ticos-logo-players-lose-their-cool-yesterday-during-the-c/1498599554954628/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t supposed to be stepped on.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/OhMyGoal.KeliNetwork/posts/ben-white-steps-on-atl%C3%A9ticos-logo-players-lose-their-cool-yesterday-during-the-c/1498599554954628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OhMyGoal.KeliNetwork/posts/ben-white-steps-on-atl%C3%A9ticos-logo-players-lose-their-cool-yesterday-during-the-c/1498599554954628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t supposed to be stepped on.Read more...</p></details>

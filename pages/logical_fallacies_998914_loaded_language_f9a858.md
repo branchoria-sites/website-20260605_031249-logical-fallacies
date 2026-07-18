@@ -504,15 +504,15 @@ image: /assets/images/logical_fallacies_998914_loaded_language_f9a858-overview-s
 Loaded language and hidden assumptions are fallacy [mechanisms]({{ 'mechanisms/' | relative_url }}) that work before an argument has been properly examined. Instead of proving a point, they tilt the reader’s judgement through emotionally charged wording, flattering or hostile labels, or questions that quietly treat a disputed claim as already settled. The problem is not that [emotion]({{ 'emotion/' | relative_url }}), vivid language or assumptions are always illegitimate. Ordinary communication depends on framing, emphasis and shared background. The fallacy appears when wording does argumentative work that evidence has not earned.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858-overview.webp" | relative_url }}" alt="Overview image for Loaded Words" loading="eager" decoding="sync" fetchpriority="high">
-In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because the error can be hard to spot. A sentence may look like a question, a description or a harmless phrase, while actually pushing a conclusion. “Are we going to continue wasting money on this policy?” does not merely ask about future spending; it presupposes that the spending is wasteful. The critical reader’s task is to separate the claim from the emotional packaging, then ask whether the hidden premise has been independently supported. The Internet Encyclopedia of Philosophy treats complex or [loaded questions]({{ 'loaded-questions/' | relative_url }}) as cases where wording makes a controversial presupposition, and describes loaded questions as questions that unfairly presume the answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because the error can be hard to spot. A sentence may look like a question, a description or a harmless phrase, while actually pushing a conclusion. “Are we going to continue wasting money on this policy?” does not merely ask about future spending; it presupposes that the spending is wasteful. The critical reader’s task is to separate the claim from the emotional packaging, then ask whether the hidden premise has been independently supported. The Internet Encyclopedia of Philosophy treats complex or [loaded questions]({{ 'loaded-questions/' | relative_url }}) as cases where wording makes a controversial presupposition, and describes loaded questions as questions that unfairly presume the answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## How loaded wording does the work of an argument
 
 Loaded language uses words with strong emotional or evaluative force to make a claim feel more acceptable, outrageous, dangerous or virtuous than the evidence alone would show. Calling a tax “investment in the future” frames it differently from calling it a “raid on workers’ pay packets”. Calling a protest “public resistance” differs from calling it “mob disruption”. The facts may still need discussion, but the wording has already told the audience what emotional stance to take.
 
-That is why loaded language belongs within informal fallacies rather than [formal logic]({{ 'formal-logic/' | relative_url }}). The problem is not usually an invalid syllogism. It is a pressure on judgement created by word choice, framing and implied evaluation. Purdue OWL’s general account of fallacies is useful here: fallacies undermine an argument’s logic and are often marked by a lack of evidence supporting the claim. Loaded wording becomes fallacious when it substitutes mood, stigma or approval for the missing support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Purdue OWL® - Purdue University...</span></span></span>
+That is why loaded language belongs within informal fallacies rather than [formal logic]({{ 'formal-logic/' | relative_url }}). The problem is not usually an invalid syllogism. It is a pressure on judgement created by word choice, framing and implied evaluation. Purdue OWL’s general account of fallacies is useful here: fallacies undermine an argument’s logic and are often marked by a lack of evidence supporting the claim. Loaded wording becomes fallacious when it substitutes mood, stigma or approval for the missing support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Purdue OWL® - Purdue University...</span></span></span>
 
-Psychology research helps explain why this works. A 2018 study in *Psychological Science* found that when people intend to persuade, they spontaneously use more emotionally loaded words, and may keep doing so even when emotional appeals could backfire. This does not mean emotional language is automatically manipulative; it does show that persuasion and emotional wording are closely linked in ordinary communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Psychology research helps explain why this works. A 2018 study in *Psychological Science* found that when people intend to persuade, they spontaneously use more emotionally loaded words, and may keep doing so even when emotional appeals could backfire. This does not mean emotional language is automatically manipulative; it does show that persuasion and emotional wording are closely linked in ordinary communication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical test is to ask: “Would this sentence still be persuasive if the charged word were replaced by a neutral one?” If “reckless cuts” becomes “budget reductions”, “common-sense reform” becomes “proposed reform”, or “bureaucratic meddling” becomes “regulation”, the argument may suddenly look much thinner. That thinning is the clue. The original wording was not just describing the issue; it was carrying part of the conclusion.
 
@@ -530,7 +530,7 @@ There are three common patterns:
 
 </div>
 
-The mechanism is especially visible in public communication because framing is unavoidable. A 2024 review in *Psychological Science in the Public Interest* notes that speakers must choose what to say, what not to say and how to say it, and that these choices can influence how people think, feel and act across [politics]({{ 'politics/' | relative_url }}), health, business, journalism, law and personal life. The same review also cautions that framing is a normal feature of communication, not automatically a trick. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The mechanism is especially visible in public communication because framing is unavoidable. A 2024 review in *Psychological Science in the Public Interest* notes that speakers must choose what to say, what not to say and how to say it, and that these choices can influence how people think, feel and act across [politics]({{ 'politics/' | relative_url }}), health, business, journalism, law and personal life. The same review also cautions that framing is a normal feature of communication, not automatically a trick.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That distinction matters. A campaigner may legitimately use vivid language to communicate moral urgency. A journalist may fairly call a proven falsehood a falsehood. A patient advocate may describe suffering in emotionally direct terms because the emotion is part of the reality being discussed. Loaded language becomes a fallacy when the emotional label replaces the evidence, blocks alternative descriptions, or makes disagreement feel morally suspect before the reasoning has been tested.
 
@@ -539,9 +539,9 @@ That distinction matters. A campaigner may legitimately use vivid language to co
 
 A presupposition is background information that a statement or question takes for granted. In ordinary conversation, presuppositions are useful. “When did you arrive?” presupposes that you arrived. “Do you want another cup of tea?” presupposes that you have already had one. Most of the time, such assumptions are harmless and efficient.
 
-In argument, however, presuppositions can smuggle in disputed claims. The classic loaded-question pattern is: “Have you stopped doing X?” Either a yes or no answer seems to accept that X was happening before. The respondent is pushed into defending themselves from a premise they may reject. The Internet Encyclopedia of Philosophy’s example, asking whether a president will continue “wasting taxpayer’s money” on a policy, shows the same structure: the question presupposes that the policy is wasteful rather than asking whether it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In argument, however, presuppositions can smuggle in disputed claims. The classic loaded-question pattern is: “Have you stopped doing X?” Either a yes or no answer seems to accept that X was happening before. The respondent is pushed into defending themselves from a premise they may reject. The Internet Encyclopedia of Philosophy’s example, asking whether a president will continue “wasting taxpayer’s money” on a policy, shows the same structure: the question presupposes that the policy is wasteful rather than asking whether it is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Linguistics gives this mechanism a precise explanation. The Stanford Encyclopedia of Philosophy discusses “accommodation”, where listeners adjust the conversational background to make sense of a speaker’s presupposition. In ordinary conversation, people often accept such background adjustments smoothly because conversation would be exhausting if every assumption had to be challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall2014/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy</span><span class="citation-popover-snippet">Presupposition (Stanford Encyclopedia of Philosophy/Fall 2014 Edition)...</span></span></span> Encyclopedia of Philosophy
+Linguistics gives this mechanism a precise explanation. The Stanford Encyclopedia of Philosophy discusses “accommodation”, where listeners adjust the conversational background to make sense of a speaker’s presupposition. In ordinary conversation, people often accept such background adjustments smoothly because conversation would be exhausting if every assumption had to be challenged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall2014/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy</span><span class="citation-popover-snippet">Presupposition (Stanford Encyclopedia of Philosophy/Fall 2014 Edition)...</span></span></span> Encyclopedia of Philosophy
 
 That smoothness is exactly what makes hidden assumptions powerful in fallacious reasoning. The audience may unconsciously accept the premise just to keep the conversation moving. Once accepted, the argument can proceed as if the contested point has already been established. The fallacy is not merely that an assumption exists; all reasoning uses assumptions. The problem is that the assumption is controversial, relevant and unargued.
 
@@ -549,7 +549,7 @@ That smoothness is exactly what makes hidden assumptions powerful in fallacious 
 
 Loaded assumptions are especially damaging when the format limits the respondent’s ability to object. In a debate, the speaker may be able to say, “I reject the premise.” In a multiple-choice survey, courtroom question or rapid interview, the design may force an answer that appears to concede the hidden claim.
 
-Survey researchers treat this as a measurement problem as well as a reasoning problem. Pew Research Center warns that even accurate sampling is wasted if the questions are ambiguous or biased, because the wording of questions is part of what determines whether a survey measures real opinions, experiences and behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Writing Survey Questions &#124; Pew Research Center</span><span class="citation-popover-snippet">Pew Research Center Writing Survey Questions &#124; Pew Research Center</span></span></span> SurveyMonkey gives the practical version: injecting an opinion or assumption into a survey question produces biased responses, and a loaded question can force respondents to answer about something they may not have experienced or accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surveymonkey.com">[SurveyMonkey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surveymonkey.com</span><span class="citation-popover-title">Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions</span><span class="citation-popover-snippet">Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions</span></span></span>
+Survey researchers treat this as a measurement problem as well as a reasoning problem. Pew Research Center warns that even accurate sampling is wasted if the questions are ambiguous or biased, because the wording of questions is part of what determines whether a survey measures real opinions, experiences and behaviours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Writing Survey Questions &#124; Pew Research Center</span><span class="citation-popover-snippet">Pew Research Center Writing Survey Questions &#124; Pew Research Center</span></span></span> SurveyMonkey gives the practical version: injecting an opinion or assumption into a survey question produces biased responses, and a loaded question can force respondents to answer about something they may not have experienced or accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surveymonkey.com">[SurveyMonkey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surveymonkey.com</span><span class="citation-popover-title">Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions</span><span class="citation-popover-snippet">Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions</span></span></span>
 
 A simple example is:
 
@@ -561,7 +561,7 @@ This presupposes that customers are unhappy. A neutral version would be:
 
 The neutral version leaves room for approval, indifference, mixed [experience]({{ 'experience/' | relative_url }}) or dissatisfaction. It asks for evidence rather than embedding the answer.
 
-The same issue appears in interviews and memory research. In the well-known Loftus and Palmer car crash experiment, participants’ speed estimates were influenced by the verb used in the question, such as “smashed” rather than “hit”; later, some participants were more likely to report seeing broken glass that was not present. The study is usually discussed as evidence that wording can influence eyewitness reports, though later discussion also notes limits such as the artificial laboratory setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">loftus palmer</span></span></span>
+The same issue appears in interviews and memory research. In the well-known Loftus and Palmer car crash experiment, participants’ speed estimates were influenced by the verb used in the question, such as “smashed” rather than “hit”; later, some participants were more likely to report seeing broken glass that was not present. The study is usually discussed as evidence that wording can influence eyewitness reports, though later discussion also notes limits such as the artificial laboratory setting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">loftus palmer</span></span></span>
 
 For logical fallacies, the lesson is narrower but important: wording is not a transparent container for a claim. It can shape the answer, the memory, the emotional stance and the apparent range of acceptable replies.
 
@@ -586,7 +586,7 @@ A good way to distinguish fair assumptions from fallacious ones is to ask four q
 
 If the speaker can show evidence of exploitation, waste or corruption, the wording may be forceful but not necessarily fallacious. If not, the label is doing more work than the proof.
 
-This is why loaded language often overlaps with begging the question. Begging the question occurs when reasoning depends on a premise that already assumes the conclusion. The IEP describes it as circular reasoning in which the conclusion is derived from premises that presuppose the conclusion, and notes that the issue is whether a key premise has been adopted blindly or can be independently defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why loaded language often overlaps with begging the question. Begging the question occurs when reasoning depends on a premise that already assumes the conclusion. The IEP describes it as circular reasoning in which the conclusion is derived from premises that presuppose the conclusion, and notes that the issue is whether a key premise has been adopted blindly or can be independently defended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858-Illustration-2-dark.svg" | relative_url }}" alt="Loaded Words illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Neutral rewrites
@@ -625,7 +625,7 @@ The strongest critical response is usually calm and specific: identify the loade
 
 ## Why this fallacy is easy to miss
 
-Loaded language and hidden assumptions are easy to miss because they exploit normal habits of understanding. Readers do not process every word as a formal premise. They follow context, infer background, respond to tone and make quick judgements about what kind of situation they are in. Framing research suggests that these effects are not rare distortions but part of how language guides mental models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Loaded language and hidden assumptions are easy to miss because they exploit normal habits of understanding. Readers do not process every word as a formal premise. They follow context, infer background, respond to tone and make quick judgements about what kind of situation they are in. Framing research suggests that these effects are not rare distortions but part of how language guides mental models.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 They are also easy to miss because the wording may match the audience’s existing beliefs. A hostile label aimed at an opponent feels like accuracy; the same technique aimed at one’s own side feels unfair. That asymmetry is one reason this fallacy is common in political speech, advertising, activism, management language and [social media]({{ 'social-media/' | relative_url }}) disputes. The more familiar the emotional frame feels, the less visible it becomes as a frame.
 
@@ -634,269 +634,269 @@ The remedy is not suspicion of all rhetoric. It is disciplined translation. Stri
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yTk1vWSwNek" title="Logical Fallacies: The Loaded Question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yTk1vWSwNek" target="_blank" rel="noopener noreferrer">Logical Fallacies: The Loaded Question</a></p><p class="youtube-embed-meta">Channel: Bitesize Philosophy &middot; Views: 3.0K &middot; Uploaded: August 2023 &middot; Length: 1 minute 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yTk1vWSwNek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yTk1vWSwNek">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is the Wording Sneaking In?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is the Wording Sneaking In?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
-        </h4>
-        <p class="fr-book-author">By Jay Heinrichs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
+</h4>
+<p class="fr-book-author">By Jay Heinrichs</p>
         
-        <p class="fr-book-desc">Explains persuasive language and rhetorical influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains persuasive language and rhetorical influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Helps uncover assumptions hidden in wording.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps uncover assumptions hidden in wording.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains framing effects and emotional influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains framing effects and emotional influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Words+Like+Loaded+Pistols+by+Sam+Leith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Words Like Loaded Pistols on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Words+Like+Loaded+Pistols+by+Sam+Leith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Words Like Loaded Pistols">Words Like Loaded Pistols</a>
-        </h4>
-        <p class="fr-book-author">By Sam Leith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Words+Like+Loaded+Pistols+by+Sam+Leith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Words Like Loaded Pistols on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Words+Like+Loaded+Pistols+by+Sam+Leith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Words Like Loaded Pistols">Words Like Loaded Pistols</a>
+</h4>
+<p class="fr-book-author">By Sam Leith</p>
         
-        <p class="fr-book-desc">Directly relevant to persuasive wording and framing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Words+Like+Loaded+Pistols+by+Sam+Leith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to persuasive wording and framing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Words+Like+Loaded+Pistols+by+Sam+Leith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thank+You+for+Arguing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thank You for Arguing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thank+You+for+Arguing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thank You for Arguing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loaded-words-what-is-the-wording-sneaking-in-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -912,7 +912,7 @@ The remedy is not suspicion of all rhetoric. It is disciplined translation. Stri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -932,7 +932,7 @@ The remedy is not suspicion of all rhetoric. It is disciplined translation. Stri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -964,7 +964,7 @@ The remedy is not suspicion of all rhetoric. It is disciplined translation. Stri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -994,7 +994,7 @@ The remedy is not suspicion of all rhetoric. It is disciplined translation. Stri
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1052,140 +1052,140 @@ The remedy is not suspicion of all rhetoric. It is disciplined translation. Stri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL® - Purdue University...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL® - Purdue University...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy  
-   Link: <a href="https://plato.stanford.edu/archives/fall2014/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/presupposition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Presupposition (Stanford Encyclopedia of Philosophy/Fall 2014 Edition)...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2014/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/presupposition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Presupposition (Stanford Encyclopedia of Philosophy/Fall 2014 Edition)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: surveymonkey.com  
    Title: Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions  
-   Link: <a href="https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/</a>  
+   Link:<a href="https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: owl.purdue.edu  
    Title: using paper checkers responsibly  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/using_paper_checkers_responsibly.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_paper_checkers_responsibly.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/using_paper_checkers_responsibly.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_paper_checkers_responsibly.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2025/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2025/entries/fallacies/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Change My Mind: Loaded Language  
-   Link: <a href="https://www.youtube.com/watch?v=voJszy317mk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=voJszy317mk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Loaded Question...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=voJszy317mk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=voJszy317mk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Loaded Question...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=HjAhROTY7YA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HjAhROTY7YA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question (Logical Fallacy)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HjAhROTY7YA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HjAhROTY7YA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question (Logical Fallacy)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29543563/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29543563/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/15291006241246966</a>  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/15291006241246966</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Writing Survey Questions | Pew Research Center  
-   Link: <a href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/writing-survey-questions/</a>  
+   Link:<a href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/writing-survey-questions/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: simplypsychology.org  
    Title: loftus palmer  
-   Link: <a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
+   Link:<a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Loaded question  
-   Link: <a href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_question</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_question</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Loaded language  
-   Link: <a href="https://en.wikipedia.org/wiki/Loaded_language" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_language</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loaded_language" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_language</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20363901/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20363901/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20363901/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20363901/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/scireas/question.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/question.html</a>  
+   Link:<a href="https://philosophy.lander.edu/scireas/question.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/question.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: resource.download.wjec.co.uk  
    Title: loftus and palmer  
-   Link: <a href="https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf</a>  
+   Link:<a href="https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: study.com  
    Title: Loaded Question | Definition & Examples  
-   Link: <a href="https://study.com/academy/lesson/loaded-question-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/loaded-question-definition-examples.html</a>  
+   Link:<a href="https://study.com/academy/lesson/loaded-question-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/loaded-question-definition-examples.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: prezi.com  
    Title: Loaded Question  
-   Link: <a href="https://prezi.com/rsk6zn05txep/loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/rsk6zn05txep/loaded-question/</a>  
+   Link:<a href="https://prezi.com/rsk6zn05txep/loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/rsk6zn05txep/loaded-question/</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264409817_Emotion_Motivation_and_the_Persuasive_Effects_of_Message_Framing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264409817_Emotion_Motivation_and_the_Persuasive_Effects_of_Message_Framing</a>  
+   Link:<a href="https://www.researchgate.net/publication/264409817_Emotion_Motivation_and_the_Persuasive_Effects_of_Message_Framing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264409817_Emotion_Motivation_and_the_Persuasive_Effects_of_Message_Framing</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/226490402_The_Fallacy_of_Many_Questions_On_the_Notions_of_Complexity_Loadedness_and_Unfair_Entrapment_in_Interrogative_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226490402_The_Fallacy_of_Many_Questions_On_the_Notions_of_Complexity_Loadedness_and_Unfair_Entrapment_in_Interrogative_Theory</a>  
+   Link:<a href="https://www.researchgate.net/publication/226490402_The_Fallacy_of_Many_Questions_On_the_Notions_of_Complexity_Loadedness_and_Unfair_Entrapment_in_Interrogative_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226490402_The_Fallacy_of_Many_Questions_On_the_Notions_of_Complexity_Loadedness_and_Unfair_Entrapment_in_Interrogative_Theory</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/vbmyct/eli5_what_is_a_loaded_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/vbmyct/eli5_what_is_a_loaded_question/</a>  
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/vbmyct/eli5_what_is_a_loaded_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/vbmyct/eli5_what_is_a_loaded_question/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reed.edu  
-   Link: <a href="https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf</a>  
+   Link:<a href="https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/325856391_Framing_and_Bias_A_Literature_Review_of_Recent_Findings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325856391_Framing_and_Bias_A_Literature_Review_of_Recent_Findings</a>  
+   Link:<a href="https://www.researchgate.net/publication/325856391_Framing_and_Bias_A_Literature_Review_of_Recent_Findings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325856391_Framing_and_Bias_A_Literature_Review_of_Recent_Findings</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: calenda.org  
-   Link: <a href="https://calenda.org/788308" target="_blank" rel="noopener noreferrer nofollow">https://calenda.org/788308</a>  
+   Link:<a href="https://calenda.org/788308" target="_blank" rel="noopener noreferrer nofollow">https://calenda.org/788308</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: fallacyguide.com  
-   Link: <a href="https://fallacyguide.com/fallacies/loaded-question" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/loaded-question</a>  
+   Link:<a href="https://fallacyguide.com/fallacies/loaded-question" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/loaded-question</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: effectiviology.com  
-   Link: <a href="https://effectiviology.com/loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/loaded-question/</a>  
+   Link:<a href="https://effectiviology.com/loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/loaded-question/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sourcesofinsight.com  
-   Link: <a href="https://sourcesofinsight.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://sourcesofinsight.com/logical-fallacies/</a>
+   Link:<a href="https://sourcesofinsight.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://sourcesofinsight.com/logical-fallacies/</a>

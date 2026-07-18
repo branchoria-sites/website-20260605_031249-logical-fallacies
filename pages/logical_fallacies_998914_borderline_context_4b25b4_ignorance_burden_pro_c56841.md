@@ -274,16 +274,16 @@ image: /assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignoran
 
 ## Introduction
 
-An appeal to [ignorance]({{ 'ignorance/' | relative_url }}) normally argues that a claim is true because it has not been proven false, or false because it has not been proven true. In most contexts, that is weak reasoning. A lack of evidence does not automatically establish a conclusion. However, legal systems create an important exception that often confuses discussions of this fallacy: when one side carries the burden of proof, failure to provide sufficient evidence can be decisive. The key point is that courts do not conclude that the opposite claim has been proven true; they conclude that the party with the burden of proof has failed to justify its claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (law</span><span class="citation-popover-snippet">Burden of proof (law</span></span></span>
+An appeal to [ignorance]({{ 'ignorance/' | relative_url }}) normally argues that a claim is true because it has not been proven false, or false because it has not been proven true. In most contexts, that is weak reasoning. A lack of evidence does not automatically establish a conclusion. However, legal systems create an important exception that often confuses discussions of this fallacy: when one side carries the burden of proof, failure to provide sufficient evidence can be decisive. The key point is that courts do not conclude that the opposite claim has been proven true; they conclude that the party with the burden of proof has failed to justify its claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (law</span><span class="citation-popover-snippet">Burden of proof (law</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-1-dark.svg" | relative_url }}" alt="No Proof illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction makes legal reasoning a classic borderline case in [informal logic]({{ 'informal-logic/' | relative_url }}). “There is no proof that the defendant committed the crime” does not establish factual innocence. Yet under the presumption of innocence, it can be enough to justify acquittal because the prosecution has not met the required standard of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span>
+This distinction makes legal reasoning a classic borderline case in [informal logic]({{ 'informal-logic/' | relative_url }}). “There is no proof that the defendant committed the crime” does not establish factual innocence. Yet under the presumption of innocence, it can be enough to justify acquittal because the prosecution has not met the required standard of proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span>
 
 ## Absence of Disproof Versus Failed Proof
 
-The ordinary appeal to ignorance follows a pattern such as: “Nobody has proved this claim false, therefore it is true.” Logic texts generally classify this as a fallacy because the absence of contrary evidence may simply reflect limited investigation, unavailable information, or unresolved uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Presumption of innocence</span><span class="citation-popover-snippet">Presumption of innocence</span></span></span>
+The ordinary appeal to ignorance follows a pattern such as: “Nobody has proved this claim false, therefore it is true.” Logic texts generally classify this as a fallacy because the absence of contrary evidence may simply reflect limited investigation, unavailable information, or unresolved uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Presumption of innocence</span><span class="citation-popover-snippet">Presumption of innocence</span></span></span>
 
-Legal disputes operate differently because they assign responsibility for proof. A criminal prosecutor must prove guilt; a civil claimant must prove the elements of a claim. If that burden is not met, the decision goes against the party carrying it. The outcome follows from procedural rules about proof, not from a logical inference that the opposite proposition has been established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ag.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ag.gov.au</span><span class="citation-popover-snippet">If a law imposes a burden of proof on the...Read more...</span></span></span>
+Legal disputes operate differently because they assign responsibility for proof. A criminal prosecutor must prove guilt; a civil claimant must prove the elements of a claim. If that burden is not met, the decision goes against the party carrying it. The outcome follows from procedural rules about proof, not from a logical inference that the opposite proposition has been established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ag.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ag.gov.au</span><span class="citation-popover-snippet">If a law imposes a burden of proof on the...Read more...</span></span></span>
 
 Consider two statements:
 
@@ -294,9 +294,9 @@ Consider two statements:
 
 </div>
 
-The first shifts the burden of proof and treats ignorance as evidence. The second applies a legal rule about what must be shown before state power may be used to punish someone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAppeal to ignorance often takes place in the context of a debate when one side attempts to place the...</span></span></span>
+The first shifts the burden of proof and treats ignorance as evidence. The second applies a legal rule about what must be shown before state power may be used to punish someone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAppeal to ignorance often takes place in the context of a debate when one side attempts to place the...</span></span></span>
 
-This is why acquittal should not be confused with a positive finding of innocence. A court may simply conclude that the evidence was insufficient to justify conviction. The distinction is subtle but central to understanding why “no proof” sometimes matters and sometimes does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy)This is analogous to the legal principle of presumption of innocence, in which a suspect or defendant is a...</span></span></span>
+This is why acquittal should not be confused with a positive finding of innocence. A court may simply conclude that the evidence was insufficient to justify conviction. The distinction is subtle but central to understanding why “no proof” sometimes matters and sometimes does not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy)This is analogous to the legal principle of presumption of innocence, in which a suspect or defendant is a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WaXNjyxKYkg" title="Burden of Proof | Criminal Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer">Burden of Proof | Criminal Evidence</a></p><p class="youtube-embed-meta">Channel: The Law Academy &middot; Views: 1.8K &middot; Uploaded: February 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WaXNjyxKYkg">Open on YouTube</a></p></div></div></div>
 
@@ -304,23 +304,23 @@ This is why acquittal should not be confused with a positive finding of innocenc
 
 The burden of proof is not merely a courtroom technicality. It determines what conclusions may be drawn from missing evidence.
 
-In criminal law, the presumption of innocence places the legal burden on the prosecution. Guilt must be established beyond a reasonable doubt. If reasonable doubt remains after examining the evidence, the defendant receives the benefit of that doubt. This outcome reflects a deliberate policy choice that wrongful conviction is a greater danger than wrongful acquittal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ag.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ag.gov.au</span><span class="citation-popover-snippet">If a law imposes a burden of proof on the...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span>
+In criminal law, the presumption of innocence places the legal burden on the prosecution. Guilt must be established beyond a reasonable doubt. If reasonable doubt remains after examining the evidence, the defendant receives the benefit of that doubt. This outcome reflects a deliberate policy choice that wrongful conviction is a greater danger than wrongful acquittal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ag.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ag.gov.au</span><span class="citation-popover-snippet">If a law imposes a burden of proof on the...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span>
 
 Under these conditions, the argument:
 
 > “Guilt has not been proved beyond a reasonable doubt; therefore conviction is unjustified”
 
-is not an appeal to ignorance. It is an application of the governing burden of proof. Informal logic scholars frequently note that arguments from ignorance become more reasonable when a recognised burden of proof exists and the party carrying that burden has failed to discharge it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAppeal to ignorance often takes place in the context of a debate when one side attempts to place the...</span></span></span> Wikipedia Different legal settings use different proof thresholds: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span>
+is not an appeal to ignorance. It is an application of the governing burden of proof. Informal logic scholars frequently note that arguments from ignorance become more reasonable when a recognised burden of proof exists and the party carrying that burden has failed to discharge it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAppeal to ignorance often takes place in the context of a debate when one side attempts to place the...</span></span></span> Wikipedia Different legal settings use different proof thresholds:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Beyond reasonable doubt** in criminal prosecutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ag.gov.au">[ag.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ag.gov.au</span><span class="citation-popover-snippet">If a law imposes a burden of proof on the...Read more...</span></span></span>
+* **Beyond reasonable doubt** in criminal prosecutions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ag.gov.au">[ag.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ag.gov.au</span><span class="citation-popover-snippet">If a law imposes a burden of proof on the...Read more...</span></span></span>
 * **Balance of probabilities** or similar standards in many civil disputes.
-* Lower thresholds for some administrative or emergency proceedings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">United Kingdom</span><span class="citation-popover-snippet">United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</span></span></span>
+* Lower thresholds for some administrative or emergency proceedings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">United Kingdom</span><span class="citation-popover-snippet">United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</span></span></span>
 
 </div>
 
-Because standards vary, the significance of missing evidence also varies. Evidence that is inadequate for a criminal conviction might still be enough to support a civil judgment. The same factual record can therefore produce different legal outcomes without any inconsistency in logic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Stanford University</span><span class="citation-popover-snippet">Stanford Universitya private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Le...</span></span></span>
+Because standards vary, the significance of missing evidence also varies. Evidence that is inadequate for a criminal conviction might still be enough to support a civil judgment. The same factual record can therefore produce different legal outcomes without any inconsistency in logic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Stanford University</span><span class="citation-popover-snippet">Stanford Universitya private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Le...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-2-dark.svg" | relative_url }}" alt="No Proof illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Concrete Borderline Example
@@ -331,13 +331,13 @@ A fallacious appeal to ignorance would be:
 
 > “There is no evidence proving the accused did not commit the crime, so the accused probably did.”
 
-That argument asks the defendant to disprove guilt and reverses the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 24, 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposite lacks eviden...</span></span></span>
+That argument asks the defendant to disprove guilt and reverses the burden of proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 24, 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposite lacks eviden...</span></span></span>
 
 A legally proper argument would be:
 
 > “The prosecution has failed to establish guilt beyond a reasonable doubt, so the defendant must be acquitted.”
 
-The second argument does not claim the defendant is factually innocent. It claims only that the legal requirements for conviction have not been satisfied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span> Wikipedia This difference explains why the same phrase <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span>—“there is no proof”—can be either a fallacy or a sound legal argument depending on what conclusion is being drawn.
+The second argument does not claim the defendant is factually innocent. It claims only that the legal requirements for conviction have not been satisfied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span> Wikipedia This difference explains why the same phrase<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span>—“there is no proof”—can be either a fallacy or a sound legal argument depending on what conclusion is being drawn.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hOM0K37pzEU" title="Ad Ignorantium (Appeal to Ignorance)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hOM0K37pzEU" target="_blank" rel="noopener noreferrer">Ad Ignorantium (Appeal to Ignorance)</a></p><p class="youtube-embed-meta">Channel: Exorna &middot; Views: 7.7K &middot; Uploaded: January 2020 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hOM0K37pzEU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hOM0K37pzEU">Open on YouTube</a></p></div></div></div>
 
@@ -354,276 +354,276 @@ The distinction mirrors the legal burden-of-proof issue. Missing evidence may ju
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-3-dark.svg" | relative_url }}" alt="No Proof illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Takeaway
 
-Appeal to ignorance becomes a borderline fallacy when a recognised burden of proof exists. In ordinary reasoning, “[not proven]({{ 'not-proven/' | relative_url }}) false” does not mean “true,” and “not proven true” does not mean “false.” In law, however, the failure of the party carrying the burden of proof can legitimately determine the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAppeal to ignorance often takes place in the context of a debate when one side attempts to place the...</span></span></span>
+Appeal to ignorance becomes a borderline fallacy when a recognised burden of proof exists. In ordinary reasoning, “[not proven]({{ 'not-proven/' | relative_url }}) false” does not mean “true,” and “not proven true” does not mean “false.” In law, however, the failure of the party carrying the burden of proof can legitimately determine the outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAppeal to ignorance often takes place in the context of a debate when one side attempts to place the...</span></span></span>
 
-The crucial question is not whether evidence is missing, but who was required to provide it and what standard had to be met. When a court acquits because guilt was not proven, it is not treating ignorance as evidence. It is enforcing a procedural safeguard that allocates the risk of uncertainty according to legal and moral priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ks.echr.coe.int">[ECHR-KS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ks.echr.coe.int</span><span class="citation-popover-title">ECHR-KSArticle 6 (criminal) Presumption of innocence</span><span class="citation-popover-snippet">ECHR-KS31 Aug 2025 — Burden of proof: The principle of presumption of innocence requires, inter alia, that it is for the prosecution to i...</span></span></span>
+The crucial question is not whether evidence is missing, but who was required to provide it and what standard had to be met. When a court acquits because guilt was not proven, it is not treating ignorance as evidence. It is enforcing a procedural safeguard that allocates the risk of uncertainty according to legal and moral priorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ks.echr.coe.int">[ECHR-KS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ks.echr.coe.int</span><span class="citation-popover-title">ECHR-KSArticle 6 (criminal) Presumption of innocence</span><span class="citation-popover-snippet">ECHR-KS31 Aug 2025 — Burden of proof: The principle of presumption of innocence requires, inter alia, that it is for the prosecution to i...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdKiP41L0Ec" title="Unit 8.1: Fallacies of Weak Induction, Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdKiP41L0Ec" target="_blank" rel="noopener noreferrer">Unit 8.1: Fallacies of Weak Induction, Part 1</a></p><p class="youtube-embed-meta">Channel: Michael FitzGerald &middot; Views: 3.8K &middot; Uploaded: November 2018 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdKiP41L0Ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdKiP41L0Ec">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does No Proof Actually Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does No Proof Actually Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Explains burdens of proof and argument support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains burdens of proof and argument support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Addresses judgment under uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses judgment under uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Legal Analyst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=slj9yJt1_JcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Legal Analyst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Legal Analyst">The Legal Analyst</a>
-        </h4>
-        <p class="fr-book-author">By Ward Farnsworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Legal Analyst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=slj9yJt1_JcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Legal Analyst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Legal Analyst">The Legal Analyst</a>
+</h4>
+<p class="fr-book-author">By Ward Farnsworth</p>
         
-        <p class="fr-book-desc">Discusses proof, evidence, and inference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses proof, evidence, and inference.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Clarifies evidence and conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies evidence and conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Legal+Analyst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Legal Analyst</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Legal+Analyst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Legal Analyst</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b0e90398867168870419.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b0e90398867168870419.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4200bf485c8da0528282.jpg' | relative_url }}" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4200bf485c8da0528282.jpg' | relative_url }}" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/787a693b1c0a413b5cae.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/787a693b1c0a413b5cae.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/be39c598db71c503786a.jpg' | relative_url }}" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/be39c598db71c503786a.jpg' | relative_url }}" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-proof-when-does-no-proof-actually-matter-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ The crucial question is not whether evidence is missing, but who was required to
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ The crucial question is not whether evidence is missing, but who was required to
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ The crucial question is not whether evidence is missing, but who was required to
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ The crucial question is not whether evidence is missing, but who was required to
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -779,154 +779,154 @@ The crucial question is not whether evidence is missing, but who was required to
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Burden of proof (law)  
-   Link: <a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Presumption of innocence  
-   Link: <a href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presumption_of_innocence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presumption_of_innocence</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ks.echr.coe.int  
    Title: ECHR-KSArticle 6 (criminal) Presumption of innocence  
-   Link: <a href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ECHR-KS31 Aug 2025 — Burden of proof: The principle of presumption of innocence requires, inter alia, that it is for the prosecution to i...</p></details>
+   Link:<a href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECHR-KS31 Aug 2025 — Burden of proof: The principle of presumption of innocence requires, inter alia, that it is for the prosecution to i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: quillbot.com  
    Title: What Is the Burden of Proof Fallacy?  
-   Link: <a href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesJun 24, 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposite lacks eviden...</p></details>
+   Link:<a href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesJun 24, 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposite lacks eviden...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Burden of proof (philosophy)  
-   Link: <a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of proof (philosophy)This is analogous to the legal principle of presumption of innocence, in which a suspect or defendant is a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of proof (philosophy)This is analogous to the legal principle of presumption of innocence, in which a suspect or defendant is a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Stanford University  
-   Link: <a href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanford_University</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Universitya private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Le...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanford_University</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Universitya private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Le...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Ad Ignorantium (Appeal to Ignorance)  
-   Link: <a href="https://www.youtube.com/watch?v=hOM0K37pzEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hOM0K37pzEU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Proof | Criminal Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hOM0K37pzEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hOM0K37pzEU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Proof | Criminal Evidence...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Burden of Proof | Criminal Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WaXNjyxKYkg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 8.1: Fallacies of Weak Induction, Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WaXNjyxKYkg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 8.1: Fallacies of Weak Induction, Part 1...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fairtrials.org  
-   Link: <a href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</p></details>
+   Link:<a href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ag.gov.au  
-   Link: <a href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow">https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If a law imposes a burden of proof on the...Read more...</p></details>
+   Link:<a href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow">https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If a law imposes a burden of proof on the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Informal logic (“IL”) is the study of reasoning and infere...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Informal logic (“IL”) is the study of reasoning and infere...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: law.cornell.edu  
    Title: edupresumption of innocence | Wex  
-   Link: <a href="https://www.law.cornell.edu/wex/presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/presumption_of_innocence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of innocence | Wex - Law.Cornell.EduA presumption of innocence means that any defendant in a criminal trial is assumed to be innocent unt...</p></details>
+   Link:<a href="https://www.law.cornell.edu/wex/presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/presumption_of_innocence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of innocence | Wex - Law.Cornell.EduA presumption of innocence means that any defendant in a criminal trial is assumed to be innocent unt...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/36589</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Proof | Encyclopedia MDPI25 Nov 2022 — One way in which one would attempt to shift the burden of proof is by committing a logic...</p></details>
+   Link:<a href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/36589</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Proof | Encyclopedia MDPI25 Nov 2022 — One way in which one would attempt to shift the burden of proof is by committing a logic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: qcc.cuny.edu  
    Title: Burden of Proof  
-   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting the burden of proof, a special case of argumentum ad ignorantium, is the fallacy of putting the burden of proof on the person wh...</p></details>
+   Link:<a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting the burden of proof, a special case of argumentum ad ignorantium, is the fallacy of putting the burden of proof on the person wh...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cps.gov.uk  
-   Link: <a href="https://www.cps.gov.uk/about-cps/how-a-criminal-case-works" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/how-a-criminal-case-works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a criminal case worksLearn about the Crown Prosecution Service, what we do, how we work, our senior leaders and where we sit in the c...</p></details>
+   Link:<a href="https://www.cps.gov.uk/about-cps/how-a-criminal-case-works" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/how-a-criminal-case-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a criminal case worksLearn about the Crown Prosecution Service, what we do, how we work, our senior leaders and where we sit in the c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thecommonwealth.org  
-   Link: <a href="https://thecommonwealth.org/our-member-countries/united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/united-kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | CommonwealthThe United Kingdom of Great Britain and Northern Ireland (UK) is an island country that sits north-west of m...</p></details>
+   Link:<a href="https://thecommonwealth.org/our-member-countries/united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/united-kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | CommonwealthThe United Kingdom of Great Britain and Northern Ireland (UK) is an island country that sits north-west of m...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: stanford.edu  
-   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
+   Link:<a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
+   Link:<a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DebateAnAtheist/comments/16ug4vc/actual_burden_of_proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateAnAtheist/comments/16ug4vc/actual_burden_of_proof/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Actual Burden Of Proof: r/DebateAnAtheistIt is a presumption plagued by unfalsifiability and argument from ignorance fallacy, making it...</p></details>
+   Link:<a href="https://www.reddit.com/r/DebateAnAtheist/comments/16ug4vc/actual_burden_of_proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateAnAtheist/comments/16ug4vc/actual_burden_of_proof/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Actual Burden Of Proof: r/DebateAnAtheistIt is a presumption plagued by unfalsifiability and argument from ignorance fallacy, making it...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK borrowing costs hit new highs as City traders brace for Burnham, and pound heads for worst week since 2024 – business live...</p></details>
+   Link:<a href="https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK borrowing costs hit new highs as City traders brace for Burnham, and pound heads for worst week since 2024 – business live...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nji-inm.ca  
-   Link: <a href="https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/general-principles/presumption-of-innocence-burden-of-proof-and-reasonable-doubt/?langSwitch=en" target="_blank" rel="noopener noreferrer nofollow">https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/general-principles/presumption-of-innocence-burden-of-proof-and-reasonable-doubt/?langSwitch=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One is that the Crown bears the burden of proving guilt. The other is that guilt must be proved beyond a...Read more...</p></details>
+   Link:<a href="https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/general-principles/presumption-of-innocence-burden-of-proof-and-reasonable-doubt/?langSwitch=en" target="_blank" rel="noopener noreferrer nofollow">https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/general-principles/presumption-of-innocence-burden-of-proof-and-reasonable-doubt/?langSwitch=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One is that the Crown bears the burden of proving guilt. The other is that guilt must be proved beyond a...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: legal-resources.uslegalforms.com  
    Title: Presumption of innocence in criminal law protects against wrongful assumptions  
-   Link: <a href="https://legal-resources.uslegalforms.com/a/argumentum-ad-ignorantiam" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/a/argumentum-ad-ignorantiam</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Ignorantiam: Understanding This Legal FallacyArgumentum ad ignorantiam, or an argument from ignorance, is a logical fallacy...</p></details>
+   Link:<a href="https://legal-resources.uslegalforms.com/a/argumentum-ad-ignorantiam" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/a/argumentum-ad-ignorantiam</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Ignorantiam: Understanding This Legal FallacyArgumentum ad ignorantiam, or an argument from ignorance, is a logical fallacy...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scholarship.law.columbia.edu  
-   Link: <a href="https://scholarship.law.columbia.edu/faculty_scholarship/242/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.columbia.edu/faculty_scholarship/242/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kinds of Legal Rules: A Comparative Study of Burden-...by GP Fletcher · 1968 · Cited by 264 — Two Kinds of Legal Rules: A Comparative St...</p></details>
+   Link:<a href="https://scholarship.law.columbia.edu/faculty_scholarship/242/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.columbia.edu/faculty_scholarship/242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kinds of Legal Rules: A Comparative Study of Burden-...by GP Fletcher · 1968 · Cited by 264 — Two Kinds of Legal Rules: A Comparative St...</p></details>

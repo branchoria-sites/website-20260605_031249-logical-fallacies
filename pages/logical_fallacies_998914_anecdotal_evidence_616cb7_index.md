@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-anecdotal/
 description: Focused pages that expand on Anecdotes.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_anecdotal_evidence_616cb7
 parent_title: Anecdotes
@@ -16,7 +16,7 @@ parent_permalink: /anecdotes/
 
 # Explore Topics in Anecdotes
 
-The following pages expand on the main **[Anecdotes]({{ '/anecdotes/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Anecdotes]({{ '/anecdotes/' | relative_url }})** page and cover its key branches in.
 
 - [Fair Use]({{ '/fair-use/' | relative_url }})
 - [Medical Signals]({{ '/medical-signals/' | relative_url }})

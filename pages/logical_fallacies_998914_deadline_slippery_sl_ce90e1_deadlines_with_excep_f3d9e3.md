@@ -274,16 +274,16 @@ image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadl
 
 ## Introduction
 
-A deadline does not stop being a deadline merely because it has carefully defined [exceptions]({{ 'exceptions/' | relative_url }}). In debates about deadline extensions, a common slippery-slope claim is that once one exception is allowed, the rule will gradually lose all force. The problem with that reasoning is that it treats only two possibilities as available: absolute rigidity or complete collapse. Real institutions rarely operate that way. Courts, universities, employers, and public agencies routinely maintain firm [deadlines]({{ 'deadlines/' | relative_url }}) while also recognising limited exceptions for emergencies, disability-related access needs, or circumstances beyond a person's control. The key question is not whether exceptions exist, but whether they are narrow, transparent, and tied to the purpose of the rule. When those conditions are present, flexibility can reinforce a rule's legitimacy rather than weaken it. UCLA School of Law <span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span>
+A deadline does not stop being a deadline merely because it has carefully defined [exceptions]({{ 'exceptions/' | relative_url }}). In debates about deadline extensions, a common slippery-slope claim is that once one exception is allowed, the rule will gradually lose all force. The problem with that reasoning is that it treats only two possibilities as available: absolute rigidity or complete collapse. Real institutions rarely operate that way. Courts, universities, employers, and public agencies routinely maintain firm [deadlines]({{ 'deadlines/' | relative_url }}) while also recognising limited exceptions for emergencies, disability-related access needs, or circumstances beyond a person's control. The key question is not whether exceptions exist, but whether they are narrow, transparent, and tied to the purpose of the rule. When those conditions are present, flexibility can reinforce a rule's legitimacy rather than weaken it. UCLA School of Law<span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-1-dark.svg" | relative_url }}" alt="Rule Limits illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Is There Really a Choice Between Rigidity and Collapse?
 
 The slippery-slope version of the deadline [debate]({{ 'debate/' | relative_url }}) often assumes that any deviation from a fixed cut-off point will make future deviations impossible to resist. This reasoning overlooks an obvious middle position: a rule can remain general while still containing explicit exceptions.
 
-Critical-thinking discussions of slippery-slope arguments note that the fallacy often arises when a speaker assumes that no meaningful stopping point exists between an initial decision and an extreme outcome. The argument becomes weak when it ignores the possibility of distinctions, criteria, and decision rules that separate acceptable cases from unacceptable ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Slippery slope</span><span class="citation-popover-snippet">Slippery slope</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</span></span></span>
+Critical-thinking discussions of slippery-slope arguments note that the fallacy often arises when a speaker assumes that no meaningful stopping point exists between an initial decision and an extreme outcome. The argument becomes weak when it ignores the possibility of distinctions, criteria, and decision rules that separate acceptable cases from unacceptable ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Slippery slope</span><span class="citation-popover-snippet">Slippery slope</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</span></span></span>
 
-Historically, legal and administrative systems have relied on exactly such distinctions. Many rules are designed with exceptions because lawmakers and administrators recognise that unusual circumstances occur. A rule requiring compliance by a certain date can coexist with provisions for hospitalisation, disability accommodation, or technical failure without losing its identity as a deadline. The existence of a recognised exception is evidence that the institution anticipated exceptional cases, not evidence that the rule has ceased to function. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeoc.gov">[EEOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeoc.gov</span><span class="citation-popover-title">enforcement guidance reasonable accommodation and undue hardship under ada</span><span class="citation-popover-snippet">Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ada.gov/law-and-regs/regulations/title-ii-2010-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ada.gov">[ADA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ada.gov</span><span class="citation-popover-snippet">Americans with Disabilities Act Title II RegulationsThis final rule revises the regulation of the Department of Justice (Department) that...</span></span></span>
+Historically, legal and administrative systems have relied on exactly such distinctions. Many rules are designed with exceptions because lawmakers and administrators recognise that unusual circumstances occur. A rule requiring compliance by a certain date can coexist with provisions for hospitalisation, disability accommodation, or technical failure without losing its identity as a deadline. The existence of a recognised exception is evidence that the institution anticipated exceptional cases, not evidence that the rule has ceased to function.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeoc.gov">[EEOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeoc.gov</span><span class="citation-popover-title">enforcement guidance reasonable accommodation and undue hardship under ada</span><span class="citation-popover-snippet">Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ada.gov/law-and-regs/regulations/title-ii-2010-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ada.gov">[ADA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ada.gov</span><span class="citation-popover-snippet">Americans with Disabilities Act Title II RegulationsThis final rule revises the regulation of the Department of Justice (Department) that...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DtmAw9Ia7LA" title="Fallacies: Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer">Fallacies: Slippery Slope</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 126.6K &middot; Uploaded: January 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DtmAw9Ia7LA">Open on YouTube</a></p></div></div></div>
 
@@ -291,11 +291,11 @@ Historically, legal and administrative systems have relied on exactly such disti
 
 The easiest way to see the flaw in the "any exception destroys the rule" argument is to examine ordinary rules that everyone accepts.
 
-Consider accessibility requirements. Modern disability law does not abolish workplace standards, educational requirements, or public-service procedures. Instead, it often requires reasonable accommodations so that individuals are not unfairly excluded by barriers unrelated to the purpose of the rule. The underlying rule remains in place; the accommodation adjusts how the rule is applied in particular circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeoc.gov">[EEOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeoc.gov</span><span class="citation-popover-title">enforcement guidance reasonable accommodation and undue hardship under ada</span><span class="citation-popover-snippet">Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adagreatlakes.org/ada/ada_faqs.asp?label=viewAll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adagreatlakes.org">[2adagreatlakes.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adagreatlakes.org</span><span class="citation-popover-snippet">e usually done that enables a person with a disability to...Read more...</span></span></span>
+Consider accessibility requirements. Modern disability law does not abolish workplace standards, educational requirements, or public-service procedures. Instead, it often requires reasonable accommodations so that individuals are not unfairly excluded by barriers unrelated to the purpose of the rule. The underlying rule remains in place; the accommodation adjusts how the rule is applied in particular circumstances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeoc.gov">[EEOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeoc.gov</span><span class="citation-popover-title">enforcement guidance reasonable accommodation and undue hardship under ada</span><span class="citation-popover-snippet">Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adagreatlakes.org/ada/ada_faqs.asp?label=viewAll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adagreatlakes.org">[2adagreatlakes.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adagreatlakes.org</span><span class="citation-popover-snippet">e usually done that enables a person with a disability to...Read more...</span></span></span>
 
-The same pattern appears in higher education. Universities commonly maintain assignment deadlines while allowing limited deadline flexibility for students whose disabilities create unpredictable interruptions. These accommodations are typically framed as access measures rather than as permission to ignore course requirements. Institutions frequently emphasise that flexibility must not alter essential learning objectives and is intended only for specific, documented situations. Bates College <span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niu.edu/disability/faculty/assignment-extensions.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niu.edu">[Northern Illinois University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niu.edu</span><span class="citation-popover-snippet">more...</span></span></span>
+The same pattern appears in higher education. Universities commonly maintain assignment deadlines while allowing limited deadline flexibility for students whose disabilities create unpredictable interruptions. These accommodations are typically framed as access measures rather than as permission to ignore course requirements. Institutions frequently emphasise that flexibility must not alter essential learning objectives and is intended only for specific, documented situations. Bates College<span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niu.edu/disability/faculty/assignment-extensions.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niu.edu">[Northern Illinois University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niu.edu</span><span class="citation-popover-snippet">more...</span></span></span>
 
-This arrangement illustrates an important principle: exceptions can serve the purpose of a rule rather than undermine it. If a deadline exists to measure learning, productivity, or compliance, then narrowly tailored accommodations may help ensure that the deadline measures the intended objective rather than the effects of a temporary medical crisis or accessibility barrier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/academic-programs/resources-services/student-disability-services/faculty-tools/providing-limited-deadline-flexibility-accommodations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Miami UniversityProviding Limited Deadline Flexibility AccommodationsLimited Deadline Flexibility accommodations allow students with disa...</span></span></span>
+This arrangement illustrates an important principle: exceptions can serve the purpose of a rule rather than undermine it. If a deadline exists to measure learning, productivity, or compliance, then narrowly tailored accommodations may help ensure that the deadline measures the intended objective rather than the effects of a temporary medical crisis or accessibility barrier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/academic-programs/resources-services/student-disability-services/faculty-tools/providing-limited-deadline-flexibility-accommodations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Miami UniversityProviding Limited Deadline Flexibility AccommodationsLimited Deadline Flexibility accommodations allow students with disa...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-2-dark.svg" | relative_url }}" alt="Rule Limits illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Boundaries Prevent Flexibility Becoming Confusion
@@ -308,9 +308,9 @@ Several [mechanisms]({{ 'mechanisms/' | relative_url }}) commonly appear in succ
 * **Advance procedures**: Requests often require notification, documentation, or approval through a formal process.
 * **Limited duration**: Extra time is granted within predetermined limits rather than indefinitely.
 * **Connection to purpose**: The exception must support the rule's underlying goal rather than defeat it.
-* **Review and oversight**: Decisions can be monitored for consistency across similar cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeoc.gov">[EEOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeoc.gov</span><span class="citation-popover-title">enforcement guidance reasonable accommodation and undue hardship under ada</span><span class="citation-popover-snippet">Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.purdue.edu/drc/faculty/Modified-Attendance.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdue.edu">[Purdue University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdue.edu</span><span class="citation-popover-title">Modified Attendance</span><span class="citation-popover-snippet">Purdue UniversityDeadlines and Attendance Flexibility Guidelines8 Jul 2025 — Information on this page showcases to instructors how to uti...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span>
+* **Review and oversight**: Decisions can be monitored for consistency across similar cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeoc.gov">[EEOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeoc.gov</span><span class="citation-popover-title">enforcement guidance reasonable accommodation and undue hardship under ada</span><span class="citation-popover-snippet">Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.purdue.edu/drc/faculty/Modified-Attendance.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdue.edu">[Purdue University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdue.edu</span><span class="citation-popover-title">Modified Attendance</span><span class="citation-popover-snippet">Purdue UniversityDeadlines and Attendance Flexibility Guidelines8 Jul 2025 — Information on this page showcases to instructors how to uti...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span>
 
-These [safeguards]({{ 'safeguards/' | relative_url }}) matter because they provide the missing step that slippery-slope arguments often ignore. The claim "others will ask for the same treatment" does not automatically imply "others will receive the same treatment." Institutions can evaluate requests against published criteria and reject those that do not qualify. The existence of a screening mechanism interrupts the supposed chain reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Slippery slope</span><span class="citation-popover-snippet">Slippery slope</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</span></span></span>
+These [safeguards]({{ 'safeguards/' | relative_url }}) matter because they provide the missing step that slippery-slope arguments often ignore. The claim "others will ask for the same treatment" does not automatically imply "others will receive the same treatment." Institutions can evaluate requests against published criteria and reject those that do not qualify. The existence of a screening mechanism interrupts the supposed chain reaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Slippery slope</span><span class="citation-popover-snippet">Slippery slope</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t2ePCnSyQ4w" title="Slippery Slope Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer">Slippery Slope Fallacy</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 34.8K &middot; Uploaded: February 2014 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t2ePCnSyQ4w">Open on YouTube</a></p></div></div></div>
 
@@ -318,9 +318,9 @@ These [safeguards]({{ 'safeguards/' | relative_url }}) matter because they provi
 
 There is a historical irony in many slippery-slope arguments about deadlines. Rules sometimes become more durable when they allow limited flexibility.
 
-A completely rigid system may be perceived as unfair when it produces obviously unreasonable outcomes. If a rule cannot account for severe illness, disability-related barriers, or genuine emergencies, pressure may build to abandon or rewrite the rule altogether. By contrast, a rule with carefully designed exceptions can preserve broad support because people view it as both predictable and humane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeoc.gov">[EEOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeoc.gov</span><span class="citation-popover-title">enforcement guidance reasonable accommodation and undue hardship under ada</span><span class="citation-popover-snippet">Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.antidiskriminierungsstelle.de/SharedDocs/forschungsprojekte/EN/RG_Angemessene_Vorkehrungen_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antidiskriminierungsstelle.de">[antidiskriminierungsstelle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antidiskriminierungsstelle.de</span><span class="citation-popover-snippet">Reasonable accomodationMain results. Reasonable accomodation schemes serve to prevent the discrimination against persons with disabilitie...</span></span></span> Legal scholar Eugene Volokh has observed that isolated exceptions do not necessarily destroy a rule's force. People can continue to recognise a rule as a rule even when it contains rare, purpose-driven exceptions. The crucial issue is whether the exceptions become so numerous or inconsistent that the underlying principle can no longer be identified. A small number of justified exceptions is different from unlimited discretion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-title">School of Law The Mechanisms of the Slippery Slope</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — ple would still think &quot;There is a rule, though th...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span>
+A completely rigid system may be perceived as unfair when it produces obviously unreasonable outcomes. If a rule cannot account for severe illness, disability-related barriers, or genuine emergencies, pressure may build to abandon or rewrite the rule altogether. By contrast, a rule with carefully designed exceptions can preserve broad support because people view it as both predictable and humane.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeoc.gov">[EEOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeoc.gov</span><span class="citation-popover-title">enforcement guidance reasonable accommodation and undue hardship under ada</span><span class="citation-popover-snippet">Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.antidiskriminierungsstelle.de/SharedDocs/forschungsprojekte/EN/RG_Angemessene_Vorkehrungen_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antidiskriminierungsstelle.de">[antidiskriminierungsstelle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antidiskriminierungsstelle.de</span><span class="citation-popover-snippet">Reasonable accomodationMain results. Reasonable accomodation schemes serve to prevent the discrimination against persons with disabilitie...</span></span></span> Legal scholar Eugene Volokh has observed that isolated exceptions do not necessarily destroy a rule's force. People can continue to recognise a rule as a rule even when it contains rare, purpose-driven exceptions. The crucial issue is whether the exceptions become so numerous or inconsistent that the underlying principle can no longer be identified. A small number of justified exceptions is different from unlimited discretion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-title">School of Law The Mechanisms of the Slippery Slope</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — ple would still think &quot;There is a rule, though th...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span>
 
-This distinction explains why many institutions openly publish exception policies rather than hiding them. Publicly defined exceptions communicate that flexibility is part of the rule itself, not evidence that the rule is being ignored. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/academic-programs/resources-services/student-disability-services/faculty-tools/providing-limited-deadline-flexibility-accommodations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Miami UniversityProviding Limited Deadline Flexibility AccommodationsLimited Deadline Flexibility accommodations allow students with disa...</span></span></span>
+This distinction explains why many institutions openly publish exception policies rather than hiding them. Publicly defined exceptions communicate that flexibility is part of the rule itself, not evidence that the rule is being ignored.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/academic-programs/resources-services/student-disability-services/faculty-tools/providing-limited-deadline-flexibility-accommodations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Miami UniversityProviding Limited Deadline Flexibility AccommodationsLimited Deadline Flexibility accommodations allow students with disa...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-3-dark.svg" | relative_url }}" alt="Rule Limits illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Mistake Behind the Slippery-Slope Fear
@@ -329,274 +329,274 @@ Within debates about [logical fallacies]({{ 'logical-fallacies/' | relative_url 
 
 A claim that "one extension means deadlines no longer matter" usually assumes that decision-makers cannot draw lines, apply criteria, or refuse requests. Yet most functioning organisations do exactly those things every day. The relevant question is whether the proposed exception is bounded, justified, and connected to the rule's purpose. If it is, then the existence of the exception does not show that the deadline has disappeared.
 
-A flexible deadline can still be a deadline because rules are defined not only by what they require, but also by the carefully limited circumstances in which they allow exceptions. When those limits are clear and consistently applied, flexibility is not the opposite of a rule. It is often part of what makes the rule workable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; Examples - Scribbr17 Apr 2023 — The slippery slope fallacy is an argument that suggests an initial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-title">School of Law The Mechanisms of the Slippery Slope</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — ple would still think &quot;There is a rule, though th...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span>
+A flexible deadline can still be a deadline because rules are defined not only by what they require, but also by the carefully limited circumstances in which they allow exceptions. When those limits are clear and consistently applied, flexibility is not the opposite of a rule. It is often part of what makes the rule workable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; Examples - Scribbr17 Apr 2023 — The slippery slope fallacy is an argument that suggests an initial...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-title">School of Law The Mechanisms of the Slippery Slope</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — ple would still think &quot;There is a rule, though th...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dao.fas.harvard.edu">[Disability Access Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dao.fas.harvard.edu</span><span class="citation-popover-snippet">Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2RYVExrmk7Y" title="Logical Fallacies: The Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2RYVExrmk7Y" target="_blank" rel="noopener noreferrer">Logical Fallacies: The Slippery Slope</a></p><p class="youtube-embed-meta">Channel: Bitesize Philosophy &middot; Views: 1.4K &middot; Uploaded: August 2023 &middot; Length: 1 minute 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2RYVExrmk7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2RYVExrmk7Y">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is a Flexible Deadline Still a Deadline?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is a Flexible Deadline Still a Deadline?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Helps readers test whether exceptions truly undermine rules.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers test whether exceptions truly undermine rules.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Useful for assessing false binaries and policy reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing false binaries and policy reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
-        </h4>
-        <p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
+</h4>
+<p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
         
-        <p class="fr-book-desc">Directly relevant to slippery-slope and false-dilemma reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to slippery-slope and false-dilemma reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explores intuitive but unsupported predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores intuitive but unsupported predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rule-limits-is-a-flexible-deadline-still-a-deadline-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ A flexible deadline can still be a deadline because rules are defined not only b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ A flexible deadline can still be a deadline because rules are defined not only b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ A flexible deadline can still be a deadline because rules are defined not only b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ A flexible deadline can still be a deadline because rules are defined not only b
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -752,147 +752,147 @@ A flexible deadline can still be a deadline because rules are defined not only b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: www2.law.ucla.edu  
    Title: School of Law The Mechanisms of the [Slippery Slope](&#123;&#123; 'slippery-slope/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — ple would still think &quot;There is a rule, though th...</p></details>
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — ple would still think &quot;There is a rule, though th...</p></details>
    Published: November 26, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eeoc.gov  
    Title: enforcement guidance reasonable accommodation and undue hardship under ada  
-   Link: <a href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow">https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</p></details>
+   Link:<a href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow">https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — Title I of the ADA requires an employer to provide reasonable accom...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Slippery slope  
-   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ada.gov  
-   Link: <a href="https://www.ada.gov/law-and-regs/regulations/title-ii-2010-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://www.ada.gov/law-and-regs/regulations/title-ii-2010-regulations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Americans with Disabilities Act Title II RegulationsThis final rule revises the regulation of the Department of Justice (Department) that...</p></details>
+   Link:<a href="https://www.ada.gov/law-and-regs/regulations/title-ii-2010-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://www.ada.gov/law-and-regs/regulations/title-ii-2010-regulations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Americans with Disabilities Act Title II RegulationsThis final rule revises the regulation of the Department of Justice (Department) that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: adagreatlakes.org  
-   Link: <a href="https://www.adagreatlakes.org/ada/ada_faqs.asp?label=viewAll" target="_blank" rel="noopener noreferrer nofollow">https://www.adagreatlakes.org/ada/ada_faqs.asp?label=viewAll</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e usually done that enables a person with a disability to...Read more...</p></details>
+   Link:<a href="https://www.adagreatlakes.org/ada/ada_faqs.asp?label=viewAll" target="_blank" rel="noopener noreferrer nofollow">https://www.adagreatlakes.org/ada/ada_faqs.asp?label=viewAll</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e usually done that enables a person with a disability to...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: antidiskriminierungsstelle.de  
-   Link: <a href="https://www.antidiskriminierungsstelle.de/SharedDocs/forschungsprojekte/EN/RG_Angemessene_Vorkehrungen_en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.antidiskriminierungsstelle.de/SharedDocs/forschungsprojekte/EN/RG_Angemessene_Vorkehrungen_en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasonable accomodationMain results. Reasonable accomodation schemes serve to prevent the discrimination against persons with disabilitie...</p></details>
+   Link:<a href="https://www.antidiskriminierungsstelle.de/SharedDocs/forschungsprojekte/EN/RG_Angemessene_Vorkehrungen_en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.antidiskriminierungsstelle.de/SharedDocs/forschungsprojekte/EN/RG_Angemessene_Vorkehrungen_en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasonable accomodationMain results. Reasonable accomodation schemes serve to prevent the discrimination against persons with disabilitie...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bates.edu  
-   Link: <a href="https://www.bates.edu/accessible-education-student-support/accessible-education-faculty-resources/faq-requestef-information/flexibility-with-deadlines-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/accessible-education-student-support/accessible-education-faculty-resources/faq-requestef-information/flexibility-with-deadlines-policy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.bates.edu/accessible-education-student-support/accessible-education-faculty-resources/faq-requestef-information/flexibility-with-deadlines-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/accessible-education-student-support/accessible-education-faculty-resources/faq-requestef-information/flexibility-with-deadlines-policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: purdue.edu  
    Title: Modified Attendance  
-   Link: <a href="https://www.purdue.edu/drc/faculty/Modified-Attendance.php" target="_blank" rel="noopener noreferrer nofollow">https://www.purdue.edu/drc/faculty/Modified-Attendance.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue UniversityDeadlines and Attendance Flexibility Guidelines8 Jul 2025 — Information on this page showcases to instructors how to uti...</p></details>
+   Link:<a href="https://www.purdue.edu/drc/faculty/Modified-Attendance.php" target="_blank" rel="noopener noreferrer nofollow">https://www.purdue.edu/drc/faculty/Modified-Attendance.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue UniversityDeadlines and Attendance Flexibility Guidelines8 Jul 2025 — Information on this page showcases to instructors how to uti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Fallacies: Slippery Slope  
-   Link: <a href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DtmAw9Ia7LA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DtmAw9Ia7LA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Slippery Slope Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t2ePCnSyQ4w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t2ePCnSyQ4w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dao.fas.harvard.edu  
-   Link: <a href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow">https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</p></details>
+   Link:<a href="https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/" target="_blank" rel="noopener noreferrer nofollow">https://dao.fas.harvard.edu/accommodations/deadline-attendance-adjustment-daa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disability Access OfficeDeadline &amp; Attendance Adjustment (DAA)The Deadline &amp; Attendance Adjustment accommodation is intended for students...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Slippery Slope Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy | Definition &amp; Examples - Scribbr17 Apr 2023 — The slippery slope fallacy is an argument that suggests an initial...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy | Definition &amp; Examples - Scribbr17 Apr 2023 — The slippery slope fallacy is an argument that suggests an initial...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: justice.gov  
    Title: reasonable accommodation policy and procedure  
-   Link: <a href="https://www.justice.gov/usao/reasonable-accommodation-policy-and-procedure" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/usao/reasonable-accommodation-policy-and-procedure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeReasonable Accommodation Policy and Procedure23 Mar 2026 — This policy describes the procedures the USAOs and EOUSA...</p></details>
+   Link:<a href="https://www.justice.gov/usao/reasonable-accommodation-policy-and-procedure" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/usao/reasonable-accommodation-policy-and-procedure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeReasonable Accommodation Policy and Procedure23 Mar 2026 — This policy describes the procedures the USAOs and EOUSA...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: niu.edu  
-   Link: <a href="https://www.niu.edu/disability/faculty/assignment-extensions.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.niu.edu/disability/faculty/assignment-extensions.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.niu.edu/disability/faculty/assignment-extensions.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.niu.edu/disability/faculty/assignment-extensions.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: miamioh.edu  
-   Link: <a href="https://miamioh.edu/academic-programs/resources-services/student-disability-services/faculty-tools/providing-limited-deadline-flexibility-accommodations.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/academic-programs/resources-services/student-disability-services/faculty-tools/providing-limited-deadline-flexibility-accommodations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miami UniversityProviding Limited Deadline Flexibility AccommodationsLimited Deadline Flexibility accommodations allow students with disa...</p></details>
+   Link:<a href="https://miamioh.edu/academic-programs/resources-services/student-disability-services/faculty-tools/providing-limited-deadline-flexibility-accommodations.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/academic-programs/resources-services/student-disability-services/faculty-tools/providing-limited-deadline-flexibility-accommodations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Miami UniversityProviding Limited Deadline Flexibility AccommodationsLimited Deadline Flexibility accommodations allow students with disa...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: access-board.gov  
-   Link: <a href="https://www.access-board.gov/ada/" target="_blank" rel="noopener noreferrer nofollow">https://www.access-board.gov/ada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADA Accessibility StandardsAccessibility standards issued under the Americans with Disabilities Act (ADA) apply to places of public accom...</p></details>
+   Link:<a href="https://www.access-board.gov/ada/" target="_blank" rel="noopener noreferrer nofollow">https://www.access-board.gov/ada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADA Accessibility StandardsAccessibility standards issued under the Americans with Disabilities Act (ADA) apply to places of public accom...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extension of Compliance Dates for Nondiscrimination on...20 Apr 2026 — On April 24, 2024, the Department published a final rule revising...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extension of Compliance Dates for Nondiscrimination on...20 Apr 2026 — On April 24, 2024, the Department published a final rule revising...</p></details>
    Published: April 24, 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uni-saarland.de  
-   Link: <a href="https://www.uni-saarland.de/en/administration/diversity/inclusive-education/services-students/reasonable-accommodations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-saarland.de/en/administration/diversity/inclusive-education/services-students/reasonable-accommodations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasonable AccommodationsThe aim is to compensate for existing disadvantages due to disability or chronic disease. Reasonable accommodati...</p></details>
+   Link:<a href="https://www.uni-saarland.de/en/administration/diversity/inclusive-education/services-students/reasonable-accommodations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-saarland.de/en/administration/diversity/inclusive-education/services-students/reasonable-accommodations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasonable AccommodationsThe aim is to compensate for existing disadvantages due to disability or chronic disease. Reasonable accommodati...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jacksonlewis.com  
-   Link: <a href="https://www.jacksonlewis.com/insights/doj-extends-public-entities-compliance-deadline-ada-related-website-accessibility-hhss-may-2026-deadline-still-looms" target="_blank" rel="noopener noreferrer nofollow">https://www.jacksonlewis.com/insights/doj-extends-public-entities-compliance-deadline-ada-related-website-accessibility-hhss-may-2026-deadline-still-looms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOJ Extends Public Entities&#x27; Compliance Deadline for ADA...22 Apr 2026 — The rules apply broadly to online services, programs and conten...</p></details>
+   Link:<a href="https://www.jacksonlewis.com/insights/doj-extends-public-entities-compliance-deadline-ada-related-website-accessibility-hhss-may-2026-deadline-still-looms" target="_blank" rel="noopener noreferrer nofollow">https://www.jacksonlewis.com/insights/doj-extends-public-entities-compliance-deadline-ada-related-website-accessibility-hhss-may-2026-deadline-still-looms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOJ Extends Public Entities&#x27; Compliance Deadline for ADA...22 Apr 2026 — The rules apply broadly to online services, programs and conten...</p></details>
    Published: may 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nysba.org  
-   Link: <a href="https://nysba.org/new-americans-with-disabilities-act-title-ii-accessibility-requirements-for-public-colleges-and-universities-what-in-house-counsel-should-do-now/?srsltid=AfmBOopD8K2GMy0wfK5qyCnbtyCNW9p_kptbf7e7eI6RIfCXUSAFP-ki" target="_blank" rel="noopener noreferrer nofollow">https://nysba.org/new-americans-with-disabilities-act-title-ii-accessibility-requirements-for-public-colleges-and-universities-what-in-house-counsel-should-do-now/?srsltid=AfmBOopD8K2GMy0wfK5qyCnbtyCNW9p_kptbf7e7eI6RIfCXUSAFP-ki</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Americans with Disabilities Act Title II Accessibility...21 Apr 2026 — The ADA Title II rule provides a legally binding, globally re...</p></details>
+   Link:<a href="https://nysba.org/new-americans-with-disabilities-act-title-ii-accessibility-requirements-for-public-colleges-and-universities-what-in-house-counsel-should-do-now/?srsltid=AfmBOopD8K2GMy0wfK5qyCnbtyCNW9p_kptbf7e7eI6RIfCXUSAFP-ki" target="_blank" rel="noopener noreferrer nofollow">https://nysba.org/new-americans-with-disabilities-act-title-ii-accessibility-requirements-for-public-colleges-and-universities-what-in-house-counsel-should-do-now/?srsltid=AfmBOopD8K2GMy0wfK5qyCnbtyCNW9p_kptbf7e7eI6RIfCXUSAFP-ki</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Americans with Disabilities Act Title II Accessibility...21 Apr 2026 — The ADA Title II rule provides a legally binding, globally re...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More specifically, it is an informal fallacy where the error lies in the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More specifically, it is an informal fallacy where the error lies in the...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>events will follow and this will eventually lead to undesirable consequences...</p></details>
+   Link:<a href="https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>events will follow and this will eventually lead to undesirable consequences...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: middlewaysociety.org  
    Title: critical thinking 22 the slippery slope fallacy  
-   Link: <a href="https://www.middlewaysociety.org/critical-thinking-22-the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.middlewaysociety.org/critical-thinking-22-the-slippery-slope-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking 22: The Slippery Slope Fallacy31 Dec 2018 — The slippery slope fallacy, like any other bias or fallacy, involves an abs...</p></details>
+   Link:<a href="https://www.middlewaysociety.org/critical-thinking-22-the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.middlewaysociety.org/critical-thinking-22-the-slippery-slope-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking 22: The Slippery Slope Fallacy31 Dec 2018 — The slippery slope fallacy, like any other bias or fallacy, involves an abs...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Can you outsmart the slippery slope fallacy?  
-   Link: <a href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qt4f7QrfRRc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth CoxDig into the slippery slope fallacy, which assumes that one step will lead to a series of events that lead to an extreme— of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qt4f7QrfRRc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth CoxDig into the slippery slope fallacy, which assumes that one step will lead to a series of events that lead to an extreme— of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID1445308 code383968  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>slope argumentsThis controversy shows that even appeals to `objective&#x27; facts are not sufficient to decide the question whether. Electroni...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>slope argumentsThis controversy shows that even appeals to `objective&#x27; facts are not sufficient to decide the question whether. Electroni...</p></details>

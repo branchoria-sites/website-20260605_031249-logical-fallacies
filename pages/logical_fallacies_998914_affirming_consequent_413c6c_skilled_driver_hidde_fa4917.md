@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skill
 
 ## Introduction
 
-Does a driver who has never had an accident automatically count as a skilled driver? The answer is no. A clean accident record may be consistent with good driving, but it does not prove that driving skill is the reason for the outcome. This is a classic example of the logical fallacy known as *affirming the consequent*: moving from an observed result to one preferred explanation without ruling out other possible causes. In the same way that [wet pavement]({{ 'wet-pavement/' | relative_url }}) does not necessarily prove that it rained, a lack of accidents does not necessarily prove exceptional driving ability. The crucial mistake is treating one possible cause as though it were the only cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+Does a driver who has never had an accident automatically count as a skilled driver? The answer is no. A clean accident record may be consistent with good driving, but it does not prove that driving skill is the reason for the outcome. This is a classic example of the logical fallacy known as *affirming the consequent*: moving from an observed result to one preferred explanation without ruling out other possible causes. In the same way that [wet pavement]({{ 'wet-pavement/' | relative_url }}) does not necessarily prove that it rained, a lack of accidents does not necessarily prove exceptional driving ability. The crucial mistake is treating one possible cause as though it were the only cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-1-dark.svg" | relative_url }}" alt="Driver Example illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Driver Argument in Affirming-the-Consequent Form
@@ -283,7 +283,7 @@ The argument often appears in a simple form:
 
 </div>
 
-At first glance, the reasoning feels persuasive because the conclusion is plausible. Skilled drivers often do avoid accidents. The problem is that the conclusion does not logically follow from the premises. The absence of accidents is the *consequent* of the conditional statement, and the argument wrongly treats that outcome as proof of the original condition. This is the same structure as the classic affirming-the-consequent error: “If P, then Q; Q; therefore P.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanacademy.org">[Khan Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanacademy.org</span><span class="citation-popover-snippet">Fallacies: Affirming the Consequent (video)Affirming the consequent occurs when someone tries to infer the truth of the antecedent of a c...</span></span></span>
+At first glance, the reasoning feels persuasive because the conclusion is plausible. Skilled drivers often do avoid accidents. The problem is that the conclusion does not logically follow from the premises. The absence of accidents is the *consequent* of the conditional statement, and the argument wrongly treats that outcome as proof of the original condition. This is the same structure as the classic affirming-the-consequent error: “If P, then Q; Q; therefore P.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanacademy.org">[Khan Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanacademy.org</span><span class="citation-popover-snippet">Fallacies: Affirming the Consequent (video)Affirming the consequent occurs when someone tries to infer the truth of the antecedent of a c...</span></span></span>
 
 The flaw becomes easier to see when alternative explanations are introduced. A driver may have avoided accidents for reasons unrelated to skill, yet the observed outcome remains the same.
 
@@ -303,9 +303,9 @@ A short period without accidents therefore provides limited information. The out
 
 One of the strongest alternative explanations is exposure. A driver who spends little time on the road has fewer opportunities to be involved in a collision than someone who drives extensively.
 
-Road-safety research routinely measures crash risk relative to exposure, such as miles travelled or hours spent driving, because raw accident counts can be misleading. More time and distance on the road generally create more opportunities for crashes to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://swov.nl/system/files/publication-downloads/r-2002-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swov.nl">[SWOV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swov.nl</span><span class="citation-popover-snippet">The uses of exposure and risk in road safety studiesby AS Hakkert · Cited by 185 — For the case of traffic accidents a calculation wa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-9091/5/4/54" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Exposure as Duration and Distance in Telematics Motor...by JP Boucher · 2017 · Cited by 107 — This issue is addressed in this paper...</span></span></span>
+Road-safety research routinely measures crash risk relative to exposure, such as miles travelled or hours spent driving, because raw accident counts can be misleading. More time and distance on the road generally create more opportunities for crashes to occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://swov.nl/system/files/publication-downloads/r-2002-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swov.nl">[SWOV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swov.nl</span><span class="citation-popover-snippet">The uses of exposure and risk in road safety studiesby AS Hakkert · Cited by 185 — For the case of traffic accidents a calculation wa...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-9091/5/4/54" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Exposure as Duration and Distance in Telematics Motor...by JP Boucher · 2017 · Cited by 107 — This issue is addressed in this paper...</span></span></span>
 
-Insurance companies use annual mileage for a similar reason. Drivers who travel greater distances are typically considered to face greater accident exposure simply because they encounter more traffic situations. RAC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviva.co.uk">[aviva]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviva.co.uk</span><span class="citation-popover-title">mileage impacts car insurance</span><span class="citation-popover-snippet">Calculate your annual mileage for car insurance7 Feb 2025 — “Mileage bands may start from 4,000 miles annually and go up in incremen...</span></span></span> Consider two drivers:
+Insurance companies use annual mileage for a similar reason. Drivers who travel greater distances are typically considered to face greater accident exposure simply because they encounter more traffic situations. RAC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviva.co.uk">[aviva]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviva.co.uk</span><span class="citation-popover-title">mileage impacts car insurance</span><span class="citation-popover-snippet">Calculate your annual mileage for car insurance7 Feb 2025 — “Mileage bands may start from 4,000 miles annually and go up in incremen...</span></span></span> Consider two drivers:
 
 * Driver A has driven 2,000 miles over the past year and had no accidents.
 * Driver B has driven 30,000 miles over the past year and had no accidents.
@@ -316,7 +316,7 @@ The identical outcome does not carry the same evidential weight. Driver B remain
 
 The roads a person drives on also matter.
 
-A driver who mainly travels on quiet rural roads during daylight in good weather faces different challenges from someone who regularly navigates congested city centres, motorways, or severe weather conditions. Research on road safety consistently identifies environmental and road-[context]({{ 'context/' | relative_url }}) factors as important influences on crash risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2095756423000983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Factors affecting truck driver behavior on a road safety...by BS Rashmi · 2023 · Cited by 44 — This review paper summarized...</span></span></span>
+A driver who mainly travels on quiet rural roads during daylight in good weather faces different challenges from someone who regularly navigates congested city centres, motorways, or severe weather conditions. Research on road safety consistently identifies environmental and road-[context]({{ 'context/' | relative_url }}) factors as important influences on crash risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2095756423000983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Factors affecting truck driver behavior on a road safety...by BS Rashmi · 2023 · Cited by 44 — This review paper summarized...</span></span></span>
 
 Suppose two people both have ten accident-free years. One drove only on lightly travelled roads in favourable conditions. The other spent those years driving through heavy traffic and difficult weather. The same outcome may reflect very different combinations of skill, exposure, and circumstance.
 
@@ -341,7 +341,7 @@ Several rival explanations remain available:
 
 </div>
 
-The observed fact is compatible with all of these possibilities. Because multiple explanations remain plausible, the conclusion that Sarah is skilled does not follow with certainty. This is exactly the same logical pattern as observing wet pavement and assuming rain without considering sprinklers, cleaning vehicles, or other sources of water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+The observed fact is compatible with all of these possibilities. Because multiple explanations remain plausible, the conclusion that Sarah is skilled does not follow with certainty. This is exactly the same logical pattern as observing wet pavement and assuming rain without considering sprinklers, cleaning vehicles, or other sources of water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/85QJZdbgEoc" title="Affirming the Consequent: A Formal Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer">Affirming the Consequent: A Formal Fallacy</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 69.7K &middot; Uploaded: November 2009 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=85QJZdbgEoc">Open on YouTube</a></p></div></div></div>
 
@@ -386,272 +386,272 @@ The more alternative explanations are examined and ruled out, the stronger the i
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-3-dark.svg" | relative_url }}" alt="Driver Example illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Lesson
 
-An accident-free record can support the belief that someone is a good driver, but it cannot by itself prove it. The logical error occurs when a positive outcome is treated as conclusive evidence for one preferred explanation while ignoring other causes that could produce the same result. In the language of affirming the consequent, avoiding accidents may be consistent with driving skill, yet luck, limited exposure, favourable conditions, and other factors can lead to exactly the same observable outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+An accident-free record can support the belief that someone is a good driver, but it cannot by itself prove it. The logical error occurs when a positive outcome is treated as conclusive evidence for one preferred explanation while ignoring other causes that could produce the same result. In the language of affirming the consequent, avoiding accidents may be consistent with driving skill, yet luck, limited exposure, favourable conditions, and other factors can lead to exactly the same observable outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does No Accident Prove Good Driving?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does No Accident Prove Good Driving?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains outcome bias and mistaken causal conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains outcome bias and mistaken causal conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Covers reasoning errors involving success and outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers reasoning errors involving success and outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to judging driving skill from accident outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to judging driving skill from accident outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Provides background on fallacious reasoning structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on fallacious reasoning structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Learner Driver 2026 Theory Kit: Book &amp; Flash Cards for Safe Driving"><img src="{{ '/assets/images/marketplace-covers/b04b701e4a3d039c4785.jpg' | relative_url }}" alt="Listing image for Learner Driver 2026 Theory Kit: Book &amp; Flash Cards for Safe Driving" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Learner Driver 2026 Theory Kit: Book &amp; Flash Cards for Safe Driving</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safe driving sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: safe driving sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Learner Driver 2026 Theory Kit: Book &amp; Flash Cards for Safe Driving"><img src="{{ '/assets/images/marketplace-covers/b04b701e4a3d039c4785.jpg' | relative_url }}" alt="Listing image for Learner Driver 2026 Theory Kit: Book &amp; Flash Cards for Safe Driving" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Learner Driver 2026 Theory Kit: Book &amp; Flash Cards for Safe Driving</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safe driving sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: safe driving sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SIGN Caution Please Keep Your Distance Safe Driving Road Traffic Accident VE508R"><img src="{{ '/assets/images/marketplace-covers/a623adef48880563f6a7.jpg' | relative_url }}" alt="Listing image for SIGN Caution Please Keep Your Distance Safe Driving Road Traffic Accident VE508R" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SIGN Caution Please Keep Your Distance Safe Driving Road Traffic Accident VE508R</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safe driving sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: safe driving sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SIGN Caution Please Keep Your Distance Safe Driving Road Traffic Accident VE508R"><img src="{{ '/assets/images/marketplace-covers/a623adef48880563f6a7.jpg' | relative_url }}" alt="Listing image for SIGN Caution Please Keep Your Distance Safe Driving Road Traffic Accident VE508R" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SIGN Caution Please Keep Your Distance Safe Driving Road Traffic Accident VE508R</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safe driving sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: safe driving sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Safe Driving Indoor Outdoor Vinyl Banner Design"><img src="{{ '/assets/images/marketplace-covers/759c9ebe5bb6c14bb9fd.jpg' | relative_url }}" alt="Listing image for Safe Driving Indoor Outdoor Vinyl Banner Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Safe Driving Indoor Outdoor Vinyl Banner Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safe driving sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: safe driving sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Safe Driving Indoor Outdoor Vinyl Banner Design"><img src="{{ '/assets/images/marketplace-covers/759c9ebe5bb6c14bb9fd.jpg' | relative_url }}" alt="Listing image for Safe Driving Indoor Outdoor Vinyl Banner Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Safe Driving Indoor Outdoor Vinyl Banner Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safe driving sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: safe driving sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for South Carolina state line safe driving saves highway marker map road sign 20x16"><img src="{{ '/assets/images/marketplace-covers/6e6b464b939125322fbd.jpg' | relative_url }}" alt="Listing image for South Carolina state line safe driving saves highway marker map road sign 20x16" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">South Carolina state line safe driving saves highway marker map road sign 20x16</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safe driving sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: safe driving sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for South Carolina state line safe driving saves highway marker map road sign 20x16"><img src="{{ '/assets/images/marketplace-covers/6e6b464b939125322fbd.jpg' | relative_url }}" alt="Listing image for South Carolina state line safe driving saves highway marker map road sign 20x16" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">South Carolina state line safe driving saves highway marker map road sign 20x16</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safe driving sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: safe driving sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=safe+driving+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=driver-example-does-no-accident-prove-good-driving-logical-fallacies-safe-driving-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -667,7 +667,7 @@ An accident-free record can support the belief that someone is a good driver, bu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -687,7 +687,7 @@ An accident-free record can support the belief that someone is a good driver, bu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -719,7 +719,7 @@ An accident-free record can support the belief that someone is a good driver, bu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -749,7 +749,7 @@ An accident-free record can support the belief that someone is a good driver, bu
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -807,112 +807,112 @@ An accident-free record can support the belief that someone is a good driver, bu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: swov.nl  
-   Link: <a href="https://swov.nl/system/files/publication-downloads/r-2002-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://swov.nl/system/files/publication-downloads/r-2002-12.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The uses of exposure and risk in road safety studiesby AS Hakkert · Cited by 185 — For the case of traffic accidents a calculation wa...</p></details>
+   Link:<a href="https://swov.nl/system/files/publication-downloads/r-2002-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://swov.nl/system/files/publication-downloads/r-2002-12.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The uses of exposure and risk in road safety studiesby AS Hakkert · Cited by 185 — For the case of traffic accidents a calculation wa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-9091/5/4/54" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9091/5/4/54</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure as Duration and Distance in Telematics Motor...by JP Boucher · 2017 · Cited by 107 — This issue is addressed in this paper...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-9091/5/4/54" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9091/5/4/54</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure as Duration and Distance in Telematics Motor...by JP Boucher · 2017 · Cited by 107 — This issue is addressed in this paper...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rac.co.uk  
    Title: low mileage car insurance  
-   Link: <a href="https://www.rac.co.uk/drive/advice/know-how/low-mileage-car-insurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.rac.co.uk/drive/advice/know-how/low-mileage-car-insurance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low mileage car insurance guide31 Mar 2025 — If you&#x27;re driving long distances every day your chances of risk will increase. If your an...</p></details>
+   Link:<a href="https://www.rac.co.uk/drive/advice/know-how/low-mileage-car-insurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.rac.co.uk/drive/advice/know-how/low-mileage-car-insurance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low mileage car insurance guide31 Mar 2025 — If you&#x27;re driving long distances every day your chances of risk will increase. If your an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2095756423000983" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2095756423000983</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Factors affecting truck driver behavior on a road safety...by BS Rashmi · 2023 · Cited by 44 — This review paper summarized...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2095756423000983" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2095756423000983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Factors affecting truck driver behavior on a road safety...by BS Rashmi · 2023 · Cited by 44 — This review paper summarized...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-9091/13/11/214" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9091/13/11/214</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Driving Behavior and Insurance Pricing: A Framework for...by P Fersini · 2025 — Ferreira and Minikel (2010), adopting the approach of Bo...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-9091/13/11/214" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9091/13/11/214</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Driving Behavior and Insurance Pricing: A Framework for...by P Fersini · 2025 — Ferreira and Minikel (2010), adopting the approach of Bo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022437516303279" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022437516303279</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A validation of the low mileage bias using naturalistic...by JF Antin · 2017 · Cited by 43 — This paper evaluated the low mileage bias (...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022437516303279" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022437516303279</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A validation of the low mileage bias using naturalistic...by JF Antin · 2017 · Cited by 43 — This paper evaluated the low mileage bias (...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Affirming the Consequent  
-   Link: <a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WDDVz-EWFw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deductive Fallacies - Affirming the Consequent &amp; Denying the Antecedent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WDDVz-EWFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deductive Fallacies - Affirming the Consequent &amp; Denying the Antecedent...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: khanacademy.org  
-   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Affirming the Consequent (video)Affirming the consequent occurs when someone tries to infer the truth of the antecedent of a c...</p></details>
+   Link:<a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Affirming the Consequent (video)Affirming the consequent occurs when someone tries to infer the truth of the antecedent of a c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aviva.co.uk  
    Title: mileage impacts car insurance  
-   Link: <a href="https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calculate your annual mileage for car insurance7 Feb 2025 — “Mileage bands may start from 4,000 miles annually and go up in incremen...</p></details>
+   Link:<a href="https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calculate your annual mileage for car insurance7 Feb 2025 — “Mileage bands may start from 4,000 miles annually and go up in incremen...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;). (2) Accent, Amphiboly and Equivocation are examples...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;). (2) Accent, Amphiboly and Equivocation are examples...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arrivealive.mobi  
-   Link: <a href="https://www.arrivealive.mobi/driver-experience-driver-inexperience-and-road-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.arrivealive.mobi/driver-experience-driver-inexperience-and-road-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Driver Experience, Driver Inexperience and Road SafetyInexperienced drivers tend to underestimate hazardous situations and tend to disobe...</p></details>
+   Link:<a href="https://www.arrivealive.mobi/driver-experience-driver-inexperience-and-road-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.arrivealive.mobi/driver-experience-driver-inexperience-and-road-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Driver Experience, Driver Inexperience and Road SafetyInexperienced drivers tend to underestimate hazardous situations and tend to disobe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: drivewyze.com  
-   Link: <a href="https://drivewyze.com/blog/high-risk-driving-behaviors/" target="_blank" rel="noopener noreferrer nofollow">https://drivewyze.com/blog/high-risk-driving-behaviors/</a>  
+   Link:<a href="https://drivewyze.com/blog/high-risk-driving-behaviors/" target="_blank" rel="noopener noreferrer nofollow">https://drivewyze.com/blog/high-risk-driving-behaviors/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: roadsafety-dss.eu  
-   Link: <a href="https://www.roadsafety-dss.eu/assets/data/pdf/synopses/Lack_of_driving_experience_032018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsafety-dss.eu/assets/data/pdf/synopses/Lack_of_driving_experience_032018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lack of driving experienceNovice driver and drivers with less years of experience in general are related to a higher accident risk than m...</p></details>
+   Link:<a href="https://www.roadsafety-dss.eu/assets/data/pdf/synopses/Lack_of_driving_experience_032018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsafety-dss.eu/assets/data/pdf/synopses/Lack_of_driving_experience_032018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lack of driving experienceNovice driver and drivers with less years of experience in general are related to a higher accident risk than m...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the ConsequentDescription: An error in [formal logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) where if the consequent is said to be true, the antecedent is said to be tr...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the ConsequentDescription: An error in [formal logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) where if the consequent is said to be true, the antecedent is said to be tr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/statistical-data-sets/road-safety-statistics-data-tables" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistical-data-sets/road-safety-statistics-data-tables</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>safety statistics: data tablesRoad safety statistics: data tables. Detailed statistics about reported personal injury road collisions for...</p></details>
+   Link:<a href="https://www.gov.uk/government/statistical-data-sets/road-safety-statistics-data-tables" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistical-data-sets/road-safety-statistics-data-tables</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>safety statistics: data tablesRoad safety statistics: data tables. Detailed statistics about reported personal injury road collisions for...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/</a>  
+   Link:<a href="https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: car mileage plays a significant role in determining insurance premiums the more  
-   Link: <a href="https://www.facebook.com/britanniacarleasing/posts/-car-mileage-plays-a-significant-role-in-determining-insurance-premiums-the-more/1138552038318339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/britanniacarleasing/posts/-car-mileage-plays-a-significant-role-in-determining-insurance-premiums-the-more/1138552038318339/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britannia Car Leasing10 Jun 2025 — The more miles you drive, the greater your risk of being involved in an accident. As a result, insurer...</p></details>
+   Link:<a href="https://www.facebook.com/britanniacarleasing/posts/-car-mileage-plays-a-significant-role-in-determining-insurance-premiums-the-more/1138552038318339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/britanniacarleasing/posts/-car-mileage-plays-a-significant-role-in-determining-insurance-premiums-the-more/1138552038318339/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britannia Car Leasing10 Jun 2025 — The more miles you drive, the greater your risk of being involved in an accident. As a result, insurer...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rospa.com  
-   Link: <a href="https://www.rospa.com/road-safety/road-safety-projects/young-drivers/after-the-test/newly-qualified-drivers-at-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.rospa.com/road-safety/road-safety-projects/young-drivers/after-the-test/newly-qualified-drivers-at-risk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to manage these risks, develop safe driving habits, and avoid common accidents that affect...</p></details>
+   Link:<a href="https://www.rospa.com/road-safety/road-safety-projects/young-drivers/after-the-test/newly-qualified-drivers-at-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.rospa.com/road-safety/road-safety-projects/young-drivers/after-the-test/newly-qualified-drivers-at-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to manage these risks, develop safe driving habits, and avoid common accidents that affect...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent Overview, Fallacy &amp; ExamplesThe fallacy of affirming the consequent is a formal fallacy in which a reasoner make...</p></details>
+   Link:<a href="https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent Overview, Fallacy &amp; ExamplesThe fallacy of affirming the consequent is a formal fallacy in which a reasoner make...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: GOV.UK  
    Title: reported road casualties great britain road user risk 2024 data  
-   Link: <a href="https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024/reported-road-casualties-great-britain-road-user-risk-2024-data" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024/reported-road-casualties-great-britain-road-user-risk-2024-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>road casualties Great Britain: road user risk...25 Sept 2025 — This short report presents data on those killed in reported road collisio...</p></details>
+   Link:<a href="https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024/reported-road-casualties-great-britain-road-user-risk-2024-data" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024/reported-road-casualties-great-britain-road-user-risk-2024-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>road casualties Great Britain: road user risk...25 Sept 2025 — This short report presents data on those killed in reported road collisio...</p></details>

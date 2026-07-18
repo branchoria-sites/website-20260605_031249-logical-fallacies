@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-advertising/
 description: Focused pages that expand on Advertising.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_advertising_fallacie_a808f7
 parent_title: Advertising
@@ -16,7 +16,7 @@ parent_permalink: /advertising/
 
 # Explore Topics in Advertising
 
-The following pages expand on the main **[Advertising]({{ '/advertising/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Advertising]({{ '/advertising/' | relative_url }})** page and cover its key branches in.
 
 - [Bandwagon Ads]({{ '/bandwagon-ads/' | relative_url }})
 - [Celebrity Ads]({{ '/celebrity-ads/' | relative_url }})

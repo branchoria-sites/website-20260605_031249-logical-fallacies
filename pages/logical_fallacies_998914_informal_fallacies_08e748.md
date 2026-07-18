@@ -501,23 +501,23 @@ image: /assets/images/logical_fallacies_998914_informal_fallacies_08e748-overvie
 
 ## Introduction
 
-Informal fallacies are the everyday version of faulty reasoning: not usually mistakes in a neat logical formula, but failures in wording, relevance, evidence or context. They appear when a claim sounds supported even though the reasons do not really carry the weight placed on them. A friend generalises from one bad [experience]({{ 'experience/' | relative_url }}), an advert shifts attention from evidence to status, a politician answers criticism with an attack on the critic, or a [social media]({{ 'social-media/' | relative_url }}) thread changes the meaning of a key word halfway through. These are not all the same error, but they share one feature: the argument has to be judged in its actual setting, not just by its skeleton. Informal logic was developed partly to assess ordinary-language reasoning of this kind, where arguments are natural, incomplete and context-bound rather than formal proofs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span>
+Informal fallacies are the everyday version of faulty reasoning: not usually mistakes in a neat logical formula, but failures in wording, relevance, evidence or context. They appear when a claim sounds supported even though the reasons do not really carry the weight placed on them. A friend generalises from one bad [experience]({{ 'experience/' | relative_url }}), an advert shifts attention from evidence to status, a politician answers criticism with an attack on the critic, or a [social media]({{ 'social-media/' | relative_url }}) thread changes the meaning of a key word halfway through. These are not all the same error, but they share one feature: the argument has to be judged in its actual setting, not just by its skeleton. Informal logic was developed partly to assess ordinary-language reasoning of this kind, where arguments are natural, incomplete and context-bound rather than formal proofs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748-overview.webp" | relative_url }}" alt="Overview image for Informal Logic" loading="eager" decoding="sync" fetchpriority="high">
-That [context]({{ 'context/' | relative_url }}) sensitivity is why informal fallacies are useful but easy to misuse. Calling something “a fallacy” should not be a shortcut for dismissing a conclusion, insulting a speaker, or winning a debate by label. The better question is: what kind of support is being offered, and does it actually connect to the claim? Contemporary informal-logic work often frames this through tests such as acceptability, [relevance]({{ 'relevance/' | relative_url }}) and sufficiency: are the reasons believable, are they genuinely connected, and are they enough for the conclusion? <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span>
+That [context]({{ 'context/' | relative_url }}) sensitivity is why informal fallacies are useful but easy to misuse. Calling something “a fallacy” should not be a shortcut for dismissing a conclusion, insulting a speaker, or winning a debate by label. The better question is: what kind of support is being offered, and does it actually connect to the claim? Contemporary informal-logic work often frames this through tests such as acceptability, [relevance]({{ 'relevance/' | relative_url }}) and sufficiency: are the reasons believable, are they genuinely connected, and are they enough for the conclusion?<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span>
 
 ## Why everyday arguments need context
 
 Everyday arguments usually leave things unsaid. “That restaurant is terrible; my food was cold” relies on an unstated bridge from one experience to a broader judgement. “You can trust this supplement because a doctor recommends it” relies on assumptions about expertise, evidence, independence and the kind of claim being made. “She only supports that policy because she works for the council” relies on an assumption about bias and relevance. In [formal logic]({{ 'formal-logic/' | relative_url }}), validity can often be tested by abstracting away from subject matter. In informal logic, that abstraction can hide the very feature that makes the argument weak or reasonable.
 
-This is why the same pattern can be sensible in one setting and fallacious in another. Personal credibility may be irrelevant when assessing a mathematical proof, but highly relevant when judging a witness who has a record of lying under oath. The Internet Encyclopedia of Philosophy notes exactly this difficulty with ad hominem reasoning: the key issue is not whether a person has been criticised, but whether that criticism is relevant to the claim at stake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why the same pattern can be sensible in one setting and fallacious in another. Personal credibility may be irrelevant when assessing a mathematical proof, but highly relevant when judging a witness who has a record of lying under oath. The Internet Encyclopedia of Philosophy notes exactly this difficulty with ad hominem reasoning: the key issue is not whether a person has been criticised, but whether that criticism is relevant to the claim at stake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A good practical test is to reconstruct the argument before naming the fallacy. Identify the claim, the stated reasons, and the missing assumption that links them. Research on natural-language argument understanding makes the same point in a technical setting: real arguments are often highly contextualised, with implicit [warrants]({{ 'warrants/' | relative_url }}) that listeners must infer before they can judge the reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A good practical test is to reconstruct the argument before naming the fallacy. Identify the claim, the stated reasons, and the missing assumption that links them. Research on natural-language argument understanding makes the same point in a technical setting: real arguments are often highly contextualised, with implicit [warrants]({{ 'warrants/' | relative_url }}) that listeners must infer before they can judge the reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748-Illustration-1-dark.svg" | relative_url }}" alt="Informal Logic illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Language can change the argument without looking suspicious
 
-Many informal fallacies begin with wording. Ordinary language is flexible, which is useful for conversation but dangerous for argument. A word can shift meaning, a vague category can stretch, or a phrase can be interpreted in more than one way. The fallacy of equivocation is the clearest case: an argument uses the same word or phrase in different senses, making the conclusion appear to follow when it does not. The Stanford Encyclopedia of Philosophy gives the classic structure of equivocation as an argument that exploits ambiguity across repeated uses of a term. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span>
+Many informal fallacies begin with wording. Ordinary language is flexible, which is useful for conversation but dangerous for argument. A word can shift meaning, a vague category can stretch, or a phrase can be interpreted in more than one way. The fallacy of equivocation is the clearest case: an argument uses the same word or phrase in different senses, making the conclusion appear to follow when it does not. The Stanford Encyclopedia of Philosophy gives the classic structure of equivocation as an argument that exploits ambiguity across repeated uses of a term.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span>
 
 A familiar everyday version is: “This plan is natural, and natural things are safe, so this plan is safe.” The word “natural” may mean not synthetic in the first clause and harmless in the second. The argument gains force only because the shift is not noticed. Similar trouble appears in arguments about “freedom”, “fairness”, “choice”, “elitism”, “science”, “common sense” or “harm”, where people may be using the same term for different ideas.
 
@@ -525,25 +525,25 @@ Language-based fallacies are not solved by banning ambiguous words. Many importa
 
 ## Relevance is not the same as emotional force
 
-Some informal fallacies persuade because the reason offered is vivid, morally charged or socially uncomfortable, even though it does not answer the question. Red herrings work this way: they redirect attention from the issue being argued to a nearby concern. Purdue OWL describes a red herring as a diversionary tactic that avoids the key issue rather than addressing the opposing argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">OWLLogical Fallacies</span></span></span>
+Some informal fallacies persuade because the reason offered is vivid, morally charged or socially uncomfortable, even though it does not answer the question. Red herrings work this way: they redirect attention from the issue being argued to a nearby concern. Purdue OWL describes a red herring as a diversionary tactic that avoids the key issue rather than addressing the opposing argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">OWLLogical Fallacies</span></span></span>
 
 Consider the claim, “The city should inspect rental flats more often.” A response such as “Landlords already have enough paperwork” may be relevant if the debate is about implementation costs. But it is a red herring if it is used to avoid the original question of tenant safety. The same sentence can be relevant or irrelevant depending on the issue under discussion. That is the informal-fallacy mechanism: context decides whether the move answers the argument or changes the subject.
 
-Ad hominem reasoning shows the same boundary problem. “Do not trust her climate argument; she is rude” is normally irrelevant. “Do not rely on this witness’s testimony; they have a documented history of fabricating evidence in similar cases” may be relevant. The difference is not politeness. It is whether the personal fact affects the evidential support for the specific claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ad hominem reasoning shows the same boundary problem. “Do not trust her climate argument; she is rude” is normally irrelevant. “Do not rely on this witness’s testimony; they have a documented history of fabricating evidence in similar cases” may be relevant. The difference is not politeness. It is whether the personal fact affects the evidential support for the specific claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VDGp04CfM4M" title="CRITICAL THINKING - Fallacies: Formal and Informal Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VDGp04CfM4M" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Formal and Informal Fallacies</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 454.5K &middot; Uploaded: July 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VDGp04CfM4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VDGp04CfM4M">Open on YouTube</a></p></div></div></div>
 
 ## Evidence problems: when the support is real but too weak
 
-Informal fallacies are often not pure nonsense. They frequently contain a real observation, but the conclusion outruns it. Hasty generalisation is the everyday example: someone draws a broad conclusion from a sample that is too small, biased or unrepresentative. Scribbr defines it as drawing a conclusion from too few cases, while the Fallacy Files adds an important nuance: whether a sample is too small depends on the variability of the population being discussed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Hasty Generalization Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Hasty Generalization Fallacy &#124; Definition &amp; Examples</span></span></span>
+Informal fallacies are often not pure nonsense. They frequently contain a real observation, but the conclusion outruns it. Hasty generalisation is the everyday example: someone draws a broad conclusion from a sample that is too small, biased or unrepresentative. Scribbr defines it as drawing a conclusion from too few cases, while the Fallacy Files adds an important nuance: whether a sample is too small depends on the variability of the population being discussed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Hasty Generalization Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Hasty Generalization Fallacy &#124; Definition &amp; Examples</span></span></span>
 
 This matters because everyday evidence often arrives as stories. “My cousin took this remedy and felt better” is not worthless as a personal report, but it is too weak to establish that the remedy works generally. “The last two deliveries were late, so this company is unreliable” may be a reasonable warning if the deliveries were part of a wider pattern, but a weak generalisation if they were isolated [exceptions]({{ 'exceptions/' | relative_url }}) during a snowstorm. The fallacy is not using experience; it is pretending that limited experience settles a broader question.
 
-The same evidence problem appears in “appeal to authority” arguments. Expert testimony can be valuable, especially when laypeople cannot directly evaluate technical evidence. But an appeal to authority becomes fallacious when the authority’s status replaces evidence, when the person is outside the relevant field, when their claim is treated as unquestionable, or when disagreement among qualified experts is hidden. Work on argumentation schemes treats expert opinion as a defeasible pattern: it can support a conclusion, but only if critical questions about expertise, field, reliability, consistency and backing evidence are answered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-snippet">Informal Logic</span></span></span>
+The same evidence problem appears in “appeal to authority” arguments. Expert testimony can be valuable, especially when laypeople cannot directly evaluate technical evidence. But an appeal to authority becomes fallacious when the authority’s status replaces evidence, when the person is outside the relevant field, when their claim is treated as unquestionable, or when disagreement among qualified experts is hidden. Work on argumentation schemes treats expert opinion as a defeasible pattern: it can support a conclusion, but only if critical questions about expertise, field, reliability, consistency and backing evidence are answered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-snippet">Informal Logic</span></span></span>
 
 ## The three practical tests: acceptable, relevant, enough
 
-A useful way to handle informal fallacies in everyday arguments is to test the support rather than memorise a long catalogue of names. Informal logicians Ralph Johnson and J. Anthony Blair helped popularise the criteria of acceptability, relevance and sufficiency for evaluating reasons offered in support of a claim. Later discussion has refined these criteria, but the basic triad remains a practical guide for ordinary argument assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span>
+A useful way to handle informal fallacies in everyday arguments is to test the support rather than memorise a long catalogue of names. Informal logicians Ralph Johnson and J. Anthony Blair helped popularise the criteria of acceptability, relevance and sufficiency for evaluating reasons offered in support of a claim. Later discussion has refined these criteria, but the basic triad remains a practical guide for ordinary argument assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span>
 
 **Acceptability** asks whether the reason itself deserves belief. “Everyone knows crime is rising” is weak if no reliable crime figures are offered. “This reviewer was paid by the company” is acceptable only if there is evidence for the payment, not merely suspicion.
 
@@ -562,7 +562,7 @@ Take a slippery-slope argument: “If we allow this small exception, the whole r
 
 Or take “what about” responses. If someone raises a genuinely comparable case to test whether a principle is being applied consistently, that can be relevant. If they raise an unrelated wrongdoing only to avoid the original claim, it becomes a diversion. The label alone does not decide the issue; the relationship between the examples does.
 
-This is also why automated fallacy detection is difficult. Recent computational work on natural-language fallacies notes that detecting them requires more than spotting trigger words; systems need specialised reasoning about argument structure, context and fallacy class. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is also why automated fallacy detection is difficult. Recent computational work on natural-language fallacies notes that detecting them requires more than spotting trigger words; systems need specialised reasoning about argument structure, context and fallacy class.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GNeagdJd4rU" title="Logic &amp; Arguments - logical fallacies (formal &amp; informal fallacies)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GNeagdJd4rU" target="_blank" rel="noopener noreferrer">Logic &amp; Arguments - logical fallacies (formal &amp; informal fallacies)</a></p><p class="youtube-embed-meta">Channel: NativLang &middot; Views: 41.7K &middot; Uploaded: January 2012 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GNeagdJd4rU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GNeagdJd4rU">Open on YouTube</a></p></div></div></div>
 
@@ -585,178 +585,178 @@ That habit turns informal logic into a tool for proportion. It helps separate st
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748-Illustration-3-dark.svg" | relative_url }}" alt="Informal Logic illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Context Changes the Argument. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Context Changes the Argument. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Covers evaluating arguments, evidence, relevance, and assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evaluating arguments, evidence, relevance, and assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Strong introduction to argument structure and common reasoning errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong introduction to argument structure and common reasoning errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Catalogues many informal fallacies with practical examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Catalogues many informal fallacies with practical examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Focuses on evaluating everyday arguments in context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating everyday arguments in context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Friedrich Nietzsche German Philosopher History Philosophy Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/5ad0fc381fc9b563ff1e.jpg' | relative_url }}" alt="Listing image for Friedrich Nietzsche German Philosopher History Philosophy Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Friedrich Nietzsche German Philosopher History Philosophy Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.com</span>: philosophy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Friedrich Nietzsche German Philosopher History Philosophy Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/5ad0fc381fc9b563ff1e.jpg' | relative_url }}" alt="Listing image for Friedrich Nietzsche German Philosopher History Philosophy Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Friedrich Nietzsche German Philosopher History Philosophy Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.com</span>: philosophy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aristotle Quote Statue Image Poster Wall Art Inspirational Philosophy Decor"><img src="{{ '/assets/images/marketplace-covers/6a92156d6798ed04d204.jpg' | relative_url }}" alt="Listing image for Aristotle Quote Statue Image Poster Wall Art Inspirational Philosophy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aristotle Quote Statue Image Poster Wall Art Inspirational Philosophy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.com</span>: philosophy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aristotle Quote Statue Image Poster Wall Art Inspirational Philosophy Decor"><img src="{{ '/assets/images/marketplace-covers/6a92156d6798ed04d204.jpg' | relative_url }}" alt="Listing image for Aristotle Quote Statue Image Poster Wall Art Inspirational Philosophy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aristotle Quote Statue Image Poster Wall Art Inspirational Philosophy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.com</span>: philosophy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12 Universal Laws Poster Spiritual Philosophy Chart Wall Art Canvas"><img src="{{ '/assets/images/marketplace-covers/b21d9a4eef4e0f682b31.jpg' | relative_url }}" alt="Listing image for 12 Universal Laws Poster Spiritual Philosophy Chart Wall Art Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12 Universal Laws Poster Spiritual Philosophy Chart Wall Art Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.com</span>: philosophy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12 Universal Laws Poster Spiritual Philosophy Chart Wall Art Canvas"><img src="{{ '/assets/images/marketplace-covers/b21d9a4eef4e0f682b31.jpg' | relative_url }}" alt="Listing image for 12 Universal Laws Poster Spiritual Philosophy Chart Wall Art Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12 Universal Laws Poster Spiritual Philosophy Chart Wall Art Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.com</span>: philosophy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Hermetic Principles Poster Spiritual Philosophy Wall Art"><img src="{{ '/assets/images/marketplace-covers/dff3fcdf0aaf6e631436.jpg' | relative_url }}" alt="Listing image for 7 Hermetic Principles Poster Spiritual Philosophy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 Hermetic Principles Poster Spiritual Philosophy Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.com</span>: philosophy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Hermetic Principles Poster Spiritual Philosophy Wall Art"><img src="{{ '/assets/images/marketplace-covers/dff3fcdf0aaf6e631436.jpg' | relative_url }}" alt="Listing image for 7 Hermetic Principles Poster Spiritual Philosophy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 Hermetic Principles Poster Spiritual Philosophy Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.com</span>: philosophy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=informal-logic-why-context-changes-the-argument-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -772,7 +772,7 @@ That habit turns informal logic into a tool for proportion. It helps separate st
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -792,7 +792,7 @@ That habit turns informal logic into a tool for proportion. It helps separate st
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -824,7 +824,7 @@ That habit turns informal logic into a tool for proportion. It helps separate st
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -854,7 +854,7 @@ That habit turns informal logic into a tool for proportion. It helps separate st
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -912,239 +912,239 @@ That habit turns informal logic into a tool for proportion. It helps separate st
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/archives/fall2020/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>relevance and sufficiency, making the criteria for good argument acceptability, relevance and sufficiency (the “ARS” criteria). The premi...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2020/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>relevance and sufficiency, making the criteria for good argument acceptability, relevance and sufficiency (the “ARS” criteria). The premi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
+   Link:<a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribbr.com  
    Title: Hasty Generalization Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
+   Link:<a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribbr.com  
    Title: appeal to authority fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
+   Link:<a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07425</a>  
+   Link:<a href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07425</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
+   Link:<a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribbr.com  
    Title: equivocation fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/equivocation-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/equivocation-fallacy/</a>  
+   Link:<a href="https://www.scribbr.com/fallacies/equivocation-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/equivocation-fallacy/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
-13. <a id="endnote-13"></a>
-   Source: plato.stanford.edu  
-   Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
-
-14. <a id="endnote-14"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
 
-15. <a id="endnote-15"></a>
+14.<a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
 
-16. <a id="endnote-16"></a>
+15.<a id="endnote-15"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
 
-17. <a id="endnote-17"></a>
+16.<a id="endnote-16"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2008/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2008/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/logic-informal/</a>  
 
-18. <a id="endnote-18"></a>
+17.<a id="endnote-17"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2008/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2008/entries/logic-informal/</a>  
 
-19. <a id="endnote-19"></a>
+18.<a id="endnote-18"></a>
+   Source: plato.stanford.edu  
+   Title: logic informal  
+   Link:<a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
+
+19.<a id="endnote-19"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
+   Link:<a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: informallogic.ca  
    Title: Informal Logic Godden and Walton 27.3  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/485/453" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/485/453</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/485/453" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/485/453</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: informallogic.ca  
    Title: Informal Logic Selected Papers of J. Anthony Blair  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4120/3214" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4120/3214</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/4120/3214" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4120/3214</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: writingcenter.unc.edu  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Informal fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: amazon.com  
    Title: Argumentation Schemes  
-   Link: <a href="https://www.amazon.com/Argumentation-Schemes-Douglas-Walton/dp/0521723744" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Argumentation-Schemes-Douglas-Walton/dp/0521723744</a>  
+   Link:<a href="https://www.amazon.com/Argumentation-Schemes-Douglas-Walton/dp/0521723744" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Argumentation-Schemes-Douglas-Walton/dp/0521723744</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: amazon.com  
    Title: Informal Logic: A Pragmatic Approach  
-   Link: <a href="https://www.amazon.com/Informal-Logic-Pragmatic-Douglas-Walton/dp/0521886171" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Informal-Logic-Pragmatic-Douglas-Walton/dp/0521886171</a>  
+   Link:<a href="https://www.amazon.com/Informal-Logic-Pragmatic-Douglas-Walton/dp/0521886171" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Informal-Logic-Pragmatic-Douglas-Walton/dp/0521886171</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/7210/5372" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7210/5372</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/7210/5372" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7210/5372</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147/1591</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147/1591</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: erudit.org  
    Title: Informal Logic  
-   Link: <a href="https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf</a>  
+   Link:<a href="https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/9780521713801" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/9780521713801</a>  
+   Link:<a href="https://www.cambridge.org/9780521713801" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/9780521713801</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: askphilosophers.org  
-   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
+   Link:<a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: academia.edu  
    Title: Informal logic and argumentation An Alta conversation  
-   Link: <a href="https://www.academia.edu/10685404/Informal_logic_and_argumentation_An_Alta_conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10685404/Informal_logic_and_argumentation_An_Alta_conversation</a>  
+   Link:<a href="https://www.academia.edu/10685404/Informal_logic_and_argumentation_An_Alta_conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10685404/Informal_logic_and_argumentation_An_Alta_conversation</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ndpr.nd.edu  
    Title: argumentation schemes  
-   Link: <a href="https://ndpr.nd.edu/reviews/argumentation-schemes/" target="_blank" rel="noopener noreferrer nofollow">https://ndpr.nd.edu/reviews/argumentation-schemes/</a>  
+   Link:<a href="https://ndpr.nd.edu/reviews/argumentation-schemes/" target="_blank" rel="noopener noreferrer nofollow">https://ndpr.nd.edu/reviews/argumentation-schemes/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aladin.co.kr  
-   Link: <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1696156&amp;srsltid=AfmBOoozFzM7aBOdaH7QDfVO_8AK91HWvQ7Sj7zht_T5X37FQ3w5xtQa" target="_blank" rel="noopener noreferrer nofollow">https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1696156&amp;srsltid=AfmBOoozFzM7aBOdaH7QDfVO_8AK91HWvQ7Sj7zht_T5X37FQ3w5xtQa</a>  
+   Link:<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1696156&amp;srsltid=AfmBOoozFzM7aBOdaH7QDfVO_8AK91HWvQ7Sj7zht_T5X37FQ3w5xtQa" target="_blank" rel="noopener noreferrer nofollow">https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1696156&amp;srsltid=AfmBOoozFzM7aBOdaH7QDfVO_8AK91HWvQ7Sj7zht_T5X37FQ3w5xtQa</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
+   Link:<a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: philpapers.org  
    Title: Phil Papers Relevance, Acceptability, and Sufficiency Today  
-   Link: <a href="https://philpapers.org/rec/BLARAA-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/BLARAA-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blairby J Blair · 2007 · Cited by 39 — In Logical Self-Defense, Johnson and I introduced the criteria of acceptability, relevance and suf...</p></details>
+   Link:<a href="https://philpapers.org/rec/BLARAA-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/BLARAA-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blairby J Blair · 2007 · Cited by 39 — In Logical Self-Defense, Johnson and I introduced the criteria of acceptability, relevance and suf...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10730665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10730665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring university students&#x27; ability to recognize argument...by Y Berkle · 2023 · Cited by 9 — An informal argument is expressed in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10730665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10730665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring university students&#x27; ability to recognize argument...by Y Berkle · 2023 · Cited by 9 — An informal argument is expressed in...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Critical Reasoning  
-   Link: <a href="https://www.youtube.com/watch?v=ZTyrLIjRcsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZTyrLIjRcsw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Ad Hominem [HD] - CRITICAL THINKING...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZTyrLIjRcsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZTyrLIjRcsw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Ad Hominem [HD] - CRITICAL THINKING...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/106715108/Informal_Logic_and_Logic" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/106715108/Informal_Logic_and_Logic</a>  
+   Link:<a href="https://www.academia.edu/106715108/Informal_Logic_and_Logic" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/106715108/Informal_Logic_and_Logic</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems</a>  
+   Link:<a href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949</a>  
+   Link:<a href="https://www.amazon.nl/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/</a>  
+   Link:<a href="https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/groundwork-in-the-theory-of-argumentation-3bpwsq7jsj.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/groundwork-in-the-theory-of-argumentation-3bpwsq7jsj.pdf</a>  
+   Link:<a href="https://scispace.com/pdf/groundwork-in-the-theory-of-argumentation-3bpwsq7jsj.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/groundwork-in-the-theory-of-argumentation-3bpwsq7jsj.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/intro-logic-ch-3-doc/35795416" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/intro-logic-ch-3-doc/35795416</a>
+   Link:<a href="https://www.slideshare.net/slideshow/intro-logic-ch-3-doc/35795416" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/intro-logic-ch-3-doc/35795416</a>

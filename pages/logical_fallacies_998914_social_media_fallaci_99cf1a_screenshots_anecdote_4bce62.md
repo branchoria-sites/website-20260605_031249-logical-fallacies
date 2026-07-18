@@ -271,13 +271,13 @@ image: /assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_scree
 A screenshot can be genuine and still support a false conclusion. A personal story can be completely true and still fail to prove a broader claim. This is one of the most common reasoning errors in [social media]({{ 'social-media/' | relative_url }}) debates: people mistake a fragment of evidence for the whole picture.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-dark.svg" | relative_url }}" alt="Screenshots illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the wider world of social media fallacies and viral claims, screenshots and anecdotes are especially persuasive because they feel concrete. A cropped image appears to show exactly what happened. A first-person account sounds authentic because it comes from a real individual. Yet logical errors often arise not from fabricated evidence but from missing [context]({{ 'context/' | relative_url }}), missing scale, and unwarranted generalisation. Research on misinformation repeatedly shows that real photos, real posts, and real experiences can be repurposed or overinterpreted in ways that mislead audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
+Within the wider world of social media fallacies and viral claims, screenshots and anecdotes are especially persuasive because they feel concrete. A cropped image appears to show exactly what happened. A first-person account sounds authentic because it comes from a real individual. Yet logical errors often arise not from fabricated evidence but from missing [context]({{ 'context/' | relative_url }}), missing scale, and unwarranted generalisation. Research on misinformation repeatedly shows that real photos, real posts, and real experiences can be repurposed or overinterpreted in ways that mislead audiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 ## What Screenshots Leave Out
 
 A screenshot has one major advantage in online arguments: it looks like proof. Unlike a rumour or unsupported assertion, it appears to provide direct visual evidence. The problem is that screenshots capture only a selected moment.
 
-A cropped image may omit what came before or after a statement. A screenshot of a social media post may exclude replies that clarify the meaning. A photograph may be authentic but attached to a false description. Researchers studying misinformation have identified “out-of-context” content as one of the most effective forms of online deception because it uses genuine material while changing its interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
+A cropped image may omit what came before or after a statement. A screenshot of a social media post may exclude replies that clarify the meaning. A photograph may be authentic but attached to a false description. Researchers studying misinformation have identified “out-of-context” content as one of the most effective forms of online deception because it uses genuine material while changing its interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 Consider a common viral pattern:
 
@@ -292,9 +292,9 @@ Consider a common viral pattern:
 
 The screenshot itself may be authentic. The conclusion may still be wrong.
 
-Fact-checking organisations repeatedly encounter cases where real images, videos, or screenshots are relabelled, misdated, or detached from their original setting. Reuters Fact Check regularly documents examples in which genuine visuals are presented with inaccurate descriptions, leading audiences to infer events that never occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+Fact-checking organisations repeatedly encounter cases where real images, videos, or screenshots are relabelled, misdated, or detached from their original setting. Reuters Fact Check regularly documents examples in which genuine visuals are presented with inaccurate descriptions, leading audiences to infer events that never occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 
-Another limitation is that screenshots conceal verification clues. A shared image often removes links, timestamps, account histories, edits, and surrounding discussion. Once information becomes an image rather than a clickable post, independent checking becomes more difficult. Researchers examining misinformation spread through screenshots note that users frequently share screenshot content without verifying whether the original post was genuine or manipulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">why people still fall for fake screenshots</span><span class="citation-popover-snippet">Why people still fall for fake screenshots13 Feb 2020 — The surge of misinformation accompanying the coronavirus outbreak has incl...</span></span></span>
+Another limitation is that screenshots conceal verification clues. A shared image often removes links, timestamps, account histories, edits, and surrounding discussion. Once information becomes an image rather than a clickable post, independent checking becomes more difficult. Researchers examining misinformation spread through screenshots note that users frequently share screenshot content without verifying whether the original post was genuine or manipulated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">why people still fall for fake screenshots</span><span class="citation-popover-snippet">Why people still fall for fake screenshots13 Feb 2020 — The surge of misinformation accompanying the coronavirus outbreak has incl...</span></span></span>
 
 ### Why “Digital Receipts” Feel More Convincing Than They Are
 
@@ -313,7 +313,7 @@ They do not automatically answer:
 
 </div>
 
-The logical mistake occurs when readers move from “this screenshot is real” to “therefore the broader claim is true”. The first proposition may be correct while the second remains unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
+The logical mistake occurs when readers move from “this screenshot is real” to “therefore the broader claim is true”. The first proposition may be correct while the second remains unsupported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjISO-juArY" title="Anecdotal Fallacy: A Data Point of One Is Not Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer">Anecdotal Fallacy: A Data Point of One Is Not Evidence</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 36 &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjISO-juArY">Open on YouTube</a></p></div></div></div>
 
@@ -325,9 +325,9 @@ Suppose someone writes:
 
 > “This happened to me, so it must happen to everyone.”
 
-That leap from one case to a broad conclusion is the classic hasty generalisation fallacy. Philosophers and critical-thinking scholars define anecdotal reasoning as problematic when it substitutes a limited sample for systematic evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAnecdotal Evidence. This is fallacious generalizing on the basis of some story that provides...</span></span></span>
+That leap from one case to a broad conclusion is the classic hasty generalisation fallacy. Philosophers and critical-thinking scholars define anecdotal reasoning as problematic when it substitutes a limited sample for systematic evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAnecdotal Evidence. This is fallacious generalizing on the basis of some story that provides...</span></span></span>
 
-Online platforms amplify this tendency because stories are memorable. Research on scientific reasoning and misinformation suggests that anecdotal evidence can exert a powerful influence on judgement, even when stronger statistical evidence points elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central When and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
+Online platforms amplify this tendency because stories are memorable. Research on scientific reasoning and misinformation suggests that anecdotal evidence can exert a powerful influence on judgement, even when stronger statistical evidence points elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central When and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
 
 A viral post might say:
 
@@ -341,7 +341,7 @@ A viral post might say:
 
 Each story may be truthful. The problem is representativeness. One person's experience cannot automatically reveal what happens across thousands or millions of cases.
 
-This distinction matters because unusual experiences attract attention. Social media algorithms and human psychology both favour dramatic stories over ordinary outcomes. As a result, audiences may encounter the most extreme examples rather than the most typical ones. Researchers have long noted that memorable cases can distort perceptions when people use them as substitutes for broader evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
+This distinction matters because unusual experiences attract attention. Social media algorithms and human psychology both favour dramatic stories over ordinary outcomes. As a result, audiences may encounter the most extreme examples rather than the most typical ones. Researchers have long noted that memorable cases can distort perceptions when people use them as substitutes for broader evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-2-dark.svg" | relative_url }}" alt="Screenshots illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### True Stories Can Still Mislead
@@ -360,7 +360,7 @@ Anecdotes can be:
 
 For example, a single customer complaint may reveal a genuine problem. It does not automatically establish how common the problem is. Likewise, one success story may demonstrate that an outcome is possible without showing that it is likely.
 
-The logical question is not merely “Did this happen?” but “What does this example allow us to conclude?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</span></span></span>
+The logical question is not merely “Did this happen?” but “What does this example allow us to conclude?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gE9dFM4Bs0k" title="WATCH: How to spot misinformation online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gE9dFM4Bs0k" target="_blank" rel="noopener noreferrer">WATCH: How to spot misinformation online</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 37.7K &middot; Uploaded: July 2020 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gE9dFM4Bs0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gE9dFM4Bs0k">Open on YouTube</a></p></div></div></div>
 
@@ -392,7 +392,7 @@ Imagine a screenshot showing a single incident at a school, workplace, or public
 
 The jump from example to general rule is where the logical error occurs.
 
-Researchers studying misinformation have repeatedly found that manipulated narratives often rely not on entirely fabricated material but on selective presentation. Real facts, real images, and real experiences are arranged to support conclusions that the underlying evidence cannot sustain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">types sources and claims covid 19 misinformation</span><span class="citation-popover-snippet">Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In this factsheet we identify some of the main types, sources, and clai...</span></span></span>
+Researchers studying misinformation have repeatedly found that manipulated narratives often rely not on entirely fabricated material but on selective presentation. Real facts, real images, and real experiences are arranged to support conclusions that the underlying evidence cannot sustain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">types sources and claims covid 19 misinformation</span><span class="citation-popover-snippet">Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In this factsheet we identify some of the main types, sources, and clai...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-3-dark.svg" | relative_url }}" alt="Screenshots illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Quick Context Checklist for Viral Proof
@@ -425,272 +425,272 @@ The most misleading online evidence is often not fabricated evidence. It is evid
 
 A genuine screenshot can hide the context needed to understand an event. A truthful anecdote can hide the scale needed to judge a broader claim. In both cases, the fallacy emerges when readers treat a fragment as the whole picture.
 
-Recognising this distinction helps separate two different questions that social media often merges together: whether a piece of evidence is authentic, and whether it actually proves the conclusion being claimed. Those questions are not the same, and confusing them is one of the easiest ways for viral misinformation to acquire the appearance of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central When and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
+Recognising this distinction helps separate two different questions that social media often merges together: whether a piece of evidence is authentic, and whether it actually proves the conclusion being claimed. Those questions are not the same, and confusing them is one of the easiest ways for viral misinformation to acquire the appearance of proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central When and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Screenshots Are Not Always Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Screenshots Are Not Always Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches readers how to evaluate evidence, context, and misleading presentations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers how to evaluate evidence, context, and misleading presentations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains anecdotal evidence, confirmation bias, and misinformation tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains anecdotal evidence, confirmation bias, and misinformation tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Covers hasty generalisations and other common reasoning mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers hasty generalisations and other common reasoning mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Counters overgeneralisation from vivid anecdotes and isolated examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counters overgeneralisation from vivid anecdotes and isolated examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/7626c228d79ee495c1d7.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 3x10 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is Now Extremeism Sticker, Globalist Resistance Patriotic"><img src="{{ '/assets/images/marketplace-covers/d2a6df3368d0e3de1216.jpg' | relative_url }}" alt="Listing image for Critical Thinking Is Now Extremeism Sticker, Globalist Resistance Patriotic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is Now Extremeism Sticker, Globalist Resistance Patriotic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is Now Extremeism Sticker, Globalist Resistance Patriotic"><img src="{{ '/assets/images/marketplace-covers/d2a6df3368d0e3de1216.jpg' | relative_url }}" alt="Listing image for Critical Thinking Is Now Extremeism Sticker, Globalist Resistance Patriotic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is Now Extremeism Sticker, Globalist Resistance Patriotic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker"><img src="{{ '/assets/images/marketplace-covers/58a0168f146291f85eea.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other National Deficit 2.5x8 Vinyl Bumper Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Vinyl Sticker Critical Thinking the Other National Deficit Rational Skeptic"><img src="{{ '/assets/images/marketplace-covers/e5bcc8c54c16bef7baf7.jpg' | relative_url }}" alt="Listing image for New Vinyl Sticker Critical Thinking the Other National Deficit Rational Skeptic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">New Vinyl Sticker Critical Thinking the Other National Deficit Rational Skeptic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Vinyl Sticker Critical Thinking the Other National Deficit Rational Skeptic"><img src="{{ '/assets/images/marketplace-covers/e5bcc8c54c16bef7baf7.jpg' | relative_url }}" alt="Listing image for New Vinyl Sticker Critical Thinking the Other National Deficit Rational Skeptic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">New Vinyl Sticker Critical Thinking the Other National Deficit Rational Skeptic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=screenshots-why-screenshots-are-not-always-evidence-logical-fallacies-critical-thinking-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -706,7 +706,7 @@ Recognising this distinction helps separate two different questions that social 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -726,7 +726,7 @@ Recognising this distinction helps separate two different questions that social 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -758,7 +758,7 @@ Recognising this distinction helps separate two different questions that social 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -788,7 +788,7 @@ Recognising this distinction helps separate two different questions that social 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -846,106 +846,106 @@ Recognising this distinction helps separate two different questions that social 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pbs.org  
    Title: out of context photos are a powerful low tech form of misinformation  
-   Link: <a href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: poynter.org  
    Title: why people still fall for fake screenshots  
-   Link: <a href="https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why people still fall for fake screenshots13 Feb 2020 — The surge of misinformation accompanying the coronavirus outbreak has incl...</p></details>
+   Link:<a href="https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why people still fall for fake screenshots13 Feb 2020 — The surge of misinformation accompanying the coronavirus outbreak has incl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribbr.com  
-   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</p></details>
+   Link:<a href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
    Title: types sources and claims covid 19 misinformation  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In this factsheet we identify some of the main types, sources, and clai...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In this factsheet we identify some of the main types, sources, and clai...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AAIB" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AAIB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Requests for comment/AI imagesIllustrating a living person with an AI-generated image might misinform as to how that person...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Wikipedia%3AAIB" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AAIB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Requests for comment/AI imagesIllustrating a living person with an AI-generated image might misinform as to how that person...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAnecdotal Evidence. This is fallacious generalizing on the basis of some story that provides...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAnecdotal Evidence. This is fallacious generalizing on the basis of some story that provides...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central When and why do people act on flawed science?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/124043941594409/posts/761926247806172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/124043941594409/posts/761926247806172/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes vs Data in Decision MakingThe problem with using anecdotes to make decisions is that the effects of an intervention can only be...</p></details>
+   Link:<a href="https://www.facebook.com/groups/124043941594409/posts/761926247806172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/124043941594409/posts/761926247806172/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes vs Data in Decision MakingThe problem with using anecdotes to make decisions is that the effects of an intervention can only be...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: Anecdotal evidence is very much *valid* evidence.The trendy sentiment that any anecdotal evidence MUST be invalid and the only valid...</p></details>
+   Link:<a href="https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: Anecdotal evidence is very much *valid* evidence.The trendy sentiment that any anecdotal evidence MUST be invalid and the only valid...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Screenshot Fallacy: Why Digital “Receipts” Often MisleadScreenshots feel like evidence, but without context, timing, and motive, they...</p></details>
+   Link:<a href="https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Screenshot Fallacy: Why Digital “Receipts” Often MisleadScreenshots feel like evidence, but without context, timing, and motive, they...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjISO-juArY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal Fallacy: A Data Point of One Is Not EvidenceWhy does one vivid customer story outweigh months of research? This week on the Cog...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjISO-juArY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal Fallacy: A Data Point of One Is Not EvidenceWhy does one vivid customer story outweigh months of research? This week on the Cog...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: Proceedings Dialnet SmartEthicsInTheDigitalWorld 969458  
-   Link: <a href="https://cris.maastrichtuniversity.nl/files/187261304/Proceedings_Dialnet-SmartEthicsInTheDigitalWorld-969458.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/187261304/Proceedings_Dialnet-SmartEthicsInTheDigitalWorld-969458.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>maastrichtuniversity.nl(Ref)using AI1 Jan 2024 — As the research has progressed, the context has shifted to online graduate students in c...</p></details>
+   Link:<a href="https://cris.maastrichtuniversity.nl/files/187261304/Proceedings_Dialnet-SmartEthicsInTheDigitalWorld-969458.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/187261304/Proceedings_Dialnet-SmartEthicsInTheDigitalWorld-969458.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>maastrichtuniversity.nl(Ref)using AI1 Jan 2024 — As the research has progressed, the context has shifted to online graduate students in c...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Sample-screenshots-of-the-top-of-an-article-about-a-true-left-and-false-right-claim_fig3_371348003" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Sample-screenshots-of-the-top-of-an-article-about-a-true-left-and-false-right-claim_fig3_371348003</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval practice is one way to increase memory, thus multiple-choice...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Sample-screenshots-of-the-top-of-an-article-about-a-true-left-and-false-right-claim_fig3_371348003" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Sample-screenshots-of-the-top-of-an-article-about-a-true-left-and-false-right-claim_fig3_371348003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval practice is one way to increase memory, thus multiple-choice...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/factcheckPH.assortedge/posts/manipulated-content-uses-real-factsbut-bends-them-just-enough-to-mislead-its-not/1108237698010220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/factcheckPH.assortedge/posts/manipulated-content-uses-real-factsbut-bends-them-just-enough-to-mislead-its-not/1108237698010220/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ctive visuals, or framing things to push a certain narrative.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/factcheckPH.assortedge/posts/manipulated-content-uses-real-factsbut-bends-them-just-enough-to-mislead-its-not/1108237698010220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/factcheckPH.assortedge/posts/manipulated-content-uses-real-factsbut-bends-them-just-enough-to-mislead-its-not/1108237698010220/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ctive visuals, or framing things to push a certain narrative.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newsinitiative.withgoogle.com  
-   Link: <a href="https://newsinitiative.withgoogle.com/resources/trainings/fact-check-explorer/" target="_blank" rel="noopener noreferrer nofollow">https://newsinitiative.withgoogle.com/resources/trainings/fact-check-explorer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact check images on Fact Check ExplorerFact Check Explorer gives journalists and fact checkers a deeper way to learn about an image or t...</p></details>
+   Link:<a href="https://newsinitiative.withgoogle.com/resources/trainings/fact-check-explorer/" target="_blank" rel="noopener noreferrer nofollow">https://newsinitiative.withgoogle.com/resources/trainings/fact-check-explorer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact check images on Fact Check ExplorerFact Check Explorer gives journalists and fact checkers a deeper way to learn about an image or t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: interaliaproject.com  
    Title: Social (Media) Inclusion  
-   Link: <a href="https://interaliaproject.com/wp-content/uploads/2021/03/SMI-Toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://interaliaproject.com/wp-content/uploads/2021/03/SMI-Toolkit.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inter AliaThis project rotates around the concept and perception of good and bad use of “social media” and the impact that this has on a...</p></details>
+   Link:<a href="https://interaliaproject.com/wp-content/uploads/2021/03/SMI-Toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://interaliaproject.com/wp-content/uploads/2021/03/SMI-Toolkit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inter AliaThis project rotates around the concept and perception of good and bad use of “social media” and the impact that this has on a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aclanthology.org  
    Title: 2026.eacl long.316  
-   Link: <a href="https://aclanthology.org/2026.eacl-long.316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2026.eacl-long.316.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven Emotional Framing Impairs Human Fallacy...by Y Chen · 2026 · Cited by 1 — [Logical fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) are common in public commu- nicati...</p></details>
+   Link:<a href="https://aclanthology.org/2026.eacl-long.316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2026.eacl-long.316.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven Emotional Framing Impairs Human Fallacy...by Y Chen · 2026 · Cited by 1 — [Logical fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) are common in public commu- nicati...</p></details>

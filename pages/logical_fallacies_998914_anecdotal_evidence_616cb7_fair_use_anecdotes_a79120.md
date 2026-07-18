@@ -277,7 +277,7 @@ image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_us
 Stories are often the most memorable part of an argument. A personal account can make an abstract issue concrete, reveal a problem that statistics overlook, or help readers understand what a broader pattern looks like in practice. The danger arises when anecdotes are selected because they support a conclusion while contrary cases are ignored. That practice—often called cherry-picking—creates the appearance of evidence without providing a fair picture of reality.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-dark.svg" | relative_url }}" alt="Fair Use illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Using anecdotes responsibly does not mean avoiding stories. It means matching the story to the claim. A well-used anecdote illustrates a pattern that is supported by broader evidence. A poorly used anecdote substitutes for evidence that is missing. The difference is central to avoiding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) based on anecdotal reasoning and hasty generalisation. Research in medicine, communication, and evidence evaluation consistently shows that anecdotes can be valuable as signals, examples, and hypothesis generators, but they become misleading when presented as proof of how things generally work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Anecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</span></span></span>
+Using anecdotes responsibly does not mean avoiding stories. It means matching the story to the claim. A well-used anecdote illustrates a pattern that is supported by broader evidence. A poorly used anecdote substitutes for evidence that is missing. The difference is central to avoiding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) based on anecdotal reasoning and hasty generalisation. Research in medicine, communication, and evidence evaluation consistently shows that anecdotes can be valuable as signals, examples, and hypothesis generators, but they become misleading when presented as proof of how things generally work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Anecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</span></span></span>
 
 ## Illustration, Signal, Analogy, and Proof: Know What Role the Story Plays
 
@@ -285,11 +285,11 @@ The safest way to use an anecdote is to be explicit about what it is doing in th
 
 An anecdote can serve as an **illustration**. For example, after presenting evidence that long waiting times affect access to healthcare, a patient's story can help readers understand the human [experience]({{ 'experience/' | relative_url }}) behind the statistics. The story does not establish the pattern; it helps readers visualise it.
 
-An anecdote can also function as a **signal**. In medicine, individual reports of unexpected side effects have often alerted researchers to possible problems long before large studies were available. Such reports do not prove causation, but they can identify questions worth investigating. Aronson argues that anecdotal reports have functions different from randomised trials because they can draw attention to previously unrecognised effects and generate hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnecdotes that provide definitive evidence</span><span class="citation-popover-snippet">that provide definitive evidence - PMCby JK Aronson · 2006 · Cited by 189 — Anecdotal reports of adverse drug reactions are generally reg...</span></span></span>
+An anecdote can also function as a **signal**. In medicine, individual reports of unexpected side effects have often alerted researchers to possible problems long before large studies were available. Such reports do not prove causation, but they can identify questions worth investigating. Aronson argues that anecdotal reports have functions different from randomised trials because they can draw attention to previously unrecognised effects and generate hypotheses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnecdotes that provide definitive evidence</span><span class="citation-popover-snippet">that provide definitive evidence - PMCby JK Aronson · 2006 · Cited by 189 — Anecdotal reports of adverse drug reactions are generally reg...</span></span></span>
 
 A story may also work as an **analogy**, helping readers grasp a concept through a concrete example. In this role, the anecdote is explanatory rather than evidential.
 
-What anecdotes rarely provide on their own is **proof**. A single success story cannot demonstrate that a treatment works for most people. A single failure cannot demonstrate that a policy is ineffective. Determining what is typical requires broader and more systematic evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
+What anecdotes rarely provide on their own is **proof**. A single success story cannot demonstrate that a treatment works for most people. A single failure cannot demonstrate that a policy is ineffective. Determining what is typical requires broader and more systematic evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
 A useful test is to ask: if the anecdote were removed, would the underlying claim still stand on independent evidence? If the answer is yes, the story is probably illustrating a case. If the answer is no, the story may be carrying more evidential weight than it deserves.
 
@@ -307,7 +307,7 @@ Several forms of supporting evidence are especially valuable:
 * **Systematic research.** Surveys, experiments, observational studies, or official records provide [context]({{ 'context/' | relative_url }}) that individual experiences cannot.
 * **Counterexamples.** Acknowledging cases that point in the opposite direction demonstrates that evidence has been considered fairly rather than selected selectively.
 
-In fields such as user research, practitioners routinely distinguish between qualitative insights from individual users and claims about how common a problem is. Observations from a few users can reveal important issues, but estimates of prevalence require broader measurement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">responding skepticism small usability tests</span><span class="citation-popover-snippet">Nielsen Norman GroupHow to Respond to Skepticism of Testing Small Groups...Feb 24, 2019 — Here are some techniques you can use to help t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">responding skepticism small usability tests</span><span class="citation-popover-snippet">Nielsen Norman GroupHow to Respond to Skepticism of Testing Small Groups...Feb 24, 2019 — Here are some techniques you can use to help t...</span></span></span>
+In fields such as user research, practitioners routinely distinguish between qualitative insights from individual users and claims about how common a problem is. Observations from a few users can reveal important issues, but estimates of prevalence require broader measurement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">responding skepticism small usability tests</span><span class="citation-popover-snippet">Nielsen Norman GroupHow to Respond to Skepticism of Testing Small Groups...Feb 24, 2019 — Here are some techniques you can use to help t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">responding skepticism small usability tests</span><span class="citation-popover-snippet">Nielsen Norman GroupHow to Respond to Skepticism of Testing Small Groups...Feb 24, 2019 — Here are some techniques you can use to help t...</span></span></span>
 
 The strongest arguments therefore combine stories and data. The story explains what the pattern looks like; the evidence shows whether the pattern actually exists.
 
@@ -318,13 +318,13 @@ Cherry-picking is not always deliberate. People naturally notice and remember vi
 
 Several common [mechanisms]({{ 'mechanisms/' | relative_url }}) produce distorted anecdotal arguments:
 
-**Memorable cases crowd out ordinary ones.** Dramatic successes and failures attract attention, while routine outcomes rarely become stories. As a result, the anecdotes available for discussion are often unrepresentative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
+**Memorable cases crowd out ordinary ones.** Dramatic successes and failures attract attention, while routine outcomes rarely become stories. As a result, the anecdotes available for discussion are often unrepresentative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
-**Self-selection shapes what gets reported.** People with strong experiences are more likely to speak up. Those with ordinary or neutral experiences may remain silent. This can create a misleading impression of what is typical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Anecdotes are not Evidence</span><span class="citation-popover-snippet">Anecdotes are not EvidenceMay 22, 2021 — Anecdotal evidence is evidence where small numbers of anecdotes are presented. There is...</span><span class="citation-popover-meta">Published: May 22, 2021</span></span></span>
+**Self-selection shapes what gets reported.** People with strong experiences are more likely to speak up. Those with ordinary or neutral experiences may remain silent. This can create a misleading impression of what is typical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Anecdotes are not Evidence</span><span class="citation-popover-snippet">Anecdotes are not EvidenceMay 22, 2021 — Anecdotal evidence is evidence where small numbers of anecdotes are presented. There is...</span><span class="citation-popover-meta">Published: May 22, 2021</span></span></span>
 
-**Confirmation bias influences collection.** Individuals often notice examples that support their existing beliefs more readily than examples that challenge them. Once a conclusion is favoured, supporting stories may be gathered enthusiastically while contradictory cases are overlooked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
+**Confirmation bias influences collection.** Individuals often notice examples that support their existing beliefs more readily than examples that challenge them. Once a conclusion is favoured, supporting stories may be gathered enthusiastically while contradictory cases are overlooked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
-**Availability affects judgement.** A vivid anecdote is easier to recall than a statistical summary. People may therefore overestimate the importance or frequency of events that are easy to imagine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span>
+**Availability affects judgement.** A vivid anecdote is easier to recall than a statistical summary. People may therefore overestimate the importance or frequency of events that are easy to imagine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span>
 
 Recognising these tendencies is essential because they can distort both the creation and the evaluation of anecdotal evidence.
 
@@ -369,274 +369,274 @@ When these signs appear together, the risk of cherry-picking increases substanti
 
 ## The Most Reliable Balance
 
-The most reliable use of anecdotes treats them as human examples embedded within a larger evidential picture. Stories can reveal possibilities, illustrate consequences, and motivate investigation. They can even identify important problems before formal research catches up. Yet they become persuasive without being trustworthy when they are selected selectively and detached from broader evidence. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Anecdotal reports, by which we mean either individual cases or small case series...Read more...</span></span></span>
+The most reliable use of anecdotes treats them as human examples embedded within a larger evidential picture. Stories can reveal possibilities, illustrate consequences, and motivate investigation. They can even identify important problems before formal research catches up. Yet they become persuasive without being trustworthy when they are selected selectively and detached from broader evidence. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Anecdotal reports, by which we mean either individual cases or small case series...Read more...</span></span></span>
 
 Avoiding cherry-picking therefore requires a simple discipline: let anecdotes show what happened in particular cases, and let systematic evidence determine how much those cases tell us about the world in general.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Use Stories Without Cherry Picking. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Use Stories Without Cherry Picking. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains anecdotes, evidence quality, bias, and how to evaluate claims responsibly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains anecdotes, evidence quality, bias, and how to evaluate claims responsibly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows why memorable stories can distort reasoning and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why memorable stories can distort reasoning and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches readers to distinguish illustration from proof and spot cherry-picking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to distinguish illustration from proof and spot cherry-picking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Highlights misleading presentation techniques and selective evidence use.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights misleading presentation techniques and selective evidence use.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-use-how-to-use-stories-without-cherry-picking-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -652,7 +652,7 @@ Avoiding cherry-picking therefore requires a simple discipline: let anecdotes sh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -672,7 +672,7 @@ Avoiding cherry-picking therefore requires a simple discipline: let anecdotes sh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -704,7 +704,7 @@ Avoiding cherry-picking therefore requires a simple discipline: let anecdotes sh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -734,7 +734,7 @@ Avoiding cherry-picking therefore requires a simple discipline: let anecdotes sh
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -792,109 +792,109 @@ Avoiding cherry-picking therefore requires a simple discipline: let anecdotes sh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAnecdotes that provide definitive evidence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>that provide definitive evidence - PMCby JK Aronson · 2006 · Cited by 189 — Anecdotal reports of adverse drug reactions are generally reg...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that provide definitive evidence - PMCby JK Aronson · 2006 · Cited by 189 — Anecdotal reports of adverse drug reactions are generally reg...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: linkedin.com  
    Title: Linked In Anecdotes are not Evidence  
-   Link: <a href="https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes are not EvidenceMay 22, 2021 — Anecdotal evidence is evidence where small numbers of anecdotes are presented. There is...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes are not EvidenceMay 22, 2021 — Anecdotal evidence is evidence where small numbers of anecdotes are presented. There is...</p></details>
    Published: May 22, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nngroup.com  
    Title: responding skepticism small usability tests  
-   Link: <a href="https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupHow to Respond to Skepticism of Testing Small Groups...Feb 24, 2019 — Here are some techniques you can use to help t...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupHow to Respond to Skepticism of Testing Small Groups...Feb 24, 2019 — Here are some techniques you can use to help t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/videos/maximize-user-research-insight/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/maximize-user-research-insight/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupHow to Maximize User Research Insight (Keynote address...Increase the reliability and validity of your research find...</p></details>
+   Link:<a href="https://www.nngroup.com/videos/maximize-user-research-insight/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/maximize-user-research-insight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupHow to Maximize User Research Insight (Keynote address...Increase the reliability and validity of your research find...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group First Rule of Usability?  
-   Link: <a href="https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Listen to UsersAug 4, 2001 — To design the best UX, pay attention to what users do, not what they say. Self-reported claims are unr...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Listen to UsersAug 4, 2001 — To design the best UX, pay attention to what users do, not what they say. Self-reported claims are unr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal reports, by which we mean either individual cases or small case series...Read more...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal reports, by which we mean either individual cases or small case series...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: philpharmblog.wordpress.com  
-   Link: <a href="https://philpharmblog.wordpress.com/wp-content/uploads/2016/09/aronson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpharmblog.wordpress.com/wp-content/uploads/2016/09/aronson.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Adverse Drug ReactionsIn this paper we detailed different types of between-the-eyes (or definitive) adverse drug reactions (Aronson JK...</p></details>
+   Link:<a href="https://philpharmblog.wordpress.com/wp-content/uploads/2016/09/aronson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpharmblog.wordpress.com/wp-content/uploads/2016/09/aronson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Adverse Drug ReactionsIn this paper we detailed different types of between-the-eyes (or definitive) adverse drug reactions (Aronson JK...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Anecdotes as evidenceWe need guidelines for reporting anecdotes of suspected adverse drug reactions... adverse reaction, listed on...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Anecdotes as evidenceWe need guidelines for reporting anecdotes of suspected adverse drug reactions... adverse reaction, listed on...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UXDesign/comments/1bodmk9/we_should_ignore_nn/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/1bodmk9/we_should_ignore_nn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We should ignore NN?: r/UXDesignWould love to have a discussion about this recent Medium article. I’ve not been following the personalit...</p></details>
+   Link:<a href="https://www.reddit.com/r/UXDesign/comments/1bodmk9/we_should_ignore_nn/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/1bodmk9/we_should_ignore_nn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We should ignore NN?: r/UXDesignWould love to have a discussion about this recent Medium article. I’ve not been following the personalit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/</a>  
+   Link:<a href="https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UXDesign/comments/1h06d6l/is_nngroup_trustable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/1h06d6l/is_nngroup_trustable/</a>  
+   Link:<a href="https://www.reddit.com/r/UXDesign/comments/1h06d6l/is_nngroup_trustable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/1h06d6l/is_nngroup_trustable/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nourishedbyscience.com  
    Title: Nourished by Science Is Anecdotal Evidence Valuable?  
-   Link: <a href="https://nourishedbyscience.com/is-anecdotal-evidence-valuable-5-reasons-to-be-cautious/" target="_blank" rel="noopener noreferrer nofollow">https://nourishedbyscience.com/is-anecdotal-evidence-valuable-5-reasons-to-be-cautious/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Reasons To be Cautious!10 Jun 2022 — So, the first big problem with anecdotes is that an anecdote doesn&#x27;t provide any data on how gener...</p></details>
+   Link:<a href="https://nourishedbyscience.com/is-anecdotal-evidence-valuable-5-reasons-to-be-cautious/" target="_blank" rel="noopener noreferrer nofollow">https://nourishedbyscience.com/is-anecdotal-evidence-valuable-5-reasons-to-be-cautious/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Reasons To be Cautious!10 Jun 2022 — So, the first big problem with anecdotes is that an anecdote doesn&#x27;t provide any data on how gener...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/videos/in-person-usability-testing/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/in-person-usability-testing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rs unique benefits, such as building rapport, observing non-verbal cues...</p></details>
+   Link:<a href="https://www.nngroup.com/videos/in-person-usability-testing/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/in-person-usability-testing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rs unique benefits, such as building rapport, observing non-verbal cues...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/PhilosophyofScience/comments/1xys7o/why_is_anecdotal_evidence_considered_to_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PhilosophyofScience/comments/1xys7o/why_is_anecdotal_evidence_considered_to_be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>represent a statistical cross section accurately. matts2.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/PhilosophyofScience/comments/1xys7o/why_is_anecdotal_evidence_considered_to_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PhilosophyofScience/comments/1xys7o/why_is_anecdotal_evidence_considered_to_be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>represent a statistical cross section accurately. matts2.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ovid.com  
    Title: When I use a word … Medical definitions  
-   Link: <a href="https://www.ovid.com/journals/bmjd/fulltext/10.1136/bmj.p1032~when-i-use-a-word-medical-definitions-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/bmjd/fulltext/10.1136/bmj.p1032~when-i-use-a-word-medical-definitions-pharmacovigilance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJby JK Aronson · 2023 · Cited by 4 — It is not therefore surprising that a lot of information about adverse events in people taking med...</p></details>
+   Link:<a href="https://www.ovid.com/journals/bmjd/fulltext/10.1136/bmj.p1032~when-i-use-a-word-medical-definitions-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/bmjd/fulltext/10.1136/bmj.p1032~when-i-use-a-word-medical-definitions-pharmacovigilance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMJby JK Aronson · 2023 · Cited by 4 — It is not therefore surprising that a lot of information about adverse events in people taking med...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/videos/opinions-expert-design-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/opinions-expert-design-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>identifying usability problems and strengths. Video Author...</p></details>
+   Link:<a href="https://www.nngroup.com/videos/opinions-expert-design-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/opinions-expert-design-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>identifying usability problems and strengths. Video Author...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/videos/dont-listen-to-customers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/dont-listen-to-customers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You must watch what people actually do when using your...</p></details>
+   Link:<a href="https://www.nngroup.com/videos/dont-listen-to-customers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/dont-listen-to-customers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You must watch what people actually do when using your...</p></details>

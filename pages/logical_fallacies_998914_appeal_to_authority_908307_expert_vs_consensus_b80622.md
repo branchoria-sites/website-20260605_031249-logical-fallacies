@@ -274,16 +274,16 @@ image: /assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert
 
 ## Introduction
 
-When people encounter a technical question they cannot evaluate directly, they often look to experts. This is reasonable, but it creates an important distinction within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}): the difference between relying on a single expert and relying on the broader judgement of a field. A qualified expert can provide valuable evidence, yet one expert's opinion is generally less reliable than a conclusion that has been tested, criticised, replicated, and accepted by a large proportion of relevant specialists. Scientific consensus is not proof, but it usually represents the strongest available expert-based evidence because it reflects collective scrutiny rather than individual authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scientific_consensus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scientific consensus</span><span class="citation-popover-snippet">December 30, 2025 — Scientific consensus is the collective judgment, position, and opinion of the vast majority of active, qualified expe...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+When people encounter a technical question they cannot evaluate directly, they often look to experts. This is reasonable, but it creates an important distinction within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}): the difference between relying on a single expert and relying on the broader judgement of a field. A qualified expert can provide valuable evidence, yet one expert's opinion is generally less reliable than a conclusion that has been tested, criticised, replicated, and accepted by a large proportion of relevant specialists. Scientific consensus is not proof, but it usually represents the strongest available expert-based evidence because it reflects collective scrutiny rather than individual authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scientific_consensus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scientific consensus</span><span class="citation-popover-snippet">December 30, 2025 — Scientific consensus is the collective judgment, position, and opinion of the vast majority of active, qualified expe...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-1-dark.svg" | relative_url }}" alt="Expert Consensus illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because appeals to authority become especially vulnerable when an argument treats one respected figure as decisive while ignoring the wider state of expert knowledge. Understanding why consensus normally carries greater weight helps readers avoid both blind trust in famous experts and the opposite mistake of dismissing expertise altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely...</span></span></span>
+This distinction matters because appeals to authority become especially vulnerable when an argument treats one respected figure as decisive while ignoring the wider state of expert knowledge. Understanding why consensus normally carries greater weight helps readers avoid both blind trust in famous experts and the opposite mistake of dismissing expertise altogether.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely...</span></span></span>
 
 ## Why Isolated Experts Can Mislead
 
-A single expert may be highly qualified and still be wrong. Scientific history contains many examples in which respected authorities defended positions later overturned by better evidence. Expertise increases the likelihood of being correct, but it does not eliminate error, bias, incomplete information, or attachment to established theories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from authority</span><span class="citation-popover-snippet">Argument from authority</span></span></span>
+A single expert may be highly qualified and still be wrong. Scientific history contains many examples in which respected authorities defended positions later overturned by better evidence. Expertise increases the likelihood of being correct, but it does not eliminate error, bias, incomplete information, or attachment to established theories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from authority</span><span class="citation-popover-snippet">Argument from authority</span></span></span>
 
-The problem is not merely that individuals make mistakes. Scientific knowledge advances through a process that exposes claims to criticism, replication, and independent testing. When only one authority is cited, readers cannot easily tell whether that person's view has survived these challenges. Consensus, by contrast, emerges after many researchers have had opportunities to examine and contest the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nap.nationalacademies.org">[National Academies Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nap.nationalacademies.org</span><span class="citation-popover-title">National Academies Publications Consensus Study Report</span><span class="citation-popover-snippet">National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</span></span></span>
+The problem is not merely that individuals make mistakes. Scientific knowledge advances through a process that exposes claims to criticism, replication, and independent testing. When only one authority is cited, readers cannot easily tell whether that person's view has survived these challenges. Consensus, by contrast, emerges after many researchers have had opportunities to examine and contest the evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nap.nationalacademies.org">[National Academies Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nap.nationalacademies.org</span><span class="citation-popover-title">National Academies Publications Consensus Study Report</span><span class="citation-popover-snippet">National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</span></span></span>
 
 Several factors can make isolated expert opinions misleading:
 
@@ -297,36 +297,36 @@ Several factors can make isolated expert opinions misleading:
 
 </div>
 
-The result is a common reasoning error: treating an individual expert as though they speak for an entire discipline when they may represent only one position within it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/authority.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Verecundiam (Argument from Authority) Explained with...Argumentum ad Verecundiam Fallacy (argument from inappropr...</span></span></span>
+The result is a common reasoning error: treating an individual expert as though they speak for an entire discipline when they may represent only one position within it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/authority.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Verecundiam (Argument from Authority) Explained with...Argumentum ad Verecundiam Fallacy (argument from inappropr...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3CiqA4srays" title="Is An Appeal To A Scientific Consensus Fallacious? | Mark-OR | Atheist Experience 25.43" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3CiqA4srays" target="_blank" rel="noopener noreferrer">Is An Appeal To A Scientific Consensus Fallacious? | Mark-OR | Atheist Experience 25.43</a></p><p class="youtube-embed-meta">Channel: The Atheist Experience &middot; Views: 17.5K &middot; Uploaded: October 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3CiqA4srays" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3CiqA4srays">Open on YouTube</a></p></div></div></div>
 
 ## How Consensus Strengthens Expert-Based Reasoning
 
-Scientific consensus is not a vote, a popularity contest, or a declaration by a central authority. Rather, it is the collective judgement that develops when evidence repeatedly points in the same direction and competing explanations fail to gain comparable support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scientific_consensus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scientific consensus</span><span class="citation-popover-snippet">December 30, 2025 — Scientific consensus is the collective judgment, position, and opinion of the vast majority of active, qualified expe...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+Scientific consensus is not a vote, a popularity contest, or a declaration by a central authority. Rather, it is the collective judgement that develops when evidence repeatedly points in the same direction and competing explanations fail to gain comparable support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scientific_consensus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scientific consensus</span><span class="citation-popover-snippet">December 30, 2025 — Scientific consensus is the collective judgment, position, and opinion of the vast majority of active, qualified expe...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
 Consensus deserves greater weight than a lone expert for several reasons.
 
-**Many minds test the claim.** Different researchers use different methods, datasets, and assumptions. Agreement across these independent efforts reduces the chance that a conclusion rests on a single mistake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nap.nationalacademies.org">[National Academies Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nap.nationalacademies.org</span><span class="citation-popover-title">National Academies Publications Consensus Study Report</span><span class="citation-popover-snippet">National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</span></span></span>
+**Many minds test the claim.** Different researchers use different methods, datasets, and assumptions. Agreement across these independent efforts reduces the chance that a conclusion rests on a single mistake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nap.nationalacademies.org">[National Academies Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nap.nationalacademies.org</span><span class="citation-popover-title">National Academies Publications Consensus Study Report</span><span class="citation-popover-snippet">National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</span></span></span>
 
-**Replication filters error.** Scientific communities routinely attempt to reproduce important findings. Conclusions that survive replication are generally more trustworthy than isolated claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nap.nationalacademies.org">[National Academies Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nap.nationalacademies.org</span><span class="citation-popover-title">National Academies Publications Consensus Study Report</span><span class="citation-popover-snippet">National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</span></span></span>
+**Replication filters error.** Scientific communities routinely attempt to reproduce important findings. Conclusions that survive replication are generally more trustworthy than isolated claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nap.nationalacademies.org">[National Academies Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nap.nationalacademies.org</span><span class="citation-popover-title">National Academies Publications Consensus Study Report</span><span class="citation-popover-snippet">National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</span></span></span>
 
-**Professional criticism is built in.** Researchers gain recognition by identifying weaknesses in existing explanations. A consensus therefore develops despite incentives to challenge prevailing ideas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</span></span></span>
+**Professional criticism is built in.** Researchers gain recognition by identifying weaknesses in existing explanations. A consensus therefore develops despite incentives to challenge prevailing ideas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</span></span></span>
 
-**Institutional review adds scrutiny.** Organisations such as the National Academies produce consensus reports that synthesise evidence through structured expert review rather than relying on the judgement of a single authority. These reports are designed to represent evidence-based collective assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIThe National Academies of SCIENCES</span><span class="citation-popover-snippet">MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dev.nap.edu/new/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dev.nap.edu">[2dev.nap.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dev.nap.edu</span><span class="citation-popover-snippet">New Releases &#124; The National Academies PressConsensus Study Reports: Consensus Study Reports published by the National Academies of Scienc...</span></span></span>
+**Institutional review adds scrutiny.** Organisations such as the National Academies produce consensus reports that synthesise evidence through structured expert review rather than relying on the judgement of a single authority. These reports are designed to represent evidence-based collective assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIThe National Academies of SCIENCES</span><span class="citation-popover-snippet">MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dev.nap.edu/new/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dev.nap.edu">[2dev.nap.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dev.nap.edu</span><span class="citation-popover-snippet">New Releases &#124; The National Academies PressConsensus Study Reports: Consensus Study Reports published by the National Academies of Scienc...</span></span></span>
 
-For this reason, many critical-thinking guides distinguish between "an expert says" and "the relevant expert community broadly agrees". The latter is usually much stronger evidence, even though it remains open to revision if new evidence emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Appeal to AuthorityIt&#x27;s important to note that this fallacy should not be used to dismiss the claims of experts, or scientific consensus....</span></span></span>
+For this reason, many critical-thinking guides distinguish between "an expert says" and "the relevant expert community broadly agrees". The latter is usually much stronger evidence, even though it remains open to revision if new evidence emerges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Appeal to AuthorityIt&#x27;s important to note that this fallacy should not be used to dismiss the claims of experts, or scientific consensus....</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-2-dark.svg" | relative_url }}" alt="Expert Consensus illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical Lessons: When Consensus Was Right and When It Changed
 
 A common objection is that scientific consensuses have sometimes turned out to be wrong. This is true, but the lesson is often misunderstood.
 
-Scientific progress does include episodes in which minority views eventually replaced established thinking. The discovery that the bacterium *Helicobacter pylori* plays a major role in many stomach ulcers is a famous example. Early claims faced scepticism, yet the idea gained acceptance because accumulating evidence persuaded the wider research community. Importantly, the breakthrough did not become accepted merely because a few experts insisted it was true; it became accepted when evidence convinced the field. Modern clinical guidelines and consensus statements now reflect that accumulated evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Helicobacter pylori: Consensus and Controversy</span><span class="citation-popover-snippet">Infection leads to a range of subclinical and clinical outcomes that depend on...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darmzentrum-bern.ch">[Darmzentrum Bern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darmzentrum-bern.ch</span><span class="citation-popover-snippet">Darmzentrum BernManagement of Helicobacter pylori infection—the...by F Bazzoli · 2016 · Cited by 4178 — In the Maastricht V/Florence Con...</span></span></span>
+Scientific progress does include episodes in which minority views eventually replaced established thinking. The discovery that the bacterium *Helicobacter pylori* plays a major role in many stomach ulcers is a famous example. Early claims faced scepticism, yet the idea gained acceptance because accumulating evidence persuaded the wider research community. Importantly, the breakthrough did not become accepted merely because a few experts insisted it was true; it became accepted when evidence convinced the field. Modern clinical guidelines and consensus statements now reflect that accumulated evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Helicobacter pylori: Consensus and Controversy</span><span class="citation-popover-snippet">Infection leads to a range of subclinical and clinical outcomes that depend on...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darmzentrum-bern.ch">[Darmzentrum Bern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darmzentrum-bern.ch</span><span class="citation-popover-snippet">Darmzentrum BernManagement of Helicobacter pylori infection—the...by F Bazzoli · 2016 · Cited by 4178 — In the Maastricht V/Florence Con...</span></span></span>
 
-This pattern reveals an important principle. Successful scientific dissent eventually changes consensus through evidence. It does not remain permanently isolated. A minority expert who is correct today typically becomes part of tomorrow's consensus once sufficient supporting evidence accumulates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nap.nationalacademies.org">[National Academies Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nap.nationalacademies.org</span><span class="citation-popover-title">National Academies Publications Consensus Study Report</span><span class="citation-popover-snippet">National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</span></span></span>
+This pattern reveals an important principle. Successful scientific dissent eventually changes consensus through evidence. It does not remain permanently isolated. A minority expert who is correct today typically becomes part of tomorrow's consensus once sufficient supporting evidence accumulates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nap.nationalacademies.org">[National Academies Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nap.nationalacademies.org</span><span class="citation-popover-title">National Academies Publications Consensus Study Report</span><span class="citation-popover-snippet">National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</span></span></span>
 
-The existence of past consensus errors therefore does not imply that isolated experts are usually right. In fact, most minority positions do not overturn prevailing views. What history shows is that consensus is revisable, not that all expert opinions deserve equal weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelogicofscience.com">[The Logic of Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelogicofscience.com</span><span class="citation-popover-title">the rules of logic part 6 appealing to authority vs deferring to experts</span><span class="citation-popover-snippet">The Logic of ScienceAppealing to Authority vs. Deferring to ExpertsMar 20, 2015 — A good rule of thumb is that you don&#x27;t need to be an ex...</span></span></span>
+The existence of past consensus errors therefore does not imply that isolated experts are usually right. In fact, most minority positions do not overturn prevailing views. What history shows is that consensus is revisable, not that all expert opinions deserve equal weight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelogicofscience.com">[The Logic of Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelogicofscience.com</span><span class="citation-popover-title">the rules of logic part 6 appealing to authority vs deferring to experts</span><span class="citation-popover-snippet">The Logic of ScienceAppealing to Authority vs. Deferring to ExpertsMar 20, 2015 — A good rule of thumb is that you don&#x27;t need to be an ex...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RSi-IQ0APxw" title="Appeal to scientific consensus is not a fallacious appeal to authority or popularity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RSi-IQ0APxw" target="_blank" rel="noopener noreferrer">Appeal to scientific consensus is not a fallacious appeal to authority or popularity</a></p><p class="youtube-embed-meta">Channel: Twisted &middot; Views: 437 &middot; Uploaded: May 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RSi-IQ0APxw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RSi-IQ0APxw">Open on YouTube</a></p></div></div></div>
 
@@ -334,7 +334,7 @@ The existence of past consensus errors therefore does not imply that isolated ex
 
 Expert disagreement is real, but its significance depends on the field and the question being asked.
 
-Some areas of science exhibit broad agreement on core conclusions while continuing to [debate]({{ 'debate/' | relative_url }}) details. Research on expert disagreement has found that outsiders often perceive more disagreement than specialists themselves report. Experts may strongly dispute [mechanisms]({{ 'mechanisms/' | relative_url }}), interpretations, or policy implications while still agreeing on fundamental findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</span></span></span>
+Some areas of science exhibit broad agreement on core conclusions while continuing to [debate]({{ 'debate/' | relative_url }}) details. Research on expert disagreement has found that outsiders often perceive more disagreement than specialists themselves report. Experts may strongly dispute [mechanisms]({{ 'mechanisms/' | relative_url }}), interpretations, or policy implications while still agreeing on fundamental findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</span></span></span>
 
 When encountering conflicting expert claims, several questions are useful:
 
@@ -350,281 +350,281 @@ When encountering conflicting expert claims, several questions are useful:
 
 These questions shift attention away from prestige and towards the structure of expert agreement itself.
 
-A practical rule is that disagreement among a handful of specialists does not necessarily undermine a well-established consensus. Conversely, when a field genuinely lacks consensus, appeals to any single authority become weaker because the relevant experts themselves remain divided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — The logic of appeals to credibl...</span></span></span>
+A practical rule is that disagreement among a handful of specialists does not necessarily undermine a well-established consensus. Conversely, when a field genuinely lacks consensus, appeals to any single authority become weaker because the relevant experts themselves remain divided.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — The logic of appeals to credibl...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-3-dark.svg" | relative_url }}" alt="Expert Consensus illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Avoiding the Fallacy
 
 Within the study of logical fallacies, the key mistake is not consulting experts. The mistake is treating authority as a substitute for evidence. A lone expert's opinion may be relevant evidence, but its weight depends on how it relates to the broader body of expert knowledge.
 
-When evaluating claims, it is generally more rational to ask, "What does the field conclude?" than "Which famous expert supports this view?" Consensus is not infallible, yet it incorporates the criticism, replication, and collective evaluation that make scientific knowledge more reliable than individual judgement alone. In arguments about science, the whole field usually deserves more evidential weight than any single authoritative voice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIThe National Academies of SCIENCES</span><span class="citation-popover-snippet">MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</span></span></span>
+When evaluating claims, it is generally more rational to ask, "What does the field conclude?" than "Which famous expert supports this view?" Consensus is not infallible, yet it incorporates the criticism, replication, and collective evaluation that make scientific knowledge more reliable than individual judgement alone. In arguments about science, the whole field usually deserves more evidential weight than any single authoritative voice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIThe National Academies of SCIENCES</span><span class="citation-popover-snippet">MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU_aMg73h90" title="UQx DENIAL101x 1.2.6.1 From the experts: Scientific consensus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU_aMg73h90" target="_blank" rel="noopener noreferrer">UQx DENIAL101x 1.2.6.1 From the experts: Scientific consensus</a></p><p class="youtube-embed-meta">Channel: UQx Denial101x Making Sense of Climate Science Denial &middot; Views: 7.8K &middot; Uploaded: April 2015 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU_aMg73h90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU_aMg73h90">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to One Expert or the Whole Field?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to One Expert or the Whole Field?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how evidence accumulates through scrutiny and testing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how evidence accumulates through scrutiny and testing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By James Surowiecki</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
+</h4>
+<p class="fr-book-author">By James Surowiecki</p>
         
-        <p class="fr-book-desc">Directly relates to consensus versus individual authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to consensus versus individual authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explores expert judgment, confidence, and error.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores expert judgment, confidence, and error.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PqMgDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Steven A. Sloman, Philip Fernbach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PqMgDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
+</h4>
+<p class="fr-book-author">By Steven A. Sloman, Philip Fernbach</p>
         
-        <p class="fr-book-desc">Shows how knowledge often resides in communities rather than individuals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how knowledge often resides in communities rather than individuals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="{{ '/assets/images/marketplace-covers/da90b012129e599c7ecd.jpg' | relative_url }}" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="{{ '/assets/images/marketplace-covers/da90b012129e599c7ecd.jpg' | relative_url }}" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-consensus-one-expert-or-the-whole-field-logical-fallacies-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -640,7 +640,7 @@ When evaluating claims, it is generally more rational to ask, "What does the fie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -660,7 +660,7 @@ When evaluating claims, it is generally more rational to ask, "What does the fie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -692,7 +692,7 @@ When evaluating claims, it is generally more rational to ask, "What does the fie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -722,7 +722,7 @@ When evaluating claims, it is generally more rational to ask, "What does the fie
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -780,138 +780,138 @@ When evaluating claims, it is generally more rational to ask, "What does the fie
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Scientific consensus  
-   Link: <a href="https://en.wikipedia.org/wiki/Scientific_consensus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scientific_consensus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 30, 2025 — Scientific consensus is the collective judgment, position, and opinion of the vast majority of active, qualified expe...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Scientific_consensus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scientific_consensus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 30, 2025 — Scientific consensus is the collective judgment, position, and opinion of the vast majority of active, qualified expe...</p></details>
    Published: December 30, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: [appeal to authority](&#123;&#123; 'authority/' | relative_url &#125;&#125;) fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIThe National Academies of SCIENCES  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK424919/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK424919/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dev.nap.edu  
-   Link: <a href="https://dev.nap.edu/new/" target="_blank" rel="noopener noreferrer nofollow">https://dev.nap.edu/new/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Releases | The National Academies PressConsensus Study Reports: Consensus Study Reports published by the National Academies of Scienc...</p></details>
+   Link:<a href="https://dev.nap.edu/new/" target="_blank" rel="noopener noreferrer nofollow">https://dev.nap.edu/new/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Releases | The National Academies PressConsensus Study Reports: Consensus Study Reports published by the National Academies of Scienc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
+   Link:<a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — The logic of appeals to credibl...</p></details>
+   Link:<a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — The logic of appeals to credibl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Helicobacter pylori: Consensus and Controversy  
-   Link: <a href="https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infection leads to a range of subclinical and clinical outcomes that depend on...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infection leads to a range of subclinical and clinical outcomes that depend on...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: darmzentrum-bern.ch  
-   Link: <a href="https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Darmzentrum BernManagement of Helicobacter pylori infection—the...by F Bazzoli · 2016 · Cited by 4178 — In the Maastricht V/Florence Con...</p></details>
+   Link:<a href="https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Darmzentrum BernManagement of Helicobacter pylori infection—the...by F Bazzoli · 2016 · Cited by 4178 — In the Maastricht V/Florence Con...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.01889</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</p></details>
+   Link:<a href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.01889</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358790324_Widespread_use_of_National_Academies_consensus_reports_by_the_American_public" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358790324_Widespread_use_of_National_Academies_consensus_reports_by_the_American_public</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ation, although they lack evidence for this.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358790324_Widespread_use_of_National_Academies_consensus_reports_by_the_American_public" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358790324_Widespread_use_of_National_Academies_consensus_reports_by_the_American_public</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ation, although they lack evidence for this.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/process</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</p></details>
+   Link:<a href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nap.nationalacademies.org  
    Title: National Academies Publications Consensus Study Report  
-   Link: <a href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nap.nationalacademies.org/resource/25303/R%26R.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</p></details>
+   Link:<a href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nap.nationalacademies.org/resource/25303/R%26R.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/authority.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/authority.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Verecundiam (Argument from Authority) Explained with...Argumentum ad Verecundiam Fallacy (argument from inappropr...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/authority.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/authority.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Verecundiam (Argument from Authority) Explained with...Argumentum ad Verecundiam Fallacy (argument from inappropr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thelogicofscience.com  
    Title: the rules of logic part 6 appealing to authority vs deferring to experts  
-   Link: <a href="https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/" target="_blank" rel="noopener noreferrer nofollow">https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic of ScienceAppealing to Authority vs. Deferring to ExpertsMar 20, 2015 — A good rule of thumb is that you don&#x27;t need to be an ex...</p></details>
+   Link:<a href="https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/" target="_blank" rel="noopener noreferrer nofollow">https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic of ScienceAppealing to Authority vs. Deferring to ExpertsMar 20, 2015 — A good rule of thumb is that you don&#x27;t need to be an ex...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority ought to include Expert ConsensusDeferring an argument to authority is rational. Arguing that something is true becau...</p></details>
+   Link:<a href="https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority ought to include Expert ConsensusDeferring an argument to authority is rational. Arguing that something is true becau...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fallacyguide.com  
-   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without eviden...</p></details>
+   Link:<a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without eviden...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: web-archive.southampton.ac.uk  
-   Link: <a href="https://web-archive.southampton.ac.uk/cogprints.org/677/1/ulcers.htm" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/677/1/ulcers.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>P Thagard · Cited by 139 — This paper is the first of two that discuss the development and reception of the bacterial theory of ulcers fr...</p></details>
+   Link:<a href="https://web-archive.southampton.ac.uk/cogprints.org/677/1/ulcers.htm" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/677/1/ulcers.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>P Thagard · Cited by 139 — This paper is the first of two that discuss the development and reception of the bacterial theory of ulcers fr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=RSi-IQ0APxw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RSi-IQ0APxw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific consensus appeal to authority fallacy Is An Appeal To A Scientific Consensus Fallacious? | Mark-OR | Atheist [Experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) 25.43...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=RSi-IQ0APxw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RSi-IQ0APxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific consensus appeal to authority fallacy Is An Appeal To A Scientific Consensus Fallacious? | Mark-OR | Atheist [Experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) 25.43...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: philosophy.stackexchange.com  
    Title: I googled a lot but didn't find any discrete difference between them  
-   Link: <a href="https://philosophy.stackexchange.com/questions/91672/logical-fallacies-difference-between-appeal-to-popularity-and-appeal-to-authori" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/91672/logical-fallacies-difference-between-appeal-to-popularity-and-appeal-to-authori</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Difference between Appeal to popularity...14 Jun 2022 — What is the difference between Ad populum and Ad Verecundiam?...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/91672/logical-fallacies-difference-between-appeal-to-popularity-and-appeal-to-authori" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/91672/logical-fallacies-difference-between-appeal-to-popularity-and-appeal-to-authori</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Difference between Appeal to popularity...14 Jun 2022 — What is the difference between Ad populum and Ad Verecundiam?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: philosophy.stackexchange.com  
    Title: is any appeal to legitimate authority a fallacy  
-   Link: <a href="https://philosophy.stackexchange.com/questions/136563/is-any-appeal-to-legitimate-authority-a-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/136563/is-any-appeal-to-legitimate-authority-a-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[duplicate]23 Feb 2026 — Yes, if you are trying to say that it is certainly true. But the word of a legitimate authority is a legitimate...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/136563/is-any-appeal-to-legitimate-authority-a-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/136563/is-any-appeal-to-legitimate-authority-a-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[duplicate]23 Feb 2026 — Yes, if you are trying to say that it is certainly true. But the word of a legitimate authority is a legitimate...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ity&#x27;. The reason people see the appeal to authority...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ity&#x27;. The reason people see the appeal to authority...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/2cb0/c3511ea624f93d530e816848eae668ba2b30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/2cb0/c3511ea624f93d530e816848eae668ba2b30.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some guidelines encourage more aggressive H pylori...Read more...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/2cb0/c3511ea624f93d530e816848eae668ba2b30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/2cb0/c3511ea624f93d530e816848eae668ba2b30.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some guidelines encourage more aggressive H pylori...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ds-wordpress.haverford.edu  
    Title: expert opinionappeal to authority  
-   Link: <a href="https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow">https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion/Appeal to Authority | Science ExposedNot all appeals to authority are fallacious; if the authority that is appealed to is an expe...</p></details>
+   Link:<a href="https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow">https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion/Appeal to Authority | Science ExposedNot all appeals to authority are fallacious; if the authority that is appealed to is an expe...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=3CiqA4srays" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3CiqA4srays</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority: When trusting experts becomes a logical fallacy...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=3CiqA4srays" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3CiqA4srays</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority: When trusting experts becomes a logical fallacy...</p></details>

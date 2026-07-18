@@ -504,7 +504,7 @@ image: /assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-overv
 Product safety responses become a [red herring]({{ 'red-herring/' | relative_url }}) when a company answers a concrete safety question with something that sounds reassuring but does not actually address the risk. The issue is not whether the company has good employees, a loved brand, strong values, charitable projects, environmental goals or impressive overall safety statistics. The issue is whether the response deals with the specific hazard, evidence, affected users, corrective action and accountability at stake.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-overview.webp" | relative_url }}" alt="Overview image for Safety Claims" loading="eager" decoding="sync" fetchpriority="high">
-This matters because safety controversies often unfold under uncertainty. A product may be under investigation, a recall may be disputed, or the company may believe the public has misunderstood the risk. In that setting, a brand message can look like an answer while quietly changing the subject. In fallacy terms, this is a red herring: an irrelevant or weakly relevant point that diverts attention from the original question. The Internet Encyclopedia of Philosophy describes this kind of “smokescreen” as bringing up an irrelevant issue to obscure the point or cover counter-evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because safety controversies often unfold under uncertainty. A product may be under investigation, a recall may be disputed, or the company may believe the public has misunderstood the risk. In that setting, a brand message can look like an answer while quietly changing the subject. In fallacy terms, this is a red herring: an irrelevant or weakly relevant point that diverts attention from the original question. The Internet Encyclopedia of Philosophy describes this kind of “smokescreen” as bringing up an irrelevant issue to obscure the point or cover counter-evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The safety question
 
@@ -514,7 +514,7 @@ A red herring response shifts from that narrow question to a broader reputationa
 
 Those statements are not automatically false. They may even be partly relevant as background. The fallacy appears when they are used as substitutes for the missing answer. A good brand, a large dataset or a general safety mission does not prove that the product at issue is acceptably safe in the specific circumstances being questioned.
 
-Regulators often frame safety communication in this narrower way. The US Consumer Product Safety Commission says companies must report potentially reportable product hazards within 24 hours of obtaining reportable information, and it encourages reporting even while a company’s own investigation continues. If a company is unsure whether the regulator has been adequately informed, the CPSC says it must report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That standard leaves little room for a public-relations detour: the important question is not whether the company is admired, but whether the potential hazard has been disclosed and controlled.
+Regulators often frame safety communication in this narrower way. The US Consumer Product Safety Commission says companies must report potentially reportable product hazards within 24 hours of obtaining reportable information, and it encourages reporting even while a company’s own investigation continues. If a company is unsure whether the regulator has been adequately informed, the CPSC says it must report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That standard leaves little room for a public-relations detour: the important question is not whether the company is admired, but whether the potential hazard has been disclosed and controlled.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-1-dark.svg" | relative_url }}" alt="Safety Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Unrelated positives
@@ -525,7 +525,7 @@ Red herrings in product safety often work because the positive claims are emotio
 
 **“Millions of customers use the product successfully.”** Scale can matter, but it does not answer whether a particular defect creates an unacceptable risk for a smaller group. A low-frequency hazard can still justify action if the likely injury is severe, the user cannot reasonably detect the danger, or the exposed group includes children, patients or other vulnerable users.
 
-**“Our overall statistics are better than the industry average.”** Aggregate statistics may mislead when the comparison group is wrong. Reuters’ 2026 investigation of Tesla’s Full Self-Driving safety claims reported that Tesla compared crashes involving airbag deployments in its own vehicles with broader federal crash data that included less severe crashes, and that researchers considered the method misleading. The same report noted that Tesla’s site still warned that the system required active driver supervision and did not make the vehicle autonomous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The red herring risk is clear: a favourable headline statistic can distract from whether the compared data actually measure the same thing.
+**“Our overall statistics are better than the industry average.”** Aggregate statistics may mislead when the comparison group is wrong. Reuters’ 2026 investigation of Tesla’s Full Self-Driving safety claims reported that Tesla compared crashes involving airbag deployments in its own vehicles with broader federal crash data that included less severe crashes, and that researchers considered the method misleading. The same report noted that Tesla’s site still warned that the system required active driver supervision and did not make the vehicle autonomous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The red herring risk is clear: a favourable headline statistic can distract from whether the compared data actually measure the same thing.
 
 **“We are innovating for a better future.”** Future benefits are not a present safety answer. A product may promise fewer crashes, cleaner energy or improved health outcomes in the long term, but the immediate question is whether today’s product, as sold and used, is safe enough and accurately described.
 
@@ -539,22 +539,22 @@ A response is not fallacious merely because it includes [context]({{ 'context/' 
 
 The difference can be tested with a simple question: after hearing the response, does the audience know more about the specific risk than before? A proper answer should clarify the product, the incident pattern, the level of evidence, the immediate advice to users, the regulator’s role and the corrective path. A red herring leaves those matters vague while making the company sound responsible.
 
-[Advertising]({{ 'advertising/' | relative_url }}) and consumer-protection rules show the same concern in a different setting. The US Federal Trade Commission states that advertisers must substantiate express and implied objective claims about products or services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In health-related product marketing, FTC staff guidance says claims about benefits or safety should be truthful, not misleading and supported by science, with safety claims generally requiring competent and reliable scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The principle is broader than health products: when a company makes an objective safety-relevant claim, the persuasive burden is evidence, not atmosphere.
+[Advertising]({{ 'advertising/' | relative_url }}) and consumer-protection rules show the same concern in a different setting. The US Federal Trade Commission states that advertisers must substantiate express and implied objective claims about products or services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In health-related product marketing, FTC staff guidance says claims about benefits or safety should be truthful, not misleading and supported by science, with safety claims generally requiring competent and reliable scientific evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The principle is broader than health products: when a company makes an objective safety-relevant claim, the persuasive burden is evidence, not atmosphere.
 
-Environmental marketing offers a useful parallel because it shows how unrelated positives can crowd out product-specific facts. The European Commission has reported that 53% of green claims examined gave vague, misleading or unfounded information, and 40% had no supporting evidence. Its green-claims work aims to make environmental labels and claims reliable, comparable and verifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: environment.ec.europa.eu">[Environment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">environment.ec.europa.eu</span><span class="citation-popover-title">Environment Green claims</span><span class="citation-popover-snippet">Environment Green claims</span></span></span> In product safety debates, “safety-washing” can work similarly: broad virtue language makes the brand feel safer without demonstrating that the particular hazard has been fixed.
+Environmental marketing offers a useful parallel because it shows how unrelated positives can crowd out product-specific facts. The European Commission has reported that 53% of green claims examined gave vague, misleading or unfounded information, and 40% had no supporting evidence. Its green-claims work aims to make environmental labels and claims reliable, comparable and verifiable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: environment.ec.europa.eu">[Environment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">environment.ec.europa.eu</span><span class="citation-popover-title">Environment Green claims</span><span class="citation-popover-snippet">Environment Green claims</span></span></span> In product safety debates, “safety-washing” can work similarly: broad virtue language makes the brand feel safer without demonstrating that the particular hazard has been fixed.
 
 ## A case pattern: Peloton Tread+
 
-The Peloton Tread+ controversy shows how a product safety dispute can become a relevance test. In April 2021, the US CPSC issued an urgent warning telling consumers with small children or pets to stop using the Tread+ after reports of injuries and a child’s death. Peloton initially rejected the agency’s claims as “inaccurate and misleading” and said it had urged members to follow warnings and safety instructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[Peloton Interactive, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Peloton Tread+ controversy shows how a product safety dispute can become a relevance test. In April 2021, the US CPSC issued an urgent warning telling consumers with small children or pets to stop using the Tread+ after reports of injuries and a child’s death. Peloton initially rejected the agency’s claims as “inaccurate and misleading” and said it had urged members to follow warnings and safety instructions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[Peloton Interactive, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That response addressed part of the issue: warnings and safe-use instructions are relevant to household exercise equipment. But it did not fully answer the sharper safety question: whether the product’s design and foreseeable home use created a serious hazard even when customers might not perfectly control children, pets and objects near the machine. In May 2021, Peloton and the CPSC announced recalls of the Tread+ and Tread. Later, Peloton’s chief executive said the company had made a mistake in its initial response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/peloton-treadmill-recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Peloton Recalls Treadmills After Dozens of Injuries and a Child Death</span><span class="citation-popover-snippet">Peloton Recalls Treadmills After Dozens of Injuries and a Child Death</span></span></span>
+That response addressed part of the issue: warnings and safe-use instructions are relevant to household exercise equipment. But it did not fully answer the sharper safety question: whether the product’s design and foreseeable home use created a serious hazard even when customers might not perfectly control children, pets and objects near the machine. In May 2021, Peloton and the CPSC announced recalls of the Tread+ and Tread. Later, Peloton’s chief executive said the company had made a mistake in its initial response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/peloton-treadmill-recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Peloton Recalls Treadmills After Dozens of Injuries and a Child Death</span><span class="citation-popover-snippet">Peloton Recalls Treadmills After Dozens of Injuries and a Child Death</span></span></span>
 
 The case illustrates a common red herring move: shifting from “Is the product unreasonably dangerous in real homes?” to “Did users follow the warnings?” The second question can matter, but it cannot carry the whole argument. Product safety is not only about ideal use; it is also about reasonably foreseeable use and the severity of harm when things go wrong.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-2-dark.svg" | relative_url }}" alt="Safety Claims illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A case pattern: Boeing 737 MAX
 
-The Boeing 737 MAX crashes are not a simple advertising example, but they show why general safety assurances can fail as answers. After two crashes killed 346 people and led to the worldwide grounding of the aircraft, the US House Committee on Transportation and Infrastructure launched an investigation focused on accountability, transparency in certification and the safety of the travelling public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats-transportation.house.gov">[House Transpo Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats-transportation.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Boeing 737 MAX crashes are not a simple advertising example, but they show why general safety assurances can fail as answers. After two crashes killed 346 people and led to the worldwide grounding of the aircraft, the US House Committee on Transportation and Infrastructure launched an investigation focused on accountability, transparency in certification and the safety of the travelling public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats-transportation.house.gov">[House Transpo Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats-transportation.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In such a setting, a company’s statement that it is committed to safety is not useless, but it is radically insufficient. The relevant questions concern design decisions, pilot information, certification assumptions, internal communication, regulator oversight and post-accident action. A safety pledge becomes a red herring if it moves attention away from whether the organisation identified, disclosed and corrected the specific failure path.
 
@@ -562,9 +562,9 @@ The 737 MAX example also shows why “culture” language can cut both ways. A g
 
 ## A case pattern: Tesla safety statistics
 
-Tesla’s Full Self-Driving and Autopilot communications show a more statistical form of red herring. The company publishes a safety report built around vehicle telemetry, miles driven, road classifications and collision events. It also states that older Tesla vehicles without active safety features serve as a proxy for the average US vehicle because the average US vehicle is around 12 years old. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tesla.com">[Tesla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tesla.com</span><span class="citation-popover-title">Full Self-Driving (Supervised) Vehicle Safety Report &#124; Tesla</span><span class="citation-popover-snippet">Full Self-Driving (Supervised) Vehicle Safety Report &#124; Tesla</span></span></span>
+Tesla’s Full Self-Driving and Autopilot communications show a more statistical form of red herring. The company publishes a safety report built around vehicle telemetry, miles driven, road classifications and collision events. It also states that older Tesla vehicles without active safety features serve as a proxy for the average US vehicle because the average US vehicle is around 12 years old.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tesla.com">[Tesla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tesla.com</span><span class="citation-popover-title">Full Self-Driving (Supervised) Vehicle Safety Report &#124; Tesla</span><span class="citation-popover-snippet">Full Self-Driving (Supervised) Vehicle Safety Report &#124; Tesla</span></span></span>
 
-That kind of data presentation may look directly relevant because it uses safety metrics. The red herring risk lies in the comparison. Reuters reported in May 2026 that Tesla leaders had claimed Full Self-Driving was up to 10 times safer than human drivers, while researchers criticised the methodology as using invalid comparisons, including comparing Tesla airbag-deployment crashes with broader federal crash data. Reuters also reported that former Tesla data labelers said the system still struggled with basic tasks such as school buses, emergency vehicles and pedestrians. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That kind of data presentation may look directly relevant because it uses safety metrics. The red herring risk lies in the comparison. Reuters reported in May 2026 that Tesla leaders had claimed Full Self-Driving was up to 10 times safer than human drivers, while researchers criticised the methodology as using invalid comparisons, including comparing Tesla airbag-deployment crashes with broader federal crash data. Reuters also reported that former Tesla data labelers said the system still struggled with basic tasks such as school buses, emergency vehicles and pedestrians.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a reader evaluating the argument, the lesson is not simply “statistics can lie”. It is more precise: safety statistics answer the question only if they compare like with like. Relevant variables include road type, vehicle age, driver selection, when the system is enabled or disabled, crash severity, geography, weather, supervision requirements and whether the system is truly autonomous. A large number can be a red herring when the underlying denominator or comparison group does not match the claim.
 
@@ -604,269 +604,269 @@ This is where fallacy analysis becomes practical. Calling something a red herrin
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/le_5I_yHgGw" title="Watch live: Boeing&#x27;s CEO testifies to Senate on 737 MAX crashes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=le_5I_yHgGw" target="_blank" rel="noopener noreferrer">Watch live: Boeing&#x27;s CEO testifies to Senate on 737 MAX crashes</a></p><p class="youtube-embed-meta">Channel: Washington Post &middot; Views: 148.5K &middot; Uploaded: October 2019 &middot; Length: 3 hours 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=le_5I_yHgGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=le_5I_yHgGw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Answer Address Safety?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Answer Address Safety?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches how to identify responses that avoid the real issue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to identify responses that avoid the real issue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Directly relevant to diversionary argument strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to diversionary argument strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Helps readers distinguish evidence from distraction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish evidence from distraction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Explains common reasoning errors that support red herrings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common reasoning errors that support red herrings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/883364da12ef59c4e70f.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/883364da12ef59c4e70f.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Director T Shirt - Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/139c5c65b857dec6bd7b.jpg' | relative_url }}" alt="Listing image for Quality Control Director T Shirt - Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Director T Shirt - Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Director T Shirt - Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/139c5c65b857dec6bd7b.jpg' | relative_url }}" alt="Listing image for Quality Control Director T Shirt - Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Director T Shirt - Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspector T Shirt - Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/92ace77caeca06250f63.jpg' | relative_url }}" alt="Listing image for Quality Control Inspector T Shirt - Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspector T Shirt - Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspector T Shirt - Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/92ace77caeca06250f63.jpg' | relative_url }}" alt="Listing image for Quality Control Inspector T Shirt - Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspector T Shirt - Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/42a6a06d7194a4a3468f.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/42a6a06d7194a4a3468f.jpg' | relative_url }}" alt="Listing image for Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Quality Control Inspecialist T Shir Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quality control poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: quality control poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quality+control+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-claims-did-the-answer-address-safety-logical-fallacies-quality-control-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -882,7 +882,7 @@ This is where fallacy analysis becomes practical. Calling something a red herrin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -902,7 +902,7 @@ This is where fallacy analysis becomes practical. Calling something a red herrin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -934,7 +934,7 @@ This is where fallacy analysis becomes practical. Calling something a red herrin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -964,7 +964,7 @@ This is where fallacy analysis becomes practical. Calling something a red herrin
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1022,138 +1022,138 @@ This is where fallacy analysis becomes practical. Calling something a red herrin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities</a>  
+   Link:<a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/</a>  
+   Link:<a href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tesla.com  
    Title: Full Self-Driving (Supervised) Vehicle Safety Report | Tesla  
-   Link: <a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer nofollow">https://www.tesla.com/fsd/safety</a>  
+   Link:<a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer nofollow">https://www.tesla.com/fsd/safety</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
+   Link:<a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: Peloton Recalls Treadmills After Dozens of Injuries and a Child Death  
-   Link: <a href="https://www.wired.com/story/peloton-treadmill-recall" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/peloton-treadmill-recall</a>  
+   Link:<a href="https://www.wired.com/story/peloton-treadmill-recall" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/peloton-treadmill-recall</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: democrats-transportation.house.gov  
-   Link: <a href="https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation" target="_blank" rel="noopener noreferrer nofollow">https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation</a>  
+   Link:<a href="https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation" target="_blank" rel="noopener noreferrer nofollow">https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf</a>  
+   Link:<a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/Recalls" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Recalls</a>  
+   Link:<a href="https://www.cpsc.gov/Recalls" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Recalls</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/s3fs-public/8002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/8002.pdf</a>  
+   Link:<a href="https://www.cpsc.gov/s3fs-public/8002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/8002.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU</a>  
+   Link:<a href="https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-Repair-Approved-Protects-Consumers-from-Entrapment-Hazards-One-Child-Death-and-90-Injuries-Reported" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-Repair-Approved-Protects-Consumers-from-Entrapment-Hazards-One-Child-Death-and-90-Injuries-Reported</a>  
+   Link:<a href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-Repair-Approved-Protects-Consumers-from-Entrapment-Hazards-One-Child-Death-and-90-Injuries-Reported" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-Repair-Approved-Protects-Consumers-from-Entrapment-Hazards-One-Child-Death-and-90-Injuries-Reported</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: transportation.gov  
    Title: faa oversight boeings broken safety culture 0  
-   Link: <a href="https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0</a>  
+   Link:<a href="https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: environment.ec.europa.eu  
    Title: Environment Green claims  
-   Link: <a href="https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en" target="_blank" rel="noopener noreferrer nofollow">https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en</a>  
+   Link:<a href="https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en" target="_blank" rel="noopener noreferrer nofollow">https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: investor.onepeloton.com  
    Title: peloton refutes consumer product safety commission claims  
-   Link: <a href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow">https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/</a>  
+   Link:<a href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow">https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: electrek.co  
-   Link: <a href="https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/</a>  
+   Link:<a href="https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tracker.carbongap.org  
    Title: green claims  
-   Link: <a href="https://tracker.carbongap.org/policy/green-claims/" target="_blank" rel="noopener noreferrer nofollow">https://tracker.carbongap.org/policy/green-claims/</a>  
+   Link:<a href="https://tracker.carbongap.org/policy/green-claims/" target="_blank" rel="noopener noreferrer nofollow">https://tracker.carbongap.org/policy/green-claims/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: autosafety.org  
-   Link: <a href="https://www.autosafety.org/tesla-autopilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.autosafety.org/tesla-autopilot/</a>  
+   Link:<a href="https://www.autosafety.org/tesla-autopilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.autosafety.org/tesla-autopilot/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: silicon.co.uk  
    Title: tesla ordered to provide nhtsa with autopilot recall data 563036  
-   Link: <a href="https://www.silicon.co.uk/e-innovation/green-it/tesla-ordered-to-provide-nhtsa-with-autopilot-recall-data-563036" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/e-innovation/green-it/tesla-ordered-to-provide-nhtsa-with-autopilot-recall-data-563036</a>  
+   Link:<a href="https://www.silicon.co.uk/e-innovation/green-it/tesla-ordered-to-provide-nhtsa-with-autopilot-recall-data-563036" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/e-innovation/green-it/tesla-ordered-to-provide-nhtsa-with-autopilot-recall-data-563036</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/nation/tesla-recalls-nearly-all-u-s-vehicles-to-fix-system-that-monitors-drivers-using-autopilot-after-investigation-into-deadly-crashes" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/nation/tesla-recalls-nearly-all-u-s-vehicles-to-fix-system-that-monitors-drivers-using-autopilot-after-investigation-into-deadly-crashes</a>  
+   Link:<a href="https://www.pbs.org/newshour/nation/tesla-recalls-nearly-all-u-s-vehicles-to-fix-system-that-monitors-drivers-using-autopilot-after-investigation-into-deadly-crashes" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/nation/tesla-recalls-nearly-all-u-s-vehicles-to-fix-system-that-monitors-drivers-using-autopilot-after-investigation-into-deadly-crashes</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EbdpkAHcA48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EbdpkAHcA48</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendations for Navigating the Red Herring Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EbdpkAHcA48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EbdpkAHcA48</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendations for Navigating the Red Herring Fallacy...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Red Herring (Logical Fallacy)  
-   Link: <a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZggiwS7iv2A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring Fallacy Explained: Why Conversations Go Off Track (And How to Stay Focused)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZggiwS7iv2A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring Fallacy Explained: Why Conversations Go Off Track (And How to Stay Focused)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/312186976_Visuality_as_Greenwashing_The_Case_of_BP_and_Deepwater_Horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/312186976_Visuality_as_Greenwashing_The_Case_of_BP_and_Deepwater_Horizon</a>  
+   Link:<a href="https://www.researchgate.net/publication/312186976_Visuality_as_Greenwashing_The_Case_of_BP_and_Deepwater_Horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/312186976_Visuality_as_Greenwashing_The_Case_of_BP_and_Deepwater_Horizon</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: clutch.co  
-   Link: <a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
+   Link:<a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/evtopcars/posts/a-major-reuters-investigation-has-found-that-teslas-widely-promoted-full-selfdri/979154065038260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/evtopcars/posts/a-major-reuters-investigation-has-found-that-teslas-widely-promoted-full-selfdri/979154065038260/</a>  
+   Link:<a href="https://www.facebook.com/evtopcars/posts/a-major-reuters-investigation-has-found-that-teslas-widely-promoted-full-selfdri/979154065038260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/evtopcars/posts/a-major-reuters-investigation-has-found-that-teslas-widely-promoted-full-selfdri/979154065038260/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nelsonmullins.com  
-   Link: <a href="https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf</a>  
+   Link:<a href="https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: climatepartner.com  
-   Link: <a href="https://www.climatepartner.com/en/knowledge/glossary/green-claims-directive" target="_blank" rel="noopener noreferrer nofollow">https://www.climatepartner.com/en/knowledge/glossary/green-claims-directive</a>  
+   Link:<a href="https://www.climatepartner.com/en/knowledge/glossary/green-claims-directive" target="_blank" rel="noopener noreferrer nofollow">https://www.climatepartner.com/en/knowledge/glossary/green-claims-directive</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: opexsociety.org  
-   Link: <a href="https://opexsociety.org/founders-desk/effective-arguing-beware-of-logical-red-herrings/" target="_blank" rel="noopener noreferrer nofollow">https://opexsociety.org/founders-desk/effective-arguing-beware-of-logical-red-herrings/</a>  
+   Link:<a href="https://opexsociety.org/founders-desk/effective-arguing-beware-of-logical-red-herrings/" target="_blank" rel="noopener noreferrer nofollow">https://opexsociety.org/founders-desk/effective-arguing-beware-of-logical-red-herrings/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ftcdefenselawyer.com  
-   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>  
+   Link:<a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mankogold.com  
-   Link: <a href="https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf</a>
+   Link:<a href="https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf</a>

@@ -274,16 +274,16 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke
 
 ## Introduction
 
-The classic smoke-and-fire example shows why affirming the consequent is both a logical mistake and an understandable human habit. If we know that fire produces smoke, it can seem natural to conclude that smoke proves the existence of fire. Yet the conclusion does not follow with deductive certainty. Smoke may come from a machine, a controlled industrial process, steam mistaken for smoke, or some other source. The effect is real, but the cause has not been uniquely established. This tension explains why affirming the consequent remains one of the most persistent [logical fallacies]({{ 'logical-fallacies/' | relative_url }}): it often resembles a sensible guess even when it falls short of proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+The classic smoke-and-fire example shows why affirming the consequent is both a logical mistake and an understandable human habit. If we know that fire produces smoke, it can seem natural to conclude that smoke proves the existence of fire. Yet the conclusion does not follow with deductive certainty. Smoke may come from a machine, a controlled industrial process, steam mistaken for smoke, or some other source. The effect is real, but the cause has not been uniquely established. This tension explains why affirming the consequent remains one of the most persistent [logical fallacies]({{ 'logical-fallacies/' | relative_url }}): it often resembles a sensible guess even when it falls short of proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-1-dark.svg" | relative_url }}" alt="Smoke and Fire illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Common Causes Make the Leap Tempting
 
 People routinely reason backwards from observations to explanations. Historically, smoke has been one of the most reliable signs of fire, so the [association]({{ 'association/' | relative_url }}) becomes deeply ingrained. In many practical situations, treating smoke as evidence of fire is not only reasonable but useful. A person who notices smoke on a hillside does not wait for deductive certainty before investigating or raising an alarm.
 
-The problem is that the original conditional statement is one-directional. “If there is fire, there is smoke” does not automatically mean “if there is smoke, there is fire.” Logic distinguishes between a condition that is sufficient and one that is necessary. Fire may be sufficient to explain smoke, but smoke does not guarantee fire because other explanations may exist. This is the same structural error seen in the wet-pavement example, where rain is one possible cause among several. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophyalevel.com">[Philosophy A Level]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophyalevel.com</span><span class="citation-popover-title">if p then q modus ponens modus tollens</span><span class="citation-popover-snippet">If A then B: Modus Ponens, Modus Tollens, Affirming the...28 May 2023 — Affirming the consequent is a logical fallacy that occurs when s...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The problem is that the original conditional statement is one-directional. “If there is fire, there is smoke” does not automatically mean “if there is smoke, there is fire.” Logic distinguishes between a condition that is sufficient and one that is necessary. Fire may be sufficient to explain smoke, but smoke does not guarantee fire because other explanations may exist. This is the same structural error seen in the wet-pavement example, where rain is one possible cause among several.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophyalevel.com">[Philosophy A Level]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophyalevel.com</span><span class="citation-popover-title">if p then q modus ponens modus tollens</span><span class="citation-popover-snippet">If A then B: Modus Ponens, Modus Tollens, Affirming the...28 May 2023 — Affirming the consequent is a logical fallacy that occurs when s...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-The appeal of the smoke-and-fire inference comes from [experience]({{ 'experience/' | relative_url }}). Many everyday relationships appear to work in both directions. If a person sees a kettle boiling, there is usually heat involved; if they see smoke, there is often combustion somewhere. Because these associations are frequently successful, people can begin treating a common explanation as though it were the only possible explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
+The appeal of the smoke-and-fire inference comes from [experience]({{ 'experience/' | relative_url }}). Many everyday relationships appear to work in both directions. If a person sees a kettle boiling, there is usually heat involved; if they see smoke, there is often combustion somewhere. Because these associations are frequently successful, people can begin treating a common explanation as though it were the only possible explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
 
 ## Deductive Proof Versus Practical Inference
 
@@ -293,7 +293,7 @@ The smoke-and-fire example highlights an important distinction between two diffe
 
 ### Deductive reasoning asks what must be true
 
-In deductive logic, a conclusion is valid only if it cannot be false while the premises remain true. Under this standard, observing smoke does not prove fire. The existence of alternative causes is enough to defeat the deduction. Even if fire is the most common explanation, logical validity requires certainty, not likelihood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of fallacies</span><span class="citation-popover-snippet">List of fallaciesAffirming the consequent – the antecedent in an indicative conditional is claimed to be true because the consequent i...</span></span></span>
+In deductive logic, a conclusion is valid only if it cannot be false while the premises remain true. Under this standard, observing smoke does not prove fire. The existence of alternative causes is enough to defeat the deduction. Even if fire is the most common explanation, logical validity requires certainty, not likelihood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of fallacies</span><span class="citation-popover-snippet">List of fallaciesAffirming the consequent – the antecedent in an indicative conditional is claimed to be true because the consequent i...</span></span></span>
 
 A structurally identical argument makes the weakness easier to see:
 
@@ -305,14 +305,14 @@ A structurally identical argument makes the weakness easier to see:
 
 </div>
 
-The conclusion might be correct, but it does not logically follow because many other locations satisfy the observed condition. The smoke-and-fire argument has the same form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+The conclusion might be correct, but it does not logically follow because many other locations satisfy the observed condition. The smoke-and-fire argument has the same form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-2-dark.svg" | relative_url }}" alt="Smoke and Fire illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Practical reasoning asks what is most likely
 
-Outside [formal logic]({{ 'formal-logic/' | relative_url }}), people often seek the best explanation rather than certainty. Philosophers and researchers commonly describe this process as abductive reasoning or inference to the best explanation. Instead of asking whether a conclusion must be true, it asks which explanation best accounts for the evidence available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1908.05739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Abductive Commonsense Reasoning</span><span class="citation-popover-snippet">Abductive Commonsense ReasoningAugust 15, 2019...</span><span class="citation-popover-meta">Published: August 15, 2019</span></span></span>
+Outside [formal logic]({{ 'formal-logic/' | relative_url }}), people often seek the best explanation rather than certainty. Philosophers and researchers commonly describe this process as abductive reasoning or inference to the best explanation. Instead of asking whether a conclusion must be true, it asks which explanation best accounts for the evidence available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1908.05739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Abductive Commonsense Reasoning</span><span class="citation-popover-snippet">Abductive Commonsense ReasoningAugust 15, 2019...</span><span class="citation-popover-meta">Published: August 15, 2019</span></span></span>
 
-Under this practical standard, smoke can legitimately increase confidence that fire is present. The observation does not prove the cause, but it may make that cause more probable. This helps explain why the fallacy can feel persuasive. The conclusion is often plausible even though the argument form remains deductively invalid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
+Under this practical standard, smoke can legitimately increase confidence that fire is present. The observation does not prove the cause, but it may make that cause more probable. This helps explain why the fallacy can feel persuasive. The conclusion is often plausible even though the argument form remains deductively invalid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
 
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-3-dark.svg" | relative_url }}" alt="Smoke and Fire illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Context Can Make a Guess Reasonable
@@ -329,11 +329,11 @@ Imagine three situations:
 
 </div>
 
-In all three cases, the observation is similar, but the likelihood of fire differs dramatically. Background knowledge changes the quality of the inference. The same logical form can therefore range from highly informative to highly misleading depending on what else is known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
+In all three cases, the observation is similar, but the likelihood of fire differs dramatically. Background knowledge changes the quality of the inference. The same logical form can therefore range from highly informative to highly misleading depending on what else is known.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
 
-This is why experienced investigators, scientists, doctors, and engineers rarely stop at the first explanation. They look for competing causes and additional evidence. Smoke may prompt a hypothesis of fire, but confirmation requires further observations. The initial inference serves as a starting point rather than a final proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diales.com">[diales.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diales.com</span><span class="citation-popover-snippet">The fallacy of affirming the consequentThe &#x27;affirming the consequent&#x27; fallacy can occur within expert testimony when a subject matter exp...</span></span></span>
+This is why experienced investigators, scientists, doctors, and engineers rarely stop at the first explanation. They look for competing causes and additional evidence. Smoke may prompt a hypothesis of fire, but confirmation requires further observations. The initial inference serves as a starting point rather than a final proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diales.com">[diales.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diales.com</span><span class="citation-popover-snippet">The fallacy of affirming the consequentThe &#x27;affirming the consequent&#x27; fallacy can occur within expert testimony when a subject matter exp...</span></span></span>
 
-In historical terms, this reflects a broader difference between formal logic and everyday reasoning. Formal logic evaluates whether conclusions necessarily follow from premises. Real-world decision-making often proceeds under uncertainty, where waiting for certainty may be impossible or costly. The challenge is recognising when a useful clue has been mistaken for conclusive evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
+In historical terms, this reflects a broader difference between formal logic and everyday reasoning. Formal logic evaluates whether conclusions necessarily follow from premises. Real-world decision-making often proceeds under uncertainty, where waiting for certainty may be impossible or costly. The challenge is recognising when a useful clue has been mistaken for conclusive evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/85QJZdbgEoc" title="Affirming the Consequent: A Formal Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer">Affirming the Consequent: A Formal Fallacy</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 69.7K &middot; Uploaded: November 2009 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=85QJZdbgEoc">Open on YouTube</a></p></div></div></div>
 
@@ -341,199 +341,199 @@ In historical terms, this reflects a broader difference between formal logic and
 
 The smoke-and-fire example survives in discussions of logical fallacies because it captures a genuine tension in human thinking. People are often rewarded for identifying likely causes from visible effects. That habit is practical, efficient, and frequently correct. Yet it can also encourage the mistaken belief that a likely explanation is a proven one.
 
-Affirming the consequent occurs when the leap from effect to cause is treated as certainty rather than possibility. Smoke can be evidence for fire. It is not, by itself, proof of fire. Recognising that distinction helps separate deductive validity from reasonable suspicion and explains why bad logic can sometimes feel perfectly sensible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span>
+Affirming the consequent occurs when the leap from effect to cause is treated as certainty rather than possibility. Smoke can be evidence for fire. It is not, by itself, proof of fire. Recognising that distinction helps separate deductive validity from reasonable suspicion and explains why bad logic can sometimes feel perfectly sensible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_WDDVz-EWFw" title="Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer">Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 11.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_WDDVz-EWFw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Bad Logic Still Feels Sensible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Bad Logic Still Feels Sensible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why plausible guesses feel stronger than they logically are.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why plausible guesses feel stronger than they logically are.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Focuses on common reasoning traps and intuitive mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on common reasoning traps and intuitive mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Provides the logical framework behind affirming the consequent.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the logical framework behind affirming the consequent.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages distinguishing evidence from certainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages distinguishing evidence from certainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster"><img src="https://i.ebayimg.com/images/g/Bf0AAOSw1HtjO0zE/s-l225.jpg" alt="Listing image for Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster"><img src="https://i.ebayimg.com/images/g/Bf0AAOSw1HtjO0zE/s-l225.jpg" alt="Listing image for Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Fire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/~MgAAeSwAu9pwYAY/s-l225.jpg" alt="Listing image for Firefighter Fire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Firefighter Fire Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Fire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/~MgAAeSwAu9pwYAY/s-l225.jpg" alt="Listing image for Firefighter Fire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Firefighter Fire Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/eaQAAeSwXMRpZjJx/s-l225.jpg" alt="Listing image for Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/eaQAAeSwXMRpZjJx/s-l225.jpg" alt="Listing image for Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ANYAAeSwhfppZjPc/s-l225.jpg" alt="Listing image for Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ANYAAeSwhfppZjPc/s-l225.jpg" alt="Listing image for Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,157 +739,157 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of secundum...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of secundum...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — For example, deductively invalid...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — For example, deductively invalid...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Abductive Commonsense Reasoning  
-   Link: <a href="https://arxiv.org/abs/1908.05739" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1908.05739</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abductive Commonsense ReasoningAugust 15, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1908.05739" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1908.05739</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abductive Commonsense ReasoningAugust 15, 2019...</p></details>
    Published: August 15, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1703.03254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1703.03254</a>  
+   Link:<a href="https://arxiv.org/abs/1703.03254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1703.03254</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Informal logic...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Informal logic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: diales.com  
-   Link: <a href="https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of affirming the consequentThe &#x27;affirming the consequent&#x27; fallacy can occur within expert testimony when a subject matter exp...</p></details>
+   Link:<a href="https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of affirming the consequentThe &#x27;affirming the consequent&#x27; fallacy can occur within expert testimony when a subject matter exp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: logic conditionals  
-   Link: <a href="https://plato.stanford.edu/entries/logic-conditionals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-conditionals/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We review the problems of a two-valued analysis and examine logics based on...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-conditionals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-conditionals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We review the problems of a two-valued analysis and examine logics based on...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: logic classical  
-   Link: <a href="https://plato.stanford.edu/entries/logic-classical/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-classical/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby S Shapiro · 2000 · Cited by 195 — A logic consists of a formal or informal language togethe...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-classical/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-classical/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby S Shapiro · 2000 · Cited by 195 — A logic consists of a formal or informal language togethe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/conditionals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/conditionals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby D Edgington · 2001 · Cited by 148 — A theory of conditionals aims to give an account of the conditi...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/conditionals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/conditionals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby D Edgington · 2001 · Cited by 148 — A theory of conditionals aims to give an account of the conditi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesAffirming the consequent – the antecedent in an indicative conditional is claimed to be true because the consequent i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesAffirming the consequent – the antecedent in an indicative conditional is claimed to be true because the consequent i...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Affirming the Consequent: A Formal Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85QJZdbgEoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Affirming the consequent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85QJZdbgEoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Affirming the consequent...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=m9hjWTe33Wk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m9hjWTe33Wk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m9hjWTe33Wk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m9hjWTe33Wk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Affirming the Consequent  
-   Link: <a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WDDVz-EWFw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WDDVz-EWFw</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: philosophyalevel.com  
    Title: if p then q modus ponens modus tollens  
-   Link: <a href="https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If A then B: Modus Ponens, Modus Tollens, Affirming the...28 May 2023 — Affirming the consequent is a logical fallacy that occurs when s...</p></details>
+   Link:<a href="https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If A then B: Modus Ponens, Modus Tollens, Affirming the...28 May 2023 — Affirming the consequent is a logical fallacy that occurs when s...</p></details>
    Published: May 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stat.berkeley.edu  
-   Link: <a href="https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm</a>  
+   Link:<a href="https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;). (2) Accent, Amphiboly and Equivocation are examples...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;). (2) Accent, Amphiboly and Equivocation are examples...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fallacyfiles.org  
    Title: Affirming the Consequent  
-   Link: <a href="https://www.fallacyfiles.org/afthecon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/afthecon.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy22 Jun 2023 — To affirm the consequent of a conditional statement is, of course, to assert or claim that the consequent is...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/afthecon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/afthecon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy22 Jun 2023 — To affirm the consequent of a conditional statement is, of course, to assert or claim that the consequent is...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the ConsequentDescription: An error in formal logic where if the consequent is said to be true, the antecedent is said to be tr...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the ConsequentDescription: An error in formal logic where if the consequent is said to be true, the antecedent is said to be tr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/857970393/Module-Finals" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/857970393/Module-Finals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies in Argumentation | PDF | Logic | InferenceThe document discusses the logical relations between propositions using the S...</p></details>
+   Link:<a href="https://www.scribd.com/document/857970393/Module-Finals" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/857970393/Module-Finals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies in Argumentation | PDF | Logic | InferenceThe document discusses the logical relations between propositions using the S...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: affirming the consequent: r/philosophyMy thesis is that &quot;&#x27;affirming the consequent&#x27; reasoning isn&#x27;t fallacious when one...</p></details>
+   Link:<a href="https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: affirming the consequent: r/philosophyMy thesis is that &quot;&#x27;affirming the consequent&#x27; reasoning isn&#x27;t fallacious when one...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent Overview, Fallacy &amp; ExamplesThe fallacy of affirming the consequent is a formal fallacy in which a reasoner make...</p></details>
+   Link:<a href="https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent Overview, Fallacy &amp; ExamplesThe fallacy of affirming the consequent is a formal fallacy in which a reasoner make...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1807497022844338/posts/2578496059077760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1807497022844338/posts/2578496059077760/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rains, the ground is wet. The ground is wet. Therefore...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1807497022844338/posts/2578496059077760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1807497022844338/posts/2578496059077760/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rains, the ground is wet. The ground is wet. Therefore...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: khanacademy.org  
-   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onditional statement from the truth of the conditional...</p></details>
+   Link:<a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onditional statement from the truth of the conditional...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: yandoo.wordpress.com  
    Title: where there is smoke there is fire  
-   Link: <a href="https://yandoo.wordpress.com/2025/01/09/where-there-is-smoke-there-is-fire/" target="_blank" rel="noopener noreferrer nofollow">https://yandoo.wordpress.com/2025/01/09/where-there-is-smoke-there-is-fire/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.com“Where there is smoke there is fire” | The Logical Place9 Jan 2025 — The aphorism “Where there is smoke there is fire” sugge...</p></details>
+   Link:<a href="https://yandoo.wordpress.com/2025/01/09/where-there-is-smoke-there-is-fire/" target="_blank" rel="noopener noreferrer nofollow">https://yandoo.wordpress.com/2025/01/09/where-there-is-smoke-there-is-fire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.com“Where there is smoke there is fire” | The Logical Place9 Jan 2025 — The aphorism “Where there is smoke there is fire” sugge...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: philosophy.stackexchange.com  
    Title: are if smoke then fire arguments deductive or inductive  
-   Link: <a href="https://philosophy.stackexchange.com/questions/46118/are-if-smoke-then-fire-arguments-deductive-or-inductive" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/46118/are-if-smoke-then-fire-arguments-deductive-or-inductive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inductive reasoning: I&#x27;m told that &quot;John ate a strange plant in the forest and got...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/46118/are-if-smoke-then-fire-arguments-deductive-or-inductive" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/46118/are-if-smoke-then-fire-arguments-deductive-or-inductive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inductive reasoning: I&#x27;m told that &quot;John ate a strange plant in the forest and got...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Deductive Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=LV1vkT6QrlE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LV1vkT6QrlE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic 101 (#48): Affirming the Consequent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LV1vkT6QrlE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LV1vkT6QrlE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic 101 (#48): Affirming the Consequent...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: digitalcommons.odu.edu  
-   Link: <a href="https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1046&amp;context=philosophy_fac_pubs" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1046&amp;context=philosophy_fac_pubs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antecedents and Affirming Consequentsby D Godden · 2015 · Cited by 14 — Abstract: Recent work on condi- tional reasoning argues that deny...</p></details>
+   Link:<a href="https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1046&amp;context=philosophy_fac_pubs" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1046&amp;context=philosophy_fac_pubs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antecedents and Affirming Consequentsby D Godden · 2015 · Cited by 14 — Abstract: Recent work on condi- tional reasoning argues that deny...</p></details>

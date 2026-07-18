@@ -268,26 +268,26 @@ image: /assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evi
 
 ## Introduction
 
-Can an angry argument still be logical? Yes. In logic, anger is not automatically a flaw in reasoning. A person may be angry because they believe they have witnessed harm, injustice, deception, or negligence, and their emotional response can draw attention to facts that deserve scrutiny. The crucial question is not whether the speaker is angry, but whether the reasons they offer actually support their conclusion. An argument becomes fallacious when [emotion]({{ 'emotion/' | relative_url }}) substitutes for evidence, pressures an audience into agreement, or distracts from the claim under examination. The difference between a relevant emotional response and a logical error lies in the role that anger plays within the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
+Can an angry argument still be logical? Yes. In logic, anger is not automatically a flaw in reasoning. A person may be angry because they believe they have witnessed harm, injustice, deception, or negligence, and their emotional response can draw attention to facts that deserve scrutiny. The crucial question is not whether the speaker is angry, but whether the reasons they offer actually support their conclusion. An argument becomes fallacious when [emotion]({{ 'emotion/' | relative_url }}) substitutes for evidence, pressures an audience into agreement, or distracts from the claim under examination. The difference between a relevant emotional response and a logical error lies in the role that anger plays within the argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-1-dark.svg" | relative_url }}" alt="Anger illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Emotion as a signal, not a proof error
 
-People often assume that a calm argument is rational and an angry argument is irrational. Logic does not work that way. The validity of an argument depends on the connection between its premises and its conclusion, not on the speaker’s emotional state. A person can shout a sound argument or quietly present a weak one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
+People often assume that a calm argument is rational and an angry argument is irrational. Logic does not work that way. The validity of an argument depends on the connection between its premises and its conclusion, not on the speaker’s emotional state. A person can shout a sound argument or quietly present a weak one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
 
-In many real-world disputes, anger functions as a signal. It can indicate that the speaker perceives a serious problem, believes important interests are at stake, or thinks that normal channels have failed. Scholars in [informal logic]({{ 'informal-logic/' | relative_url }}) have argued that emotions are part of ordinary argumentation and should not automatically be treated as obstacles to rational discussion. Emotion can communicate urgency, commitment, and the human significance of a claim without replacing the claim's supporting reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Argumentation Theory. One crucial advance.Read more</span><span class="citation-popover-snippet">Emotion, Argumentation and Informal Logic*by MA Gilbert · 2004 · Cited by 105 — Abstract: Over the past 60 years there have been tremendo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2147" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In many real-world disputes, anger functions as a signal. It can indicate that the speaker perceives a serious problem, believes important interests are at stake, or thinks that normal channels have failed. Scholars in [informal logic]({{ 'informal-logic/' | relative_url }}) have argued that emotions are part of ordinary argumentation and should not automatically be treated as obstacles to rational discussion. Emotion can communicate urgency, commitment, and the human significance of a claim without replacing the claim's supporting reasons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Argumentation Theory. One crucial advance.Read more</span><span class="citation-popover-snippet">Emotion, Argumentation and Informal Logic*by MA Gilbert · 2004 · Cited by 105 — Abstract: Over the past 60 years there have been tremendo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2147" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Consider the statement:
 
 > “I am furious that the company concealed these safety reports. The documents show that managers knew about the defect for months.”
 
-The anger does not prove the accusation. The documents do the evidential work. The emotion simply communicates the speaker's reaction to what the evidence allegedly shows. Even if the speaker's anger disappeared, the argument could remain strong because the relevant support remains in place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
+The anger does not prove the accusation. The documents do the evidential work. The emotion simply communicates the speaker's reaction to what the evidence allegedly shows. Even if the speaker's anger disappeared, the argument could remain strong because the relevant support remains in place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
 
 ## When emotional pressure replaces evidence
 
 The logical problem appears when anger ceases to accompany evidence and begins to replace it.
 
-An appeal to emotion is generally considered fallacious when it encourages acceptance of a conclusion because of the audience's feelings rather than because the conclusion has been adequately supported. The issue is not that emotions are present; the issue is that they become a substitute for reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy &#124; Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span> Several common patterns illustrate this shift:
+An appeal to emotion is generally considered fallacious when it encourages acceptance of a conclusion because of the audience's feelings rather than because the conclusion has been adequately supported. The issue is not that emotions are present; the issue is that they become a substitute for reasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy &#124; Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span> Several common patterns illustrate this shift:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,9 +298,9 @@ An appeal to emotion is generally considered fallacious when it encourages accep
 
 </div>
 
-In each case, the audience is being pushed toward a conclusion through emotional force rather than through evidence connecting premises to conclusion. The reasoning gap remains unfilled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/emotiona.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Emotional AppealAn appeal to emotion is a type of argument or rhetorical technique that attempts to arouse the emotions...</span></span></span>
+In each case, the audience is being pushed toward a conclusion through emotional force rather than through evidence connecting premises to conclusion. The reasoning gap remains unfilled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/emotiona.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Emotional AppealAn appeal to emotion is a type of argument or rhetorical technique that attempts to arouse the emotions...</span></span></span>
 
-This is why logic textbooks often classify appeals to pity, fear, ridicule, or similar emotional tactics as fallacies of [relevance]({{ 'relevance/' | relative_url }}) when the emotion has no genuine bearing on the truth of the claim being assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
+This is why logic textbooks often classify appeals to pity, fear, ridicule, or similar emotional tactics as fallacies of [relevance]({{ 'relevance/' | relative_url }}) when the emotion has no genuine bearing on the truth of the claim being assessed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SPN54qYUqng" title="Appeal to Pity (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SPN54qYUqng" target="_blank" rel="noopener noreferrer">Appeal to Pity (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 27.5K &middot; Uploaded: February 2014 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SPN54qYUqng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SPN54qYUqng">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +330,7 @@ Remove the emotional language and little remains:
 
 > “Everyone should oppose it.”
 
-The conclusion is asserted rather than supported. The [outrage]({{ 'outrage/' | relative_url }}) substitutes for the missing justification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-snippet">· Impact: Appeal to Emotion distorts reasoning by Feelings alone cannot establish...Read more...</span></span></span>
+The conclusion is asserted rather than supported. The [outrage]({{ 'outrage/' | relative_url }}) substitutes for the missing justification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-snippet">· Impact: Appeal to Emotion distorts reasoning by Feelings alone cannot establish...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-2-dark.svg" | relative_url }}" alt="Anger illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples that separate urgency from evasion
@@ -341,7 +341,7 @@ Suppose a whistle-blower describes dangerous conditions in a workplace:
 
 > “I am furious because management ignored repeated warnings. Inspection reports from the last six months document the same hazard.”
 
-The emotional tone highlights the seriousness of the allegation, but the inspection reports provide evidence. The listener can examine the reports independently of the speaker's feelings. The anger may increase attention, but it does not replace proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
+The emotional tone highlights the seriousness of the allegation, but the inspection reports provide evidence. The listener can examine the reports independently of the speaker's feelings. The anger may increase attention, but it does not replace proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
 
 ### Anger that evades the issue
 
@@ -349,7 +349,7 @@ Now consider:
 
 > “Anyone who questions my position should be ashamed. How can you even ask for more evidence?”
 
-Here anger functions as a shield against scrutiny. Rather than supplying reasons, the speaker attempts to make disagreement socially or emotionally costly. The discussion shifts from evaluating the claim to managing emotional pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[2yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Appeals to emotion include appeals to fear, envy, hatred, pity...Read more...</span></span></span>
+Here anger functions as a shield against scrutiny. Rather than supplying reasons, the speaker attempts to make disagreement socially or emotionally costly. The discussion shifts from evaluating the claim to managing emotional pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[2yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Appeals to emotion include appeals to fear, envy, hatred, pity...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ESVP917iLM8" title="Logical Fallacies: Appeal to Emotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer">Logical Fallacies: Appeal to Emotion</a></p><p class="youtube-embed-meta">Channel: Bitesize Philosophy &middot; Views: 5.2K &middot; Uploaded: June 2023 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ESVP917iLM8">Open on YouTube</a></p></div></div></div>
 
@@ -359,290 +359,290 @@ A further complication arises when anger becomes personal:
 
 > “Only a fool could believe that.”
 
-The statement may express genuine frustration, but it does not address whether the belief is true. The attack focuses attention on the person instead of the argument. Whether this becomes an ad hominem fallacy depends on how it functions in the reasoning, but it certainly does not provide evidence for the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad misericordiam</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad misericordiam &#124; logic1 Apr 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguing...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to emotion</span><span class="citation-popover-snippet">Appeal to emotion</span></span></span>
+The statement may express genuine frustration, but it does not address whether the belief is true. The attack focuses attention on the person instead of the argument. Whether this becomes an ad hominem fallacy depends on how it functions in the reasoning, but it certainly does not provide evidence for the conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad misericordiam</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad misericordiam &#124; logic1 Apr 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguing...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to emotion</span><span class="citation-popover-snippet">Appeal to emotion</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JkB3hhtLx4M" title="Appeal to Emotion | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer">Appeal to Emotion | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 7.6K &middot; Uploaded: March 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JkB3hhtLx4M">Open on YouTube</a></p></div></div></div>
 
 ## Why people confuse anger with bad logic
 
-Humans often evaluate arguments through both reasoning and emotional reaction. Psychological and argumentation research suggests that emotional framing can influence how convincing people find claims, even when the underlying logic is unchanged. As a result, audiences may mistake emotional intensity for argumentative strength—or dismiss a sound argument because its delivery feels uncomfortable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.07162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Categorical Emotions or Appraisals</span><span class="citation-popover-snippet">Categorical Emotions or Appraisals - Which Emotion Model Explains Argument Convincingness Better?November 10, 2025...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
+Humans often evaluate arguments through both reasoning and emotional reaction. Psychological and argumentation research suggests that emotional framing can influence how convincing people find claims, even when the underlying logic is unchanged. As a result, audiences may mistake emotional intensity for argumentative strength—or dismiss a sound argument because its delivery feels uncomfortable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.07162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Categorical Emotions or Appraisals</span><span class="citation-popover-snippet">Categorical Emotions or Appraisals - Which Emotion Model Explains Argument Convincingness Better?November 10, 2025...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
 
 This creates two opposite mistakes:
 
 * Rejecting a good argument because the speaker sounds angry.
 * Accepting a weak argument because the speaker successfully generates anger.
 
-Both mistakes focus on emotional presentation rather than evidential support. The central logical question remains the same: what reasons have been given, and do those reasons justify the conclusion? <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
+Both mistakes focus on emotional presentation rather than evidential support. The central logical question remains the same: what reasons have been given, and do those reasons justify the conclusion?<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-3-dark.svg" | relative_url }}" alt="Anger illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key distinction
 
-Anger is not itself a logical fallacy. It can be a reasonable reaction to evidence, a signal of perceived injustice, or a way of communicating urgency. The fallacy emerges when emotional force takes over the role that evidence and reasoning are supposed to play. When anger accompanies relevant reasons, it may be rhetorically powerful yet logically acceptable. When anger becomes the reason to agree, it stops supporting the argument and starts evading the point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamThe ad misericordiam fallacy illicitly appeals to pity or a related emotion such as sympat...</span></span></span> 3informallogic.ca <span class="citation-chip-wrap"><a class="citation-chip" href="https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yorkspace.library.yorku.ca">[YorkSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yorkspace.library.yorku.ca</span><span class="citation-popover-snippet">The presence of emotion does not necessarily harm an argument. Emotion can play a role in traditional, logic-based theories of argumentat...</span></span></span>
+Anger is not itself a logical fallacy. It can be a reasonable reaction to evidence, a signal of perceived injustice, or a way of communicating urgency. The fallacy emerges when emotional force takes over the role that evidence and reasoning are supposed to play. When anger accompanies relevant reasons, it may be rhetorically powerful yet logically acceptable. When anger becomes the reason to agree, it stops supporting the argument and starts evading the point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamThe ad misericordiam fallacy illicitly appeals to pity or a related emotion such as sympat...</span></span></span> 3informallogic.ca<span class="citation-chip-wrap"><a class="citation-chip" href="https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yorkspace.library.yorku.ca">[YorkSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yorkspace.library.yorku.ca</span><span class="citation-popover-snippet">The presence of emotion does not necessarily harm an argument. Emotion can play a role in traditional, logic-based theories of argumentat...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can an angry argument still be logical?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can an angry argument still be logical?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Examines how emotion and reasoning interact in disputes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how emotion and reasoning interact in disputes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how judgments can be influenced by non-evidential factors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how judgments can be influenced by non-evidential factors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PibJN5XVQRkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PibJN5XVQRkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
+</h4>
+<p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
         
-        <p class="fr-book-desc">Explains handling high-emotion discussions without abandoning evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains handling high-emotion discussions without abandoning evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Helps distinguish emotional expression from argumentative support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps distinguish emotional expression from argumentative support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lawyer Logic Tumbler – If You Can’t Convince, Confuse Them Mug for Clever Minds"><img src="{{ '/assets/images/marketplace-covers/22d70315933ace519bc7.jpg' | relative_url }}" alt="Listing image for Lawyer Logic Tumbler – If You Can’t Convince, Confuse Them Mug for Clever Minds" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lawyer Logic Tumbler – If You Can’t Convince, Confuse Them Mug for Clever Minds</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic mug">Search <span data-ebay-domain-label>eBay.com</span>: logic mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lawyer Logic Tumbler – If You Can’t Convince, Confuse Them Mug for Clever Minds"><img src="{{ '/assets/images/marketplace-covers/22d70315933ace519bc7.jpg' | relative_url }}" alt="Listing image for Lawyer Logic Tumbler – If You Can’t Convince, Confuse Them Mug for Clever Minds" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lawyer Logic Tumbler – If You Can’t Convince, Confuse Them Mug for Clever Minds</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic mug">Search<span data-ebay-domain-label>eBay.com</span>: logic mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Liquid Logic Optima Beverage Mug ~ 14oz, Smoke Color, Press-on Lid, #OPTV-SK"><img src="{{ '/assets/images/marketplace-covers/c380f14ac6688df0bbdf.jpg' | relative_url }}" alt="Listing image for Liquid Logic Optima Beverage Mug ~ 14oz, Smoke Color, Press-on Lid, #OPTV-SK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Liquid Logic Optima Beverage Mug ~ 14oz, Smoke Color, Press-on Lid, #OPTV-SK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic mug">Search <span data-ebay-domain-label>eBay.com</span>: logic mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Liquid Logic Optima Beverage Mug ~ 14oz, Smoke Color, Press-on Lid, #OPTV-SK"><img src="{{ '/assets/images/marketplace-covers/c380f14ac6688df0bbdf.jpg' | relative_url }}" alt="Listing image for Liquid Logic Optima Beverage Mug ~ 14oz, Smoke Color, Press-on Lid, #OPTV-SK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Liquid Logic Optima Beverage Mug ~ 14oz, Smoke Color, Press-on Lid, #OPTV-SK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic mug">Search<span data-ebay-domain-label>eBay.com</span>: logic mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Liquid Logic Black Coffee Mug Fraggle Rock Doozers At Work Ceramic Cartoon Small"><img src="{{ '/assets/images/marketplace-covers/d12ff38e192efa1cd43a.jpg' | relative_url }}" alt="Listing image for Liquid Logic Black Coffee Mug Fraggle Rock Doozers At Work Ceramic Cartoon Small" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Liquid Logic Black Coffee Mug Fraggle Rock Doozers At Work Ceramic Cartoon Small</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic mug">Search <span data-ebay-domain-label>eBay.com</span>: logic mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Liquid Logic Black Coffee Mug Fraggle Rock Doozers At Work Ceramic Cartoon Small"><img src="{{ '/assets/images/marketplace-covers/d12ff38e192efa1cd43a.jpg' | relative_url }}" alt="Listing image for Liquid Logic Black Coffee Mug Fraggle Rock Doozers At Work Ceramic Cartoon Small" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Liquid Logic Black Coffee Mug Fraggle Rock Doozers At Work Ceramic Cartoon Small</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic mug">Search<span data-ebay-domain-label>eBay.com</span>: logic mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sorry I Offended You By Using Facts And Logic Mug | Ceramic Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/9ad247350e0d350569ac.jpg' | relative_url }}" alt="Listing image for Sorry I Offended You By Using Facts And Logic Mug | Ceramic Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sorry I Offended You By Using Facts And Logic Mug | Ceramic Coffee Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic mug">Search <span data-ebay-domain-label>eBay.com</span>: logic mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sorry I Offended You By Using Facts And Logic Mug | Ceramic Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/9ad247350e0d350569ac.jpg' | relative_url }}" alt="Listing image for Sorry I Offended You By Using Facts And Logic Mug | Ceramic Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sorry I Offended You By Using Facts And Logic Mug | Ceramic Coffee Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic mug">Search<span data-ebay-domain-label>eBay.com</span>: logic mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logic+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-logic-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anger-can-an-angry-argument-still-be-logical-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -658,7 +658,7 @@ Anger is not itself a logical fallacy. It can be a reasonable reaction to eviden
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -678,7 +678,7 @@ Anger is not itself a logical fallacy. It can be a reasonable reaction to eviden
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -710,7 +710,7 @@ Anger is not itself a logical fallacy. It can be a reasonable reaction to eviden
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -740,7 +740,7 @@ Anger is not itself a logical fallacy. It can be a reasonable reaction to eviden
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -798,37 +798,37 @@ Anger is not itself a logical fallacy. It can be a reasonable reaction to eviden
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Appeals to pit...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Appeals to pit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Appeal to emotion  
-   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_emotion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_emotion</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: informallogic.ca  
    Title: Argumentation Theory. One crucial advance.Read more  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147/1591</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion, Argumentation and Informal Logic*by MA Gilbert · 2004 · Cited by 105 — Abstract: Over the past 60 years there have been tremendo...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147/1591</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion, Argumentation and Informal Logic*by MA Gilbert · 2004 · Cited by 105 — Abstract: Over the past 60 years there have been tremendo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2147" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Authors. Michael A. Gilbert York University. DOI: [https://doi.org/10.22329/il.v24i3.2...&quot;](https://doi.org/10.22329/il.v24i3.2...&quot;)...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/2147" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Authors. Michael A. Gilbert York University. DOI: [https://doi.org/10.22329/il.v24i3.2...&quot;](https://doi.org/10.22329/il.v24i3.2...&quot;)...</p></details>
 
 1
 
@@ -836,201 +836,201 @@ Anger is not itself a logical fallacy. It can be a reasonable reaction to eviden
 
 7. Abstract.Read more
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribbr.com  
    Title: appeal to emotion  
-   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-emotion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-emotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-emotion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to emotion include appeals to fear, envy, hatred, pity...Read more...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-emotion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to emotion include appeals to fear, envy, hatred, pity...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/emotiona.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/emotiona.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/emotiona.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/emotiona.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: argumentum ad misericordiam  
-   Link: <a href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-misericordiam</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaArgumentum ad misericordiam | logic1 Apr 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguing...</p></details>
+   Link:<a href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-misericordiam</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaArgumentum ad misericordiam | logic1 Apr 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguing...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: ad hominem  
-   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; Facts12 Mar 2026 — Ad hominem, type of argument or attack that...</p></details>
+   Link:<a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; Facts12 Mar 2026 — Ad hominem, type of argument or attack that...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv Categorical Emotions or Appraisals  
-   Link: <a href="https://arxiv.org/abs/2511.07162" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.07162</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Categorical Emotions or Appraisals - Which Emotion Model Explains Argument Convincingness Better?November 10, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2511.07162" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.07162</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Categorical Emotions or Appraisals - Which Emotion Model Explains Argument Convincingness Better?November 10, 2025...</p></details>
    Published: November 10, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.09695</a>  
+   Link:<a href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.09695</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Argumentum ad populum  
-   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populumIn argumentation theory, an argumentum ad populum is an informal fallacy that asserts a claim is true, good, or c...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populumIn argumentation theory, an argumentum ad populum is an informal fallacy that asserts a claim is true, good, or c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesAppeal to pity (argumentum ad misericordiam) – generating feelings of sympathy or mercy in the listener to obtain com...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesAppeal to pity (argumentum ad misericordiam) – generating feelings of sympathy or mercy in the listener to obtain com...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/emotion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby A Scarantino · 2018 · Cited by 550 — Emotions have historically been conceptualized in one of three...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/emotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby A Scarantino · 2018 · Cited by 550 — Emotions have historically been conceptualized in one of three...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: web.stanford.edu  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesAppeal to Force: the reader is persuaded to agree by force · Appeal to Pity: the reader is persuaded to agree by sympathy · Cons...</p></details>
+   Link:<a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesAppeal to Force: the reader is persuaded to agree by force · Appeal to Pity: the reader is persuaded to agree by sympathy · Cons...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2016/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2016/entries/emotion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFeb 3, 2003 — No aspect of our mental life is more important to the quality and meaning of our existen...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2016/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2016/entries/emotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFeb 3, 2003 — No aspect of our mental life is more important to the quality and meaning of our existen...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/sum2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2022/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of PhilosophyJul 16, 2021 — Logic understands an argument as an attempt to justify a conclusion, emphasizin...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/sum2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2022/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of PhilosophyJul 16, 2021 — Logic understands an argument as an attempt to justify a conclusion, emphasizin...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2018/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2018/entries/emotion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFeb 3, 2003 — This explains why we are so often tempted to take seriously ascription of reasonableness...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2018/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2018/entries/emotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFeb 3, 2003 — This explains why we are so often tempted to take seriously ascription of reasonableness...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-populum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum | logicArgument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals to such...</p></details>
+   Link:<a href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-populum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum | logicArgument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals to such...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: philosophy.institute  
    Title: navigating informal fallacies logical discourse  
-   Link: <a href="https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Informal Fallacies in Logical Discourse11 Dec 2025 — As the Stanford Encyclopedia of Philosophy describes, these are errors in...</p></details>
+   Link:<a href="https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Informal Fallacies in Logical Discourse11 Dec 2025 — As the Stanford Encyclopedia of Philosophy describes, these are errors in...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Logical Fallacies: Appeal to Emotion  
-   Link: <a href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ESVP917iLM8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Emotion | Logical Fallacies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ESVP917iLM8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Emotion | Logical Fallacies...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Appeal to Emotion | Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JkB3hhtLx4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weaponized Anger: How They Make You Snap...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JkB3hhtLx4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weaponized Anger: How They Make You Snap...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: yorkspace.library.yorku.ca  
-   Link: <a href="https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c" target="_blank" rel="noopener noreferrer nofollow">https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The presence of emotion does not necessarily harm an argument. Emotion can play a role in traditional, logic-based theories of argumentat...</p></details>
+   Link:<a href="https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c" target="_blank" rel="noopener noreferrer nofollow">https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The presence of emotion does not necessarily harm an argument. Emotion can play a role in traditional, logic-based theories of argumentat...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/misery.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad MisericordiamThe ad misericordiam fallacy illicitly appeals to pity or a related emotion such as sympat...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/misery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad MisericordiamThe ad misericordiam fallacy illicitly appeals to pity or a related emotion such as sympat...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: fallacyguide.com  
-   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-emotion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Impact: Appeal to Emotion distorts reasoning by Feelings alone cannot establish...Read more...</p></details>
+   Link:<a href="https://fallacyguide.com/fallacies/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-emotion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Impact: Appeal to Emotion distorts reasoning by Feelings alone cannot establish...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of relevance. (2) Accent, Amphiboly and Equivocation are examples...</p></details>
+   Link:<a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of relevance. (2) Accent, Amphiboly and Equivocation are examples...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: spotfallacy.com  
    Title: appeal to emotion  
-   Link: <a href="https://www.spotfallacy.com/blog/logical-fallacy/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://www.spotfallacy.com/blog/logical-fallacy/appeal-to-emotion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot the FallacyFeb 8, 2026 — The appeal to emotion fallacy uses feelings as the primary evidence instead of reasons or facts. The argume...</p></details>
+   Link:<a href="https://www.spotfallacy.com/blog/logical-fallacy/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://www.spotfallacy.com/blog/logical-fallacy/appeal-to-emotion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spot the FallacyFeb 8, 2026 — The appeal to emotion fallacy uses feelings as the primary evidence instead of reasons or facts. The argume...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacies can be either illegitimate a...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacies can be either illegitimate a...</p></details>
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/6175893/Gilbert_Michael_A_1995_What_Is_an_Emotional_Argument_or_Why_Do_Argumentation_Theorists_Argue_with_their_Mates_Proceedings_of_the_Third_Conference_of_the_International_Society_for_the_Study_of_Argumentation_Amsterdam_NL_1995" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6175893/Gilbert_Michael_A_1995_What_Is_an_Emotional_Argument_or_Why_Do_Argumentation_Theorists_Argue_with_their_Mates_Proceedings_of_the_Third_Conference_of_the_International_Society_for_the_Study_of_Argumentation_Amsterdam_NL_1995</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gilbert, Michael A. 1995. &quot;What Is an Emotional Argument...8 Nov 2025 — Gilbert, Michael A. 1995. &quot;What Is an Emotional Argument, or, Wh...</p></details>
+   Link:<a href="https://www.academia.edu/6175893/Gilbert_Michael_A_1995_What_Is_an_Emotional_Argument_or_Why_Do_Argumentation_Theorists_Argue_with_their_Mates_Proceedings_of_the_Third_Conference_of_the_International_Society_for_the_Study_of_Argumentation_Amsterdam_NL_1995" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6175893/Gilbert_Michael_A_1995_What_Is_an_Emotional_Argument_or_Why_Do_Argumentation_Theorists_Argue_with_their_Mates_Proceedings_of_the_Third_Conference_of_the_International_Society_for_the_Study_of_Argumentation_Amsterdam_NL_1995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gilbert, Michael A. 1995. &quot;What Is an Emotional Argument...8 Nov 2025 — Gilbert, Michael A. 1995. &quot;What Is an Emotional Argument, or, Wh...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to EmotionAppeal to Emotion · Description: This is the general category of many fallacies that use emotion in place of reason in o...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to EmotionAppeal to Emotion · Description: This is the general category of many fallacies that use emotion in place of reason in o...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: windsor.scholarsportal.info  
-   Link: <a href="https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/123/303/1650-1?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/123/303/1650-1?inline=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic: A &#x27;Canadian&#x27; Approach to Argumentby MA GILBERT · Cited by 29 — Abstract: My essay, “Multi-Modal Argumentation” was published in th...</p></details>
+   Link:<a href="https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/123/303/1650-1?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/123/303/1650-1?inline=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic: A &#x27;Canadian&#x27; Approach to Argumentby MA GILBERT · Cited by 29 — Abstract: My essay, “Multi-Modal Argumentation” was published in th...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
    Title: 226186090 Appeal to pity A case study of the argumentum ad misericordiam  
-   Link: <a href="https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Appeal to pity: A case study of the argumentum ad...Nov 29, 2020 — The appeal to pity, orargumentum ad misericordiam, has traditio...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Appeal to pity: A case study of the argumentum ad...Nov 29, 2020 — The appeal to pity, orargumentum ad misericordiam, has traditio...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: thinkingispower.com  
-   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shown are examples Ad hominem logical fallacy attempts to discredit an argument by...Read more...</p></details>
+   Link:<a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shown are examples Ad hominem logical fallacy attempts to discredit an argument by...Read more...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: prezi.com  
-   Link: <a href="https://prezi.com/52xwcr1agt1r/logical-fallacies-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/52xwcr1agt1r/logical-fallacies-appeal-to-pity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: Appeal to Pity - Mohammed HasanDefinition · A person substitutes a claim intended to create pity for evidence in an ar...</p></details>
+   Link:<a href="https://prezi.com/52xwcr1agt1r/logical-fallacies-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/52xwcr1agt1r/logical-fallacies-appeal-to-pity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: Appeal to Pity - Mohammed HasanDefinition · A person substitutes a claim intended to create pity for evidence in an ar...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: finmasters.com  
    Title: Appeal to Emotion Fallacy: Definition and Examples  
-   Link: <a href="https://finmasters.com/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/appeal-to-emotion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2023 — Appeal to emotion occurs when someone uses emotional appeals instead of relevant facts and logic to support a claim...</p></details>
+   Link:<a href="https://finmasters.com/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/appeal-to-emotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2023 — Appeal to emotion occurs when someone uses emotional appeals instead of relevant facts and logic to support a claim...</p></details>
    Published: May 23, 2023  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: inquiresabound.wordpress.com  
    Title: argumentum ad misericordiam appeal to pity  
-   Link: <a href="https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Misericordiam (Appeal to Pity) - Meta/InquiresSep 5, 2021 — It is an appeal to emotion, specifically pity, as a piece of evidence inst...</p></details>
+   Link:<a href="https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Misericordiam (Appeal to Pity) - Meta/InquiresSep 5, 2021 — It is an appeal to emotion, specifically pity, as a piece of evidence inst...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: psychologycorner.com  
-   Link: <a href="https://psychologycorner.com/critical-thinking-resources/what-is-the-appeal-to-emotion-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologycorner.com/critical-thinking-resources/what-is-the-appeal-to-emotion-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>response in place of a valid or compelling argument.Read more...</p></details>
+   Link:<a href="https://psychologycorner.com/critical-thinking-resources/what-is-the-appeal-to-emotion-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologycorner.com/critical-thinking-resources/what-is-the-appeal-to-emotion-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>response in place of a valid or compelling argument.Read more...</p></details>

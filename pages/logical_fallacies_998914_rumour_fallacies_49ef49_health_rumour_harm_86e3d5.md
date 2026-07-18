@@ -277,7 +277,7 @@ image: /assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_health_ru
 Pandemics create ideal conditions for [rumours]({{ 'rumours/' | relative_url }}). People face uncertainty, fear, rapidly changing guidance, and a strong desire for explanations. In that environment, [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) that might seem harmless in ordinary circumstances can become dangerous. Claims spread because they sound plausible, come from familiar people, or appear to fit existing suspicions, not because they have been verified.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_health_rumour_harm_86e3d5-Illustration-1-dark.svg" | relative_url }}" alt="Health Harm illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_health_rumour_harm_86e3d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_health_rumour_harm_86e3d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is more than confusion. During COVID-19 and other health emergencies, unverified claims influenced treatment decisions, delayed protective actions, increased mistrust of health authorities, and in some cases contributed to injury and death. The World Health Organization (WHO) describes this phenomenon as an “infodemic”: an overabundance of information, including false and misleading claims, that can encourage harmful behaviour and undermine public-health responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
+The result is more than confusion. During COVID-19 and other health emergencies, unverified claims influenced treatment decisions, delayed protective actions, increased mistrust of health authorities, and in some cases contributed to injury and death. The World Health Organization (WHO) describes this phenomenon as an “infodemic”: an overabundance of information, including false and misleading claims, that can encourage harmful behaviour and undermine public-health responses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
 
 ## Why health emergencies amplify rumour fallacies
 
@@ -285,13 +285,13 @@ Health emergencies place people under pressure to make decisions before complete
 
 A false-cause fallacy appears when people assume that because two events occur together, one must have caused the other. During a pandemic, a recovery after taking a home remedy can be interpreted as proof that the remedy works, even when many other explanations are possible. A hasty generalisation occurs when a small number of anecdotes are treated as evidence for a broad medical claim. An [appeal to authority]({{ 'authority/' | relative_url }}) appears when a claim is accepted because a respected figure endorsed it, regardless of whether that person has relevant expertise.
 
-Fear also changes how people evaluate information. Research on pandemic misinformation repeatedly finds that emotionally charged claims travel quickly because they appear to offer certainty in situations where genuine experts are still gathering evidence. WHO and public-health researchers have warned that such information environments can lead people to ignore protective measures, adopt risky behaviours, or lose trust in institutions responsible for managing outbreaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> The logical problem is not merely that a claim is wrong. It is that weak evidence is treated as if it were strong evidence precisely when decisions carry unusually high consequences.
+Fear also changes how people evaluate information. Research on pandemic misinformation repeatedly finds that emotionally charged claims travel quickly because they appear to offer certainty in situations where genuine experts are still gathering evidence. WHO and public-health researchers have warned that such information environments can lead people to ignore protective measures, adopt risky behaviours, or lose trust in institutions responsible for managing outbreaks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> The logical problem is not merely that a claim is wrong. It is that weak evidence is treated as if it were strong evidence precisely when decisions carry unusually high consequences.
 
 ## When rumours produce direct physical harm
 
 The clearest examples of pandemic rumour damage involve people acting on false medical claims.
 
-One of the most widely documented cases occurred during the early stages of COVID-19 when rumours circulated that consuming alcohol could kill the virus inside the body. In Iran, these claims contributed to a large outbreak of methanol poisoning. Because methanol is highly toxic and sometimes substituted for drinkable alcohol, thousands of people were poisoned and hundreds died after acting on misinformation presented as health advice. Multiple medical studies describe the episode as a direct consequence of false beliefs about COVID-19 prevention and treatment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span>
+One of the most widely documented cases occurred during the early stages of COVID-19 when rumours circulated that consuming alcohol could kill the virus inside the body. In Iran, these claims contributed to a large outbreak of methanol poisoning. Because methanol is highly toxic and sometimes substituted for drinkable alcohol, thousands of people were poisoned and hundreds died after acting on misinformation presented as health advice. Multiple medical studies describe the episode as a direct consequence of false beliefs about COVID-19 prevention and treatment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span>
 
 Researchers studying the outbreak noted that the danger did not arise from a sophisticated conspiracy theory. Instead, it emerged from a chain of weak reasoning:
 
@@ -305,7 +305,7 @@ Researchers studying the outbreak noted that the danger did not arise from a sop
 
 </div>
 
-Each step involved unsupported assumptions, yet the conclusion spread widely enough to affect behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> ScienceDirect Pandemic misinformation has also been linked to other risky behaviours <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span>, including excessive consumption of supposed preventative substances, misuse of cleaning products, and avoidance of evidence-based treatments. Reviews of COVID-19 misinformation consistently identify confusion, risk-taking behaviour, and harmful self-treatment as recurring consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span>
+Each step involved unsupported assumptions, yet the conclusion spread widely enough to affect behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> ScienceDirect Pandemic misinformation has also been linked to other risky behaviours<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span>, including excessive consumption of supposed preventative substances, misuse of cleaning products, and avoidance of evidence-based treatments. Reviews of COVID-19 misinformation consistently identify confusion, risk-taking behaviour, and harmful self-treatment as recurring consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BRylhApqr0s" title="WHO concerned over coronavirus &#x27;infodemic&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BRylhApqr0s" target="_blank" rel="noopener noreferrer">WHO concerned over coronavirus &#x27;infodemic&#x27;</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 15.2K &middot; Uploaded: February 2020 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BRylhApqr0s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BRylhApqr0s">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +317,7 @@ Family networks, religious communities, local leaders, workplace groups, neighbo
 
 This creates a form of false certainty. A claim may appear independently confirmed when it is actually being repeated through interconnected networks. The repetition itself becomes mistaken for verification.
 
-Recent public-health investigations have shown how health misinformation can be amplified by community figures and social institutions. In some cases, false health claims spread through churches, local media outlets, and influential social-media personalities before authorities had an opportunity to respond. The perceived trustworthiness of the source gave the information more persuasive power than the available evidence justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</span></span></span>
+Recent public-health investigations have shown how health misinformation can be amplified by community figures and social institutions. In some cases, false health claims spread through churches, local media outlets, and influential social-media personalities before authorities had an opportunity to respond. The perceived trustworthiness of the source gave the information more persuasive power than the available evidence justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</span></span></span>
 
 The underlying fallacy is subtle. Trust may be reasonable, but trust is not evidence. Even highly respected community figures can confidently repeat claims that have not been verified.
 
@@ -326,13 +326,13 @@ The underlying fallacy is subtle. Trust may be reasonable, but trust is not evid
 
 The harm caused by pandemic rumours is not limited to individual decisions. Repeated exposure to unsupported claims can alter how communities view public institutions.
 
-WHO reviews of infodemics have found that misinformation contributes to confusion, social distress, and mistrust of health authorities. When people become convinced that official guidance is unreliable or deceptive, they may reject future recommendations regardless of the evidence behind them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
+WHO reviews of infodemics have found that misinformation contributes to confusion, social distress, and mistrust of health authorities. When people become convinced that official guidance is unreliable or deceptive, they may reject future recommendations regardless of the evidence behind them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
 
 This creates a difficult governance problem. Public-health agencies often need to revise recommendations as new evidence emerges. Scientific updates are a normal feature of learning during an outbreak. Rumours, however, can portray those updates as proof that experts are incompetent or dishonest.
 
 The fallacy here is treating uncertainty as evidence of deception. In reality, changing guidance may reflect improved knowledge rather than bad faith. Yet once mistrust becomes established, corrective information faces a much higher barrier.
 
-Research on the COVID-19 infodemic found associations between belief in misinformation, reduced compliance with health guidance, and increased vaccine hesitancy in many settings, although scholars continue to [debate]({{ 'debate/' | relative_url }}) the precise strength of these effects and how directly online exposure translates into behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span>
+Research on the COVID-19 infodemic found associations between belief in misinformation, reduced compliance with health guidance, and increased vaccine hesitancy in many settings, although scholars continue to [debate]({{ 'debate/' | relative_url }}) the precise strength of these effects and how directly online exposure translates into behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pCstFSFKG8E" title="Is Misinformation the Problem? Re-examining the Infodemic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pCstFSFKG8E" target="_blank" rel="noopener noreferrer">Is Misinformation the Problem? Re-examining the Infodemic</a></p><p class="youtube-embed-meta">Channel: National Library of Medicine &middot; Views: 1.6K &middot; Uploaded: March 2023 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pCstFSFKG8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pCstFSFKG8E">Open on YouTube</a></p></div></div></div>
 
@@ -351,276 +351,276 @@ A more reliable approach distinguishes between plausible, possible, and establis
 
 </div>
 
-Public-health researchers increasingly emphasise that effective responses to infodemics depend not only on correcting falsehoods but also on helping people evaluate evidence more carefully. The goal is not blind trust in authorities; it is proportioning confidence to the quality of the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span>
+Public-health researchers increasingly emphasise that effective responses to infodemics depend not only on correcting falsehoods but also on helping people evaluate evidence more carefully. The goal is not blind trust in authorities; it is proportioning confidence to the quality of the available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span>
 
-Pandemic rumours become dangerous when logical shortcuts replace that discipline. Fear, urgency, and trusted messengers can make weak claims feel convincing. The real-world harms—from poisonings and delayed treatment to mistrust and social conflict—show that the consequences of faulty reasoning during a health emergency extend far beyond the rumour itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajtmh.org">[2ajtmh.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajtmh.org</span><span class="citation-popover-title">article p1621.xml</span><span class="citation-popover-snippet">COVID-19–Related Infodemic and Its Impact on Public Healthby MS Islam · 2020 · Cited by 1551 — Infodemics, often including rumors, stigma...</span></span></span>
+Pandemic rumours become dangerous when logical shortcuts replace that discipline. Fear, urgency, and trusted messengers can make weak claims feel convincing. The real-world harms—from poisonings and delayed treatment to mistrust and social conflict—show that the consequences of faulty reasoning during a health emergency extend far beyond the rumour itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajtmh.org">[2ajtmh.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajtmh.org</span><span class="citation-popover-title">article p1621.xml</span><span class="citation-popover-snippet">COVID-19–Related Infodemic and Its Impact on Public Healthby MS Islam · 2020 · Cited by 1551 — Infodemics, often including rumors, stigma...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_health_rumour_harm_86e3d5-Illustration-3-dark.svg" | relative_url }}" alt="Health Harm illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_health_rumour_harm_86e3d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_health_rumour_harm_86e3d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When health rumours become dangerous. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When health rumours become dangerous. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly relevant to medical claims and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to medical claims and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating health rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating health rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Explains how misleading claims spread and persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how misleading claims spread and persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Helps readers interpret health evidence and risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers interpret health evidence and risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="{{ '/assets/images/marketplace-covers/7765ead2918ad7c39ba6.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="{{ '/assets/images/marketplace-covers/7765ead2918ad7c39ba6.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="{{ '/assets/images/marketplace-covers/a7733c0fff66bdc76df2.jpg' | relative_url }}" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="{{ '/assets/images/marketplace-covers/a7733c0fff66bdc76df2.jpg' | relative_url }}" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Educational A3 Poster Educational Wall Chart Print - LAMINATED"><img src="{{ '/assets/images/marketplace-covers/1cdb07e59917427efbca.jpg' | relative_url }}" alt="Listing image for Solar System Educational A3 Poster Educational Wall Chart Print - LAMINATED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Solar System Educational A3 Poster Educational Wall Chart Print - LAMINATED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Educational A3 Poster Educational Wall Chart Print - LAMINATED"><img src="{{ '/assets/images/marketplace-covers/1cdb07e59917427efbca.jpg' | relative_url }}" alt="Listing image for Solar System Educational A3 Poster Educational Wall Chart Print - LAMINATED" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Solar System Educational A3 Poster Educational Wall Chart Print - LAMINATED</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-harm-when-health-rumours-become-dangerous-logical-fallacies-education-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ Pandemic rumours become dangerous when logical shortcuts replace that discipline
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ Pandemic rumours become dangerous when logical shortcuts replace that discipline
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ Pandemic rumours become dangerous when logical shortcuts replace that discipline
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ Pandemic rumours become dangerous when logical shortcuts replace that discipline
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -776,196 +776,196 @@ Pandemic rumours become dangerous when logical shortcuts replace that discipline
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicIt causes confusion and risk-taking behaviours that can harm health. It also leads to mistrust in healt...</p></details>
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicIt causes confusion and risk-taking behaviours that can harm health. It also leads to mistrust in healt...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe impact of misinformation on the COVID-19 pandemic  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7251552/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7251552/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, it is imperative to exert every effort to dispel dangerous and unscientific misinformation...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7251552/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7251552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, it is imperative to exert every effort to dispel dangerous and unscientific misinformation...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7368655/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7368655/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol intake in an attempt to fight COVID-19: A medical myth...by H Aghababaeian · 2020 · Cited by 103 — In Iran, methanol poisonin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7368655/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7368655/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol intake in an attempt to fight COVID-19: A medical myth...by H Aghababaeian · 2020 · Cited by 103 — In Iran, methanol poisonin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that peopl...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that peopl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 708 — This phenomenon, called an infodemic, i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 708 — This phenomenon, called an infodemic, i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: Disease, misinformation threaten health workers This Reuters newsletter from  
-   Link: <a href="https://www.reuters.com/sustainability/disease-misinformation-threaten-health-workers-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/disease-misinformation-threaten-health-workers-2026-05-07/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Tenerife, Spain, healthcare professionals are concerned about a potential outbreak of Andes hantavirus aboard the MV Hondius cruise sh...</p></details>
+   Link:<a href="https://www.reuters.com/sustainability/disease-misinformation-threaten-health-workers-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/disease-misinformation-threaten-health-workers-2026-05-07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Tenerife, Spain, healthcare professionals are concerned about a potential outbreak of Andes hantavirus aboard the MV Hondius cruise sh...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2468266724000318" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468266724000318</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2468266724000318" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468266724000318</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1473309924001051" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1473309924001051</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social histories of public health misinformation and...by SL Jin · 2024 · Cited by 44 — Public health authorities continue to [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1473309924001051" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1473309924001051</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social histories of public health misinformation and...by SL Jin · 2024 · Cited by 44 — Public health authorities continue to [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ajtmh.org  
    Title: article p1621.xml  
-   Link: <a href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19–Related Infodemic and Its Impact on Public Healthby MS Islam · 2020 · Cited by 1551 — Infodemics, often including rumors, stigma...</p></details>
+   Link:<a href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19–Related Infodemic and Its Impact on Public Healthby MS Islam · 2020 · Cited by 1551 — Infodemics, often including rumors, stigma...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
+   Link:<a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: emro.who.int  
-   Link: <a href="https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-2/motivations-for-alcohol-consumption-during-the-covid-19-pandemic-in-islamic-republic-of-iran.html" target="_blank" rel="noopener noreferrer nofollow">https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-2/motivations-for-alcohol-consumption-during-the-covid-19-pandemic-in-islamic-republic-of-iran.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for alcohol consumption during the COVID-19...by A Fattah · 2022 · Cited by 4 — From 7 March to 8 April 2020, methanol poisoning was rep...</p></details>
+   Link:<a href="https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-2/motivations-for-alcohol-consumption-during-the-covid-19-pandemic-in-islamic-republic-of-iran.html" target="_blank" rel="noopener noreferrer nofollow">https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-2/motivations-for-alcohol-consumption-during-the-covid-19-pandemic-in-islamic-republic-of-iran.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for alcohol consumption during the COVID-19...by A Fattah · 2022 · Cited by 4 — From 7 March to 8 April 2020, methanol poisoning was rep...</p></details>
    Published: April 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: who.int  
    Title: WH O’s response to hantavirus cases linked to a cruise ship  
-   Link: <a href="https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship</a>  
+   Link:<a href="https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 MythbustersAn alcohol-based sanitizer does not create antibiotic resistance. Unlike other antiseptics and antibiotics, pathogens...</p></details>
+   Link:<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 MythbustersAn alcohol-based sanitizer does not create antibiotic resistance. Unlike other antiseptics and antibiotics, pathogens...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing the COVID-19 infodemic: Promoting healthy...23 Sept 2020 — It includes deliberate attempts to disseminate wrong information to...</p></details>
+   Link:<a href="https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Managing the COVID-19 infodemic: Promoting healthy...23 Sept 2020 — It includes deliberate attempts to disseminate wrong information to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reuters.com  
    Title: KL M flight attendant tested negative for hantavirus infection, WHO says  
-   Link: <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/klm-flight-attendant-tested-negative-hantavirus-infection-who-says-2026-05-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/klm-flight-attendant-tested-negative-hantavirus-infection-who-says-2026-05-08/</a>  
+   Link:<a href="https://www.reuters.com/business/healthcare-pharmaceuticals/klm-flight-attendant-tested-negative-hantavirus-infection-who-says-2026-05-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/klm-flight-attendant-tested-negative-hantavirus-infection-who-says-2026-05-08/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2292949521000055" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2292949521000055</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prevalence of Misinformation and Factchecks on the...by M Cha · 2021 · Cited by 51 — We conducted an online survey via [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) plat...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S2292949521000055" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2292949521000055</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prevalence of Misinformation and Factchecks on the...by M Cha · 2021 · Cited by 51 — We conducted an online survey via [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) plat...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S073567572100930X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S073567572100930X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual disturbances in patients with acute methanol poisoning: a cross-sectional study: acute...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S073567572100930X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S073567572100930X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual disturbances in patients with acute methanol poisoning: a cross-sectional study: acute...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: COVID 19 misinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/COVID-19_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/COVID-19_misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 misinformationFalse information, including disinformation and conspiracy theories about the scale of the COVID-19 pandemic an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/COVID-19_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/COVID-19_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 misinformationFalse information, including disinformation and conspiracy theories about the scale of the COVID-19 pandemic an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: World Health Organization  
-   Link: <a href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World_Health_Organization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World_Health_Organization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>official public health information Youtube...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>official public health information Youtube...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/who/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/who/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>remove hate speech &amp; mis-disinformation...</p></details>
+   Link:<a href="https://www.instagram.com/who/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/who/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>remove hate speech &amp; mis-disinformation...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHO/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization (WHO) | GenevaWorld Health Organization (WHO), Geneva. 37250898 likes · 31672 talking about this · 142077 were...</p></details>
+   Link:<a href="https://www.facebook.com/WHO/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization (WHO) | GenevaWorld Health Organization (WHO), Geneva. 37250898 likes · 31672 talking about this · 142077 were...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: x.com  
    Title: World Health Organization (WHO)We are the UN's health agency  
-   Link: <a href="https://x.com/WHO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WHO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#HealthForAll. Always check our latest tweets for updated advice/information. We will respond to mis-and-disinformation...</p></details>
+   Link:<a href="https://x.com/WHO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WHO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#HealthForAll. Always check our latest tweets for updated advice/information. We will respond to mis-and-disinformation...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396248635_Alcohol_poisoning_in_the_shadow_of_a_COVID-19_pandemic_a_5-year_review_of_methanolethanol_toxicity_in_Northern_Iran" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396248635_Alcohol_poisoning_in_the_shadow_of_a_COVID-19_pandemic_a_5-year_review_of_methanolethanol_toxicity_in_Northern_Iran</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol poisoning, in the shadow of a COVID-19 pandemicAlcohol poisoning, in the shadow of a COVID-19 pandemic: a 5-year review of methan...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396248635_Alcohol_poisoning_in_the_shadow_of_a_COVID-19_pandemic_a_5-year_review_of_methanolethanol_toxicity_in_Northern_Iran" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396248635_Alcohol_poisoning_in_the_shadow_of_a_COVID-19_pandemic_a_5-year_review_of_methanolethanol_toxicity_in_Northern_Iran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol poisoning, in the shadow of a COVID-19 pandemicAlcohol poisoning, in the shadow of a COVID-19 pandemic: a 5-year review of methan...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: newswise.com  
-   Link: <a href="https://www.newswise.com/articles/as-covid-19-and-online-misinformation-spread-children-and-teens-were-poisoned-with-hand-sanitizer-and-alcoholic-drinks" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/as-covid-19-and-online-misinformation-spread-children-and-teens-were-poisoned-with-hand-sanitizer-and-alcoholic-drinks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As COVID-19 and Online Misinformation Spread, Children...Sep 8, 2021 — Misinformation circulating on social media included the false sug...</p></details>
+   Link:<a href="https://www.newswise.com/articles/as-covid-19-and-online-misinformation-spread-children-and-teens-were-poisoned-with-hand-sanitizer-and-alcoholic-drinks" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/as-covid-19-and-online-misinformation-spread-children-and-teens-were-poisoned-with-hand-sanitizer-and-alcoholic-drinks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As COVID-19 and Online Misinformation Spread, Children...Sep 8, 2021 — Misinformation circulating on social media included the false sug...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ballardbrief.byu.edu  
    Title: the effects of medical misinformation on the american public  
-   Link: <a href="https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public" target="_blank" rel="noopener noreferrer nofollow">https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Medical Misinformation on the American Public15 Mar 2024 — Medical misinformation causes higher rates of death and negative he...</p></details>
+   Link:<a href="https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public" target="_blank" rel="noopener noreferrer nofollow">https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Medical Misinformation on the American Public15 Mar 2024 — Medical misinformation causes higher rates of death and negative he...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: abc.net.au  
    Title: hundreds dead in iran after drinking methanol to cure virus  
-   Link: <a href="https://www.abc.net.au/news/2020-04-28/hundreds-dead-in-iran-after-drinking-methanol-to-cure-virus/12192582" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2020-04-28/hundreds-dead-in-iran-after-drinking-methanol-to-cure-virus/12192582</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds die in Iran over false belief drinking methanol...27 Apr 2020 — Health workers in Iran are warning people to not fall for coron...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2020-04-28/hundreds-dead-in-iran-after-drinking-methanol-to-cure-virus/12192582" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2020-04-28/hundreds-dead-in-iran-after-drinking-methanol-to-cure-virus/12192582</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds die in Iran over false belief drinking methanol...27 Apr 2020 — Health workers in Iran are warning people to not fall for coron...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cpha.ca  
-   Link: <a href="https://www.cpha.ca/finding-public-healths-voice-infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.cpha.ca/finding-public-healths-voice-infodemic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncluding false or misleading information in digital and physical...Read more...</p></details>
+   Link:<a href="https://www.cpha.ca/finding-public-healths-voice-infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.cpha.ca/finding-public-healths-voice-infodemic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncluding false or misleading information in digital and physical...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA syndemic of COVID-19 and methanol poisoning in Iran  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7272173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7272173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: alcohol policy, Iran, methanol poisoning, prevention, public health models...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7272173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7272173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: alcohol policy, Iran, methanol poisoning, prevention, public health models...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: societyofeditors.org  
-   Link: <a href="https://www.societyofeditors.org/soe_news/full-fact-we-dont-know-whether-misinformation-killed-800-people/" target="_blank" rel="noopener noreferrer nofollow">https://www.societyofeditors.org/soe_news/full-fact-we-dont-know-whether-misinformation-killed-800-people/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We don&#x27;t know whether “misinformation” killed 800 peopleAug 20, 2020 — The figure of 800 comes almost entirely from alcohol poisoning deaths...</p></details>
+   Link:<a href="https://www.societyofeditors.org/soe_news/full-fact-we-dont-know-whether-misinformation-killed-800-people/" target="_blank" rel="noopener noreferrer nofollow">https://www.societyofeditors.org/soe_news/full-fact-we-dont-know-whether-misinformation-killed-800-people/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We don&#x27;t know whether “misinformation” killed 800 peopleAug 20, 2020 — The figure of 800 comes almost entirely from alcohol poisoning deaths...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: d-nb.info  
    Title: In methanol poisoning, the efficacy of tr  
-   Link: <a href="https://d-nb.info/1217232400/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1217232400/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>methanol outbreak in the wake of the COVID-19 pandemic...by H Hassanian-Moghaddam · 2020 · Cited by 100 — to human lives [4], as health...</p></details>
+   Link:<a href="https://d-nb.info/1217232400/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1217232400/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>methanol outbreak in the wake of the COVID-19 pandemic...by H Hassanian-Moghaddam · 2020 · Cited by 100 — to human lives [4], as health...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: m.dongascience.com  
-   Link: <a href="https://m.dongascience.com/en/news/39006" target="_blank" rel="noopener noreferrer nofollow">https://m.dongascience.com/en/news/39006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dongascience.com800 Deaths Between Jan-March Linked to COVID-19 Fake...Aug 13, 2020 — This [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) often gained credibility by disguis...</p></details>
+   Link:<a href="https://m.dongascience.com/en/news/39006" target="_blank" rel="noopener noreferrer nofollow">https://m.dongascience.com/en/news/39006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dongascience.com800 Deaths Between Jan-March Linked to COVID-19 Fake...Aug 13, 2020 — This [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) often gained credibility by disguis...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
    Title: (PDF) Methanol Mass Poisoning Outbreak  
-   Link: <a href="https://www.researchgate.net/publication/342986329_Methanol_Mass_Poisoning_Outbreak_A_Consequence_of_COVID-19_Pandemic_and_Misleading_Messages_on_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342986329_Methanol_Mass_Poisoning_Outbreak_A_Consequence_of_COVID-19_Pandemic_and_Misleading_Messages_on_Social_Media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation regarding the alleged protective effects of alcohol against... poisoning during COVID-19 pandemic: a multicenter study of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342986329_Methanol_Mass_Poisoning_Outbreak_A_Consequence_of_COVID-19_Pandemic_and_Misleading_Messages_on_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342986329_Methanol_Mass_Poisoning_Outbreak_A_Consequence_of_COVID-19_Pandemic_and_Misleading_Messages_on_Social_Media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation regarding the alleged protective effects of alcohol against... poisoning during COVID-19 pandemic: a multicenter study of...</p></details>

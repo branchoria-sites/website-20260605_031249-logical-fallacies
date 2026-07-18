@@ -274,12 +274,12 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermi
 
 ## Introduction
 
-Sports logo superstitions survive for the same reason many other superstitions survive: they are rewarded just often enough to feel convincing. A fan avoids stepping on a dressing-room logo, wears a shirt with an old crest, or insists that a redesigned badge brought bad luck. Most of the time nothing special happens. But when a victory follows the ritual, that coincidence becomes memorable. The occasional success acts as a powerful form of intermittent reinforcement, encouraging the behaviour to continue even when there is no reliable evidence that it affects results. Research on sport superstition repeatedly finds that athletes and supporters maintain rituals because occasional positive outcomes are psychologically compelling, especially in uncertain competitive environments. Taylor & Francis Online PubMed Within the broader topic of team logo causation <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span>, intermittent reinforcement helps explain why beliefs about “lucky” or “unlucky” logos can persist despite long stretches of contradictory evidence.
+Sports logo superstitions survive for the same reason many other superstitions survive: they are rewarded just often enough to feel convincing. A fan avoids stepping on a dressing-room logo, wears a shirt with an old crest, or insists that a redesigned badge brought bad luck. Most of the time nothing special happens. But when a victory follows the ritual, that coincidence becomes memorable. The occasional success acts as a powerful form of intermittent reinforcement, encouraging the behaviour to continue even when there is no reliable evidence that it affects results. Research on sport superstition repeatedly finds that athletes and supporters maintain rituals because occasional positive outcomes are psychologically compelling, especially in uncertain competitive environments. Taylor & Francis Online PubMed Within the broader topic of team logo causation<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span>, intermittent reinforcement helps explain why beliefs about “lucky” or “unlucky” logos can persist despite long stretches of contradictory evidence.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1-dark.svg" | relative_url }}" alt="Lucky Hits illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Lucky Coincidences Become Rules
 
-Intermittent reinforcement occurs when a behaviour is followed by a desired outcome only some of the time. Behavioural psychologists have long recognised that actions reinforced unpredictably can become surprisingly persistent. The classic example is B. F. Skinner’s work on “superstitious” behaviour, in which animals appeared to repeat arbitrary actions after accidental pairings with rewards. Skinner argued that a few chance successes can create the impression of a causal relationship even when none exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychclassics.yorku.ca/Skinner/Pigeon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychclassics.yorku.ca">[psychclassics.yorku.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychclassics.yorku.ca</span><span class="citation-popover-snippet">The bird behaves as if there were a causal relation between its behavior and the...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the gap between laboratory and applied research on...by ET Ingvarsson · 2022 · Cited by 12 — In 1948, Skinner described the behavior of...</span></span></span>
+Intermittent reinforcement occurs when a behaviour is followed by a desired outcome only some of the time. Behavioural psychologists have long recognised that actions reinforced unpredictably can become surprisingly persistent. The classic example is B. F. Skinner’s work on “superstitious” behaviour, in which animals appeared to repeat arbitrary actions after accidental pairings with rewards. Skinner argued that a few chance successes can create the impression of a causal relationship even when none exists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychclassics.yorku.ca/Skinner/Pigeon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychclassics.yorku.ca">[psychclassics.yorku.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychclassics.yorku.ca</span><span class="citation-popover-snippet">The bird behaves as if there were a causal relation between its behavior and the...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the gap between laboratory and applied research on...by ET Ingvarsson · 2022 · Cited by 12 — In 1948, Skinner described the behavior of...</span></span></span>
 
 Applied to sports logo superstitions, the process is straightforward:
 
@@ -295,7 +295,7 @@ Applied to sports logo superstitions, the process is straightforward:
 
 </div>
 
-The crucial point is that the ritual does not need to work consistently. A supporter who wears a retro-logo cap for ten matches may remember the three dramatic victories that followed while treating the seven ordinary results as less important. The rare “hits” carry more emotional weight than the routine misses. Sport psychology research has repeatedly identified accidental associations between behaviour and success as a major source of superstitious practices among athletes and fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> PubMed Because sport outcomes are uncertain by nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span>, there is always a supply of chance successes available to reinforce the belief.
+The crucial point is that the ritual does not need to work consistently. A supporter who wears a retro-logo cap for ten matches may remember the three dramatic victories that followed while treating the seven ordinary results as less important. The rare “hits” carry more emotional weight than the routine misses. Sport psychology research has repeatedly identified accidental associations between behaviour and success as a major source of superstitious practices among athletes and fans.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> PubMed Because sport outcomes are uncertain by nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span>, there is always a supply of chance successes available to reinforce the belief.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XWBXQAa-IU" title="The Superstitious Pigeon: B. F. Skinner 1948 Keon West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XWBXQAa-IU" target="_blank" rel="noopener noreferrer">The Superstitious Pigeon: B. F. Skinner 1948 Keon West</a></p><p class="youtube-embed-meta">Channel: The Faculties &middot; Views: 10.2K &middot; Uploaded: January 2015 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XWBXQAa-IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XWBXQAa-IU">Open on YouTube</a></p></div></div></div>
 
@@ -314,7 +314,7 @@ Each explanation protects the underlying belief from direct testing.
 
 This pattern resembles a broader logical error in which evidence is filtered selectively. Successful outcomes are treated as confirmation, while unsuccessful outcomes are discounted, forgotten or explained away. The result is a self-sealing belief system. Every victory appears meaningful; every defeat receives an alternative explanation.
 
-Studies of sport superstition note that rituals often persist despite inconsistent outcomes because participants focus on occasions when the ritual and success coincide. The emotional intensity of sporting victories makes these pairings especially memorable. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Studies of sport superstition note that rituals often persist despite inconsistent outcomes because participants focus on occasions when the ritual and success coincide. The emotional intensity of sporting victories makes these pairings especially memorable. Taylor & Francis Online<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In logo-related beliefs, this means a supporter may vividly recall a cup run that began after restoring an old badge to a profile picture, while forgetting dozens of ordinary matches in which the same action produced no apparent effect.
 
@@ -323,7 +323,7 @@ In logo-related beliefs, this means a supporter may vividly recall a cup run tha
 
 Intermittent reinforcement becomes even more powerful during losing streaks.
 
-A common assumption is that repeated failure should weaken superstition. In practice, the opposite often occurs. When results deteriorate, uncertainty and anxiety increase. Athletes and supporters then search for actions that restore a sense of control. Research on sports superstition consistently finds that rituals can serve a psychological function by reducing anxiety and creating feelings of confidence, predictability or control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revistas.um.es/sportk/article/view/686101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistas.um.es">[Revistas UM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistas.um.es</span><span class="citation-popover-snippet">Mental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/41432157/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Superstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpbs.thebrpi.org">[3jpbs.thebrpi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpbs.thebrpi.org</span><span class="citation-popover-snippet">Superstitions and accompanying rituals are common among athletes and appear to provide an experience of control over performance.Read more...</span></span></span>
+A common assumption is that repeated failure should weaken superstition. In practice, the opposite often occurs. When results deteriorate, uncertainty and anxiety increase. Athletes and supporters then search for actions that restore a sense of control. Research on sports superstition consistently finds that rituals can serve a psychological function by reducing anxiety and creating feelings of confidence, predictability or control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://revistas.um.es/sportk/article/view/686101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistas.um.es">[Revistas UM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistas.um.es</span><span class="citation-popover-snippet">Mental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</span><span class="citation-popover-meta">Published: May 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/41432157/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Superstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpbs.thebrpi.org">[3jpbs.thebrpi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpbs.thebrpi.org</span><span class="citation-popover-snippet">Superstitions and accompanying rituals are common among athletes and appear to provide an experience of control over performance.Read more...</span></span></span>
 
 For logo superstitions, a slump may trigger behavioural escalation:
 
@@ -346,276 +346,276 @@ This constant revision makes the belief difficult to disprove. Failures do not n
 
 The strength of intermittent reinforcement lies in its emotional structure. Sporting victories are rare, valuable and highly memorable. A dramatic win after a logo ritual feels important precisely because the outcome matters so much.
 
-Psychological research suggests that superstitions thrive in environments characterised by uncertainty, high stakes and limited control—all conditions that define competitive sport. Under those circumstances, occasional coincidences can appear meaningful even when they are statistically unremarkable. Taylor & Francis Online PubMed Logo superstitions therefore do not require continuous evidence. They need only enough memorable successes to keep the belief alive. Every lu <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span> cky coincidence acts as a fresh reminder that the ritual “might work”, while forgotten failures fade into the background.
+Psychological research suggests that superstitions thrive in environments characterised by uncertainty, high stakes and limited control—all conditions that define competitive sport. Under those circumstances, occasional coincidences can appear meaningful even when they are statistically unremarkable. Taylor & Francis Online PubMed Logo superstitions therefore do not require continuous evidence. They need only enough memorable successes to keep the belief alive. Every lu<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span> cky coincidence acts as a fresh reminder that the ritual “might work”, while forgotten failures fade into the background.
 
 For that reason, intermittent reinforcement is one of the most effective engines behind sports logo causation beliefs. It transforms scattered coincidences into apparent rules, preserves those rules through selective memory, and often strengthens them precisely when poor results should have cast the most doubt on them.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-3-dark.svg" | relative_url }}" alt="Lucky Hits illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Logo Superstitions Survive Bad Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Logo Superstitions Survive Bad Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Perfect fit for superstition reinforced by coincidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Perfect fit for superstition reinforced by coincidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases behind superstition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases behind superstition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Useful for understanding repeated rituals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding repeated rituals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Dj_ZCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for You Are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Are Not So Smart">You Are Not So Smart</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Dj_ZCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for You Are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Are Not So Smart">You Are Not So Smart</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">Explores self-deception and bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores self-deception and bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Logo Cap Business Branded Embroidered Personalised Company Team Hat"><img src="{{ '/assets/images/marketplace-covers/0abc1ec1ce6788905780.jpg' | relative_url }}" alt="Listing image for Custom Logo Cap Business Branded Embroidered Personalised Company Team Hat" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Logo Cap Business Branded Embroidered Personalised Company Team Hat</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Logo Cap Business Branded Embroidered Personalised Company Team Hat"><img src="{{ '/assets/images/marketplace-covers/0abc1ec1ce6788905780.jpg' | relative_url }}" alt="Listing image for Custom Logo Cap Business Branded Embroidered Personalised Company Team Hat" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Logo Cap Business Branded Embroidered Personalised Company Team Hat</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mexico 2026 Team Logo Adidas Green Hat Adult Snapback Hat"><img src="{{ '/assets/images/marketplace-covers/89fddfef49f08ab0089e.jpg' | relative_url }}" alt="Listing image for Mexico 2026 Team Logo Adidas Green Hat Adult Snapback Hat" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mexico 2026 Team Logo Adidas Green Hat Adult Snapback Hat</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mexico 2026 Team Logo Adidas Green Hat Adult Snapback Hat"><img src="{{ '/assets/images/marketplace-covers/89fddfef49f08ab0089e.jpg' | relative_url }}" alt="Listing image for Mexico 2026 Team Logo Adidas Green Hat Adult Snapback Hat" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mexico 2026 Team Logo Adidas Green Hat Adult Snapback Hat</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adidas Team GB Dad Cap - Olympic Logo Adjustable Baseball Hat - Navy"><img src="{{ '/assets/images/marketplace-covers/7f5d2d422ce4272f83a4.jpg' | relative_url }}" alt="Listing image for Adidas Team GB Dad Cap - Olympic Logo Adjustable Baseball Hat - Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Adidas Team GB Dad Cap - Olympic Logo Adjustable Baseball Hat - Navy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adidas Team GB Dad Cap - Olympic Logo Adjustable Baseball Hat - Navy"><img src="{{ '/assets/images/marketplace-covers/7f5d2d422ce4272f83a4.jpg' | relative_url }}" alt="Listing image for Adidas Team GB Dad Cap - Olympic Logo Adjustable Baseball Hat - Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Adidas Team GB Dad Cap - Olympic Logo Adjustable Baseball Hat - Navy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage New Era Cap Mens Size O/S Blue Adjustable Team Logo"><img src="{{ '/assets/images/marketplace-covers/4f86dc188669dbe21641.jpg' | relative_url }}" alt="Listing image for Vintage New Era Cap Mens Size O/S Blue Adjustable Team Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage New Era Cap Mens Size O/S Blue Adjustable Team Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage New Era Cap Mens Size O/S Blue Adjustable Team Logo"><img src="{{ '/assets/images/marketplace-covers/4f86dc188669dbe21641.jpg' | relative_url }}" alt="Listing image for Vintage New Era Cap Mens Size O/S Blue Adjustable Team Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage New Era Cap Mens Size O/S Blue Adjustable Team Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lucky-hits-why-logo-superstitions-survive-bad-evidence-logical-fallacies-team-logo-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -631,7 +631,7 @@ For that reason, intermittent reinforcement is one of the most effective engines
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -651,7 +651,7 @@ For that reason, intermittent reinforcement is one of the most effective engines
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -683,7 +683,7 @@ For that reason, intermittent reinforcement is one of the most effective engines
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ For that reason, intermittent reinforcement is one of the most effective engines
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -771,116 +771,116 @@ For that reason, intermittent reinforcement is one of the most effective engines
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psychclassics.yorku.ca  
-   Link: <a href="https://psychclassics.yorku.ca/Skinner/Pigeon/" target="_blank" rel="noopener noreferrer nofollow">https://psychclassics.yorku.ca/Skinner/Pigeon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The bird behaves as if there were a causal relation between its behavior and the...Read more...</p></details>
+   Link:<a href="https://psychclassics.yorku.ca/Skinner/Pigeon/" target="_blank" rel="noopener noreferrer nofollow">https://psychclassics.yorku.ca/Skinner/Pigeon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The bird behaves as if there were a causal relation between its behavior and the...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the gap between laboratory and applied research on...by ET Ingvarsson · 2022 · Cited by 12 — In 1948, Skinner described the behavior of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the gap between laboratory and applied research on...by ET Ingvarsson · 2022 · Cited by 12 — In 1948, Skinner described the behavior of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jpbs.thebrpi.org  
-   Link: <a href="https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitions and accompanying rituals are common among athletes and appear to provide an [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) of control over performance.Read more...</p></details>
+   Link:<a href="https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitions and accompanying rituals are common among athletes and appear to provide an [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) of control over performance.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: revistas.um.es  
-   Link: <a href="https://revistas.um.es/sportk/article/view/686101" target="_blank" rel="noopener noreferrer nofollow">https://revistas.um.es/sportk/article/view/686101</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</p></details>
+   Link:<a href="https://revistas.um.es/sportk/article/view/686101" target="_blank" rel="noopener noreferrer nofollow">https://revistas.um.es/sportk/article/view/686101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41432157/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41432157/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41432157/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41432157/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf</a>  
+   Link:<a href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/superstitious" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/superstitious</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarybased on or believing in superstitions (= beliefs based on old ideas about luck and magic rather...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/superstitious" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/superstitious</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarybased on or believing in superstitions (= beliefs based on old ideas about luck and magic rather...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Superstition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Superstition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SuperstitionA superstition is any belief or practice considered by non-practitioners to be irrational or supernatural. It is commonly...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Superstition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Superstition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SuperstitionA superstition is any belief or practice considered by non-practitioners to be irrational or supernatural. It is commonly...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/superstitious" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/superstitious</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning11 May 2026 — The meaning of SUPERSTITIOUS is of, relating to, or swayed by superstition. How to use superstitious in...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/superstitious" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/superstitious</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning11 May 2026 — The meaning of SUPERSTITIOUS is of, relating to, or swayed by superstition. How to use superstitious in...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/superstition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This belief system often...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/superstition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This belief system often...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychologistworld.com  
-   Link: <a href="https://www.psychologistworld.com/superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/superstition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist WorldSkinner&#x27;s Pigeon Experiment revealed that even pigeons can be conditioned to develop superstitious behaviours in belief...</p></details>
+   Link:<a href="https://www.psychologistworld.com/superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/superstition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist WorldSkinner&#x27;s Pigeon Experiment revealed that even pigeons can be conditioned to develop superstitious behaviours in belief...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377059901_The_Influence_of_Skinner%27s_1948_Study_of_the_%27Superstition_in_the_Pigeon%27_on_Noncontingent_Reinforcement_Learning_Research_-_A_Critical_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377059901_The_Influence_of_Skinner%27s_1948_Study_of_the_%27Superstition_in_the_Pigeon%27_on_Noncontingent_Reinforcement_Learning_Research_-_A_Critical_Perspective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of Skinner&#x27;s (1948) Study of the &#x27;Superstition...Jan 1, 2024 — Skinner&#x27;s (1948) research on his self-proclaimed &#x27;superstit...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377059901_The_Influence_of_Skinner%27s_1948_Study_of_the_%27Superstition_in_the_Pigeon%27_on_Noncontingent_Reinforcement_Learning_Research_-_A_Critical_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377059901_The_Influence_of_Skinner%27s_1948_Study_of_the_%27Superstition_in_the_Pigeon%27_on_Noncontingent_Reinforcement_Learning_Research_-_A_Critical_Perspective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of Skinner&#x27;s (1948) Study of the &#x27;Superstition...Jan 1, 2024 — Skinner&#x27;s (1948) research on his self-proclaimed &#x27;superstit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mobt3ath.com  
-   Link: <a href="https://www.mobt3ath.com/uplode/book/book-46937.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mobt3ath.com/uplode/book/book-46937.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superstition in Sport: A Phenomenological StudyWhether the reason is sport related or individually supplied, superstitious behaviors will...</p></details>
+   Link:<a href="https://www.mobt3ath.com/uplode/book/book-46937.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mobt3ath.com/uplode/book/book-46937.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superstition in Sport: A Phenomenological StudyWhether the reason is sport related or individually supplied, superstitious behaviors will...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: innerdrive.co.uk  
-   Link: <a href="https://www.innerdrive.co.uk/blog/superstition-athletes/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/superstition-athletes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Activating a superstition boosts self-efficacy – meaning, it makes you feel confident...Read more...</p></details>
+   Link:<a href="https://www.innerdrive.co.uk/blog/superstition-athletes/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/superstition-athletes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Activating a superstition boosts self-efficacy – meaning, it makes you feel confident...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: simplypsychology.org  
    Title: Simply Psychology Operant Conditioning In Psychology: B.F  
-   Link: <a href="https://www.simplypsychology.org/operant-conditioning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/operant-conditioning.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinner Theoryby S McLeod · Cited by 60 — Just like humans, pigeons can develop “superstitious” behaviors based on coincidental occurrenc...</p></details>
+   Link:<a href="https://www.simplypsychology.org/operant-conditioning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/operant-conditioning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinner Theoryby S McLeod · Cited by 60 — Just like humans, pigeons can develop “superstitious” behaviors based on coincidental occurrenc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: balticsportscience.com  
    Title: Not only does observation of athlete's behavior, but al  
-   Link: <a href="https://www.balticsportscience.com/cgi/viewcontent.cgi?article=1300&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://www.balticsportscience.com/cgi/viewcontent.cgi?article=1300&amp;[context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-performance rituals and anxiety among young Polish...by J Basiaga-Pasternak · 2019 · Cited by 15 — Due to a repetitive nature of sup...</p></details>
+   Link:<a href="https://www.balticsportscience.com/cgi/viewcontent.cgi?article=1300&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://www.balticsportscience.com/cgi/viewcontent.cgi?article=1300&amp;[context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-performance rituals and anxiety among young Polish...by J Basiaga-Pasternak · 2019 · Cited by 15 — Due to a repetitive nature of sup...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aubreydaniels.com  
    Title: Are We Superstitious About "Superstitious" Behavior?  
-   Link: <a href="https://www.aubreydaniels.com/blog/are-we-superstitious-about-superstitious-behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.aubreydaniels.com/blog/are-we-superstitious-about-superstitious-behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 27, 2014 — Skinner labeled such behavior as &quot;superstitious,&quot; and suggested that it maintained because of the accidental temporal...</p></details>
+   Link:<a href="https://www.aubreydaniels.com/blog/are-we-superstitious-about-superstitious-behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.aubreydaniels.com/blog/are-we-superstitious-about-superstitious-behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 27, 2014 — Skinner labeled such behavior as &quot;superstitious,&quot; and suggested that it maintained because of the accidental temporal...</p></details>
    Published: October 27, 2014  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: members.believeperform.com  
    Title: the power of superstitions and rituals in sport  
-   Link: <a href="https://members.believeperform.com/the-power-of-superstitions-and-rituals-in-sport/" target="_blank" rel="noopener noreferrer nofollow">https://members.believeperform.com/the-power-of-superstitions-and-rituals-in-sport/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>power of superstitions and rituals in sportMany sports performers believe that performing a specific ritual before a competition improves...</p></details>
+   Link:<a href="https://members.believeperform.com/the-power-of-superstitions-and-rituals-in-sport/" target="_blank" rel="noopener noreferrer nofollow">https://members.believeperform.com/the-power-of-superstitions-and-rituals-in-sport/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>power of superstitions and rituals in sportMany sports performers believe that performing a specific ritual before a competition improves...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/919407035/Skinner" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/919407035/Skinner</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y reinforcement. He observed that pigeons, when placed in an...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/919407035/Skinner" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/919407035/Skinner</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y reinforcement. He observed that pigeons, when placed in an...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: drstankovich.com  
    Title: Sport Superstitions and Pre-Game Rituals  
-   Link: <a href="https://drstankovich.com/sport-superstitions-pre-game-rituals/" target="_blank" rel="noopener noreferrer nofollow">https://drstankovich.com/sport-superstitions-pre-game-rituals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Stankovich27 Oct 2009 — I was recently interviewed about my thoughts on sports performance, and how superstitions differ from pre-g...</p></details>
+   Link:<a href="https://drstankovich.com/sport-superstitions-pre-game-rituals/" target="_blank" rel="noopener noreferrer nofollow">https://drstankovich.com/sport-superstitions-pre-game-rituals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Stankovich27 Oct 2009 — I was recently interviewed about my thoughts on sports performance, and how superstitions differ from pre-g...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/292810172_Superstitious_behavior_in_sport_Levels_of_effectiveness_and_determinants_of_use_in_three_collegiate_sports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292810172_Superstitious_behavior_in_sport_Levels_of_effectiveness_and_determinants_of_use_in_three_collegiate_sports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitious behavior in sport: Levels of effectiveness and...16 Jun 2016 — However, most superstitious behaviors stem from the individ...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292810172_Superstitious_behavior_in_sport_Levels_of_effectiveness_and_determinants_of_use_in_three_collegiate_sports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292810172_Superstitious_behavior_in_sport_Levels_of_effectiveness_and_determinants_of_use_in_three_collegiate_sports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitious behavior in sport: Levels of effectiveness and...16 Jun 2016 — However, most superstitious behaviors stem from the individ...</p></details>

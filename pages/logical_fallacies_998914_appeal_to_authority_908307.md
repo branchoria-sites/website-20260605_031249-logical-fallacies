@@ -501,33 +501,33 @@ image: /assets/images/logical_fallacies_998914_appeal_to_authority_908307-overvi
 
 ## Introduction
 
-When evaluating arguments, expert testimony can often seem persuasive—but relying on expert opinion raises its own reasoning hazards. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), **appeal to authority** refers to treating an authority’s statement as if it were proof of a claim, rather than supportive evidence (the *argumentum ad verecundiam* fallacy).⁤ What distinguishes a sound expert contribution from a fallacious appeal is not the presence of an expert per se, but *how* the expert’s view is used and whether it truly strengthens the argument beyond status alone. This page focuses tightly on those [boundaries]({{ 'boundaries/' | relative_url }}) and limits, clarifying when expert opinion is supportive and when it weakens an argument within the study of logical fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from authority</span><span class="citation-popover-snippet">Argument from authority</span></span></span>
+When evaluating arguments, expert testimony can often seem persuasive—but relying on expert opinion raises its own reasoning hazards. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), **appeal to authority** refers to treating an authority’s statement as if it were proof of a claim, rather than supportive evidence (the *argumentum ad verecundiam* fallacy).⁤ What distinguishes a sound expert contribution from a fallacious appeal is not the presence of an expert per se, but *how* the expert’s view is used and whether it truly strengthens the argument beyond status alone. This page focuses tightly on those [boundaries]({{ 'boundaries/' | relative_url }}) and limits, clarifying when expert opinion is supportive and when it weakens an argument within the study of logical fallacies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from authority</span><span class="citation-popover-snippet">Argument from authority</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-overview.webp" | relative_url }}" alt="Overview image for Authority" loading="eager" decoding="sync" fetchpriority="high">
 ## When Expert Opinion Is Evidence — and When It Isn’t
 
-An appeal to authority becomes a fallacy **when the expert’s standing is treated as sufficient proof of the claim without substantive evidence**. In its simplest form this translates to the pattern: *“Person X is an authority on topic Y; X says claim Z is true; therefore Z is true.”* While this feels persuasive, it does not by itself establish the truth of Z.⁤ <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious Appeal to Authority</span><span class="citation-popover-snippet">Logically FallaciousAppeal to Authority - Logically Fallacious...</span></span></span>
+An appeal to authority becomes a fallacy **when the expert’s standing is treated as sufficient proof of the claim without substantive evidence**. In its simplest form this translates to the pattern: *“Person X is an authority on topic Y; X says claim Z is true; therefore Z is true.”* While this feels persuasive, it does not by itself establish the truth of Z.⁤<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious Appeal to Authority</span><span class="citation-popover-snippet">Logically FallaciousAppeal to Authority - Logically Fallacious...</span></span></span>
 
-However, the mere involvement of an expert does not automatically make an argument fallacious. Philosophers and critical thinkers note that *expert testimony can be a reasonable part of good reasoning* if certain conditions are met, such as qualified expertise, consensus in the field, and relevant evidence backing the conclusion.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+However, the mere involvement of an expert does not automatically make an argument fallacious. Philosophers and critical thinkers note that *expert testimony can be a reasonable part of good reasoning* if certain conditions are met, such as qualified expertise, consensus in the field, and relevant evidence backing the conclusion.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
 ## Relevant Expertise: What Counts as an Authority?
 
 Experts are not interchangeable: their authority depends on **[relevance]({{ 'relevance/' | relative_url }})** and **domain specificity**:
 
-* **Domain relevance:** A medical doctor is authoritative on health issues but not on, say, financial markets. Citing them outside their field weakens the argument.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
-* **Identified credentials:** Vague references like “experts say…” are weak, because without identification you cannot assess the expert’s actual qualifications.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 16, 2023...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
-* **Consensus and dispute:** Even genuine experts may disagree; when there is no clear consensus, appealing to a single expert as the definitive voice is weak support.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
+* **Domain relevance:** A medical doctor is authoritative on health issues but not on, say, financial markets. Citing them outside their field weakens the argument.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+* **Identified credentials:** Vague references like “experts say…” are weak, because without identification you cannot assess the expert’s actual qualifications.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 16, 2023...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
+* **Consensus and dispute:** Even genuine experts may disagree; when there is no clear consensus, appealing to a single expert as the definitive voice is weak support.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
 
-Experts also vary in credibility due to biases, funding influences, and methodological disagreements, and these factors can diminish the weight their opinions carry in argumentation.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+Experts also vary in credibility due to biases, funding influences, and methodological disagreements, and these factors can diminish the weight their opinions carry in argumentation.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-dark.svg" | relative_url }}" alt="Authority illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Misquoted Authorities and Bogus Expert Claims
 
 A common source of fallacious appeals is **misusing or misquoting authorities**:
 
-* **False authority:** Citing someone with no real expertise in the relevant area—such as celebrities endorsing scientific claims—demonstrates this fallacy clearly.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
-* **Anonymous authority:** Attributing a claim to “experts” without naming them or showing their reasoning prevents verification and renders the appeal weak or fallacious.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 16, 2023...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
-* **Biased or vested-interest authority:** Experts who have financial or ideological stakes in a conclusion may be less reliable and can mislead if their status is taken as evidence without scrutiny.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
+* **False authority:** Citing someone with no real expertise in the relevant area—such as celebrities endorsing scientific claims—demonstrates this fallacy clearly.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+* **Anonymous authority:** Attributing a claim to “experts” without naming them or showing their reasoning prevents verification and renders the appeal weak or fallacious.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 16, 2023...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
+* **Biased or vested-interest authority:** Experts who have financial or ideological stakes in a conclusion may be less reliable and can mislead if their status is taken as evidence without scrutiny.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
 
 In each case, the trouble is not that an authority was cited, but that the expert’s relevance, trustworthiness, or link to evidence is insufficiently established.
 
@@ -535,9 +535,9 @@ In each case, the trouble is not that an authority was cited, but that the exper
 
 ## Why Expert Opinion Alone Is Weak Support
 
-Philosophers of logic emphasise that arguments from expert opinion are **inductively weak unless they significantly increase the likelihood of truth** relative to other evidence. Simply pointing to an expert does not, by itself, offer grounding in data, reasoning, or independent verification. In fact, research suggests expert judgments can be only modestly more accurate than chance without supporting evidence and systematic evaluation.⁤ <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicWhy Arguments from Expert Opinion are Weak Arguments &#124; Informal LogicMarch 15, 2013...</span><span class="citation-popover-meta">Published: March 15, 2013</span></span></span>
+Philosophers of logic emphasise that arguments from expert opinion are **inductively weak unless they significantly increase the likelihood of truth** relative to other evidence. Simply pointing to an expert does not, by itself, offer grounding in data, reasoning, or independent verification. In fact, research suggests expert judgments can be only modestly more accurate than chance without supporting evidence and systematic evaluation.⁤<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicWhy Arguments from Expert Opinion are Weak Arguments &#124; Informal LogicMarch 15, 2013...</span><span class="citation-popover-meta">Published: March 15, 2013</span></span></span>
 
-From the standpoint of [formal logic]({{ 'formal-logic/' | relative_url }}), an appeal to authority is never a deductively valid proof—**even a genuine expert might be wrong**. The fallacy lies in substituting the expert’s status for actual justification, not in citing expertise per se.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://critical-thinking.org.uk/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critical-thinking.org.uk">[critical-thinking.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critical-thinking.org.uk</span><span class="citation-popover-title">Appeal to Authority</span><span class="citation-popover-snippet">July 24, 2014...</span><span class="citation-popover-meta">Published: July 24, 2014</span></span></span>
+From the standpoint of [formal logic]({{ 'formal-logic/' | relative_url }}), an appeal to authority is never a deductively valid proof—**even a genuine expert might be wrong**. The fallacy lies in substituting the expert’s status for actual justification, not in citing expertise per se.⁤<span class="citation-link-wrap"><a class="citation-inline-link" href="https://critical-thinking.org.uk/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critical-thinking.org.uk">[critical-thinking.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critical-thinking.org.uk</span><span class="citation-popover-title">Appeal to Authority</span><span class="citation-popover-snippet">July 24, 2014...</span><span class="citation-popover-meta">Published: July 24, 2014</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-3-dark.svg" | relative_url }}" alt="Authority illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Beyond Credentials: Evidence and Consensus
@@ -568,280 +568,280 @@ To assess whether an appeal to authority is fallacious or reasonable, ask:
 
 </div>
 
-If the answer to these questions is yes, the argument may be sound; if not, you are likely dealing with a weak appeal to authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious Appeal to Authority</span><span class="citation-popover-snippet">Logically FallaciousAppeal to Authority - Logically Fallacious...</span></span></span>
+If the answer to these questions is yes, the argument may be sound; if not, you are likely dealing with a weak appeal to authority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious Appeal to Authority</span><span class="citation-popover-snippet">Logically FallaciousAppeal to Authority - Logically Fallacious...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ns305L-he40" title="Appeal to Authority (Misunderstood Fallacies)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer">Appeal to Authority (Misunderstood Fallacies)</a></p><p class="youtube-embed-meta">Channel: Thinking About Stuff &middot; Views: 13.2K &middot; Uploaded: December 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ns305L-he40">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
-Expert opinion plays an important role in everyday reasoning and decision-making. But in argumentative logic, **appeal to authority becomes fallacious when expertise is irrelevant, overstated, or used as a surrogate for evidence**. Recognising the limits of expert testimony—by checking relevance, corroboration, and supporting evidence—helps distinguish legitimate use of expertise from weak or fallacious argumentation within the broader study of logical fallacies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
+Expert opinion plays an important role in everyday reasoning and decision-making. But in argumentative logic, **appeal to authority becomes fallacious when expertise is irrelevant, overstated, or used as a surrogate for evidence**. Recognising the limits of expert testimony—by checking relevance, corroboration, and supporting evidence—helps distinguish legitimate use of expertise from weak or fallacious argumentation within the broader study of logical fallacies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WsON5mGeVto" title="Appeal to Authority: When trusting experts becomes a logical fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer">Appeal to Authority: When trusting experts becomes a logical fallacy</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 6.1K &middot; Uploaded: January 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WsON5mGeVto">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should You Trust an Expert?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should You Trust an Expert?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses authority claims, evidence, and logical fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses authority claims, evidence, and logical fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Field+Guide+to+Lies+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Field Guide to Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5P7wjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Field Guide to Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Field+Guide+to+Lies+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Field Guide to Lies">A Field Guide to Lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Field+Guide+to+Lies+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Field Guide to Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5P7wjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Field Guide to Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Field+Guide+to+Lies+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Field Guide to Lies">A Field Guide to Lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Teaches evaluation of claims beyond credentials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Field+Guide+to+Lies+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evaluation of claims beyond credentials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Field+Guide+to+Lies+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people defer to authority and mental shortcuts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people defer to authority and mental shortcuts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Provides practical tests for authority-based arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical tests for authority-based arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Field+to+Lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Field to Lies books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Field+to+Lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Field to Lies books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-when-should-you-trust-an-expert-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -857,7 +857,7 @@ Expert opinion plays an important role in everyday reasoning and decision-making
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -877,7 +877,7 @@ Expert opinion plays an important role in everyday reasoning and decision-making
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -909,7 +909,7 @@ Expert opinion plays an important role in everyday reasoning and decision-making
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -939,7 +939,7 @@ Expert opinion plays an important role in everyday reasoning and decision-making
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -997,135 +997,135 @@ Expert opinion plays an important role in everyday reasoning and decision-making
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: Appeal to Authority Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</p></details>
+   Link:<a href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribbr.com  
    Title: Appeal to Authority Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: critical-thinking.org.uk  
    Title: Appeal to Authority  
-   Link: <a href="https://critical-thinking.org.uk/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://critical-thinking.org.uk/appeal-to-authority</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2014...</p></details>
+   Link:<a href="https://critical-thinking.org.uk/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://critical-thinking.org.uk/appeal-to-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2014...</p></details>
    Published: July 24, 2014  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: logicallyfallacious.com  
    Title: Logically Fallacious Appeal to Authority  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to Authority - Logically Fallacious...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to Authority - Logically Fallacious...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Appeal to Authority Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 16, 2023...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 16, 2023...</p></details>
    Published: June 16, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/3656" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3656</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicWhy Arguments from Expert Opinion are Weak Arguments | Informal LogicMarch 15, 2013...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/3656" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicWhy Arguments from Expert Opinion are Weak Arguments | Informal LogicMarch 15, 2013...</p></details>
    Published: March 15, 2013  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-an-appeal-to-authority-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-an-appeal-to-authority-fallacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousHow to Spot an Appeal to Authority Fallacy | Logically FallaciousApril 23, 2026...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/blog/how-to-spot-an-appeal-to-authority-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-an-appeal-to-authority-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousHow to Spot an Appeal to Authority Fallacy | Logically FallaciousApril 23, 2026...</p></details>
    Published: April 23, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: logicalfallacies.org  
    Title: Appeal To Authority  
-   Link: <a href="https://www.logicalfallacies.org/appeal-to-authority.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/appeal-to-authority.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LFAPPEAL TO AUTHORITY informal Fallacy The fallacy of appeal to authority (also known as argumentum ad verecundia...</p></details>
+   Link:<a href="https://www.logicalfallacies.org/appeal-to-authority.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/appeal-to-authority.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LFAPPEAL TO AUTHORITY informal Fallacy The fallacy of appeal to authority (also known as argumentum ad verecundia...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: logicallyfallacious.com  
    Title: Appeal to False Authority  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically Fallacious← Back to all fallacies APPEAL TO FALSE AUTHORITY (also known as: appeal to doubtful authority, appeal to dubious aut...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically Fallacious← Back to all fallacies APPEAL TO FALSE AUTHORITY (also known as: appeal to doubtful authority, appeal to dubious aut...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribbr.co.uk  
-   Link: <a href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: philpapers.org  
    Title: Moti Mizrahi, Why Arguments from Expert Opinion are Weak Arguments  
-   Link: <a href="https://philpapers.org/rec/MIZWAF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/MIZWAF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2013 — WHY ARGUMENTS FROM EXPERT OPINION ARE WEAK ARGUMENTS Moti Mizrahi [Informal Logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) 33 (1):57-79 (2013) @article...</p></details>
+   Link:<a href="https://philpapers.org/rec/MIZWAF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/MIZWAF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2013 — WHY ARGUMENTS FROM EXPERT OPINION ARE WEAK ARGUMENTS Moti Mizrahi [Informal Logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) 33 (1):57-79 (2013) @article...</p></details>
    Published: January 1, 2013  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: icriticalthinking.org  
    Title: Appeal to Authority – International Critical Thinking Foundation  
-   Link: <a href="https://icriticalthinking.org/library/appeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow">https://icriticalthinking.org/library/appeal-to-authority/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Awdhesh Singh / November 15, 2024 APPEAL TO AUTHORITY Appeal to authority, also known as an appeal to false or unqualified authority, mea...</p></details>
+   Link:<a href="https://icriticalthinking.org/library/appeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow">https://icriticalthinking.org/library/appeal-to-authority/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Awdhesh Singh / November 15, 2024 APPEAL TO AUTHORITY Appeal to authority, also known as an appeal to false or unqualified authority, mea...</p></details>
    Published: November 15, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thoughtco.com  
    Title: Logical Fallacies: Appeal to Authority  
-   Link: <a href="https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2021 — FALLACIES OF RELEVANCE: APPEAL TO AUTHORITY Overview and Introduction By Austin Cline Austin Cline Writer * M.A., Prince...</p></details>
+   Link:<a href="https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2021 — FALLACIES OF RELEVANCE: APPEAL TO AUTHORITY Overview and Introduction By Austin Cline Austin Cline Writer * M.A., Prince...</p></details>
    Published: March 31, 2021  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: entish.org  
    Title: A Fallacy Recognition Handbook  
-   Link: <a href="https://www.entish.org/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.entish.org/fallacies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2004 — APPEAL TO AUTHORITY Also Known as: Fallacious Appeal to Authority, Misuse of Authority, Irrelevant Authority, Questionab...</p></details>
+   Link:<a href="https://www.entish.org/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.entish.org/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2004 — APPEAL TO AUTHORITY Also Known as: Fallacious Appeal to Authority, Misuse of Authority, Irrelevant Authority, Questionab...</p></details>
    Published: March 27, 2004  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mindinsight.io  
    Title: Appeal to Authority Fallacy  
-   Link: <a href="https://mindinsight.io/pages/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://mindinsight.io/pages/appeal-to-authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MindInsight⚡ Logical Fallacy APPEAL TO AUTHORITY FALLACY When expertise doesn&#x27;t match the claim: The fallacy of accepting something as tr...</p></details>
+   Link:<a href="https://mindinsight.io/pages/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://mindinsight.io/pages/appeal-to-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MindInsight⚡ Logical Fallacy APPEAL TO AUTHORITY FALLACY When expertise doesn&#x27;t match the claim: The fallacy of accepting something as tr...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-011-9225-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-011-9225-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment of Argumentation from Expert Opinion | Argumentation | Springer Nature LinkJuly 26, 2011 — THE ASSESSMENT OF ARGUMENTATION FRO...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10503" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment of Argumentation from Expert Opinion | Argumentation | Springer Nature LinkJuly 26, 2011 — THE ASSESSMENT OF ARGUMENTATION FRO...</p></details>
    Published: July 26, 2011  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Appeal to Authority: When trusting experts becomes a logical fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WsON5mGeVto</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority (Misunderstood Fallacies)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WsON5mGeVto</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority (Misunderstood Fallacies)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fallacyguide.com  
-   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority (Argument from Authority) Fallacy: Definition, Examples &amp; How to Fix ItTHE APPEAL TO AUTHORITY (ARGUMENT FROM AUTHORI...</p></details>
+   Link:<a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority (Argument from Authority) Fallacy: Definition, Examples &amp; How to Fix ItTHE APPEAL TO AUTHORITY (ARGUMENT FROM AUTHORI...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Appeal to Authority (Misunderstood Fallacies)  
-   Link: <a href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ns305L-he40</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(How) You Fail At Thinking!: The Authority Argument...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ns305L-he40</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(How) You Fail At Thinking!: The Authority Argument...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Fallacies: Appeal to Authority  
-   Link: <a href="https://www.youtube.com/watch?v=3PDrnZoM3nA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3PDrnZoM3nA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority: When trusting experts becomes a logical fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3PDrnZoM3nA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3PDrnZoM3nA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority: When trusting experts becomes a logical fallacy...</p></details>

@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_do
 
 ## Introduction
 
-In arguments about public policy, science, workplace decisions, or everyday disagreements, background information is often necessary. The challenge is that not all background information serves the same purpose. Useful context helps answer the question being discussed. A [red herring]({{ 'red-herring/' | relative_url }}) shifts attention to a different question, often one that is easier, safer, or more emotionally appealing to discuss. The key test is not whether the new information is true or interesting, but whether it changes the answer to the original issue. Philosophers of argumentation classify red herrings as fallacies of [relevance]({{ 'relevance/' | relative_url }}) because they divert discussion away from the point at issue rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</span></span></span>
+In arguments about public policy, science, workplace decisions, or everyday disagreements, background information is often necessary. The challenge is that not all background information serves the same purpose. Useful context helps answer the question being discussed. A [red herring]({{ 'red-herring/' | relative_url }}) shifts attention to a different question, often one that is easier, safer, or more emotionally appealing to discuss. The key test is not whether the new information is true or interesting, but whether it changes the answer to the original issue. Philosophers of argumentation classify red herrings as fallacies of [relevance]({{ 'relevance/' | relative_url }}) because they divert discussion away from the point at issue rather than resolving it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-dark.svg" | relative_url }}" alt="Context Test illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because many persuasive diversions are built from genuine facts. A speaker may introduce accurate history, personal circumstances, broader social concerns, or related examples. The question is whether those facts help evaluate the claim under discussion or merely redirect attention elsewhere.
@@ -286,7 +286,7 @@ A useful rule is:
 * **Context adds information that bears on the conclusion.**
 * **A red herring adds information that competes for attention.**
 
-The distinction is based on relevance, not on truthfulness, emotional force, or complexity. A completely accurate statement can still function as a red herring if it diverts the discussion from the issue that remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Relevance in Argumentation</span><span class="citation-popover-snippet">Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Argument relevance and structure</span><span class="citation-popover-snippet">Assessing and...by F Macagno · 2016 · Cited by 77 — The purpose of this paper is to show whether the two crucial dimensions used for ass...</span></span></span>
+The distinction is based on relevance, not on truthfulness, emotional force, or complexity. A completely accurate statement can still function as a red herring if it diverts the discussion from the issue that remains unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Relevance in Argumentation</span><span class="citation-popover-snippet">Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Argument relevance and structure</span><span class="citation-popover-snippet">Assessing and...by F Macagno · 2016 · Cited by 77 — The purpose of this paper is to show whether the two crucial dimensions used for ass...</span></span></span>
 
 ## Pin Down the Original Question
 
@@ -305,7 +305,7 @@ Before evaluating new information, state the unresolved question in one sentence
 
 Once that question is fixed, every new point can be tested against it.
 
-Argumentation theorists describe red herrings as diversions that redirect a dialogue away from its proper issue. The problem is not merely reaching a wrong conclusion; it is changing the direction of the discussion so that the original burden of proof fades from view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic Classification of Fallacies of Relevance!</span><span class="citation-popover-snippet">Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</span></span></span>
+Argumentation theorists describe red herrings as diversions that redirect a dialogue away from its proper issue. The problem is not merely reaching a wrong conclusion; it is changing the direction of the discussion so that the original burden of proof fades from view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic Classification of Fallacies of Relevance!</span><span class="citation-popover-snippet">Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</span></span></span>
 
 A practical technique is to ask: **“Even if this new point is correct, what happens to the original question?”**
 
@@ -343,7 +343,7 @@ New information: “The researchers have won several prestigious awards.”
 
 The awards may be impressive, but they do not determine whether the experiment was conducted correctly.
 
-The same principle appears in critical-thinking approaches that emphasise relevance as a central criterion for evaluating arguments. Information that does not help establish, weaken, explain, or qualify the conclusion is not doing argumentative work, even if it is interesting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://peterellerton.substack.com/p/what-critical-thinking-is-and-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peterellerton.substack.com">[peterellerton.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peterellerton.substack.com</span><span class="citation-popover-title">What critical thinking is (and is not</span><span class="citation-popover-snippet">the education contrarianDecember 14, 2025 — This involves applying established norms—such as clarity, relevance, and logical consistency—...</span><span class="citation-popover-meta">Published: December 14, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&amp;section=4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University4 The importance of critical thinking and analysis in...When you think critically, you weigh up all sides of an argum...</span></span></span>
+The same principle appears in critical-thinking approaches that emphasise relevance as a central criterion for evaluating arguments. Information that does not help establish, weaken, explain, or qualify the conclusion is not doing argumentative work, even if it is interesting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://peterellerton.substack.com/p/what-critical-thinking-is-and-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peterellerton.substack.com">[peterellerton.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peterellerton.substack.com</span><span class="citation-popover-title">What critical thinking is (and is not</span><span class="citation-popover-snippet">the education contrarianDecember 14, 2025 — This involves applying established norms—such as clarity, relevance, and logical consistency—...</span><span class="citation-popover-meta">Published: December 14, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&amp;section=4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University4 The importance of critical thinking and analysis in...When you think critically, you weigh up all sides of an argum...</span></span></span>
 
 ## Examples Where Context Is Relevant
 
@@ -407,7 +407,7 @@ Diversion: “The critics have political motives.”
 
 Motives may matter in some contexts, but they do not by themselves determine the accuracy of the report.
 
-These moves often feel persuasive because they introduce emotionally significant or socially meaningful concerns. However, relevance requires a demonstrable connection to the claim under examination, not merely a thematic connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageIgnoratio Elenchi (Irrelevant Conclusion); Straw ManIgnoratio Elenchi is the fallacy of reaching an irrelevant conclu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Red HerringThe red herring is a deliberate diversion of attention with the intention of trying to abandon the original argument.Read more...</span></span></span>
+These moves often feel persuasive because they introduce emotionally significant or socially meaningful concerns. However, relevance requires a demonstrable connection to the claim under examination, not merely a thematic connection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageIgnoratio Elenchi (Irrelevant Conclusion); Straw ManIgnoratio Elenchi is the fallacy of reaching an irrelevant conclu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Red HerringThe red herring is a deliberate diversion of attention with the intention of trying to abandon the original argument.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZggiwS7iv2A" title="Red Herring (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer">Red Herring (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 32.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZggiwS7iv2A">Open on YouTube</a></p></div></div></div>
 
@@ -443,272 +443,272 @@ If a clear connection exists and the answer could change, the information is fun
 
 If the connection is weak or missing, and the original issue remains unresolved, the information is functioning as a red herring.
 
-The goal is not to reject background information. Good reasoning often depends on context. The goal is to ensure that context illuminates the issue under discussion rather than leading attention away from it. In the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), that difference marks the boundary between relevant explanation and argumentative diversion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Relevance in Argumentation</span><span class="citation-popover-snippet">Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span>
+The goal is not to reject background information. Good reasoning often depends on context. The goal is to ensure that context illuminates the issue under discussion rather than leading attention away from it. In the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), that difference marks the boundary between relevant explanation and argumentative diversion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Relevance in Argumentation</span><span class="citation-popover-snippet">Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is It Context or a Dodge?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is It Context or a Dodge?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Focuses on distinguishing relevant support from irrelevant digressions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on distinguishing relevant support from irrelevant digressions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides methods for testing whether information changes the conclusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides methods for testing whether information changes the conclusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Teaches how to connect reasons directly to claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to connect reasons directly to claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Covers relevance-based mistakes and diversions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers relevance-based mistakes and diversions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-test-is-it-context-or-a-dodge-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -724,7 +724,7 @@ The goal is not to reject background information. Good reasoning often depends o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -744,7 +744,7 @@ The goal is not to reject background information. Good reasoning often depends o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -776,7 +776,7 @@ The goal is not to reject background information. Good reasoning often depends o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -806,7 +806,7 @@ The goal is not to reject background information. Good reasoning often depends o
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -864,153 +864,153 @@ The goal is not to reject background information. Good reasoning often depends o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: philpapers.org  
    Title: WALCOF 5  
-   Link: <a href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALCOF-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</p></details>
+   Link:<a href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALCOF-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: routledge.com  
    Title: Relevance in Argumentation  
-   Link: <a href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</p></details>
+   Link:<a href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Argument relevance and structure  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing and...by F Macagno · 2016 · Cited by 77 — The purpose of this paper is to show whether the two crucial dimensions used for ass...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing and...by F Macagno · 2016 · Cited by 77 — The purpose of this paper is to show whether the two crucial dimensions used for ass...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: peterellerton.substack.com  
    Title: What critical thinking is (and is not)  
-   Link: <a href="https://peterellerton.substack.com/p/what-critical-thinking-is-and-is" target="_blank" rel="noopener noreferrer nofollow">https://peterellerton.substack.com/p/what-critical-thinking-is-and-is</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the education contrarianDecember 14, 2025 — This involves applying established norms—such as clarity, relevance, and logical consistency—...</p></details>
+   Link:<a href="https://peterellerton.substack.com/p/what-critical-thinking-is-and-is" target="_blank" rel="noopener noreferrer nofollow">https://peterellerton.substack.com/p/what-critical-thinking-is-and-is</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the education contrarianDecember 14, 2025 — This involves applying established norms—such as clarity, relevance, and logical consistency—...</p></details>
    Published: December 14, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&amp;section=4" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&amp;section=4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University4 The importance of critical thinking and analysis in...When you think critically, you weigh up all sides of an argum...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&amp;section=4" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&amp;section=4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University4 The importance of critical thinking and analysis in...When you think critically, you weigh up all sides of an argum...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Red Herring (Logical Fallacy)  
-   Link: <a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZggiwS7iv2A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZggiwS7iv2A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Red Herring  
-   Link: <a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Af0STrY58i4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Red Herring&quot; Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Af0STrY58i4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Red Herring&quot; Fallacy...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Red-Herring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red HerringThe red herring is a deliberate diversion of attention with the intention of trying to abandon the original argument.Read more...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Red-Herring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red HerringThe red herring is a deliberate diversion of attention with the intention of trying to abandon the original argument.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: informallogic.ca  
    Title: [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) Classification of Fallacies of Relevance!  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/2133/1577</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/2133/1577</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ojs.uwindsor.ca  
-   Link: <a href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133" target="_blank" rel="noopener noreferrer nofollow">https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classification of Fallacies of Relevance | Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case wher...</p></details>
+   Link:<a href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133" target="_blank" rel="noopener noreferrer nofollow">https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classification of Fallacies of Relevance | Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case wher...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignoratio.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageIgnoratio Elenchi (Irrelevant Conclusion); Straw ManIgnoratio Elenchi is the fallacy of reaching an irrelevant conclu...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignoratio.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageIgnoratio Elenchi (Irrelevant Conclusion); Straw ManIgnoratio Elenchi is the fallacy of reaching an irrelevant conclu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — Two competing conceptions of fallacies are that they are false but...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — Two competing conceptions of fallacies are that they are false but...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Also called Irrelevant Conclusion. It is a form of the Red Herring Fallacy. Biased...Read more...</p></details>
+   Link:<a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Also called Irrelevant Conclusion. It is a form of the Red Herring Fallacy. Biased...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: philosophybytheway.blogspot.com  
    Title: red herring  
-   Link: <a href="https://philosophybytheway.blogspot.com/2022/09/red-herring.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2022/09/red-herring.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Sept 2022 — It can also be intentionally put forward that way, for a red herring often serves as a way of distraction from the questio...</p></details>
+   Link:<a href="https://philosophybytheway.blogspot.com/2022/09/red-herring.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2022/09/red-herring.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Sept 2022 — It can also be intentionally put forward that way, for a red herring often serves as a way of distraction from the questio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: qcc.cuny.edu  
    Title: Arguments Fallacies  
-   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FALLACIESIgnoratio Elenchi: (Irrelevant Conclusion); see also Straw Man; Red Herring; Non Sequitur-- any incorrect argument which reaches...</p></details>
+   Link:<a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FALLACIESIgnoratio Elenchi: (Irrelevant Conclusion); see also Straw Man; Red Herring; Non Sequitur-- any incorrect argument which reaches...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/14720925/Relevance_in_Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/14720925/Relevance_in_Argumentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Relevance in ArgumentationIn Relevance in Argumentation, author Douglas Walton presents a new method for critically evaluating argu...</p></details>
+   Link:<a href="https://www.academia.edu/14720925/Relevance_in_Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/14720925/Relevance_in_Argumentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Relevance in ArgumentationIn Relevance in Argumentation, author Douglas Walton presents a new method for critically evaluating argu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: therapyroute.com  
-   Link: <a href="https://www.therapyroute.com/article/critical-thinking-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/critical-thinking-by-therapyroute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical ThinkingCritical thinking is the objective analysis and evaluation of information, arguments, and situations to form well-reason...</p></details>
+   Link:<a href="https://www.therapyroute.com/article/critical-thinking-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/critical-thinking-by-therapyroute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical ThinkingCritical thinking is the objective analysis and evaluation of information, arguments, and situations to form well-reason...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: api.pageplace.de  
-   Link: <a href="https://api.pageplace.de/preview/DT0400.9781135618964_A23805656/preview-9781135618964_A23805656.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781135618964_A23805656/preview-9781135618964_A23805656.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In ArgumentationThe purpose of this book is to present a method that can be used to assist a user to critically evaluate arguments, and o...</p></details>
+   Link:<a href="https://api.pageplace.de/preview/DT0400.9781135618964_A23805656/preview-9781135618964_A23805656.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781135618964_A23805656/preview-9781135618964_A23805656.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In ArgumentationThe purpose of this book is to present a method that can be used to assist a user to critically evaluate arguments, and o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cambridgeassessment.org.uk  
-   Link: <a href="https://www.cambridgeassessment.org.uk/Images/109769-critical-thinking-a-definition-and-taxonomy-for-cambridge-assessment-supporting-validity-arguments-about-critical-thinking-assessments-administered-by-cambridge-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeassessment.org.uk/Images/109769-critical-thinking-a-definition-and-taxonomy-for-cambridge-assessment-supporting-validity-arguments-about-critical-thinking-assessments-administered-by-cambridge-assessment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is less obviously a descendent of MENO, though it does necessarily involve analysis and evaluation of arguments.Read more...</p></details>
+   Link:<a href="https://www.cambridgeassessment.org.uk/Images/109769-critical-thinking-a-definition-and-taxonomy-for-cambridge-assessment-supporting-validity-arguments-about-critical-thinking-assessments-administered-by-cambridge-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeassessment.org.uk/Images/109769-critical-thinking-a-definition-and-taxonomy-for-cambridge-assessment-supporting-validity-arguments-about-critical-thinking-assessments-administered-by-cambridge-assessment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is less obviously a descendent of MENO, though it does necessarily involve analysis and evaluation of arguments.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
    Title: Douglas Walton Relevance in Argumentation 2003 pdf  
-   Link: <a href="https://www.scribd.com/document/251680632/Douglas-Walton-Relevance-in-Argumentation-2003-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/251680632/Douglas-Walton-Relevance-in-Argumentation-2003-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXAMPLES OF IRRELEVANT ARGUMENTS. 17. smear themselves with a herring (which turns red or brown when it spoils) in order to throw dogs of...</p></details>
+   Link:<a href="https://www.scribd.com/document/251680632/Douglas-Walton-Relevance-in-Argumentation-2003-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/251680632/Douglas-Walton-Relevance-in-Argumentation-2003-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXAMPLES OF IRRELEVANT ARGUMENTS. 17. smear themselves with a herring (which turns red or brown when it spoils) in order to throw dogs of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/352032431893773/posts/2142677289495936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/352032431893773/posts/2142677289495936/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>analyzing information, identifying biases, and evaluating...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/352032431893773/posts/2142677289495936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/352032431893773/posts/2142677289495936/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>analyzing information, identifying biases, and evaluating...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchmethodscommunity.sagepub.com  
    Title: critical thinking from two perspectives  
-   Link: <a href="https://researchmethodscommunity.sagepub.com/blog/critical-thinking-from-two-perspectives" target="_blank" rel="noopener noreferrer nofollow">https://researchmethodscommunity.sagepub.com/blog/critical-thinking-from-two-perspectives</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Critical Thinking and Research14 Jun 2022 — Thinking critically is one of the foundations of research, as it entails maki...</p></details>
+   Link:<a href="https://researchmethodscommunity.sagepub.com/blog/critical-thinking-from-two-perspectives" target="_blank" rel="noopener noreferrer nofollow">https://researchmethodscommunity.sagepub.com/blog/critical-thinking-from-two-perspectives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Critical Thinking and Research14 Jun 2022 — Thinking critically is one of the foundations of research, as it entails maki...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: socialdemocracy21stcentury.blogspot.com  
    Title: Bradley Dowden, “Fallacies,” Internet  
-   Link: <a href="https://socialdemocracy21stcentury.blogspot.com/p/these-provide-excellent-introductions.html" target="_blank" rel="noopener noreferrer nofollow">https://socialdemocracy21stcentury.blogspot.com/p/these-provide-excellent-introductions.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Bibliography on Logic and ReasoningAppeal to nature (argument from nature): Appeal to [Ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;) (argumentum ad ignoratiam): Red herring...</p></details>
+   Link:<a href="https://socialdemocracy21stcentury.blogspot.com/p/these-provide-excellent-introductions.html" target="_blank" rel="noopener noreferrer nofollow">https://socialdemocracy21stcentury.blogspot.com/p/these-provide-excellent-introductions.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Bibliography on Logic and ReasoningAppeal to nature (argument from nature): Appeal to [Ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;) (argumentum ad ignoratiam): Red herring...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: monash.edu  
    Title: University What is critical thinking?  
-   Link: <a href="https://www.monash.edu/student-academic-success/sharpen-your-thinking/critical-thinking/what-is-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.monash.edu/student-academic-success/sharpen-your-thinking/critical-thinking/what-is-critical-thinking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Academic SuccessCritical thinking is a kind of thinking in which you question, analyse, interpret, evaluate and make a judgement...</p></details>
+   Link:<a href="https://www.monash.edu/student-academic-success/sharpen-your-thinking/critical-thinking/what-is-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.monash.edu/student-academic-success/sharpen-your-thinking/critical-thinking/what-is-critical-thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Student Academic SuccessCritical thinking is a kind of thinking in which you question, analyse, interpret, evaluate and make a judgement...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researcher-development.co.uk  
-   Link: <a href="https://researcher-development.co.uk/criticalthinking/what-is-critical-thinking-and-why-is-it-important/" target="_blank" rel="noopener noreferrer nofollow">https://researcher-development.co.uk/criticalthinking/what-is-critical-thinking-and-why-is-it-important/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>solve a problem or arrive at a conclusion.Read more...</p></details>
+   Link:<a href="https://researcher-development.co.uk/criticalthinking/what-is-critical-thinking-and-why-is-it-important/" target="_blank" rel="noopener noreferrer nofollow">https://researcher-development.co.uk/criticalthinking/what-is-critical-thinking-and-why-is-it-important/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>solve a problem or arrive at a conclusion.Read more...</p></details>

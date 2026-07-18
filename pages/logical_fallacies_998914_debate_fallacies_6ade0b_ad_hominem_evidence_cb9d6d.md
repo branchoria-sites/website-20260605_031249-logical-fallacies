@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_ad_homine
 
 ## Introduction
 
-An ad hominem attack tries to shift a [debate]({{ 'debate/' | relative_url }}) from the truth of a claim to the character, motives, intelligence, affiliations, or behaviour of the person making it. The key strategic mistake is to follow the attack into a dispute about personalities. In live debate, the most effective response is usually evidence recovery: acknowledge the diversion, separate the speaker from the claim, and return the discussion to the evidence that would actually decide the issue. Argumentation scholars and critical-thinking researchers consistently describe ad hominem reasoning as a move that redirects attention away from the merits of an argument and towards the person presenting it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[2philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</span></span></span>
+An ad hominem attack tries to shift a [debate]({{ 'debate/' | relative_url }}) from the truth of a claim to the character, motives, intelligence, affiliations, or behaviour of the person making it. The key strategic mistake is to follow the attack into a dispute about personalities. In live debate, the most effective response is usually evidence recovery: acknowledge the diversion, separate the speaker from the claim, and return the discussion to the evidence that would actually decide the issue. Argumentation scholars and critical-thinking researchers consistently describe ad hominem reasoning as a move that redirects attention away from the merits of an argument and towards the person presenting it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[2philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_ad_hominem_evidence_cb9d6d-Illustration-1-dark.svg" | relative_url }}" alt="Ad Hominem illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_ad_hominem_evidence_cb9d6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_ad_hominem_evidence_cb9d6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The practical challenge is that ad hominem attacks often work rhetorically even when they fail logically. They can damage credibility, provoke emotional reactions, and consume valuable debate time. Evidence recovery is therefore not just a logical technique; it is a live argument strategy designed to prevent a derailment from becoming the main event.
@@ -282,7 +282,7 @@ Consider two different questions:
 1. Is the claim true?
 2. Is the speaker trustworthy, competent, or admirable?
 
-An ad hominem attack attempts to answer the first question by talking about the second. The problem is not that personal information is always irrelevant. In some contexts, such as witness credibility, conflicts of interest, or claims of expertise, facts about a person can matter. The fallacy occurs when those facts are treated as a substitute for examining the argument or evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4330/3706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[2informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Virtue argumentation theo-.Read more</span><span class="citation-popover-snippet">Virtues, Evidence, and Ad Hominem Arguments - Informal Logicby P Bondy · 2015 · Cited by 20 — Abstract: Argumentation theorists are begin...</span></span></span>
+An ad hominem attack attempts to answer the first question by talking about the second. The problem is not that personal information is always irrelevant. In some contexts, such as witness credibility, conflicts of interest, or claims of expertise, facts about a person can matter. The fallacy occurs when those facts are treated as a substitute for examining the argument or evidence itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4330/3706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[2informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Virtue argumentation theo-.Read more</span><span class="citation-popover-snippet">Virtues, Evidence, and Ad Hominem Arguments - Informal Logicby P Bondy · 2015 · Cited by 20 — Abstract: Argumentation theorists are begin...</span></span></span>
 
 For example:
 
@@ -294,13 +294,13 @@ For example:
 
 </div>
 
-Even if the criticism contains some truth about the person, it does not automatically establish that the underlying claim is false. The evidence still requires independent examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad hominem fallacy</span><span class="citation-popover-snippet">Definition &amp; ExamplesApr 21, 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on the person making an argument...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catholic.com">[catholic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catholic.com</span><span class="citation-popover-title">what an ad hominem argument is not</span><span class="citation-popover-snippet">Catholic AnswersWhat an Ad Hominem Argument Is Not15 Aug 2016 — It is considered a fallacy or error in reasoning because it tries to refu...</span></span></span> A useful mental test is simple: if the attacked individual disappeared from the discussion, would the evidence still need to be evaluated? If the answer is yes, the debate should return to the evidence.
+Even if the criticism contains some truth about the person, it does not automatically establish that the underlying claim is false. The evidence still requires independent examination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad hominem fallacy</span><span class="citation-popover-snippet">Definition &amp; ExamplesApr 21, 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on the person making an argument...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catholic.com">[catholic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catholic.com</span><span class="citation-popover-title">what an ad hominem argument is not</span><span class="citation-popover-snippet">Catholic AnswersWhat an Ad Hominem Argument Is Not15 Aug 2016 — It is considered a fallacy or error in reasoning because it tries to refu...</span></span></span> A useful mental test is simple: if the attacked individual disappeared from the discussion, would the evidence still need to be evaluated? If the answer is yes, the debate should return to the evidence.
 
 ## Why Personal Attacks Feel Persuasive
 
-Ad hominem attacks succeed because people naturally use credibility cues when evaluating information. Research examining reactions to scientific claims found that attacks on a source's competence, motives, or integrity can reduce confidence in a claim even when the underlying evidence has not been directly challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Here we are concerned with three forms of ad hominem attack:...Read more...</span></span></span>
+Ad hominem attacks succeed because people naturally use credibility cues when evaluating information. Research examining reactions to scientific claims found that attacks on a source's competence, motives, or integrity can reduce confidence in a claim even when the underlying evidence has not been directly challenged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Here we are concerned with three forms of ad hominem attack:...Read more...</span></span></span>
 
-This creates a strategic danger. Once a debate becomes a contest over personalities, audiences may forget the original question entirely. Researchers studying online argumentation have also found that controversial exchanges frequently deteriorate into personal attacks, pulling participants away from substantive disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
+This creates a strategic danger. Once a debate becomes a contest over personalities, audiences may forget the original question entirely. Researchers studying online argumentation have also found that controversial exchanges frequently deteriorate into personal attacks, pulling participants away from substantive disagreement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
 
 The debater's objective is therefore not merely to identify the fallacy but to stop the audience from treating the attack as if it answered the original claim.
 
@@ -354,7 +354,7 @@ Evidence recovery restores the correct burden:
 
 </div>
 
-In debate terms, the burden remains on the person challenging the claim to show why the claim fails. Merely raising suspicion about the speaker does not discharge that burden. The issue remains undecided until the evidence itself is addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
+In debate terms, the burden remains on the person challenging the claim to show why the claim fails. Merely raising suspicion about the speaker does not discharge that burden. The issue remains undecided until the evidence itself is addressed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
 
 A concise recovery statement might be:
 
@@ -379,7 +379,7 @@ In some situations, information about a person is directly connected to the issu
 
 </div>
 
-In these cases, personal information may legitimately affect how much weight should be given to testimony or authority. Argumentation scholars have long noted that not every argument involving personal characteristics is automatically fallacious. The crucial question is whether the personal fact is relevant to the claim being assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inoculation.science/inoculation-videos/ad-hominem-attack/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-title">Science Videos</span><span class="citation-popover-snippet">Videos - Ad-hominem AttacksAn ad hominem attack is when someone attacks the person making an argument, instead of addressing the argument...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dialnet.unirioja.es/descarga/articulo/3963501.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dialnet.unirioja.es">[dialnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dialnet.unirioja.es</span><span class="citation-popover-snippet">Some ad hominem arguments attack a person who is not a participant in the dis- cussion. And the ad hominem...Read more...</span></span></span> The distinction is important for evidence recovery. A debater should not dismiss every credibility challenge as ad hominem. Instead, they should ask:
+In these cases, personal information may legitimately affect how much weight should be given to testimony or authority. Argumentation scholars have long noted that not every argument involving personal characteristics is automatically fallacious. The crucial question is whether the personal fact is relevant to the claim being assessed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inoculation.science/inoculation-videos/ad-hominem-attack/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-title">Science Videos</span><span class="citation-popover-snippet">Videos - Ad-hominem AttacksAn ad hominem attack is when someone attacks the person making an argument, instead of addressing the argument...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dialnet.unirioja.es/descarga/articulo/3963501.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dialnet.unirioja.es">[dialnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dialnet.unirioja.es</span><span class="citation-popover-snippet">Some ad hominem arguments attack a person who is not a participant in the dis- cussion. And the ad hominem...Read more...</span></span></span> The distinction is important for evidence recovery. A debater should not dismiss every credibility challenge as ad hominem. Instead, they should ask:
 
 > Does this information actually bear on the reliability of the evidence, or is it merely a distraction?
 
@@ -416,181 +416,181 @@ The audience is then guided back to the point that matters: not who is speaking,
 
 An ad hominem attack changes the subject. Evidence recovery changes it back.
 
-The essential strategic insight is that a personal attack rarely needs a personal defence. The stronger move is usually to separate speaker from claim, refuse the invitation to fight over identity, and restore attention to the evidence that bears on the truth of the issue. When done well, the attack loses its power because the audience is reminded that credibility disputes do not, by themselves, answer factual or logical questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLAd Hominem Fallacy</span><span class="citation-popover-snippet">Excelsior OWLAd Hominem Fallacy - Excelsior OWLAn ad hominem fallacy occurs when someone attacks the person instead of attacking his or h...</span></span></span>
+The essential strategic insight is that a personal attack rarely needs a personal defence. The stronger move is usually to separate speaker from claim, refuse the invitation to fight over identity, and restore attention to the evidence that bears on the truth of the issue. When done well, the attack loses its power because the audience is reminded that credibility disputes do not, by themselves, answer factual or logical questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLAd Hominem Fallacy</span><span class="citation-popover-snippet">Excelsior OWLAd Hominem Fallacy - Excelsior OWLAn ad hominem fallacy occurs when someone attacks the person instead of attacking his or h...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Not Take the Personal Bait. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Not Take the Personal Bait. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers understand cognitive biases that make personal attacks persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand cognitive biases that make personal attacks persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Thinker&#x27;s Guide to Fallacies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IfmAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Thinker&#x27;s Guide to Fallacies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thinker&#x27;s Guide to Fallacies">The Thinker&#x27;s Guide to Fallacies</a>
-        </h4>
-        <p class="fr-book-author">By Richard Paul, Linda Elder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Thinker&#x27;s Guide to Fallacies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IfmAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Thinker&#x27;s Guide to Fallacies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Thinker&#x27;s Guide to Fallacies">The Thinker&#x27;s Guide to Fallacies</a>
+</h4>
+<p class="fr-book-author">By Richard Paul, Linda Elder</p>
         
-        <p class="fr-book-desc">Directly covers ad hominem attacks and methods for returning to evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers ad hominem attacks and methods for returning to evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Thinker%27s+Guide+to+Fallacies+by+Richard+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Explains fallacies and how to evaluate arguments on their merits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains fallacies and how to evaluate arguments on their merits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Teaches concise techniques for keeping discussions focused on evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches concise techniques for keeping discussions focused on evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Thinker%27s+to+Fallacies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Thinker&#x27;s to Fallacies books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Thinker%27s+to+Fallacies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Thinker&#x27;s to Fallacies books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/d35949cdde79a8a0f862.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/d35949cdde79a8a0f862.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/c34d599e1b85f5f07f53.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/c34d599e1b85f5f07f53.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-hominem-c0341b-do-not-take-the-personal-bait-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ The essential strategic insight is that a personal attack rarely needs a persona
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ The essential strategic insight is that a personal attack rarely needs a persona
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ The essential strategic insight is that a personal attack rarely needs a persona
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ The essential strategic insight is that a personal attack rarely needs a persona
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -746,142 +746,142 @@ The essential strategic insight is that a personal attack rarely needs a persona
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: owl.excelsior.edu  
    Title: OWLAd Hominem Fallacy  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLAd Hominem Fallacy - Excelsior OWLAn ad hominem fallacy occurs when someone attacks the person instead of attacking his or h...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLAd Hominem Fallacy - Excelsior OWLAn ad hominem fallacy occurs when someone attacks the person instead of attacking his or h...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: informallogic.ca  
    Title: Virtue argumentation theo-.Read more  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4330/3706" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4330/3706</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Virtues, Evidence, and Ad Hominem Arguments - Informal Logicby P Bondy · 2015 · Cited by 20 — Abstract: Argumentation theorists are begin...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/4330/3706" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4330/3706</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Virtues, Evidence, and Ad Hominem Arguments - Informal Logicby P Bondy · 2015 · Cited by 20 — Abstract: Argumentation theorists are begin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: catholic.com  
    Title: what an ad hominem argument is not  
-   Link: <a href="https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic AnswersWhat an Ad Hominem Argument Is Not15 Aug 2016 — It is considered a fallacy or error in reasoning because it tries to refu...</p></details>
+   Link:<a href="https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic AnswersWhat an Ad Hominem Argument Is Not15 Aug 2016 — It is considered a fallacy or error in reasoning because it tries to refu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we are concerned with three forms of ad hominem attack:...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here we are concerned with three forms of ad hominem attack:...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</p></details>
    Published: February 19, 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv"Nice Try, Kiddo": Investigating Ad Hominems in Dialogue Responses  
-   Link: <a href="https://arxiv.org/abs/2010.12820" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2010.12820</a>  
+   Link:<a href="https://arxiv.org/abs/2010.12820" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2010.12820</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Burden of Persuasion in Argumentation  
-   Link: <a href="https://arxiv.org/abs/2009.10244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2009.10244</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Persuasion in ArgumentationSeptember 22, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2009.10244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2009.10244</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Persuasion in ArgumentationSeptember 22, 2020...</p></details>
    Published: September 22, 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: inoculation.science  
    Title: Science Videos  
-   Link: <a href="https://inoculation.science/inoculation-videos/ad-hominem-attack/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-videos/ad-hominem-attack/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos - Ad-hominem AttacksAn ad hominem attack is when someone attacks the person making an argument, instead of addressing the argument...</p></details>
+   Link:<a href="https://inoculation.science/inoculation-videos/ad-hominem-attack/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-videos/ad-hominem-attack/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos - Ad-hominem AttacksAn ad hominem attack is when someone attacks the person making an argument, instead of addressing the argument...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesApr 21, 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on the person making an argument...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesApr 21, 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on the person making an argument...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dialnet.unirioja.es  
-   Link: <a href="https://dialnet.unirioja.es/descarga/articulo/3963501.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dialnet.unirioja.es/descarga/articulo/3963501.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some ad hominem arguments attack a person who is not a participant in the dis- cussion. And the ad hominem...Read more...</p></details>
+   Link:<a href="https://dialnet.unirioja.es/descarga/articulo/3963501.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dialnet.unirioja.es/descarga/articulo/3963501.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some ad hominem arguments attack a person who is not a participant in the dis- cussion. And the ad hominem...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Ad Hominem Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/ad-hominem/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy | Definition &amp; Examples - Scribbr24 Apr 2023 — Ad hominem fallacy (or ad hominem) is an attempt to discredit so...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/ad-hominem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy | Definition &amp; Examples - Scribbr24 Apr 2023 — Ad hominem fallacy (or ad hominem) is an attempt to discredit so...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rpmministries.org  
    Title: ad hominem attacks  
-   Link: <a href="https://rpmministries.org/2025/07/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://rpmministries.org/2025/07/ad-hominem-attacks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Their Arguments Are Weak, People Attack People18 Jul 2025 — They seek to attack a person&#x27;s character, motives, or other attributes i...</p></details>
+   Link:<a href="https://rpmministries.org/2025/07/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://rpmministries.org/2025/07/ad-hominem-attacks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Their Arguments Are Weak, People Attack People18 Jul 2025 — They seek to attack a person&#x27;s character, motives, or other attributes i...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/ad-hominem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is ad hominemAd hominem attacks can take the form of overtly attacking somebody, or more subtly casting doubt on the...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/ad-hominem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is ad hominemAd hominem attacks can take the form of overtly attacking somebody, or more subtly casting doubt on the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dare.uva.nl  
-   Link: <a href="https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disguised &#x27;abusive ad hominem&#x27; empirically investigatedIn this paper it is argued that this paradox can be explained by analysing abusive...</p></details>
+   Link:<a href="https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disguised &#x27;abusive ad hominem&#x27; empirically investigatedIn this paper it is argued that this paradox can be explained by analysing abusive...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/15j1inu/ad_hominem_when_people_use_personal_attacks_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/15j1inu/ad_hominem_when_people_use_personal_attacks_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An ad hominem is when someone says &quot;you are wrong because you are ugly.&quot; Insulting someone is not automatically...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/15j1inu/ad_hominem_when_people_use_personal_attacks_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/15j1inu/ad_hominem_when_people_use_personal_attacks_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An ad hominem is when someone says &quot;you are wrong because you are ugly.&quot; Insulting someone is not automatically...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: elilyons.medium.com  
    Title: the cases when ad hominem arguments are not a fallacy c49e49316710  
-   Link: <a href="https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710" target="_blank" rel="noopener noreferrer nofollow">https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cases When Ad Hominem Arguments are Not a FallacyAd hominem arguments work when they represent a collection of events so complex, that al...</p></details>
+   Link:<a href="https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710" target="_blank" rel="noopener noreferrer nofollow">https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cases When Ad Hominem Arguments are Not a FallacyAd hominem arguments work when they represent a collection of events so complex, that al...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ically this term refers to a rhetorical strategy where the speaker attacks...</p></details>
+   Link:<a href="https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ically this term refers to a rhetorical strategy where the speaker attacks...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: humanities.mcmaster.ca  
-   Link: <a href="https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The abusive ad hominem is pure abuse; it points...Read more...</p></details>
+   Link:<a href="https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The abusive ad hominem is pure abuse; it points...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thephilosophyforum.com  
    Title: ad hominem ad schmominem  
-   Link: <a href="https://thephilosophyforum.com/discussion/11278/ad-hominem-ad-schmominem" target="_blank" rel="noopener noreferrer nofollow">https://thephilosophyforum.com/discussion/11278/ad-hominem-ad-schmominem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominem, Ad Schmominem26 Jun 2021 — First off – the term “ad hominem” refers to an argument. An insult is an insult, not an ad hominem...</p></details>
+   Link:<a href="https://thephilosophyforum.com/discussion/11278/ad-hominem-ad-schmominem" target="_blank" rel="noopener noreferrer nofollow">https://thephilosophyforum.com/discussion/11278/ad-hominem-ad-schmominem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominem, Ad Schmominem26 Jun 2021 — First off – the term “ad hominem” refers to an argument. An insult is an insult, not an ad hominem...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: CRITICA L THINKING  
-   Link: <a href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qBkj-AYYg7w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Ad Hominem [HD]the ad hominem fallacy, which is an informal fallacy that arises when someone attacks the p...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qBkj-AYYg7w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Ad Hominem [HD]the ad hominem fallacy, which is an informal fallacy that arises when someone attacks the p...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: In other  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>case of the [slippery slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) and the ad hominem argumentsby M Lillo-Unglaube · 2014 · Cited by 13 — In an “Ad hominem” argument, it is the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>case of the [slippery slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) and the ad hominem argumentsby M Lillo-Unglaube · 2014 · Cited by 13 — In an “Ad hominem” argument, it is the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s13194-025-00707-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13194-025-00707-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hominem arguments in scientific discoursesby LP Schäfer · 2026 — Ad hominem arguments have no bearing on the truth-values of scientific t...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s13194-025-00707-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13194-025-00707-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hominem arguments in scientific discoursesby LP Schäfer · 2026 — Ad hominem arguments have no bearing on the truth-values of scientific t...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-hasty/
 description: Focused pages that expand on Bad Samples.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_hasty_generalisation_417b3c
 parent_title: Bad Samples
@@ -16,7 +16,7 @@ parent_permalink: /bad-samples/
 
 # Explore Topics in Bad Samples
 
-The following pages expand on the main **[Bad Samples]({{ '/bad-samples/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Bad Samples]({{ '/bad-samples/' | relative_url }})** page and cover its key branches in.
 
 - [Digest Poll]({{ '/digest-poll/' | relative_url }})
 - [Experience]({{ '/experience/' | relative_url }})

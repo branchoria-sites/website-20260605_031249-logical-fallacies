@@ -277,17 +277,17 @@ image: /assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false
 False claims often outrun careful corrections because [social media]({{ 'social-media/' | relative_url }}) rewards speed, novelty and emotional impact more than accuracy. By the time a claim has been checked, explained and qualified, thousands or even millions of people may already have seen, shared or discussed the original version. This matters for [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) because weak arguments frequently gain influence before anyone has time to examine the evidence behind them.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-dark.svg" | relative_url }}" alt="False News illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research consistently shows that false news does not merely spread as widely as true information—it often spreads more quickly and reaches larger audiences. The result is an environment where misleading claims can establish themselves in public discussion before [corrections]({{ 'corrections/' | relative_url }}) arrive, making later attempts at debunking less effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
+Research consistently shows that false news does not merely spread as widely as true information—it often spreads more quickly and reaches larger audiences. The result is an environment where misleading claims can establish themselves in public discussion before [corrections]({{ 'corrections/' | relative_url }}) arrive, making later attempts at debunking less effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
 
 ## What the Twitter diffusion study found
 
-The most influential dataset on this question comes from a 2018 study published in *Science* by Soroush Vosoughi, Deb Roy and Sinan Aral. The researchers analysed roughly 126,000 verified true and false news stories shared on Twitter between 2006 and 2017. These stories generated more than 4.5 million tweets from about three million users. Claims were classified using multiple independent fact-checking organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span>
+The most influential dataset on this question comes from a 2018 study published in *Science* by Soroush Vosoughi, Deb Roy and Sinan Aral. The researchers analysed roughly 126,000 verified true and false news stories shared on Twitter between 2006 and 2017. These stories generated more than 4.5 million tweets from about three million users. Claims were classified using multiple independent fact-checking organisations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span>
 
-The central finding was striking: false news spread farther, faster, deeper and more broadly than true news across almost every category studied. False stories were substantially more likely to reach large audiences, and the largest false [cascades]({{ 'cascades/' | relative_url }}) reached many more people than the largest true ones. Political misinformation showed especially strong effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed Equally important]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span>, the researchers found that automated accounts were not the main explanation. When bot activity was accounted for, false information still spread more effectively than truthful information. Human behaviour played the decisive role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</span></span></span> For discussions of logical fallacies, this finding is significant because many viral falsehoods succeed not through strong evidence but through persuasive narratives, emotional reactions or flawed reasoning that people find compelling enough to share.
+The central finding was striking: false news spread farther, faster, deeper and more broadly than true news across almost every category studied. False stories were substantially more likely to reach large audiences, and the largest false [cascades]({{ 'cascades/' | relative_url }}) reached many more people than the largest true ones. Political misinformation showed especially strong effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed Equally important]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span>, the researchers found that automated accounts were not the main explanation. When bot activity was accounted for, false information still spread more effectively than truthful information. Human behaviour played the decisive role.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</span></span></span> For discussions of logical fallacies, this finding is significant because many viral falsehoods succeed not through strong evidence but through persuasive narratives, emotional reactions or flawed reasoning that people find compelling enough to share.
 
 ## Why novelty and simplicity help weak arguments spread
 
-The same study explored why false news enjoys this advantage. One explanation was [novelty]({{ 'novelty/' | relative_url }}). False stories often contain surprising, unusual or unexpected claims, making them more attractive to share. Truthful reporting frequently contains qualifications, uncertainty and complexity, while false claims can be packaged as dramatic revelations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
+The same study explored why false news enjoys this advantage. One explanation was [novelty]({{ 'novelty/' | relative_url }}). False stories often contain surprising, unusual or unexpected claims, making them more attractive to share. Truthful reporting frequently contains qualifications, uncertainty and complexity, while false claims can be packaged as dramatic revelations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
 This creates a natural advantage for arguments that rely on logical shortcuts:
 
@@ -302,7 +302,7 @@ This creates a natural advantage for arguments that rely on logical shortcuts:
 
 Such arguments are easier to communicate in a short post than a careful discussion of evidence and uncertainty.
 
-Social sharing also rewards content that makes the sharer appear informed, connected or ahead of others. Novel information can provide social value regardless of whether it is accurate. Researchers associated false news diffusion with these novelty effects, suggesting that people are often motivated by the appeal of sharing something surprising rather than something verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
+Social sharing also rewards content that makes the sharer appear informed, connected or ahead of others. Novel information can provide social value regardless of whether it is accurate. Researchers associated false news diffusion with these novelty effects, suggesting that people are often motivated by the appeal of sharing something surprising rather than something verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tliyKmxEsw8" title="A question of trust" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tliyKmxEsw8" target="_blank" rel="noopener noreferrer">A question of trust</a></p><p class="youtube-embed-meta">Channel: Massachusetts Institute of Technology (MIT) &middot; Views: 9.4K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tliyKmxEsw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tliyKmxEsw8">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +310,7 @@ Social sharing also rewards content that makes the sharer appear informed, conne
 
 Corrections face a structural disadvantage. A false claim can be published instantly, while a correction usually requires investigation, verification and evidence gathering. By the time a fact-check appears, the original claim may already have travelled through multiple networks and conversations.
 
-Recent research examining political fact-checking in real-world information ecosystems found limitations in coverage, speed and reach. Many misinformation narratives were never fact-checked at all, and among those that were, fact-checks often appeared days after the original claim had begun spreading. Even when corrections existed, they formed only a small fraction of overall discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.13280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and ReachDecember 17, 2024...</span><span class="citation-popover-meta">Published: December 17, 2024</span></span></span>
+Recent research examining political fact-checking in real-world information ecosystems found limitations in coverage, speed and reach. Many misinformation narratives were never fact-checked at all, and among those that were, fact-checks often appeared days after the original claim had begun spreading. Even when corrections existed, they formed only a small fraction of overall discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.13280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and ReachDecember 17, 2024...</span><span class="citation-popover-meta">Published: December 17, 2024</span></span></span>
 
 A correction is also inherently more complicated than the original rumour. Explaining why a claim is wrong often requires [context]({{ 'context/' | relative_url }}), evidence and nuance. The false claim might fit into a single sentence; the correction may require several paragraphs. This imbalance favours the simpler message.
 
@@ -319,13 +319,13 @@ As a result, social media users frequently encounter the original claim long bef
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-2-dark.svg" | relative_url }}" alt="False News illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why people may remember the claim after seeing the correction
 
-The problem is not only that corrections arrive later. Psychological research shows that misinformation can continue influencing people's reasoning even after it has been explicitly retracted. This phenomenon is known as the "continued influence effect". PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Ecker, UKH, Lewandowsky, S., &amp; Chadwick, M</span><span class="citation-popover-snippet">2020). Canby UKH Ecker · 2020 · Cited by 205 — Misinformation often continues to influence inferential reasoning after clear and credibl...</span></span></span>
+The problem is not only that corrections arrive later. Psychological research shows that misinformation can continue influencing people's reasoning even after it has been explicitly retracted. This phenomenon is known as the "continued influence effect". PubMed<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Ecker, UKH, Lewandowsky, S., &amp; Chadwick, M</span><span class="citation-popover-snippet">2020). Canby UKH Ecker · 2020 · Cited by 205 — Misinformation often continues to influence inferential reasoning after clear and credibl...</span></span></span>
 
 When people first hear a claim, they often incorporate it into their mental understanding of an event. A later correction may remove the factual basis of the claim, but the original narrative can remain psychologically useful because it provides a coherent explanation.
 
-Researchers studying misinformation correction have repeatedly found that people can continue relying on corrected information when making judgements and drawing conclusions. In practice, this means that a correction does not always erase the influence of a viral falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</span></span></span>
+Researchers studying misinformation correction have repeatedly found that people can continue relying on corrected information when making judgements and drawing conclusions. In practice, this means that a correction does not always erase the influence of a viral falsehood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</span></span></span>
 
-Repetition adds another challenge. Studies on the "illusory truth effect" show that repeated exposure can increase the perceived credibility of a statement. The more often people encounter a claim, the more familiar it feels, and familiarity can be mistaken for truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span>
+Repetition adds another challenge. Studies on the "illusory truth effect" show that repeated exposure can increase the perceived credibility of a statement. The more often people encounter a claim, the more familiar it feels, and familiarity can be mistaken for truth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span>
 
 Because false claims often spread widely before corrections appear, they benefit from repeated exposure long before fact-checkers enter the conversation.
 
@@ -333,7 +333,7 @@ Because false claims often spread widely before corrections appear, they benefit
 
 ## How to slow down before sharing a viral claim
 
-The evidence does not suggest that corrections are useless. In fact, research generally finds that well-designed corrections reduce false beliefs, and strong evidence for widespread "backfire effects" is limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Familiarity backfire effects?</span><span class="citation-popover-snippet">Disentangling the competing...by IN Nibat · 2026 — Repetition reliably increases belief in misinformation (illusory truth effect), while...</span></span></span>, the most effective defence often occurs before sharing rather than after correction.
+The evidence does not suggest that corrections are useless. In fact, research generally finds that well-designed corrections reduce false beliefs, and strong evidence for widespread "backfire effects" is limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Familiarity backfire effects?</span><span class="citation-popover-snippet">Disentangling the competing...by IN Nibat · 2026 — Repetition reliably increases belief in misinformation (illusory truth effect), while...</span></span></span>, the most effective defence often occurs before sharing rather than after correction.
 
 When encountering a viral claim:
 
@@ -350,274 +350,274 @@ When encountering a viral claim:
 
 </div>
 
-The central lesson from the diffusion research is that false news succeeds partly because it fits the incentives of online sharing. Careful corrections require time, evidence and nuance. Social media often rewards the opposite. That mismatch helps explain why weak arguments can gain enormous visibility before their flaws become widely recognised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
+The central lesson from the diffusion research is that false news succeeds partly because it fits the incentives of online sharing. Careful corrections require time, evidence and nuance. Social media often rewards the opposite. That mismatch helps explain why weak arguments can gain enormous visibility before their flaws become widely recognised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-dark.svg" | relative_url }}" alt="False News illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why False Claims Outrun Careful Corrections. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why False Claims Outrun Careful Corrections. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Covers fake news, flawed reasoning, and methods for evaluating evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers fake news, flawed reasoning, and methods for evaluating evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how misleading impressions spread and how to assess claims more carefully.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how misleading impressions spread and how to assess claims more carefully.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases that help false claims spread faster than careful analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases that help false claims spread faster than careful analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
-        </h4>
-        <p class="fr-book-author">By Tom Nichols</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
+</h4>
+<p class="fr-book-author">By Tom Nichols</p>
         
-        <p class="fr-book-desc">Explores why inaccurate information and overconfidence thrive in modern media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why inaccurate information and overconfidence thrive in modern media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-news-why-false-claims-outrun-careful-corrections-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ The central lesson from the diffusion research is that false news succeeds partl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ The central lesson from the diffusion research is that false news succeeds partl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ The central lesson from the diffusion research is that false news succeeds partl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -715,7 +715,7 @@ The central lesson from the diffusion research is that false news succeeds partl
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -773,165 +773,165 @@ The central lesson from the diffusion research is that false news succeeds partl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/twitter-false-news-elections-scientific-study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</p></details>
+   Link:<a href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/twitter-false-news-elections-scientific-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2412.13280" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.13280</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and ReachDecember 17, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2412.13280" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.13280</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and ReachDecember 17, 2024...</p></details>
    Published: December 17, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan you believe it?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — In particular, we demonstrate that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — In particular, we demonstrate that...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Familiarity backfire effects?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — Repetition reliably increases belief in misinformation (illusory truth effect), while...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — Repetition reliably increases belief in misinformation (illusory truth effect), while...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 416 — A backfire effect is when people...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 416 — A backfire effect is when people...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.08048" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08048</a>  
+   Link:<a href="https://arxiv.org/abs/2505.08048" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08048</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ide.mit.edu  
-   Link: <a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — Falsehood diffused significantly farther, faster, deeper, and more broadly than the t...</p></details>
+   Link:<a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — Falsehood diffused significantly farther, faster, deeper, and more broadly than the t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: [politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). media.mit.edu  
    Title: Vosoughi Science  
-   Link: <a href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://politics.media.mit.edu/papers/Vosoughi_Science.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · Cited by 13616 — This suggests that false news spreads farther, faster, deeper, and m...</p></details>
+   Link:<a href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://politics.media.mit.edu/papers/Vosoughi_Science.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · Cited by 13616 — This suggests that false news spreads farther, faster, deeper, and m...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167923625001241" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167923625001241</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of information updates on the effectiveness of corrections. JMIS, 42 (2025)...Read...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167923625001241" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167923625001241</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of information updates on the effectiveness of corrections. JMIS, 42 (2025)...Read...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Misinformation and its correction: Continued  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 20 — Media literacy interventions as a means to fi...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 20 — Media literacy interventions as a means to fi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We first examine the mechan...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We first examine the mechan...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Ecker, UKH, Lewandowsky, S., & Chadwick, M  
-   Link: <a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2020). Canby UKH Ecker · 2020 · Cited by 205 — Misinformation often continues to influence inferential reasoning after clear and credibl...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2020). Canby UKH Ecker · 2020 · Cited by 205 — Misinformation often continues to influence inferential reasoning after clear and credibl...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: faculty-directory.dartmouth.edu  
-   Link: <a href="https://faculty-directory.dartmouth.edu/soroush-vosoughi" target="_blank" rel="noopener noreferrer nofollow">https://faculty-directory.dartmouth.edu/soroush-vosoughi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vosoughi - Faculty Directory - DartmouthI lead the Minds, Machine, and Society group in Dartmouth&#x27;s Department of Computer Science...</p></details>
+   Link:<a href="https://faculty-directory.dartmouth.edu/soroush-vosoughi" target="_blank" rel="noopener noreferrer nofollow">https://faculty-directory.dartmouth.edu/soroush-vosoughi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vosoughi - Faculty Directory - DartmouthI lead the Minds, Machine, and Society group in Dartmouth&#x27;s Department of Computer Science...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2018) found that fake news can diffuse much faster and reach more people than the truth. They...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2018) found that fake news can diffuse much faster and reach more people than the truth. They...Read more...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The spread of true and false news onlineThis research examines the dynamics of true and false news dissemination on Twitter, focusi...</p></details>
+   Link:<a href="https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The spread of true and false news onlineThis research examines the dynamics of true and false news dissemination on Twitter, focusi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: alivosoughi.com  
-   Link: <a href="https://alivosoughi.com/" target="_blank" rel="noopener noreferrer nofollow">https://alivosoughi.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ali Vosoughi – Ph.D. CandidateAli Vosoughi&#x27;s research centers on multimodal foundation models — spanning world models, agentic systems, a...</p></details>
+   Link:<a href="https://alivosoughi.com/" target="_blank" rel="noopener noreferrer nofollow">https://alivosoughi.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ali Vosoughi – Ph.D. CandidateAli Vosoughi&#x27;s research centers on multimodal foundation models — spanning world models, agentic systems, a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2018/03/08/false-news-spreads-faster-1520537127" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/03/08/false-news-spreads-faster-1520537127</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon is attributed to human behavior rather than bots, as people tend to prefer and share novel information, often false. Bren...</p></details>
+   Link:<a href="https://www.axios.com/2018/03/08/false-news-spreads-faster-1520537127" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/03/08/false-news-spreads-faster-1520537127</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon is attributed to human behavior rather than bots, as people tend to prefer and share novel information, often false. Bren...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can corrections spread misinformation to new audiences...Misinformation often continues to influence inferential reasoning after clear a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can corrections spread misinformation to new audiences...Misinformation often continues to influence inferential reasoning after clear a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sinanaral.medium.com  
-   Link: <a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News about our Fake News Study Spread Faster than its...Our paper showed that the speed of false news is correlated with the fact that i...</p></details>
+   Link:<a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News about our Fake News Study Spread Faster than its...Our paper showed that the speed of false news is correlated with the fact that i...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/papers/the-spread-of-true-and-false-news-online-ouxpcbw2ek?citations_page=169" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/the-spread-of-true-and-false-news-online-ouxpcbw2ek?citations_page=169</a>  
+   Link:<a href="https://scispace.com/papers/the-spread-of-true-and-false-news-online-ouxpcbw2ek?citations_page=169" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/the-spread-of-true-and-false-news-online-ouxpcbw2ek?citations_page=169</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372075978_Examining_the_replicability_of_backfire_effects_after_standalone_corrections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372075978_Examining_the_replicability_of_backfire_effects_after_standalone_corrections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ented without initial misinformation exposure—can backfire and increase participants&#x27;...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/372075978_Examining_the_replicability_of_backfire_effects_after_standalone_corrections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372075978_Examining_the_replicability_of_backfire_effects_after_standalone_corrections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ented without initial misinformation exposure—can backfire and increase participants&#x27;...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/cliffs-questions/8675811" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/8675811</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rther, deeper, and more broadly than true news; Human behavior (not bots)...Read more...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/cliffs-questions/8675811" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/8675811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rther, deeper, and more broadly than true news; Human behavior (not bots)...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tions of misinformation are so ineffective in memory updating and why...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tions of misinformation are so ineffective in memory updating and why...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: abc.net.au  
    Title: who spreads false news on twitter bots and us study  
-   Link: <a href="https://www.abc.net.au/news/science/2018-03-09/who-spreads-false-news-on-twitter-bots-and-us-study/9519402" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2018-03-09/who-spreads-false-news-on-twitter-bots-and-us-study/9519402</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Fake news&#x27; spreads faster online than the truth, finds...8 Mar 2018 — False news spread &quot;farther, faster, deeper, and more broadly&quot; tha...</p></details>
+   Link:<a href="https://www.abc.net.au/news/science/2018-03-09/who-spreads-false-news-on-twitter-bots-and-us-study/9519402" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2018-03-09/who-spreads-false-news-on-twitter-bots-and-us-study/9519402</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Fake news&#x27; spreads faster online than the truth, finds...8 Mar 2018 — False news spread &quot;farther, faster, deeper, and more broadly&quot; tha...</p></details>

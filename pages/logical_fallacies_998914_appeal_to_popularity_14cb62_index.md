@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-appeal-to/
 description: Focused pages that expand on Popularity.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_appeal_to_popularity_14cb62
 parent_title: Popularity
@@ -16,7 +16,7 @@ parent_permalink: /popularity/
 
 # Explore Topics in Popularity
 
-The following pages expand on the main **[Popularity]({{ '/popularity/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Popularity]({{ '/popularity/' | relative_url }})** page and cover its key branches in.
 
 - [The Asch Conformity Experiments]({{ '/the-asch-conformity-experiments/' | relative_url }})
 - [Fake Reviews]({{ '/fake-reviews/' | relative_url }})

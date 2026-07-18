@@ -268,10 +268,10 @@ image: /assets/images/logical_fallacies_998914_formal_fallacies_6c776a_undistrib
 
 ## Introduction
 
-The fallacy of the undistributed middle is a structural error in categorical reasoning. It occurs when two groups are linked to the same broader category and a conclusion incorrectly treats that shared category as proof that the groups are identical, equivalent, or directly connected. In everyday language, the mistake sounds convincing because the groups genuinely have something in common. The problem is that sharing a category does not establish the stronger relationship claimed in the conclusion. Logicians classify this as a formal fallacy because the error lies in the argument’s structure, not in the truth or falsity of its premises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The semi-logical...Read more...</span></span></span> Encyclopedia of Philosophy
+The fallacy of the undistributed middle is a structural error in categorical reasoning. It occurs when two groups are linked to the same broader category and a conclusion incorrectly treats that shared category as proof that the groups are identical, equivalent, or directly connected. In everyday language, the mistake sounds convincing because the groups genuinely have something in common. The problem is that sharing a category does not establish the stronger relationship claimed in the conclusion. Logicians classify this as a formal fallacy because the error lies in the argument’s structure, not in the truth or falsity of its premises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The semi-logical...Read more...</span></span></span> Encyclopedia of Philosophy
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_undistributed_middle_9d492a-Illustration-1-dark.svg" | relative_url }}" alt="Shared Category illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_undistributed_middle_9d492a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_undistributed_middle_9d492a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A common pattern is: “All A are C. All B are C. Therefore, all A are B.” The conclusion does not follow. The category C may be broad enough to contain many distinct groups. The shared label creates an appearance of connection without logically proving one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousFallacy of (the) Undistributed MiddleA formal fallacy in a categorical syllogism where the middle term, or the term t...</span></span></span>
+A common pattern is: “All A are C. All B are C. Therefore, all A are B.” The conclusion does not follow. The category C may be broad enough to contain many distinct groups. The shared label creates an appearance of connection without logically proving one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousFallacy of (the) Undistributed MiddleA formal fallacy in a categorical syllogism where the middle term, or the term t...</span></span></span>
 
 ## Why Shared Traits Do Not Prove Identity
 
@@ -279,9 +279,9 @@ The central mechanism is simple: two things can belong to the same class without
 
 Consider the argument:
 
-* All cats are mammals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span> * All dogs are mammals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span> * Therefore, all cats are dogs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span>
+* All cats are mammals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span> * All dogs are mammals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span> * Therefore, all cats are dogs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span>
 
-The premises are true, but the conclusion is false. The term “mammals” functions as the middle term connecting the premises. Yet neither premise tells us anything about all mammals. We learn only that cats are inside the mammal category and dogs are inside the mammal category. Nothing establishes that the cat group and the dog group overlap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span>
+The premises are true, but the conclusion is false. The term “mammals” functions as the middle term connecting the premises. Yet neither premise tells us anything about all mammals. We learn only that cats are inside the mammal category and dogs are inside the mammal category. Nothing establishes that the cat group and the dog group overlap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span>
 
 This is why a shared characteristic is weaker than an identity claim. Two cities can be in the same country without being the same city. Two professions can require university education without being the same profession. Two political proposals can seek economic growth without being equivalent policies.
 
@@ -291,9 +291,9 @@ The fallacy often succeeds rhetorically because people naturally notice similari
 
 To understand the mechanism, it helps to know what logicians mean by a distributed term.
 
-A term is distributed when a statement refers to every member of the class named by that term. If a term is undistributed, the statement applies only to some portion of the class or does not make claims about the entire category. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.merriam-webster.com/dictionary/undistributed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merriam-webster.com">[Merriam-Webster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merriam-webster.com</span><span class="citation-popover-snippet">ng information about every member of the class named.Read more...</span></span></span>
+A term is distributed when a statement refers to every member of the class named by that term. If a term is undistributed, the statement applies only to some portion of the class or does not make claims about the entire category. Encyclopedia Britannica<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.merriam-webster.com/dictionary/undistributed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merriam-webster.com">[Merriam-Webster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merriam-webster.com</span><span class="citation-popover-snippet">ng information about every member of the class named.Read more...</span></span></span>
 
-In a valid categorical syllogism, the middle term must be distributed in at least one premise. Otherwise, the middle term fails to guarantee a connection between the other two terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.lander.edu/logic/middle_fall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Syllogistic Fallacies: Fallacy of the Undistributed Middle TermThe Fallacy of the Undistributed Middle Term occurs when the middle term i...</span></span></span>
+In a valid categorical syllogism, the middle term must be distributed in at least one premise. Otherwise, the middle term fails to guarantee a connection between the other two terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.lander.edu/logic/middle_fall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Syllogistic Fallacies: Fallacy of the Undistributed Middle TermThe Fallacy of the Undistributed Middle Term occurs when the middle term i...</span></span></span>
 
 For example:
 
@@ -305,9 +305,9 @@ For example:
 
 </div>
 
-The category “professionals” is too broad. The premises do not discuss all professionals; they merely place surgeons and architects within that larger class. Because the middle term never covers the whole category in a way that connects the two groups, the conclusion lacks support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-title">nature fall</span><span class="citation-popover-snippet">Nature of Fallacies∴ Rousseau is not an educational authority. This translation results in the fallacy of the undistributed middle. Moreo...</span></span></span>
+The category “professionals” is too broad. The premises do not discuss all professionals; they merely place surgeons and architects within that larger class. Because the middle term never covers the whole category in a way that connects the two groups, the conclusion lacks support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-title">nature fall</span><span class="citation-popover-snippet">Nature of Fallacies∴ Rousseau is not an educational authority. This translation results in the fallacy of the undistributed middle. Moreo...</span></span></span>
 
-Logic textbooks often describe the undistributed middle as a failure of linkage. The middle term is supposed to connect the major and minor terms. When it is undistributed in both premises, that bridge never forms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.lander.edu/logic/middle_fall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Syllogistic Fallacies: Fallacy of the Undistributed Middle TermThe Fallacy of the Undistributed Middle Term occurs when the middle term i...</span></span></span>
+Logic textbooks often describe the undistributed middle as a failure of linkage. The middle term is supposed to connect the major and minor terms. When it is undistributed in both premises, that bridge never forms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.lander.edu/logic/middle_fall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Syllogistic Fallacies: Fallacy of the Undistributed Middle TermThe Fallacy of the Undistributed Middle Term occurs when the middle term i...</span></span></span>
 
 ## Cats, Dogs, Mammals, and Policy Comparisons
 
@@ -327,7 +327,7 @@ A classic form is:
 
 </div>
 
-The conclusion is absurd, but the structure mirrors many less obvious arguments. The broad category “mammals” does not create identity between every subgroup within it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/undistributed-middle-fallacy-1692453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co The Logic Fallacy of the Undistributed Middle</span><span class="citation-popover-snippet">The Logic Fallacy of the Undistributed MiddleMay 11, 2025 — The undistributed middle is a logical fallacy of deduction in which...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
+The conclusion is absurd, but the structure mirrors many less obvious arguments. The broad category “mammals” does not create identity between every subgroup within it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/undistributed-middle-fallacy-1692453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co The Logic Fallacy of the Undistributed Middle</span><span class="citation-popover-snippet">The Logic Fallacy of the Undistributed MiddleMay 11, 2025 — The undistributed middle is a logical fallacy of deduction in which...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
 
 ### Social and Political Reasoning
 
@@ -424,9 +424,9 @@ This is a powerful logical test.
 
 For example:
 
-* All cats are mammals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span> * All dogs are mammals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span>
+* All cats are mammals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span> * All dogs are mammals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span>
 
-Both premises are true. Yet “all cats are dogs” is clearly false. Because the premises can be true while the conclusion is false, the argument is invalid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span>
+Both premises are true. Yet “all cats are dogs” is clearly false. Because the premises can be true while the conclusion is false, the argument is invalid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: study.com">[study.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">study.com</span><span class="citation-popover-title">categorical logic definition importance examples</span><span class="citation-popover-snippet">All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</span></span></span>
 
 ### Is the Middle Term Broad Enough to Include Unrelated Groups?
 
@@ -436,197 +436,197 @@ If the connecting category is extremely broad, it may be functioning merely as a
 
 ## The Core Lesson
 
-The undistributed middle demonstrates that a common category does not automatically create a logical bridge between the things placed inside it. Categories can reveal genuine similarities, but they do not by themselves establish identity, equivalence, or the specific relationship claimed in a conclusion. When an argument depends on the idea that two groups must be connected because they share a label, the crucial question is whether the shared category actually links them—or merely gives the illusion of doing so. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousFallacy of (the) Undistributed MiddleA formal fallacy in a categorical syllogism where the middle term, or the term t...</span></span></span>
+The undistributed middle demonstrates that a common category does not automatically create a logical bridge between the things placed inside it. Categories can reveal genuine similarities, but they do not by themselves establish identity, equivalence, or the specific relationship claimed in a conclusion. When an argument depends on the idea that two groups must be connected because they share a label, the crucial question is whether the shared category actually links them—or merely gives the illusion of doing so.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousFallacy of (the) Undistributed MiddleA formal fallacy in a categorical syllogism where the middle term, or the term t...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Shared Traits Do Not Prove Identity. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Shared Traits Do Not Prove Identity. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Directly teaches valid argument structures and common reasoning errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches valid argument structures and common reasoning errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Patrick J. Hurley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Patrick J. Hurley</p>
         
-        <p class="fr-book-desc">Covers categorical syllogisms and formal fallacies including structural errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers categorical syllogisms and formal fallacies including structural errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Explains why shared traits do not establish identity or equivalence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why shared traits do not establish identity or equivalence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes careful evaluation of claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes careful evaluation of claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/dgAAAeSwEjFplWxm/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/dgAAAeSwEjFplWxm/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/G8oAAeSws09pl7bJ/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/G8oAAeSws09pl7bJ/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/GHAAAeSw-2Bpy-n-/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/GHAAAeSw-2Bpy-n-/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game"><img src="https://i.ebayimg.com/images/g/L2YAAeSwFQxpi0J~/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game"><img src="https://i.ebayimg.com/images/g/L2YAAeSwFQxpi0J~/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-shared-traits-do-not-prove-identity-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="why-shared-traits-do-not-prove-identity-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ The undistributed middle demonstrates that a common category does not automatica
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ The undistributed middle demonstrates that a common category does not automatica
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ The undistributed middle demonstrates that a common category does not automatica
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ The undistributed middle demonstrates that a common category does not automatica
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -791,7 +791,7 @@ The undistributed middle demonstrates that a common category does not automatica
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -832,171 +832,171 @@ The undistributed middle demonstrates that a common category does not automatica
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The semi-logical...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The semi-logical...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/middle_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/middle_fall.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Syllogistic Fallacies: Fallacy of the Undistributed Middle TermThe Fallacy of the Undistributed Middle Term occurs when the middle term i...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/middle_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/middle_fall.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Syllogistic Fallacies: Fallacy of the Undistributed Middle TermThe Fallacy of the Undistributed Middle Term occurs when the middle term i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: study.com  
    Title: categorical logic definition importance examples  
-   Link: <a href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</p></details>
+   Link:<a href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: distribution logic  
-   Link: <a href="https://www.britannica.com/topic/distribution-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/distribution-logic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDistribution | Formal Systems, Deductive Reasoning...6 Feb 2026 — Distribution, in syllogistics, the application...</p></details>
+   Link:<a href="https://www.britannica.com/topic/distribution-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/distribution-logic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDistribution | Formal Systems, Deductive Reasoning...6 Feb 2026 — Distribution, in syllogistics, the application...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/undistributed" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/undistributed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ng information about every member of the class named.Read more...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/undistributed" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/undistributed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng information about every member of the class named.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thoughtco.com  
    Title: Thought Co The Logic Fallacy of the Undistributed Middle  
-   Link: <a href="https://www.thoughtco.com/undistributed-middle-fallacy-1692453" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/undistributed-middle-fallacy-1692453</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic Fallacy of the Undistributed MiddleMay 11, 2025 — The undistributed middle is a logical fallacy of deduction in which...</p></details>
+   Link:<a href="https://www.thoughtco.com/undistributed-middle-fallacy-1692453" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/undistributed-middle-fallacy-1692453</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic Fallacy of the Undistributed MiddleMay 11, 2025 — The undistributed middle is a logical fallacy of deduction in which...</p></details>
    Published: May 11, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: web.stanford.edu  
-   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesFallacy of Four Terms: a syllogism has four terms · Undistributed Middle: two separate categories are said to be connect...</p></details>
+   Link:<a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesFallacy of Four Terms: a syllogism has four terms · Undistributed Middle: two separate categories are said to be connect...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: stanford.edu  
-   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
+   Link:<a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: medieval syllogism  
-   Link: <a href="https://plato.stanford.edu/entries/medieval-syllogism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/medieval-syllogism/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of the Syllogismby H Lagerlund · 2004 · Cited by 62 — In the first figure, IA, OA, and OI have an undistributed middle...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/medieval-syllogism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/medieval-syllogism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of the Syllogismby H Lagerlund · 2004 · Cited by 62 — In the first figure, IA, OA, and OI have an undistributed middle...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/logic-manyvalued/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-manyvalued/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduMany-Valued Logic - Stanford Encyclopedia of Philosophyby J Marcos · 2026 · Cited by 1 — They are proper sublogics: there are...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-manyvalued/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-manyvalued/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduMany-Valued Logic - Stanford Encyclopedia of Philosophyby J Marcos · 2026 · Cited by 1 — They are proper sublogics: there are...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: aristotle noncontradiction  
-   Link: <a href="https://plato.stanford.edu/entries/aristotle-noncontradiction/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/aristotle-noncontradiction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Non-contradictionby P Gottlieb · 2007 · Cited by 162 — According to Aristotle, the principle of non-contradiction is a principle of sc...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/aristotle-noncontradiction/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/aristotle-noncontradiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Non-contradictionby P Gottlieb · 2007 · Cited by 162 — According to Aristotle, the principle of non-contradiction is a principle of sc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: news.stanford.edu  
    Title: how to concentrate focus expert tips advice  
-   Link: <a href="https://news.stanford.edu/stories/2026/05/how-to-concentrate-focus-expert-tips-advice" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/05/how-to-concentrate-focus-expert-tips-advice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to concentrate in an ever-distracted world...</p></details>
+   Link:<a href="https://news.stanford.edu/stories/2026/05/how-to-concentrate-focus-expert-tips-advice" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/05/how-to-concentrate-focus-expert-tips-advice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to concentrate in an ever-distracted world...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2015/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/fallacies/notes.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See Corcoran (1974), Smith (1997), and Irwin and Fine (1996). 4. Whately (1875) has...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2015/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/fallacies/notes.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See Corcoran (1974), Smith (1997), and Irwin and Fine (1996). 4. Whately (1875) has...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: philosophy.institute  
    Title: common fallacies categorical syllogisms  
-   Link: <a href="https://philosophy.institute/logic/common-fallacies-categorical-syllogisms/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/common-fallacies-categorical-syllogisms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Fallacies in Categorical Syllogisms29 Dec 2025 — This post walks through the most common fallacies in categorical syllogisms – und...</p></details>
+   Link:<a href="https://philosophy.institute/logic/common-fallacies-categorical-syllogisms/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/common-fallacies-categorical-syllogisms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Fallacies in Categorical Syllogisms29 Dec 2025 — This post walks through the most common fallacies in categorical syllogisms – und...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: philosophy.lander.edu  
    Title: nature fall  
-   Link: <a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature of Fallacies∴ Rousseau is not an educational authority. This translation results in the fallacy of the undistributed middle. Moreo...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature of Fallacies∴ Rousseau is not an educational authority. This translation results in the fallacy of the undistributed middle. Moreo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousFallacy of (the) Undistributed MiddleA formal fallacy in a categorical syllogism where the middle term, or the term t...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousFallacy of (the) Undistributed MiddleA formal fallacy in a categorical syllogism where the middle term, or the term t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Syllogism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Syllogism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SyllogismA syllogism is a kind of logical argument that applies deductive reasoning to arrive at a conclusion based on two proposition...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Syllogism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Syllogism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SyllogismA syllogism is a kind of logical argument that applies deductive reasoning to arrive at a conclusion based on two proposition...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: suchanek.co  
-   Link: <a href="https://suchanek.co/p/the-fallacy-of-the-undistributed" target="_blank" rel="noopener noreferrer nofollow">https://suchanek.co/p/the-fallacy-of-the-undistributed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy of the Undistributed Middle - Tim SuchanekOct 11, 2023 — It occurs when the middle term in a categorical syllogism isn&#x27;t dist...</p></details>
+   Link:<a href="https://suchanek.co/p/the-fallacy-of-the-undistributed" target="_blank" rel="noopener noreferrer nofollow">https://suchanek.co/p/the-fallacy-of-the-undistributed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy of the Undistributed Middle - Tim SuchanekOct 11, 2023 — It occurs when the middle term in a categorical syllogism isn&#x27;t dist...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Fallacy of the undistributed middle  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy of the undistributed middle... middle term in a categorical syllogism is not distributed in either the minor premise or the ma...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy of the undistributed middle... middle term in a categorical syllogism is not distributed in either the minor premise or the ma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedaily.com  
-   Link: <a href="https://www.sciencedaily.com/releases/2026/05/260528074028.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2026/05/260528074028.htm</a>  
+   Link:<a href="https://www.sciencedaily.com/releases/2026/05/260528074028.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2026/05/260528074028.htm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fiveable.me  
    Title: Fallacy of the Undistributed Middle  
-   Link: <a href="https://fiveable.me/formal-logic-i/key-terms/fallacy-of-the-undistributed-middle" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/formal-logic-i/key-terms/fallacy-of-the-undistributed-middle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of the undistributed middle occurs when a syllogism contains a middle term that is not distributed in at least one of the pre...</p></details>
+   Link:<a href="https://fiveable.me/formal-logic-i/key-terms/fallacy-of-the-undistributed-middle" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/formal-logic-i/key-terms/fallacy-of-the-undistributed-middle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of the undistributed middle occurs when a syllogism contains a middle term that is not distributed in at least one of the pre...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesUndistributed Middle. In syllogistic logic, failing to distribute the middle term over at lea...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesUndistributed Middle. In syllogistic logic, failing to distribute the middle term over at lea...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: naturalistphilosophy.wordpress.com  
-   Link: <a href="https://naturalistphilosophy.wordpress.com/tag/logic/" target="_blank" rel="noopener noreferrer nofollow">https://naturalistphilosophy.wordpress.com/tag/logic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Philosophy CornerLogically, if we take Modus Ponens to be a substitute for a hypothetical syllogism, then undistributed middle is a...</p></details>
+   Link:<a href="https://naturalistphilosophy.wordpress.com/tag/logic/" target="_blank" rel="noopener noreferrer nofollow">https://naturalistphilosophy.wordpress.com/tag/logic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Philosophy CornerLogically, if we take Modus Ponens to be a substitute for a hypothetical syllogism, then undistributed middle is a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: amateurlogician.com  
-   Link: <a href="https://amateurlogician.com/fallacies-introduction/" target="_blank" rel="noopener noreferrer nofollow">https://amateurlogician.com/fallacies-introduction/</a>  
+   Link:<a href="https://amateurlogician.com/fallacies-introduction/" target="_blank" rel="noopener noreferrer nofollow">https://amateurlogician.com/fallacies-introduction/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: philosophy.stackexchange.com  
    Title: what is the difference between law of excluded middle and principle of bivalence  
-   Link: <a href="https://philosophy.stackexchange.com/questions/3268/what-is-the-difference-between-law-of-excluded-middle-and-principle-of-bivalence" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/3268/what-is-the-difference-between-law-of-excluded-middle-and-principle-of-bivalence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the difference between Law of Excluded Middle...Jul 10, 2012 — Law of Excluded Middle: In logic, the law of excluded middle (or the p...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/3268/what-is-the-difference-between-law-of-excluded-middle-and-principle-of-bivalence" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/3268/what-is-the-difference-between-law-of-excluded-middle-and-principle-of-bivalence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the difference between Law of Excluded Middle...Jul 10, 2012 — Law of Excluded Middle: In logic, the law of excluded middle (or the p...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/212807754/Rules-and-Fallacies-for-Categorical-Syllogisms" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/212807754/Rules-and-Fallacies-for-Categorical-Syllogisms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The middle term must be distributed at least once to connect the major and minor...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/doc/212807754/Rules-and-Fallacies-for-Categorical-Syllogisms" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/212807754/Rules-and-Fallacies-for-Categorical-Syllogisms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The middle term must be distributed at least once to connect the major and minor...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bookdown.org  
-   Link: <a href="https://bookdown.org/rlridenour/ct-text/categorical-logic.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/rlridenour/ct-text/categorical-logic.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is an example: All Dogs are mammals. All mammals are animals. All dogs are...Read more...</p></details>
+   Link:<a href="https://bookdown.org/rlridenour/ct-text/categorical-logic.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/rlridenour/ct-text/categorical-logic.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here is an example: All Dogs are mammals. All mammals are animals. All dogs are...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: testbook.com  
-   Link: <a href="https://testbook.com/question-answer/the-fallacy-committed-in-the-argumentall-t--62fca9668d063ca9a0c95253" target="_blank" rel="noopener noreferrer nofollow">https://testbook.com/question-answer/the-fallacy-committed-in-the-argumentall-t--62fca9668d063ca9a0c95253</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r and major premises to avoid the formal fallacy known as the undistributed middle.Read more...</p></details>
+   Link:<a href="https://testbook.com/question-answer/the-fallacy-committed-in-the-argumentall-t--62fca9668d063ca9a0c95253" target="_blank" rel="noopener noreferrer nofollow">https://testbook.com/question-answer/the-fallacy-committed-in-the-argumentall-t--62fca9668d063ca9a0c95253</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r and major premises to avoid the formal fallacy known as the undistributed middle.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: faculty.fiu.edu  
    Title: Categorical Syllogisms, Venn Diagrams and Rules for Testing  
-   Link: <a href="https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/Categorical%20Syllogisms%2C%20Venn%20Diagrams%20and%20Rules%20for%20Testing.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/Categorical%20Syllogisms%2C%20Venn%20Diagrams%20and%20Rules%20for%20Testing.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Syllogism, Venn Diagrams and Rules...A Categorical Syllogism is a two premised deductive argument whose every claim is a categorical cla...</p></details>
+   Link:<a href="https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/Categorical%20Syllogisms%2C%20Venn%20Diagrams%20and%20Rules%20for%20Testing.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/Categorical%20Syllogisms%2C%20Venn%20Diagrams%20and%20Rules%20for%20Testing.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Syllogism, Venn Diagrams and Rules...A Categorical Syllogism is a two premised deductive argument whose every claim is a categorical cla...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: testbook.com  
-   Link: <a href="https://testbook.com/question-answer/name-the-fallacy-committed-in-the-statements-below--621f738d013951392a537a8f" target="_blank" rel="noopener noreferrer nofollow">https://testbook.com/question-answer/name-the-fallacy-committed-in-the-statements-below--621f738d013951392a537a8f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in standard form syllogisms whenever the term appearing in both premises is...Read more...</p></details>
+   Link:<a href="https://testbook.com/question-answer/name-the-fallacy-committed-in-the-statements-below--621f738d013951392a537a8f" target="_blank" rel="noopener noreferrer nofollow">https://testbook.com/question-answer/name-the-fallacy-committed-in-the-statements-below--621f738d013951392a537a8f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in standard form syllogisms whenever the term appearing in both premises is...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/442356012/Rule-and-Fallacies-of-catogerical-preposition-doc" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/442356012/Rule-and-Fallacies-of-catogerical-preposition-doc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy: Undistributed middle. Example: All sharks are fish. All...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/442356012/Rule-and-Fallacies-of-catogerical-preposition-doc" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/442356012/Rule-and-Fallacies-of-catogerical-preposition-doc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy: Undistributed middle. Example: All sharks are fish. All...Read more...</p></details>

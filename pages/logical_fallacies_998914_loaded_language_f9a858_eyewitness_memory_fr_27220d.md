@@ -268,28 +268,28 @@ image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness
 
 ## Introduction
 
-A central lesson of research on loaded language is that wording can influence not only what people think but also what they remember. In eyewitness situations, small changes in the phrasing of a question can alter a witness’s description of an event and, in some cases, reshape later recollection. This matters for reasoning because a question can contain hidden assumptions that do more than guide an answer: it can become part of the memory itself. The classic evidence comes from studies by psychologist Elizabeth Loftus and colleagues, whose work showed that seemingly minor verbal differences could affect estimates, details recalled, and confidence in recollections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
+A central lesson of research on loaded language is that wording can influence not only what people think but also what they remember. In eyewitness situations, small changes in the phrasing of a question can alter a witness’s description of an event and, in some cases, reshape later recollection. This matters for reasoning because a question can contain hidden assumptions that do more than guide an answer: it can become part of the memory itself. The classic evidence comes from studies by psychologist Elizabeth Loftus and colleagues, whose work showed that seemingly minor verbal differences could affect estimates, details recalled, and confidence in recollections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-1-dark.svg" | relative_url }}" alt="Memory Framing illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The resulting phenomenon is often discussed as a form of framing effect in memory. Rather than merely expressing a neutral request for information, a question can frame an event in a way that encourages witnesses to reconstruct it differently when they remember it later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Simply Psychology...</span></span></span>
+The resulting phenomenon is often discussed as a form of framing effect in memory. Rather than merely expressing a neutral request for information, a question can frame an event in a way that encourages witnesses to reconstruct it differently when they remember it later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Simply Psychology...</span></span></span>
 
 ## Can One Word Change What People Remember?
 
-The most influential evidence comes from the 1974 study commonly known as the Loftus and Palmer car-crash experiment. Participants watched films of traffic accidents and were later asked questions about what they had seen. The crucial manipulation was a single verb embedded in the question: “About how fast were the cars going when they smashed into each other?” Other participants received the same question with verbs such as “hit”, “bumped”, “collided”, or “contacted”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
+The most influential evidence comes from the 1974 study commonly known as the Loftus and Palmer car-crash experiment. Participants watched films of traffic accidents and were later asked questions about what they had seen. The crucial manipulation was a single verb embedded in the question: “About how fast were the cars going when they smashed into each other?” Other participants received the same question with verbs such as “hit”, “bumped”, “collided”, or “contacted”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
 
-The wording changed the answers. Participants who heard the stronger verb “smashed” gave higher speed estimates than those who heard milder verbs such as “contacted”. The event shown on screen was identical for everyone; only the language of the question differed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
+The wording changed the answers. Participants who heard the stronger verb “smashed” gave higher speed estimates than those who heard milder verbs such as “contacted”. The event shown on screen was identical for everyone; only the language of the question differed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
 
-For the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and hidden assumptions, the significance is that language was not simply recording memory. It was helping shape the witness’s interpretation of what had happened. A question framed with a stronger verb subtly suggested a more severe collision, and many participants responded in a way consistent with that suggestion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
+For the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and hidden assumptions, the significance is that language was not simply recording memory. It was helping shape the witness’s interpretation of what had happened. A question framed with a stronger verb subtly suggested a more severe collision, and many participants responded in a way consistent with that suggestion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yq6u_4xtVh0" title="Common Law S4 E8: The Psychology of Eyewitness Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer">Common Law S4 E8: The Psychology of Eyewitness Memory</a></p><p class="youtube-embed-meta">Channel: University of Virginia School of Law &middot; Views: 2.1K &middot; Uploaded: May 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yq6u_4xtVh0">Open on YouTube</a></p></div></div></div>
 
 ## The Loftus and Palmer Case
 
-A second experiment made the finding more striking. After viewing an accident film, participants were asked whether they had seen broken glass. In reality, no broken glass appeared in the footage. Yet participants previously exposed to the word “smashed” were more likely to report seeing broken glass than participants who had received milder wording or no leading verb at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/128262904/loftus-palmer-1974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">loftus palmer 1974</span><span class="citation-popover-snippet">Results Experiment 2. Did you see any broken glass? Response Yes No Smashed 16 34 Hit 7 43 Control 6 44. What do these...Read more...</span></span></span>
+A second experiment made the finding more striking. After viewing an accident film, participants were asked whether they had seen broken glass. In reality, no broken glass appeared in the footage. Yet participants previously exposed to the word “smashed” were more likely to report seeing broken glass than participants who had received milder wording or no leading verb at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/128262904/loftus-palmer-1974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">loftus palmer 1974</span><span class="citation-popover-snippet">Results Experiment 2. Did you see any broken glass? Response Yes No Smashed 16 34 Hit 7 43 Control 6 44. What do these...Read more...</span></span></span>
 
-This result suggested that the question did not merely affect an immediate judgement about speed. It appeared to influence later memory reports about details that were never present. Loftus and Palmer argued that memory is reconstructive rather than a perfect recording. When people recall an event, they combine information from the original [experience]({{ 'experience/' | relative_url }}) with information encountered afterwards. The wording of a question can therefore become incorporated into the remembered event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Simply Psychology...</span></span></span>
+This result suggested that the question did not merely affect an immediate judgement about speed. It appeared to influence later memory reports about details that were never present. Loftus and Palmer argued that memory is reconstructive rather than a perfect recording. When people recall an event, they combine information from the original [experience]({{ 'experience/' | relative_url }}) with information encountered afterwards. The wording of a question can therefore become incorporated into the remembered event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Simply Psychology...</span></span></span>
 
-The study became a foundation for later research on the “misinformation effect”, the finding that misleading information presented after an event can contaminate memory reports. Subsequent research has repeatedly demonstrated that post-event suggestions can reduce eyewitness accuracy and encourage false recollections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Misinformation effect &#124; Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event informatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saskoer.ca">[Saskoer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saskoer.ca</span><span class="citation-popover-title">eyewitness testimony and memory biases</span><span class="citation-popover-snippet">8.4 Eyewitness Testimony and Memory Biasesby C Laney · 2019 · Cited by 2 — Hundreds of subsequent studies have demonstrated that m...</span></span></span>
+The study became a foundation for later research on the “misinformation effect”, the finding that misleading information presented after an event can contaminate memory reports. Subsequent research has repeatedly demonstrated that post-event suggestions can reduce eyewitness accuracy and encourage false recollections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Misinformation effect &#124; Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event informatio...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saskoer.ca">[Saskoer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saskoer.ca</span><span class="citation-popover-title">eyewitness testimony and memory biases</span><span class="citation-popover-snippet">8.4 Eyewitness Testimony and Memory Biasesby C Laney · 2019 · Cited by 2 — Hundreds of subsequent studies have demonstrated that m...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-2-dark.svg" | relative_url }}" alt="Memory Framing illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Verbs and Memory Distortion
@@ -301,298 +301,298 @@ Consider the difference between these questions:
 * “How fast were the cars going when they contacted each other?”
 * “How fast were the cars going when they smashed into each other?”
 
-The second question contains an implied characterisation of the event. “Smashed” carries assumptions about force, damage, and severity. A witness exposed to that framing may reconstruct the scene as more dramatic than originally perceived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
+The second question contains an implied characterisation of the event. “Smashed” carries assumptions about force, damage, and severity. A witness exposed to that framing may reconstruct the scene as more dramatic than originally perceived.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
 
 Researchers have proposed two broad explanations:
 
 * **Response bias:** witnesses may simply adjust their answers to fit what they think the questioner expects.
-* **Memory reconstruction:** the wording may actually alter the stored representation of the event, influencing later recall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resource.download.wjec.co.uk">[WJEC Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resource.download.wjec.co.uk</span><span class="citation-popover-title">loftus and palmer</span><span class="citation-popover-snippet">Reconstruction of automobile...Loftus and Palmer concluded two possible interpretations for experiment 1. The first was response-bias fa...</span></span></span>
+* **Memory reconstruction:** the wording may actually alter the stored representation of the event, influencing later recall.<span class="citation-chip-wrap"><a class="citation-chip" href="https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resource.download.wjec.co.uk">[WJEC Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resource.download.wjec.co.uk</span><span class="citation-popover-title">loftus and palmer</span><span class="citation-popover-snippet">Reconstruction of automobile...Loftus and Palmer concluded two possible interpretations for experiment 1. The first was response-bias fa...</span></span></span>
 
-The broken-glass findings gave support to the second possibility because the effect appeared after a delay and involved a detail absent from the original scene. If participants merely tailored their answers to the question, there would be less reason for them later to remember nonexistent glass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/274558467/Loftus-and-Palmer-1974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Loftus and Palmer 1974</span><span class="citation-popover-snippet">Loftus and Palmer (1974) &#124; PDF &#124; Memory &#124; Traffic CollisionLoftus and Palmer (1974) - Free download as PDF File (.pdf), Text File (.txt)...</span></span></span>
+The broken-glass findings gave support to the second possibility because the effect appeared after a delay and involved a detail absent from the original scene. If participants merely tailored their answers to the question, there would be less reason for them later to remember nonexistent glass.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/274558467/Loftus-and-Palmer-1974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Loftus and Palmer 1974</span><span class="citation-popover-snippet">Loftus and Palmer (1974) &#124; PDF &#124; Memory &#124; Traffic CollisionLoftus and Palmer (1974) - Free download as PDF File (.pdf), Text File (.txt)...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-hha1bAtV5c" title="Loftus and Palmer (1974) Leading Questions and EWT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer">Loftus and Palmer (1974) Leading Questions and EWT</a></p><p class="youtube-embed-meta">Channel: Super Psychology &middot; Views: 58.4K &middot; Uploaded: January 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-hha1bAtV5c">Open on YouTube</a></p></div></div></div>
 
 ## Why This Matters for Evaluating Questions
 
-Framing effects in eyewitness memory demonstrate that loaded language is not only a rhetorical problem. It can become an evidential problem. When investigators, lawyers, journalists, or ordinary people ask questions that contain assumptions, they may unintentionally influence the testimony they are trying to collect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory</span><span class="citation-popover-snippet">However, it wasn&#x27;t until Elizabeth Loftus published a highly...Read more...</span></span></span>
+Framing effects in eyewitness memory demonstrate that loaded language is not only a rhetorical problem. It can become an evidential problem. When investigators, lawyers, journalists, or ordinary people ask questions that contain assumptions, they may unintentionally influence the testimony they are trying to collect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory</span><span class="citation-popover-snippet">However, it wasn&#x27;t until Elizabeth Loftus published a highly...Read more...</span></span></span>
 
 A question such as “How frightened were you when the attacker rushed towards you?” presupposes both an attack and fear. Even if those assumptions are inaccurate, they may guide the witness toward a particular reconstruction of events. The question therefore performs more than one function: it seeks information while simultaneously supplying information. This is closely related to the broader problem of [loaded questions]({{ 'loaded-questions/' | relative_url }}) in reasoning, where a disputed premise is quietly embedded within the wording itself.
 
-The danger is especially important because eyewitness testimony often feels compelling. Jurors, investigators, and observers may treat confident recollections as direct access to the past, even though research shows that memory can be shaped by subsequent language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory</span><span class="citation-popover-snippet">However, it wasn&#x27;t until Elizabeth Loftus published a highly...Read more...</span></span></span>
+The danger is especially important because eyewitness testimony often feels compelling. Jurors, investigators, and observers may treat confident recollections as direct access to the past, even though research shows that memory can be shaped by subsequent language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory</span><span class="citation-popover-snippet">However, it wasn&#x27;t until Elizabeth Loftus published a highly...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-3-dark.svg" | relative_url }}" alt="Memory Framing illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits and Lessons for Reasoning
 
-The Loftus and Palmer findings do not imply that all memories are unreliable or that every leading question creates false memories. Memory distortion depends on many factors, including the nature of the event, the witness’s attention, later discussions, emotional state, and the amount of misleading information encountered. Researchers have also debated the extent to which some effects reflect altered memory versus altered reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guide.fariaedu.com">[Faria Education Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guide.fariaedu.com</span><span class="citation-popover-snippet">Faria Education Guideadditional information on Loftus and Palmer (1974) &#124; IB PsychologyWording can also change information already stored...</span></span></span>
+The Loftus and Palmer findings do not imply that all memories are unreliable or that every leading question creates false memories. Memory distortion depends on many factors, including the nature of the event, the witness’s attention, later discussions, emotional state, and the amount of misleading information encountered. Researchers have also debated the extent to which some effects reflect altered memory versus altered reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guide.fariaedu.com">[Faria Education Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guide.fariaedu.com</span><span class="citation-popover-snippet">Faria Education Guideadditional information on Loftus and Palmer (1974) &#124; IB PsychologyWording can also change information already stored...</span></span></span>
 
-Even so, the core lesson has proved remarkably durable. Decades of research on eyewitness suggestibility and misinformation effects support the conclusion that post-event wording can influence what people later report remembering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">BPS Psych Hub The history of an idea: The misinformation effect</span><span class="citation-popover-snippet">BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — These impairments in a person&#x27;s memory after exposure...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate For critical thinking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory</span><span class="citation-popover-snippet">However, it wasn&#x27;t until Elizabeth Loftus published a highly...Read more...</span></span></span>, the takeaway is straightforward: questions are not always neutral containers for information. A single word can carry assumptions, suggest interpretations, and sometimes alter recollection itself. When evaluating testimony, it is therefore important to ask not only what a witness said, but also how the witness was asked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
+Even so, the core lesson has proved remarkably durable. Decades of research on eyewitness suggestibility and misinformation effects support the conclusion that post-event wording can influence what people later report remembering.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">BPS Psych Hub The history of an idea: The misinformation effect</span><span class="citation-popover-snippet">BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — These impairments in a person&#x27;s memory after exposure...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate For critical thinking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory</span><span class="citation-popover-snippet">However, it wasn&#x27;t until Elizabeth Loftus published a highly...Read more...</span></span></span>, the takeaway is straightforward: questions are not always neutral containers for information. A single word can carry assumptions, suggest interpretations, and sometimes alter recollection itself. When evaluating testimony, it is therefore important to ask not only what a witness said, but also how the witness was asked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p5mPKkYwfWY" title="How to explain Loftus and Palmer (1974) PROPERLY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p5mPKkYwfWY" target="_blank" rel="noopener noreferrer">How to explain Loftus and Palmer (1974) PROPERLY!</a></p><p class="youtube-embed-meta">Channel: Themantic Education &middot; Views: 34.5K &middot; Uploaded: October 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p5mPKkYwfWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p5mPKkYwfWY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can One Word Change What People Remember?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can One Word Change What People Remember?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains framing effects, memory distortions, and how wording influences perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains framing effects, memory distortions, and how wording influences perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows how perception and memory can be systematically misleading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how perception and memory can be systematically misleading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S6l1DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S6l1DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Julia Shaw</p>
         
-        <p class="fr-book-desc">Focuses directly on false memories and suggestibility in recollection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses directly on false memories and suggestibility in recollection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores memory reconstruction and self-justifying beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores memory reconstruction and self-justifying beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-framing-can-one-word-change-what-people-remember-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ Even so, the core lesson has proved remarkably durable. Decades of research on e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ Even so, the core lesson has proved remarkably durable. Decades of research on e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ Even so, the core lesson has proved remarkably durable. Decades of research on e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ Even so, the core lesson has proved remarkably durable. Decades of research on e
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -748,194 +748,194 @@ Even so, the core lesson has proved remarkably durable. Decades of research on e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3769 — Two experiments are reported i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/0010028575900237" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0010028575900237</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E.F. Loftus, J.C. Palmer. Reconstruction of automobile destruction: An example of the interaction between language and memory.Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/0010028575900237" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0010028575900237</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E.F. Loftus, J.C. Palmer. Reconstruction of automobile destruction: An example of the interaction between language and memory.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
    Title: loftus palmer 1974  
-   Link: <a href="https://www.scribd.com/document/128262904/loftus-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/128262904/loftus-palmer-1974</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results Experiment 2. Did you see any broken glass? Response Yes No Smashed 16 34 Hit 7 43 Control 6 44. What do these...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/128262904/loftus-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/128262904/loftus-palmer-1974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results Experiment 2. Did you see any broken glass? Response Yes No Smashed 16 34 Hit 7 43 Control 6 44. What do these...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event informatio...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event informatio...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: saskoer.ca  
    Title: eyewitness testimony and memory biases  
-   Link: <a href="https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8.4 Eyewitness Testimony and Memory Biasesby C Laney · 2019 · Cited by 2 — Hundreds of subsequent studies have demonstrated that m...</p></details>
+   Link:<a href="https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8.4 Eyewitness Testimony and Memory Biasesby C Laney · 2019 · Cited by 2 — Hundreds of subsequent studies have demonstrated that m...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory  
-   Link: <a href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it wasn&#x27;t until Elizabeth Loftus published a highly...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, it wasn&#x27;t until Elizabeth Loftus published a highly...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: loftus.com  
-   Link: <a href="https://www.loftus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.loftus.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus Balloons &amp; More — HomeLatex Balloons. Latex Balloons · Solid Colors · Printed Patterns · Link-O-Loons · Tying Balloons · Stuffing...</p></details>
+   Link:<a href="https://www.loftus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.loftus.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus Balloons &amp; More — HomeLatex Balloons. Latex Balloons · Solid Colors · Printed Patterns · Link-O-Loons · Tying Balloons · Stuffing...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: Misinformation Effect  
-   Link: <a href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/misinformation-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewLoftus demonstrated that misinformation provided after an event can alter memory and that individuals may remember an event th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewLoftus demonstrated that misinformation provided after an event can alter memory and that individuals may remember an event th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022096598924675" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022096598924675</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Misinformation Alters Memoriesby DB Wright · 1998 · Cited by 124 — Over the past quarter of a century, hundreds of studies have demon...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0022096598924675" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022096598924675</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Misinformation Alters Memoriesby DB Wright · 1998 · Cited by 124 — Over the past quarter of a century, hundreds of studies have demon...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/308325273_Appraising_Loftus_and_Palmer_1974_Post-Event_Information_vs_Concurrent_Commentary_in_the_Context_of_Sport" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/308325273_Appraising_Loftus_and_Palmer_1974_Post-Event_Information_vs_Concurrent_Commentary_in_the_Context_of_Sport</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Appraising Loftus and Palmer (1974) Post-Event...8 Feb 2026 — In Study 1, a conceptual replication of Loftus and Palmer (1974), pa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/308325273_Appraising_Loftus_and_Palmer_1974_Post-Event_Information_vs_Concurrent_Commentary_in_the_Context_of_Sport" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/308325273_Appraising_Loftus_and_Palmer_1974_Post-Event_Information_vs_Concurrent_Commentary_in_the_Context_of_Sport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Appraising Loftus and Palmer (1974) Post-Event...8 Feb 2026 — In Study 1, a conceptual replication of Loftus and Palmer (1974), pa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 20632653 Misinformation and Memory The Creation of New Memories  
-   Link: <a href="https://www.researchgate.net/publication/20632653_Misinformation_and_Memory_The_Creation_of_New_Memories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/20632653_Misinformation_and_Memory_The_Creation_of_New_Memories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Misinformation and Memory: The Creation of New...9 Oct 2025 — Misinformation refers to information that deviates from the true sta...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/20632653_Misinformation_and_Memory_The_Creation_of_New_Memories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/20632653_Misinformation_and_Memory_The_Creation_of_New_Memories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Misinformation and Memory: The Creation of New...9 Oct 2025 — Misinformation refers to information that deviates from the true sta...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
    Title: Loftus and Palmer 1974  
-   Link: <a href="https://www.scribd.com/document/274558467/Loftus-and-Palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/274558467/Loftus-and-Palmer-1974</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) | PDF | Memory | Traffic CollisionLoftus and Palmer (1974) - Free download as PDF File (.pdf), Text File (.txt)...</p></details>
+   Link:<a href="https://www.scribd.com/document/274558467/Loftus-and-Palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/274558467/Loftus-and-Palmer-1974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) | PDF | Memory | Traffic CollisionLoftus and Palmer (1974) - Free download as PDF File (.pdf), Text File (.txt)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/663099016/Final-Paper-Loftus-and-Palmer-experiment-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/663099016/Final-Paper-Loftus-and-Palmer-experiment-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;smashed&#x27; group χ²(1, N = 31) = 0.09, p...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/663099016/Final-Paper-Loftus-and-Palmer-experiment-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/663099016/Final-Paper-Loftus-and-Palmer-experiment-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;smashed&#x27; group χ²(1, N = 31) = 0.09, p...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/911712621/Loftus-and-Palmer-s-Study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/911712621/Loftus-and-Palmer-s-Study</a>  
+   Link:<a href="https://www.scribd.com/document/911712621/Loftus-and-Palmer-s-Study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/911712621/Loftus-and-Palmer-s-Study</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: internal assesment  
-   Link: <a href="https://www.scribd.com/document/679835923/internal-assesment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/679835923/internal-assesment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer Car Crash Study Insights | PDF | MemoryThe primary objective of Loftus and Palmer&#x27;s 1974 car crash experiment was to in...</p></details>
+   Link:<a href="https://www.scribd.com/document/679835923/internal-assesment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/679835923/internal-assesment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer Car Crash Study Insights | PDF | MemoryThe primary objective of Loftus and Palmer&#x27;s 1974 car crash experiment was to in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-hha1bAtV5c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply Psychology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-hha1bAtV5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply Psychology...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer argued that memory is reconstr...</p></details>
+   Link:<a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer argued that memory is reconstr...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: guide.fariaedu.com  
-   Link: <a href="https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Faria Education Guideadditional information on Loftus and Palmer (1974) | IB PsychologyWording can also change information already stored...</p></details>
+   Link:<a href="https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Faria Education Guideadditional information on Loftus and Palmer (1974) | IB PsychologyWording can also change information already stored...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: resource.download.wjec.co.uk  
    Title: loftus and palmer  
-   Link: <a href="https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of automobile...Loftus and Palmer concluded two possible interpretations for experiment 1. The first was response-bias fa...</p></details>
+   Link:<a href="https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of automobile...Loftus and Palmer concluded two possible interpretations for experiment 1. The first was response-bias fa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
    Title: BPS Psych Hub The history of an idea: The misinformation effect  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — These impairments in a person&#x27;s memory after exposure...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — These impairments in a person&#x27;s memory after exposure...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psychyogi.org  
    Title: loftus and palmer 1974 eyewitness testimony  
-   Link: <a href="https://psychyogi.org/loftus-and-palmer-1974-eyewitness-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://psychyogi.org/loftus-and-palmer-1974-eyewitness-testimony/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) - Eyewitness Testimony21 Mar 2016 — The aim of Loftus and Palmer&#x27;s (1974) study was to investigate the ways in w...</p></details>
+   Link:<a href="https://psychyogi.org/loftus-and-palmer-1974-eyewitness-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://psychyogi.org/loftus-and-palmer-1974-eyewitness-testimony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) - Eyewitness Testimony21 Mar 2016 — The aim of Loftus and Palmer&#x27;s (1974) study was to investigate the ways in w...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: massolit.io  
    Title: loftus and palmer 1974  
-   Link: <a href="https://massolit.io/options/loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://massolit.io/options/loftus-and-palmer-1974</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) Repressed Memories Dr Evelyn Svingen · 4. Loftus and...Read more...</p></details>
+   Link:<a href="https://massolit.io/options/loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://massolit.io/options/loftus-and-palmer-1974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) Repressed Memories Dr Evelyn Svingen · 4. Loftus and...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: senecalearning.com  
-   Link: <a href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-14-eye-witness-testimony-loftus-and-palmer" target="_blank" rel="noopener noreferrer nofollow">https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-14-eye-witness-testimony-loftus-and-palmer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) studied the effects of leading questions in two experiments...</p></details>
+   Link:<a href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-14-eye-witness-testimony-loftus-and-palmer" target="_blank" rel="noopener noreferrer nofollow">https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-14-eye-witness-testimony-loftus-and-palmer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) studied the effects of leading questions in two experiments...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: a2edexcelpsychology.weebly.com  
    Title: loftus and palmer 1974  
-   Link: <a href="https://a2edexcelpsychology.weebly.com/loftus-and-palmer-1974.html" target="_blank" rel="noopener noreferrer nofollow">https://a2edexcelpsychology.weebly.com/loftus-and-palmer-1974.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Palmer 1974 - A2 PsychologyLoftus and Palmer (1974) illustrates that eyewitness testimony can be unreliable as people are often influ...</p></details>
+   Link:<a href="https://a2edexcelpsychology.weebly.com/loftus-and-palmer-1974.html" target="_blank" rel="noopener noreferrer nofollow">https://a2edexcelpsychology.weebly.com/loftus-and-palmer-1974.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Palmer 1974 - A2 PsychologyLoftus and Palmer (1974) illustrates that eyewitness testimony can be unreliable as people are often influ...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Elizabeth Loftus  
-   Link: <a href="https://en.wikipedia.org/wiki/Elizabeth_Loftus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elizabeth_Loftus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth LoftusLoftus (born 1944) is an American psychologist who is best known in relation to the misinformation effect, false memor...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Elizabeth_Loftus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elizabeth_Loftus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth LoftusLoftus (born 1944) is an American psychologist who is best known in relation to the misinformation effect, false memor...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesThe misinformation in these studies has led people to incorrectly remember everything from small bu...</p></details>
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesThe misinformation in these studies has led people to incorrectly remember everything from small bu...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: psychologistworld.com  
-   Link: <a href="https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False MemoriesAll of these experiments support Loftus&#x27; misinformation effect on our memories - the manipulation of past event recollectio...</p></details>
+   Link:<a href="https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False MemoriesAll of these experiments support Loftus&#x27; misinformation effect on our memories - the manipulation of past event recollectio...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: labs.la.utexas.edu  
-   Link: <a href="https://labs.la.utexas.edu/gilden/files/2016/04/Loftus_Palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.la.utexas.edu/gilden/files/2016/04/Loftus_Palmer.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Psychology LabsReconstruction of Automobile DestructionLoftus and J. C. Palmer, Reconstruction of automobile destruction: An example o...</p></details>
+   Link:<a href="https://labs.la.utexas.edu/gilden/files/2016/04/Loftus_Palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.la.utexas.edu/gilden/files/2016/04/Loftus_Palmer.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Psychology LabsReconstruction of Automobile DestructionLoftus and J. C. Palmer, Reconstruction of automobile destruction: An example o...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: themantic-education.com  
-   Link: <a href="https://www.themantic-education.com/ibpsych/2019/02/25/key-study-leading-questions-and-the-misinformation-effect-the-car-crash-study-loftus-and-palmer-1974/" target="_blank" rel="noopener noreferrer nofollow">https://www.themantic-education.com/ibpsych/2019/02/25/key-study-leading-questions-and-the-misinformation-effect-the-car-crash-study-loftus-and-palmer-1974/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; the car crash study&quot; (Loftus and Palmer, 1974)25 Feb 2019 — Memory is a reconstructive process, which means memories are actively and c...</p></details>
+   Link:<a href="https://www.themantic-education.com/ibpsych/2019/02/25/key-study-leading-questions-and-the-misinformation-effect-the-car-crash-study-loftus-and-palmer-1974/" target="_blank" rel="noopener noreferrer nofollow">https://www.themantic-education.com/ibpsych/2019/02/25/key-study-leading-questions-and-the-misinformation-effect-the-car-crash-study-loftus-and-palmer-1974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; the car crash study&quot; (Loftus and Palmer, 1974)25 Feb 2019 — Memory is a reconstructive process, which means memories are actively and c...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: quizlet.com  
    Title: loftus and palmer 1974 reconstruction of automobile destruction flash cards  
-   Link: <a href="https://quizlet.com/gb/268062905/loftus-and-palmer-1974-reconstruction-of-automobile-destruction-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/268062905/loftus-and-palmer-1974-reconstruction-of-automobile-destruction-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974): Reconstruction of Automobile...Loftus and Palmer argue that eyewitness memories are constructed based on two t...</p></details>
+   Link:<a href="https://quizlet.com/gb/268062905/loftus-and-palmer-1974-reconstruction-of-automobile-destruction-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/268062905/loftus-and-palmer-1974-reconstruction-of-automobile-destruction-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974): Reconstruction of Automobile...Loftus and Palmer argue that eyewitness memories are constructed based on two t...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=epXmFjTqWeU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False Memories and the Misinformation EffectThis video introduces the concept of false memories and explores the misinformation effect, a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=epXmFjTqWeU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False Memories and the Misinformation EffectThis video introduces the concept of false memories and explores the misinformation effect, a...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryPsychologist Elizabeth F. Loftus, a leading expert on memory, discusses how her rese...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryPsychologist Elizabeth F. Loftus, a leading expert on memory, discusses how her rese...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Behavioral Account of the Misinformation Effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 33 — Misinformation effects in eyewitness mem...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 33 — Misinformation effects in eyewitness mem...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: studocu.com  
    Title: Use the speed estimates for Exp 1 and the "broken glass" percentages  
-   Link: <a href="https://www.studocu.com/en-gb/messages/question/14269061/loftus-amp-palmers-research-results-what-were-the-key-findings-for-both-experiments-use-the" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/messages/question/14269061/loftus-amp-palmers-research-results-what-were-the-key-findings-for-both-experiments-use-the</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Solved] Loftus amp Palmers Research Results What were...Loftus &amp; Palmer&#x27;s Research Results: (What were the key findings for both experi...</p></details>
+   Link:<a href="https://www.studocu.com/en-gb/messages/question/14269061/loftus-amp-palmers-research-results-what-were-the-key-findings-for-both-experiments-use-the" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/messages/question/14269061/loftus-amp-palmers-research-results-what-were-the-key-findings-for-both-experiments-use-the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Solved] Loftus amp Palmers Research Results What were...Loftus &amp; Palmer&#x27;s Research Results: (What were the key findings for both experi...</p></details>

@@ -274,26 +274,26 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_pic
 
 ## Introduction
 
-Cherry-picking is one of the most common evidence-related fallacies in student [essays]({{ 'essays/' | relative_url }}). It occurs when a writer highlights sources, quotations, statistics, or examples that support a thesis while ignoring significant evidence that points in another direction. The result is not necessarily a false argument; the selected evidence may be accurate. The problem is that readers are shown only part of the relevant picture. Academic argument depends not only on presenting supporting evidence but also on engaging with reasonable objections and competing evidence. When an essay omits the strongest contrary material, informed readers often conclude that the writer has not fully understood the topic or has deliberately avoided inconvenient facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
+Cherry-picking is one of the most common evidence-related fallacies in student [essays]({{ 'essays/' | relative_url }}). It occurs when a writer highlights sources, quotations, statistics, or examples that support a thesis while ignoring significant evidence that points in another direction. The result is not necessarily a false argument; the selected evidence may be accurate. The problem is that readers are shown only part of the relevant picture. Academic argument depends not only on presenting supporting evidence but also on engaging with reasonable objections and competing evidence. When an essay omits the strongest contrary material, informed readers often conclude that the writer has not fully understood the topic or has deliberately avoided inconvenient facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-dark.svg" | relative_url }}" alt="Cherry Picking illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader category of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and academic writing problems, cherry-picking is especially damaging because it can hide behind extensive research. An essay may contain many citations and still be selective if it consistently excludes evidence that complicates its conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Cherry Picking Fallacy?</span><span class="citation-popover-snippet">Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</span></span></span>
+Within the broader category of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and academic writing problems, cherry-picking is especially damaging because it can hide behind extensive research. An essay may contain many citations and still be selective if it consistently excludes evidence that complicates its conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Cherry Picking Fallacy?</span><span class="citation-popover-snippet">Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</span></span></span>
 
 ## How Selective Evidence Damages Credibility
 
 The central weakness of cherry-picking is that it creates an incomplete argument. Rather than asking, “What does the evidence overall suggest?”, the writer asks, “Which evidence helps my position?” This shifts the goal from analysis to confirmation.
 
-Academic writing centres consistently emphasise that argument involves weighing evidence and considering alternative viewpoints. A persuasive essay is expected to address relevant objections rather than pretend they do not exist. Purdue OWL notes that effective argumentative writing considers multiple points of view and discusses positions that do not align with the thesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
+Academic writing centres consistently emphasise that argument involves weighing evidence and considering alternative viewpoints. A persuasive essay is expected to address relevant objections rather than pretend they do not exist. Purdue OWL notes that effective argumentative writing considers multiple points of view and discusses positions that do not align with the thesis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
 
 Consider a student arguing that remote learning is less effective than classroom teaching. If the essay cites studies showing lower engagement in online classes but ignores well-designed studies showing successful outcomes under certain conditions, the reader may question the writer's judgement. The issue is not that the negative studies are wrong. The issue is that the essay presents a selective body of evidence and therefore cannot support a broad conclusion with confidence.
 
-This credibility problem becomes more severe when the omitted evidence is widely known. Readers familiar with the topic often notice missing information immediately. Instead of appearing persuasive, the essay can appear partisan or under-researched. As descriptions of the cherry-picking fallacy note, withholding stronger contrary evidence makes the reasoning increasingly unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousCherry PickingWhen only select evidence is presented in order to persuade the audience to accept a position, and evid...</span></span></span>
+This credibility problem becomes more severe when the omitted evidence is widely known. Readers familiar with the topic often notice missing information immediately. Instead of appearing persuasive, the essay can appear partisan or under-researched. As descriptions of the cherry-picking fallacy note, withholding stronger contrary evidence makes the reasoning increasingly unreliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousCherry PickingWhen only select evidence is presented in order to persuade the audience to accept a position, and evid...</span></span></span>
 
 ## Why Obvious Counterexamples Matter to Informed Readers
 
 Students sometimes avoid counterevidence because they fear it will weaken their argument. In practice, the opposite is usually true.
 
-Academic readers rarely expect a thesis to explain every case perfectly. What they do expect is intellectual honesty. When an essay recognises [exceptions]({{ 'exceptions/' | relative_url }}), limitations, or competing findings, it demonstrates that the writer understands the complexity of the issue. Writing-centre guidance on counterarguments frequently presents this as a standard feature of strong academic reasoning rather than a concession of defeat. University of Nevada, Reno <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
+Academic readers rarely expect a thesis to explain every case perfectly. What they do expect is intellectual honesty. When an essay recognises [exceptions]({{ 'exceptions/' | relative_url }}), limitations, or competing findings, it demonstrates that the writer understands the complexity of the issue. Writing-centre guidance on counterarguments frequently presents this as a standard feature of strong academic reasoning rather than a concession of defeat. University of Nevada, Reno<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
 
 A useful test is to imagine the most informed critic of the essay. What evidence would that critic immediately raise? If the answer is obvious and the essay never mentions it, readers may suspect that the argument depends on omission.
 
@@ -301,7 +301,7 @@ A useful test is to imagine the most informed critic of the essay. What evidence
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Cherry picking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BachelorPrintCherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> is not limited to research essays. It also appears in literature essays.
 
-A student might argue that a character is entirely selfish and then select only scenes that support that interpretation. Yet if the text contains several significant moments of sacrifice or generosity, ignoring them creates a distorted reading. Literary analysis requires engagement with the whole work, not merely the passages that fit a preferred interpretation. Discussions of literary argument similarly warn against selecting only favourable textual evidence while overlooking passages that complicate the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncte.org">[National Council of Teachers of English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncte.org</span><span class="citation-popover-title">cherry picking literary analysis</span><span class="citation-popover-snippet">National Council of Teachers of EnglishWhat Does Cherry Picking Have to Do With Literary...18 Apr 2017 — The cherrypicking fallacy is th...</span></span></span>
+A student might argue that a character is entirely selfish and then select only scenes that support that interpretation. Yet if the text contains several significant moments of sacrifice or generosity, ignoring them creates a distorted reading. Literary analysis requires engagement with the whole work, not merely the passages that fit a preferred interpretation. Discussions of literary argument similarly warn against selecting only favourable textual evidence while overlooking passages that complicate the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncte.org">[National Council of Teachers of English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncte.org</span><span class="citation-popover-title">cherry picking literary analysis</span><span class="citation-popover-snippet">National Council of Teachers of EnglishWhat Does Cherry Picking Have to Do With Literary...18 Apr 2017 — The cherrypicking fallacy is th...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LKXkemYldmw" title="Purdue OWL: Thesis Statements" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LKXkemYldmw" target="_blank" rel="noopener noreferrer">Purdue OWL: Thesis Statements</a></p><p class="youtube-embed-meta">Channel: Purdue OWL &middot; Views: 317.2K &middot; Uploaded: September 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LKXkemYldmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LKXkemYldmw">Open on YouTube</a></p></div></div></div>
 
@@ -325,7 +325,7 @@ Cherry-picking is often subtler than outright suppression of evidence. Several r
 
 **Using favourable time periods.** A trend is presented using dates that support the argument while excluding periods that complicate the pattern.
 
-**Quoting selectively.** A source is quoted accurately but without surrounding [context]({{ 'context/' | relative_url }}) that changes the meaning or introduces qualifications. This resembles the broader practice sometimes called [quote mining]({{ 'quote-mining/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cherry picking</span><span class="citation-popover-snippet">Cherry picking</span></span></span>
+**Quoting selectively.** A source is quoted accurately but without surrounding [context]({{ 'context/' | relative_url }}) that changes the meaning or introduces qualifications. This resembles the broader practice sometimes called [quote mining]({{ 'quote-mining/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cherry picking</span><span class="citation-popover-snippet">Cherry picking</span></span></span>
 
 **Relying on exceptional examples.** A dramatic case is treated as representative despite substantial evidence that it is unusual.
 
@@ -355,7 +355,7 @@ The revised claim can accommodate evidence that does not fit the original sweepi
 
 ### Address the strongest objection directly
 
-Many writing guides recommend presenting a counterargument fairly before responding to it. This demonstrates awareness of competing evidence and strengthens reader trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unr.edu">[University of Nevada, Reno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unr.edu</span><span class="citation-popover-title">Learn how to employ them</span><span class="citation-popover-snippet">University of Nevada, RenoCounterarguments &#124; University Writing &amp; Speaking CenterA counterargument involves acknowledging standpoints tha...</span></span></span>
+Many writing guides recommend presenting a counterargument fairly before responding to it. This demonstrates awareness of competing evidence and strengthens reader trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unr.edu">[University of Nevada, Reno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unr.edu</span><span class="citation-popover-title">Learn how to employ them</span><span class="citation-popover-snippet">University of Nevada, RenoCounterarguments &#124; University Writing &amp; Speaking CenterA counterargument involves acknowledging standpoints tha...</span></span></span>
 
 A useful structure is:
 
@@ -395,274 +395,274 @@ Common indicators include:
 
 These patterns suggest that evidence may have been selected rather than evaluated.
 
-An essay becomes more persuasive when it demonstrates command of the strongest evidence on both sides. Academic argument is not a contest to hide inconvenient facts. It is an effort to reach the most defensible conclusion after examining the evidence that supports, challenges, and complicates the thesis. When students engage seriously with counterevidence, they move from advocacy toward genuine analysis, which is one of the clearest markers of mature academic writing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
+An essay becomes more persuasive when it demonstrates command of the strongest evidence on both sides. Academic argument is not a contest to hide inconvenient facts. It is an effort to reach the most defensible conclusion after examining the evidence that supports, challenges, and complicates the thesis. When students engage seriously with counterevidence, they move from advocacy toward genuine analysis, which is one of the clearest markers of mature academic writing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cJL20usbpJU" title="How to Write a Clever Argumentative Essay | PDF Download" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cJL20usbpJU" target="_blank" rel="noopener noreferrer">How to Write a Clever Argumentative Essay | PDF Download</a></p><p class="youtube-embed-meta">Channel: Smart Student &middot; Views: 21.8K &middot; Uploaded: January 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cJL20usbpJU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cJL20usbpJU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Evidence Your Essay Cannot Ignore. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Evidence Your Essay Cannot Ignore. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Directly relevant to selective evidence and data misuse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to selective evidence and data misuse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Say / I Say on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DPHR0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for They Say / I Say" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Say / I Say">They Say / I Say</a>
-        </h4>
-        <p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Say / I Say on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DPHR0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for They Say / I Say" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Say / I Say">They Say / I Say</a>
+</h4>
+<p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
         
-        <p class="fr-book-desc">Encourages engagement with counterarguments and contrary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages engagement with counterarguments and contrary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-2xoPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Craft of Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Argument">The Craft of Argument</a>
-        </h4>
-        <p class="fr-book-author">By Joseph M. Williams, Gregory G. Colomb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-2xoPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Craft of Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Argument">The Craft of Argument</a>
+</h4>
+<p class="fr-book-author">By Joseph M. Williams, Gregory G. Colomb</p>
         
-        <p class="fr-book-desc">Shows how to weigh competing evidence fairly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to weigh competing evidence fairly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Argument+by+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Demonstrates how selective presentation distorts conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how selective presentation distorts conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Say / I Say</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Argument</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Say / I Say</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Argument</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academic Weapon Victim Nametag Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e0a05a82b409893cbf4.jpg' | relative_url }}" alt="Listing image for Academic Weapon Victim Nametag Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Academic Weapon Victim Nametag Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for academic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: academic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academic Weapon Victim Nametag Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e0a05a82b409893cbf4.jpg' | relative_url }}" alt="Listing image for Academic Weapon Victim Nametag Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Academic Weapon Victim Nametag Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for academic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: academic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academic Weapon - Inspirational Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6b63a6dd80d8f3b3cdb9.jpg' | relative_url }}" alt="Listing image for Academic Weapon - Inspirational Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Academic Weapon - Inspirational Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for academic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: academic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academic Weapon - Inspirational Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6b63a6dd80d8f3b3cdb9.jpg' | relative_url }}" alt="Listing image for Academic Weapon - Inspirational Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Academic Weapon - Inspirational Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for academic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: academic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academic Weapon Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5d3a872ddfa35302c1d2.jpg' | relative_url }}" alt="Listing image for Academic Weapon Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Academic Weapon Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for academic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: academic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academic Weapon Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5d3a872ddfa35302c1d2.jpg' | relative_url }}" alt="Listing image for Academic Weapon Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Academic Weapon Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for academic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: academic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for academic BOMB Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0330f441810d391a8380.jpg' | relative_url }}" alt="Listing image for academic BOMB Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">academic BOMB Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for academic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: academic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for academic BOMB Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0330f441810d391a8380.jpg' | relative_url }}" alt="Listing image for academic BOMB Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">academic BOMB Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for academic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: academic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=academic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cherry-picking-the-evidence-your-essay-cannot-ignore-logical-fallacies-academic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -678,7 +678,7 @@ An essay becomes more persuasive when it demonstrates command of the strongest e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -698,7 +698,7 @@ An essay becomes more persuasive when it demonstrates command of the strongest e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -730,7 +730,7 @@ An essay becomes more persuasive when it demonstrates command of the strongest e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -760,7 +760,7 @@ An essay becomes more persuasive when it demonstrates command of the strongest e
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -818,160 +818,160 @@ An essay becomes more persuasive when it demonstrates command of the strongest e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bachelorprint.com  
    Title: cherry picking fallacy  
-   Link: <a href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</p></details>
+   Link:<a href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLArgumentative Essays  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLArgumentative Essays - Purdue OWLThe argumentative essay requires well-researched, accurate, detailed, and current information...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLArgumentative Essays - Purdue OWLThe argumentative essay requires well-researched, accurate, detailed, and current information...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: quillbot.com  
    Title: What Is Cherry Picking Fallacy?  
-   Link: <a href="https://quillbot.com/blog/reasoning/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/cherry-picking-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</p></details>
+   Link:<a href="https://quillbot.com/blog/reasoning/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/cherry-picking-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: owl.purdue.edu  
    Title: OWLOrganizing Your Argument  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOrganizing Your Argument - Purdue OWLIf you respond to counterclaims, you appear unbiased (and, therefore, you earn the respect...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOrganizing Your Argument - Purdue OWLIf you respond to counterclaims, you appear unbiased (and, therefore, you earn the respect...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument...Counterargument%20When%20you%20write%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20you%20make%20an%20argument%3A%20you%20propose%20a%20thesis%20and%20offer%20some%20reasoning%2C%20using%20evidence%2C%20that%20suggests%20why%20the%20thesis%20is%20true.%20When%20you%20%3Cstrong%3Ecounter%3C/strong%3E-argue%2C%20you%20consider%20a%20possible%20argument%20against%20your%20thesis%20or%20some%20aspect%20of%20your%20reasoning.The%20biggest%20absurdity%20is%20that%20a%20four-year%20%3Cstrong%3Ecollege%3C/strong%3E%20degree%20has%20become%20the%20only%20gateway%20into%20the%20American%20middle%20class.%20But%20%3Cstrong%3Enot%3C/strong%3E%20every%20young%20person%20is%20suited%20to%20four%20years%20of%20%3Cstrong%3Ecollege%3C/strong%3E.%3Ca%20href%3D" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument...Counterargument%20When%20you%20write%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20you%20make%20an%20argument%3A%20you%20propose%20a%20thesis%20and%20offer%20some%20reasoning%2C%20using%20evidence%2C%20that%20suggests%20why%20the%20thesis%20is%20true.%20When%20you%20%3Cstrong%3Ecounter%3C/strong%3E-argue%2C%20you%20consider%20a%20possible%20argument%20against%20your%20thesis%20or%20some%20aspect%20of%20your%20reasoning.The%20biggest%20absurdity%20is%20that%20a%20four-year%20%3Cstrong%3Ecollege%3C/strong%3E%20degree%20has%20become%20the%20only%20gateway%20into%20the%20American%20middle%20class.%20But%20%3Cstrong%3Enot%3C/strong%3E%20every%20young%20person%20is%20suited%20to%20four%20years%20of%20%3Cstrong%3Ecollege%3C/strong%3E.%3Ca%20href%3D</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLMultiple ChoicesWhen you &lt;strong&gt;counter&lt;/strong&gt;-argue, you consider a possible argument against your thesis or some aspect of...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument...Counterargument%20When%20you%20write%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20you%20make%20an%20argument%3A%20you%20propose%20a%20thesis%20and%20offer%20some%20reasoning%2C%20using%20evidence%2C%20that%20suggests%20why%20the%20thesis%20is%20true.%20When%20you%20%3Cstrong%3Ecounter%3C/strong%3E-argue%2C%20you%20consider%20a%20possible%20argument%20against%20your%20thesis%20or%20some%20aspect%20of%20your%20reasoning.The%20biggest%20absurdity%20is%20that%20a%20four-year%20%3Cstrong%3Ecollege%3C/strong%3E%20degree%20has%20become%20the%20only%20gateway%20into%20the%20American%20middle%20class.%20But%20%3Cstrong%3Enot%3C/strong%3E%20every%20young%20person%20is%20suited%20to%20four%20years%20of%20%3Cstrong%3Ecollege%3C/strong%3E.%3Ca%20href%3D" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument...Counterargument%20When%20you%20write%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20you%20make%20an%20argument%3A%20you%20propose%20a%20thesis%20and%20offer%20some%20reasoning%2C%20using%20evidence%2C%20that%20suggests%20why%20the%20thesis%20is%20true.%20When%20you%20%3Cstrong%3Ecounter%3C/strong%3E-argue%2C%20you%20consider%20a%20possible%20argument%20against%20your%20thesis%20or%20some%20aspect%20of%20your%20reasoning.The%20biggest%20absurdity%20is%20that%20a%20four-year%20%3Cstrong%3Ecollege%3C/strong%3E%20degree%20has%20become%20the%20only%20gateway%20into%20the%20American%20middle%20class.%20But%20%3Cstrong%3Enot%3C/strong%3E%20every%20young%20person%20is%20suited%20to%20four%20years%20of%20%3Cstrong%3Ecollege%3C/strong%3E.%3Ca%20href%3D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLMultiple ChoicesWhen you &lt;strong&gt;counter&lt;/strong&gt;-argue, you consider a possible argument against your thesis or some aspect of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: owl.purdue.edu  
    Title: OWLArguments in an Essay on Literature  
-   Link: <a href="https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remember: If an...Read more...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remember: If an...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Cherry picking  
-   Link: <a href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cherry_picking</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cherry_picking</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strong Thesis Statements - Purdue OWLThe thesis statement or main claim must be debatable. An argumentative or persuasive piece of writin...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strong Thesis Statements - Purdue OWLThe thesis statement or main claim must be debatable. An argumentative or persuasive piece of writin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: owl.purdue.edu  
    Title: new organizing your argument 09042025  
-   Link: <a href="https://owl.purdue.edu/owl/resources/teaching_resources/documents/new-organizing-your-argument_-09042025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/resources/teaching_resources/documents/new-organizing-your-argument_-09042025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your ArgumentThe thesis statement should guide your reader through your argument. It is generally located in the introduction of the pape...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/resources/teaching_resources/documents/new-organizing-your-argument_-09042025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/resources/teaching_resources/documents/new-organizing-your-argument_-09042025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your ArgumentThe thesis statement should guide your reader through your argument. It is generally located in the introduction of the pape...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: owl.purdue.edu  
    Title: rebuttal sections  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/rebuttal_sections.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/rebuttal_sections.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sections - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an ac...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/rebuttal_sections.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/rebuttal_sections.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sections - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an ac...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: owl.purdue.edu  
    Title: thesis statement tips  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The claim could be an opinion, a policy proposal, an...Read more...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The claim could be an opinion, a policy proposal, an...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: owl.purdue.edu  
    Title: toulmin argument  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts: claim, grounds...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts: claim, grounds...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousCherry PickingWhen only select evidence is presented in order to persuade the audience to accept a position, and evid...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousCherry PickingWhen only select evidence is presented in order to persuade the audience to accept a position, and evid...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unr.edu  
    Title: Learn how to employ them  
-   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Nevada, RenoCounterarguments | University Writing &amp; Speaking CenterA counterargument involves acknowledging standpoints tha...</p></details>
+   Link:<a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Nevada, RenoCounterarguments | University Writing &amp; Speaking CenterA counterargument involves acknowledging standpoints tha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ncte.org  
    Title: cherry picking literary analysis  
-   Link: <a href="https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Council of Teachers of EnglishWhat Does Cherry Picking Have to Do With Literary...18 Apr 2017 — The cherrypicking fallacy is th...</p></details>
+   Link:<a href="https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Council of Teachers of EnglishWhat Does Cherry Picking Have to Do With Literary...18 Apr 2017 — The cherrypicking fallacy is th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: writingcenter.unc.edu  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNC Writing CenterThis handout will provide a broad overview of gathering and using evidence. It will help you decide what counts as evid...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNC Writing CenterThis handout will provide a broad overview of gathering and using evidence. It will help you decide what counts as evid...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LKXkemYldmw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LKXkemYldmw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL: Thesis StatementsA thesis statement is a sentence or a few sentences usually near the beginning of a piece of writing in whic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LKXkemYldmw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LKXkemYldmw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL: Thesis StatementsA thesis statement is a sentence or a few sentences usually near the beginning of a piece of writing in whic...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nlpnotes.com  
    Title: Cherry picking  
-   Link: <a href="https://nlpnotes.com/2014/03/23/cherry-picking/" target="_blank" rel="noopener noreferrer nofollow">https://nlpnotes.com/2014/03/23/cherry-picking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NLP Notes23 Mar 2014 — Cherry picking, suppressing evidence, or the fallacy of incomplete evidence is the act of pointing to individual c...</p></details>
+   Link:<a href="https://nlpnotes.com/2014/03/23/cherry-picking/" target="_blank" rel="noopener noreferrer nofollow">https://nlpnotes.com/2014/03/23/cherry-picking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NLP Notes23 Mar 2014 — Cherry picking, suppressing evidence, or the fallacy of incomplete evidence is the act of pointing to individual c...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pressbooks.pub  
-   Link: <a href="https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Constructing the Thesis and Argument from the Ground UpThe Writing Center at the University of North Carolina at Chapel Hill offers an ex...</p></details>
+   Link:<a href="https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constructing the Thesis and Argument from the Ground UpThe Writing Center at the University of North Carolina at Chapel Hill offers an ex...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ucc.ie  
-   Link: <a href="https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HOW TO BUILD AN ACADEMIC ARGUMENT- Make sure that you offer a clear explanation for each argued point. - This will demonstrate your credi...</p></details>
+   Link:<a href="https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HOW TO BUILD AN ACADEMIC ARGUMENT- Make sure that you offer a clear explanation for each argued point. - This will demonstrate your credi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: louisville.edu  
-   Link: <a href="https://louisville.edu/writingcenter/writing-resources/resources-teaching-writing/helping-students-write-effective-thesis-statements" target="_blank" rel="noopener noreferrer nofollow">https://louisville.edu/writingcenter/writing-resources/resources-teaching-writing/helping-students-write-effective-thesis-statements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helping Students Write Effective Thesis StatementsTo help writers make this distinction, we often ask them to consider whether their thes...</p></details>
+   Link:<a href="https://louisville.edu/writingcenter/writing-resources/resources-teaching-writing/helping-students-write-effective-thesis-statements" target="_blank" rel="noopener noreferrer nofollow">https://louisville.edu/writingcenter/writing-resources/resources-teaching-writing/helping-students-write-effective-thesis-statements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helping Students Write Effective Thesis StatementsTo help writers make this distinction, we often ask them to consider whether their thes...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThis is another name for the Fallacy of Avoiding the Question. Cherry-Picking. Cherry-Picking...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThis is another name for the Fallacy of Avoiding the Question. Cherry-Picking. Cherry-Picking...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-cherry-pickingdefinition-and-explanation-the-cherry-picking-falla/1171316154993080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-cherry-pickingdefinition-and-explanation-the-cherry-picking-falla/1171316154993080/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: CHERRY PICKING DEFINITION...Cherry Picking (also known as: suppressed evidence, fallacy of incomplete evidence, argumen...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-cherry-pickingdefinition-and-explanation-the-cherry-picking-falla/1171316154993080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-cherry-pickingdefinition-and-explanation-the-cherry-picking-falla/1171316154993080/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: CHERRY PICKING DEFINITION...Cherry Picking (also known as: suppressed evidence, fallacy of incomplete evidence, argumen...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: writingcenter.uagc.edu  
-   Link: <a href="https://writingcenter.uagc.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.uagc.edu/counterargument</a>  
+   Link:<a href="https://writingcenter.uagc.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.uagc.edu/counterargument</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: acikders.ankara.edu.tr  
-   Link: <a href="https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922" target="_blank" rel="noopener noreferrer nofollow">https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AND ANALYTICAL THINKINGIn academic writing, an argument is usually a main idea, often called a &quot;claim&quot; or &quot;thesis statement,&quot; backed up w...</p></details>
+   Link:<a href="https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922" target="_blank" rel="noopener noreferrer nofollow">https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AND ANALYTICAL THINKINGIn academic writing, an argument is usually a main idea, often called a &quot;claim&quot; or &quot;thesis statement,&quot; backed up w...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: studenttoolkit.douglasstreetcampus.ie  
-   Link: <a href="https://studenttoolkit.douglasstreetcampus.ie/wp-content/uploads/2022/11/studentcopy_buildinganargument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://studenttoolkit.douglasstreetcampus.ie/wp-content/uploads/2022/11/studentcopy_buildinganargument.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>copy Building an ArgumentConsider 1-2 counter-arguments in depth. Avoid a list of many different counter-arguments. A counter-argument sh...</p></details>
+   Link:<a href="https://studenttoolkit.douglasstreetcampus.ie/wp-content/uploads/2022/11/studentcopy_buildinganargument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://studenttoolkit.douglasstreetcampus.ie/wp-content/uploads/2022/11/studentcopy_buildinganargument.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>copy Building an ArgumentConsider 1-2 counter-arguments in depth. Avoid a list of many different counter-arguments. A counter-argument sh...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ncbar.org  
-   Link: <a href="https://www.ncbar.org/nc-lawyer/2026-02/giving-the-other-side-its-due-how-to-weave-counterarguments-into-a-brief-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbar.org/nc-lawyer/2026-02/giving-the-other-side-its-due-how-to-weave-counterarguments-into-a-brief-effectively/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing That WorksFeb 18, 2026 — 3. Structuring a Counterargument Clearly · State the counterargument fairly (one clean sentence). · Iden...</p></details>
+   Link:<a href="https://www.ncbar.org/nc-lawyer/2026-02/giving-the-other-side-its-due-how-to-weave-counterarguments-into-a-brief-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbar.org/nc-lawyer/2026-02/giving-the-other-side-its-due-how-to-weave-counterarguments-into-a-brief-effectively/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing That WorksFeb 18, 2026 — 3. Structuring a Counterargument Clearly · State the counterargument fairly (one clean sentence). · Iden...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Q_25qcV-lPM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_25qcV-lPM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Essay Basics With FallaciesAn academic argument is one that is well thought out well planned supported with evidence uh very str...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q_25qcV-lPM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_25qcV-lPM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Essay Basics With FallaciesAn academic argument is one that is well thought out well planned supported with evidence uh very str...</p></details>

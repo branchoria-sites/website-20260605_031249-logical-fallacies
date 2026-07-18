@@ -274,14 +274,14 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_qu
 
 ## Introduction
 
-A dropped quotation is a quotation that appears in a paragraph without enough explanation of what it proves, why it matters, or how it supports the writer’s claim. In academic writing, this is more than a stylistic weakness. It is a reasoning problem. Evidence does not become an argument simply because it has been quoted and cited. Readers must be shown how the evidence connects to the point being made. Writing centres consistently emphasise that quotations function as evidence within an argument and require interpretation, analysis, or explanation from the writer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
+A dropped quotation is a quotation that appears in a paragraph without enough explanation of what it proves, why it matters, or how it supports the writer’s claim. In academic writing, this is more than a stylistic weakness. It is a reasoning problem. Evidence does not become an argument simply because it has been quoted and cited. Readers must be shown how the evidence connects to the point being made. Writing centres consistently emphasise that quotations function as evidence within an argument and require interpretation, analysis, or explanation from the writer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-1-dark.svg" | relative_url }}" alt="Dropped Quotes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of essay fallacies and academic writing problems, dropped quotations reveal a missing step in reasoning. The writer supplies evidence but leaves the reader to construct the argument. As a result, the paragraph often appears well researched while remaining logically incomplete.
 
 ## How Unexplained Quotations Weaken Academic Paragraphs
 
-Academic arguments depend on a sequence: claim, evidence, and explanation. When a quotation is inserted without interpretation, the sequence breaks down. Purdue OWL identifies effective body paragraphs as containing both evidence and analysis, sometimes called the warrant that explains why the evidence supports the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
+Academic arguments depend on a sequence: claim, evidence, and explanation. When a quotation is inserted without interpretation, the sequence breaks down. Purdue OWL identifies effective body paragraphs as containing both evidence and analysis, sometimes called the warrant that explains why the evidence supports the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
 
 Consider a literary analysis paragraph:
 
@@ -294,13 +294,13 @@ This weakness creates several problems:
 * **Readers must guess the connection** between the quotation and the claim.
 * **The paragraph loses focus**, shifting attention from the writer's argument to the source's words.
 * **The writer's analytical voice disappears**, making the paragraph resemble a collection of citations rather than an original argument.
-* **The claim remains unproven**, because evidence without interpretation does not establish significance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Remember the acronym I.C.E.: Introduce–Cite–Explain. A sandwich. &quot;Introduce&quot; the idea that...Read more...</span></span></span>
+* **The claim remains unproven**, because evidence without interpretation does not establish significance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Remember the acronym I.C.E.: Introduce–Cite–Explain. A sandwich. &quot;Introduce&quot; the idea that...Read more...</span></span></span>
 
 A dropped quotation therefore resembles a logical gap. The evidence may be relevant, but [relevance]({{ 'relevance/' | relative_url }}) alone does not show why the conclusion follows.
 
 ## Why Quotations Cannot Argue Alone
 
-Many students assume that a strong quotation speaks for itself. Academic writing instruction generally rejects this assumption. Universities routinely teach that quotations require framing and explanation because evidence gains meaning through analysis rather than mere presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Remember the acronym I.C.E.: Introduce–Cite–Explain. A sandwich. &quot;Introduce&quot; the idea that...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.up.ac.za/c.php?g=1505780&amp;p=11281342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.up.ac.za">[2library.up.ac.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.up.ac.za</span><span class="citation-popover-title">Method as a &quot;quotation sandwich&quot;—never serve the quote alone.Read more</span><span class="citation-popover-snippet">ademic Writing: Quoting - UP Library - University of Pretoria25 Apr 2026 — Quotations should never &quot;float&quot; in your writing without cont...</span></span></span>
+Many students assume that a strong quotation speaks for itself. Academic writing instruction generally rejects this assumption. Universities routinely teach that quotations require framing and explanation because evidence gains meaning through analysis rather than mere presentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Remember the acronym I.C.E.: Introduce–Cite–Explain. A sandwich. &quot;Introduce&quot; the idea that...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://library.up.ac.za/c.php?g=1505780&amp;p=11281342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.up.ac.za">[2library.up.ac.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.up.ac.za</span><span class="citation-popover-title">Method as a &quot;quotation sandwich&quot;—never serve the quote alone.Read more</span><span class="citation-popover-snippet">ademic Writing: Quoting - UP Library - University of Pretoria25 Apr 2026 — Quotations should never &quot;float&quot; in your writing without cont...</span></span></span>
 
 The problem is especially visible in disciplines that depend on interpretation.
 
@@ -308,7 +308,7 @@ The problem is especially visible in disciplines that depend on interpretation.
 
 A literary quotation is rarely self-explanatory. Readers need analysis of language, imagery, symbolism, tone, structure, or narrative [context]({{ 'context/' | relative_url }}). A passage from a novel does not automatically demonstrate a theme simply because it contains emotionally powerful language.
 
-For example, quoting a character's angry speech does not by itself prove that the novel critiques authority. The writer must explain how specific word choices, narrative positioning, or recurring patterns support that interpretation. Purdue's guidance on writing about fiction stresses that interpretations must be validated through discussion of textual details rather than simply presenting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
+For example, quoting a character's angry speech does not by itself prove that the novel critiques authority. The writer must explain how specific word choices, narrative positioning, or recurring patterns support that interpretation. Purdue's guidance on writing about fiction stresses that interpretations must be validated through discussion of textual details rather than simply presenting them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
 
 ### In Social Science and Research Essays
 
@@ -325,7 +325,7 @@ Suppose a paragraph claims that remote work improves employee satisfaction and t
 
 </div>
 
-Without those explanations, the reader sees data but not an argument. Writing guides on evidence consistently describe analysis as the process of interpreting evidence to support, test, or refine a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sydney.edu.au/content/dam/students/documents/learning-resources/learning-centre/writing/using-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydney.edu.au">[The University of Sydney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydney.edu.au</span><span class="citation-popover-snippet">The University of SydneyUsing evidence in essaysAims of this module: • To explain the importance of claims and evidence in a persuasive e...</span></span></span>
+Without those explanations, the reader sees data but not an argument. Writing guides on evidence consistently describe analysis as the process of interpreting evidence to support, test, or refine a claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sydney.edu.au/content/dam/students/documents/learning-resources/learning-centre/writing/using-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydney.edu.au">[The University of Sydney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydney.edu.au</span><span class="citation-popover-snippet">The University of SydneyUsing evidence in essaysAims of this module: • To explain the importance of claims and evidence in a persuasive e...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hqf7FeuX4Q0" title="Quoting, Summarizing, and Paraphrasing in Academic Writing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hqf7FeuX4Q0" target="_blank" rel="noopener noreferrer">Quoting, Summarizing, and Paraphrasing in Academic Writing</a></p><p class="youtube-embed-meta">Channel: Thompson Rivers University &middot; Views: 17.0K &middot; Uploaded: December 2020 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hqf7FeuX4Q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hqf7FeuX4Q0">Open on YouTube</a></p></div></div></div>
 
@@ -357,14 +357,14 @@ This distinction explains why instructors often write comments such as:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* “Analyse this quote.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epic-essay.com/blogs/how-to-integrate-quotations-in-an-essay-a-complete-academic-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epic-essay.com">[epic-essay.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epic-essay.com</span><span class="citation-popover-title">how to integrate quotations in an essay a complete academic guide</span><span class="citation-popover-snippet">How to Integrate Quotations in an Essay9 Feb 2026 — A reliable technique for integrating quotations in an essay is the “quote sandwich” s...</span></span></span>
+* “Analyse this quote.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epic-essay.com/blogs/how-to-integrate-quotations-in-an-essay-a-complete-academic-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epic-essay.com">[epic-essay.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epic-essay.com</span><span class="citation-popover-title">how to integrate quotations in an essay a complete academic guide</span><span class="citation-popover-snippet">How to Integrate Quotations in an Essay9 Feb 2026 — A reliable technique for integrating quotations in an essay is the “quote sandwich” s...</span></span></span>
 * “Explain significance.”
 * “Connect back to thesis.”
 * “So what?”
 
 </div>
 
-Such comments identify a missing analytical step rather than a citation problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span>
+Such comments identify a missing analytical step rather than a citation problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span>
 
 ## What Interpretation Adds to Evidence
 
@@ -386,12 +386,12 @@ A survey finding may reveal a pattern. Interpretation explains whether that patt
 
 Most quotations are narrow and specific. [Essays]({{ 'essays/' | relative_url }}) typically make broader claims.
 
-Interpretation builds the bridge between the small piece of evidence and the larger conclusion. This bridge is often what argument theorists call the warrant—the reasoning that links evidence to a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
+Interpretation builds the bridge between the small piece of evidence and the larger conclusion. This bridge is often what argument theorists call the warrant—the reasoning that links evidence to a claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-2-dark.svg" | relative_url }}" alt="Dropped Quotes illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### It Demonstrates Critical Thinking
 
-Universities generally assess not only whether students can locate evidence but also whether they can evaluate and interpret it. Critical writing guidance emphasises explaining implications, relationships, and consequences rather than simply reproducing information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span>
+Universities generally assess not only whether students can locate evidence but also whether they can evaluate and interpret it. Critical writing guidance emphasises explaining implications, relationships, and consequences rather than simply reproducing information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span>
 
 ## Common Forms of Dropped Quotations
 
@@ -413,13 +413,13 @@ The quotation becomes the final sentence of the paragraph. Because no analysis f
 
 A long block quotation replaces analysis. The writer presents extensive source material but contributes little interpretation.
 
-In each case, the core problem remains identical: evidence is presented, but reasoning is omitted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stlcc.edu/insider/writing-resources/using-quotes-effectively.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlcc.edu">[STLCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlcc.edu</span><span class="citation-popover-title">using quotes effectively.aspx</span><span class="citation-popover-snippet">Using Quotes Effectively &#124; Tutoring Resources23 Sept 2025 — These dropped quotations make it difficult for readers to distinguish between...</span></span></span>
+In each case, the core problem remains identical: evidence is presented, but reasoning is omitted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stlcc.edu/insider/writing-resources/using-quotes-effectively.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlcc.edu">[STLCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlcc.edu</span><span class="citation-popover-title">using quotes effectively.aspx</span><span class="citation-popover-snippet">Using Quotes Effectively &#124; Tutoring Resources23 Sept 2025 — These dropped quotations make it difficult for readers to distinguish between...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s776GKJPqFY" title="How To Use Evidence In Your Essay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s776GKJPqFY" target="_blank" rel="noopener noreferrer">How To Use Evidence In Your Essay</a></p><p class="youtube-embed-meta">Channel: A Better Way To Teach &middot; Views: 485 &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s776GKJPqFY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s776GKJPqFY">Open on YouTube</a></p></div></div></div>
 
 ## Sentence Patterns for Connecting Quoted Evidence to Claims
 
-Many writing centres teach some version of the "quotation sandwich" or "Introduce–Cite–Explain" model. The basic idea is that quotations should be framed by context before the quotation and interpretation afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patthomson.net/2011/08/13/the-quotation-sandwich/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patthomson.net">[patter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patthomson.net</span><span class="citation-popover-title">patterthe quotation sandwich</span><span class="citation-popover-snippet">Pat ThomsonAugust 13, 2011 — 13 Aug 2011 — Graff and Birkenstein offer, as an alternative to the dangling quote, the notion of the quotat...</span><span class="citation-popover-meta">Published: August 13, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Remember the acronym I.C.E.: Introduce–Cite–Explain. A sandwich. &quot;Introduce&quot; the idea that...Read more...</span></span></span>
+Many writing centres teach some version of the "quotation sandwich" or "Introduce–Cite–Explain" model. The basic idea is that quotations should be framed by context before the quotation and interpretation afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://patthomson.net/2011/08/13/the-quotation-sandwich/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patthomson.net">[patter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patthomson.net</span><span class="citation-popover-title">patterthe quotation sandwich</span><span class="citation-popover-snippet">Pat ThomsonAugust 13, 2011 — 13 Aug 2011 — Graff and Birkenstein offer, as an alternative to the dangling quote, the notion of the quotat...</span><span class="citation-popover-meta">Published: August 13, 2011</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Remember the acronym I.C.E.: Introduce–Cite–Explain. A sandwich. &quot;Introduce&quot; the idea that...Read more...</span></span></span>
 
 Several sentence patterns help create this connection.
 
@@ -427,7 +427,7 @@ Several sentence patterns help create this connection.
 
 After the quotation, continue with:
 
-* This demonstrates that... <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This suggests that... <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This indicates that... <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This reveals that... <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span>
+* This demonstrates that...<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This suggests that...<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This indicates that...<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This reveals that...<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span>
 
 Example:
 
@@ -503,278 +503,278 @@ Ask:
 
 If the answer to the second or third question is no, the paragraph probably contains a dropped quotation.
 
-Another useful test is the "so what?" question. After every quotation, ask what conclusion the reader should draw from it. If the paragraph does not answer that question, more analysis is needed. This emphasis on interpretation reflects a broader principle of academic writing: evidence becomes persuasive only when the writer explains its significance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span>
+Another useful test is the "so what?" question. After every quotation, ask what conclusion the reader should draw from it. If the paragraph does not answer that question, more analysis is needed. This emphasis on interpretation reflects a broader principle of academic writing: evidence becomes persuasive only when the writer explains its significance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span>
 
 ## Strong Academic Writing Keeps the Writer's Voice Central
 
 The most effective academic paragraphs do not allow quotations to dominate. Instead, quotations serve as supporting evidence within a larger argument controlled by the writer. The source provides information, language, data, or testimony, but the writer provides the reasoning.
 
-When quotations are dropped into paragraphs without explanation, evidence and argument become disconnected. The result is not simply a formatting issue but a logical weakness. Academic readers are not looking for proof that a source exists; they are looking for an explanation of how that source advances the claim. Evidence can support an argument, but only analysis can make the argument itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
+When quotations are dropped into paragraphs without explanation, evidence and argument become disconnected. The result is not simply a formatting issue but a logical weakness. Academic readers are not looking for proof that a source exists; they are looking for an explanation of how that source advances the claim. Evidence can support an argument, but only analysis can make the argument itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Quotations Cannot Argue Alone. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Quotations Cannot Argue Alone. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Say / I Say on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DPHR0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for They Say / I Say" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Say / I Say">They Say / I Say</a>
-        </h4>
-        <p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Say / I Say on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DPHR0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for They Say / I Say" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Say / I Say">They Say / I Say</a>
+</h4>
+<p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
         
-        <p class="fr-book-desc">Teaches how to connect evidence, quotations, and analysis to claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to connect evidence, quotations, and analysis to claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+with+Readings+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Say / I Say with Readings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lky40AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for They Say / I Say with Readings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+with+Readings+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Say / I Say with Readings">They Say / I Say with Readings</a>
-        </h4>
-        <p class="fr-book-author">By Gerald Graff, Cathy Birkenstein et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+with+Readings+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Say / I Say with Readings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lky40AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for They Say / I Say with Readings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+with+Readings+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Say / I Say with Readings">They Say / I Say with Readings</a>
+</h4>
+<p class="fr-book-author">By Gerald Graff, Cathy Birkenstein et al.</p>
         
-        <p class="fr-book-desc">Provides models for integrating quotations and commentary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+with+Readings+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides models for integrating quotations and commentary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+with+Readings+by+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Shows how evidence must be linked to conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how evidence must be linked to conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Craft+of+Research+by+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+by+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research">The Craft of Research</a>
-        </h4>
-        <p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Craft+of+Research+by+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Research+by+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research">The Craft of Research</a>
+</h4>
+<p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
         
-        <p class="fr-book-desc">Explains how evidence supports arguments rather than standing alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+by+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how evidence supports arguments rather than standing alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Research+by+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Say / I Say</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+with+Readings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Say / I Say with Readings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Say / I Say</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Say+%2F+I+Say+with+Readings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Say / I Say with Readings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dropped-quotes-why-quotations-cannot-argue-alone-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -790,7 +790,7 @@ When quotations are dropped into paragraphs without explanation, evidence and ar
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -810,7 +810,7 @@ When quotations are dropped into paragraphs without explanation, evidence and ar
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -842,7 +842,7 @@ When quotations are dropped into paragraphs without explanation, evidence and ar
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -872,7 +872,7 @@ When quotations are dropped into paragraphs without explanation, evidence and ar
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -930,209 +930,209 @@ When quotations are dropped into paragraphs without explanation, evidence and ar
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLBody Paragraphs  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLBody Paragraphs - Purdue OWLA good paragraph should contain at least the following four elements: Transition, Topic sentence, s...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLBody Paragraphs - Purdue OWLA good paragraph should contain at least the following four elements: Transition, Topic sentence, s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLOn Paragraphs  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOn Paragraphs - Purdue OWLA paragraph is a collection of related sentences dealing with a single topic. Learning to write good...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOn Paragraphs - Purdue OWLA paragraph is a collection of related sentences dealing with a single topic. Learning to write good...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: <a href="https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remember the acronym I.C.E.: Introduce–Cite–Explain. A sandwich. &quot;Introduce&quot; the idea that...Read more...</p></details>
+   Link:<a href="https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/englishdegreeentranceprep/chapter/integrating-source-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remember the acronym I.C.E.: Introduce–Cite–Explain. A sandwich. &quot;Introduce&quot; the idea that...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stlcc.edu  
    Title: using quotes effectively.aspx  
-   Link: <a href="https://stlcc.edu/insider/writing-resources/using-quotes-effectively.aspx" target="_blank" rel="noopener noreferrer nofollow">https://stlcc.edu/insider/writing-resources/using-quotes-effectively.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Quotes Effectively | Tutoring Resources23 Sept 2025 — These dropped quotations make it difficult for readers to distinguish between...</p></details>
+   Link:<a href="https://stlcc.edu/insider/writing-resources/using-quotes-effectively.aspx" target="_blank" rel="noopener noreferrer nofollow">https://stlcc.edu/insider/writing-resources/using-quotes-effectively.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Quotes Effectively | Tutoring Resources23 Sept 2025 — These dropped quotations make it difficult for readers to distinguish between...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: library.up.ac.za  
    Title: Method as a "quotation sandwich"—never serve the quote alone.Read more  
-   Link: <a href="https://library.up.ac.za/c.php?g=1505780&amp;p=11281342" target="_blank" rel="noopener noreferrer nofollow">https://library.up.ac.za/c.php?g=1505780&amp;p=11281342</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ademic Writing: Quoting - UP Library - University of Pretoria25 Apr 2026 — Quotations should never &quot;float&quot; in your writing without cont...</p></details>
+   Link:<a href="https://library.up.ac.za/c.php?g=1505780&amp;p=11281342" target="_blank" rel="noopener noreferrer nofollow">https://library.up.ac.za/c.php?g=1505780&amp;p=11281342</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ademic Writing: Quoting - UP Library - University of Pretoria25 Apr 2026 — Quotations should never &quot;float&quot; in your writing without cont...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: owl.purdue.edu  
    Title: OWLClose Reading a Text and Avoiding Pitfalls  
-   Link: <a href="https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_fiction/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_fiction/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This covers prewriting, close reading, thesis development, drafting, and common pitfalls...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_fiction/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_fiction/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This covers prewriting, close reading, thesis development, drafting, and common pitfalls...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: owl.purdue.edu  
    Title: OWLUsing Research and Evidence  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who is the author? Credible sources are written by authors respected in their fields...Read more...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/research_and_evidence.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who is the author? Credible sources are written by authors respected in their fields...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: purdueglobalwriting.center  
    Title: Don't Drop Quotes  
-   Link: <a href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</p></details>
+   Link:<a href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</p></details>
    Published: February 26, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduParaphrase: Write It in Your Own Words - Purdue OWLThis handout is intended to help you become more comfortable with the uses o...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduParaphrase: Write It in Your Own Words - Purdue OWLThis handout is intended to help you become more comfortable with the uses o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: owl.purdue.edu  
    Title: handout quoting others  
-   Link: <a href="https://owl.purdue.edu/owl/resources/preventing_plagiarism/avoiding_plagiarism/handout_quoting_others.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/resources/preventing_plagiarism/avoiding_plagiarism/handout_quoting_others.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduHandout: Quoting Others - Purdue OWLYou typically only want to use a direct quotation in the following situations: if you&#x27;re us...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/resources/preventing_plagiarism/avoiding_plagiarism/handout_quoting_others.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/resources/preventing_plagiarism/avoiding_plagiarism/handout_quoting_others.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduHandout: Quoting Others - Purdue OWLYou typically only want to use a direct quotation in the following situations: if you&#x27;re us...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: owl.purdue.edu  
    Title: in text citations the basics  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduIn-Text Citations: The Basics - Purdue OWLIf you are paraphrasing an idea from another work, you only have to make reference to...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduIn-Text Citations: The Basics - Purdue OWLIf you are paraphrasing an idea from another work, you only have to make reference to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: owl.purdue.edu  
    Title: summarizing paraphrasing and quoting  
-   Link: <a href="https://owl.purdue.edu/owl/resources/preventing_plagiarism/avoiding_plagiarism/summarizing_paraphrasing_and_quoting.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/resources/preventing_plagiarism/avoiding_plagiarism/summarizing_paraphrasing_and_quoting.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduSummarizing, Paraphrasing, and Quoting - Purdue OWLProcedure · Use the original author&#x27;s exact words · Put quotation marks arou...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/resources/preventing_plagiarism/avoiding_plagiarism/summarizing_paraphrasing_and_quoting.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/resources/preventing_plagiarism/avoiding_plagiarism/summarizing_paraphrasing_and_quoting.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduSummarizing, Paraphrasing, and Quoting - Purdue OWLProcedure · Use the original author&#x27;s exact words · Put quotation marks arou...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: owl.purdue.edu  
    Title: signal and lead in phrases  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/signal_and_lead_in_phrases.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/signal_and_lead_in_phrases.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Lead-in Phrases - Purdue OWLSignal phrases can be distinguished by the presence of a verb like &quot;indicate&quot; or &quot;argue&quot; that references...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/signal_and_lead_in_phrases.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/signal_and_lead_in_phrases.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Lead-in Phrases - Purdue OWLSignal phrases can be distinguished by the presence of a verb like &quot;indicate&quot; or &quot;argue&quot; that references...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Introduction - Purdue OWLParagraphs and Paragraphing. The purpose of this handout is to give some basic instruction and advice re...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Introduction - Purdue OWLParagraphs and Paragraphing. The purpose of this handout is to give some basic instruction and advice re...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: owl.purdue.edu  
    Title: paraphrasing sample essay  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing_sample_essay.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing_sample_essay.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The following is a sample essay you can practice quoting, paraphrasing, and summarizing. Examples of each task are provided at the...Rea...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing_sample_essay.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/paraphrasing_sample_essay.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The following is a sample essay you can practice quoting, paraphrasing, and summarizing. Examples of each task are provided at the...Rea...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: owl.purdue.edu  
    Title: in text citation references  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/asa_style/in_text_citation_references.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/asa_style/in_text_citation_references.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduIn-Text (Citation) References - Purdue OWLInclude page numbers within the citation when directly quoting the authors&#x27; words, pa...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/asa_style/in_text_citation_references.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/asa_style/in_text_citation_references.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduIn-Text (Citation) References - Purdue OWLInclude page numbers within the citation when directly quoting the authors&#x27; words, pa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/resources.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/resources.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Citation Resources - Purdue OWLThis area includes material on quoting and paraphrasing your research sources, as well as material on...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/resources.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/resources.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Citation Resources - Purdue OWLThis area includes material on quoting and paraphrasing your research sources, as well as material on...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: owl.purdue.edu  
    Title: in text citations the basics  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/apa6_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/apa6_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduIn-Text Citations: The Basics - Purdue OWLIf you are paraphrasing an idea from another work, you only have to make reference to...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/apa6_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/apa6_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduIn-Text Citations: The Basics - Purdue OWLIf you are paraphrasing an idea from another work, you only have to make reference to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Quotations  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/quotations/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/quotations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterQuotations - UNC Writing CenterThe colon announces that a quote will follow to provide evidence for the sentence&#x27;s clai...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/quotations/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/quotations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterQuotations - UNC Writing CenterThe colon announces that a quote will follow to provide evidence for the sentence&#x27;s clai...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Evidence  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterEvidence - UNC Writing CenterThere are many ways to present your evidence. Often, your evidence will be included as tex...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterEvidence - UNC Writing CenterThere are many ways to present your evidence. Often, your evidence will be included as tex...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wts.indiana.edu  
-   Link: <a href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow">https://wts.indiana.edu/writing-guides/using-evidence.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</p></details>
+   Link:<a href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow">https://wts.indiana.edu/writing-guides/using-evidence.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sydney.edu.au  
-   Link: <a href="https://www.sydney.edu.au/content/dam/students/documents/learning-resources/learning-centre/writing/using-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sydney.edu.au/content/dam/students/documents/learning-resources/learning-centre/writing/using-evidence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The University of SydneyUsing evidence in essaysAims of this module: • To explain the importance of claims and evidence in a persuasive e...</p></details>
+   Link:<a href="https://www.sydney.edu.au/content/dam/students/documents/learning-resources/learning-centre/writing/using-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sydney.edu.au/content/dam/students/documents/learning-resources/learning-centre/writing/using-evidence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The University of SydneyUsing evidence in essaysAims of this module: • To explain the importance of claims and evidence in a persuasive e...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ucl.ac.uk  
-   Link: <a href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</p></details>
+   Link:<a href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: patthomson.net  
    Title: patterthe quotation sandwich  
-   Link: <a href="https://patthomson.net/2011/08/13/the-quotation-sandwich/" target="_blank" rel="noopener noreferrer nofollow">https://patthomson.net/2011/08/13/the-quotation-sandwich/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pat ThomsonAugust 13, 2011 — 13 Aug 2011 — Graff and Birkenstein offer, as an alternative to the dangling quote, the notion of the quotat...</p></details>
+   Link:<a href="https://patthomson.net/2011/08/13/the-quotation-sandwich/" target="_blank" rel="noopener noreferrer nofollow">https://patthomson.net/2011/08/13/the-quotation-sandwich/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pat ThomsonAugust 13, 2011 — 13 Aug 2011 — Graff and Birkenstein offer, as an alternative to the dangling quote, the notion of the quotat...</p></details>
    Published: August 13, 2011  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Purdue University  
-   Link: <a href="https://en.wikipedia.org/wiki/Purdue_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Purdue_University</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue UniversityPurdue University is a public land-grant research university in West Lafayette, Indiana, United States, and the flags...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Purdue_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Purdue_University</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue UniversityPurdue University is a public land-grant research university in West Lafayette, Indiana, United States, and the flags...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pressbooks.openeducationalberta.ca  
-   Link: <a href="https://pressbooks.openeducationalberta.ca/saitececomn/chapter/3-4-using-source-text-quoting-paraphrasing-and-summarizing/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.openeducationalberta.ca/saitececomn/chapter/3-4-using-source-text-quoting-paraphrasing-and-summarizing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>openeducationalberta.ca2.8 Writing Skills: Quoting, Paraphrasing, and SummarizingIncluding research in your work typically involves prope...</p></details>
+   Link:<a href="https://pressbooks.openeducationalberta.ca/saitececomn/chapter/3-4-using-source-text-quoting-paraphrasing-and-summarizing/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.openeducationalberta.ca/saitececomn/chapter/3-4-using-source-text-quoting-paraphrasing-and-summarizing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>openeducationalberta.ca2.8 Writing Skills: Quoting, Paraphrasing, and SummarizingIncluding research in your work typically involves prope...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: poorvucenter.yale.edu  
-   Link: <a href="https://poorvucenter.yale.edu/sites/default/files/2025-03/Yale%20Poorvu%20Center%20-%20Research%20Paragraph%20Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://poorvucenter.yale.edu/sites/default/files/2025-03/Yale%20Poorvu%20Center%20-%20Research%20Paragraph%20Analysis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effective research paragraphEvidence – The author quotes three different sources as evidence for her claim that traditional ethnic humor...</p></details>
+   Link:<a href="https://poorvucenter.yale.edu/sites/default/files/2025-03/Yale%20Poorvu%20Center%20-%20Research%20Paragraph%20Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://poorvucenter.yale.edu/sites/default/files/2025-03/Yale%20Poorvu%20Center%20-%20Research%20Paragraph%20Analysis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effective research paragraphEvidence – The author quotes three different sources as evidence for her claim that traditional ethnic humor...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hqf7FeuX4Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hqf7FeuX4Q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quoting, Summarizing, and Paraphrasing in Academic WritingIt&#x27;s really important to understand how to quote summarize and paraphrase appro...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hqf7FeuX4Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hqf7FeuX4Q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quoting, Summarizing, and Paraphrasing in Academic WritingIt&#x27;s really important to understand how to quote summarize and paraphrase appro...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OytGAPhHP54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OytGAPhHP54</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>College Writing Success: Quote SandwichesLearn the FOUR key elements of quote sandwiches - a key writing skill for college-level academic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OytGAPhHP54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OytGAPhHP54</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>College Writing Success: Quote SandwichesLearn the FOUR key elements of quote sandwiches - a key writing skill for college-level academic...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: epic-essay.com  
    Title: how to integrate quotations in an essay a complete academic guide  
-   Link: <a href="https://www.epic-essay.com/blogs/how-to-integrate-quotations-in-an-essay-a-complete-academic-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.epic-essay.com/blogs/how-to-integrate-quotations-in-an-essay-a-complete-academic-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Integrate Quotations in an Essay9 Feb 2026 — A reliable technique for integrating quotations in an essay is the “quote sandwich” s...</p></details>
+   Link:<a href="https://www.epic-essay.com/blogs/how-to-integrate-quotations-in-an-essay-a-complete-academic-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.epic-essay.com/blogs/how-to-integrate-quotations-in-an-essay-a-complete-academic-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Integrate Quotations in an Essay9 Feb 2026 — A reliable technique for integrating quotations in an essay is the “quote sandwich” s...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: americanenglish.state.gov  
    Title: using evidence in academic writing  
-   Link: <a href="https://americanenglish.state.gov/files/ae/resource_files/using_evidence_in_academic_writing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://americanenglish.state.gov/files/ae/resource_files/using_evidence_in_academic_writing.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2nd ed. (1976): 46-47.) (Adapted from the Purdue OWL). Examples. Page 18. Using what “They say” as evidence. Summarizing. Paraphrasing.Re...</p></details>
+   Link:<a href="https://americanenglish.state.gov/files/ae/resource_files/using_evidence_in_academic_writing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://americanenglish.state.gov/files/ae/resource_files/using_evidence_in_academic_writing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2nd ed. (1976): 46-47.) (Adapted from the Purdue OWL). Examples. Page 18. Using what “They say” as evidence. Summarizing. Paraphrasing.Re...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: westernsydney.edu.au  
-   Link: <a href="https://www.westernsydney.edu.au/content/dam/digital/pdf/eds/library/how-to-guides/writing-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydney.edu.au/content/dam/digital/pdf/eds/library/how-to-guides/writing-evidence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing evidence takes three main forms: summary, paraphrase and quote. Writing evidence...Read more...</p></details>
+   Link:<a href="https://www.westernsydney.edu.au/content/dam/digital/pdf/eds/library/how-to-guides/writing-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydney.edu.au/content/dam/digital/pdf/eds/library/how-to-guides/writing-evidence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing evidence takes three main forms: summary, paraphrase and quote. Writing evidence...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: unsw.edu.au  
    Title: Grammar & writing essentials  
-   Link: <a href="https://www.unsw.edu.au/student/managing-your-studies/academic-skills-support/toolkit/writing/essentials" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/student/managing-your-studies/academic-skills-support/toolkit/writing/essentials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SydneyLearn essential grammar rules, punctuation and how to incorporate evidence into your academic writing. Improve the clarity, flow an...</p></details>
+   Link:<a href="https://www.unsw.edu.au/student/managing-your-studies/academic-skills-support/toolkit/writing/essentials" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/student/managing-your-studies/academic-skills-support/toolkit/writing/essentials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SydneyLearn essential grammar rules, punctuation and how to incorporate evidence into your academic writing. Improve the clarity, flow an...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: inscribe.education  
    Title: Quoting, Paraphrasing, & Summarizing  
-   Link: <a href="https://inscribe.education/main/asu/6754110229502208/1-writing-resources/compositions/6749461749793903?backToListTab=all" target="_blank" rel="noopener noreferrer nofollow">https://inscribe.education/main/asu/6754110229502208/1-writing-resources/compositions/6749461749793903?backToListTab=all</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are three ways evidence can be incorporated when writing research papers, literature reviews, and more.Read more...</p></details>
+   Link:<a href="https://inscribe.education/main/asu/6754110229502208/1-writing-resources/compositions/6749461749793903?backToListTab=all" target="_blank" rel="noopener noreferrer nofollow">https://inscribe.education/main/asu/6754110229502208/1-writing-resources/compositions/6749461749793903?backToListTab=all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There are three ways evidence can be incorporated when writing research papers, literature reviews, and more.Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: How To Use Evidence In Your Essay  
-   Link: <a href="https://www.youtube.com/watch?v=s776GKJPqFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s776GKJPqFY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This detailed video on Avoiding Dropped Quotes explains why leaving a quotation completely unexplained undermines an essay&#x27;s academic rig...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s776GKJPqFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s776GKJPqFY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This detailed video on Avoiding Dropped Quotes explains why leaving a quotation completely unexplained undermines an essay&#x27;s academic rig...</p></details>

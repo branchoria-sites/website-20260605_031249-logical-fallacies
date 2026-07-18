@@ -277,7 +277,7 @@ image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_r
 Arguments about free speech often become examples of equivocation because the word *right* quietly changes meaning during the discussion. A person may begin by talking about a legal right against government censorship, then shift to a moral entitlement to be heard, then to a social expectation of acceptance, and finally to a claim of immunity from criticism. When these different meanings are treated as interchangeable, the argument can sound persuasive even though the conclusion no longer follows.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1-dark.svg" | relative_url }}" alt="Free Speech illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because public debates about controversial speech frequently depend on rights language. Free speech is a genuine legal and political principle, but disagreements often arise when participants use the same words to make different kinds of claims. Philosophers and legal scholars regularly distinguish the law of free speech from the morality of speech and from broader social questions about how people should respond to expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</span></span></span>
+This matters because public debates about controversial speech frequently depend on rights language. Free speech is a genuine legal and political principle, but disagreements often arise when participants use the same words to make different kinds of claims. Philosophers and legal scholars regularly distinguish the law of free speech from the morality of speech and from broader social questions about how people should respond to expression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</span></span></span>
 
 ## When Does Free Speech Become a Word Game?
 
@@ -295,7 +295,7 @@ Consider this pattern:
 
 The first statement usually refers to a legal protection. The conclusion, however, concerns social reactions. The argument only works if “right” means the same thing throughout. In practice, it often does not.
 
-Legal systems that protect freedom of speech generally focus on restrictions imposed by government authorities. In the United States, for example, First Amendment protections are principally limits on government action rather than guarantees against disagreement, criticism, boycotts, or social disapproval from other private individuals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: constitutioncenter.org">[Constitution Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">constitutioncenter.org</span><span class="citation-popover-snippet">Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ala.org">[American Library Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ala.org</span><span class="citation-popover-snippet">The First Amendment only prevents government restrictions on speech. It does not...Read more...</span></span></span>
+Legal systems that protect freedom of speech generally focus on restrictions imposed by government authorities. In the United States, for example, First Amendment protections are principally limits on government action rather than guarantees against disagreement, criticism, boycotts, or social disapproval from other private individuals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: constitutioncenter.org">[Constitution Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">constitutioncenter.org</span><span class="citation-popover-snippet">Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ala.org">[American Library Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ala.org</span><span class="citation-popover-snippet">The First Amendment only prevents government restrictions on speech. It does not...Read more...</span></span></span>
 
 The persuasive force of the argument comes from borrowing the moral prestige of a constitutional liberty and then spending it on a different claim about how other people must behave.
 
@@ -313,9 +313,9 @@ A social-consequences question asks something different:
 
 These are not identical issues.
 
-A newspaper columnist may have a legal right to publish an opinion while still facing criticism from readers. A comedian may have a legal right to tell a joke while audiences remain free to condemn it. An activist may have a legal right to protest while employers, customers, friends, or voters make their own judgments about the protest. None of these reactions automatically cancels the underlying legal protection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: constitutioncenter.org">[Constitution Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">constitutioncenter.org</span><span class="citation-popover-snippet">Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ala.org">[American Library Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ala.org</span><span class="citation-popover-snippet">The First Amendment only prevents government restrictions on speech. It does not...Read more...</span></span></span>
+A newspaper columnist may have a legal right to publish an opinion while still facing criticism from readers. A comedian may have a legal right to tell a joke while audiences remain free to condemn it. An activist may have a legal right to protest while employers, customers, friends, or voters make their own judgments about the protest. None of these reactions automatically cancels the underlying legal protection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: constitutioncenter.org">[Constitution Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">constitutioncenter.org</span><span class="citation-popover-snippet">Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ala.org">[American Library Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ala.org</span><span class="citation-popover-snippet">The First Amendment only prevents government restrictions on speech. It does not...Read more...</span></span></span>
 
-The fallacy appears when criticism is automatically reclassified as censorship. Genuine censorship usually involves the suppression of speech through coercive power. Mere disagreement, ridicule, rebuttal, or refusal to endorse a message is something different. The distinction is widely recognised in legal discussions of free expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ala.org">[American Library Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ala.org</span><span class="citation-popover-snippet">The First Amendment only prevents government restrictions on speech. It does not...Read more...</span></span></span>
+The fallacy appears when criticism is automatically reclassified as censorship. Genuine censorship usually involves the suppression of speech through coercive power. Mere disagreement, ridicule, rebuttal, or refusal to endorse a message is something different. The distinction is widely recognised in legal discussions of free expression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ala.org">[American Library Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ala.org</span><span class="citation-popover-snippet">The First Amendment only prevents government restrictions on speech. It does not...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UVXHJSu2W3U" title="Is the First Amendment the greatest right of all? - Clive Stafford Smith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UVXHJSu2W3U" target="_blank" rel="noopener noreferrer">Is the First Amendment the greatest right of all? - Clive Stafford Smith</a></p><p class="youtube-embed-meta">Channel: Gresham College &middot; Views: 2.4K &middot; Uploaded: March 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UVXHJSu2W3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UVXHJSu2W3U">Open on YouTube</a></p></div></div></div>
 
@@ -356,9 +356,9 @@ That statement could mean:
 
 Each interpretation adds something different.
 
-For example, human-rights organisations often describe freedom of expression as a fundamental right because people should be able to share opinions and information without unlawful interference. That moral and political claim does not automatically settle questions about platform moderation, professional standards, or social criticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amnesty.org/en/what-we-do/freedom-of-expression/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnesty.org">[Amnesty International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnesty.org</span><span class="citation-popover-snippet">Amnesty InternationalFreedom of ExpressionYou have the right to say what you think, share information and demand a better world. You also...</span></span></span>
+For example, human-rights organisations often describe freedom of expression as a fundamental right because people should be able to share opinions and information without unlawful interference. That moral and political claim does not automatically settle questions about platform moderation, professional standards, or social criticism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amnesty.org/en/what-we-do/freedom-of-expression/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnesty.org">[Amnesty International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnesty.org</span><span class="citation-popover-snippet">Amnesty InternationalFreedom of ExpressionYou have the right to say what you think, share information and demand a better world. You also...</span></span></span>
 
-Likewise, legal scholars frequently distinguish the morality of free speech from the law of free speech. Someone can support strong legal protections while still believing that certain speech is irresponsible, offensive, or harmful. The legal right and the moral evaluation remain separate questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</span></span></span>
+Likewise, legal scholars frequently distinguish the morality of free speech from the law of free speech. Someone can support strong legal protections while still believing that certain speech is irresponsible, offensive, or harmful. The legal right and the moral evaluation remain separate questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</span></span></span>
 
 The equivocation occurs when a speaker treats success in one category as automatic success in all the others.
 
@@ -377,9 +377,9 @@ Another participant may respond:
 
 The dispute sometimes looks factual when it is actually semantic. The participants are using different meanings of *free speech*.
 
-Modern debates about social-media moderation illustrate the problem. Questions about whether governments may pressure platforms, whether platforms possess editorial discretion, and whether users deserve access to particular audiences involve different rights claims that are often bundled together. Courts, commentators, and policy analysts frequently distinguish government censorship from private moderation, even when both become politically controversial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Supreme Court has set a new standard for determining if public officials acted in a governmental capacity when blocking critics on social...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis-2024-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">These cases—NetChoice v. Paxton in Texas and Moody v. NetChoice in Florida—involved laws limiting social-media companies from censoring c...</span></span></span>
+Modern debates about social-media moderation illustrate the problem. Questions about whether governments may pressure platforms, whether platforms possess editorial discretion, and whether users deserve access to particular audiences involve different rights claims that are often bundled together. Courts, commentators, and policy analysts frequently distinguish government censorship from private moderation, even when both become politically controversial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Supreme Court has set a new standard for determining if public officials acted in a governmental capacity when blocking critics on social...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">These cases—NetChoice v. Paxton in Texas and Moody v. NetChoice in Florida—involved laws limiting social-media companies from censoring c...</span></span></span>
 
-Similarly, discussions of cancel culture often blend legal rights with social sanctions. A person may lose reputation, invitations, customers, or professional opportunities because of speech without experiencing government censorship. Whether those consequences are fair is a separate [debate]({{ 'debate/' | relative_url }}) from whether free-speech rights have been legally violated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://athena.unibo.it/article/download/15655/16492/68792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: athena.unibo.it">[athena.unibo.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">athena.unibo.it</span><span class="citation-popover-snippet">Is the Public Moral Instigation Against Inappropriate Free...July 5, 2023 — My aim in this article is to show that cancel culture is sel...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span>
+Similarly, discussions of cancel culture often blend legal rights with social sanctions. A person may lose reputation, invitations, customers, or professional opportunities because of speech without experiencing government censorship. Whether those consequences are fair is a separate [debate]({{ 'debate/' | relative_url }}) from whether free-speech rights have been legally violated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://athena.unibo.it/article/download/15655/16492/68792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: athena.unibo.it">[athena.unibo.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">athena.unibo.it</span><span class="citation-popover-snippet">Is the Public Moral Instigation Against Inappropriate Free...July 5, 2023 — My aim in this article is to show that cancel culture is sel...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kCRjKMsLhtQ" title="Freedom of Speech: What the First Amendment Actually Protects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kCRjKMsLhtQ" target="_blank" rel="noopener noreferrer">Freedom of Speech: What the First Amendment Actually Protects</a></p><p class="youtube-embed-meta">Channel: Houston Public Media &middot; Views: 1.1K &middot; Uploaded: September 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kCRjKMsLhtQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kCRjKMsLhtQ">Open on YouTube</a></p></div></div></div>
 
@@ -389,11 +389,11 @@ A practical way to identify the equivocation is to ask a series of clarifying qu
 
 ### Who is restricting the speech?
 
-If the actor is the state, the issue may concern constitutional or human-rights protections. If the actor is a private individual expressing disagreement, the issue may concern social response rather than censorship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: constitutioncenter.org">[Constitution Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">constitutioncenter.org</span><span class="citation-popover-snippet">Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</span></span></span>
+If the actor is the state, the issue may concern constitutional or human-rights protections. If the actor is a private individual expressing disagreement, the issue may concern social response rather than censorship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: constitutioncenter.org">[Constitution Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">constitutioncenter.org</span><span class="citation-popover-snippet">Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</span></span></span>
 
 ### What kind of right is being claimed?
 
-Is the claim legal, moral, political, cultural, or institutional? Different answers lead to different standards of evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</span></span></span>
+Is the claim legal, moral, political, cultural, or institutional? Different answers lead to different standards of evaluation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</span></span></span>
 
 ### What conclusion is being drawn?
 
@@ -419,194 +419,194 @@ When legal protection, moral entitlement, social permission, and immunity from c
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oBfdCsAKK8s" title="Free Speech, Social Media &amp; AI with Professor Procaccini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oBfdCsAKK8s" target="_blank" rel="noopener noreferrer">Free Speech, Social Media &amp; AI with Professor Procaccini</a></p><p class="youtube-embed-meta">Channel: Vanderbilt Law School &middot; Views: 179 &middot; Uploaded: March 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oBfdCsAKK8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oBfdCsAKK8s">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does Free Speech Become a Word Game?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does Free Speech Become a Word Game?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+Liberty+by+John+Stuart+Mill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On Liberty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RbkAAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for On Liberty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=On+Liberty+by+John+Stuart+Mill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Liberty">On Liberty</a>
-        </h4>
-        <p class="fr-book-author">By John Stuart Mill</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=On+Liberty+by+John+Stuart+Mill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On Liberty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RbkAAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for On Liberty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=On+Liberty+by+John+Stuart+Mill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Liberty">On Liberty</a>
+</h4>
+<p class="fr-book-author">By John Stuart Mill</p>
         
-        <p class="fr-book-desc">Provides foundational context for speech and liberty debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=On+Liberty+by+John+Stuart+Mill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational context for speech and liberty debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=On+Liberty+by+John+Stuart+Mill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Useful for analyzing rights-language arguments carefully.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for analyzing rights-language arguments carefully.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz09huOeEJcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tracy Bowell, Gary Kemp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz09huOeEJcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tracy Bowell, Gary Kemp</p>
         
-        <p class="fr-book-desc">Helps identify equivocation around words like right and freedom.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify equivocation around words like right and freedom.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Shows how arguments fail when key terms shift meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how arguments fail when key terms shift meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+Liberty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On Liberty</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=On+Liberty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On Liberty</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hAIAAeSwoP9p1T3N/s-l225.jpg" alt="Listing image for Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hAIAAeSwoP9p1T3N/s-l225.jpg" alt="Listing image for Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1"><img src="https://i.ebayimg.com/images/g/kbgAAeSw4XVopdkg/s-l225.jpg" alt="Listing image for Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1"><img src="https://i.ebayimg.com/images/g/kbgAAeSw4XVopdkg/s-l225.jpg" alt="Listing image for Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FREE SPEECH Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/teoAAeSw4ExpwYDL/s-l225.jpg" alt="Listing image for FREE SPEECH Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">FREE SPEECH Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FREE SPEECH Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/teoAAeSw4ExpwYDL/s-l225.jpg" alt="Listing image for FREE SPEECH Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">FREE SPEECH Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100"><img src="https://i.ebayimg.com/images/g/clEAAOSw2aJjQik4/s-l225.jpg" alt="Listing image for FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100"><img src="https://i.ebayimg.com/images/g/clEAAOSw2aJjQik4/s-l225.jpg" alt="Listing image for FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -622,7 +622,7 @@ When legal protection, moral entitlement, social permission, and immunity from c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -642,7 +642,7 @@ When legal protection, moral entitlement, social permission, and immunity from c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -674,7 +674,7 @@ When legal protection, moral entitlement, social permission, and immunity from c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -726,7 +726,7 @@ When legal protection, moral entitlement, social permission, and immunity from c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -771,7 +771,7 @@ When legal protection, moral entitlement, social permission, and immunity from c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -812,101 +812,101 @@ When legal protection, moral entitlement, social permission, and immunity from c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/freedom-speech/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/freedom-speech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court has set a new standard for determining if public officials acted in a governmental capacity when blocking critics on social...</p></details>
+   Link:<a href="https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court has set a new standard for determining if public officials acted in a governmental capacity when blocking critics on social...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: amnesty.org  
-   Link: <a href="https://www.amnesty.org/en/what-we-do/freedom-of-expression/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/what-we-do/freedom-of-expression/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amnesty InternationalFreedom of ExpressionYou have the right to say what you think, share information and demand a better world. You also...</p></details>
+   Link:<a href="https://www.amnesty.org/en/what-we-do/freedom-of-expression/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/what-we-do/freedom-of-expression/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amnesty InternationalFreedom of ExpressionYou have the right to say what you think, share information and demand a better world. You also...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: athena.unibo.it  
-   Link: <a href="https://athena.unibo.it/article/download/15655/16492/68792" target="_blank" rel="noopener noreferrer nofollow">https://athena.unibo.it/article/download/15655/16492/68792</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Public Moral Instigation Against Inappropriate Free...July 5, 2023 — My aim in this article is to show that cancel culture is sel...</p></details>
+   Link:<a href="https://athena.unibo.it/article/download/15655/16492/68792" target="_blank" rel="noopener noreferrer nofollow">https://athena.unibo.it/article/download/15655/16492/68792</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Public Moral Instigation Against Inappropriate Free...July 5, 2023 — My aim in this article is to show that cancel culture is sel...</p></details>
    Published: July 5, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: constitutioncenter.org  
-   Link: <a href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow">https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</p></details>
+   Link:<a href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow">https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ala.org  
-   Link: <a href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow">https://www.ala.org/advocacy/intfreedom/censorship</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Amendment only prevents government restrictions on speech. It does not...Read more...</p></details>
+   Link:<a href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow">https://www.ala.org/advocacy/intfreedom/censorship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First Amendment only prevents government restrictions on speech. It does not...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis-2024-7" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis-2024-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These cases—NetChoice v. Paxton in Texas and Moody v. NetChoice in Florida—involved laws limiting social-media companies from censoring c...</p></details>
+   Link:<a href="https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These cases—NetChoice v. Paxton in Texas and Moody v. NetChoice in Florida—involved laws limiting social-media companies from censoring c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Freedom of speech  
-   Link: <a href="https://en.wikipedia.org/wiki/Freedom_of_speech" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freedom_of_speech</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of speechFreedom of speech is a principle that supports the freedom of an individual or a community to articulate their opinio...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Freedom_of_speech" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freedom_of_speech</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of speechFreedom of speech is a principle that supports the freedom of an individual or a community to articulate their opinio...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uscourts.gov  
-   Link: <a href="https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United States CourtsWhat Does Free Speech Mean?“Congress shall make no law...abridging freedom of speech.” Freedom of speech includes the...</p></details>
+   Link:<a href="https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States CourtsWhat Does Free Speech Mean?“Congress shall make no law...abridging freedom of speech.” Freedom of speech includes the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Decline of Freedom of Expression and Social  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10008147/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10008147/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Masferrer · 2023 · Cited by 56 — Freedom of expression is a fundamental part of living in a free and open society and, above all...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10008147/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10008147/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Masferrer · 2023 · Cited by 56 — Freedom of expression is a fundamental part of living in a free and open society and, above all...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: acludc.org  
    Title: five ways first amendment protects your speech and three ways it does not  
-   Link: <a href="https://www.acludc.org/news/five-ways-first-amendment-protects-your-speech-and-three-ways-it-does-not/" target="_blank" rel="noopener noreferrer nofollow">https://www.acludc.org/news/five-ways-first-amendment-protects-your-speech-and-three-ways-it-does-not/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five ways the First Amendment protects your speech15 Aug 2024 — The First Amendment of the US Constitution protects our fundamental right...</p></details>
+   Link:<a href="https://www.acludc.org/news/five-ways-first-amendment-protects-your-speech-and-three-ways-it-does-not/" target="_blank" rel="noopener noreferrer nofollow">https://www.acludc.org/news/five-ways-first-amendment-protects-your-speech-and-three-ways-it-does-not/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five ways the First Amendment protects your speech15 Aug 2024 — The First Amendment of the US Constitution protects our fundamental right...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: carnegieendowment.org  
-   Link: <a href="https://carnegieendowment.org/europe/strategic-europe/2026/06/taking-the-pulse-are-western-democracies-failing-free-speech" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/europe/strategic-europe/2026/06/taking-the-pulse-are-western-democracies-failing-free-speech</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, truth-seeking, pluralism, countering hate, and preventing violence.Read more...</p></details>
+   Link:<a href="https://carnegieendowment.org/europe/strategic-europe/2026/06/taking-the-pulse-are-western-democracies-failing-free-speech" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/europe/strategic-europe/2026/06/taking-the-pulse-are-western-democracies-failing-free-speech</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s, truth-seeking, pluralism, countering hate, and preventing violence.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aclu.org  
-   Link: <a href="https://www.aclu.org/news/free-speech/protecting-free-speech-in-the-face-of-government-retaliation" target="_blank" rel="noopener noreferrer nofollow">https://www.aclu.org/news/free-speech/protecting-free-speech-in-the-face-of-government-retaliation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Civil Liberties UnionProtecting Free Speech in the Face of Government...18 Sept 2025 — The First Amendment protects the rights...</p></details>
+   Link:<a href="https://www.aclu.org/news/free-speech/protecting-free-speech-in-the-face-of-government-retaliation" target="_blank" rel="noopener noreferrer nofollow">https://www.aclu.org/news/free-speech/protecting-free-speech-in-the-face-of-government-retaliation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Civil Liberties UnionProtecting Free Speech in the Face of Government...18 Sept 2025 — The First Amendment protects the rights...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TED/posts/your-right-to-free-speech-is-a-human-right-says-greg-lukianoff-heres-why-it-shou/1484717056561101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TED/posts/your-right-to-free-speech-is-a-human-right-says-greg-lukianoff-heres-why-it-shou/1484717056561101/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your right to free speech is a human right, says Greg...In the eyes of the law, freedom of speech is a legal protection, not a civil one...</p></details>
+   Link:<a href="https://www.facebook.com/TED/posts/your-right-to-free-speech-is-a-human-right-says-greg-lukianoff-heres-why-it-shou/1484717056561101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TED/posts/your-right-to-free-speech-is-a-human-right-says-greg-lukianoff-heres-why-it-shou/1484717056561101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your right to free speech is a human right, says Greg...In the eyes of the law, freedom of speech is a legal protection, not a civil one...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: United States free speech [exceptions](&#123;&#123; 'exceptions/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/United_States_free_speech_exceptions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_free_speech_exceptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States free speech exceptionsAs a general rule, lies are protected, with limited exceptions such as defamation, fraud, false ad...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_States_free_speech_exceptions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_free_speech_exceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States free speech exceptionsAs a general rule, lies are protected, with limited exceptions such as defamation, fraud, false ad...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: verfassungsblog.de  
    Title: turn against free speech america  
-   Link: <a href="https://verfassungsblog.de/turn-against-free-speech-america/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/turn-against-free-speech-america/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling Far and Fast21 Sept 2025 — Since the 1930s, when the Supreme Court first began to protect First Amendment rights, it has safeguar...</p></details>
+   Link:<a href="https://verfassungsblog.de/turn-against-free-speech-america/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/turn-against-free-speech-america/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falling Far and Fast21 Sept 2025 — Since the 1930s, when the Supreme Court first began to protect First Amendment rights, it has safeguar...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scholar.law.colorado.edu  
    Title: Most of Free Speech law rests  
-   Link: <a href="https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1417&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1417&amp;[context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>colorado.eduCensorship, Copyright, and Free Speech: Some Tentative...by CL Eisgruber · 2003 · Cited by 24 — In my view, there is a good...</p></details>
+   Link:<a href="https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1417&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1417&amp;[context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>colorado.eduCensorship, Copyright, and Free Speech: Some Tentative...by CL Eisgruber · 2003 · Cited by 24 — In my view, there is a good...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03906701.2022.2133406" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03906701.2022.2133406</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Hate speech or free speech: an ethical dilemma?by N Gorenc · 2022 · Cited by 48 — Freedom of opinion...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/03906701.2022.2133406" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03906701.2022.2133406</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Hate speech or free speech: an ethical dilemma?by N Gorenc · 2022 · Cited by 48 — Freedom of opinion...</p></details>

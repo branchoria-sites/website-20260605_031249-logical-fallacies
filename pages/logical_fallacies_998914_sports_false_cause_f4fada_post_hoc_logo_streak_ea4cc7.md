@@ -268,16 +268,16 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_ho
 
 ## Introduction
 
-A team unveils a new crest, alternate badge, or modernised logo. A month later, the club is on a losing streak. For many supporters, the sequence feels self-explanatory: the logo changed, then the defeats arrived, so the logo must have caused the slump. This is a classic example of the post hoc fallacy—assuming that because one event happened before another, it caused it. Timing can suggest a question worth investigating, but it does not by itself establish cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> Sports fans are especially vulnerable to this mistake because logos are highly visible symbols. A tactical error, injury crisis, or difficult run of fixtures is harder to see than a new badge printed on every shirt and social-media graphic. When emotions are running high, the most visible change can become the easiest target.
+A team unveils a new crest, alternate badge, or modernised logo. A month later, the club is on a losing streak. For many supporters, the sequence feels self-explanatory: the logo changed, then the defeats arrived, so the logo must have caused the slump. This is a classic example of the post hoc fallacy—assuming that because one event happened before another, it caused it. Timing can suggest a question worth investigating, but it does not by itself establish cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> Sports fans are especially vulnerable to this mistake because logos are highly visible symbols. A tactical error, injury crisis, or difficult run of fixtures is harder to see than a new badge printed on every shirt and social-media graphic. When emotions are running high, the most visible change can become the easiest target.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-1-dark.svg" | relative_url }}" alt="Post Hoc illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Sequence Feels Like Evidence
 
 The attraction of logo-causation claims is not irrational; it is rooted in how people naturally search for explanations.
 
-A logo change often arrives as a clear, memorable event. Fans can point to a specific launch date, compare old and new designs, and connect the redesign to debates about [tradition]({{ 'tradition/' | relative_url }}), ownership, or club identity. When disappointing results follow, the timeline appears neat and compelling. The human mind is generally more comfortable with a simple story than with a complex mix of injuries, recruitment decisions, tactical adjustments, luck, and opponent quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Post hoc ergo propter hoc</span><span class="citation-popover-snippet">Post hoc ergo propter hoc</span></span></span>
+A logo change often arrives as a clear, memorable event. Fans can point to a specific launch date, compare old and new designs, and connect the redesign to debates about [tradition]({{ 'tradition/' | relative_url }}), ownership, or club identity. When disappointing results follow, the timeline appears neat and compelling. The human mind is generally more comfortable with a simple story than with a complex mix of injuries, recruitment decisions, tactical adjustments, luck, and opponent quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Post hoc ergo propter hoc</span><span class="citation-popover-snippet">Post hoc ergo propter hoc</span></span></span>
 
-Sports branding research helps explain why logo changes attract such attention. Studies of team logo redesigns consistently find that supporters can react strongly to rebranding efforts, particularly when identification with the club is high. Changes influence attitudes toward the brand, merchandise, and perceptions of the organisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
+Sports branding research helps explain why logo changes attract such attention. Studies of team logo redesigns consistently find that supporters can react strongly to rebranding efforts, particularly when identification with the club is high. Changes influence attitudes toward the brand, merchandise, and perceptions of the organisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
 
 That emotional significance, however, does not automatically translate into competitive consequences. A fan may dislike a crest and still be watching the same players, coach, and tactical system.
 
@@ -285,7 +285,7 @@ That emotional significance, however, does not automatically translate into comp
 
 The central mistake is treating chronology as proof.
 
-The fact that losses followed a logo change establishes only that the two events occurred in that order. It does not show that the redesign altered match outcomes. Statistically, [association]({{ 'association/' | relative_url }}) and causation are different concepts. Two events can occur together—or one after the other—without one producing the other. Australian Bureau of Statistics <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmp.com">[JMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmp.com</span><span class="citation-popover-snippet">Introduction to StatisticsCorrelation is a statistical measure that expresses the extent to which two variables change together at a cons...</span></span></span>
+The fact that losses followed a logo change establishes only that the two events occurred in that order. It does not show that the redesign altered match outcomes. Statistically, [association]({{ 'association/' | relative_url }}) and causation are different concepts. Two events can occur together—or one after the other—without one producing the other. Australian Bureau of Statistics<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmp.com">[JMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmp.com</span><span class="citation-popover-snippet">Introduction to StatisticsCorrelation is a statistical measure that expresses the extent to which two variables change together at a cons...</span></span></span>
 
 Consider a football club that introduces a new crest before the season and then struggles through its first ten matches. Many alternative explanations could exist:
 
@@ -309,7 +309,7 @@ Importantly, the post hoc mistake can occur even when supporters identify a real
 
 Avoiding the post hoc fallacy does not require claiming that branding can never influence performance.
 
-A redesign could theoretically have indirect effects if it becomes part of a wider organisational conflict. For example, a deeply unpopular rebrand might damage trust between supporters and club leadership, create negative media attention, or contribute to a sense of instability. Research on sport rebranding shows that fan attitudes toward rebranding can influence loyalty and brand perceptions, particularly among highly identified supporters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>, this is a much stronger and more demanding claim than "the team started losing after the logo changed." To establish such a connection, evidence would be needed showing a plausible mechanism linking the branding decision to morale, behaviour, or organisational effectiveness. Timing alone is insufficient.
+A redesign could theoretically have indirect effects if it becomes part of a wider organisational conflict. For example, a deeply unpopular rebrand might damage trust between supporters and club leadership, create negative media attention, or contribute to a sense of instability. Research on sport rebranding shows that fan attitudes toward rebranding can influence loyalty and brand perceptions, particularly among highly identified supporters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>, this is a much stronger and more demanding claim than "the team started losing after the logo changed." To establish such a connection, evidence would be needed showing a plausible mechanism linking the branding decision to morale, behaviour, or organisational effectiveness. Timing alone is insufficient.
 
 The distinction matters because post hoc reasoning skips over the mechanism. It jumps directly from sequence to causation without demonstrating how the supposed cause produced the outcome.
 
@@ -324,7 +324,7 @@ This process is reinforced by selective memory. Fans remember the redesigns that
 The result is a self-reinforcing narrative:
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-2-dark.svg" | relative_url }}" alt="Post Hoc illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-1. The logo changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</span></span></span>
+1. The logo changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</span></span></span>
 2. The team struggles.
 3. The timing is interpreted as proof.
 4. Every subsequent defeat appears to confirm the theory.
@@ -354,278 +354,278 @@ If a club changed its logo and immediately won ten matches, many observers would
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-dark.svg" | relative_url }}" alt="Post Hoc illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Is there evidence beyond the sequence of events?
 
-The strongest causal claims require more than chronology. They need evidence that the proposed cause actually influenced the outcome. Without that additional support, the argument remains a post hoc inference rather than a demonstrated explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The strongest causal claims require more than chronology. They need evidence that the proposed cause actually influenced the outcome. Without that additional support, the argument remains a post hoc inference rather than a demonstrated explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 ## The Better Interpretation
 
-A logo change followed by poor results may be emotionally satisfying as an explanation, but it is rarely persuasive as evidence. Sports branding research shows that redesigns can affect fan attitudes, loyalty, and perceptions of club identity. What it does not show is that a badge automatically determines wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
+A logo change followed by poor results may be emotionally satisfying as an explanation, but it is rarely persuasive as evidence. Sports branding research shows that redesigns can affect fan attitudes, loyalty, and perceptions of club identity. What it does not show is that a badge automatically determines wins and losses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
 
-The post hoc mistake arises when supporters treat sequence as proof. The crest appeared first, the defeats came later, therefore the crest caused the defeats. In reality, chronology identifies a coincidence that may deserve investigation. It does not, by itself, establish a cause-and-effect relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The post hoc mistake arises when supporters treat sequence as proof. The crest appeared first, the defeats came later, therefore the crest caused the defeats. In reality, chronology identifies a coincidence that may deserve investigation. It does not, by itself, establish a cause-and-effect relationship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Logo Really Cause the Losing Streak?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Logo Really Cause the Losing Streak?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses post hoc reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses post hoc reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts behind false cause claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts behind false cause claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scorecasting+by+Tobias+Moskowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scorecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0lSi_eCQvNwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Scorecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scorecasting+by+Tobias+Moskowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scorecasting">Scorecasting</a>
-        </h4>
-        <p class="fr-book-author">By Tobias Moskowitz, L. Jon Wertheim</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scorecasting+by+Tobias+Moskowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scorecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0lSi_eCQvNwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Scorecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scorecasting+by+Tobias+Moskowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scorecasting">Scorecasting</a>
+</h4>
+<p class="fr-book-author">By Tobias Moskowitz, L. Jon Wertheim</p>
         
-        <p class="fr-book-desc">Challenges common assumptions about sports outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scorecasting+by+Tobias+Moskowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Challenges common assumptions about sports outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scorecasting+by+Tobias+Moskowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Separates meaningful patterns from coincidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Separates meaningful patterns from coincidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scorecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scorecasting</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scorecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scorecasting</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Championship Baseball Team Logo Bas Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/49f58123e5b7ab19aec7.jpg' | relative_url }}" alt="Listing image for Championship Baseball Team Logo Bas Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Championship Baseball Team Logo Bas Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Championship Baseball Team Logo Bas Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/49f58123e5b7ab19aec7.jpg' | relative_url }}" alt="Listing image for Championship Baseball Team Logo Bas Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Championship Baseball Team Logo Bas Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NFL Helmet Team Logo Poster 260gsm various sizes"><img src="{{ '/assets/images/marketplace-covers/ed0b09d467727b884926.jpg' | relative_url }}" alt="Listing image for NFL Helmet Team Logo Poster 260gsm various sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">NFL Helmet Team Logo Poster 260gsm various sizes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NFL Helmet Team Logo Poster 260gsm various sizes"><img src="{{ '/assets/images/marketplace-covers/ed0b09d467727b884926.jpg' | relative_url }}" alt="Listing image for NFL Helmet Team Logo Poster 260gsm various sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">NFL Helmet Team Logo Poster 260gsm various sizes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e2f39c1ac653353fab2.jpg' | relative_url }}" alt="Listing image for Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e2f39c1ac653353fab2.jpg' | relative_url }}" alt="Listing image for Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd9a96ce1d8be158f4b6.jpg' | relative_url }}" alt="Listing image for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd9a96ce1d8be158f4b6.jpg' | relative_url }}" alt="Listing image for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=post-hoc-did-the-logo-really-cause-the-losing-streak-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -641,7 +641,7 @@ The post hoc mistake arises when supporters treat sequence as proof. The crest a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -661,7 +661,7 @@ The post hoc mistake arises when supporters treat sequence as proof. The crest a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -693,7 +693,7 @@ The post hoc mistake arises when supporters treat sequence as proof. The crest a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ The post hoc mistake arises when supporters treat sequence as proof. The crest a
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -781,116 +781,116 @@ The post hoc mistake arises when supporters treat sequence as proof. The crest a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Post hoc ergo propter hoc  
-   Link: <a href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: post hoc fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/post-hoc-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/post-hoc-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Through an experimental approach, the results...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Through an experimental approach, the results...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – logo rede...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – logo rede...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</p></details>
+   Link:<a href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jmp.com  
-   Link: <a href="https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation" target="_blank" rel="noopener noreferrer nofollow">https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to StatisticsCorrelation is a statistical measure that expresses the extent to which two variables change together at a cons...</p></details>
+   Link:<a href="https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation" target="_blank" rel="noopener noreferrer nofollow">https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to StatisticsCorrelation is a statistical measure that expresses the extent to which two variables change together at a cons...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Correlation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Correlation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CorrelationIn statistics, correlation is a type of statistical relationship between two random variables or bivariate data. It usually...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Correlation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Correlation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CorrelationIn statistics, correlation is a type of statistical relationship between two random variables or bivariate data. It usually...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/322235137_How_Do_Fans_React_When_Sports_Teams_Are_Named_After_Corporations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322235137_How_Do_Fans_React_When_Sports_Teams_Are_Named_After_Corporations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Fans React When Sports Teams Are Named After...PDF | The reaction to Red Bull naming its soccer teams after the corporation and p...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/322235137_How_Do_Fans_React_When_Sports_Teams_Are_Named_After_Corporations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322235137_How_Do_Fans_React_When_Sports_Teams_Are_Named_After_Corporations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Fans React When Sports Teams Are Named After...PDF | The reaction to Red Bull naming its soccer teams after the corporation and p...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/324019016_A_model_of_fans%27_reaction_to_resurrected_brands_of_sport_organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324019016_A_model_of_fans%27_reaction_to_resurrected_brands_of_sport_organizations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>te or hinder a favorable reaction of fans to the resurrection of sport club...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/324019016_A_model_of_fans%27_reaction_to_resurrected_brands_of_sport_organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324019016_A_model_of_fans%27_reaction_to_resurrected_brands_of_sport_organizations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>te or hinder a favorable reaction of fans to the resurrection of sport club...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribbr.co.uk  
    Title: rrelation Coefficient | Types, Formulas & Examples  
-   Link: <a href="https://www.scribbr.co.uk/stats/correlation-coefficient-meaning/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/stats/correlation-coefficient-meaning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rrelation Coefficient | Types, Formulas &amp; Examples - Scribbr17 Dec 2023 — A correlation coefficient is a number between -1 and 1 that t...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/stats/correlation-coefficient-meaning/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/stats/correlation-coefficient-meaning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rrelation Coefficient | Types, Formulas &amp; Examples - Scribbr17 Dec 2023 — A correlation coefficient is a number between -1 and 1 that t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/cause.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/cause.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Non Causa Pro Causa) with Many ExamplesCum hoc ergo propter hoc is an erroneous argument concluding one state of affairs causes another...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/cause.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/cause.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Non Causa Pro Causa) with Many ExamplesCum hoc ergo propter hoc is an erroneous argument concluding one state of affairs causes another...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
+   Link:<a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-[regression" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-[regression</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11. Correlation and regressionWe use correlation to denote association between two quantitative variables. We also assume that the associ...</p></details>
+   Link:<a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-[regression" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-[regression</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11. Correlation and regressionWe use correlation to denote association between two quantitative variables. We also assume that the associ...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: peachytutors.com  
-   Link: <a href="https://peachytutors.com/the-logical-fallacy-in-sports-examining-the-post-hoc-ergo-propter-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://peachytutors.com/the-logical-fallacy-in-sports-examining-the-post-hoc-ergo-propter-hoc-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the &quot;Post Hoc Ergo Propter Hoc&quot; FallacyThe Latin phrase “Post Hoc Ergo Propter Hoc” translates to “After this, therefore becaus...</p></details>
+   Link:<a href="https://peachytutors.com/the-logical-fallacy-in-sports-examining-the-post-hoc-ergo-propter-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://peachytutors.com/the-logical-fallacy-in-sports-examining-the-post-hoc-ergo-propter-hoc-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the &quot;Post Hoc Ergo Propter Hoc&quot; FallacyThe Latin phrase “Post Hoc Ergo Propter Hoc” translates to “After this, therefore becaus...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thilokunkel.com  
-   Link: <a href="https://www.thilokunkel.com/sport-team-brands/" target="_blank" rel="noopener noreferrer nofollow">https://www.thilokunkel.com/sport-team-brands/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Team BrandsBrand image refers to the perceptions about a brand as reflected by the brand associations held in consumer memory. Bran...</p></details>
+   Link:<a href="https://www.thilokunkel.com/sport-team-brands/" target="_blank" rel="noopener noreferrer nofollow">https://www.thilokunkel.com/sport-team-brands/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Team BrandsBrand image refers to the perceptions about a brand as reflected by the brand associations held in consumer memory. Bran...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: behance.net  
-   Link: <a href="https://www.behance.net/search/projects/sports%20logo%20redesign" target="_blank" rel="noopener noreferrer nofollow">https://www.behance.net/search/projects/sports%20logo%20redesign</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sports Logo Redesign ProjectsBehance is the world&#x27;s largest creative network for showcasing and discovering creative sports logo redesign...</p></details>
+   Link:<a href="https://www.behance.net/search/projects/sports%20logo%20redesign" target="_blank" rel="noopener noreferrer nofollow">https://www.behance.net/search/projects/sports%20logo%20redesign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sports Logo Redesign ProjectsBehance is the world&#x27;s largest creative network for showcasing and discovering creative sports logo redesign...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: effectiviology.com  
-   Link: <a href="https://effectiviology.com/post-hoc/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/post-hoc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Post Hoc Ergo Propter Hoc FallacyThis is based on the false premise that if one event happens before another, then the first event mu...</p></details>
+   Link:<a href="https://effectiviology.com/post-hoc/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/post-hoc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Post Hoc Ergo Propter Hoc FallacyThis is based on the false premise that if one event happens before another, then the first event mu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/higher-neurons/the-post-hoc-ergo-propter-hoc-fallacy-5c8d4ceb568a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/higher-neurons/the-post-hoc-ergo-propter-hoc-fallacy-5c8d4ceb568a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Post Hoc Ergo Propter Hoc Fallacy | by Myk EffThe “post hoc ergo propter hoc” fallacy is a common logical error that people commit wh...</p></details>
+   Link:<a href="https://medium.com/higher-neurons/the-post-hoc-ergo-propter-hoc-fallacy-5c8d4ceb568a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/higher-neurons/the-post-hoc-ergo-propter-hoc-fallacy-5c8d4ceb568a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Post Hoc Ergo Propter Hoc Fallacy | by Myk EffThe “post hoc ergo propter hoc” fallacy is a common logical error that people commit wh...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40noorfatimaafzalbutt/understanding-correlation-a-comprehensive-guide-b254be461b5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noorfatimaafzalbutt/understanding-correlation-a-comprehensive-guide-b254be461b5c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Correlation: A Comprehensive GuideCorrelation is a statistical measure that describes the extent to which two variables cha...</p></details>
+   Link:<a href="https://medium.com/%40noorfatimaafzalbutt/understanding-correlation-a-comprehensive-guide-b254be461b5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noorfatimaafzalbutt/understanding-correlation-a-comprehensive-guide-b254be461b5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Correlation: A Comprehensive GuideCorrelation is a statistical measure that describes the extent to which two variables cha...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: s-space.snu.ac.kr  
-   Link: <a href="https://s-space.snu.ac.kr/handle/10371/215619" target="_blank" rel="noopener noreferrer nofollow">https://s-space.snu.ac.kr/handle/10371/215619</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fans&#x27; Resistance Towards a Sports Team Rebranding...This study explores the impact of the rebranding of SK Wyverns to SSG Landers on fan...</p></details>
+   Link:<a href="https://s-space.snu.ac.kr/handle/10371/215619" target="_blank" rel="noopener noreferrer nofollow">https://s-space.snu.ac.kr/handle/10371/215619</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fans&#x27; Resistance Towards a Sports Team Rebranding...This study explores the impact of the rebranding of SK Wyverns to SSG Landers on fan...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: westga.edu  
-   Link: <a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>
+   Link:<a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>

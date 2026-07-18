@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecuto
 
 ## Introduction
 
-The prosecutor’s fallacy is a specific logical and probabilistic error that occurs when two different probability statements are treated as if they mean the same thing. In legal and forensic settings, the mistake can make evidence appear far more conclusive than it really is. The core confusion is between the probability of observing certain evidence if a person is innocent and the probability that the person is innocent given that evidence. Those are not equivalent questions, and treating them as equivalent can distort judgments about guilt, especially when the evidence is rare. The fallacy is often discussed as a specialised form of reversed conditional probability and has been linked to miscarriages of justice in several high-profile cases. CEBM PubMed Within the broader family of formal reasoning errors <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span>, the prosecutor’s fallacy matters because it creates an invalid inference structure. A low probability attached to one conditional statement is incorrectly transformed into a low probability attached to a different conditional statement, even though the second conclusion does not logically follow from the first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/DEMGBS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s</span><span class="citation-popover-snippet">The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s...February 14, 2010 — by N Sesardic · 2008 · Cited by 16 — The confusion o...</span><span class="citation-popover-meta">Published: February 14, 2010</span></span></span>
+The prosecutor’s fallacy is a specific logical and probabilistic error that occurs when two different probability statements are treated as if they mean the same thing. In legal and forensic settings, the mistake can make evidence appear far more conclusive than it really is. The core confusion is between the probability of observing certain evidence if a person is innocent and the probability that the person is innocent given that evidence. Those are not equivalent questions, and treating them as equivalent can distort judgments about guilt, especially when the evidence is rare. The fallacy is often discussed as a specialised form of reversed conditional probability and has been linked to miscarriages of justice in several high-profile cases. CEBM PubMed Within the broader family of formal reasoning errors<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span>, the prosecutor’s fallacy matters because it creates an invalid inference structure. A low probability attached to one conditional statement is incorrectly transformed into a low probability attached to a different conditional statement, even though the second conclusion does not logically follow from the first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/DEMGBS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s</span><span class="citation-popover-snippet">The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s...February 14, 2010 — by N Sesardic · 2008 · Cited by 16 — The confusion o...</span><span class="citation-popover-meta">Published: February 14, 2010</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-1-dark.svg" | relative_url }}" alt="Probability Trap illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Evidence Given Innocence Versus Innocence Given Evidence
@@ -290,18 +290,18 @@ The simplest way to understand the fallacy is to compare two questions:
 
 Although the questions sound similar, they ask fundamentally different things.
 
-Suppose a DNA profile found at a crime scene would match an innocent person only once in a million cases. That means the probability of the evidence appearing if the defendant is innocent is very small. It does **not** automatically mean there is only a one-in-a-million chance that the defendant is innocent. To reach that conclusion, additional information is required, including how many potential people could match and how likely guilt was before the DNA evidence was considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ishinews.com/bayes-theorem-can-statistics-help-guide-a-verdict-in-the-courtroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ishinews.com">[ISHI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ishinews.com</span><span class="citation-popover-snippet">Bayes&#x27; Theorem: Can Statistics Help Guide a Verdict in the...by CY Boss — The prosecution built a case on the DNA evidence, stating that...</span></span></span>
+Suppose a DNA profile found at a crime scene would match an innocent person only once in a million cases. That means the probability of the evidence appearing if the defendant is innocent is very small. It does **not** automatically mean there is only a one-in-a-million chance that the defendant is innocent. To reach that conclusion, additional information is required, including how many potential people could match and how likely guilt was before the DNA evidence was considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ishinews.com/bayes-theorem-can-statistics-help-guide-a-verdict-in-the-courtroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ishinews.com">[ISHI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ishinews.com</span><span class="citation-popover-snippet">Bayes&#x27; Theorem: Can Statistics Help Guide a Verdict in the...by CY Boss — The prosecution built a case on the DNA evidence, stating that...</span></span></span>
 
 The prosecutor’s fallacy occurs when someone argues:
 
 > The evidence would be extremely unlikely if the defendant were innocent; therefore the defendant is almost certainly guilty.
 
-This reasoning reverses the conditional probability. Researchers and legal statisticians have repeatedly identified this reversal as the defining feature of the prosecutor’s fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/DEMGBS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive Mathematically]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s</span><span class="citation-popover-snippet">The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s...February 14, 2010 — by N Sesardic · 2008 · Cited by 16 — The confusion o...</span><span class="citation-popover-meta">Published: February 14, 2010</span></span></span>, the error involves confusing:
+This reasoning reverses the conditional probability. Researchers and legal statisticians have repeatedly identified this reversal as the defining feature of the prosecutor’s fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/DEMGBS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive Mathematically]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s</span><span class="citation-popover-snippet">The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s...February 14, 2010 — by N Sesardic · 2008 · Cited by 16 — The confusion o...</span><span class="citation-popover-meta">Published: February 14, 2010</span></span></span>, the error involves confusing:
 
 * Probability of evidence given innocence.
 * Probability of innocence given evidence.
 
-These values can differ dramatically because they depend on different information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</span></span></span>
+These values can differ dramatically because they depend on different information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XxCEso0YvJQ" title="Sally Clark | What is the Prosecutor&#x27;s Fallacy? | Was Clark Wrongly Convicted by Bad Statistics?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XxCEso0YvJQ" target="_blank" rel="noopener noreferrer">Sally Clark | What is the Prosecutor&#x27;s Fallacy? | Was Clark Wrongly Convicted by Bad Statistics?</a></p><p class="youtube-embed-meta">Channel: Dr. Todd Grande &middot; Views: 74.6K &middot; Uploaded: March 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XxCEso0YvJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XxCEso0YvJQ">Open on YouTube</a></p></div></div></div>
 
@@ -309,23 +309,23 @@ These values can differ dramatically because they depend on different informatio
 
 The practical danger emerges when rare evidence is presented to a jury.
 
-Imagine a city with ten million residents. Investigators discover a DNA profile that would randomly match only one person in a million. Even if the defendant matches, statistical reasoning does not automatically identify that person as the offender. Across a population of ten million, roughly ten people could be expected to match purely by chance. The DNA evidence narrows the field substantially, but it does not by itself eliminate alternative possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joelvelasco.net">[joelvelasco.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joelvelasco.net</span><span class="citation-popover-title">Interpretation of statistical evidence in criminal trials</span><span class="citation-popover-snippet">November 8, 2011 — by WC Thompsont · Cited by 732 — Presenting the data in this manner probably led more subjects to commit the Prosecuto...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>
+Imagine a city with ten million residents. Investigators discover a DNA profile that would randomly match only one person in a million. Even if the defendant matches, statistical reasoning does not automatically identify that person as the offender. Across a population of ten million, roughly ten people could be expected to match purely by chance. The DNA evidence narrows the field substantially, but it does not by itself eliminate alternative possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joelvelasco.net">[joelvelasco.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joelvelasco.net</span><span class="citation-popover-title">Interpretation of statistical evidence in criminal trials</span><span class="citation-popover-snippet">November 8, 2011 — by WC Thompsont · Cited by 732 — Presenting the data in this manner probably led more subjects to commit the Prosecuto...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>
 
-This illustrates a broader point: evidence can be highly incriminating without being decisive. The prosecutor’s fallacy converts “strong evidence” into “proof” by ignoring competing explanations and background probabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">Because the prosecutor&#x27;s fallacy...Read more...</span></span></span>
+This illustrates a broader point: evidence can be highly incriminating without being decisive. The prosecutor’s fallacy converts “strong evidence” into “proof” by ignoring competing explanations and background probabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">Because the prosecutor&#x27;s fallacy...Read more...</span></span></span>
 
-The error also appears outside DNA evidence. Any forensic test that produces a low false-positive rate can be misunderstood in the same way. A statement such as “only one innocent person in ten thousand would produce this result” may sound overwhelming, but it does not answer the separate question of how likely innocence remains after considering the result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span>
+The error also appears outside DNA evidence. Any forensic test that produces a low false-positive rate can be misunderstood in the same way. A statement such as “only one innocent person in ten thousand would produce this result” may sound overwhelming, but it does not answer the separate question of how likely innocence remains after considering the result.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span>
 
-Because jurors and lawyers often encounter probabilities in unfamiliar contexts, statistical organisations have produced guidance specifically warning against this reversal. The Royal Statistical Society and other scientific bodies have repeatedly emphasised that experts should describe the weight of evidence without equating it directly with guilt probabilities. RSS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icca.ac.uk/wp-content/uploads/2019/11/RSS-Guide-to-Statistics-and-Probability-for-Advocates.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icca.ac.uk">[ICCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icca.ac.uk</span><span class="citation-popover-snippet">Statistics and probability for advocatesThe Royal Statistical Society started to work on statistics and the law following a number of cou...</span></span></span>
+Because jurors and lawyers often encounter probabilities in unfamiliar contexts, statistical organisations have produced guidance specifically warning against this reversal. The Royal Statistical Society and other scientific bodies have repeatedly emphasised that experts should describe the weight of evidence without equating it directly with guilt probabilities. RSS<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icca.ac.uk/wp-content/uploads/2019/11/RSS-Guide-to-Statistics-and-Probability-for-Advocates.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icca.ac.uk">[ICCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icca.ac.uk</span><span class="citation-popover-snippet">Statistics and probability for advocatesThe Royal Statistical Society started to work on statistics and the law following a number of cou...</span></span></span>
 
 ## The Sally Clark Case as a Cautionary Example
 
-One of the most frequently cited examples is the case of Sally Clark in England. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sally Clark</span><span class="citation-popover-snippet">Sally Clark</span></span></span>
+One of the most frequently cited examples is the case of Sally Clark in England.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sally Clark</span><span class="citation-popover-snippet">Sally Clark</span></span></span>
 
-During her 1999 trial for the deaths of her two infant sons, expert testimony suggested that the probability of two sudden infant death syndrome (SIDS) deaths occurring in a family like hers was approximately one in seventy-three million. The figure became highly influential in public discussion and courtroom reasoning. Critics later argued that the statistic was flawed and, more importantly, that it encouraged a prosecutor’s-fallacy interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sally Clark</span><span class="citation-popover-snippet">Sally Clark</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccrc.gov.uk/decision/clark-sally/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccrc.gov.uk">[Criminal Cases Review Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccrc.gov.uk</span><span class="citation-popover-title">clark sally</span><span class="citation-popover-snippet">Criminal Cases Review CommissionClark, Sally9 Sept 2024 — Sally Clark was convicted in November 1999 of murder and received a sentence of...</span><span class="citation-popover-meta">Published: November 1999</span></span></span>
+During her 1999 trial for the deaths of her two infant sons, expert testimony suggested that the probability of two sudden infant death syndrome (SIDS) deaths occurring in a family like hers was approximately one in seventy-three million. The figure became highly influential in public discussion and courtroom reasoning. Critics later argued that the statistic was flawed and, more importantly, that it encouraged a prosecutor’s-fallacy interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sally Clark</span><span class="citation-popover-snippet">Sally Clark</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccrc.gov.uk/decision/clark-sally/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccrc.gov.uk">[Criminal Cases Review Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccrc.gov.uk</span><span class="citation-popover-title">clark sally</span><span class="citation-popover-snippet">Criminal Cases Review CommissionClark, Sally9 Sept 2024 — Sally Clark was convicted in November 1999 of murder and received a sentence of...</span><span class="citation-popover-meta">Published: November 1999</span></span></span>
 
-Even if a rare double-SIDS event were extremely unlikely, that would not automatically establish that murder was the more probable explanation. The relevant comparison was not simply “rare event versus guilt.” Instead, the jury needed to compare the likelihood of competing explanations, including the rarity of multiple infant murders. Statisticians subsequently criticised the way the probability evidence was presented and interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base rate fallacy</span><span class="citation-popover-snippet">Base rate fallacy</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</span></span></span>
+Even if a rare double-SIDS event were extremely unlikely, that would not automatically establish that murder was the more probable explanation. The relevant comparison was not simply “rare event versus guilt.” Instead, the jury needed to compare the likelihood of competing explanations, including the rarity of multiple infant murders. Statisticians subsequently criticised the way the probability evidence was presented and interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base rate fallacy</span><span class="citation-popover-snippet">Base rate fallacy</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</span></span></span>
 
-The case became a landmark example in discussions of statistical evidence because it demonstrated how a striking numerical claim can appear to settle a question that the number alone cannot answer. The Royal Statistical Society publicly expressed concern about the misuse of statistics in court proceedings connected with the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sally Clark</span><span class="citation-popover-snippet">Sally Clark</span></span></span>
+The case became a landmark example in discussions of statistical evidence because it demonstrated how a striking numerical claim can appear to settle a question that the number alone cannot answer. The Royal Statistical Society publicly expressed concern about the misuse of statistics in court proceedings connected with the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sally Clark</span><span class="citation-popover-snippet">Sally Clark</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-2-dark.svg" | relative_url }}" alt="Probability Trap illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Base Rates Matter
@@ -334,7 +334,7 @@ A key reason the prosecutor’s fallacy is persuasive is that people naturally f
 
 This is known as neglecting the base rate. The base rate is the background frequency of relevant events before the new evidence is considered.
 
-Consider a medical screening test that incorrectly identifies one healthy person in a thousand as ill. Many people assume a positive result means there is a 99.9% chance of illness. In reality, the answer depends heavily on how common the illness is in the population. If the disease itself is extremely rare, many positive results may still be false positives. The same logic applies to forensic evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base rate fallacy</span><span class="citation-popover-snippet">Base rate fallacy</span></span></span>
+Consider a medical screening test that incorrectly identifies one healthy person in a thousand as ill. Many people assume a positive result means there is a 99.9% chance of illness. In reality, the answer depends heavily on how common the illness is in the population. If the disease itself is extremely rare, many positive results may still be false positives. The same logic applies to forensic evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base rate fallacy</span><span class="citation-popover-snippet">Base rate fallacy</span></span></span>
 
 In criminal cases, relevant base rates may include:
 
@@ -347,7 +347,7 @@ In criminal cases, relevant base rates may include:
 
 </div>
 
-Ignoring these background frequencies encourages the mistaken leap from “rare evidence” to “near-certain guilt.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1355030625001364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Does explaining the meaning of likelihood ratios improve...by WC Thompson · 2025 · Cited by 1 — The expert witness explaine...</span></span></span>
+Ignoring these background frequencies encourages the mistaken leap from “rare evidence” to “near-certain guilt.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1355030625001364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Does explaining the meaning of likelihood ratios improve...by WC Thompson · 2025 · Cited by 1 — The expert witness explaine...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-3-dark.svg" | relative_url }}" alt="Probability Trap illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Simple Ways to Explain Base Rates and Alternatives
@@ -362,7 +362,7 @@ A clearer explanation might be:
 
 > In a population of ten million people, around ten individuals might be expected to match this profile by chance.
 
-The second statement encourages consideration of alternative matches rather than implying a single inevitable culprit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joelvelasco.net">[joelvelasco.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joelvelasco.net</span><span class="citation-popover-title">Interpretation of statistical evidence in criminal trials</span><span class="citation-popover-snippet">November 8, 2011 — by WC Thompsont · Cited by 732 — Presenting the data in this manner probably led more subjects to commit the Prosecuto...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>
+The second statement encourages consideration of alternative matches rather than implying a single inevitable culprit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joelvelasco.net">[joelvelasco.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joelvelasco.net</span><span class="citation-popover-title">Interpretation of statistical evidence in criminal trials</span><span class="citation-popover-snippet">November 8, 2011 — by WC Thompsont · Cited by 732 — Presenting the data in this manner probably led more subjects to commit the Prosecuto...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>
 
 Another useful approach is to ask two separate questions:
 
@@ -371,171 +371,171 @@ Another useful approach is to ask two separate questions:
 1. How strongly does the evidence support the prosecution’s explanation?
 2. What other explanations remain plausible?
 
-Modern forensic guidance often frames evidence in terms of how much more likely it is under one hypothesis than another, rather than presenting a single probability that appears to answer the entire question of guilt. This helps keep the focus on evidential weight rather than on an invalid reversal of conditional probabilities. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rss.org.uk/RSS/media/File-library/Publications/rss-case-assessment-interpretation-expert-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rss.org.uk">[RSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rss.org.uk</span><span class="citation-popover-snippet">Case Assessment and Interpretation of Expert Evidenceby G Jackson · Cited by 59 — Building on the general introduction to statistic...</span></span></span>
+Modern forensic guidance often frames evidence in terms of how much more likely it is under one hypothesis than another, rather than presenting a single probability that appears to answer the entire question of guilt. This helps keep the focus on evidential weight rather than on an invalid reversal of conditional probabilities. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://rss.org.uk/RSS/media/File-library/Publications/rss-case-assessment-interpretation-expert-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rss.org.uk">[RSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rss.org.uk</span><span class="citation-popover-snippet">Case Assessment and Interpretation of Expert Evidenceby G Jackson · Cited by 59 — Building on the general introduction to statistic...</span></span></span>
 
 ## Why This Fallacy Remains Important
 
 The prosecutor’s fallacy remains one of the most influential probability errors in legal reasoning because it exploits an intuitive but incorrect shortcut. People naturally assume that if evidence would be very unlikely under innocence, innocence itself must be very unlikely. Logic and probability theory show that this inference does not follow.
 
-Rare evidence can be powerful. DNA matches, forensic traces, and unusual statistical patterns may substantially strengthen a case. The fallacy arises only when the rarity of the evidence is treated as though it directly measures the probability of guilt. Distinguishing between those two claims is essential for fair legal reasoning, accurate interpretation of forensic science, and protection against wrongful convictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">Because the prosecutor&#x27;s fallacy...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span>
+Rare evidence can be powerful. DNA matches, forensic traces, and unusual statistical patterns may substantially strengthen a case. The fallacy arises only when the rarity of the evidence is treated as though it directly measures the probability of guilt. Distinguishing between those two claims is essential for fair legal reasoning, accurate interpretation of forensic science, and protection against wrongful convictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">Because the prosecutor&#x27;s fallacy...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Rare Evidence Misleads a Jury. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Rare Evidence Misleads a Jury. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Explains probability, risk, base rates, and evidence interpretation central to the prosecutor&#x27;s fallacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains probability, risk, base rates, and evidence interpretation central to the prosecutor&#x27;s fallacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how people misjudge probabilities and draw faulty conclusions from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how people misjudge probabilities and draw faulty conclusions from evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Demonstrates how numerical claims can mislead when interpreted incorrectly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how numerical claims can mislead when interpreted incorrectly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D-zFbo5GS9IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
-        </h4>
-        <p class="fr-book-author">By Leonard Mlodinow</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D-zFbo5GS9IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
+</h4>
+<p class="fr-book-author">By Leonard Mlodinow</p>
         
-        <p class="fr-book-desc">Helps readers understand rare events and probabilistic reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand rare events and probabilistic reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Case Closed - Detective Conan :Forensic Science Exhibition Promo Poster 2 Set"><img src="{{ '/assets/images/marketplace-covers/ce20b5cb8a0d85a9e854.jpg' | relative_url }}" alt="Listing image for Case Closed - Detective Conan :Forensic Science Exhibition Promo Poster 2 Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Case Closed - Detective Conan :Forensic Science Exhibition Promo Poster 2 Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forensic science poster">Search <span data-ebay-domain-label>eBay.com</span>: forensic science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Case Closed - Detective Conan :Forensic Science Exhibition Promo Poster 2 Set"><img src="{{ '/assets/images/marketplace-covers/ce20b5cb8a0d85a9e854.jpg' | relative_url }}" alt="Listing image for Case Closed - Detective Conan :Forensic Science Exhibition Promo Poster 2 Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Case Closed - Detective Conan :Forensic Science Exhibition Promo Poster 2 Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forensic science poster">Search<span data-ebay-domain-label>eBay.com</span>: forensic science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I like Forensic Science and maybe 3 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/03027960ff9778b1f713.jpg' | relative_url }}" alt="Listing image for I like Forensic Science and maybe 3 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I like Forensic Science and maybe 3 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forensic science poster">Search <span data-ebay-domain-label>eBay.com</span>: forensic science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I like Forensic Science and maybe 3 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/03027960ff9778b1f713.jpg' | relative_url }}" alt="Listing image for I like Forensic Science and maybe 3 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I like Forensic Science and maybe 3 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forensic science poster">Search<span data-ebay-domain-label>eBay.com</span>: forensic science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crime Light Kit Patent Wall Art: Detective Gift, Forensic Science, Police Decor"><img src="{{ '/assets/images/marketplace-covers/da539517bd6fed9ed1d9.jpg' | relative_url }}" alt="Listing image for Crime Light Kit Patent Wall Art: Detective Gift, Forensic Science, Police Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Crime Light Kit Patent Wall Art: Detective Gift, Forensic Science, Police Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forensic science poster">Search <span data-ebay-domain-label>eBay.com</span>: forensic science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crime Light Kit Patent Wall Art: Detective Gift, Forensic Science, Police Decor"><img src="{{ '/assets/images/marketplace-covers/da539517bd6fed9ed1d9.jpg' | relative_url }}" alt="Listing image for Crime Light Kit Patent Wall Art: Detective Gift, Forensic Science, Police Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Crime Light Kit Patent Wall Art: Detective Gift, Forensic Science, Police Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forensic science poster">Search<span data-ebay-domain-label>eBay.com</span>: forensic science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=forensic+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=probability-trap-when-rare-evidence-misleads-a-jury-logical-fallacies-forensic-science-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ Rare evidence can be powerful. DNA matches, forensic traces, and unusual statist
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ Rare evidence can be powerful. DNA matches, forensic traces, and unusual statist
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ Rare evidence can be powerful. DNA matches, forensic traces, and unusual statist
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ Rare evidence can be powerful. DNA matches, forensic traces, and unusual statist
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -691,144 +691,144 @@ Rare evidence can be powerful. DNA matches, forensic traces, and unusual statist
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cebm.ox.ac.uk  
    Title: the prosecutors fallacy  
-   Link: <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</p></details>
+   Link:<a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Because the prosecutor&#x27;s fallacy...Read more...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because the prosecutor&#x27;s fallacy...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: philarchive.org  
    Title: Phil Archive The “prosecutor's fallacy” and the “interrogator's  
-   Link: <a href="https://philarchive.org/archive/DEMGBS" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/DEMGBS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s...February 14, 2010 — by N Sesardic · 2008 · Cited by 16 — The confusion o...</p></details>
+   Link:<a href="https://philarchive.org/archive/DEMGBS" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/DEMGBS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s...February 14, 2010 — by N Sesardic · 2008 · Cited by 16 — The confusion o...</p></details>
    Published: February 14, 2010  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: joelvelasco.net  
    Title: Interpretation of statistical evidence in criminal trials  
-   Link: <a href="https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf" target="_blank" rel="noopener noreferrer nofollow">https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 8, 2011 — by WC Thompsont · Cited by 732 — Presenting the data in this manner probably led more subjects to commit the Prosecuto...</p></details>
+   Link:<a href="https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf" target="_blank" rel="noopener noreferrer nofollow">https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 8, 2011 — by WC Thompsont · Cited by 732 — Presenting the data in this manner probably led more subjects to commit the Prosecuto...</p></details>
    Published: November 8, 2011  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1355030625001364" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1355030625001364</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does explaining the meaning of likelihood ratios improve...by WC Thompson · 2025 · Cited by 1 — The expert witness explaine...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1355030625001364" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1355030625001364</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does explaining the meaning of likelihood ratios improve...by WC Thompson · 2025 · Cited by 1 — The expert witness explaine...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: icca.ac.uk  
-   Link: <a href="https://www.icca.ac.uk/wp-content/uploads/2019/11/RSS-Guide-to-Statistics-and-Probability-for-Advocates.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icca.ac.uk/wp-content/uploads/2019/11/RSS-Guide-to-Statistics-and-Probability-for-Advocates.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics and probability for advocatesThe Royal Statistical Society started to work on statistics and the law following a number of cou...</p></details>
+   Link:<a href="https://www.icca.ac.uk/wp-content/uploads/2019/11/RSS-Guide-to-Statistics-and-Probability-for-Advocates.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icca.ac.uk/wp-content/uploads/2019/11/RSS-Guide-to-Statistics-and-Probability-for-Advocates.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics and probability for advocatesThe Royal Statistical Society started to work on statistics and the law following a number of cou...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Sally Clark  
-   Link: <a href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sally_Clark</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sally_Clark</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=9.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=9.2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University7.2 The statistical evidence | OpenLearnA large number of mistakes were committed by the prosecution expert Sir Roy Me...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=9.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=9.2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University7.2 The statistical evidence | OpenLearnA large number of mistakes were committed by the prosecution expert Sir Roy Me...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Base rate fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S135503069872101X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S135503069872101X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W.C. Thompson, E.L. Schumann. Interpretation of statistical evidence in criminal trials. The prosecutor&#x27;s fallacy and the defence attorne...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S135503069872101X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S135503069872101X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W.C. Thompson, E.L. Schumann. Interpretation of statistical evidence in criminal trials. The prosecutor&#x27;s fallacy and the defence attorne...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect What is the best way to present likelihood ratios?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1355030625001261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1355030625001261</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by GS Morrison · 2025 · Cited by 2 — The likelihood-ratio framework is advocated as the logically correct framework for evalu...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1355030625001261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1355030625001261</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by GS Morrison · 2025 · Cited by 2 — The likelihood-ratio framework is advocated as the logically correct framework for evalu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11848139/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11848139/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: royalsociety.org  
    Title: science and law statistics primer  
-   Link: <a href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</p></details>
+   Link:<a href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ishinews.com  
-   Link: <a href="https://www.ishinews.com/bayes-theorem-can-statistics-help-guide-a-verdict-in-the-courtroom/" target="_blank" rel="noopener noreferrer nofollow">https://www.ishinews.com/bayes-theorem-can-statistics-help-guide-a-verdict-in-the-courtroom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bayes&#x27; Theorem: Can Statistics Help Guide a Verdict in the...by CY Boss — The prosecution built a case on the DNA evidence, stating that...</p></details>
+   Link:<a href="https://www.ishinews.com/bayes-theorem-can-statistics-help-guide-a-verdict-in-the-courtroom/" target="_blank" rel="noopener noreferrer nofollow">https://www.ishinews.com/bayes-theorem-can-statistics-help-guide-a-verdict-in-the-courtroom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bayes&#x27; Theorem: Can Statistics Help Guide a Verdict in the...by CY Boss — The prosecution built a case on the DNA evidence, stating that...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ccrc.gov.uk  
    Title: clark sally  
-   Link: <a href="https://ccrc.gov.uk/decision/clark-sally/" target="_blank" rel="noopener noreferrer nofollow">https://ccrc.gov.uk/decision/clark-sally/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Criminal Cases Review CommissionClark, Sally9 Sept 2024 — Sally Clark was convicted in November 1999 of murder and received a sentence of...</p></details>
+   Link:<a href="https://ccrc.gov.uk/decision/clark-sally/" target="_blank" rel="noopener noreferrer nofollow">https://ccrc.gov.uk/decision/clark-sally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Criminal Cases Review CommissionClark, Sally9 Sept 2024 — Sally Clark was convicted in November 1999 of murder and received a sentence of...</p></details>
    Published: November 1999  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.03217v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.03217v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy and Expert Testimony: A Modern...5 Feb 2025 — The prosecutor&#x27;s fallacy is a fallacy of statistical reasoni...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.03217v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.03217v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy and Expert Testimony: A Modern...5 Feb 2025 — The prosecutor&#x27;s fallacy is a fallacy of statistical reasoni...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1121945/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1121945/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>case of murder and the BMJ - PMC - NIHby R Meadow · 2002 · Cited by 28 — Sally Clark, a 34 year old mother, was convicted in 1999 of the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1121945/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1121945/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>case of murder and the BMJ - PMC - NIHby R Meadow · 2002 · Cited by 28 — Sally Clark, a 34 year old mother, was convicted in 1999 of the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4934658/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4934658/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the Law - PMCby N Fenton · 2016 · Cited by 110 — A prosecutor might state, for example, that “the probability the defendant was not t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4934658/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4934658/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the Law - PMCby N Fenton · 2016 · Cited by 110 — A prosecutor might state, for example, that “the probability the defendant was not t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dcscience.net  
    Title: statistics and the law the prosecutors fallacy  
-   Link: <a href="https://www.dcscience.net/2016/03/22/statistics-and-the-law-the-prosecutors-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.dcscience.net/2016/03/22/statistics-and-the-law-the-prosecutors-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DC&#x27;s Improbable ScienceStatistics and the law: the prosecutor&#x27;s fallacy22 Mar 2016 — The false positive risk means the proportion of case...</p></details>
+   Link:<a href="https://www.dcscience.net/2016/03/22/statistics-and-the-law-the-prosecutors-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.dcscience.net/2016/03/22/statistics-and-the-law-the-prosecutors-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DC&#x27;s Improbable ScienceStatistics and the law: the prosecutor&#x27;s fallacy22 Mar 2016 — The false positive risk means the proportion of case...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: telescoper.blog  
    Title: In the Dark DNA Profiling and the Prosecutor's Fallacy  
-   Link: <a href="https://telescoper.blog/2010/10/23/the-prosecutors-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://telescoper.blog/2010/10/23/the-prosecutors-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Profiling and the Prosecutor&#x27;s Fallacy - In the Dark23 Oct 2010 — If the DNA profile of the suspect or evidence consists of a combina...</p></details>
+   Link:<a href="https://telescoper.blog/2010/10/23/the-prosecutors-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://telescoper.blog/2010/10/23/the-prosecutors-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Profiling and the Prosecutor&#x27;s Fallacy - In the Dark23 Oct 2010 — If the DNA profile of the suspect or evidence consists of a combina...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rss.org.uk  
-   Link: <a href="https://rss.org.uk/RSS/media/File-library/Publications/rss-case-assessment-interpretation-expert-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rss.org.uk/RSS/media/File-library/Publications/rss-case-assessment-interpretation-expert-evidence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Assessment and Interpretation of Expert Evidenceby G Jackson · Cited by 59 — Building on the general introduction to statistic...</p></details>
+   Link:<a href="https://rss.org.uk/RSS/media/File-library/Publications/rss-case-assessment-interpretation-expert-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rss.org.uk/RSS/media/File-library/Publications/rss-case-assessment-interpretation-expert-evidence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Assessment and Interpretation of Expert Evidenceby G Jackson · Cited by 59 — Building on the general introduction to statistic...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cherwell.org  
-   Link: <a href="https://cherwell.org/2021/05/02/the-prosecutors-fallacy-how-flawed-statistical-evidence-has-been-used-to-jail-innocent-people/" target="_blank" rel="noopener noreferrer nofollow">https://cherwell.org/2021/05/02/the-prosecutors-fallacy-how-flawed-statistical-evidence-has-been-used-to-jail-innocent-people/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy: How flawed statistical evidence has...2 May 2021 — The prosecution argues that the chance that this blood matc...</p></details>
+   Link:<a href="https://cherwell.org/2021/05/02/the-prosecutors-fallacy-how-flawed-statistical-evidence-has-been-used-to-jail-innocent-people/" target="_blank" rel="noopener noreferrer nofollow">https://cherwell.org/2021/05/02/the-prosecutors-fallacy-how-flawed-statistical-evidence-has-been-used-to-jail-innocent-people/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy: How flawed statistical evidence has...2 May 2021 — The prosecution argues that the chance that this blood matc...</p></details>
    Published: May 2021  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: courtsofnz.govt.nz  
-   Link: <a href="https://www.courtsofnz.govt.nz/assets/speechpapers/hjjjh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.courtsofnz.govt.nz/assets/speechpapers/hjjjh.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miscarriage by ExpertThe story is about Sally Clark, a British solicitor, married to Stephen, also a lawyer. The couple&#x27;s first son, Chri...</p></details>
+   Link:<a href="https://www.courtsofnz.govt.nz/assets/speechpapers/hjjjh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.courtsofnz.govt.nz/assets/speechpapers/hjjjh.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Miscarriage by ExpertThe story is about Sally Clark, a British solicitor, married to Stephen, also a lawyer. The couple&#x27;s first son, Chri...</p></details>
    Published: December 1996  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: forensicstats.org  
    Title: misuse of statistics in the courtroom the sally clark case  
-   Link: <a href="https://forensicstats.org/blog/misuse-of-statistics-in-the-courtroom-the-sally-clark-case" target="_blank" rel="noopener noreferrer nofollow">https://forensicstats.org/blog/misuse-of-statistics-in-the-courtroom-the-sally-clark-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misuse of Statistics in the Courtroom: The Sally Clark CaseFeb 16, 2018 — The Sally Clark Case is an infamous criminal case from the Unit...</p></details>
+   Link:<a href="https://forensicstats.org/blog/misuse-of-statistics-in-the-courtroom-the-sally-clark-case" target="_blank" rel="noopener noreferrer nofollow">https://forensicstats.org/blog/misuse-of-statistics-in-the-courtroom-the-sally-clark-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misuse of Statistics in the Courtroom: The Sally Clark CaseFeb 16, 2018 — The Sally Clark Case is an infamous criminal case from the Unit...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: leightonvw.com  
    Title: when can we trust the jurys verdict  
-   Link: <a href="https://leightonvw.com/2024/08/25/when-can-we-trust-the-jurys-verdict/" target="_blank" rel="noopener noreferrer nofollow">https://leightonvw.com/2024/08/25/when-can-we-trust-the-jurys-verdict/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Can We Trust the Jury&#x27;s Verdict?25 Aug 2024 — The fallacy occurs when the expert witness equates the low probability of winning the...</p></details>
+   Link:<a href="https://leightonvw.com/2024/08/25/when-can-we-trust-the-jurys-verdict/" target="_blank" rel="noopener noreferrer nofollow">https://leightonvw.com/2024/08/25/when-can-we-trust-the-jurys-verdict/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Can We Trust the Jury&#x27;s Verdict?25 Aug 2024 — The fallacy occurs when the expert witness equates the low probability of winning the...</p></details>

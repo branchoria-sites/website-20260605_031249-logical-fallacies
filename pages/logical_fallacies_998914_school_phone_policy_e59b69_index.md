@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-school-phone/
 description: Focused pages that expand on Phones.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_school_phone_policy_e59b69
 parent_title: Phones
@@ -16,7 +16,7 @@ parent_permalink: /phones/
 
 # Explore Topics in Phones
 
-The following pages expand on the main **[Phones]({{ '/phones/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Phones]({{ '/phones/' | relative_url }})** page and cover its key branches in.
 
 - [Locked Pouches]({{ '/locked-pouches/' | relative_url }})
 - [Ban Models]({{ '/ban-models/' | relative_url }})

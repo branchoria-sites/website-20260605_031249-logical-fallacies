@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_
 
 ## Introduction
 
-Public debates often treat policy success as obvious: a law is introduced, a statistic improves, and the policy receives the credit. This is a specific form of [post hoc]({{ 'post-hoc/' | relative_url }}) reasoning. Because the improvement happened after the policy, people assume the policy caused it. Yet social and economic outcomes are influenced by many forces at once. A falling crime rate, rising employment, improved health outcome, or stronger economy may reflect trends that were already under way, broader national changes, demographic shifts, seasonal patterns, or unrelated events occurring at the same time. The central question is not whether the outcome changed after the policy, but whether it changed because of the policy. Modern policy evaluation exists largely because simple before-and-after comparisons are often misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents1.worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents1.worldbank.org</span><span class="citation-popover-title">World Bank Impact Evaluation in Practice</span><span class="citation-popover-snippet">World BankImpact Evaluation in Practice - World Bank Documentby PJ Gertler · Cited by 2943 — Its main goal is to expand the evidence base...</span></span></span>
+Public debates often treat policy success as obvious: a law is introduced, a statistic improves, and the policy receives the credit. This is a specific form of [post hoc]({{ 'post-hoc/' | relative_url }}) reasoning. Because the improvement happened after the policy, people assume the policy caused it. Yet social and economic outcomes are influenced by many forces at once. A falling crime rate, rising employment, improved health outcome, or stronger economy may reflect trends that were already under way, broader national changes, demographic shifts, seasonal patterns, or unrelated events occurring at the same time. The central question is not whether the outcome changed after the policy, but whether it changed because of the policy. Modern policy evaluation exists largely because simple before-and-after comparisons are often misleading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents1.worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents1.worldbank.org</span><span class="citation-popover-title">World Bank Impact Evaluation in Practice</span><span class="citation-popover-snippet">World BankImpact Evaluation in Practice - World Bank Documentby PJ Gertler · Cited by 2943 — Its main goal is to expand the evidence base...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-dark.svg" | relative_url }}" alt="Policy Timing illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did the Policy Work, or Just Arrive First?
@@ -291,9 +291,9 @@ The fallacy appears when an argument follows a simple pattern:
 
 At first glance this reasoning feels sensible. Causes normally precede effects. A policy cannot improve employment before it exists. But timing is only a necessary condition for causation, not sufficient proof of it.
 
-Suppose a city launches a new anti-crime initiative in January and reported crime falls by December. The decline may have been caused by the programme. It may also reflect a long-term decline already visible before January, demographic changes, economic improvements, altered reporting practices, or several influences working together. Looking only at the before-and-after numbers cannot separate these possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-snippet">Institute for Fiscal Studiesoxb08_pol_eval.pptCorrelation is not causality! “Post hoc, ergo propter hoc”: looking at what happens after...</span></span></span>
+Suppose a city launches a new anti-crime initiative in January and reported crime falls by December. The decline may have been caused by the programme. It may also reflect a long-term decline already visible before January, demographic changes, economic improvements, altered reporting practices, or several influences working together. Looking only at the before-and-after numbers cannot separate these possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-snippet">Institute for Fiscal Studiesoxb08_pol_eval.pptCorrelation is not causality! “Post hoc, ergo propter hoc”: looking at what happens after...</span></span></span>
 
-This is why policy analysts distinguish between observed change and attributable change. Observed change is what happened. Attributable change is the portion that can reasonably be linked to the intervention itself. The gap between those two concepts is where false credit and false blame often arise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[Better Evaluation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-snippet">Better EvaluationImpact evaluationAn impact evaluation provides information about the observed changes or &#x27;impacts&#x27; produced by an interv...</span></span></span>
+This is why policy analysts distinguish between observed change and attributable change. Observed change is what happened. Attributable change is the portion that can reasonably be linked to the intervention itself. The gap between those two concepts is where false credit and false blame often arise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[Better Evaluation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-snippet">Better EvaluationImpact evaluationAn impact evaluation provides information about the observed changes or &#x27;impacts&#x27; produced by an interv...</span></span></span>
 
 ## Why Before-and-After Comparisons Feel Persuasive
 
@@ -306,7 +306,7 @@ Several psychological features make these arguments attractive:
 * **Political incentives reward certainty.** Supporters highlight positive changes after their preferred policy, while opponents emphasise negative developments after policies they dislike.
 * **[Counterfactuals]({{ 'counterfactuals/' | relative_url }}) are invisible.** We can observe what happened after a policy. We cannot directly observe what would have happened without it.
 
-The last point is particularly important. The real policy question is not whether conditions improved after implementation. It is whether conditions improved more than they would have improved anyway. Impact evaluation literature consistently emphasises the need for a counterfactual—an estimate of what would have occurred in the absence of the intervention. World Bank <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC74778" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsA note on the impact evaluation of public policiesby M LOI · Cited by 58 — This report describes concisely, and in an int...</span></span></span>
+The last point is particularly important. The real policy question is not whether conditions improved after implementation. It is whether conditions improved more than they would have improved anyway. Impact evaluation literature consistently emphasises the need for a counterfactual—an estimate of what would have occurred in the absence of the intervention. World Bank<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC74778" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsA note on the impact evaluation of public policiesby M LOI · Cited by 58 — This report describes concisely, and in an int...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IpWQlHapifU" title="Difference-in-Differences method (DID) | Policy impact evaluation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IpWQlHapifU" target="_blank" rel="noopener noreferrer">Difference-in-Differences method (DID) | Policy impact evaluation</a></p><p class="youtube-embed-meta">Channel: Joint Research Centre (JRC) &middot; Views: 48.4K &middot; Uploaded: December 2017 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IpWQlHapifU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IpWQlHapifU">Open on YouTube</a></p></div></div></div>
 
@@ -316,13 +316,13 @@ The last point is particularly important. The real policy question is not whethe
 
 One common error occurs when a policy receives credit for a trend that was already moving in the same direction.
 
-Imagine unemployment falling steadily for two years before a new jobs programme begins. If unemployment continues falling afterwards, the programme may deserve some credit, but the continuation of an existing trend is not proof of effectiveness. The key question becomes whether the decline accelerated beyond what earlier patterns would predict. Evaluators therefore examine pre-policy trends rather than focusing solely on the implementation date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.worldbank.org">[World Bank Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.worldbank.org</span><span class="citation-popover-title">revisiting difference differences parallel trends assumption part i pre trend</span><span class="citation-popover-snippet">World Bank BlogsRevisiting the Difference-in-Differences Parallel Trends...Jan 21, 2020 — Difference-in-differences (DiD) analysis is on...</span></span></span>
+Imagine unemployment falling steadily for two years before a new jobs programme begins. If unemployment continues falling afterwards, the programme may deserve some credit, but the continuation of an existing trend is not proof of effectiveness. The key question becomes whether the decline accelerated beyond what earlier patterns would predict. Evaluators therefore examine pre-policy trends rather than focusing solely on the implementation date.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.worldbank.org">[World Bank Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.worldbank.org</span><span class="citation-popover-title">revisiting difference differences parallel trends assumption part i pre trend</span><span class="citation-popover-snippet">World Bank BlogsRevisiting the Difference-in-Differences Parallel Trends...Jan 21, 2020 — Difference-in-differences (DiD) analysis is on...</span></span></span>
 
 ### When Several Things Change at Once
 
 Policies rarely operate in isolation. Economic growth, technological shifts, demographic changes, weather conditions, cultural changes, and other government actions may all affect the same outcome.
 
-For example, a health policy introduced during a period of rising public awareness, medical innovation, and economic improvement may coincide with better health outcomes. Crediting the policy alone ignores the possibility that several causes contributed simultaneously. Policy evaluation frameworks therefore stress examining coherence, [interactions]({{ 'interactions/' | relative_url }}), and competing explanations rather than assuming a single cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</span></span></span>
+For example, a health policy introduced during a period of rising public awareness, medical innovation, and economic improvement may coincide with better health outcomes. Crediting the policy alone ignores the possibility that several causes contributed simultaneously. Policy evaluation frameworks therefore stress examining coherence, [interactions]({{ 'interactions/' | relative_url }}), and competing explanations rather than assuming a single cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</span></span></span>
 
 ### Regression to the Mean
 
@@ -353,19 +353,19 @@ Recognising the weakness of before-and-after comparisons does not mean policy ef
 
 One of the most common approaches is to compare areas affected by a policy with similar areas that were not affected.
 
-If employment rises where a programme was introduced but rises equally in comparable places without the programme, the policy may not deserve much credit. If the treated areas improve substantially more, the evidence becomes stronger. This logic underlies many quasi-experimental methods used in economics and public policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dimewiki.worldbank.org/Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dimewiki.worldbank.org">[dimewiki.worldbank.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dimewiki.worldbank.org</span><span class="citation-popover-title">Difference-in-Differences &#124; Dime Wiki</span><span class="citation-popover-snippet">World Bank7 Aug 2023 — Difference-in-differences combines these two methods to compare the before-and-after changes in outcomes for treat...</span></span></span>
+If employment rises where a programme was introduced but rises equally in comparable places without the programme, the policy may not deserve much credit. If the treated areas improve substantially more, the evidence becomes stronger. This logic underlies many quasi-experimental methods used in economics and public policy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dimewiki.worldbank.org/Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dimewiki.worldbank.org">[dimewiki.worldbank.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dimewiki.worldbank.org</span><span class="citation-popover-title">Difference-in-Differences &#124; Dime Wiki</span><span class="citation-popover-snippet">World Bank7 Aug 2023 — Difference-in-differences combines these two methods to compare the before-and-after changes in outcomes for treat...</span></span></span>
 
 ### Difference-in-Differences
 
-A widely used method called difference-in-differences compares changes over time in a treated group with changes in a comparison group. Rather than asking whether outcomes improved after a policy, it asks whether they improved more than they did elsewhere over the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.worldbank.org">[World Bank Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.worldbank.org</span><span class="citation-popover-title">revisiting difference differences parallel trends assumption part i pre trend</span><span class="citation-popover-snippet">World Bank BlogsRevisiting the Difference-in-Differences Parallel Trends...Jan 21, 2020 — Difference-in-differences (DiD) analysis is on...</span></span></span>
+A widely used method called difference-in-differences compares changes over time in a treated group with changes in a comparison group. Rather than asking whether outcomes improved after a policy, it asks whether they improved more than they did elsewhere over the same period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.worldbank.org">[World Bank Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.worldbank.org</span><span class="citation-popover-title">revisiting difference differences parallel trends assumption part i pre trend</span><span class="citation-popover-snippet">World Bank BlogsRevisiting the Difference-in-Differences Parallel Trends...Jan 21, 2020 — Difference-in-differences (DiD) analysis is on...</span></span></span>
 
-This approach is not perfect and relies on assumptions that must be examined carefully, but it is generally far more informative than a simple before-and-after comparison. Researchers continue refining these methods precisely because causal attribution is difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learned From CDC&#x27;s Prevention Research Centersby S Honeycutt · 2015 · Cited by 99 — Evaluating policy, systems, and environmental change...</span></span></span>
+This approach is not perfect and relies on assumptions that must be examined carefully, but it is generally far more informative than a simple before-and-after comparison. Researchers continue refining these methods precisely because causal attribution is difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learned From CDC&#x27;s Prevention Research Centersby S Honeycutt · 2015 · Cited by 99 — Evaluating policy, systems, and environmental change...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vtSCZcKXw1w" title="Correlation vs. Causation: Causal Inference Bootcamp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vtSCZcKXw1w" target="_blank" rel="noopener noreferrer">Correlation vs. Causation: Causal Inference Bootcamp</a></p><p class="youtube-embed-meta">Channel: Mod•U: Powerful Concepts in Social Science &middot; Views: 18.4K &middot; Uploaded: September 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vtSCZcKXw1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vtSCZcKXw1w">Open on YouTube</a></p></div></div></div>
 
 ### Look for Multiple Lines of Evidence
 
-Strong policy evaluation often combines several forms of evidence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Public Policy Evaluation</span><span class="citation-popover-snippet">Implementation ToolkitIt creates a robust framework of incentives, responsibilities and accountability of different government, encouragi...</span></span></span>
+Strong policy evaluation often combines several forms of evidence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Public Policy Evaluation</span><span class="citation-popover-snippet">Implementation ToolkitIt creates a robust framework of incentives, responsibilities and accountability of different government, encouragi...</span></span></span>
 
 * Trends before implementation.
 * Comparisons with similar groups or regions.
@@ -374,7 +374,7 @@ Strong policy evaluation often combines several forms of evidence: <span class="
 * Tests for alternative explanations.
 * Evidence from different times and locations.
 
-The more a claimed effect survives these checks, the more confidence we can have that the policy genuinely contributed to the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Applying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</span></span></span>
+The more a claimed effect survives these checks, the more confidence we can have that the policy genuinely contributed to the outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Applying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-dark.svg" | relative_url }}" alt="Policy Timing illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Question for Readers
@@ -392,269 +392,269 @@ When someone claims that a policy succeeded because conditions improved afterwar
 These questions do not guarantee the right answer, but they shift the discussion from mere timing to evidence of causation. That shift is the essential defence against the logical fallacy of giving a policy credit—or blame—simply because the outcome came later.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Policy Work, or Just Arrive First?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Policy Work, or Just Arrive First?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Explains why simple before-and-after stories can mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why simple before-and-after stories can mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Teaches how to evaluate policy outcomes properly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to evaluate policy outcomes properly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VV0otAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
-        </h4>
-        <p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VV0otAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
+</h4>
+<p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
         
-        <p class="fr-book-desc">Distinguishes causation from mere sequence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Distinguishes causation from mere sequence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows why policy narratives often over-credit single causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why policy narratives often over-credit single causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-timing-did-the-policy-work-or-just-arrive-first-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -670,7 +670,7 @@ These questions do not guarantee the right answer, but they shift the discussion
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -690,7 +690,7 @@ These questions do not guarantee the right answer, but they shift the discussion
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -722,7 +722,7 @@ These questions do not guarantee the right answer, but they shift the discussion
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -752,7 +752,7 @@ These questions do not guarantee the right answer, but they shift the discussion
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -810,200 +810,200 @@ These questions do not guarantee the right answer, but they shift the discussion
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents1.worldbank.org  
    Title: World Bank Impact Evaluation in Practice  
-   Link: <a href="https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World BankImpact Evaluation in Practice - World Bank Documentby PJ Gertler · Cited by 2943 — Its main goal is to expand the evidence base...</p></details>
+   Link:<a href="https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World BankImpact Evaluation in Practice - World Bank Documentby PJ Gertler · Cited by 2943 — Its main goal is to expand the evidence base...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: legalinstruments.oecd.org  
-   Link: <a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</p></details>
+   Link:<a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: worldbank.org  
    Title: World Bank Impact Evaluation in Practice  
-   Link: <a href="https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact Evaluation in Practice - Second EditionJan 19, 2016 — The book incorporates real-world examples to present practical guidelines fo...</p></details>
+   Link:<a href="https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact Evaluation in Practice - Second EditionJan 19, 2016 — The book incorporates real-world examples to present practical guidelines fo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blogs.worldbank.org  
    Title: revisiting difference differences parallel trends assumption part i pre trend  
-   Link: <a href="https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsRevisiting the Difference-in-Differences Parallel Trends...Jan 21, 2020 — Difference-in-differences (DiD) analysis is on...</p></details>
+   Link:<a href="https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsRevisiting the Difference-in-Differences Parallel Trends...Jan 21, 2020 — Difference-in-differences (DiD) analysis is on...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blogs.worldbank.org  
    Title: when your difference differences has too many differences  
-   Link: <a href="https://blogs.worldbank.org/en/impactevaluations/when-your-difference-differences-has-too-many-differences" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/when-your-difference-differences-has-too-many-differences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsWhen your difference-in-differences has too many differencesOct 14, 2020 — Recent papers have proposed methods to robusti...</p></details>
+   Link:<a href="https://blogs.worldbank.org/en/impactevaluations/when-your-difference-differences-has-too-many-differences" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/when-your-difference-differences-has-too-many-differences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsWhen your difference-in-differences has too many differencesOct 14, 2020 — Recent papers have proposed methods to robusti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learned From CDC&#x27;s Prevention Research Centersby S Honeycutt · 2015 · Cited by 99 — Evaluating policy, systems, and environmental change...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learned From CDC&#x27;s Prevention Research Centersby S Honeycutt · 2015 · Cited by 99 — Evaluating policy, systems, and environmental change...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dimewiki.worldbank.org  
    Title: Difference-in-Differences | Dime Wiki  
-   Link: <a href="https://dimewiki.worldbank.org/Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow">https://dimewiki.worldbank.org/Difference-in-Differences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank7 Aug 2023 — Difference-in-differences combines these two methods to compare the before-and-after changes in outcomes for treat...</p></details>
+   Link:<a href="https://dimewiki.worldbank.org/Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow">https://dimewiki.worldbank.org/Difference-in-Differences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank7 Aug 2023 — Difference-in-differences combines these two methods to compare the before-and-after changes in outcomes for treat...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blogs.worldbank.org  
-   Link: <a href="https://blogs.worldbank.org/en/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsWhat Are We Estimating When We Estimate Difference-in-...Sep 30, 2019 — In DD estimation, a researcher compares the chan...</p></details>
+   Link:<a href="https://blogs.worldbank.org/en/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsWhat Are We Estimating When We Estimate Difference-in-...Sep 30, 2019 — In DD estimation, a researcher compares the chan...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305929/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11305929/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Difference-in-differences Methods for Policy...by G Wang · 2024 · Cited by 108 — Difference-in-differences (DiD) is a pow...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305929/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11305929/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Difference-in-differences Methods for Policy...by G Wang · 2024 · Cited by 108 — Difference-in-differences (DiD) is a pow...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oecd.org  
    Title: Public Policy Evaluation  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation ToolkitIt creates a robust framework of incentives, responsibilities and accountability of different government, encouragi...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation ToolkitIt creates a robust framework of incentives, responsibilities and accountability of different government, encouragi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: legalinstruments.oecd.org  
-   Link: <a href="https://legalinstruments.oecd.org/api/download/?name=policy-evaluation-comparative-study-highlights.pdf&amp;uri=%2Fprivate%2Ftemp%2F7ecfe9af-5b05-4992-9a10-ebdc45a944a8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/api/download/?name=policy-evaluation-comparative-study-highlights.pdf&amp;uri=%2Fprivate%2Ftemp%2F7ecfe9af-5b05-4992-9a10-ebdc45a944a8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It can help governments improve the design and implementation of public policies...Read more...</p></details>
+   Link:<a href="https://legalinstruments.oecd.org/api/download/?name=policy-evaluation-comparative-study-highlights.pdf&amp;uri=%2Fprivate%2Ftemp%2F7ecfe9af-5b05-4992-9a10-ebdc45a944a8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/api/download/?name=policy-evaluation-comparative-study-highlights.pdf&amp;uri=%2Fprivate%2Ftemp%2F7ecfe9af-5b05-4992-9a10-ebdc45a944a8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It can help governments improve the design and implementation of public policies...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/about/projects/oecd-ec-project-on-policy-impact-evaluation-through-the-use-of-linked-administrative-and-survey-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/projects/oecd-ec-project-on-policy-impact-evaluation-through-the-use-of-linked-administrative-and-survey-data.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EC project on policy impact evaluation through the...These evaluations (especially counterfactual impact evaluations, CIEs) provide...</p></details>
+   Link:<a href="https://www.oecd.org/en/about/projects/oecd-ec-project-on-policy-impact-evaluation-through-the-use-of-linked-administrative-and-survey-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/projects/oecd-ec-project-on-policy-impact-evaluation-through-the-use-of-linked-administrative-and-survey-data.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EC project on policy impact evaluation through the...These evaluations (especially counterfactual impact evaluations, CIEs) provide...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oecd.org  
    Title: ai in policy evaluation c88cc2fd  
-   Link: <a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in policy evaluation: Governing with Artificial Intelligence18 Sept 2025 — Some OECD countries have developed ways in which different...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in policy evaluation: Governing with Artificial Intelligence18 Sept 2025 — Some OECD countries have developed ways in which different...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documents1.worldbank.org  
    Title: Impact evaluation in practice  
-   Link: <a href="https://documents1.worldbank.org/curated/en/698441474029568469/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/698441474029568469/pdf/Impact-evaluation-in-practice.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation in Practice - World Bank Documentoutcome trends are different for the treatment and comparison groups, then the estimated trea...</p></details>
+   Link:<a href="https://documents1.worldbank.org/curated/en/698441474029568469/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/698441474029568469/pdf/Impact-evaluation-in-practice.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation in Practice - World Bank Documentoutcome trends are different for the treatment and comparison groups, then the estimated trea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: openknowledge.worldbank.org  
-   Link: <a href="https://openknowledge.worldbank.org/entities/publication/dd5a1c37-56a7-5b90-a1f9-508e7a3a7632" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/dd5a1c37-56a7-5b90-a1f9-508e7a3a7632</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Impact Evaluation in International Developmentby P Glewwe — The Impact Evaluation in Practice handbook is a com...</p></details>
+   Link:<a href="https://openknowledge.worldbank.org/entities/publication/dd5a1c37-56a7-5b90-a1f9-508e7a3a7632" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/dd5a1c37-56a7-5b90-a1f9-508e7a3a7632</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Impact Evaluation in International Developmentby P Glewwe — The Impact Evaluation in Practice handbook is a com...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blogs.worldbank.org  
    Title: can we trust shoestring evaluations  
-   Link: <a href="https://blogs.worldbank.org/en/impactevaluations/can-we-trust-shoestring-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/can-we-trust-shoestring-evaluations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>we trust shoestring evaluations?Mar 7, 2012 — Probably the thing that practitioners would most like to avoid is the need for baseline dat...</p></details>
+   Link:<a href="https://blogs.worldbank.org/en/impactevaluations/can-we-trust-shoestring-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/can-we-trust-shoestring-evaluations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>we trust shoestring evaluations?Mar 7, 2012 — Probably the thing that practitioners would most like to avoid is the need for baseline dat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: openknowledge.worldbank.org  
-   Link: <a href="https://openknowledge.worldbank.org/entities/publication/1b84ccc9-7f78-5398-8495-5daa1c85327c" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/1b84ccc9-7f78-5398-8495-5daa1c85327c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Reconstructing Baseline Data for Impact...This note discusses the reasons why baseline studies are often not c...</p></details>
+   Link:<a href="https://openknowledge.worldbank.org/entities/publication/1b84ccc9-7f78-5398-8495-5daa1c85327c" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/1b84ccc9-7f78-5398-8495-5daa1c85327c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Reconstructing Baseline Data for Impact...This note discusses the reasons why baseline studies are often not c...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: openknowledge.worldbank.org  
-   Link: <a href="https://openknowledge.worldbank.org/entities/publication/e9a20ecb-ad43-58ee-b66e-67ac6164c048" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/e9a20ecb-ad43-58ee-b66e-67ac6164c048</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Behind the ScenesThis paper aims at filling this gap by describing and discussing experiences from four large i...</p></details>
+   Link:<a href="https://openknowledge.worldbank.org/entities/publication/e9a20ecb-ad43-58ee-b66e-67ac6164c048" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/e9a20ecb-ad43-58ee-b66e-67ac6164c048</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Behind the ScenesThis paper aims at filling this gap by describing and discussing experiences from four large i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: worldbank.org  
    Title: impact evaluations  
-   Link: <a href="https://www.worldbank.org/en/topic/education/publication/impact-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/topic/education/publication/impact-evaluations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Education PolicyOct 10, 2024 — Covering early childhood to secondary education, this publication compiles a decade&#x27;s worth of educati...</p></details>
+   Link:<a href="https://www.worldbank.org/en/topic/education/publication/impact-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/topic/education/publication/impact-evaluations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Education PolicyOct 10, 2024 — Covering early childhood to secondary education, this publication compiles a decade&#x27;s worth of educati...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ifs.org.uk  
-   Link: <a href="https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt</a>  
+   Link:<a href="https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: betterevaluation.org  
-   Link: <a href="https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Better EvaluationImpact evaluationAn impact evaluation provides information about the observed changes or &#x27;impacts&#x27; produced by an interv...</p></details>
+   Link:<a href="https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Better EvaluationImpact evaluationAn impact evaluation provides information about the observed changes or &#x27;impacts&#x27; produced by an interv...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: publications.jrc.ec.europa.eu  
-   Link: <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC74778" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/handle/JRC74778</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsA note on the impact evaluation of public policiesby M LOI · Cited by 58 — This report describes concisely, and in an int...</p></details>
+   Link:<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC74778" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/handle/JRC74778</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsA note on the impact evaluation of public policiesby M LOI · Cited by 58 — This report describes concisely, and in an int...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fsnnetwork.org  
    Title: world bank impact evaluation in practice  
-   Link: <a href="https://fsnnetwork.org/sites/default/files/world_bank_-_impact_evaluation_in_practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fsnnetwork.org/sites/default/files/world_bank_-_impact_evaluation_in_practice.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact Evaluation in Practiceby PJ Gertler · Cited by 2943 — It is also dependent on the availability of data with sufficient coverage of...</p></details>
+   Link:<a href="https://fsnnetwork.org/sites/default/files/world_bank_-_impact_evaluation_in_practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fsnnetwork.org/sites/default/files/world_bank_-_impact_evaluation_in_practice.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact Evaluation in Practiceby PJ Gertler · Cited by 2943 — It is also dependent on the availability of data with sufficient coverage of...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/World" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WorldThe world or universe is commonly defined as &quot;the totality of all space and time; all that is, has been, and will be&quot;...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/World" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WorldThe world or universe is commonly defined as &quot;the totality of all space and time; all that is, has been, and will be&quot;...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ieg.worldbankgroup.org  
-   Link: <a href="https://ieg.worldbankgroup.org/sites/default/files/Data/reports/oed_impact_evaluation_methods.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ieg.worldbankgroup.org/sites/default/files/Data/reports/oed_impact_evaluation_methods.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Impact Evaluation Methodologies Used By The...by AG Kapoor · Cited by 22 — This method is often used in situations where an intervent...</p></details>
+   Link:<a href="https://ieg.worldbankgroup.org/sites/default/files/Data/reports/oed_impact_evaluation_methods.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ieg.worldbankgroup.org/sites/default/files/Data/reports/oed_impact_evaluation_methods.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Impact Evaluation Methodologies Used By The...by AG Kapoor · Cited by 22 — This method is often used in situations where an intervent...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: betterevaluation.org  
-   Link: <a href="https://www.betterevaluation.org/methods-approaches/methods/difference-difference" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/methods-approaches/methods/difference-difference</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference-in-differenceDifference-in-difference involves comparing the before-and-after difference for the group receiving the intervent...</p></details>
+   Link:<a href="https://www.betterevaluation.org/methods-approaches/methods/difference-difference" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/methods-approaches/methods/difference-difference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Difference-in-differenceDifference-in-difference involves comparing the before-and-after difference for the group receiving the intervent...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/25631/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25631/chapter/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 3 Policy-Relevant Evidence for Population HealthRead chapter 3 Policy-Relevant Evidence for Population Health: Promise and Chall...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/25631/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25631/chapter/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 3 Policy-Relevant Evidence for Population HealthRead chapter 3 Policy-Relevant Evidence for Population Health: Promise and Chall...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dmeo.gov.in  
-   Link: <a href="https://dmeo.gov.in/sites/default/files/2022-01/Difference%20in%20Differences.docx" target="_blank" rel="noopener noreferrer nofollow">https://dmeo.gov.in/sites/default/files/2022-01/Difference%20in%20Differences.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference in Differences.docxA treatment group is enrolled in a program, and a comparison group is not enrolled. The before-and-after ou...</p></details>
+   Link:<a href="https://dmeo.gov.in/sites/default/files/2022-01/Difference%20in%20Differences.docx" target="_blank" rel="noopener noreferrer nofollow">https://dmeo.gov.in/sites/default/files/2022-01/Difference%20in%20Differences.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Difference in Differences.docxA treatment group is enrolled in a program, and a comparison group is not enrolled. The before-and-after ou...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: goltc.org  
-   Link: <a href="https://goltc.org/publications/difference-in-differences-approach/" target="_blank" rel="noopener noreferrer nofollow">https://goltc.org/publications/difference-in-differences-approach/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference-in-Differences approachDifference-in-differences (DiD) is a quasi-experimental method used to estimate the effect of an interv...</p></details>
+   Link:<a href="https://goltc.org/publications/difference-in-differences-approach/" target="_blank" rel="noopener noreferrer nofollow">https://goltc.org/publications/difference-in-differences-approach/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Difference-in-Differences approachDifference-in-differences (DiD) is a quasi-experimental method used to estimate the effect of an interv...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/rausp/article/54/4/519/359801/Impact-evaluation-using-Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/rausp/article/54/4/519/359801/Impact-evaluation-using-Difference-in-Differences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact evaluation using Difference-in-DifferencesThis double difference can be calculated whenever treatment and control group data on th...</p></details>
+   Link:<a href="https://www.emerald.com/rausp/article/54/4/519/359801/Impact-evaluation-using-Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/rausp/article/54/4/519/359801/Impact-evaluation-using-Difference-in-Differences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact evaluation using Difference-in-DifferencesThis double difference can be calculated whenever treatment and control group data on th...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: congreso.es  
-   Link: <a href="https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_14/spl_52/pdfs/28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_14/spl_52/pdfs/28.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Governance with Policy EvaluationFailing to rise to the policy evaluation challenge may entail serious consequences for economi...</p></details>
+   Link:<a href="https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_14/spl_52/pdfs/28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_14/spl_52/pdfs/28.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Governance with Policy EvaluationFailing to rise to the policy evaluation challenge may entail serious consequences for economi...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scienceetbiencommun.pressbooks.pub  
-   Link: <a href="https://scienceetbiencommun.pressbooks.pub/pubpolevaluation/chapter/difference-in-differences-method/" target="_blank" rel="noopener noreferrer nofollow">https://scienceetbiencommun.pressbooks.pub/pubpolevaluation/chapter/difference-in-differences-method/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pressbooks.pubDifference-in-differences Method – Policy Evaluationby D Fougère · Cited by 5 — The difference-in-differences method is a q...</p></details>
+   Link:<a href="https://scienceetbiencommun.pressbooks.pub/pubpolevaluation/chapter/difference-in-differences-method/" target="_blank" rel="noopener noreferrer nofollow">https://scienceetbiencommun.pressbooks.pub/pubpolevaluation/chapter/difference-in-differences-method/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pressbooks.pubDifference-in-differences Method – Policy Evaluationby D Fougère · Cited by 5 — The difference-in-differences method is a q...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: americanprogress.org  
    Title: measuring the health outcomes of social economic and environmental policies  
-   Link: <a href="https://www.americanprogress.org/article/measuring-the-health-outcomes-of-social-economic-and-environmental-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanprogress.org/article/measuring-the-health-outcomes-of-social-economic-and-environmental-policies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Health Outcomes of Social, Economic, and...18 Apr 2022 — A variety of analytic tools can clarify public health priorities...</p></details>
+   Link:<a href="https://www.americanprogress.org/article/measuring-the-health-outcomes-of-social-economic-and-environmental-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanprogress.org/article/measuring-the-health-outcomes-of-social-economic-and-environmental-policies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Health Outcomes of Social, Economic, and...18 Apr 2022 — A variety of analytic tools can clarify public health priorities...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/polaris/media/pdfs/2024/09/UsingEvaluationtoInformCDCsPolicyProcess.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/polaris/media/pdfs/2024/09/UsingEvaluationtoInformCDCsPolicyProcess.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Understand the importance of using evaluation findings to inform the...Read more...</p></details>
+   Link:<a href="https://www.cdc.gov/polaris/media/pdfs/2024/09/UsingEvaluationtoInformCDCsPolicyProcess.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/polaris/media/pdfs/2024/09/UsingEvaluationtoInformCDCsPolicyProcess.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• Understand the importance of using evaluation findings to inform the...Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: planapp.gov.pt  
-   Link: <a href="https://www.planapp.gov.pt/wp-content/uploads/2023/01/OECD-PLANAPP-Evaluation-M2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.planapp.gov.pt/wp-content/uploads/2023/01/OECD-PLANAPP-Evaluation-M2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A majority of countries have developed a legal framework that guides policy evaluation across...Read more...</p></details>
+   Link:<a href="https://www.planapp.gov.pt/wp-content/uploads/2023/01/OECD-PLANAPP-Evaluation-M2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.planapp.gov.pt/wp-content/uploads/2023/01/OECD-PLANAPP-Evaluation-M2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A majority of countries have developed a legal framework that guides policy evaluation across...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cdn.ymaws.com  
-   Link: <a href="https://cdn.ymaws.com/www.safestates.org/resource/resmgr/evaluation_resources_webpage/CDC_Policy_Evaluation_Briefs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.ymaws.com/www.safestates.org/resource/resmgr/evaluation_resources_webpage/CDC_Policy_Evaluation_Briefs.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1: Overview of Policy EvaluationThis brief provides a definition of policy evaluation, including a description of the evaluation framewor...</p></details>
+   Link:<a href="https://cdn.ymaws.com/www.safestates.org/resource/resmgr/evaluation_resources_webpage/CDC_Policy_Evaluation_Briefs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.ymaws.com/www.safestates.org/resource/resmgr/evaluation_resources_webpage/CDC_Policy_Evaluation_Briefs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1: Overview of Policy EvaluationThis brief provides a definition of policy evaluation, including a description of the evaluation framewor...</p></details>

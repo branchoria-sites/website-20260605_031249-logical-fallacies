@@ -271,7 +271,7 @@ image: /assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sha
 One of the most persuasive mistakes in online rumours is treating widespread sharing as if it were independent confirmation. A claim appears on [social media]({{ 'social-media/' | relative_url }}), is reposted thousands of times, discussed in comments, copied into [screenshots]({{ 'screenshots/' | relative_url }}), and repeated across multiple platforms. By the time many people encounter it, the rumour seems to have been verified by sheer volume. In reality, all those apparent confirmations may trace back to a single unverified source.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-1-dark.svg" | relative_url }}" alt="Viral Proof illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This fallacy matters because people often use repetition as a shortcut for credibility. If dozens of accounts appear to be reporting the same thing, it can feel as though dozens of people have independently checked it. Yet viral circulation and independent evidence are different things. A rumour can spread extremely widely without gaining a single new piece of supporting evidence. Research on online misinformation repeatedly shows that false claims can spread rapidly and broadly, creating a powerful illusion of corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
+This fallacy matters because people often use repetition as a shortcut for credibility. If dozens of accounts appear to be reporting the same thing, it can feel as though dozens of people have independently checked it. Yet viral circulation and independent evidence are different things. A rumour can spread extremely widely without gaining a single new piece of supporting evidence. Research on online misinformation repeatedly shows that false claims can spread rapidly and broadly, creating a powerful illusion of corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
 ## Why Repetition Feels Like Corroboration
 
@@ -287,7 +287,7 @@ This distinction is especially important online because platforms make duplicati
 
 Social media platforms display engagement cues such as likes, shares, repost counts, views, reactions, and comments. These signals were not designed as evidence, but people frequently interpret them as indicators of credibility.
 
-Studies show that social engagement metrics influence how users interact with content. Seeing that many others have engaged with a post can increase attention and willingness to share it. Researchers have also found that exposure to engagement metrics can increase vulnerability to misinformation under some conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredi...</span></span></span>
+Studies show that social engagement metrics influence how users interact with content. Seeing that many others have engaged with a post can increase attention and willingness to share it. Researchers have also found that exposure to engagement metrics can increase vulnerability to misinformation under some conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredi...</span></span></span>
 
 The psychological effect is understandable. Large numbers imply collective judgement. A post with 100,000 shares appears socially validated, even when those shares reveal nothing about whether the claim is true.
 
@@ -298,7 +298,7 @@ Several factors amplify this tendency:
 * **Reduced scrutiny:** [Social proof]({{ 'social-proof/' | relative_url }}) can lower the motivation to investigate further.
 * **Attention effects:** High-engagement content receives more visibility, creating additional opportunities for repetition.
 
-Research on misinformation and platform design suggests that engagement-based systems can create feedback loops in which visibility generates more engagement, which in turn generates more visibility. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</span></span></span>
+Research on misinformation and platform design suggests that engagement-based systems can create feedback loops in which visibility generates more engagement, which in turn generates more visibility. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 2.6M &middot; Uploaded: August 2015 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +312,7 @@ Consider a typical online chain:
 2. Several users repost it.
 3. A blog writes an article based on the reposts.
 4. Other sites cite the blog.
-5. Social media users share screenshots of those articles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirg.org">[pirg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirg.org</span><span class="citation-popover-title">misinformation on social media</span><span class="citation-popover-snippet">How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</span></span></span>
+5. Social media users share screenshots of those articles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirg.org">[pirg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirg.org</span><span class="citation-popover-title">misinformation on social media</span><span class="citation-popover-snippet">How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</span></span></span>
 
 At first glance, the rumour appears to be supported by numerous accounts, websites, and discussions. Yet every link in the chain depends on the same original assertion.
 
@@ -323,11 +323,11 @@ The result is a misleading form of apparent consensus. What looks like corrobora
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-dark.svg" | relative_url }}" alt="Viral Proof illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Illusion of Truth Through Repetition
 
-Another reason viral [rumours]({{ 'rumours/' | relative_url }}) feel convincing is that repeated exposure can increase perceived truthfulness. Psychologists refer to this tendency as the illusory truth effect: information often feels more believable simply because it has been encountered before. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</span></span></span>, familiarity is not the same as verification.
+Another reason viral [rumours]({{ 'rumours/' | relative_url }}) feel convincing is that repeated exposure can increase perceived truthfulness. Psychologists refer to this tendency as the illusory truth effect: information often feels more believable simply because it has been encountered before. Taylor & Francis Online<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</span></span></span>, familiarity is not the same as verification.
 
 A person may encounter a claim:
 
-* in a social media post, <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirg.org">[pirg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirg.org</span><span class="citation-popover-title">misinformation on social media</span><span class="citation-popover-snippet">How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</span></span></span>
+* in a social media post,<span class="citation-chip-wrap"><a class="citation-chip" href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirg.org">[pirg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirg.org</span><span class="citation-popover-title">misinformation on social media</span><span class="citation-popover-snippet">How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</span></span></span>
 * in a reposted screenshot,
 * in a comment thread,
 * in a discussion forum,
@@ -341,7 +341,7 @@ This helps explain why some rumours continue circulating after they have been qu
 
 ## Why Viral Rumours Spread So Easily
 
-The appearance of confirmation is strengthened by the kinds of stories that tend to go viral. Research examining large-scale rumour diffusion on social networks found that false news spread farther, faster, deeper, and more broadly than truthful information in the studied dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> PubMed A viral rumour often succeeds because it is: <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span>
+The appearance of confirmation is strengthened by the kinds of stories that tend to go viral. Research examining large-scale rumour diffusion on social networks found that false news spread farther, faster, deeper, and more broadly than truthful information in the studied dataset.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> PubMed A viral rumour often succeeds because it is:<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span>
 
 * surprising,
 * emotionally engaging,
@@ -351,7 +351,7 @@ The appearance of confirmation is strengthened by the kinds of stories that tend
 
 These qualities affect transmission, not accuracy.
 
-In practice, users frequently share content for reasons unrelated to belief. Some share to discuss it, joke about it, criticise it, or signal group identity. Research suggests that sharing behaviour and accuracy judgements can diverge; people do not always treat truthfulness as the primary factor when deciding what to circulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</span></span></span>
+In practice, users frequently share content for reasons unrelated to belief. Some share to discuss it, joke about it, criticise it, or signal group identity. Research suggests that sharing behaviour and accuracy judgements can diverge; people do not always treat truthfulness as the primary factor when deciding what to circulate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</span></span></span>
 
 As a result, a large volume of sharing can reflect attention rather than confirmation.
 
@@ -360,7 +360,7 @@ As a result, a large volume of sharing can reflect attention rather than confirm
 
 The most effective response to the viral-proof fallacy is to examine origins rather than volume.
 
-Digital literacy researchers often recommend forms of lateral reading and source tracing that focus on finding the earliest evidence behind a claim rather than relying on how often it appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[UChicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">Library Guides The SIFT Method</span><span class="citation-popover-snippet">UChicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[2libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — Lateral reading provides a more complete picture of the credibility of a sou...</span></span></span>
+Digital literacy researchers often recommend forms of lateral reading and source tracing that focus on finding the earliest evidence behind a claim rather than relying on how often it appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[UChicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">Library Guides The SIFT Method</span><span class="citation-popover-snippet">UChicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy d...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[2libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — Lateral reading provides a more complete picture of the credibility of a sou...</span></span></span>
 
 A practical approach is:
 
@@ -381,272 +381,272 @@ The central lesson is straightforward. Viral sharing measures reach, not truth. 
 
 Independent confirmation requires separate sources that arrive at the same conclusion through their own observations, records, investigations, or testimony. Repetition alone does not meet that standard.
 
-In the [context]({{ 'context/' | relative_url }}) of rumours and unverified claims, the fallacy arises when social visibility is treated as proof. The number of times a claim is shared may tell us how effectively it travelled through a network. It does not, by itself, tell us whether the claim is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
+In the [context]({{ 'context/' | relative_url }}) of rumours and unverified claims, the fallacy arises when social visibility is treated as proof. The number of times a claim is shared may tell us how effectively it travelled through a network. It does not, by itself, tell us whether the claim is true.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When sharing looks like evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When sharing looks like evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Addresses viral claims and false signals of credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses viral claims and false signals of credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches verification over repetition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches verification over repetition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FXRBEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FXRBEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explores how online systems amplify rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how online systems amplify rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains familiarity and repetition effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains familiarity and repetition effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-proof-when-sharing-looks-like-evidence-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -662,7 +662,7 @@ In the [context]({{ 'context/' | relative_url }}) of rumours and unverified clai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -682,7 +682,7 @@ In the [context]({{ 'context/' | relative_url }}) of rumours and unverified clai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -714,7 +714,7 @@ In the [context]({{ 'context/' | relative_url }}) of rumours and unverified clai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ In the [context]({{ 'context/' | relative_url }}) of rumours and unverified clai
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -802,155 +802,155 @@ In the [context]({{ 'context/' | relative_url }}) of rumours and unverified clai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.07562</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredi...</p></details>
+   Link:<a href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.07562</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2005.04682" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2005.04682</a>  
+   Link:<a href="https://arxiv.org/abs/2005.04682" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2005.04682</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 304 — Algorithmic mechanisms on digital media...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 304 — Algorithmic mechanisms on digital media...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: guides.lib.uchicago.edu  
    Title: Library Guides The SIFT Method  
-   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UChicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy d...</p></details>
+   Link:<a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UChicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy d...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: libguides.mnsu.edu  
-   Link: <a href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mnsu.edu/sourcecredibility/lateralreading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — Lateral reading provides a more complete picture of the credibility of a sou...</p></details>
+   Link:<a href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mnsu.edu/sourcecredibility/lateralreading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — Lateral reading provides a more complete picture of the credibility of a sou...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ide.mit.edu  
    Title: 2017 IDE Research Brief False News  
-   Link: <a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — With this research in hand, we can consider the implications of false news on hotly d...</p></details>
+   Link:<a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — With this research in hand, we can consider the implications of false news on hotly d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wittenberg.libguides.com  
-   Link: <a href="https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234" target="_blank" rel="noopener noreferrer nofollow">https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading / SIFT Method - Communication &amp; Digital...When evaluating web sources, &quot;lateral reading&quot; (&quot;lateral&quot; meaning &quot;side-to-side&quot;) refe...</p></details>
+   Link:<a href="https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234" target="_blank" rel="noopener noreferrer nofollow">https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading / SIFT Method - Communication &amp; Digital...When evaluating web sources, &quot;lateral reading&quot; (&quot;lateral&quot; meaning &quot;side-to-side&quot;) refe...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How false news can spread  
-   Link: <a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cSKGa_7XJkg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cSKGa_7XJkg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Illusory Truth Effect  
-   Link: <a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cXFxRkjZNiw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How does misleading and emotionally charged content spread faster than facts?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cXFxRkjZNiw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How does misleading and emotionally charged content spread faster than facts?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>used a data set of rumor [cascades](&amp;#123;&amp;#123; &#x27;cascades/&#x27; | relative_url &amp;#125;&amp;#125;) on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>used a data set of rumor [cascades](&amp;#123;&amp;#123; &#x27;cascades/&#x27; | relative_url &amp;#125;&amp;#125;) on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/23794607261423714</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/23794607261423714</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14070 — We investigated the differential diffusion of all of the veri...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14070 — We investigated the differential diffusion of all of the veri...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: libguides.clackamas.edu  
-   Link: <a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research help18 May 2026 — SIFT is a set of four fact-checking strategies that guide you through quickly making a decision about whether...</p></details>
+   Link:<a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research help18 May 2026 — SIFT is a set of four fact-checking strategies that guide you through quickly making a decision about whether...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: library.nwacc.edu  
-   Link: <a href="https://library.nwacc.edu/lateralreading/sift" target="_blank" rel="noopener noreferrer nofollow">https://library.nwacc.edu/lateralreading/sift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nwacc.eduLibGuides: Lateral Reading: SIFT It8 Apr 2026 — Lateral Reading: SIFT It. An introduction to lateral reading skills and techniqu...</p></details>
+   Link:<a href="https://library.nwacc.edu/lateralreading/sift" target="_blank" rel="noopener noreferrer nofollow">https://library.nwacc.edu/lateralreading/sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nwacc.eduLibGuides: Lateral Reading: SIFT It8 Apr 2026 — Lateral Reading: SIFT It. An introduction to lateral reading skills and techniqu...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: saskoer.ca  
-   Link: <a href="https://www.saskoer.ca/disinformation/chapter/5-6-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/disinformation/chapter/5-6-lateral-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5.6 Lateral Reading – DisinformationLateral reading is a popular method for verifying information. It works like this: when someone searc...</p></details>
+   Link:<a href="https://www.saskoer.ca/disinformation/chapter/5-6-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/disinformation/chapter/5-6-lateral-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5.6 Lateral Reading – DisinformationLateral reading is a popular method for verifying information. It works like this: when someone searc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pbs.org  
    Title: false news travels 6 times faster on twitter than truthful news  
-   Link: <a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2018 — False news -- inaccurate information presented as truth or opinion presented as fact -- is 70 percent more likely to be retw...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2018 — False news -- inaccurate information presented as truth or opinion presented as fact -- is 70 percent more likely to be retw...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: guides.lib.byu.edu  
-   Link: <a href="https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management: Source Evaluation (SIFT)6 May 2026 — The SIFT method helps analyze information, especially news or other online media...</p></details>
+   Link:<a href="https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management: Source Evaluation (SIFT)6 May 2026 — The SIFT method helps analyze information, especially news or other online media...</p></details>
    Published: May 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Illusion of Truth: Why Your Brain Believes Familiar Lies  
-   Link: <a href="https://www.youtube.com/watch?v=AbsgLRfqsiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AbsgLRfqsiA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This curated selection of videos directly addresses the concept of viral sharing mistaken for independent confirmation by exploring the p...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AbsgLRfqsiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AbsgLRfqsiA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This curated selection of videos directly addresses the concept of viral sharing mistaken for independent confirmation by exploring the p...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — A majority of false stories are spread by a small numbe...</p></details>
+   Link:<a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — A majority of false stories are spread by a small numbe...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pirg.org  
    Title: misinformation on social media  
-   Link: <a href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://pirg.org/edfund/articles/misinformation-on-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</p></details>
+   Link:<a href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://pirg.org/edfund/articles/misinformation-on-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: libguides.calstatela.edu  
-   Link: <a href="https://libguides.calstatela.edu/c.php?g=1450827&amp;p=10783864" target="_blank" rel="noopener noreferrer nofollow">https://libguides.calstatela.edu/c.php?g=1450827&amp;p=10783864</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Fact-Checking - LibGuides - Cal State LA14 Oct 2025 — Lateral reading is: a powerful digital literacy strategy used by fact-c...</p></details>
+   Link:<a href="https://libguides.calstatela.edu/c.php?g=1450827&amp;p=10783864" target="_blank" rel="noopener noreferrer nofollow">https://libguides.calstatela.edu/c.php?g=1450827&amp;p=10783864</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Fact-Checking - LibGuides - Cal State LA14 Oct 2025 — Lateral reading is: a powerful digital literacy strategy used by fact-c...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: pausing reduce false news  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to consider why a headline is true or false can...by L Fazio · 2020 · Cited by 281 — In an online experiment, participants who paused to...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to consider why a headline is true or false can...by L Fazio · 2020 · Cited by 281 — In an online experiment, participants who paused to...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mediahelpingmedia.org  
    Title: sift for fact checking  
-   Link: <a href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/sift-for-fact-checking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT for fact-checking30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four steps: Stop, Investi...</p></details>
+   Link:<a href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/sift-for-fact-checking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT for fact-checking30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four steps: Stop, Investi...</p></details>

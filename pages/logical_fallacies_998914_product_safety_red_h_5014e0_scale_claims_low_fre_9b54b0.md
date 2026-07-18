@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale
 
 ## Introduction
 
-A common response in product safety disputes is: “Millions of customers use this product without problems.” The statement may be true, but as an argument it can become a [red herring]({{ 'red-herring/' | relative_url }}). A large user base does not by itself answer whether a smaller group faces a serious and foreseeable danger. In safety analysis, risk depends not only on how often an event occurs but also on how severe the outcome can be. A hazard that affects one user in a million may be acceptable if the consequence is minor inconvenience; the same frequency may be unacceptable if the consequence is death, permanent disability, or severe injury. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cedengineering.com">[www.cedengineering.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cedengineering.com</span><span class="citation-popover-title">www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case</span><span class="citation-popover-snippet">www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</span><span class="citation-popover-meta">Published: September 22, 2020</span></span></span>
+A common response in product safety disputes is: “Millions of customers use this product without problems.” The statement may be true, but as an argument it can become a [red herring]({{ 'red-herring/' | relative_url }}). A large user base does not by itself answer whether a smaller group faces a serious and foreseeable danger. In safety analysis, risk depends not only on how often an event occurs but also on how severe the outcome can be. A hazard that affects one user in a million may be acceptable if the consequence is minor inconvenience; the same frequency may be unacceptable if the consequence is death, permanent disability, or severe injury.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cedengineering.com">[www.cedengineering.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cedengineering.com</span><span class="citation-popover-title">www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case</span><span class="citation-popover-snippet">www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</span><span class="citation-popover-meta">Published: September 22, 2020</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-1-dark.svg" | relative_url }}" alt="Scale Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the problem arises when scale is used as a substitute for addressing the specific hazard. The relevant question is not how many people were unharmed. It is whether the exposed group, the mechanism of injury, and the severity of the outcome justify design changes, warnings, repairs, or recalls.
@@ -299,7 +299,7 @@ When those questions remain unanswered, citing customer scale can distract from 
 
 ## When Rare Injuries Still Justify Safety Action
 
-Product safety decisions are rarely based on frequency alone. Regulators, engineers, and courts commonly evaluate risk as a combination of probability and severity. A low-probability event may still require intervention if the consequences are catastrophic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cedengineering.com">[www.cedengineering.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cedengineering.com</span><span class="citation-popover-title">www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case</span><span class="citation-popover-snippet">www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</span><span class="citation-popover-meta">Published: September 22, 2020</span></span></span>
+Product safety decisions are rarely based on frequency alone. Regulators, engineers, and courts commonly evaluate risk as a combination of probability and severity. A low-probability event may still require intervention if the consequences are catastrophic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cedengineering.com">[www.cedengineering.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cedengineering.com</span><span class="citation-popover-title">www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case</span><span class="citation-popover-snippet">www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</span><span class="citation-popover-meta">Published: September 22, 2020</span></span></span>
 
 Consider the difference between two hypothetical defects:
 
@@ -316,7 +316,7 @@ This is why safety debates often focus on the exposed group rather than the tota
 
 The controversy surrounding the Peloton Tread+ treadmill illustrates the tension between scale claims and severe low-frequency hazards.
 
-The issue was not whether thousands of customers exercised safely. The concern was a specific mechanism: reports that children, pets, and objects could be pulled underneath the rear of the machine. The U.S. Consumer Product Safety Commission (CPSC) warned of serious risks including fractures and death. Reports included a child's death and multiple injuries involving children. Peloton ultimately recalled the product, and the company later agreed to pay a civil penalty related to reporting and recall issues. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[2U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Agrees to Pay $19 Million Civil Penalty for Failure...5 Jan 2023 — The civil penalty also sett...</span></span></span>
+The issue was not whether thousands of customers exercised safely. The concern was a specific mechanism: reports that children, pets, and objects could be pulled underneath the rear of the machine. The U.S. Consumer Product Safety Commission (CPSC) warned of serious risks including fractures and death. Reports included a child's death and multiple injuries involving children. Peloton ultimately recalled the product, and the company later agreed to pay a civil penalty related to reporting and recall issues. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[2U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Agrees to Pay $19 Million Civil Penalty for Failure...5 Jan 2023 — The civil penalty also sett...</span></span></span>
 
 From a logical standpoint, “many owners use the treadmill safely” did not resolve the underlying question. The relevant inquiry was whether the design created an unreasonable risk for a smaller, identifiable group of users and bystanders. The size of the satisfied customer base could not answer that design-specific concern.
 
@@ -324,7 +324,7 @@ From a logical standpoint, “many owners use the treadmill safely” did not re
 
 The Fisher-Price Rock 'n Play sleeper provides another example of why sales volume and customer adoption are not decisive safety arguments.
 
-Millions of units were sold, making the product commercially successful. Yet regulators and safety advocates became increasingly concerned about infant fatalities associated with the sleeper. The CPSC's recall notices eventually involved roughly 4.7 million units, and later reports documented additional deaths after the initial recall. The concern centred on a specific risk mechanism involving infant positioning and suffocation hazards, not on whether most purchasers reported positive experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parents.com">[Parents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parents.com</span><span class="citation-popover-snippet">These sleepers, initially popular for their ability to soothe babies to sleep, were found to pose significant risks, leading to suffocati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[3U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Agrees to Pay $19 Million Civil Penalty for Failure...5 Jan 2023 — The civil penalty also sett...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[Consumer Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-snippet">Fisher-Price Ignored Rock &#x27;n Play Risks While Babies Died7 Jun 2021 — Fisher-Price ignored warnings about its Rock &#x27;n Play Sleeper for ov...</span></span></span>
+Millions of units were sold, making the product commercially successful. Yet regulators and safety advocates became increasingly concerned about infant fatalities associated with the sleeper. The CPSC's recall notices eventually involved roughly 4.7 million units, and later reports documented additional deaths after the initial recall. The concern centred on a specific risk mechanism involving infant positioning and suffocation hazards, not on whether most purchasers reported positive experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parents.com">[Parents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parents.com</span><span class="citation-popover-snippet">These sleepers, initially popular for their ability to soothe babies to sleep, were found to pose significant risks, leading to suffocati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[3U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Agrees to Pay $19 Million Civil Penalty for Failure...5 Jan 2023 — The civil penalty also sett...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[Consumer Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-snippet">Fisher-Price Ignored Rock &#x27;n Play Risks While Babies Died7 Jun 2021 — Fisher-Price ignored warnings about its Rock &#x27;n Play Sleeper for ov...</span></span></span>
 
 The case demonstrates an important principle: a product can achieve enormous market penetration while still presenting a severe hazard to a subset of users. Popularity and safety are related questions, but they are not identical.
 
@@ -335,7 +335,7 @@ A key weakness in scale-based arguments is that they often treat all users as eq
 
 Suppose ten million people use a product. If a hazard affects only infants, children, or a particular usage scenario, the true population at risk may be far smaller than ten million. Looking only at total sales can dilute attention away from the group that actually faces the danger.
 
-A more informative analysis asks: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1229473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Corporate Risk Analysis: A Reckless Act?by WK Viscusi · 2000 · Cited by 286 — the internal Ford Pinto safety documents has been foll...</span></span></span>
+A more informative analysis asks:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1229473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Corporate Risk Analysis: A Reckless Act?by WK Viscusi · 2000 · Cited by 286 — the internal Ford Pinto safety documents has been foll...</span></span></span>
 
 **Who experiences the incidents?**
 
@@ -359,7 +359,7 @@ These questions address the hazard directly. Raw customer counts do not.
 
 ## The Ford Pinto Debate and Severity-Based Reasoning
 
-The Ford Pinto remains one of the most discussed examples in debates about acceptable risk. Although details of the historical narrative are often simplified in popular retellings, the controversy helped crystallise an important safety principle: evaluating risk requires considering both probability and severity rather than frequency alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebhc.org">[thebhc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebhc.org</span><span class="citation-popover-snippet">The Ford Pinto Case and the Development of Auto Safety...by MT Lee · 1998 · Cited by 56 — The first cars were quite slow, so serious acc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cedengineering.com">[2www.cedengineering.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cedengineering.com</span><span class="citation-popover-title">www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case</span><span class="citation-popover-snippet">www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</span><span class="citation-popover-meta">Published: September 22, 2020</span></span></span>
+The Ford Pinto remains one of the most discussed examples in debates about acceptable risk. Although details of the historical narrative are often simplified in popular retellings, the controversy helped crystallise an important safety principle: evaluating risk requires considering both probability and severity rather than frequency alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebhc.org">[thebhc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebhc.org</span><span class="citation-popover-snippet">The Ford Pinto Case and the Development of Auto Safety...by MT Lee · 1998 · Cited by 56 — The first cars were quite slow, so serious acc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cedengineering.com">[2www.cedengineering.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cedengineering.com</span><span class="citation-popover-title">www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case</span><span class="citation-popover-snippet">www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</span><span class="citation-popover-meta">Published: September 22, 2020</span></span></span>
 
 Critics argued that the existence of many uneventful vehicle trips did not eliminate concern about a fuel-system design that could contribute to especially severe outcomes in certain rear-end collisions. The enduring lesson is not that every rare event demands drastic action. Rather, it is that a low-frequency hazard cannot be dismissed merely because most users never encounter it.
 
@@ -392,269 +392,269 @@ Yes. Large user counts can provide useful [context]({{ 'context/' | relative_url
 In product safety debates, the decisive evidence usually concerns the exposed group, the injury mechanism, the severity of outcomes, and the [feasibility]({{ 'feasibility/' | relative_url }}) of reducing the danger. When those issues remain unresolved, appeals to customer scale risk functioning as a red herring—drawing attention to impressive numbers while leaving the central safety question unanswered.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Big Numbers Hide a Serious Hazard?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Big Numbers Hide a Serious Hazard?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Helps readers evaluate misleading uses of numbers and risk statistics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate misleading uses of numbers and risk statistics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Directly addresses misleading statistical presentations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses misleading statistical presentations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jeUlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Data Detective">The Data Detective</a>
-        </h4>
-        <p class="fr-book-author">By Tim Harford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jeUlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Data Detective">The Data Detective</a>
+</h4>
+<p class="fr-book-author">By Tim Harford</p>
         
-        <p class="fr-book-desc">Explains how large numbers can conceal important context and risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how large numbers can conceal important context and risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Provides tools for interpreting risk, frequency, and uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for interpreting risk, frequency, and uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Data+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Data Detective</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Data+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Data Detective</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fire Safety Poster – Workplace Fire Risk &amp; Evacuation Chart A2"><img src="{{ '/assets/images/marketplace-covers/a93a6da91d6080d866b4.jpg' | relative_url }}" alt="Listing image for Fire Safety Poster – Workplace Fire Risk &amp; Evacuation Chart A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fire Safety Poster – Workplace Fire Risk &amp; Evacuation Chart A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safety risk poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: safety risk poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fire Safety Poster – Workplace Fire Risk &amp; Evacuation Chart A2"><img src="{{ '/assets/images/marketplace-covers/a93a6da91d6080d866b4.jpg' | relative_url }}" alt="Listing image for Fire Safety Poster – Workplace Fire Risk &amp; Evacuation Chart A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fire Safety Poster – Workplace Fire Risk &amp; Evacuation Chart A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safety risk poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: safety risk poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be careful out there! Car and van drivers risk of being killed Safety Poster"><img src="{{ '/assets/images/marketplace-covers/5a34e3e89f6234f39db9.jpg' | relative_url }}" alt="Listing image for Be careful out there! Car and van drivers risk of being killed Safety Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be careful out there! Car and van drivers risk of being killed Safety Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safety risk poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: safety risk poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be careful out there! Car and van drivers risk of being killed Safety Poster"><img src="{{ '/assets/images/marketplace-covers/5a34e3e89f6234f39db9.jpg' | relative_url }}" alt="Listing image for Be careful out there! Car and van drivers risk of being killed Safety Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be careful out there! Car and van drivers risk of being killed Safety Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safety risk poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: safety risk poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First Aid Station Low Risk 1 to 100 People BS8599 c/w Health &amp; Safety Law Poster"><img src="{{ '/assets/images/marketplace-covers/fdde0a0bc31a6da26029.jpg' | relative_url }}" alt="Listing image for First Aid Station Low Risk 1 to 100 People BS8599 c/w Health &amp; Safety Law Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">First Aid Station Low Risk 1 to 100 People BS8599 c/w Health &amp; Safety Law Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safety risk poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: safety risk poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First Aid Station Low Risk 1 to 100 People BS8599 c/w Health &amp; Safety Law Poster"><img src="{{ '/assets/images/marketplace-covers/fdde0a0bc31a6da26029.jpg' | relative_url }}" alt="Listing image for First Aid Station Low Risk 1 to 100 People BS8599 c/w Health &amp; Safety Law Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">First Aid Station Low Risk 1 to 100 People BS8599 c/w Health &amp; Safety Law Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safety risk poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: safety risk poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Poster RISK OF INJURY - BE CAREFUL - HOUSEHOLD - WORK - SAFETY"><img src="{{ '/assets/images/marketplace-covers/63ffe6122b3c56c584ef.jpg' | relative_url }}" alt="Listing image for Original Vintage Poster RISK OF INJURY - BE CAREFUL - HOUSEHOLD - WORK - SAFETY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Poster RISK OF INJURY - BE CAREFUL - HOUSEHOLD - WORK - SAFETY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safety risk poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: safety risk poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Poster RISK OF INJURY - BE CAREFUL - HOUSEHOLD - WORK - SAFETY"><img src="{{ '/assets/images/marketplace-covers/63ffe6122b3c56c584ef.jpg' | relative_url }}" alt="Listing image for Original Vintage Poster RISK OF INJURY - BE CAREFUL - HOUSEHOLD - WORK - SAFETY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Poster RISK OF INJURY - BE CAREFUL - HOUSEHOLD - WORK - SAFETY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safety risk poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: safety risk poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=safety+risk+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scale-claims-can-big-numbers-hide-a-serious-hazard-logical-fallacies-safety-risk-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -670,7 +670,7 @@ In product safety debates, the decisive evidence usually concerns the exposed gr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -690,7 +690,7 @@ In product safety debates, the decisive evidence usually concerns the exposed gr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -722,7 +722,7 @@ In product safety debates, the decisive evidence usually concerns the exposed gr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -752,7 +752,7 @@ In product safety debates, the decisive evidence usually concerns the exposed gr
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -810,129 +810,129 @@ In product safety debates, the decisive evidence usually concerns the exposed gr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cedengineering.com  
    Title: www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case  
-   Link: <a href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</p></details>
+   Link:<a href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</p></details>
    Published: September 22, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Using the Peloton Tread+ Urgent Warning Comes...CPSC staff believes the Peloton Tread+ poses serious risks to children for...</p></details>
+   Link:<a href="https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Using the Peloton Tread+ Urgent Warning Comes...CPSC staff believes the Peloton Tread+ poses serious risks to children for...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionPeloton Agrees to Pay $19 Million Civil Penalty for Failure...5 Jan 2023 — The civil penalty also sett...</p></details>
+   Link:<a href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionPeloton Agrees to Pay $19 Million Civil Penalty for Failure...5 Jan 2023 — The civil penalty also sett...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/Recalls/2023/Fisher-Price-Reannounces-Recall-of-4-7-Million-Rock-n-Play-Sleepers-At-Least-Eight-Deaths-Occurred-After-Recall" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Recalls/2023/Fisher-Price-Reannounces-Recall-of-4-7-Million-Rock-n-Play-Sleepers-At-Least-Eight-Deaths-Occurred-After-Recall</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionFisher-Price Reannounces Recall of 4.7 Million Rock &#x27;n...9 Jan 2023 — Hazard: Infant fatalities have o...</p></details>
+   Link:<a href="https://www.cpsc.gov/Recalls/2023/Fisher-Price-Reannounces-Recall-of-4-7-Million-Rock-n-Play-Sleepers-At-Least-Eight-Deaths-Occurred-After-Recall" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Recalls/2023/Fisher-Price-Reannounces-Recall-of-4-7-Million-Rock-n-Play-Sleepers-At-Least-Eight-Deaths-Occurred-After-Recall</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionFisher-Price Reannounces Recall of 4.7 Million Rock &#x27;n...9 Jan 2023 — Hazard: Infant fatalities have o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: parents.com  
-   Link: <a href="https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/" target="_blank" rel="noopener noreferrer nofollow">https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These sleepers, initially popular for their ability to soothe babies to sleep, were found to pose significant risks, leading to suffocati...</p></details>
+   Link:<a href="https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/" target="_blank" rel="noopener noreferrer nofollow">https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These sleepers, initially popular for their ability to soothe babies to sleep, were found to pose significant risks, leading to suffocati...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thebhc.org  
-   Link: <a href="https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ford Pinto Case and the Development of Auto Safety...by MT Lee · 1998 · Cited by 56 — The first cars were quite slow, so serious acc...</p></details>
+   Link:<a href="https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ford Pinto Case and the Development of Auto Safety...by MT Lee · 1998 · Cited by 56 — The first cars were quite slow, so serious acc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: icymi fisher price is re announcing its recall of rock n play sleepers after 8 m  
-   Link: <a href="https://www.facebook.com/WFSB3/posts/icymi-fisher-price-is-re-announcing-its-recall-of-rock-n-play-sleepers-after-8-m/554300060058694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WFSB3/posts/icymi-fisher-price-is-re-announcing-its-recall-of-rock-n-play-sleepers-after-8-m/554300060058694/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>#ICYMI: Fisher Price is re-announcing its recall of Rock &#x27;n...[https://www.cpsc](https://www.cpsc). gov/Recalls/2013/fisher-price-recalls-to- inspect-rock-n...</p></details>
+   Link:<a href="https://www.facebook.com/WFSB3/posts/icymi-fisher-price-is-re-announcing-its-recall-of-rock-n-play-sleepers-after-8-m/554300060058694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WFSB3/posts/icymi-fisher-price-is-re-announcing-its-recall-of-rock-n-play-sleepers-after-8-m/554300060058694/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#ICYMI: Fisher Price is re-announcing its recall of Rock &#x27;n...[https://www.cpsc](https://www.cpsc). gov/Recalls/2013/fisher-price-recalls-to- inspect-rock-n...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foxwesttexas/posts/the-cpsc-urged-consumers-to-stop-using-recalled-sperax-walking-pads-and-treadmil/1533001888825505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxwesttexas/posts/the-cpsc-urged-consumers-to-stop-using-recalled-sperax-walking-pads-and-treadmil/1533001888825505/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lls as they pose fall, burn and fire hazards...</p></details>
+   Link:<a href="https://www.facebook.com/foxwesttexas/posts/the-cpsc-urged-consumers-to-stop-using-recalled-sperax-walking-pads-and-treadmil/1533001888825505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxwesttexas/posts/the-cpsc-urged-consumers-to-stop-using-recalled-sperax-walking-pads-and-treadmil/1533001888825505/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lls as they pose fall, burn and fire hazards...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: consumerreports.org  
-   Link: <a href="https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fisher-Price Ignored Rock &#x27;n Play Risks While Babies Died7 Jun 2021 — Fisher-Price ignored warnings about its Rock &#x27;n Play Sleeper for ov...</p></details>
+   Link:<a href="https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fisher-Price Ignored Rock &#x27;n Play Risks While Babies Died7 Jun 2021 — Fisher-Price ignored warnings about its Rock &#x27;n Play Sleeper for ov...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Rock 'n Play  
-   Link: <a href="https://en.wikipedia.org/wiki/Rock_%27n_Play" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rock_%27n_Play</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rock &#x27;n PlayThe Rock &#x27;n Play was a baby sleeper produced by Fisher-Price. The product launched in 2009 and sold 4.7 million units befo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rock_%27n_Play" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rock_%27n_Play</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rock &#x27;n PlayThe Rock &#x27;n Play was a baby sleeper produced by Fisher-Price. The product launched in 2009 and sold 4.7 million units befo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: harrisbeachmurtha.com  
-   Link: <a href="https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/" target="_blank" rel="noopener noreferrer nofollow">https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2023, Peloton agreed to pay a $19065000 civil penalty, after recalling the Tread+ treadmill in May 2021...</p></details>
+   Link:<a href="https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/" target="_blank" rel="noopener noreferrer nofollow">https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2023, Peloton agreed to pay a $19065000 civil penalty, after recalling the Tread+ treadmill in May 2021...</p></details>
    Published: January 5, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: consumerreports.org  
-   Link: <a href="https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Urgent Safety Warning Issued for Peloton Tread+ Treadmill5 May 2021 — A CPSC spokesperson told CR that the Peloton Tread+ poses unique da...</p></details>
+   Link:<a href="https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Urgent Safety Warning Issued for Peloton Tread+ Treadmill5 May 2021 — A CPSC spokesperson told CR that the Peloton Tread+ poses unique da...</p></details>
    Published: May 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: consumernotice.org  
-   Link: <a href="https://www.consumernotice.org/products/child-safety/fisher-price-rock-n-play/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumernotice.org/products/child-safety/fisher-price-rock-n-play/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to sleep on their backs at roughly a 30-degree angle.Read more...</p></details>
+   Link:<a href="https://www.consumernotice.org/products/child-safety/fisher-price-rock-n-play/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumernotice.org/products/child-safety/fisher-price-rock-n-play/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to sleep on their backs at roughly a 30-degree angle.Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/law/court-finds-ford-ignored-pintos-safety-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/law/court-finds-ford-ignored-pintos-safety-problems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Court Finds That Ford Ignored Pinto&#x27;s Safety Problems | LawLegal proceedings revealed that Ford was aware of the Pinto&#x27;s unsafe crash-tes...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/law/court-finds-ford-ignored-pintos-safety-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/law/court-finds-ford-ignored-pintos-safety-problems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Court Finds That Ford Ignored Pinto&#x27;s Safety Problems | LawLegal proceedings revealed that Ford was aware of the Pinto&#x27;s unsafe crash-tes...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: autosafety.org  
-   Link: <a href="https://www.autosafety.org/pinto-madness/" target="_blank" rel="noopener noreferrer nofollow">https://www.autosafety.org/pinto-madness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pinto MadnessFord engineers discovered in pre-production crash tests that rear-end collisions would rupture the Pinto&#x27;s fuel system extre...</p></details>
+   Link:<a href="https://www.autosafety.org/pinto-madness/" target="_blank" rel="noopener noreferrer nofollow">https://www.autosafety.org/pinto-madness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pinto MadnessFord engineers discovered in pre-production crash tests that rear-end collisions would rupture the Pinto&#x27;s fuel system extre...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: onderlaw.com  
    Title: then vs now how the ford pinto case changed the legal landscape  
-   Link: <a href="https://onderlaw.com/blog/then-vs-now-how-the-ford-pinto-case-changed-the-legal-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://onderlaw.com/blog/then-vs-now-how-the-ford-pinto-case-changed-the-legal-landscape/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Pinto Case: Legal Changes29 Jun 2023 — The Ford Pinto case raised public awareness about product safety and the importance of holdin...</p></details>
+   Link:<a href="https://onderlaw.com/blog/then-vs-now-how-the-ford-pinto-case-changed-the-legal-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://onderlaw.com/blog/then-vs-now-how-the-ford-pinto-case-changed-the-legal-landscape/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Pinto Case: Legal Changes29 Jun 2023 — The Ford Pinto case raised public awareness about product safety and the importance of holdin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1229473" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1229473</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Corporate Risk Analysis: A Reckless Act?by WK Viscusi · 2000 · Cited by 286 — the internal Ford Pinto safety documents has been foll...</p></details>
+   Link:<a href="https://www.jstor.org/stable/1229473" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1229473</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Corporate Risk Analysis: A Reckless Act?by WK Viscusi · 2000 · Cited by 286 — the internal Ford Pinto safety documents has been foll...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: partnersforfamilyhealth.org  
    Title: aap urges recall of the fisher price rock n play sleeper  
-   Link: <a href="https://partnersforfamilyhealth.org/aap-urges-recall-of-the-fisher-price-rock-n-play-sleeper/" target="_blank" rel="noopener noreferrer nofollow">https://partnersforfamilyhealth.org/aap-urges-recall-of-the-fisher-price-rock-n-play-sleeper/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAP Urges Recall of the Fisher-Price Rock &#x27;n Play Sleeper10 Apr 2019 — The American Academy of Pediatrics (AAP) calls on the US Consumer...</p></details>
+   Link:<a href="https://partnersforfamilyhealth.org/aap-urges-recall-of-the-fisher-price-rock-n-play-sleeper/" target="_blank" rel="noopener noreferrer nofollow">https://partnersforfamilyhealth.org/aap-urges-recall-of-the-fisher-price-rock-n-play-sleeper/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAP Urges Recall of the Fisher-Price Rock &#x27;n Play Sleeper10 Apr 2019 — The American Academy of Pediatrics (AAP) calls on the US Consumer...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-leadership-nexus/business-law-the-ford-pinto-case-a-landmark-in-product-liability-and-corporate-ethics-1bcaeae7ab3c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-leadership-nexus/business-law-the-ford-pinto-case-a-landmark-in-product-liability-and-corporate-ethics-1bcaeae7ab3c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orate ethics, revolving around Ford Motor Company&#x27;s decision...Read more...</p></details>
+   Link:<a href="https://medium.com/the-leadership-nexus/business-law-the-ford-pinto-case-a-landmark-in-product-liability-and-corporate-ethics-1bcaeae7ab3c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-leadership-nexus/business-law-the-ford-pinto-case-a-landmark-in-product-liability-and-corporate-ethics-1bcaeae7ab3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orate ethics, revolving around Ford Motor Company&#x27;s decision...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/339823452/Cost-Benefit-Analysis-Case-Examples" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/339823452/Cost-Benefit-Analysis-Case-Examples</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>el system design, which was prone to exploding in rear-end...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/339823452/Cost-Benefit-Analysis-Case-Examples" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/339823452/Cost-Benefit-Analysis-Case-Examples</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>el system design, which was prone to exploding in rear-end...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wieandlaw.com  
    Title: peloton recalls tread and tread treadmills  
-   Link: <a href="https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/" target="_blank" rel="noopener noreferrer nofollow">https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peloton Recalls Tread+ and Tread Treadmills22 Apr 2021 — In the warning, the CPSC stated that it believed that the treadmill posed a seri...</p></details>
+   Link:<a href="https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/" target="_blank" rel="noopener noreferrer nofollow">https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peloton Recalls Tread+ and Tread Treadmills22 Apr 2021 — In the warning, the CPSC stated that it believed that the treadmill posed a seri...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/33157398" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33157398</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Pinto Case Study: Lessons on Business EthicsPinto drivers in rear-end incidents now face an increased risk of harm or death because...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/33157398" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33157398</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Pinto Case Study: Lessons on Business EthicsPinto drivers in rear-end incidents now face an increased risk of harm or death because...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: law.harvard.edu  
    Title: Corporate Risk Analysis: A Reckless Act?  
-   Link: <a href="https://www.law.harvard.edu/programs/olin_center/papers/pdf/304.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.harvard.edu/programs/olin_center/papers/pdf/304.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Kip Viscusiby WK Viscusi · Cited by 284 — The degree of concern for safety in turn sends signals to corporations in terms of the kinds...</p></details>
+   Link:<a href="https://www.law.harvard.edu/programs/olin_center/papers/pdf/304.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.harvard.edu/programs/olin_center/papers/pdf/304.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Kip Viscusiby WK Viscusi · Cited by 284 — The degree of concern for safety in turn sends signals to corporations in terms of the kinds...</p></details>

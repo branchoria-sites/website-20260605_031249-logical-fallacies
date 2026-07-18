@@ -504,7 +504,7 @@ image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3-overview-soci
 Equivocation is the logical fallacy that occurs when an argument quietly changes the meaning of a key word or phrase while treating it as if it has stayed the same. The problem is not ordinary ambiguity by itself. Many words have more than one legitimate meaning, and most conversations handle that through [context]({{ 'context/' | relative_url }}). Equivocation becomes fallacious when the argument’s persuasive force depends on sliding from one meaning to another without making the shift visible. The result is an argument that can sound neat, clever or even formally tidy, while its central connection has broken.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3-overview.webp" | relative_url }}" alt="Overview image for Equivocation" loading="eager" decoding="sync" fetchpriority="high">
-A classic pattern is: “The end of life is death. Happiness is the end of life. Therefore, death is happiness.” The word “end” first means termination, then purpose or goal. Once that shift is exposed, the conclusion no longer follows. The fallacy matters because it often hides in familiar, value-[loaded words]({{ 'loaded-words/' | relative_url }}) such as “free”, “natural”, “right”, “theory”, “law”, “fair”, “real” or “evidence”, where different meanings can be swapped mid-argument without the audience immediately noticing. The Stanford Encyclopedia of Philosophy defines equivocation as exploiting the ambiguity of a term or phrase that occurs at least twice in an argument, with one meaning in the first occurrence and another in the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy
+A classic pattern is: “The end of life is death. Happiness is the end of life. Therefore, death is happiness.” The word “end” first means termination, then purpose or goal. Once that shift is exposed, the conclusion no longer follows. The fallacy matters because it often hides in familiar, value-[loaded words]({{ 'loaded-words/' | relative_url }}) such as “free”, “natural”, “right”, “theory”, “law”, “fair”, “real” or “evidence”, where different meanings can be swapped mid-argument without the audience immediately noticing. The Stanford Encyclopedia of Philosophy defines equivocation as exploiting the ambiguity of a term or phrase that occurs at least twice in an argument, with one meaning in the first occurrence and another in the second.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy
 
 ## How the Meaning Shift Does the Work
 
@@ -512,16 +512,16 @@ The mechanism of equivocation is simple: the argument borrows credibility from o
 
 Consider the argument: “Only people with a right to speak should speak. I have a right to [free speech]({{ 'free-speech/' | relative_url }}). Therefore, I should be allowed to say anything anywhere without consequence.” The word “right” may move between a legal protection against certain government restrictions, a moral entitlement, a social permission and a guarantee of immunity from criticism. The argument may feel forceful because each use sounds connected to the same noble principle. But once the meanings are separated, the inference becomes much weaker.
 
-This is why equivocation is usually classed as a fallacy of ambiguity rather than a fallacy of [relevance]({{ 'relevance/' | relative_url }}) or evidence. The Internet Encyclopedia of Philosophy groups equivocation with ambiguity-based fallacies and distinguishes it from amphiboly and accent: equivocation is ambiguity of semantics, amphiboly is ambiguity of syntax, and accent is ambiguity of emphasis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internet.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internet.com">[internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internet.com</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesSee the fallacies of Amphiboly, Accent, and Equivocation. Amphiboly is ambiguity of syntax. E...</span></span></span> Encyclopedia of Philosophy In other words, equivocation is not mainly about a poorly arranged sentence or misleading stress on a word. It is about a term’s meaning changing while the argument pretends it has not.
+This is why equivocation is usually classed as a fallacy of ambiguity rather than a fallacy of [relevance]({{ 'relevance/' | relative_url }}) or evidence. The Internet Encyclopedia of Philosophy groups equivocation with ambiguity-based fallacies and distinguishes it from amphiboly and accent: equivocation is ambiguity of semantics, amphiboly is ambiguity of syntax, and accent is ambiguity of emphasis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internet.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internet.com">[internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internet.com</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesSee the fallacies of Amphiboly, Accent, and Equivocation. Amphiboly is ambiguity of syntax. E...</span></span></span> Encyclopedia of Philosophy In other words, equivocation is not mainly about a poorly arranged sentence or misleading stress on a word. It is about a term’s meaning changing while the argument pretends it has not.
 
-A useful test is to replace the repeated word with its intended meaning each time. If the argument suddenly looks much less convincing, the shared word was probably carrying more weight than the reasoning itself. “Rare novels are valuable” and “exciting novels are rare” do not combine cleanly unless “rare” means the same thing in both places. In one case it may mean scarce in the market; in the other it may mean uncommon as an [experience]({{ 'experience/' | relative_url }}). Philosophy Pages uses this kind of example to show that the inferential link in an argument holds only when the same meaning is preserved across the relevant statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.philosophypages.com/lg/e06c.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophypages.com">[Philosophy Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophypages.com</span><span class="citation-popover-snippet">Philosophy PagesFallacies of AmbiguityThe fallacies of ambiguity all involve a confusion of two or more different senses. Equivocation. A...</span></span></span>
+A useful test is to replace the repeated word with its intended meaning each time. If the argument suddenly looks much less convincing, the shared word was probably carrying more weight than the reasoning itself. “Rare novels are valuable” and “exciting novels are rare” do not combine cleanly unless “rare” means the same thing in both places. In one case it may mean scarce in the market; in the other it may mean uncommon as an [experience]({{ 'experience/' | relative_url }}). Philosophy Pages uses this kind of example to show that the inferential link in an argument holds only when the same meaning is preserved across the relevant statements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.philosophypages.com/lg/e06c.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophypages.com">[Philosophy Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophypages.com</span><span class="citation-popover-snippet">Philosophy PagesFallacies of AmbiguityThe fallacies of ambiguity all involve a confusion of two or more different senses. Equivocation. A...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3-Illustration-1-dark.svg" | relative_url }}" alt="Equivocation illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ambiguous Terms Are Not Automatically Fallacious
 
 A common mistake is to treat every ambiguous word as a fallacy. That is too quick. Language is flexible, and a word can carry several legitimate meanings without misleading anyone. “Light” can mean not heavy, not dark, or not serious. “Theory” can mean a casual guess in everyday speech, or a well-supported explanatory framework in science. “Natural” can refer to something not made by humans, something minimally processed, something normal, something healthy, or simply something familiar. Ambiguity becomes fallacious only when an argument depends on moving between such meanings as if they were identical.
 
-The Stanford Encyclopedia of Philosophy’s entry on ambiguity notes that ambiguity is generally a property of signs that have multiple legitimate interpretations. It also warns that ordinary speech often uses “ambiguity” loosely, sometimes to mean mere underspecification rather than a genuine clash of meanings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy That distinction is important for fair argument. A speaker may be vague, imprecise or incomplete without committing equivocation. Equivocation requires a specific argumentative role: the meaning shift must help the conclusion appear to follow.
+The Stanford Encyclopedia of Philosophy’s entry on ambiguity notes that ambiguity is generally a property of signs that have multiple legitimate interpretations. It also warns that ordinary speech often uses “ambiguity” loosely, sometimes to mean mere underspecification rather than a genuine clash of meanings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy That distinction is important for fair argument. A speaker may be vague, imprecise or incomplete without committing equivocation. Equivocation requires a specific argumentative role: the meaning shift must help the conclusion appear to follow.
 
 The difference can be seen in three cases:
 
@@ -547,7 +547,7 @@ Equivocation is especially common with words that are emotionally attractive, po
 
 Technical language creates another common trap. In science, a “theory” can be a robust explanatory framework supported by evidence; in everyday speech, it can mean a hunch. The familiar claim “evolution is only a theory” relies on that contrast: it borrows the scientific term and then evaluates it by the weaker everyday sense. The error is not that ordinary language is forbidden, but that the argument changes the standard without announcing it.
 
-Abstract terms are particularly vulnerable because they do not point to a single visible object. Critical-thinking educators often flag words such as “good”, “logical”, “civilised”, “meaning”, “art” and “life” as prone to equivocation because their use depends heavily on context and background assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.middlewaysociety.org/critical-thinking-5-ambiguity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: middlewaysociety.org">[Middle Way Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">middlewaysociety.org</span><span class="citation-popover-title">critical thinking 5 ambiguity</span><span class="citation-popover-snippet">Middle Way SocietyCritical Thinking 5: Ambiguity2 Feb 2014 — Ambiguity that affects the justification of an argument is known as equivoca...</span></span></span> The more abstract the term, the more important it is to ask what definition the argument actually needs.
+Abstract terms are particularly vulnerable because they do not point to a single visible object. Critical-thinking educators often flag words such as “good”, “logical”, “civilised”, “meaning”, “art” and “life” as prone to equivocation because their use depends heavily on context and background assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.middlewaysociety.org/critical-thinking-5-ambiguity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: middlewaysociety.org">[Middle Way Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">middlewaysociety.org</span><span class="citation-popover-title">critical thinking 5 ambiguity</span><span class="citation-popover-snippet">Middle Way SocietyCritical Thinking 5: Ambiguity2 Feb 2014 — Ambiguity that affects the justification of an argument is known as equivoca...</span></span></span> The more abstract the term, the more important it is to ask what definition the argument actually needs.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XnBfWthZ8X4" title="Informal Fallacies of Ambiguity: Equivocation, Amphiboly, Accent, Composition &amp; Division" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XnBfWthZ8X4" target="_blank" rel="noopener noreferrer">Informal Fallacies of Ambiguity: Equivocation, Amphiboly, Accent, Composition &amp; Division</a></p><p class="youtube-embed-meta">Channel: Examrace (UPSC, NET, NCERT, ICSE ...) &middot; Views: 18.2K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XnBfWthZ8X4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XnBfWthZ8X4">Open on YouTube</a></p></div></div></div>
 
@@ -561,7 +561,7 @@ In **amphiboly**, the sentence structure allows more than one reading. The issue
 
 In **accent**, emphasis changes interpretation. A sentence can carry different implications depending on which word is stressed or extracted. The problem is not necessarily the dictionary meaning of the words, but the way emphasis guides the audience’s reading.
 
-These distinctions appear in long-running treatments of fallacies of ambiguity, including the Internet Encyclopedia of Philosophy’s separation of equivocation, amphiboly and accent according to semantic, syntactic and emphatic ambiguity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internet.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internet.com">[internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internet.com</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesSee the fallacies of Amphiboly, Accent, and Equivocation. Amphiboly is ambiguity of syntax. E...</span></span></span> Encyclopedia of Philosophy They also reach back to ancient classifications. Aristotle’s *Sophistical Refutations* grouped several fallacies as dependent on language, and later discussions identify homonymy or equivocation as one of the core verbal fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icar.cnrs.fr/dicoplantin/fallacies-ii-aristotles-foundational-lis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icar.cnrs.fr">[ICAR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icar.cnrs.fr</span><span class="citation-popover-title">fallacies ii aristotles foundational lis</span><span class="citation-popover-snippet">fallacies ii aristotles foundational lis</span></span></span>
+These distinctions appear in long-running treatments of fallacies of ambiguity, including the Internet Encyclopedia of Philosophy’s separation of equivocation, amphiboly and accent according to semantic, syntactic and emphatic ambiguity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internet.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internet.com">[internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internet.com</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesSee the fallacies of Amphiboly, Accent, and Equivocation. Amphiboly is ambiguity of syntax. E...</span></span></span> Encyclopedia of Philosophy They also reach back to ancient classifications. Aristotle’s *Sophistical Refutations* grouped several fallacies as dependent on language, and later discussions identify homonymy or equivocation as one of the core verbal fallacies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://icar.cnrs.fr/dicoplantin/fallacies-ii-aristotles-foundational-lis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icar.cnrs.fr">[ICAR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icar.cnrs.fr</span><span class="citation-popover-title">fallacies ii aristotles foundational lis</span><span class="citation-popover-snippet">fallacies ii aristotles foundational lis</span></span></span>
 
 For readers, the practical difference is this: if the sentence can be fixed by rearranging grammar, the issue may be amphiboly; if it can be fixed by restoring the full quotation or intended stress, it may be accent; if it can be fixed by separating two senses of the same term, it is probably equivocation.
 
@@ -574,7 +574,7 @@ The fallacy also benefits from the “halo” around certain words. A term such 
 
 This is not always deliberate. A person can equivocate sincerely because they have not noticed that they are using a word in two ways. In fact, some of the most stubborn disagreements persist because both sides believe they are using the same term while attaching different standards to it. One person says “fair” and means proportional reward; another says “fair” and means equal access; a third means protection for the worst-off. The disagreement is partly substantive, but it is also definitional.
 
-Research on ambiguity in language and reasoning reinforces the broader point that ambiguity is not a rare defect but a normal feature of communication. Work on ambiguity in formal and computational settings notes that different agents may interpret the same information differently, and that standard logical models often need special treatment to represent that fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1401.2011" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A logic for reasoning about ambiguity</span><span class="citation-popover-snippet">arXiv A logic for reasoning about ambiguity</span></span></span> For everyday argument, the lesson is more modest: shared words do not guarantee shared meanings.
+Research on ambiguity in language and reasoning reinforces the broader point that ambiguity is not a rare defect but a normal feature of communication. Work on ambiguity in formal and computational settings notes that different agents may interpret the same information differently, and that standard logical models often need special treatment to represent that fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1401.2011" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A logic for reasoning about ambiguity</span><span class="citation-popover-snippet">arXiv A logic for reasoning about ambiguity</span></span></span> For everyday argument, the lesson is more modest: shared words do not guarantee shared meanings.
 
 ## How to Spot the Fallacy in Real Arguments
 
@@ -588,7 +588,7 @@ A practical check looks like this:
 4. **Rebuild the argument.** If the conclusion no longer follows, the original argument relied on equivocation.
 5. **Ask for a stable definition.** A fair [debate]({{ 'debate/' | relative_url }}) can continue only once the parties agree which sense is being used.
 
-This method is more reliable than simply accusing someone of “playing with words”. Equivocation is not a tone problem or a personality flaw. It is a specific break in the relation between premises and conclusion. Texas State University’s student resource states the point plainly: the fallacy occurs when a key term or phrase is used with one meaning in one part of an argument and another meaning elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/equivocation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This method is more reliable than simply accusing someone of “playing with words”. Equivocation is not a tone problem or a personality flaw. It is a specific break in the relation between premises and conclusion. Texas State University’s student resource states the point plainly: the fallacy occurs when a key term or phrase is used with one meaning in one part of an argument and another meaning elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/equivocation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A good challenge therefore sounds like: “When you say ‘free’ here, do you mean free of charge, free from legal restriction, or free from social criticism?” That question does not attack the speaker. It tests whether the argument can survive under a consistent definition.
 
@@ -599,7 +599,7 @@ Definitions can be used badly too. A person may try to win by imposing an eccent
 
 Good clarification has three qualities. First, it is **context-sensitive**: the definition should fit the subject being debated. “Force” means one thing in physics, another in law, and another in ordinary conversation. Second, it is **stable**: once a meaning is chosen for an argument, it should not shift without notice. Third, it is **shared or challengeable**: other participants should be able to accept it, refine it or reject it openly.
 
-Legal interpretation shows why this matters beyond classroom examples. Ambiguous language in contracts can lead to disputes because parties may later disagree about what a term meant in context. Legal discussions of ambiguity often distinguish mere disagreement from genuine ambiguity: a term is ambiguous when it is reasonably susceptible to more than one interpretation, not simply because one side dislikes the plain meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fhnylaw.com/sometimes-a-contract-is-ambiguous-and-sometimes-it-is-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fhnylaw.com">[Freiberger Haber LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fhnylaw.com</span><span class="citation-popover-title">Freiberger Haber LLPSometimes a Contract is Ambiguous, and Sometimes it is Not</span><span class="citation-popover-snippet">Freiberger Haber LLPSometimes a Contract is Ambiguous, and Sometimes it is Not</span></span></span> That legal point has a useful everyday analogue. The fact that two people disagree about a word does not prove equivocation, but it does signal a need to define the term before drawing conclusions from it.
+Legal interpretation shows why this matters beyond classroom examples. Ambiguous language in contracts can lead to disputes because parties may later disagree about what a term meant in context. Legal discussions of ambiguity often distinguish mere disagreement from genuine ambiguity: a term is ambiguous when it is reasonably susceptible to more than one interpretation, not simply because one side dislikes the plain meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fhnylaw.com/sometimes-a-contract-is-ambiguous-and-sometimes-it-is-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fhnylaw.com">[Freiberger Haber LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fhnylaw.com</span><span class="citation-popover-title">Freiberger Haber LLPSometimes a Contract is Ambiguous, and Sometimes it is Not</span><span class="citation-popover-snippet">Freiberger Haber LLPSometimes a Contract is Ambiguous, and Sometimes it is Not</span></span></span> That legal point has a useful everyday analogue. The fact that two people disagree about a word does not prove equivocation, but it does signal a need to define the term before drawing conclusions from it.
 
 The best response to suspected equivocation is therefore not a triumphant label, but a [repair]({{ 'repair/' | relative_url }}): “Let’s separate those two meanings.” Once the meanings are separated, the argument may collapse, need revision, or become more precise. Any of those outcomes improves the discussion.
 
@@ -614,269 +614,269 @@ The fallacy is also a reminder that clarity is not pedantry. Arguments about pub
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kXlIAXx5TXE" title="Equivocation (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kXlIAXx5TXE" target="_blank" rel="noopener noreferrer">Equivocation (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 33.2K &middot; Uploaded: February 2014 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kXlIAXx5TXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kXlIAXx5TXE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Key Word Change Meaning?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Key Word Change Meaning?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Includes equivocation and many real-world reasoning errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes equivocation and many real-world reasoning errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzjNnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzjNnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Makes ambiguity and fallacy concepts easy to spot.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Makes ambiguity and fallacy concepts easy to spot.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Helps readers identify when arguments rely on unclear terms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify when arguments rely on unclear terms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz09huOeEJcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tracy Bowell, Gary Kemp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jz09huOeEJcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tracy Bowell, Gary Kemp</p>
         
-        <p class="fr-book-desc">Covers ambiguity, language, and informal fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers ambiguity, language, and informal fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tracy+Bowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4200bf485c8da0528282.jpg' | relative_url }}" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4200bf485c8da0528282.jpg' | relative_url }}" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aristotle Philosophy Funny Greek Sa Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7269cccf64dc48c73080.jpg' | relative_url }}" alt="Listing image for Aristotle Philosophy Funny Greek Sa Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aristotle Philosophy Funny Greek Sa Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aristotle Philosophy Funny Greek Sa Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7269cccf64dc48c73080.jpg' | relative_url }}" alt="Listing image for Aristotle Philosophy Funny Greek Sa Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aristotle Philosophy Funny Greek Sa Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b0e90398867168870419.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b0e90398867168870419.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed"><img src="{{ '/assets/images/marketplace-covers/a3bffdabe7b0a6bedf20.jpg' | relative_url }}" alt="Listing image for Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed"><img src="{{ '/assets/images/marketplace-covers/a3bffdabe7b0a6bedf20.jpg' | relative_url }}" alt="Listing image for Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equivocation-did-the-key-word-change-meaning-logical-fallacies-philosophy-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -892,7 +892,7 @@ The fallacy is also a reminder that clarity is not pedantry. Arguments about pub
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -912,7 +912,7 @@ The fallacy is also a reminder that clarity is not pedantry. Arguments about pub
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -944,7 +944,7 @@ The fallacy is also a reminder that clarity is not pedantry. Arguments about pub
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -974,7 +974,7 @@ The fallacy is also a reminder that clarity is not pedantry. Arguments about pub
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1032,240 +1032,240 @@ The fallacy is also a reminder that clarity is not pedantry. Arguments about pub
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2025/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2025/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Ambiguity  
-   Link: <a href="https://plato.stanford.edu/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/ambiguity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyAmbiguity - Stanford Encyclopedia of Philosophyby A Sennet · 2011 · Cited by 293 — Ambiguity is genera...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/ambiguity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyAmbiguity - Stanford Encyclopedia of Philosophyby A Sennet · 2011 · Cited by 293 — Ambiguity is genera...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: icar.cnrs.fr  
    Title: fallacies ii aristotles foundational lis  
-   Link: <a href="https://icar.cnrs.fr/dicoplantin/fallacies-ii-aristotles-foundational-lis/" target="_blank" rel="noopener noreferrer nofollow">https://icar.cnrs.fr/dicoplantin/fallacies-ii-aristotles-foundational-lis/</a>  
+   Link:<a href="https://icar.cnrs.fr/dicoplantin/fallacies-ii-aristotles-foundational-lis/" target="_blank" rel="noopener noreferrer nofollow">https://icar.cnrs.fr/dicoplantin/fallacies-ii-aristotles-foundational-lis/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv A logic for reasoning about ambiguity  
-   Link: <a href="https://arxiv.org/abs/1401.2011" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1401.2011</a>  
+   Link:<a href="https://arxiv.org/abs/1401.2011" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1401.2011</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fhnylaw.com  
    Title: Freiberger Haber LLPSometimes a Contract is Ambiguous, and Sometimes it is Not  
-   Link: <a href="https://www.fhnylaw.com/sometimes-a-contract-is-ambiguous-and-sometimes-it-is-not" target="_blank" rel="noopener noreferrer nofollow">https://www.fhnylaw.com/sometimes-a-contract-is-ambiguous-and-sometimes-it-is-not</a>  
+   Link:<a href="https://www.fhnylaw.com/sometimes-a-contract-is-ambiguous-and-sometimes-it-is-not" target="_blank" rel="noopener noreferrer nofollow">https://www.fhnylaw.com/sometimes-a-contract-is-ambiguous-and-sometimes-it-is-not</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: philosophy.institute  
    Title: Ambiguity in Logic: The Root of Many Fallacies  
-   Link: <a href="https://philosophy.institute/logic/ambiguity-logic-root-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/ambiguity-logic-root-fallacies/</a>  
+   Link:<a href="https://philosophy.institute/logic/ambiguity-logic-root-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/ambiguity-logic-root-fallacies/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/spr2016/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2016/entries/ambiguity/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/spr2016/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2016/entries/ambiguity/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: web.stanford.edu  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
+   Link:<a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/ambiguity/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2013/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/ambiguity/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: logic ancient  
-   Link: <a href="https://plato.stanford.edu/entries/logic-ancient/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-ancient/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/logic-ancient/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-ancient/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: internet.com  
-   Link: <a href="https://www.internet.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.internet.com/</a>  
+   Link:<a href="https://www.internet.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.internet.com/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Equivocation (Logical Fallacy)  
-   Link: <a href="https://www.youtube.com/watch?v=kXlIAXx5TXE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kXlIAXx5TXE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Equivocation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kXlIAXx5TXE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kXlIAXx5TXE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Equivocation...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=x_8xKrKw19M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x_8xKrKw19M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equivocation Fallacy - With Simple, Practical, and Philosophical Examples...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x_8xKrKw19M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x_8xKrKw19M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Equivocation Fallacy - With Simple, Practical, and Philosophical Examples...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Equivocation Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=lcR4LruYlGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcR4LruYlGk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy of Equivocation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lcR4LruYlGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcR4LruYlGk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy of Equivocation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Fallacy of Equivocation  
-   Link: <a href="https://www.youtube.com/watch?v=oIqoJgvNiqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oIqoJgvNiqI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simpsons Logical Fallacies: Equivocation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oIqoJgvNiqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oIqoJgvNiqI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simpsons Logical Fallacies: Equivocation...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesSee the fallacies of Amphiboly, Accent, and Equivocation. Amphiboly is ambiguity of syntax. E...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesSee the fallacies of Amphiboly, Accent, and Equivocation. Amphiboly is ambiguity of syntax. E...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: philosophypages.com  
-   Link: <a href="https://www.philosophypages.com/lg/e06c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophypages.com/lg/e06c.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy PagesFallacies of AmbiguityThe fallacies of ambiguity all involve a confusion of two or more different senses. Equivocation. A...</p></details>
+   Link:<a href="https://www.philosophypages.com/lg/e06c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophypages.com/lg/e06c.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy PagesFallacies of AmbiguityThe fallacies of ambiguity all involve a confusion of two or more different senses. Equivocation. A...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: middlewaysociety.org  
    Title: critical thinking 5 ambiguity  
-   Link: <a href="https://www.middlewaysociety.org/critical-thinking-5-ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://www.middlewaysociety.org/critical-thinking-5-ambiguity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle Way SocietyCritical Thinking 5: Ambiguity2 Feb 2014 — Ambiguity that affects the justification of an argument is known as equivoca...</p></details>
+   Link:<a href="https://www.middlewaysociety.org/critical-thinking-5-ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://www.middlewaysociety.org/critical-thinking-5-ambiguity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Middle Way SocietyCritical Thinking 5: Ambiguity2 Feb 2014 — Ambiguity that affects the justification of an argument is known as equivoca...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: txst.edu  
-   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/equivocation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/equivocation.html</a>  
+   Link:<a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/equivocation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/equivocation.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: inquiresabound.wordpress.com  
-   Link: <a href="https://inquiresabound.wordpress.com/2020/12/03/equivocation/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2020/12/03/equivocation/</a>  
+   Link:<a href="https://inquiresabound.wordpress.com/2020/12/03/equivocation/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2020/12/03/equivocation/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Equivocation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Equivocation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Equivocation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Equivocation</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Sophistical Refutations  
-   Link: <a href="https://en.wikipedia.org/wiki/Sophistical_Refutations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sophistical_Refutations</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sophistical_Refutations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sophistical_Refutations</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scribbr.co.uk  
    Title: Fallacy of Equivocation | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/fallacy-of-equivocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/fallacy-of-equivocation/</a>  
+   Link:<a href="https://www.scribbr.co.uk/fallacy/fallacy-of-equivocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/fallacy-of-equivocation/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: en.wikiversity.org  
    Title: Fallacies of Ambiguity  
-   Link: <a href="https://en.wikiversity.org/wiki/Recognizing_Fallacies/Fallacies_of_Ambiguity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikiversity.org/wiki/Recognizing_Fallacies/Fallacies_of_Ambiguity</a>  
+   Link:<a href="https://en.wikiversity.org/wiki/Recognizing_Fallacies/Fallacies_of_Ambiguity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikiversity.org/wiki/Recognizing_Fallacies/Fallacies_of_Ambiguity</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: spectrum.com  
-   Link: <a href="https://www.spectrum.com/internet" target="_blank" rel="noopener noreferrer nofollow">https://www.spectrum.com/internet</a>  
+   Link:<a href="https://www.spectrum.com/internet" target="_blank" rel="noopener noreferrer nofollow">https://www.spectrum.com/internet</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: fiveable.me  
-   Link: <a href="https://fiveable.me/critical-thinking/unit-8" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/critical-thinking/unit-8</a>  
+   Link:<a href="https://fiveable.me/critical-thinking/unit-8" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/critical-thinking/unit-8</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ioer.ilsharedlearning.org  
    Title: Internet Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://ioer.ilsharedlearning.org/resource/170358/Internet_Encyclopedia_of_Philosophy_Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://ioer.ilsharedlearning.org/resource/170358/Internet_Encyclopedia_of_Philosophy_Fallacies</a>  
+   Link:<a href="https://ioer.ilsharedlearning.org/resource/170358/Internet_Encyclopedia_of_Philosophy_Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://ioer.ilsharedlearning.org/resource/170358/Internet_Encyclopedia_of_Philosophy_Fallacies</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: studocu.com  
    Title: Fallacies of Ambiguity  
-   Link: <a href="https://www.studocu.com/row/messages/question/10453552/fallacies-of-ambiguity-with-examples" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/messages/question/10453552/fallacies-of-ambiguity-with-examples</a>  
+   Link:<a href="https://www.studocu.com/row/messages/question/10453552/fallacies-of-ambiguity-with-examples" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/messages/question/10453552/fallacies-of-ambiguity-with-examples</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: idiom.ucsd.edu  
-   Link: <a href="https://idiom.ucsd.edu/~schane/law/ambiguity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://idiom.ucsd.edu/~schane/law/ambiguity.pdf</a>  
+   Link:<a href="https://idiom.ucsd.edu/~schane/law/ambiguity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://idiom.ucsd.edu/~schane/law/ambiguity.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: logicwrendolf.blogspot.com  
    Title: fallacies of ambiguity  
-   Link: <a href="https://logicwrendolf.blogspot.com/2014/01/fallacies-of-ambiguity.html" target="_blank" rel="noopener noreferrer nofollow">https://logicwrendolf.blogspot.com/2014/01/fallacies-of-ambiguity.html</a>  
+   Link:<a href="https://logicwrendolf.blogspot.com/2014/01/fallacies-of-ambiguity.html" target="_blank" rel="noopener noreferrer nofollow">https://logicwrendolf.blogspot.com/2014/01/fallacies-of-ambiguity.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: holisticapologetics.com  
    Title: the fallacy of equivocation  
-   Link: <a href="https://www.holisticapologetics.com/post/the-fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.holisticapologetics.com/post/the-fallacy-of-equivocation</a>  
+   Link:<a href="https://www.holisticapologetics.com/post/the-fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.holisticapologetics.com/post/the-fallacy-of-equivocation</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: askphilosophers.org  
-   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
+   Link:<a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/equivocation</a>  
+   Link:<a href="https://www.britannica.com/topic/equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/equivocation</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/technology/Internet" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/Internet</a>  
+   Link:<a href="https://www.britannica.com/technology/Internet" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/Internet</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: courses.lumenlearning.com  
    Title: fallacies of ambiguity  
-   Link: <a href="https://courses.lumenlearning.com/elpaso-introphilosophy/chapter/fallacies-of-ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/elpaso-introphilosophy/chapter/fallacies-of-ambiguity/</a>  
+   Link:<a href="https://courses.lumenlearning.com/elpaso-introphilosophy/chapter/fallacies-of-ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/elpaso-introphilosophy/chapter/fallacies-of-ambiguity/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: philosophybytheway.blogspot.com  
-   Link: <a href="https://philosophybytheway.blogspot.com/2024/05/equivocation.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2024/05/equivocation.html</a>  
+   Link:<a href="https://philosophybytheway.blogspot.com/2024/05/equivocation.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2024/05/equivocation.html</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: gwmatthews.github.io  
-   Link: <a href="https://gwmatthews.github.io/ethics/3-2-ambiguity.html" target="_blank" rel="noopener noreferrer nofollow">https://gwmatthews.github.io/ethics/3-2-ambiguity.html</a>  
+   Link:<a href="https://gwmatthews.github.io/ethics/3-2-ambiguity.html" target="_blank" rel="noopener noreferrer nofollow">https://gwmatthews.github.io/ethics/3-2-ambiguity.html</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ambiguity-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ambiguity-Fallacy</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Ambiguity-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ambiguity-Fallacy</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/jj.18254841" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/jj.18254841</a>  
+   Link:<a href="https://www.jstor.org/stable/jj.18254841" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/jj.18254841</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100063988184088/posts/aristotles-sophistical-refutations-de-sophisticis-elenchis-is-a-foundational-wor/1095892012553728/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063988184088/posts/aristotles-sophistical-refutations-de-sophisticis-elenchis-is-a-foundational-wor/1095892012553728/</a>  
+   Link:<a href="https://www.facebook.com/100063988184088/posts/aristotles-sophistical-refutations-de-sophisticis-elenchis-is-a-foundational-wor/1095892012553728/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063988184088/posts/aristotles-sophistical-refutations-de-sophisticis-elenchis-is-a-foundational-wor/1095892012553728/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: compareinternet.com  
-   Link: <a href="https://www.compareinternet.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.compareinternet.com/</a>  
+   Link:<a href="https://www.compareinternet.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.compareinternet.com/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: imperialnepaltreks.com  
-   Link: <a href="https://imperialnepaltreks.com/ckfinder/userfiles/files/74e9ac53-6ca1-4d9c-a383-bf2b8fc72181.pdf" target="_blank" rel="noopener noreferrer nofollow">https://imperialnepaltreks.com/ckfinder/userfiles/files/74e9ac53-6ca1-4d9c-a383-bf2b8fc72181.pdf</a>  
+   Link:<a href="https://imperialnepaltreks.com/ckfinder/userfiles/files/74e9ac53-6ca1-4d9c-a383-bf2b8fc72181.pdf" target="_blank" rel="noopener noreferrer nofollow">https://imperialnepaltreks.com/ckfinder/userfiles/files/74e9ac53-6ca1-4d9c-a383-bf2b8fc72181.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: khanacademy.org  
-   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation</a>  
+   Link:<a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: broadbandnow.com  
-   Link: <a href="https://broadbandnow.com/" target="_blank" rel="noopener noreferrer nofollow">https://broadbandnow.com/</a>  
+   Link:<a href="https://broadbandnow.com/" target="_blank" rel="noopener noreferrer nofollow">https://broadbandnow.com/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: allconnect.com  
-   Link: <a href="https://www.allconnect.com/internet" target="_blank" rel="noopener noreferrer nofollow">https://www.allconnect.com/internet</a>  
+   Link:<a href="https://www.allconnect.com/internet" target="_blank" rel="noopener noreferrer nofollow">https://www.allconnect.com/internet</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: highspeedinternet.com  
-   Link: <a href="https://www.highspeedinternet.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.highspeedinternet.com/</a>
+   Link:<a href="https://www.highspeedinternet.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.highspeedinternet.com/</a>

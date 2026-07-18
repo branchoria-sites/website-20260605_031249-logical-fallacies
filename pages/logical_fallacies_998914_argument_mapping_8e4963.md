@@ -504,15 +504,15 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963-overview-
 Argument mapping is a practical way to find fallacies by turning a piece of reasoning into a visible structure: a main claim, the reasons offered for it, any objections, and the assumptions that make the reasons relevant. Instead of asking, “Which fallacy label can I attach to this?”, the map asks, “Where exactly does the support fail?” That shift matters because many weak arguments do not announce their flaw in a neat textbook form. The problem may be a hidden assumption, a missing bridge between evidence and conclusion, a premise that depends on another premise, or an objection that has been ignored.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-overview.webp" | relative_url }}" alt="Overview image for Argument Map" loading="eager" decoding="sync" fetchpriority="high">
-Within the wider subject of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), argument mapping is best treated as an implementation tool. It does not replace judgement, evidence-checking or knowledge of fallacy types. Its value is that it slows the reader down, separates the moving parts, and makes weak links easier to test. Research and teaching guides describe argument maps as visual representations of conclusions, premises, co-premises, objections, counterarguments and inference links, commonly used to support critical thinking and [debate]({{ 'debate/' | relative_url }}) analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
+Within the wider subject of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), argument mapping is best treated as an implementation tool. It does not replace judgement, evidence-checking or knowledge of fallacy types. Its value is that it slows the reader down, separates the moving parts, and makes weak links easier to test. Research and teaching guides describe argument maps as visual representations of conclusions, premises, co-premises, objections, counterarguments and inference links, commonly used to support critical thinking and [debate]({{ 'debate/' | relative_url }}) analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
 ## Why mapping catches what fallacy lists miss
 
 A fallacy list can be useful, but it encourages a risky shortcut: hearing a familiar pattern and naming it too quickly. Argument mapping starts earlier. It reconstructs the reasoning before judging it. A reader identifies the conclusion, rewrites supporting claims as clear statements, shows which claims work together, and marks objections or missing assumptions. This makes the diagnosis more precise: the weakness may sit in the evidence, the inference, the wording, or the background assumption.
 
-For example, consider the claim: “This new school policy will improve learning because a high-performing school introduced the same policy last year.” A fallacy-hunter might immediately suspect a weak analogy or hasty generalisation. A map asks for more detail. The conclusion is the policy prediction. The visible reason is that another school used the policy and performed well. The hidden assumption is that the two schools are similar in the ways that matter: staffing, funding, student needs, implementation quality and measurement of “learning”. Once those parts are separated, the weak link is not merely “analogy” in the abstract. It is the unsupported assumption that success in one setting transfers to another.
+For example, consider the claim: “This new school policy will improve learning because a high-performing school introduced the same policy last year.” A fallacy-hunter might immediately suspect a weak analogy or hasty generalisation. A map asks for. The conclusion is the policy prediction. The visible reason is that another school used the policy and performed well. The hidden assumption is that the two schools are similar in the ways that matter: staffing, funding, student needs, implementation quality and measurement of “learning”. Once those parts are separated, the weak link is not merely “analogy” in the abstract. It is the unsupported assumption that success in one setting transfers to another.
 
-This approach fits the way informal fallacies usually work. In real speech and writing, the issue is often not an invalid formal pattern but a gap between what the premises establish and what the conclusion claims. Work on argument reasoning similarly stresses that natural-language arguments often rely on implicit [warrants]({{ 'warrants/' | relative_url }}): unstated bridges explaining why a premise supports a claim. Reconstructing those warrants is difficult because they depend on [context]({{ 'context/' | relative_url }}) and common sense, not just surface wording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
+This approach fits the way informal fallacies usually work. In real speech and writing, the issue is often not an invalid formal pattern but a gap between what the premises establish and what the conclusion claims. Work on argument reasoning similarly stresses that natural-language arguments often rely on implicit [warrants]({{ 'warrants/' | relative_url }}): unstated bridges explaining why a premise supports a claim. Reconstructing those warrants is difficult because they depend on [context]({{ 'context/' | relative_url }}) and common sense, not just surface wording.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
 
 ## Claims and premises
 
@@ -532,17 +532,17 @@ A useful basic routine is:
 
 </div>
 
-The distinction between independent and [linked premises]({{ 'linked-premises/' | relative_url }}) is especially important. Some reasons support a claim on their own; others only work as a set. In the classic “Socrates is mortal” example, “All humans are mortal” and “Socrates is human” form one linked reason. Treating them as two independent reasons would distort the argument, because neither premise alone establishes the conclusion. Argument-mapping literature highlights this as a common student error and a reason why maps can be clearer than ordinary prose outlines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Twardy-Argument-Maps-Improve-CT1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">Argument Maps Improve Critical Thinkingby CR Twardy · Cited by 357 — A reason is a collection of claims which help each other...</span></span></span>
+The distinction between independent and [linked premises]({{ 'linked-premises/' | relative_url }}) is especially important. Some reasons support a claim on their own; others only work as a set. In the classic “Socrates is mortal” example, “All humans are mortal” and “Socrates is human” form one linked reason. Treating them as two independent reasons would distort the argument, because neither premise alone establishes the conclusion. Argument-mapping literature highlights this as a common student error and a reason why maps can be clearer than ordinary prose outlines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Twardy-Argument-Maps-Improve-CT1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">Argument Maps Improve Critical Thinkingby CR Twardy · Cited by 357 — A reason is a collection of claims which help each other...</span></span></span>
 
 The same point applies to fallacies. A conclusion may look unsupported because one premise seems weak in isolation, when the author intended it to function with a co-premise. Conversely, an argument may look stronger than it is because several claims are visually or rhetorically piled up, even though they all depend on the same fragile assumption. Mapping exposes whether the support is genuinely cumulative or merely repetitive.
 
 ## Hidden assumptions
 
-Hidden assumptions are often where fallacies live. A speaker may state a premise and a conclusion but leave the connecting principle unstated. In Toulmin’s model of argument, this connecting principle is commonly called the warrant: the assumption that makes the evidence relevant to the claim. Purdue OWL summarises the Toulmin method as breaking arguments into claim, grounds, warrant, qualifier, rebuttal and backing, with the warrant linking the claim to its grounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</span></span></span>
+Hidden assumptions are often where fallacies live. A speaker may state a premise and a conclusion but leave the connecting principle unstated. In Toulmin’s model of argument, this connecting principle is commonly called the warrant: the assumption that makes the evidence relevant to the claim. Purdue OWL summarises the Toulmin method as breaking arguments into claim, grounds, warrant, qualifier, rebuttal and backing, with the warrant linking the claim to its grounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</span></span></span>
 
 Argument mapping makes warrants visible by asking what must be true for the arrow between a premise and conclusion to work. In a policy argument, that might mean surfacing assumptions about incentives, costs, human behaviour, institutional capacity or fairness. In a scientific argument, it might mean checking whether a study actually supports the public claim being made from it.
 
-A concrete example is health misinformation that cites a real biomedical paper as “proof” for a much stronger claim than the paper supports. Recent research on misrepresented scientific publications argues that this type of fallacy often lies in the implicit reasoning between the cited evidence and the false conclusion, not merely in the conclusion itself. The Missci and MissciPlus work reconstructs those fallacious bridges, pairing misused scientific evidence with claims that only seem supported when the reasoning is distorted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
+A concrete example is health misinformation that cites a real biomedical paper as “proof” for a much stronger claim than the paper supports. Recent research on misrepresented scientific publications argues that this type of fallacy often lies in the implicit reasoning between the cited evidence and the false conclusion, not merely in the conclusion itself. The Missci and MissciPlus work reconstructs those fallacious bridges, pairing misused scientific evidence with claims that only seem supported when the reasoning is distorted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
 
 For a human reader, the lesson is straightforward: do not stop at “there is a source”. Map the source’s actual finding, the claim being made from it, and the missing bridge between them. The fallacy may be an overgeneralisation, cherry-picking, false cause, equivocation or [appeal to authority]({{ 'authority/' | relative_url }}), but the map shows the exact move that made the source appear stronger than it was.
 
@@ -571,7 +571,7 @@ Mapping also helps distinguish two different criticisms. “The evidence is fals
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-2-dark.svg" | relative_url }}" alt="Argument Map illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical map for a policy claim
 
-Take this short argument: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Take this short argument:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 “Cities should ban private cars from the centre because air pollution is harmful, and cities with fewer cars often have cleaner air.”
 
@@ -591,17 +591,17 @@ A quick map might look like this in prose:
 
 The map does not show that the car ban is wrong. It shows what must be checked before the argument is strong. Without the implementation assumptions, the argument risks moving from a true premise — pollution is harmful — to a policy conclusion without proving that this intervention will solve the problem fairly and effectively. That is the difference between identifying a fallacy and merely disagreeing with a proposal.
 
-This kind of structure is why argument maps are used in critical-thinking teaching and complex decision analysis. Educational resources describe mapping as a way to clarify conclusions, premises, objections, suppressed premises and suppressed objections, while Rationale-style guides emphasise organising information, structuring reasoning, considering evidence, identifying assumptions and evaluating arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kelvinmcqueen.com/teaching/syllabi/logic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelvinmcqueen.com">[Kelvin J. McQueen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelvinmcqueen.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This kind of structure is why argument maps are used in critical-thinking teaching and complex decision analysis. Educational resources describe mapping as a way to clarify conclusions, premises, objections, suppressed premises and suppressed objections, while Rationale-style guides emphasise organising information, structuring reasoning, considering evidence, identifying assumptions and evaluating arguments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kelvinmcqueen.com/teaching/syllabi/logic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelvinmcqueen.com">[Kelvin J. McQueen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelvinmcqueen.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TNbWpmgDcr4" title="The Easiest Way to Improve Critical Thinking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TNbWpmgDcr4" target="_blank" rel="noopener noreferrer">The Easiest Way to Improve Critical Thinking</a></p><p class="youtube-embed-meta">Channel: Argumentful &middot; Views: 959 &middot; Uploaded: November 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TNbWpmgDcr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TNbWpmgDcr4">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence says about learning with maps
 
-Argument mapping has been studied most directly as a critical-thinking teaching tool. A controlled-trial account by Dwyer, Hogan and Stewart describes argument mapping as a box-and-arrow method designed to simplify argument structure and help learners assimilate core statements and relations. Their work compared argument mapping training with hierarchical outline training for teaching critical-thinking skills. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/259286333_The_promotion_of_critical_thinking_skills_through_argument_mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The promotion of critical thinking skills through argument mapping</span><span class="citation-popover-snippet">Research Gate The promotion of critical thinking skills through argument mapping</span></span></span>
+Argument mapping has been studied most directly as a critical-thinking teaching tool. A controlled-trial account by Dwyer, Hogan and Stewart describes argument mapping as a box-and-arrow method designed to simplify argument structure and help learners assimilate core statements and relations. Their work compared argument mapping training with hierarchical outline training for teaching critical-thinking skills.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/259286333_The_promotion_of_critical_thinking_skills_through_argument_mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The promotion of critical thinking skills through argument mapping</span><span class="citation-popover-snippet">Research Gate The promotion of critical thinking skills through argument mapping</span></span></span>
 
-A later e-learning study, indexed by ERIC, examined an eight-week argument-mapping critical-thinking course with undergraduate psychology students, using the Halpern Critical Thinking Assessment before and after the intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=EJ984318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.gov</span><span class="citation-popover-title">eric.ed.gov</span><span class="citation-popover-snippet">eric.ed.gov</span></span></span> This does not mean that any diagram automatically improves reasoning. It suggests that mapping can be useful when it is taught as a disciplined practice: identify claims, distinguish reasons from objections, make assumptions explicit and evaluate the strength of inferential links.
+A later e-learning study, indexed by ERIC, examined an eight-week argument-mapping critical-thinking course with undergraduate psychology students, using the Halpern Critical Thinking Assessment before and after the intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=EJ984318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.gov</span><span class="citation-popover-title">eric.ed.gov</span><span class="citation-popover-snippet">eric.ed.gov</span></span></span> This does not mean that any diagram automatically improves reasoning. It suggests that mapping can be useful when it is taught as a disciplined practice: identify claims, distinguish reasons from objections, make assumptions explicit and evaluate the strength of inferential links.
 
-Other scholarship explains why mapping can help. Davies distinguishes argument mapping from concept mapping and mind mapping: concept maps show relationships between concepts, while argument maps are built for positions that need to be defended and for objections that must be made clear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/steps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">Open source on reasoninglab.com.</span></span></span> Computer-assisted argument mapping can also force clarity where ordinary prose leaves the central point tacit or buries the support across dense paragraphs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Davies_ConceptMindArgumentmapping.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-title">Concept Mapping, Mind Mapping and Argument Mapping</span><span class="citation-popover-snippet">Concept Mapping, Mind Mapping and Argument Mapping</span></span></span>
+Other scholarship explains why mapping can help. Davies distinguishes argument mapping from concept mapping and mind mapping: concept maps show relationships between concepts, while argument maps are built for positions that need to be defended and for objections that must be made clear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/steps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">Open source on reasoninglab.com.</span></span></span> Computer-assisted argument mapping can also force clarity where ordinary prose leaves the central point tacit or buries the support across dense paragraphs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Davies_ConceptMindArgumentmapping.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-title">Concept Mapping, Mind Mapping and Argument Mapping</span><span class="citation-popover-snippet">Concept Mapping, Mind Mapping and Argument Mapping</span></span></span>
 
 The practical takeaway is modest but valuable. Mapping is not a magic fallacy detector. It is a scaffold for better judgement. It reduces the chance that a reader will be swayed by fluency, length, confidence or emotional force before checking whether the reasons actually support the conclusion.
 
@@ -609,7 +609,7 @@ The practical takeaway is modest but valuable. Mapping is not a magic fallacy de
 
 Argument maps have limits. A clean diagram can make a reconstruction look more settled than it really is. The mapper chooses how to paraphrase claims, where to place assumptions, and whether a statement counts as evidence, conclusion, objection or background. Different fair-minded readers may map the same passage differently.
 
-Recent work by Charles Rathkopf argues that modern argument maps represent some arguments better than others. He identifies difficulties with reductio ad absurdum arguments, charges of equivocation, logical analogies and mathematical arguments, tracing many problems to metalinguistic reasoning — reasoning about language, representation or the structure of a claim rather than simply about the object-level issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.charlesrathkopf.net/uploads/argument_mapping.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlesrathkopf.net">[Charles Rathkopf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlesrathkopf.net</span><span class="citation-popover-title">Charles Rathkopf Some Benefits and Limitations of Modern Argument Map</span><span class="citation-popover-snippet">Charles Rathkopf Some Benefits and Limitations of Modern Argument Map</span></span></span>
+Recent work by Charles Rathkopf argues that modern argument maps represent some arguments better than others. He identifies difficulties with reductio ad absurdum arguments, charges of equivocation, logical analogies and mathematical arguments, tracing many problems to metalinguistic reasoning — reasoning about language, representation or the structure of a claim rather than simply about the object-level issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.charlesrathkopf.net/uploads/argument_mapping.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlesrathkopf.net">[Charles Rathkopf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlesrathkopf.net</span><span class="citation-popover-title">Charles Rathkopf Some Benefits and Limitations of Modern Argument Map</span><span class="citation-popover-snippet">Charles Rathkopf Some Benefits and Limitations of Modern Argument Map</span></span></span>
 
 That matters for fallacy detection because some fallacies are not just broken arrows between claims. Equivocation, for instance, may depend on a subtle shift in meaning. A map that uses the same short label for both meanings may hide the problem rather than reveal it. A false analogy may require careful comparison of relevant similarities and differences, not just a single objection box. A reductio argument may look odd if mapped as a standard support tree, because its force comes from showing that an assumption leads to an unacceptable consequence.
 
@@ -638,162 +638,162 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oNGkuSg6_lY" title="Unit 2.2: Argument Diagrams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oNGkuSg6_lY" target="_blank" rel="noopener noreferrer">Unit 2.2: Argument Diagrams</a></p><p class="youtube-embed-meta">Channel: Michael FitzGerald &middot; Views: 41.5K &middot; Uploaded: January 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oNGkuSg6_lY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oNGkuSg6_lY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Map the Reasoning?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Map the Reasoning?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Provides practical frameworks for breaking arguments into parts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical frameworks for breaking arguments into parts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Teaches structured evaluation of claims, evidence and assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches structured evaluation of claims, evidence and assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Explains how arguments are constructed and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how arguments are constructed and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Introduces fallacies and weak reasoning patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces fallacies and weak reasoning patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..."><img src="https://i.ebayimg.com/images/g/GNYAAOSw5Opm6pit/s-l225.jpg" alt="Listing image for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument mapping workbook">Search <span data-ebay-domain-label>eBay.co.uk</span>: argument mapping workbook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..."><img src="https://i.ebayimg.com/images/g/GNYAAOSw5Opm6pit/s-l225.jpg" alt="Listing image for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument mapping workbook">Search<span data-ebay-domain-label>eBay.co.uk</span>: argument mapping workbook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..."><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument mapping workbook">Search <span data-ebay-domain-label>eBay.co.uk</span>: argument mapping workbook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..."><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument mapping workbook">Search<span data-ebay-domain-label>eBay.co.uk</span>: argument mapping workbook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -809,7 +809,7 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -829,7 +829,7 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -861,7 +861,7 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -913,7 +913,7 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -958,7 +958,7 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -999,197 +999,197 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Argument map  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</p></details>
    Published: August 4, 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: owl.purdue.edu  
    Title: OWLToulmin Argument  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Twardy-Argument-Maps-Improve-CT1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Twardy-Argument-Maps-Improve-CT1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Maps Improve Critical Thinkingby CR Twardy · Cited by 357 — A reason is a collection of claims which help each other...</p></details>
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Twardy-Argument-Maps-Improve-CT1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Twardy-Argument-Maps-Improve-CT1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Maps Improve Critical Thinkingby CR Twardy · Cited by 357 — A reason is a collection of claims which help each other...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Missci: Reconstructing Fallacies in Misrepresented Science  
-   Link: <a href="https://arxiv.org/abs/2406.03181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.03181</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missci: Reconstructing Fallacies in Misrepresented ScienceJune 5, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.03181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.03181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missci: Reconstructing Fallacies in Misrepresented ScienceJune 5, 2024...</p></details>
    Published: June 5, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence  
-   Link: <a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
+   Link:<a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/steps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/steps/</a>  
+   Link:<a href="https://www.reasoninglab.com/steps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/steps/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: Research Gate The promotion of critical thinking skills through argument mapping  
-   Link: <a href="https://www.researchgate.net/publication/259286333_The_promotion_of_critical_thinking_skills_through_argument_mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259286333_The_promotion_of_critical_thinking_skills_through_argument_mapping</a>  
+   Link:<a href="https://www.researchgate.net/publication/259286333_The_promotion_of_critical_thinking_skills_through_argument_mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259286333_The_promotion_of_critical_thinking_skills_through_argument_mapping</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reasoninglab.com  
    Title: Concept Mapping, Mind Mapping and Argument Mapping  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Davies_ConceptMindArgumentmapping.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Davies_ConceptMindArgumentmapping.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Davies_ConceptMindArgumentmapping.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Davies_ConceptMindArgumentmapping.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reasoninglab.com  
    Title: Computer-Assisted Argument Mapping: A Rationale  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2015/10/Davies_Computer_assisted_Argumentmapping_Rationale_approach.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2015/10/Davies_Computer_assisted_Argumentmapping_Rationale_approach.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2015/10/Davies_Computer_assisted_Argumentmapping_Rationale_approach.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2015/10/Davies_Computer_assisted_Argumentmapping_Rationale_approach.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 304805904 Using Argument Mapping to Improve Critical Thinking Skills  
-   Link: <a href="https://www.researchgate.net/publication/304805904_Using_Argument_Mapping_to_Improve_Critical_Thinking_Skills" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304805904_Using_Argument_Mapping_to_Improve_Critical_Thinking_Skills</a>  
+   Link:<a href="https://www.researchgate.net/publication/304805904_Using_Argument_Mapping_to_Improve_Critical_Thinking_Skills" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304805904_Using_Argument_Mapping_to_Improve_Critical_Thinking_Skills</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback</a>  
+   Link:<a href="https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 377494816 Some Benefits and Limitations of Modern Argument Map Representation  
-   Link: <a href="https://www.researchgate.net/publication/377494816_Some_Benefits_and_Limitations_of_Modern_Argument_Map_Representation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377494816_Some_Benefits_and_Limitations_of_Modern_Argument_Map_Representation</a>  
+   Link:<a href="https://www.researchgate.net/publication/377494816_Some_Benefits_and_Limitations_of_Modern_Argument_Map_Representation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377494816_Some_Benefits_and_Limitations_of_Modern_Argument_Map_Representation</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/225778071_Refutation_by_Parallel_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225778071_Refutation_by_Parallel_Argument</a>  
+   Link:<a href="https://www.researchgate.net/publication/225778071_Refutation_by_Parallel_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225778071_Refutation_by_Parallel_Argument</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372933530_Logical_Fallacy_Detection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372933530_Logical_Fallacy_Detection</a>  
+   Link:<a href="https://www.researchgate.net/publication/372933530_Logical_Fallacy_Detection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372933530_Logical_Fallacy_Detection</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/riderthomason_cognitive_pedagical_benefits_of_am_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/riderthomason_cognitive_pedagical_benefits_of_am_2008.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/riderthomason_cognitive_pedagical_benefits_of_am_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/riderthomason_cognitive_pedagical_benefits_of_am_2008.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Lawrence-Lengbyer_CTinIC_Inquiryct_2014_0029_0002_0014_0034-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Lawrence-Lengbyer_CTinIC_Inquiryct_2014_0029_0002_0014_0034-.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Lawrence-Lengbyer_CTinIC_Inquiryct_2014_0029_0002_0014_0034-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Lawrence-Lengbyer_CTinIC_Inquiryct_2014_0029_0002_0014_0034-.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reasoninglab.com  
    Title: Articles on Critical Thinking & Argument Mapping  
-   Link: <a href="https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/</a>  
+   Link:<a href="https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/08/Primary-Educators-Supplement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/08/Primary-Educators-Supplement.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/08/Primary-Educators-Supplement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/08/Primary-Educators-Supplement.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Extended_Essay_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Extended_Essay_Guide.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Extended_Essay_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Extended_Essay_Guide.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/08/Educators-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/08/Educators-Guide.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/08/Educators-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/08/Educators-Guide.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reasoninglab.com  
    Title: Kunsch Use of AM in Business Education 2014  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Kunsch-Use-of-AM-in-Business-Education-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Kunsch-Use-of-AM-in-Business-Education-2014.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Kunsch-Use-of-AM-in-Business-Education-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Kunsch-Use-of-AM-in-Business-Education-2014.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2408.12812v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2408.12812v2</a>  
+   Link:<a href="https://arxiv.org/html/2408.12812v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2408.12812v2</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reasons.io  
    Title: Critical Thinking with Argument Maps  
-   Link: <a href="https://reasons.io/learn/08" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/08</a>  
+   Link:<a href="https://reasons.io/learn/08" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/08</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: kelvinmcqueen.com  
-   Link: <a href="https://kelvinmcqueen.com/teaching/syllabi/logic/" target="_blank" rel="noopener noreferrer nofollow">https://kelvinmcqueen.com/teaching/syllabi/logic/</a>  
+   Link:<a href="https://kelvinmcqueen.com/teaching/syllabi/logic/" target="_blank" rel="noopener noreferrer nofollow">https://kelvinmcqueen.com/teaching/syllabi/logic/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: charlesrathkopf.net  
    Title: Charles Rathkopf Some Benefits and Limitations of Modern Argument Map  
-   Link: <a href="https://www.charlesrathkopf.net/uploads/argument_mapping.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.charlesrathkopf.net/uploads/argument_mapping.pdf</a>  
+   Link:<a href="https://www.charlesrathkopf.net/uploads/argument_mapping.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.charlesrathkopf.net/uploads/argument_mapping.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: teachingchannel.com  
    Title: argument mapping  
-   Link: <a href="https://www.teachingchannel.com/k12-hub/blog/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingchannel.com/k12-hub/blog/argument-mapping/</a>  
+   Link:<a href="https://www.teachingchannel.com/k12-hub/blog/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingchannel.com/k12-hub/blog/argument-mapping/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: philpapers.org  
    Title: Critical Thinking  
-   Link: <a href="https://philpapers.org/browse/critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/browse/critical-thinking</a>  
+   Link:<a href="https://philpapers.org/browse/critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/browse/critical-thinking</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: iep.utm.edu  
    Title: critical thinking  
-   Link: <a href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/critical-thinking/</a>  
+   Link:<a href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/critical-thinking/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: drcharlesmrusso.substack.com  
    Title: argument mapping  
-   Link: <a href="https://drcharlesmrusso.substack.com/p/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/argument-mapping</a>  
+   Link:<a href="https://drcharlesmrusso.substack.com/p/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/argument-mapping</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: writingcenter.unc.edu  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The Easiest Way to Improve Critical Thinking  
-   Link: <a href="https://www.youtube.com/watch?v=TNbWpmgDcr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TNbWpmgDcr4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to make and use argument maps: Avoid endless discussions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TNbWpmgDcr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TNbWpmgDcr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to make and use argument maps: Avoid endless discussions...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=96118&amp;section=1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=96118&amp;section=1</a>  
+   Link:<a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=96118&amp;section=1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=96118&amp;section=1</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: jostwald.com  
-   Link: <a href="https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf</a>  
+   Link:<a href="https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/critical-reasoning-cat-mastering-assumptions-inferences-guajc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/critical-reasoning-cat-mastering-assumptions-inferences-guajc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/critical-reasoning-cat-mastering-assumptions-inferences-guajc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/critical-reasoning-cat-mastering-assumptions-inferences-guajc</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: sussex.ac.uk  
-   Link: <a href="https://www.sussex.ac.uk/skills-hub/critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.ac.uk/skills-hub/critical-thinking</a>  
+   Link:<a href="https://www.sussex.ac.uk/skills-hub/critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.ac.uk/skills-hub/critical-thinking</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/reading-rituals/argument-assumptions" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/reading-rituals/argument-assumptions</a>  
+   Link:<a href="https://readlite.in/reading-rituals/argument-assumptions" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/reading-rituals/argument-assumptions</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dailynous.com  
-   Link: <a href="https://dailynous.com/heap-of-links/" target="_blank" rel="noopener noreferrer nofollow">https://dailynous.com/heap-of-links/</a>  
+   Link:<a href="https://dailynous.com/heap-of-links/" target="_blank" rel="noopener noreferrer nofollow">https://dailynous.com/heap-of-links/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40unfilteredreasoning/logical-fallacies-embedded-in-ai-knowledge-why-heavy-reliance-is-killing-critical-thinking-a14d063090b8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40unfilteredreasoning/logical-fallacies-embedded-in-ai-knowledge-why-heavy-reliance-is-killing-critical-thinking-a14d063090b8</a>  
+   Link:<a href="https://medium.com/%40unfilteredreasoning/logical-fallacies-embedded-in-ai-knowledge-why-heavy-reliance-is-killing-critical-thinking-a14d063090b8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40unfilteredreasoning/logical-fallacies-embedded-in-ai-knowledge-why-heavy-reliance-is-killing-critical-thinking-a14d063090b8</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/28640599" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/28640599</a>  
+   Link:<a href="https://www.cliffsnotes.com/study-notes/28640599" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/28640599</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-promotion-of-critical-thinking-skills-through-Dwyer-Hogan/a8fa5720f7e534da9adbffdb90c47e6067e49cfe" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-promotion-of-critical-thinking-skills-through-Dwyer-Hogan/a8fa5720f7e534da9adbffdb90c47e6067e49cfe</a>
+   Link:<a href="https://www.semanticscholar.org/paper/The-promotion-of-critical-thinking-skills-through-Dwyer-Hogan/a8fa5720f7e534da9adbffdb90c47e6067e49cfe" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-promotion-of-critical-thinking-skills-through-Dwyer-Hogan/a8fa5720f7e534da9adbffdb90c47e6067e49cfe</a>

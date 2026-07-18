@@ -281,9 +281,9 @@ This matters within discussions of [logical fallacies]({{ 'logical-fallacies/' |
 
 ## Why Crests Feel Personal
 
-Sports teams occupy a unique position among brands. A supporter may switch phone manufacturers or clothing retailers, but many fans remain attached to a club for life. Researchers studying sport branding have found that team identification strongly shapes attitudes toward redesigned logos and willingness to purchase merchandise bearing them. Highly identified fans often react differently from casual followers because the logo is tied to their sense of self and group membership. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westga.edu">[westga.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westga.edu</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span>
+Sports teams occupy a unique position among brands. A supporter may switch phone manufacturers or clothing retailers, but many fans remain attached to a club for life. Researchers studying sport branding have found that team identification strongly shapes attitudes toward redesigned logos and willingness to purchase merchandise bearing them. Highly identified fans often react differently from casual followers because the logo is tied to their sense of self and group membership.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westga.edu">[westga.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westga.edu</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span>
 
-Academic work on football crests argues that club symbols are not viewed by supporters in the same way as ordinary corporate logos. Crests carry historical references, local traditions and visual heritage that fans interpret as part of the club's identity. This creates tension whenever owners or marketing departments seek to modernise branding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</span></span></span>
+Academic work on football crests argues that club symbols are not viewed by supporters in the same way as ordinary corporate logos. Crests carry historical references, local traditions and visual heritage that fans interpret as part of the club's identity. This creates tension whenever owners or marketing departments seek to modernise branding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</span></span></span>
 
 The emotional attachment runs deeper than aesthetics:
 
@@ -302,30 +302,30 @@ Because these attachments are emotional rather than purely functional, a redesig
 
 ## Why Radical Redesigns Trigger Resistance
 
-Research on sport rebranding consistently finds that the degree of logo change matters. More substantial redesigns tend to produce less favourable attitudes and weaker purchase intentions than minor updates, especially among highly committed supporters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econbiz.de">[EconBiz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econbiz.de</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</span></span></span> ScienceDirect Fans often object to redesigns for three related reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...The findings advance the current body of knowledge on sport rebranding and f...</span></span></span>
+Research on sport rebranding consistently finds that the degree of logo change matters. More substantial redesigns tend to produce less favourable attitudes and weaker purchase intentions than minor updates, especially among highly committed supporters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econbiz.de">[EconBiz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econbiz.de</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</span></span></span> ScienceDirect Fans often object to redesigns for three related reasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...The findings advance the current body of knowledge on sport rebranding and f...</span></span></span>
 
 ### The Crest Starts Looking Corporate
 
-Many supporters complain that modern logos become simplified, flattened or generic. The criticism is not necessarily about visual quality. Rather, fans fear that unique local symbols are being replaced by designs that resemble interchangeable corporate branding. Scholars examining football crests have noted this recurring conflict between commercial branding goals and supporter perceptions of authenticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</span></span></span>
+Many supporters complain that modern logos become simplified, flattened or generic. The criticism is not necessarily about visual quality. Rather, fans fear that unique local symbols are being replaced by designs that resemble interchangeable corporate branding. Scholars examining football crests have noted this recurring conflict between commercial branding goals and supporter perceptions of authenticity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</span></span></span>
 
 ### Heritage Appears to Be Discarded
 
-Supporters frequently tolerate imperfections in older designs because those imperfections signal continuity. Removing historic elements, changing colours or abandoning familiar shapes can be interpreted as erasing club history. Rebranding studies show that attitudes toward the redesign itself play a major role in determining loyalty outcomes after a logo change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span>
+Supporters frequently tolerate imperfections in older designs because those imperfections signal continuity. Removing historic elements, changing colours or abandoning familiar shapes can be interpreted as erasing club history. Rebranding studies show that attitudes toward the redesign itself play a major role in determining loyalty outcomes after a logo change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-2-dark.svg" | relative_url }}" alt="Fan Backlash illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fans Feel Excluded From the Process
 
-Backlash often intensifies when supporters believe decisions were imposed from above. Recent controversies surrounding proposed or implemented badge changes at clubs such as Stoke City, Newcastle United and Aston Villa illustrate how consultation processes can become almost as important as the design itself. Fans criticised changes they viewed as unnecessary, insufficiently transparent or disconnected from supporter preferences. The Sun <span class="citation-chip-wrap"><a class="citation-chip" href="https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cominghomenewcastle.sbnation.com">[Coming Home Newcastle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cominghomenewcastle.sbnation.com</span><span class="citation-popover-snippet">The club initially aimed to modernize the badge and potentially debut a new version by the 2026-27 season. However, a leaked anime-style...</span></span></span>
+Backlash often intensifies when supporters believe decisions were imposed from above. Recent controversies surrounding proposed or implemented badge changes at clubs such as Stoke City, Newcastle United and Aston Villa illustrate how consultation processes can become almost as important as the design itself. Fans criticised changes they viewed as unnecessary, insufficiently transparent or disconnected from supporter preferences. The Sun<span class="citation-chip-wrap"><a class="citation-chip" href="https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cominghomenewcastle.sbnation.com">[Coming Home Newcastle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cominghomenewcastle.sbnation.com</span><span class="citation-popover-snippet">The club initially aimed to modernize the badge and potentially debut a new version by the 2026-27 season. However, a leaked anime-style...</span></span></span>
 
 ## Case Patterns From Modern Rebrands
 
 Different clubs have experienced different outcomes, but several recurring patterns emerge.
 
-The 2017 rebranding of Juventus became one of the most discussed examples in modern football. The club replaced its traditional crest with a highly simplified "J" symbol intended to function across global media and commercial platforms. The redesign attracted admiration from branding professionals while simultaneously generating criticism from supporters who viewed it as a departure from football [tradition]({{ 'tradition/' | relative_url }}). Later research examining the Juventus case found that reactions varied significantly depending on supporter background and identification with the club. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalJuventus FC&#x27;s Rebranding:by YD Meissner · 2025 — This thesis investigates the long-term effects of Juventus FC&#x27;s rebranding on...</span></span></span>
+The 2017 rebranding of Juventus became one of the most discussed examples in modern football. The club replaced its traditional crest with a highly simplified "J" symbol intended to function across global media and commercial platforms. The redesign attracted admiration from branding professionals while simultaneously generating criticism from supporters who viewed it as a departure from football [tradition]({{ 'tradition/' | relative_url }}). Later research examining the Juventus case found that reactions varied significantly depending on supporter background and identification with the club.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalJuventus FC&#x27;s Rebranding:by YD Meissner · 2025 — This thesis investigates the long-term effects of Juventus FC&#x27;s rebranding on...</span></span></span>
 
-Newcastle United reportedly reconsidered plans for a more radical crest change after negative supporter reactions, illustrating how clubs increasingly recognise the political risk of altering visual identity without broad acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cominghomenewcastle.sbnation.com">[Coming Home Newcastle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cominghomenewcastle.sbnation.com</span><span class="citation-popover-snippet">The club initially aimed to modernize the badge and potentially debut a new version by the 2026-27 season. However, a leaked anime-style...</span></span></span>
+Newcastle United reportedly reconsidered plans for a more radical crest change after negative supporter reactions, illustrating how clubs increasingly recognise the political risk of altering visual identity without broad acceptance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cominghomenewcastle.sbnation.com">[Coming Home Newcastle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cominghomenewcastle.sbnation.com</span><span class="citation-popover-snippet">The club initially aimed to modernize the badge and potentially debut a new version by the 2026-27 season. However, a leaked anime-style...</span></span></span>
 
-Aston Villa provides a contrasting example. Supporters expressed frustration when crest decisions appeared inconsistent and insufficiently consultative. Yet commercial outcomes later proved more complex than fan reaction alone suggested, demonstrating that brand controversies do not always produce straightforward business results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talksport.com">[Talksport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talksport.com</span><span class="citation-popover-title">aston villa new crest fan survey premier league</span><span class="citation-popover-snippet">Key players included Ollie Watkins with 19 goals and Leon Bailey contributing 19 assists/goals. However, the season also brought controve...</span></span></span>
+Aston Villa provides a contrasting example. Supporters expressed frustration when crest decisions appeared inconsistent and insufficiently consultative. Yet commercial outcomes later proved more complex than fan reaction alone suggested, demonstrating that brand controversies do not always produce straightforward business results.<span class="citation-chip-wrap"><a class="citation-chip" href="https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talksport.com">[Talksport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talksport.com</span><span class="citation-popover-title">aston villa new crest fan survey premier league</span><span class="citation-popover-snippet">Key players included Ollie Watkins with 19 goals and Leon Bailey contributing 19 assists/goals. However, the season also brought controve...</span></span></span>
 
 These cases highlight an important distinction: fan [anger]({{ 'anger/' | relative_url }}) is real and measurable, but its long-term consequences vary widely.
 
@@ -333,13 +333,13 @@ These cases highlight an important distinction: fan [anger]({{ 'anger/' | relati
 
 ## Separating Brand Harm From Performance Claims
 
-Within the broader topic of team-logo causation, this distinction is crucial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wonkydesign.com/blog/modernising-your-team-logo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wonkydesign.com">[wonkydesign.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wonkydesign.com</span><span class="citation-popover-title">modernising your team logo</span><span class="citation-popover-snippet">While Honouring Its Roots21 Feb 2025 — In this post, we’ll break down how your team can modernize its crest the right way, following a st...</span></span></span>
+Within the broader topic of team-logo causation, this distinction is crucial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wonkydesign.com/blog/modernising-your-team-logo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wonkydesign.com">[wonkydesign.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wonkydesign.com</span><span class="citation-popover-title">modernising your team logo</span><span class="citation-popover-snippet">While Honouring Its Roots21 Feb 2025 — In this post, we’ll break down how your team can modernize its crest the right way, following a st...</span></span></span>
 
-Evidence supports the idea that logo redesigns can affect fan attitudes, merchandise purchase intentions and perceptions of authenticity. Research repeatedly finds links between redesign characteristics, supporter identification and loyalty-related outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westga.edu">[westga.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westga.edu</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span> ResearchGate What the evidence does not establish is that a new crest directly causes poor sporting performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span>
+Evidence supports the idea that logo redesigns can affect fan attitudes, merchandise purchase intentions and perceptions of authenticity. Research repeatedly finds links between redesign characteristics, supporter identification and loyalty-related outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westga.edu">[westga.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westga.edu</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span> ResearchGate What the evidence does not establish is that a new crest directly causes poor sporting performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span>
 
 When a team unveils a redesigned badge and then enters a losing streak, supporters may connect the two events because the logo is highly visible. This is where a [post hoc]({{ 'post-hoc/' | relative_url }}) fallacy can emerge. The redesign may genuinely have annoyed fans, reduced merchandise enthusiasm or damaged trust in ownership. Yet those effects are different from demonstrating that the logo caused injuries, tactical failures, recruitment mistakes or poor results on the pitch.
 
-The strongest version of the argument is therefore not, "The team is losing because of the logo." The stronger and more evidence-based claim is often, "The redesign damaged fan identification, weakened emotional connection, or created resentment toward club leadership." Research on sport rebranding provides support for those possibilities. It does not provide support for treating the logo itself as a direct explanation for wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econbiz.de">[EconBiz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econbiz.de</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</span></span></span>
+The strongest version of the argument is therefore not, "The team is losing because of the logo." The stronger and more evidence-based claim is often, "The redesign damaged fan identification, weakened emotional connection, or created resentment toward club leadership." Research on sport rebranding provides support for those possibilities. It does not provide support for treating the logo itself as a direct explanation for wins and losses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econbiz.de">[EconBiz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econbiz.de</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-3-dark.svg" | relative_url }}" alt="Fan Backlash illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Fan Backlash Actually Tells Us
@@ -351,237 +351,237 @@ That makes backlash understandable, and sometimes justified, even when the redes
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FMAVSysfVi4" title="Every Football Logo Redesign that Fans HATED Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FMAVSysfVi4" target="_blank" rel="noopener noreferrer">Every Football Logo Redesign that Fans HATED Explained</a></p><p class="youtube-embed-meta">Channel: Football Unpacked &middot; Views: 975 &middot; Uploaded: October 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FMAVSysfVi4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FMAVSysfVi4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why New Sports Logos Make Fans Angry. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why New Sports Logos Make Fans Angry. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Moments+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Moments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cFU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Power of Moments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Moments+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Moments">The Power of Moments</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Moments+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Moments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cFU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Power of Moments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Moments+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Moments">The Power of Moments</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Explains why symbolic changes trigger strong emotional reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Moments+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why symbolic changes trigger strong emotional reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Moments+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Helps explain how fan narratives spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how fan narratives spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains intuitive judgments around logo changes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains intuitive judgments around logo changes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to losing streaks and causal myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to losing streaks and causal myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Moments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Moments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Moments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Moments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manchester United FC FOREVER UNITED Official EPL Team Crest Logo Wall POSTER"><img src="{{ '/assets/images/marketplace-covers/30194eb3b499c8415169.jpg' | relative_url }}" alt="Listing image for Manchester United FC FOREVER UNITED Official EPL Team Crest Logo Wall POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manchester United FC FOREVER UNITED Official EPL Team Crest Logo Wall POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team crest poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manchester United FC FOREVER UNITED Official EPL Team Crest Logo Wall POSTER"><img src="{{ '/assets/images/marketplace-covers/30194eb3b499c8415169.jpg' | relative_url }}" alt="Listing image for Manchester United FC FOREVER UNITED Official EPL Team Crest Logo Wall POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manchester United FC FOREVER UNITED Official EPL Team Crest Logo Wall POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team crest poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Tottenham Hotspurs Spurs Crest Emblem Soccer Football Team"><img src="{{ '/assets/images/marketplace-covers/78e1f922a17f6e40c263.jpg' | relative_url }}" alt="Listing image for Poster Tottenham Hotspurs Spurs Crest Emblem Soccer Football Team" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Poster Tottenham Hotspurs Spurs Crest Emblem Soccer Football Team</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team crest poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Tottenham Hotspurs Spurs Crest Emblem Soccer Football Team"><img src="{{ '/assets/images/marketplace-covers/78e1f922a17f6e40c263.jpg' | relative_url }}" alt="Listing image for Poster Tottenham Hotspurs Spurs Crest Emblem Soccer Football Team" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Poster Tottenham Hotspurs Spurs Crest Emblem Soccer Football Team</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team crest poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team crest poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+crest+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-backlash-why-new-sports-logos-make-fans-angry-logical-fallacies-team-crest-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ That makes backlash understandable, and sometimes justified, even when the redes
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ That makes backlash understandable, and sometimes justified, even when the redes
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ That makes backlash understandable, and sometimes justified, even when the redes
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ That makes backlash understandable, and sometimes justified, even when the redes
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -737,122 +737,122 @@ That makes backlash understandable, and sometimes justified, even when the redes
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: westga.edu  
-   Link: <a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>  
+   Link:<a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: econbiz.de  
-   Link: <a href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow">https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</p></details>
+   Link:<a href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow">https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1464666821000357</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...The findings advance the current body of knowledge on sport rebranding and f...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1464666821000357</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...The findings advance the current body of knowledge on sport rebranding and f...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Through an experimental approach, the results...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Through an experimental approach, the results...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: talksport.com  
    Title: aston villa new crest fan survey premier league  
-   Link: <a href="https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/" target="_blank" rel="noopener noreferrer nofollow">https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Key players included Ollie Watkins with 19 goals and Leon Bailey contributing 19 assists/goals. However, the season also brought controve...</p></details>
+   Link:<a href="https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/" target="_blank" rel="noopener noreferrer nofollow">https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key players included Ollie Watkins with 19 goals and Leon Bailey contributing 19 assists/goals. However, the season also brought controve...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalJuventus FC&#x27;s Rebranding:by YD Meissner · 2025 — This thesis investigates the long-term effects of Juventus FC&#x27;s rebranding on...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalJuventus FC&#x27;s Rebranding:by YD Meissner · 2025 — This thesis investigates the long-term effects of Juventus FC&#x27;s rebranding on...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1964524" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1964524</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Juventus FC&#x27;s Rebranding: The Long-Term Effect on...by YD Meissner · 2025 — Purpose: This thesis investigates the long-term effects of...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1964524" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1964524</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Juventus FC&#x27;s Rebranding: The Long-Term Effect on...by YD Meissner · 2025 — Purpose: This thesis investigates the long-term effects of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362643241_Antecedents_and_consequences_of_emotional_attachment_to_sport_teams_brands" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362643241_Antecedents_and_consequences_of_emotional_attachment_to_sport_teams_brands</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Antecedents and consequences of emotional attachment to...11 Aug 2022 — This paper aims to provide insight by investigating the effects...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362643241_Antecedents_and_consequences_of_emotional_attachment_to_sport_teams_brands" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362643241_Antecedents_and_consequences_of_emotional_attachment_to_sport_teams_brands</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antecedents and consequences of emotional attachment to...11 Aug 2022 — This paper aims to provide insight by investigating the effects...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cominghomenewcastle.sbnation.com  
-   Link: <a href="https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo" target="_blank" rel="noopener noreferrer nofollow">https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The club initially aimed to modernize the badge and potentially debut a new version by the 2026-27 season. However, a leaked anime-style...</p></details>
+   Link:<a href="https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo" target="_blank" rel="noopener noreferrer nofollow">https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The club initially aimed to modernize the badge and potentially debut a new version by the 2026-27 season. However, a leaked anime-style...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wonkydesign.com  
    Title: modernising your team logo  
-   Link: <a href="https://www.wonkydesign.com/blog/modernising-your-team-logo" target="_blank" rel="noopener noreferrer nofollow">https://www.wonkydesign.com/blog/modernising-your-team-logo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While Honouring Its Roots21 Feb 2025 — In this post, we’ll break down how your team can modernize its crest the right way, following a st...</p></details>
+   Link:<a href="https://www.wonkydesign.com/blog/modernising-your-team-logo" target="_blank" rel="noopener noreferrer nofollow">https://www.wonkydesign.com/blog/modernising-your-team-logo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While Honouring Its Roots21 Feb 2025 — In this post, we’ll break down how your team can modernize its crest the right way, following a st...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
+   Link:<a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/case-study-sports-logo-redesign-signals-companys-growth-tatum-hindman-mh2te" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-sports-logo-redesign-signals-companys-growth-tatum-hindman-mh2te</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case study: Sports logo redesign signals company&#x27;s growthThe brand refresh provided an opportunity to create a modern, professional image...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/case-study-sports-logo-redesign-signals-companys-growth-tatum-hindman-mh2te" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-sports-logo-redesign-signals-companys-growth-tatum-hindman-mh2te</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case study: Sports logo redesign signals company&#x27;s growthThe brand refresh provided an opportunity to create a modern, professional image...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: repository.lboro.ac.uk  
-   Link: <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Kissing_the_badge_Club_crests_or_corporate_logos_/20223297/1/files/41116664.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Kissing_the_badge_Club_crests_or_corporate_logos_/20223297/1/files/41116664.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loughborough Research RepositoryKissing the badge: Club crests or corporate logos?by A Barnes · Cited by 26 — With a focus on the redesig...</p></details>
+   Link:<a href="https://repository.lboro.ac.uk/articles/journal_contribution/Kissing_the_badge_Club_crests_or_corporate_logos_/20223297/1/files/41116664.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Kissing_the_badge_Club_crests_or_corporate_logos_/20223297/1/files/41116664.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loughborough Research RepositoryKissing the badge: Club crests or corporate logos?by A Barnes · Cited by 26 — With a focus on the redesig...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/conrandesigngroup_are-football-club-logos-facing-a-design-crisis-activity-7364223962047750144-0U7Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/conrandesigngroup_are-football-club-logos-facing-a-design-crisis-activity-7364223962047750144-0U7Z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Football crests: losing their emotional value?As more football clubs opt for minimalist branding – like Juventus back in 2017 – are we at...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/conrandesigngroup_are-football-club-logos-facing-a-design-crisis-activity-7364223962047750144-0U7Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/conrandesigngroup_are-football-club-logos-facing-a-design-crisis-activity-7364223962047750144-0U7Z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Football crests: losing their emotional value?As more football clubs opt for minimalist branding – like Juventus back in 2017 – are we at...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Sport-Fans-and-Their-Teams%27-Redesigned-Logos%3A-An-of-Ahn-Suh/38bf20d7594f6b6ccd272113c47ec912228fe813" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Sport-Fans-and-Their-Teams%27-Redesigned-Logos%3A-An-of-Ahn-Suh/38bf20d7594f6b6ccd272113c47ec912228fe813</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>attitude and purchase intention in terms of team logo changes...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Sport-Fans-and-Their-Teams%27-Redesigned-Logos%3A-An-of-Ahn-Suh/38bf20d7594f6b6ccd272113c47ec912228fe813" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Sport-Fans-and-Their-Teams%27-Redesigned-Logos%3A-An-of-Ahn-Suh/38bf20d7594f6b6ccd272113c47ec912228fe813</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attitude and purchase intention in terms of team logo changes...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sandersandjay.com  
    Title: modernising sports team branding  
-   Link: <a href="https://sandersandjay.com/modernising-sports-team-branding" target="_blank" rel="noopener noreferrer nofollow">https://sandersandjay.com/modernising-sports-team-branding</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2024 — A sports badge or logo is no longer just a symbol of identity, it is a powerful marketing tool that can attract new fans, s...</p></details>
+   Link:<a href="https://sandersandjay.com/modernising-sports-team-branding" target="_blank" rel="noopener noreferrer nofollow">https://sandersandjay.com/modernising-sports-team-branding</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2024 — A sports badge or logo is no longer just a symbol of identity, it is a powerful marketing tool that can attract new fans, s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: repozytorium.uni.wroc.pl  
-   Link: <a href="https://repozytorium.uni.wroc.pl/Content/141234/PDF/09_M_Leszczynski_A_Metelski_M_Litwinski_Modern_sport_fans_and_their_purchase_intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repozytorium.uni.wroc.pl/Content/141234/PDF/09_M_Leszczynski_A_Metelski_M_Litwinski_Modern_sport_fans_and_their_purchase_intentions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study represents a pioneering endeavor, as...Re...</p></details>
+   Link:<a href="https://repozytorium.uni.wroc.pl/Content/141234/PDF/09_M_Leszczynski_A_Metelski_M_Litwinski_Modern_sport_fans_and_their_purchase_intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repozytorium.uni.wroc.pl/Content/141234/PDF/09_M_Leszczynski_A_Metelski_M_Litwinski_Modern_sport_fans_and_their_purchase_intentions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study represents a pioneering endeavor, as...Re...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spectrum.library.concordia.ca  
-   Link: <a href="https://spectrum.library.concordia.ca/id/eprint/995226/" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.library.concordia.ca/id/eprint/995226/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Effects of a Sports Team&#x27;s Rebranding on its...by J Wimez · 2025 — Sport rebranding: the effect of different degrees of sport logo r...</p></details>
+   Link:<a href="https://spectrum.library.concordia.ca/id/eprint/995226/" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.library.concordia.ca/id/eprint/995226/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Effects of a Sports Team&#x27;s Rebranding on its...by J Wimez · 2025 — Sport rebranding: the effect of different degrees of sport logo r...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: omarzahran.medium.com  
-   Link: <a href="https://omarzahran.medium.com/flat-lifeless-corporate-the-slow-death-of-sports-logo-identity-5ea886f3c687" target="_blank" rel="noopener noreferrer nofollow">https://omarzahran.medium.com/flat-lifeless-corporate-the-slow-death-of-sports-logo-identity-5ea886f3c687</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comFlat, Lifeless, &amp; Corporate: The Slow Death of Sports Logo...Why minimalist logo redesigns keep failing one test that matters...</p></details>
+   Link:<a href="https://omarzahran.medium.com/flat-lifeless-corporate-the-slow-death-of-sports-logo-identity-5ea886f3c687" target="_blank" rel="noopener noreferrer nofollow">https://omarzahran.medium.com/flat-lifeless-corporate-the-slow-death-of-sports-logo-identity-5ea886f3c687</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comFlat, Lifeless, &amp; Corporate: The Slow Death of Sports Logo...Why minimalist logo redesigns keep failing one test that matters...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thesun.co.uk  
    Title: The Sun'Terrible decision'  
-   Link: <a href="https://www.thesun.co.uk/sport/36312842/stoke-new-club-badge-revealed-fans-react/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/sport/36312842/stoke-new-club-badge-revealed-fans-react/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the club claims that 68% of surveyed fans supported the change, many supporters on [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) have criticized the new look, de...</p></details>
+   Link:<a href="https://www.thesun.co.uk/sport/36312842/stoke-new-club-badge-revealed-fans-react/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/sport/36312842/stoke-new-club-badge-revealed-fans-react/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although the club claims that 68% of surveyed fans supported the change, many supporters on [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) have criticized the new look, de...</p></details>

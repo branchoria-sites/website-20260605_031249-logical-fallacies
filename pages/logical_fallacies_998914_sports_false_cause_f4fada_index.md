@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-sports-false/
 description: Focused pages that expand on Sports Cause.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_sports_false_cause_f4fada
 parent_title: Sports Cause
@@ -16,7 +16,7 @@ parent_permalink: /sports-cause/
 
 # Explore Topics in Sports Cause
 
-The following pages expand on the main **[Sports Cause]({{ '/sports-cause/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sports Cause]({{ '/sports-cause/' | relative_url }})** page and cover its key branches in.
 
 - [Fan Backlash]({{ '/fan-backlash/' | relative_url }})
 - [Lucky Hits]({{ '/lucky-hits/' | relative_url }})

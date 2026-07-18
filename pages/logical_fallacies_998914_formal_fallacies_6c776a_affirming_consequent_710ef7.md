@@ -274,14 +274,14 @@ image: /assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming
 
 ## Introduction
 
-Affirming the consequent, sometimes understood as a form of false proof from effects, is one of the most persuasive formal fallacies because it begins with something that often feels reasonable. The pattern is simple: a person predicts that a particular cause would produce a certain effect, observes the effect, and then treats that observation as proof that the original cause must have occurred. The mistake is not noticing that the same effect may have multiple possible causes. Logic texts identify this as an invalid argument form because the conclusion does not follow necessarily from the premises, even when the premises are true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">forms of inference, so these we may think of as deductive fallacies. They include affirming the consequent, denying the antecedent, the...</span></span></span>
+Affirming the consequent, sometimes understood as a form of false proof from effects, is one of the most persuasive formal fallacies because it begins with something that often feels reasonable. The pattern is simple: a person predicts that a particular cause would produce a certain effect, observes the effect, and then treats that observation as proof that the original cause must have occurred. The mistake is not noticing that the same effect may have multiple possible causes. Logic texts identify this as an invalid argument form because the conclusion does not follow necessarily from the premises, even when the premises are true.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">forms of inference, so these we may think of as deductive fallacies. They include affirming the consequent, denying the antecedent, the...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-dark.svg" | relative_url }}" alt="False Effects illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In everyday life, seeing a predicted result can be good evidence for a hypothesis. The problem arises when supporting evidence is promoted into conclusive proof. The fallacy turns “this is consistent with my explanation” into “therefore my explanation is correct”, skipping the crucial step of ruling out alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAffirming the ConsequentAn error in formal logic where if the consequent is said to be true, the antecedent is said t...</span></span></span>
+In everyday life, seeing a predicted result can be good evidence for a hypothesis. The problem arises when supporting evidence is promoted into conclusive proof. The fallacy turns “this is consistent with my explanation” into “therefore my explanation is correct”, skipping the crucial step of ruling out alternatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAffirming the ConsequentAn error in formal logic where if the consequent is said to be true, the antecedent is said t...</span></span></span>
 
 ## The Invalid If-Then Pattern
 
-The structure of affirming the consequent is:(#endnote-2 "Endnote 2") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+The structure of affirming the consequent is:(#endnote-2 "Endnote 2")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -291,7 +291,7 @@ The structure of affirming the consequent is:(#endnote-2 "Endnote 2") <span clas
 
 </div>
 
-Logic scholars classify this as a deductively invalid form of inference. The first statement says that P is sufficient for Q. It does not say that P is the only route to Q. When the argument concludes that Q proves P, it silently converts a one-way relationship into a two-way relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span> A simple example illustrates the problem:
+Logic scholars classify this as a deductively invalid form of inference. The first statement says that P is sufficient for Q. It does not say that P is the only route to Q. When the argument concludes that Q proves P, it silently converts a one-way relationship into a two-way relationship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span> A simple example illustrates the problem:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,13 +301,13 @@ Logic scholars classify this as a deductively invalid form of inference. The fir
 
 </div>
 
-The pavement may indeed be wet because of rain. However, it could also be wet because of street cleaning, a burst water pipe, a sprinkler system, or many other causes. The conclusion might be true, but the argument does not prove it. That distinction between a possibly true conclusion and a logically established conclusion is the heart of the fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+The pavement may indeed be wet because of rain. However, it could also be wet because of street cleaning, a burst water pipe, a sprinkler system, or many other causes. The conclusion might be true, but the argument does not prove it. That distinction between a possibly true conclusion and a logically established conclusion is the heart of the fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 ### Why the Pattern Feels Convincing
 
-The fallacy succeeds because human reasoning often works by recognising patterns. If a cause repeatedly produces a particular effect, seeing the effect naturally brings the cause to mind. Cognitive research has found that people frequently show a tendency to reverse learned contingencies, treating “if P then Q” as though it also implied “if Q then P”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010027721001748" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The contingency symmetry bias (affirming the consequent...by M Imai · 2021 · Cited by 21 — Humans are known to possess an “...</span></span></span>
+The fallacy succeeds because human reasoning often works by recognising patterns. If a cause repeatedly produces a particular effect, seeing the effect naturally brings the cause to mind. Cognitive research has found that people frequently show a tendency to reverse learned contingencies, treating “if P then Q” as though it also implied “if Q then P”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010027721001748" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The contingency symmetry bias (affirming the consequent...by M Imai · 2021 · Cited by 21 — Humans are known to possess an “...</span></span></span>
 
-This intuition can be useful when generating hypotheses. The problem emerges when hypothesis generation is mistaken for proof. The effect may increase the plausibility of the proposed cause, but it does not eliminate competing explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This intuition can be useful when generating hypotheses. The problem emerges when hypothesis generation is mistaken for proof. The effect may increase the plausibility of the proposed cause, but it does not eliminate competing explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Everyday Examples with Alternative Causes
 
@@ -349,7 +349,7 @@ The outage may instead be caused by network problems, configuration errors, main
 
 The behaviour could also result from stress, illness, distraction, fatigue, or a desire for privacy.
 
-In each case, the observed effect is real evidence. The error lies in treating it as uniquely diagnostic when it is not. The argument ignores the possibility that several different causes could produce the same result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+In each case, the observed effect is real evidence. The error lies in treating it as uniquely diagnostic when it is not. The argument ignores the possibility that several different causes could produce the same result.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-2-dark.svg" | relative_url }}" alt="False Effects illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Fallacy Becomes Serious
@@ -358,15 +358,15 @@ The consequences become more significant when decisions involve guilt, liability
 
 ### Legal and Forensic Reasoning
 
-A well-known relative of affirming the consequent appears in the prosecutor's fallacy. In this error, the rarity of evidence under innocence is treated as though it directly establishes guilt. Courts and evidence specialists have repeatedly warned that the probability of observing evidence if someone is innocent is not the same thing as the probability that the person is innocent given the evidence. CEBM <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University5.1 The prosecutor&#x27;s fallacy &#124; OpenLearnJudges and juries that are not comfortable with numbers may be at risk of misi...</span></span></span>
+A well-known relative of affirming the consequent appears in the prosecutor's fallacy. In this error, the rarity of evidence under innocence is treated as though it directly establishes guilt. Courts and evidence specialists have repeatedly warned that the probability of observing evidence if someone is innocent is not the same thing as the probability that the person is innocent given the evidence. CEBM<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University5.1 The prosecutor&#x27;s fallacy &#124; OpenLearnJudges and juries that are not comfortable with numbers may be at risk of misi...</span></span></span>
 
-Cases such as those involving Sally Clark and Lucia de Berk are frequently cited in discussions of how misunderstandings of conditional probabilities can contribute to wrongful conclusions. The issue is not that evidence is irrelevant; rather, evidence must be interpreted in the [context]({{ 'context/' | relative_url }}) of alternative explanations and background probabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — The Prosecutor&#x27;s Fallacy is most often associated with miscarriages of justice. It&#x27;s when the p...</span></span></span>
+Cases such as those involving Sally Clark and Lucia de Berk are frequently cited in discussions of how misunderstandings of conditional probabilities can contribute to wrongful conclusions. The issue is not that evidence is irrelevant; rather, evidence must be interpreted in the [context]({{ 'context/' | relative_url }}) of alternative explanations and background probabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — The Prosecutor&#x27;s Fallacy is most often associated with miscarriages of justice. It&#x27;s when the p...</span></span></span>
 
 ### Scientific Investigation
 
 Scientific reasoning often begins by asking whether observations fit a theory. However, a prediction coming true does not automatically establish that the theory is correct. Multiple theories may predict the same observation. Researchers therefore seek additional tests that distinguish among competing explanations rather than relying on one successful prediction alone.
 
-In this sense, affirming the consequent highlights a recurring risk in inquiry: confusing confirmation with demonstration. A result can support a hypothesis while still falling short of proving it uniquely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy
+In this sense, affirming the consequent highlights a recurring risk in inquiry: confusing confirmation with demonstration. A result can support a hypothesis while still falling short of proving it uniquely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-3-dark.svg" | relative_url }}" alt="False Effects illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Turn a Guess into a Stronger Argument
@@ -408,178 +408,178 @@ This shift recognises that evidence can increase confidence without guaranteeing
 Affirming the consequent is a formal fallacy because it treats an effect as proof of a particular cause. The argument begins with a genuine connection between cause and effect but then overstates what that connection can establish. Observing a predicted outcome may make a hypothesis more plausible, yet it does not logically demonstrate that the hypothesis is the only explanation. The key safeguard is to ask not merely whether the evidence fits a preferred explanation, but whether it fits other explanations as well. When evidence survives that challenge, an argument becomes stronger; when it does not, the appearance of proof dissolves into a false proof from effects.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Evidence Looks Like Proof but Isnt. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Evidence Looks Like Proof but Isnt. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Patrick J. Hurley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Patrick J. Hurley</p>
         
-        <p class="fr-book-desc">Explains affirming the consequent as a classic invalid form.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains affirming the consequent as a classic invalid form.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jDOoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Logic">Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Irving M. Copi, Carl Cohen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jDOoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Logic">Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Irving M. Copi, Carl Cohen et al.</p>
         
-        <p class="fr-book-desc">Provides formal treatment of conditional reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides formal treatment of conditional reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Shows why observed effects do not prove a single cause.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why observed effects do not prove a single cause.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages testing competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🧠 Aristotle Philosophy Poster - Retro Decor - 24x36” - Premium Matte Print"><img src="{{ '/assets/images/marketplace-covers/a7810a9d9acc959666ec.jpg' | relative_url }}" alt="Listing image for 🧠 Aristotle Philosophy Poster - Retro Decor - 24x36” - Premium Matte Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">🧠 Aristotle Philosophy Poster - Retro Decor - 24x36” - Premium Matte Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.com</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🧠 Aristotle Philosophy Poster - Retro Decor - 24x36” - Premium Matte Print"><img src="{{ '/assets/images/marketplace-covers/a7810a9d9acc959666ec.jpg' | relative_url }}" alt="Listing image for 🧠 Aristotle Philosophy Poster - Retro Decor - 24x36” - Premium Matte Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">🧠 Aristotle Philosophy Poster - Retro Decor - 24x36” - Premium Matte Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.com</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Awakening Map Poster Philosophy Classroom Decor"><img src="{{ '/assets/images/marketplace-covers/de4afcacd9995c13c46f.jpg' | relative_url }}" alt="Listing image for The Great Awakening Map Poster Philosophy Classroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Great Awakening Map Poster Philosophy Classroom Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.com</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Awakening Map Poster Philosophy Classroom Decor"><img src="{{ '/assets/images/marketplace-covers/de4afcacd9995c13c46f.jpg' | relative_url }}" alt="Listing image for The Great Awakening Map Poster Philosophy Classroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Great Awakening Map Poster Philosophy Classroom Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.com</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Socrates Ancient Greek Philosopher Philosophy Motivation Success Poster 11x17"><img src="{{ '/assets/images/marketplace-covers/6d0240d281c8d70f5644.jpg' | relative_url }}" alt="Listing image for Socrates Ancient Greek Philosopher Philosophy Motivation Success Poster 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Socrates Ancient Greek Philosopher Philosophy Motivation Success Poster 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.com</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Socrates Ancient Greek Philosopher Philosophy Motivation Success Poster 11x17"><img src="{{ '/assets/images/marketplace-covers/6d0240d281c8d70f5644.jpg' | relative_url }}" alt="Listing image for Socrates Ancient Greek Philosopher Philosophy Motivation Success Poster 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Socrates Ancient Greek Philosopher Philosophy Motivation Success Poster 11x17</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.com</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Timeline of Western Philosophy Poster"><img src="{{ '/assets/images/marketplace-covers/b8746e03dd6c5f7dc5f6.jpg' | relative_url }}" alt="Listing image for Timeline of Western Philosophy Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Timeline of Western Philosophy Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.com</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Timeline of Western Philosophy Poster"><img src="{{ '/assets/images/marketplace-covers/b8746e03dd6c5f7dc5f6.jpg' | relative_url }}" alt="Listing image for Timeline of Western Philosophy Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Timeline of Western Philosophy Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.com</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-effects-when-evidence-looks-like-proof-but-isnt-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ Affirming the consequent is a formal fallacy because it treats an effect as proo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ Affirming the consequent is a formal fallacy because it treats an effect as proo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ Affirming the consequent is a formal fallacy because it treats an effect as proo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ Affirming the consequent is a formal fallacy because it treats an effect as proo
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -735,93 +735,93 @@ Affirming the consequent is a formal fallacy because it treats an effect as proo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>forms of inference, so these we may think of as deductive fallacies. They include affirming the consequent, denying the antecedent, the...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forms of inference, so these we may think of as deductive fallacies. They include affirming the consequent, denying the antecedent, the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical</a>  
+   Link:<a href="https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027721001748" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027721001748</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The contingency symmetry bias (affirming the consequent...by M Imai · 2021 · Cited by 21 — Humans are known to possess an “...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027721001748" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027721001748</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The contingency symmetry bias (affirming the consequent...by M Imai · 2021 · Cited by 21 — Humans are known to possess an “...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cebm.ox.ac.uk  
    Title: the prosecutors fallacy  
-   Link: <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy16 Jul 2018 — The Prosecutor&#x27;s Fallacy is most often associated with miscarriages of justice. It&#x27;s when the p...</p></details>
+   Link:<a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy16 Jul 2018 — The Prosecutor&#x27;s Fallacy is most often associated with miscarriages of justice. It&#x27;s when the p...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University5.1 The prosecutor&#x27;s fallacy | OpenLearnJudges and juries that are not comfortable with numbers may be at risk of misi...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University5.1 The prosecutor&#x27;s fallacy | OpenLearnJudges and juries that are not comfortable with numbers may be at risk of misi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Affirming the Consequent  
-   Link: <a href="https://www.youtube.com/watch?v=0wQ_pYnL1_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0wQ_pYnL1_E</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - FALLACIES: Affirming the Consequent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0wQ_pYnL1_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0wQ_pYnL1_E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - FALLACIES: Affirming the Consequent...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf you have enough evidence to affirm the consequent of a conditional and then suppose that a...</p></details>
+   Link:<a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf you have enough evidence to affirm the consequent of a conditional and then suppose that a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAffirming the ConsequentAn error in [formal logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) where if the consequent is said to be true, the antecedent is said t...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAffirming the ConsequentAn error in [formal logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) where if the consequent is said to be true, the antecedent is said t...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11848139/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11848139/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: affirmation of the consequent  
-   Link: <a href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/affirmation-of-the-consequent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAffirmation of the consequent | logicApr 1, 2026 — An argument is deductively valid when the truth of the premises...</p></details>
+   Link:<a href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/affirmation-of-the-consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAffirmation of the consequent | logicApr 1, 2026 — An argument is deductively valid when the truth of the premises...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rephrasely.com  
-   Link: <a href="https://rephrasely.com/usage/affirming-the-consequent-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/affirming-the-consequent-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Affirming the Consequent FallacyIt occurs when someone assumes that if the consequent of a conditional statement is tru...</p></details>
+   Link:<a href="https://rephrasely.com/usage/affirming-the-consequent-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/affirming-the-consequent-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Affirming the Consequent FallacyIt occurs when someone assumes that if the consequent of a conditional statement is tru...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: <a href="https://www.youtube.com/watch?v=xZ_vSFFvPqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZ_vSFFvPqU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) - Affirming the Consequent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xZ_vSFFvPqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZ_vSFFvPqU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) - Affirming the Consequent...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
    Title: arXiv Human Conditional Reasoning in Answer Set Programming  
-   Link: <a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
+   Link:<a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=Dsbv5mC9WwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dsbv5mC9WwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy of Affirming the Consequent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Dsbv5mC9WwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dsbv5mC9WwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy of Affirming the Consequent...</p></details>

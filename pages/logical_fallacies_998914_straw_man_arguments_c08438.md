@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_straw_man_arguments_c08438-overvi
 
 ## Introduction
 
-A straw man argument is a way of avoiding the real argument by replacing it with a weaker, simpler, more extreme or more ridiculous version. The move can be deliberate, but it can also happen through haste, poor listening, selective quotation or pressure to make a [debate]({{ 'debate/' | relative_url }}) look clear-cut. In logic, the central problem is [relevance]({{ 'relevance/' | relative_url }}): the reply may successfully defeat something, but not the claim that was actually made. That is why a straw man can feel persuasive while leaving the original issue untouched. The University of North Carolina Writing Center describes the pattern as setting up a weak version of an opponent’s position and “knocking it down”, rather than answering the stronger position actually in dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position an...</span></span></span>
+A straw man argument is a way of avoiding the real argument by replacing it with a weaker, simpler, more extreme or more ridiculous version. The move can be deliberate, but it can also happen through haste, poor listening, selective quotation or pressure to make a [debate]({{ 'debate/' | relative_url }}) look clear-cut. In logic, the central problem is [relevance]({{ 'relevance/' | relative_url }}): the reply may successfully defeat something, but not the claim that was actually made. That is why a straw man can feel persuasive while leaving the original issue untouched. The University of North Carolina Writing Center describes the pattern as setting up a weak version of an opponent’s position and “knocking it down”, rather than answering the stronger position actually in dispute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position an...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438-overview.webp" | relative_url }}" alt="Overview image for Straw Man" loading="eager" decoding="sync" fetchpriority="high">
 This page focuses on the mechanism of misrepresentation: how views get distorted, why the distortion is tempting, what common patterns to look for, and how to correct the target before a discussion becomes a contest against a position nobody really holds.
@@ -510,9 +510,9 @@ This page focuses on the mechanism of misrepresentation: how views get distorted
 
 A straw man begins with a shift in target. Person A advances a claim, qualification, objection or policy proposal. Person B replies to a nearby but different claim, then presents that reply as if it defeats Person A. The false target may be only slightly altered, which is what makes the fallacy hard to notice in live debate. “We should regulate this industry more tightly” becomes “You want the government to control everything.” “This evidence is not yet conclusive” becomes “You refuse to accept any evidence.” “This policy has costs” becomes “You do not care about the people it helps.”
 
-Argumentation theorist Douglas Walton analysed the straw man as a misrepresentation of someone’s commitments used to criticise or refute that person’s position. That “commitment” language matters: the issue is not merely that someone has been paraphrased imperfectly, but that a claim has been attributed to them in a way that changes what they are answerable for. Walton also stresses that alleged straw men have to be judged in the [context]({{ 'context/' | relative_url }}) of the conversation, because what a speaker is committed to depends on what they have actually said, implied, conceded or defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</span></span></span>
+Argumentation theorist Douglas Walton analysed the straw man as a misrepresentation of someone’s commitments used to criticise or refute that person’s position. That “commitment” language matters: the issue is not merely that someone has been paraphrased imperfectly, but that a claim has been attributed to them in a way that changes what they are answerable for. Walton also stresses that alleged straw men have to be judged in the [context]({{ 'context/' | relative_url }}) of the conversation, because what a speaker is committed to depends on what they have actually said, implied, conceded or defended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</span></span></span>
 
-The fallacy often works because debate audiences do not always have direct access to the original argument. If they hear only the distorted version and the confident refutation, they may feel that the issue has been settled. Robert Talisse and Scott Aikin’s work on the “selection” form of the straw man highlights this audience problem: an arguer can misrepresent the overall strength of an opposing side by choosing a weak representative, weak argument or fringe version and treating it as typical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">two forms of the straw man</span><span class="citation-popover-snippet">two forms of the straw man</span></span></span>
+The fallacy often works because debate audiences do not always have direct access to the original argument. If they hear only the distorted version and the confident refutation, they may feel that the issue has been settled. Robert Talisse and Scott Aikin’s work on the “selection” form of the straw man highlights this audience problem: an arguer can misrepresent the overall strength of an opposing side by choosing a weak representative, weak argument or fringe version and treating it as typical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">two forms of the straw man</span><span class="citation-popover-snippet">two forms of the straw man</span></span></span>
 
 This makes the straw man more than a private misunderstanding. It can reshape the perceived debate. A reader, viewer or voter may come away believing that the other side has no serious case, when in fact they have only been shown a caricature, an outlier or a partial quotation.
 
@@ -525,11 +525,11 @@ Not every straw man looks like a crude parody. Some are loud and obvious; others
 
 **Oversimplification** removes the structure of an argument. A multi-part claim with evidence, limits and conditions is reduced to a slogan that is easier to dismiss. This is common when a position depends on probabilities, competing risks or technical detail. A careful claim such as “this intervention may help in these circumstances, but not in all cases” becomes “this is a magic solution.”
 
-**Weak-manning** chooses the least capable defender of a view and treats that person as representative. Talisse and Aikin distinguish this from the classic version: the speaker may not distort one person’s words, but instead selects a poor argument from the opposition and lets the audience infer that the whole position has been defeated. Aikin and John Casey later developed the family further by discussing straw men, weak men and “hollow men”, where the alleged opponent or view may be so vague that it is barely traceable at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</span></span></span>
+**Weak-manning** chooses the least capable defender of a view and treats that person as representative. Talisse and Aikin distinguish this from the classic version: the speaker may not distort one person’s words, but instead selects a poor argument from the opposition and lets the audience infer that the whole position has been defeated. Aikin and John Casey later developed the family further by discussing straw men, weak men and “hollow men”, where the alleged opponent or view may be so vague that it is barely traceable at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</span></span></span>
 
 **Hollow-manning** attacks a position attributed to “some people”, “critics”, “the media”, “experts” or “activists” without identifying who actually holds it. This can be legitimate if the view is genuinely widespread and fairly represented, but it becomes fallacious when the vagueness prevents verification. The audience cannot check whether the target exists, whether it is marginal, or whether it has been described fairly.
 
-**Quote-mining** uses someone’s own words against them while stripping away the context that explains their meaning. The Fallacy Files describes quoting out of context as especially common in political debate, where loss of context can make an opponent sound more simplistic or extreme than they were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fallacyfiles.org/quotcont.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Open source on fallacyfiles.org.</span></span></span> Research on “contextomy” similarly treats selective excerpting as a way of distorting intended meaning; Matthew McGlone’s work describes it as a practice used in media and promotional settings to misappropriate rhetoric, defame public figures or alter how a statement is received. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Contextomy: The art of quoting out of context</span><span class="citation-popover-snippet">Research Gate(PDF) Contextomy: The art of quoting out of context</span></span></span>
+**Quote-mining** uses someone’s own words against them while stripping away the context that explains their meaning. The Fallacy Files describes quoting out of context as especially common in political debate, where loss of context can make an opponent sound more simplistic or extreme than they were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fallacyfiles.org/quotcont.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Open source on fallacyfiles.org.</span></span></span> Research on “contextomy” similarly treats selective excerpting as a way of distorting intended meaning; Matthew McGlone’s work describes it as a practice used in media and promotional settings to misappropriate rhetoric, defame public figures or alter how a statement is received.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Contextomy: The art of quoting out of context</span><span class="citation-popover-snippet">Research Gate(PDF) Contextomy: The art of quoting out of context</span></span></span>
 
 **Motive substitution** replaces the stated reason for a view with a darker motive. “They oppose this bill because they think it is badly drafted” becomes “They just want the problem to continue.” This overlaps with ad hominem reasoning, but it can also function as a straw man because the position being answered is no longer the stated argument.
 
@@ -539,11 +539,11 @@ Not every straw man looks like a crude parody. Some are loud and obvious; others
 
 Straw men are persuasive because they reduce cognitive effort. A real argument may be mixed: partly right, partly wrong, morally serious, empirically uncertain or dependent on context. A straw man removes that complexity. The audience no longer has to compare evidence or weigh trade-offs; it can reject an obviously bad version instead.
 
-This is why the fallacy often appears in polarised settings. Research on partisan misrepresentation found that people have limited ability to simulate opponents’ perspectives or distinguish genuine opposing arguments from imitations, with political sophistication improving representations of one’s own side more than representations of the other side. The authors call this a “straw man effect”: people do not merely disagree with opponents; they may carry around inaccurate models of what opponents believe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13684302211014582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why the fallacy often appears in polarised settings. Research on partisan misrepresentation found that people have limited ability to simulate opponents’ perspectives or distinguish genuine opposing arguments from imitations, with political sophistication improving representations of one’s own side more than representations of the other side. The authors call this a “straw man effect”: people do not merely disagree with opponents; they may carry around inaccurate models of what opponents believe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13684302211014582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same dynamic is intensified by [social media]({{ 'social-media/' | relative_url }}). Posts reward speed, compression and emotional clarity. A careful position is less shareable than a screenshot, clipped quote or hostile paraphrase. Studies of retweet behaviour have found that sharing is not always endorsement; users may circulate opponents’ posts for criticism, humour or antagonism, meaning that messages can be recontextualised as they travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1703.03895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That environment makes it easier for a distorted version of a view to become more visible than the view itself.
+The same dynamic is intensified by [social media]({{ 'social-media/' | relative_url }}). Posts reward speed, compression and emotional clarity. A careful position is less shareable than a screenshot, clipped quote or hostile paraphrase. Studies of retweet behaviour have found that sharing is not always endorsement; users may circulate opponents’ posts for criticism, humour or antagonism, meaning that messages can be recontextualised as they travel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1703.03895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That environment makes it easier for a distorted version of a view to become more visible than the view itself.
 
-The persuasive force of a straw man does not mean it always persuades the person being targeted. Recent experimental work on straw man arguments notes a distinction between third-person audiences watching an exchange and the person whose view has been misrepresented. The target is often less likely to be convinced because they can see the mismatch immediately; the greater risk is that bystanders accept the replacement target as accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-026-09706-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The persuasive force of a straw man does not mean it always persuades the person being targeted. Recent experimental work on straw man arguments notes a distinction between third-person audiences watching an exchange and the person whose view has been misrepresented. The target is often less likely to be convinced because they can see the mismatch immediately; the greater risk is that bystanders accept the replacement target as accurate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-026-09706-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438-Illustration-2-dark.svg" | relative_url }}" alt="Straw Man illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to correct the target
@@ -554,7 +554,7 @@ A practical correction has three parts. First, restate the original claim in a f
 
 For example: “I did not argue that the policy has no costs. I argued that the likely benefits outweigh those costs under these conditions. The relevant question is whether that cost-benefit judgement is supported by the evidence.” This kind of reply avoids being pulled into defending a claim never made.
 
-The “principle of charity” is the prevention strategy. In argument, charity means interpreting another person’s position in its strongest reasonable form before criticising it. It does not require agreement, politeness at the expense of truth, or pretending weak arguments are strong. It requires enough accuracy that the criticism lands on the real view. In teaching contexts, writing centres often recommend anticipating and answering serious counterarguments because doing so strengthens one’s own argument; the straw man is the failed version of that practice, where the counterargument is made artificially weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position an...</span></span></span>
+The “principle of charity” is the prevention strategy. In argument, charity means interpreting another person’s position in its strongest reasonable form before criticising it. It does not require agreement, politeness at the expense of truth, or pretending weak arguments are strong. It requires enough accuracy that the criticism lands on the real view. In teaching contexts, writing centres often recommend anticipating and answering serious counterarguments because doing so strengthens one’s own argument; the straw man is the failed version of that practice, where the counterargument is made artificially weak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position an...</span></span></span>
 
 A useful test is: could the other person say, “Yes, that is close enough to what I mean”? If not, the target probably needs repair before refutation begins.
 
@@ -564,7 +564,7 @@ A useful test is: could the other person say, “Yes, that is close enough to wh
 
 Calling something a straw man is not always fair. People can reasonably summarise, generalise, infer implications or test the consequences of a view. A critic is not automatically guilty of strawmanning just because the original speaker dislikes the wording.
 
-This is why context matters. M Lewiński’s work on straw men in pragma-dialectics frames the problem as drawing the line between representation and misrepresentation in real argumentative activity. A response becomes unreasonable when it is directed at a standpoint other than the one advanced, but ordinary disagreement often involves interpretation, clarification and pressure-testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why context matters. M Lewiński’s work on straw men in pragma-dialectics frames the problem as drawing the line between representation and misrepresentation in real argumentative activity. A response becomes unreasonable when it is directed at a standpoint other than the one advanced, but ordinary disagreement often involves interpretation, clarification and pressure-testing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 There are several borderline cases:
 
@@ -593,194 +593,194 @@ The deepest risk of the straw man fallacy is not just that one argument becomes 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D312ssRfWMA" title="Straw Man (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D312ssRfWMA" target="_blank" rel="noopener noreferrer">Straw Man (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 19.7K &middot; Uploaded: February 2014 &middot; Length: 1 minute 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D312ssRfWMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D312ssRfWMA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are You Answering the Real Argument?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are You Answering the Real Argument?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzjNnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzjNnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Includes clear examples of straw man reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes clear examples of straw man reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Detailed treatment of fallacies and argument evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Detailed treatment of fallacies and argument evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking from A to Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eguqPFOziHgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking from A to Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking from A to Z">Thinking from A to Z</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Warburton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking from A to Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eguqPFOziHgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking from A to Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking from A to Z">Thinking from A to Z</a>
+</h4>
+<p class="fr-book-author">By Nigel Warburton</p>
         
-        <p class="fr-book-desc">Covers straw men and related argumentative tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers straw men and related argumentative tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+from+A+to+Z+by+Nigel+Warburton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Helps readers recognise common reasoning mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognise common reasoning mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+from+A+to+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking from A to Z</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Attacking Faulty Reasoning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+from+A+to+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking from A to Z</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earth Is Not Flat Vaccines Work Stand Up For Science Mens T-Shirts Tee Top"><img src="https://i.ebayimg.com/images/g/Y2QAAeSw5Ahp-IrH/s-l225.jpg" alt="Listing image for Earth Is Not Flat Vaccines Work Stand Up For Science Mens T-Shirts Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Earth Is Not Flat Vaccines Work Stand Up For Science Mens T-Shirts Tee Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earth Is Not Flat Vaccines Work Stand Up For Science Mens T-Shirts Tee Top"><img src="https://i.ebayimg.com/images/g/Y2QAAeSw5Ahp-IrH/s-l225.jpg" alt="Listing image for Earth Is Not Flat Vaccines Work Stand Up For Science Mens T-Shirts Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Earth Is Not Flat Vaccines Work Stand Up For Science Mens T-Shirts Tee Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tiedye Tie Dye Mens Short Sleeve Speech And Debate T Shirt Size M Lion Face VGC"><img src="https://i.ebayimg.com/images/g/reUAAeSwkshpu~gN/s-l225.jpg" alt="Listing image for Tiedye Tie Dye Mens Short Sleeve Speech And Debate T Shirt Size M Lion Face VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Tiedye Tie Dye Mens Short Sleeve Speech And Debate T Shirt Size M Lion Face VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tiedye Tie Dye Mens Short Sleeve Speech And Debate T Shirt Size M Lion Face VGC"><img src="https://i.ebayimg.com/images/g/reUAAeSwkshpu~gN/s-l225.jpg" alt="Listing image for Tiedye Tie Dye Mens Short Sleeve Speech And Debate T Shirt Size M Lion Face VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Tiedye Tie Dye Mens Short Sleeve Speech And Debate T Shirt Size M Lion Face VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love Debate T shirt I Heart Debate Tee"><img src="https://i.ebayimg.com/images/g/LikAAOSwmRNaoXMa/s-l225.jpg" alt="Listing image for I Love Debate T shirt I Heart Debate Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I Love Debate T shirt I Heart Debate Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love Debate T shirt I Heart Debate Tee"><img src="https://i.ebayimg.com/images/g/LikAAOSwmRNaoXMa/s-l225.jpg" alt="Listing image for I Love Debate T shirt I Heart Debate Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I Love Debate T shirt I Heart Debate Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trump Vs Elon Musk Shirt, Funny Political Debate Tee, 2025 Election Meme T-Shirt"><img src="https://i.ebayimg.com/images/g/8dkAAeSwOcppT45D/s-l225.jpg" alt="Listing image for Trump Vs Elon Musk Shirt, Funny Political Debate Tee, 2025 Election Meme T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Trump Vs Elon Musk Shirt, Funny Political Debate Tee, 2025 Election Meme T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trump Vs Elon Musk Shirt, Funny Political Debate Tee, 2025 Election Meme T-Shirt"><img src="https://i.ebayimg.com/images/g/8dkAAeSwOcppT45D/s-l225.jpg" alt="Listing image for Trump Vs Elon Musk Shirt, Funny Political Debate Tee, 2025 Election Meme T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Trump Vs Elon Musk Shirt, Funny Political Debate Tee, 2025 Election Meme T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-answering-the-real-argument-debate-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate t shirt" data-ebay-reference="are-you-answering-the-real-argument-debate-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -796,7 +796,7 @@ The deepest risk of the straw man fallacy is not just that one argument becomes 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -816,7 +816,7 @@ The deepest risk of the straw man fallacy is not just that one argument becomes 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -848,7 +848,7 @@ The deepest risk of the straw man fallacy is not just that one argument becomes 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -900,7 +900,7 @@ The deepest risk of the straw man fallacy is not just that one argument becomes 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -945,7 +945,7 @@ The deepest risk of the straw man fallacy is not just that one argument becomes 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -986,208 +986,208 @@ The deepest risk of the straw man fallacy is not just that one argument becomes 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: philpapers.org  
    Title: Phil Papers The straw man fallacy  
-   Link: <a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</p></details>
+   Link:<a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philpapers.org  
    Title: TALTFO 3  
-   Link: <a href="https://philpapers.org/rec/TALTFO-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TALTFO-3</a>  
+   Link:<a href="https://philpapers.org/rec/TALTFO-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TALTFO-3</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/AIKSMW" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKSMW</a>  
+   Link:<a href="https://philpapers.org/rec/AIKSMW" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKSMW</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/quotcont.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/quotcont.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/quotcont.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/quotcont.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Contextomy: The art of quoting out of context  
-   Link: <a href="https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context</a>  
+   Link:<a href="https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1703.03895" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1703.03895</a>  
+   Link:<a href="https://arxiv.org/abs/1703.03895" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1703.03895</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-026-09706-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-026-09706-2</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10503-026-09706-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-026-09706-2</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 226541299 Straw Men Weak Men and Hollow Men  
-   Link: <a href="https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men</a>  
+   Link:<a href="https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man</a>  
+   Link:<a href="https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
+   Link:<a href="https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394063662_The_Pragmatics_of_Straw_Man_Fallacies_An_Experimental_Approach" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394063662_The_Pragmatics_of_Straw_Man_Fallacies_An_Experimental_Approach</a>  
+   Link:<a href="https://www.researchgate.net/publication/394063662_The_Pragmatics_of_Straw_Man_Fallacies_An_Experimental_Approach" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394063662_The_Pragmatics_of_Straw_Man_Fallacies_An_Experimental_Approach</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy</a>  
+   Link:<a href="https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) in Social Media  
-   Link: <a href="https://www.researchgate.net/publication/347364100_Logical_Fallacies_in_Social_Media_A_Discourse_Analysis_in_Political_Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347364100_Logical_Fallacies_in_Social_Media_A_Discourse_Analysis_in_Political_Debate</a>  
+   Link:<a href="https://www.researchgate.net/publication/347364100_Logical_Fallacies_in_Social_Media_A_Discourse_Analysis_in_Political_Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347364100_Logical_Fallacies_in_Social_Media_A_Discourse_Analysis_in_Political_Debate</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3</a>  
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-031-94094" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/strawman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/strawman.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/strawman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/strawman.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position an...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position an...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: communicationcache.com  
    Title: two forms of the straw man  
-   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
+   Link:<a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/13684302211014582" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13684302211014582</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/13684302211014582" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13684302211014582</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribbr.com  
    Title: straw man fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
+   Link:<a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Quoting out of context  
-   Link: <a href="https://en.wikipedia.org/wiki/Quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quoting_out_of_context</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quoting_out_of_context</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Principle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Principle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/principle" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/principle</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/principle" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/principle</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
+   Link:<a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nlpnotes.com  
    Title: Quoting out of context  
-   Link: <a href="https://nlpnotes.com/2014/03/23/quoting-out-of-context/" target="_blank" rel="noopener noreferrer nofollow">https://nlpnotes.com/2014/03/23/quoting-out-of-context/</a>  
+   Link:<a href="https://nlpnotes.com/2014/03/23/quoting-out-of-context/" target="_blank" rel="noopener noreferrer nofollow">https://nlpnotes.com/2014/03/23/quoting-out-of-context/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: yumpu.com  
    Title: The straw man fallacy  
-   Link: <a href="https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons</a>  
+   Link:<a href="https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gymglish.com  
-   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/principle" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/principle</a>  
+   Link:<a href="https://www.gymglish.com/en/gymglish/english-translation/principle" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/principle</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: trinka.ai  
    Title: straw man fallacy  
-   Link: <a href="https://www.trinka.ai/blog/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.trinka.ai/blog/straw-man-fallacy/</a>  
+   Link:<a href="https://www.trinka.ai/blog/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.trinka.ai/blog/straw-man-fallacy/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html</a>  
+   Link:<a href="https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
+   Link:<a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
+   Link:<a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: quillbot.com  
    Title: straw man fallacy  
-   Link: <a href="https://quillbot.com/blog/reasoning/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/straw-man-fallacy/</a>  
+   Link:<a href="https://quillbot.com/blog/reasoning/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/straw-man-fallacy/</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue</a>  
+   Link:<a href="https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ox.ac.uk  
-   Link: <a href="https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report</a>  
+   Link:<a href="https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: markmanson.net  
-   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/</a>  
+   Link:<a href="https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: natcen.ac.uk  
-   Link: <a href="https://natcen.ac.uk/publications/bsa-42-[politics" target="_blank" rel="noopener noreferrer nofollow">https://natcen.ac.uk/publications/bsa-42-[politics</a>  
+   Link:<a href="https://natcen.ac.uk/publications/bsa-42-[politics" target="_blank" rel="noopener noreferrer nofollow">https://natcen.ac.uk/publications/bsa-42-[politics</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Contextomy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Contextomy</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Contextomy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Contextomy</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
+   Link:<a href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: khanacademy.org  
-   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/straw-man-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/straw-man-fallacy</a>  
+   Link:<a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/straw-man-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/straw-man-fallacy</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: amazon.it  
-   Link: <a href="https://www.amazon.it/-/en/Frederic-P-Miller/dp/6130836058" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.it/-/en/Frederic-P-Miller/dp/6130836058</a>
+   Link:<a href="https://www.amazon.it/-/en/Frederic-P-Miller/dp/6130836058" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.it/-/en/Frederic-P-Miller/dp/6130836058</a>

@@ -501,18 +501,18 @@ image: /assets/images/logical_fallacies_998914_false_dilemmas_827e99-overview-so
 
 ## Introduction
 
-A false dilemma makes a complex choice look like a forced choice between two extremes: accept this policy or accept disaster; support this side or support the enemy; choose total freedom or total security. The problem is not merely that the argument is dramatic. It is that the choice set has been artificially narrowed. A real dilemma can exist when the options are genuinely exhaustive, but a false dilemma hides workable middle positions, mixed solutions, staged decisions, partial agreement, abstention, negotiation, or a different framing of the problem altogether. Writing guides often describe the fallacy as “either/or” reasoning because it reduces an issue to only two sides when more possibilities are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">OWLLogical Fallacies</span></span></span>
+A false dilemma makes a complex choice look like a forced choice between two extremes: accept this policy or accept disaster; support this side or support the enemy; choose total freedom or total security. The problem is not merely that the argument is dramatic. It is that the choice set has been artificially narrowed. A real dilemma can exist when the options are genuinely exhaustive, but a false dilemma hides workable middle positions, mixed solutions, staged decisions, partial agreement, abstention, negotiation, or a different framing of the problem altogether. Writing guides often describe the fallacy as “either/or” reasoning because it reduces an issue to only two sides when more possibilities are available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">OWLLogical Fallacies</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-overview.webp" | relative_url }}" alt="Overview image for False Dilemma" loading="eager" decoding="sync" fetchpriority="high">
 This matters because false dilemmas do more than mislabel a [debate]({{ 'debate/' | relative_url }}). They can steer decisions before evidence is even discussed. Once a speaker frames the issue as “only A or B”, the audience may spend all its energy comparing A with B instead of asking whether C, D, a compromise, a sequence, or a reframed problem is being left out.
 
 ## How either-or framing does the work
 
-The basic mechanism is simple: the argument presents a disjunction, then treats it as complete. In plain English, it says “either this or that” and implies that those are the only live possibilities. Philosophers of argumentation describe false dilemma as a fallacy that can use a deductively valid-looking structure while still going wrong because the disjunctive premise is incomplete or false. Taeda Tomić’s work on false dilemma, for example, treats it as a specific form of reasoning whose weakness lies in the way alternatives are selected and excluded, not simply in the grammar of the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers False Dilemma: A Systematic Exposition</span><span class="citation-popover-snippet">Phil Papers False Dilemma: A Systematic Exposition</span></span></span>
+The basic mechanism is simple: the argument presents a disjunction, then treats it as complete. In plain English, it says “either this or that” and implies that those are the only live possibilities. Philosophers of argumentation describe false dilemma as a fallacy that can use a deductively valid-looking structure while still going wrong because the disjunctive premise is incomplete or false. Taeda Tomić’s work on false dilemma, for example, treats it as a specific form of reasoning whose weakness lies in the way alternatives are selected and excluded, not simply in the grammar of the argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers False Dilemma: A Systematic Exposition</span><span class="citation-popover-snippet">Phil Papers False Dilemma: A Systematic Exposition</span></span></span>
 
-A useful way to see the problem is to separate the **form** from the **choice set**. The form “Either A or B; not A; therefore B” can be valid when A and B really exhaust the possibilities. “Either the light is on or it is not on” is exhaustive. But “Either we ban cars or destroy the environment” is not exhaustive, because it skips options such as cleaner technology, car-sharing, better public transport, safer urban planning and targeted restrictions. Purdue OWL uses this kind of environmental example to show how the fallacy compresses a policy spectrum into two extreme endpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">OWLLogical Fallacies</span></span></span>
+A useful way to see the problem is to separate the **form** from the **choice set**. The form “Either A or B; not A; therefore B” can be valid when A and B really exhaust the possibilities. “Either the light is on or it is not on” is exhaustive. But “Either we ban cars or destroy the environment” is not exhaustive, because it skips options such as cleaner technology, car-sharing, better public transport, safer urban planning and targeted restrictions. Purdue OWL uses this kind of environmental example to show how the fallacy compresses a policy spectrum into two extreme endpoints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">OWLLogical Fallacies</span></span></span>
 
-False dilemmas often sound persuasive because they offer relief from uncertainty. [Two options]({{ 'two-options/' | relative_url }}) are easier to remember, argue over and sloganise than five options with trade-offs. That simplicity is sometimes useful in emergencies, but it becomes misleading when the narrowed frame is presented as the whole reality rather than as a deliberately simplified model. The UNC Writing Center’s advice on fallacies points to this pattern: the arguer sets up a situation as though only two choices exist, then eliminates one so the other appears unavoidable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing Center Fallacies</span></span></span>
+False dilemmas often sound persuasive because they offer relief from uncertainty. [Two options]({{ 'two-options/' | relative_url }}) are easier to remember, argue over and sloganise than five options with trade-offs. That simplicity is sometimes useful in emergencies, but it becomes misleading when the narrowed frame is presented as the whole reality rather than as a deliberately simplified model. The UNC Writing Center’s advice on fallacies points to this pattern: the arguer sets up a situation as though only two choices exist, then eliminates one so the other appears unavoidable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing Center Fallacies</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-1-dark.svg" | relative_url }}" alt="False Dilemma illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing middle is not always a bland compromise
@@ -533,7 +533,7 @@ For example, “Either protect privacy or catch criminals” hides several possi
 
 </div>
 
-This is why “missing middle” analysis is different from the fallacy of the middle ground. The middle-ground fallacy claims that the truth must lie between two extremes. False dilemma analysis says only that the proposed extremes may not exhaust the options. A compromise can be wise, foolish or irrelevant; it must still be judged on evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/middle-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[Your Logical Fallacy Is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why “missing middle” analysis is different from the fallacy of the middle ground. The middle-ground fallacy claims that the truth must lie between two extremes. False dilemma analysis says only that the proposed extremes may not exhaust the options. A compromise can be wise, foolish or irrelevant; it must still be judged on evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/middle-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[Your Logical Fallacy Is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WZhj9S6axuo" title="Logical Fallacies Part 1: Formal and Informal Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WZhj9S6axuo" target="_blank" rel="noopener noreferrer">Logical Fallacies Part 1: Formal and Informal Fallacies</a></p><p class="youtube-embed-meta">Channel: Professor Dave Explains &middot; Views: 46.0K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WZhj9S6axuo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WZhj9S6axuo">Open on YouTube</a></p></div></div></div>
 
@@ -541,22 +541,22 @@ This is why “missing middle” analysis is different from the fallacy of the m
 
 Not every hard choice is a false dilemma. Some decisions really are binary at the point of action. A jury may have to return a particular verdict under a legal framework; a referendum may offer only two boxes; a person may have to evacuate or stay during a dangerous event. In those cases, the immediate institutional or practical choice may be binary even though the wider causes, values and policy responses are more complex.
 
-The test is whether the alternatives are **jointly exhaustive** and **relevantly framed**. “Jointly exhaustive” means the listed options cover all the possibilities that matter for the conclusion. “Relevantly framed” means the options are not chosen in a way that unfairly hides the actual issue. Tomić’s later work distinguishes false dilemma from related problems in disjunctive reasoning by focusing on whether relevant additional disjuncts would change the argument’s force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/6233/5355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Open source on informallogic.ca.</span></span></span>
+The test is whether the alternatives are **jointly exhaustive** and **relevantly framed**. “Jointly exhaustive” means the listed options cover all the possibilities that matter for the conclusion. “Relevantly framed” means the options are not chosen in a way that unfairly hides the actual issue. Tomić’s later work distinguishes false dilemma from related problems in disjunctive reasoning by focusing on whether relevant additional disjuncts would change the argument’s force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/6233/5355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Open source on informallogic.ca.</span></span></span>
 
 A manufactured dilemma often shows warning signs. It uses urgency to prevent inspection of alternatives. It attaches moral labels to positions before they are argued for. It treats hesitation as betrayal. It skips over practical design questions. It makes one option look absurd so the preferred option seems inevitable. These features do not prove a fallacy by themselves, but they are clues that the audience should inspect the choice set rather than merely choose a side.
 
-A famous political example is George W. Bush’s 20 September 2001 address to Congress, where he said: “Either you are with us, or you are with the terrorists.” In its original [context]({{ 'context/' | relative_url }}), the line was part of a demand that states stop harbouring or supporting terrorism. As rhetoric, it created a sharp diplomatic boundary. As reasoning, it also shows why either-or frames need scrutiny: countries might support counter-terrorism while disagreeing about methods, evidence, military scope, legal process or particular alliances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewbush-whitehouse.archives.gov">[George W. Bush White House Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewbush-whitehouse.archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A famous political example is George W. Bush’s 20 September 2001 address to Congress, where he said: “Either you are with us, or you are with the terrorists.” In its original [context]({{ 'context/' | relative_url }}), the line was part of a demand that states stop harbouring or supporting terrorism. As rhetoric, it created a sharp diplomatic boundary. As reasoning, it also shows why either-or frames need scrutiny: countries might support counter-terrorism while disagreeing about methods, evidence, military scope, legal process or particular alliances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewbush-whitehouse.archives.gov">[George W. Bush White House Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewbush-whitehouse.archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-2-dark.svg" | relative_url }}" alt="False Dilemma illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How false dilemmas hide implementation choices
 
 False dilemmas are especially powerful in practical debates because they erase implementation. Instead of asking how a goal might be achieved, the audience is pushed into defending or rejecting a slogan. That is why the fallacy often appears in policy, management, education, technology and personal decision-making.
 
-Consider the claim: “The university must either raise tuition or face financial ruin.” Texas A&M’s writing centre uses this type of example to show how an issue can be oversimplified by asserting only two alternatives. The missing implementation questions are obvious: could the institution reduce spending, change procurement, use reserves, alter recruitment strategy, seek grants, phase changes, protect low-income students, or combine smaller measures? <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.tamu.edu">[University Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.tamu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Consider the claim: “The university must either raise tuition or face financial ruin.” Texas A&M’s writing centre uses this type of example to show how an issue can be oversimplified by asserting only two alternatives. The missing implementation questions are obvious: could the institution reduce spending, change procurement, use reserves, alter recruitment strategy, seek grants, phase changes, protect low-income students, or combine smaller measures?<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.tamu.edu">[University Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.tamu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Implementation details matter because many [real choices]({{ 'real-choices/' | relative_url }}) are bundles. A policy is rarely just “do it” or “do nothing”. It includes scope, timing, safeguards, funding, review mechanisms, [exceptions]({{ 'exceptions/' | relative_url }}), sunset clauses and accountability. A false dilemma strips away those design variables and turns a many-part decision into a loyalty test.
 
-Choice architecture research also helps explain why this matters. How options are presented can influence decisions, and nudging studies have found that changes in choice architecture can affect behaviour. That does not mean every simplified choice is manipulative, but it does mean that the design of a choice set is itself an argumentative move. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Choice architecture research also helps explain why this matters. How options are presented can influence decisions, and nudging studies have found that changes in choice architecture can affect behaviour. That does not mean every simplified choice is manipulative, but it does mean that the design of a choice set is itself an argumentative move.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/prwI8RAzTkk" title="What is The False Dilemma Fallacy? | Critical Thinking Basics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=prwI8RAzTkk" target="_blank" rel="noopener noreferrer">What is The False Dilemma Fallacy? | Critical Thinking Basics</a></p><p class="youtube-embed-meta">Channel: Lucia Grosaru • Psychology Corner &middot; Views: 1.7K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=prwI8RAzTkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=prwI8RAzTkk">Open on YouTube</a></p></div></div></div>
 
@@ -584,7 +584,7 @@ This test is useful because it avoids a lazy counter-move. Merely saying “ther
 
 False dilemmas thrive because binary choices are cognitively and rhetorically efficient. They are memorable, emotionally legible and easy to repeat. They can also feel morally clarifying: one side appears brave, responsible or loyal; the other appears weak, reckless or hostile. That emotional clarity can be useful when a real boundary must be drawn, but it is dangerous when the boundary is invented.
 
-Research on reasoning from incompatibility suggests that people’s inferences can be affected by how incompatible options are framed, and argumentation theorists have long noted that false dilemma often turns on treating alternatives as more exclusive or exhaustive than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29572787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research on reasoning from incompatibility suggests that people’s inferences can be affected by how incompatible options are framed, and argumentation theorists have long noted that false dilemma often turns on treating alternatives as more exclusive or exhaustive than they really are.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29572787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical antidote is disciplined option-generation. Before accepting an either-or frame, ask: What would a careful planner, negotiator, engineer, judge, doctor, teacher or budget holder need to know before choosing? That question usually reveals the hidden middle: not a vague moderation instinct, but the actual operational space where better decisions are made.
 
@@ -595,269 +595,269 @@ A false dilemma is not just a debate mistake; it is a way of controlling attenti
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLLGAQvhaQs" title="How to Recognize the Either-Or Fallacy: Climate Change Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLLGAQvhaQs" target="_blank" rel="noopener noreferrer">How to Recognize the Either-Or Fallacy: Climate Change Edition</a></p><p class="youtube-embed-meta">Channel: Dr. Josh&#x27;s COMMunity &middot; Views: 50 &middot; Uploaded: March 2024 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLLGAQvhaQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLLGAQvhaQs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Choices Are Being Hidden?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Choices Are Being Hidden?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages exploring alternatives rather than accepting binaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages exploring alternatives rather than accepting binaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how simplified choices can distort judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how simplified choices can distort judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Provides tools for testing whether options are genuinely exhaustive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for testing whether options are genuinely exhaustive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Covers false dilemmas and other reasoning errors in depth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers false dilemmas and other reasoning errors in depth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY T-Shirt | Questions and Answers Tee | Plato Aristotle Socrates Top"><img src="{{ '/assets/images/marketplace-covers/a7aefe3b12cbc76eb6c3.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY T-Shirt | Questions and Answers Tee | Plato Aristotle Socrates Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY T-Shirt | Questions and Answers Tee | Plato Aristotle Socrates Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY T-Shirt | Questions and Answers Tee | Plato Aristotle Socrates Top"><img src="{{ '/assets/images/marketplace-covers/a7aefe3b12cbc76eb6c3.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY T-Shirt | Questions and Answers Tee | Plato Aristotle Socrates Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY T-Shirt | Questions and Answers Tee | Plato Aristotle Socrates Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Memento Mori T-Shirt - Skull and Crossbones T Shirt - Stoic Stoicism philosophy"><img src="{{ '/assets/images/marketplace-covers/87254e35e9529e5e10e4.jpg' | relative_url }}" alt="Listing image for Memento Mori T-Shirt - Skull and Crossbones T Shirt - Stoic Stoicism philosophy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Memento Mori T-Shirt - Skull and Crossbones T Shirt - Stoic Stoicism philosophy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Memento Mori T-Shirt - Skull and Crossbones T Shirt - Stoic Stoicism philosophy"><img src="{{ '/assets/images/marketplace-covers/87254e35e9529e5e10e4.jpg' | relative_url }}" alt="Listing image for Memento Mori T-Shirt - Skull and Crossbones T Shirt - Stoic Stoicism philosophy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Memento Mori T-Shirt - Skull and Crossbones T Shirt - Stoic Stoicism philosophy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARCUS AURELIUS T-Shirt | Stoic Philosophy Meditations Tee | Roman Emperor Top"><img src="{{ '/assets/images/marketplace-covers/eb04a3536d12ce5bc3a6.jpg' | relative_url }}" alt="Listing image for MARCUS AURELIUS T-Shirt | Stoic Philosophy Meditations Tee | Roman Emperor Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MARCUS AURELIUS T-Shirt | Stoic Philosophy Meditations Tee | Roman Emperor Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARCUS AURELIUS T-Shirt | Stoic Philosophy Meditations Tee | Roman Emperor Top"><img src="{{ '/assets/images/marketplace-covers/eb04a3536d12ce5bc3a6.jpg' | relative_url }}" alt="Listing image for MARCUS AURELIUS T-Shirt | Stoic Philosophy Meditations Tee | Roman Emperor Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MARCUS AURELIUS T-Shirt | Stoic Philosophy Meditations Tee | Roman Emperor Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philosophy Football Men’s Black Graphic Quote T-Shirt Size S"><img src="{{ '/assets/images/marketplace-covers/a2f0a468b4dcdcdfbe86.jpg' | relative_url }}" alt="Listing image for Philosophy Football Men’s Black Graphic Quote T-Shirt Size S" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Philosophy Football Men’s Black Graphic Quote T-Shirt Size S</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philosophy Football Men’s Black Graphic Quote T-Shirt Size S"><img src="{{ '/assets/images/marketplace-covers/a2f0a468b4dcdcdfbe86.jpg' | relative_url }}" alt="Listing image for Philosophy Football Men’s Black Graphic Quote T-Shirt Size S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Philosophy Football Men’s Black Graphic Quote T-Shirt Size S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-dilemma-what-choices-are-being-hidden-logical-fallacies-philosophy-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -873,7 +873,7 @@ A false dilemma is not just a debate mistake; it is a way of controlling attenti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -893,7 +893,7 @@ A false dilemma is not just a debate mistake; it is a way of controlling attenti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -925,7 +925,7 @@ A false dilemma is not just a debate mistake; it is a way of controlling attenti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -955,7 +955,7 @@ A false dilemma is not just a debate mistake; it is a way of controlling attenti
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1013,186 +1013,186 @@ A false dilemma is not just a debate mistake; it is a way of controlling attenti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philpapers.org  
    Title: Phil Papers False Dilemma: A Systematic Exposition  
-   Link: <a href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TOMFDA</a>  
+   Link:<a href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TOMFDA</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/6233/5355" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/6233/5355</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/6233/5355" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/6233/5355</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-6.html</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-6.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/text/20010920-4.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/text/20010920-4.html</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/text/20010920-4.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/text/20010920-4.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: georgewbush-whitehouse.archives.gov  
    Title: Selected Speeches George W Bush  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/documents/Selected_Speeches_George_W_Bush.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/documents/Selected_Speeches_George_W_Bush.pdf</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/documents/Selected_Speeches_George_W_Bush.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/documents/Selected_Speeches_George_W_Bush.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/06/text/20020611-13.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/06/text/20020611-13.html</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/06/text/20020611-13.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/06/text/20020611-13.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/text/20020301-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/text/20020301-6.html</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/text/20020301-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/text/20020301-6.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-6.html</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-6.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-2.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-2.html</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-2.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-2.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-5.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-5.html</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-5.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-5.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/7171" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7171</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/7171" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7171</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: informallogic.ca  
    Title: Is False Dilemma Really a Formal Fallacy?  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/8144" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/8144</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/8144" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/8144</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: philpapers.org  
    Title: CONSCT 2  
-   Link: <a href="https://philpapers.org/rec/CONSCT-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/CONSCT-2</a>  
+   Link:<a href="https://philpapers.org/rec/CONSCT-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/CONSCT-2</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: writingcenter.tamu.edu  
-   Link: <a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
+   Link:<a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/middle-ground" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/middle-ground</a>  
+   Link:<a href="https://yourlogicalfallacyis.com/middle-ground" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/middle-ground</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29572787/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29572787/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29572787/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29572787/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: False dilemma  
-   Link: <a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/False" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/False" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: logicallyfallacious.com  
    Title: False Dilemma  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/false</a>  
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/false</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: flowstatesales.com  
    Title: choice architecture  
-   Link: <a href="https://flowstatesales.com/resource-hub/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://flowstatesales.com/resource-hub/choice-architecture/</a>  
+   Link:<a href="https://flowstatesales.com/resource-hub/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://flowstatesales.com/resource-hub/choice-architecture/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: erudit.org  
    Title: [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.erudit.org/en/journals/informallogic/2024-v44-n4-informallogic09844/1116150ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/informallogic/2024-v44-n4-informallogic09844/1116150ar.pdf</a>  
+   Link:<a href="https://www.erudit.org/en/journals/informallogic/2024-v44-n4-informallogic09844/1116150ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/informallogic/2024-v44-n4-informallogic09844/1116150ar.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: askphilosophers.org  
-   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
+   Link:<a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
+   Link:<a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: library.sewanee.edu  
-   Link: <a href="https://library.sewanee.edu/critical_thinking/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://library.sewanee.edu/critical_thinking/fallacies</a>  
+   Link:<a href="https://library.sewanee.edu/critical_thinking/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://library.sewanee.edu/critical_thinking/fallacies</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: What is The False Dilemma Fallacy? | Critical Thinking Basics  
-   Link: <a href="https://www.youtube.com/watch?v=prwI8RAzTkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=prwI8RAzTkk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=prwI8RAzTkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=prwI8RAzTkk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: How to Recognize the Either-Or Fallacy: Climate Change Edition  
-   Link: <a href="https://www.youtube.com/watch?v=RLLGAQvhaQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLLGAQvhaQs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is The False Dilemma Fallacy? | Critical Thinking Basics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RLLGAQvhaQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLLGAQvhaQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is The False Dilemma Fallacy? | Critical Thinking Basics...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/281440293_Either_You_Are_With_Us_Or_you_are_with_the_Terrorists_US_Imperial_Hegemony_at_the_Beginning_of_the_21st_Century" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281440293_Either_You_Are_With_Us_Or_you_are_with_the_Terrorists_US_Imperial_Hegemony_at_the_Beginning_of_the_21st_Century</a>  
+   Link:<a href="https://www.researchgate.net/publication/281440293_Either_You_Are_With_Us_Or_you_are_with_the_Terrorists_US_Imperial_Hegemony_at_the_Beginning_of_the_21st_Century" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281440293_Either_You_Are_With_Us_Or_you_are_with_the_Terrorists_US_Imperial_Hegemony_at_the_Beginning_of_the_21st_Century</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: markmanson.net  
-   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MichaelWaltzForCongress/videos/george-w-bush-either-you-are-with-us-or-you-are-with-the-terrorists/1702865019911742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichaelWaltzForCongress/videos/george-w-bush-either-you-are-with-us-or-you-are-with-the-terrorists/1702865019911742/</a>  
+   Link:<a href="https://www.facebook.com/MichaelWaltzForCongress/videos/george-w-bush-either-you-are-with-us-or-you-are-with-the-terrorists/1702865019911742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichaelWaltzForCongress/videos/george-w-bush-either-you-are-with-us-or-you-are-with-the-terrorists/1702865019911742/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: degruyterbrill.com  
-   Link: <a href="https://www.degruyterbrill.com/de/document/doi/10.1515/9781400845347-029/html?srsltid=AfmBOooK66egkq0_lSE74xJbS4Y_DIUOt5CrSs7Bcl29IXVdnk-irBMU" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/de/document/doi/10.1515/9781400845347-029/html?srsltid=AfmBOooK66egkq0_lSE74xJbS4Y_DIUOt5CrSs7Bcl29IXVdnk-irBMU</a>  
+   Link:<a href="https://www.degruyterbrill.com/de/document/doi/10.1515/9781400845347-029/html?srsltid=AfmBOooK66egkq0_lSE74xJbS4Y_DIUOt5CrSs7Bcl29IXVdnk-irBMU" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/de/document/doi/10.1515/9781400845347-029/html?srsltid=AfmBOooK66egkq0_lSE74xJbS4Y_DIUOt5CrSs7Bcl29IXVdnk-irBMU</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: pastpaperhero.com  
-   Link: <a href="https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy</a>  
+   Link:<a href="https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: creationmagazine.com  
-   Link: <a href="https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091" target="_blank" rel="noopener noreferrer nofollow">https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091</a>  
+   Link:<a href="https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091" target="_blank" rel="noopener noreferrer nofollow">https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/false" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/false</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/false" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/false</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html</a>
+   Link:<a href="https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html</a>

@@ -268,10 +268,10 @@ image: /assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_her
 
 ## Introduction
 
-A [red herring]({{ 'red-herring/' | relative_url }}) is an informal fallacy in which a speaker responds to an issue by introducing a different issue that sounds important but does not actually answer the original question. The diversion may be dramatic, emotional, morally charged, or only loosely related to the topic under discussion. What makes it fallacious is not that the new topic is uninteresting; it is that the original claim remains unaddressed. In everyday disagreements, workplace discussions, media interviews, and political debates, red herrings can create the impression that a response has been given when the central issue has merely been displaced. As a result, conversations often become longer and more heated while making little progress on the question that started them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</span></span></span> Encyclopedia of Philosophy
+A [red herring]({{ 'red-herring/' | relative_url }}) is an informal fallacy in which a speaker responds to an issue by introducing a different issue that sounds important but does not actually answer the original question. The diversion may be dramatic, emotional, morally charged, or only loosely related to the topic under discussion. What makes it fallacious is not that the new topic is uninteresting; it is that the original claim remains unaddressed. In everyday disagreements, workplace discussions, media interviews, and political debates, red herrings can create the impression that a response has been given when the central issue has merely been displaced. As a result, conversations often become longer and more heated while making little progress on the question that started them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</span></span></span> Encyclopedia of Philosophy
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-1-dark.svg" | relative_url }}" alt="Red Herrings illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader family of informal fallacies, red herrings are usually treated as fallacies of [relevance]({{ 'relevance/' | relative_url }}). The key problem is not whether the side issue is true or false, but whether it is relevant to the conclusion or criticism under examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">What Is a Red Herring Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesApr 5, 2023 — More specifically, it is a fallacy of relevance: it concerns arguments or statements that seem relev...</span></span></span>
+Within the broader family of informal fallacies, red herrings are usually treated as fallacies of [relevance]({{ 'relevance/' | relative_url }}). The key problem is not whether the side issue is true or false, but whether it is relevant to the conclusion or criticism under examination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">What Is a Red Herring Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesApr 5, 2023 — More specifically, it is a fallacy of relevance: it concerns arguments or statements that seem relev...</span></span></span>
 
 ## How Red Herrings Redirect Attention
 
@@ -284,7 +284,7 @@ Consider this exchange:
 
 The second statement may be true and may deserve discussion. Yet it does not answer the question about missed deadlines. The conversation has moved from performance to effort.
 
-Red herrings work because human attention is limited. Once a vivid alternative issue appears, people often begin debating the new topic instead of noticing that the original question remains unresolved. Researchers and theorists of [informal logic]({{ 'informal-logic/' | relative_url }}) have long treated this kind of diversion as a relevance problem: the audience's focus is redirected away from the point that required evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span>
+Red herrings work because human attention is limited. Once a vivid alternative issue appears, people often begin debating the new topic instead of noticing that the original question remains unresolved. Researchers and theorists of [informal logic]({{ 'informal-logic/' | relative_url }}) have long treated this kind of diversion as a relevance problem: the audience's focus is redirected away from the point that required evaluation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span>
 
 Several features make red herrings especially persuasive:
 
@@ -297,7 +297,7 @@ Several features make red herrings especially persuasive:
 
 </div>
 
-Because the diversion often sounds connected to the discussion, listeners may not immediately recognise that the reasoning has changed tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
+Because the diversion often sounds connected to the discussion, listeners may not immediately recognise that the reasoning has changed tracks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
 
 ## Why the Diversion Often Feels Like an Answer
 
@@ -308,9 +308,9 @@ For example:
 * Claim: “Is this chemical safe for consumers?”
 * Response: “If we ban it, many workers could lose their jobs.”
 
-Job losses might be a legitimate policy concern. However, they do not establish whether the chemical is safe. The question has changed from a safety assessment to an economic assessment. Unless the shift is made explicit, the audience may mistake a new [debate]({{ 'debate/' | relative_url }}) for an answer to the original one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
+Job losses might be a legitimate policy concern. However, they do not establish whether the chemical is safe. The question has changed from a safety assessment to an economic assessment. Unless the shift is made explicit, the audience may mistake a new [debate]({{ 'debate/' | relative_url }}) for an answer to the original one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
 
-This explains why red herrings are not always blatant attempts to deceive. People often introduce them unintentionally. A speaker may genuinely believe that the side issue matters more than the original question. The reasoning is still defective if the response leaves the initial claim unanswered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span>
+This explains why red herrings are not always blatant attempts to deceive. People often introduce them unintentionally. A speaker may genuinely believe that the side issue matters more than the original question. The reasoning is still defective if the response leaves the initial claim unanswered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4f0saWocQDc" title="Red Herring Fallacy : Anuj Shah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4f0saWocQDc" target="_blank" rel="noopener noreferrer">Red Herring Fallacy : Anuj Shah</a></p><p class="youtube-embed-meta">Channel: Critical Thinking &amp; Argumentation &middot; Views: 290 &middot; Uploaded: October 2017 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4f0saWocQDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4f0saWocQDc">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +329,7 @@ A useful distinction is this:
 * **Relevant expansion:** Adds considerations that bear on the original conclusion.
 * **Red herring diversion:** Replaces the original issue with a different one.
 
-The difference depends on whether the new information helps evaluate the claim under discussion. Informal logic emphasises relevance as a central standard for assessing arguments. A contribution can be important, true, and interesting while still failing that relevance test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span>
+The difference depends on whether the new information helps evaluate the claim under discussion. Informal logic emphasises relevance as a central standard for assessing arguments. A contribution can be important, true, and interesting while still failing that relevance test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span>
 
 ### A Quick Comparison
 
@@ -344,7 +344,7 @@ The difference depends on whether the new information helps evaluate the claim u
 
 The evidence addresses the claim.
 
-**Red herring** <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span>
+**Red herring**<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span>
 
 * Question: “Did the policy reduce crime?”
 * Response: “The policymakers worked very hard and care deeply about the community.”
@@ -370,7 +370,7 @@ A simple test is to imagine the side issue being completely true.
 
 Would that truth make the original conclusion more likely?
 
-If not, the point may be irrelevant. Informal logic often frames relevance in terms of whether premises genuinely support the conclusion being defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/redherrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[The Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Fallacy FilesLogical Fallacy: Red HerringRed Herring is the most general fallacy of irrelevance. Any argument in which the premisses...</span></span></span>
+If not, the point may be irrelevant. Informal logic often frames relevance in terms of whether premises genuinely support the conclusion being defended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/redherrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[The Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Fallacy FilesLogical Fallacy: Red HerringRed Herring is the most general fallacy of irrelevance. Any argument in which the premisses...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GSKmLiTJELc" title="Introduction to Argument - Fallacies (Red Herring &amp; Ad Hominem)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GSKmLiTJELc" target="_blank" rel="noopener noreferrer">Introduction to Argument - Fallacies (Red Herring &amp; Ad Hominem)</a></p><p class="youtube-embed-meta">Channel: mscdbond &middot; Views: 143 &middot; Uploaded: November 2012 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GSKmLiTJELc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GSKmLiTJELc">Open on YouTube</a></p></div></div></div>
 
@@ -417,7 +417,7 @@ In personal disagreements, they often appear as counter-complaints:
 
 The second complaint may be legitimate, but it does not address the first.
 
-In public debate, red herrings frequently emerge when evidence is weak. Discussion shifts from facts to motives, symbolism, identity, or unrelated controversies. Because these themes attract attention, they can dominate media coverage even when they leave the central issue unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
+In public debate, red herrings frequently emerge when evidence is weak. Discussion shifts from facts to motives, symbolism, identity, or unrelated controversies. Because these themes attract attention, they can dominate media coverage even when they leave the central issue unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
 
 In organisations, they may appear during performance reviews, project assessments, or policy discussions when participants redirect attention from measurable outcomes to peripheral matters.
 
@@ -429,149 +429,149 @@ The damage caused by a red herring is not merely confusion. It changes what is b
 
 Arguments improve when participants distinguish between relevant context and genuine diversion. A conversation may broaden, introduce new evidence, or reconsider assumptions without becoming fallacious. The critical question is always the same: does the new point help answer the issue under examination, or does it merely draw attention away from it?
 
-That question keeps the focus on relevance, which is the central weakness in a red herring argument. When the answer is no, the apparent response is not really a response at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">What Is a Red Herring Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesApr 5, 2023 — More specifically, it is a fallacy of relevance: it concerns arguments or statements that seem relev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesRed Herring. A red herring is a smelly fish that would distract even a bloodhound. It is also...</span></span></span>
+That question keeps the focus on relevance, which is the central weakness in a red herring argument. When the answer is no, the apparent response is not really a response at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">What Is a Red Herring Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesApr 5, 2023 — More specifically, it is a fallacy of relevance: it concerns arguments or statements that seem relev...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesRed Herring. A red herring is a smelly fish that would distract even a bloodhound. It is also...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is That Point Relevant or a Distraction?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is That Point Relevant or a Distraction?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Strong on relevance, distraction, and argument evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong on relevance, distraction, and argument evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Discusses red herrings and other relevance fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses red herrings and other relevance fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Keeps focus on whether reasons address the claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps focus on whether reasons address the claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
-        </h4>
-        <p class="fr-book-author">By Jay Heinrichs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-xSaFkMx2ukC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
+</h4>
+<p class="fr-book-author">By Jay Heinrichs</p>
         
-        <p class="fr-book-desc">Shows persuasive tactics that can redirect attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows persuasive tactics that can redirect attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+by+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search <span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search<span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search <span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search<span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-herrings-13d922-is-that-point-relevant-or-a-distraction-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ That question keeps the focus on relevance, which is the central weakness in a r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ That question keeps the focus on relevance, which is the central weakness in a r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ That question keeps the focus on relevance, which is the central weakness in a r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ That question keeps the focus on relevance, which is the central weakness in a r
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -727,229 +727,229 @@ That question keeps the focus on relevance, which is the central weakness in a r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: What Is a Red Herring Fallacy?  
-   Link: <a href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/red-herring-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesApr 5, 2023 — More specifically, it is a fallacy of relevance: it concerns arguments or statements that seem relev...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/red-herring-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesApr 5, 2023 — More specifically, it is a fallacy of relevance: it concerns arguments or statements that seem relev...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/archives/win2016/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2016/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>red herring” arguments, which are common in ordinary discourse. In contrast with classical logic, both the AV and ARS criteria assess...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/win2016/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2016/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>red herring” arguments, which are common in ordinary discourse. In contrast with classical logic, both the AV and ARS criteria assess...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignoratio.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ignoratio Elenchi (Irrelevant Conclusion); Straw ManIn disputations, the use of a red herring fallacy is an attempt to redirect attention...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignoratio.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ignoratio Elenchi (Irrelevant Conclusion); Straw ManIn disputations, the use of a red herring fallacy is an attempt to redirect attention...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Informal logic...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Informal logic...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Red herring  
-   Link: <a href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_herring</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_herring</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesRed herring fallacies. edit. A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesRed herring fallacies. edit. A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Stanford University  
-   Link: <a href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanford_University</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Universitya private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Le...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanford_University</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Universitya private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Le...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FallacyA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument that may appear to be well-rea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FallacyA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument that may appear to be well-rea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stanford.edu  
-   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityAt Stanford, our mission of discovery and learning is energized by a spirit of optimism and possibility that dates to...</p></details>
+   Link:<a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityAt Stanford, our mission of discovery and learning is energized by a spirit of optimism and possibility that dates to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduinformal-logicThe account of argument that results establishes the criteria for good causal arguments, arguments by analogy...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduinformal-logicThe account of argument that results establishes the criteria for good causal arguments, arguments by analogy...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2020/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of PhilosophyNov 25, 1996 — Its account of logical methods discusses fallacies, syllogisms, definitions, de...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2020/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of PhilosophyNov 25, 1996 — Its account of logical methods discusses fallacies, syllogisms, definitions, de...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.stanford.edu  
    Title: faculty senate votes to extend college  
-   Link: <a href="https://news.stanford.edu/stories/2026/05/faculty-senate-votes-to-extend-college" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/05/faculty-senate-votes-to-extend-college</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate votes to extend COLLEGE...</p></details>
+   Link:<a href="https://news.stanford.edu/stories/2026/05/faculty-senate-votes-to-extend-college" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/05/faculty-senate-votes-to-extend-college</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate votes to extend COLLEGE...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: philosophy.lander.edu  
    Title: nature fall  
-   Link: <a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature of FallaciesInformal fallacies are considered one type of inductive argument rather that a separate category differing from deduct...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature of FallaciesInformal fallacies are considered one type of inductive argument rather that a separate category differing from deduct...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philosophy.institute  
-   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies: Errors in ReasoningDec 9, 2025 — When reasoning goes wrong in a recognizable, patterned way, logicians call it a...</p></details>
+   Link:<a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies: Errors in ReasoningDec 9, 2025 — When reasoning goes wrong in a recognizable, patterned way, logicians call it a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Red Herring  
-   Link: <a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Af0STrY58i4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Red Herring&quot; Fallacy Explained in 2 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Af0STrY58i4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Red Herring&quot; Fallacy Explained in 2 Minutes...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GSKmLiTJELc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GSKmLiTJELc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring Fallacy: Anuj Shah...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GSKmLiTJELc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GSKmLiTJELc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring Fallacy: Anuj Shah...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Red Herring Fallacy: Anuj Shah  
-   Link: <a href="https://www.youtube.com/watch?v=4f0saWocQDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4f0saWocQDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red herring fallacy critical thinking arguments Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY Wireless Philosophy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4f0saWocQDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4f0saWocQDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red herring fallacy critical thinking arguments Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY Wireless Philosophy...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesRed Herring. A red herring is a smelly fish that would distract even a bloodhound. It is also...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesRed Herring. A red herring is a smelly fish that would distract even a bloodhound. It is also...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: grammarly.com  
    Title: red herring fallacy  
-   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/red-herring-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, ExplainedJun 2, 2022 — The red herring fallacy specifically involves using that irrelevant claim to redirect the discussion and avoid a...</p></details>
+   Link:<a href="https://www.grammarly.com/blog/rhetorical-devices/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/red-herring-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, ExplainedJun 2, 2022 — The red herring fallacy specifically involves using that irrelevant claim to redirect the discussion and avoid a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/redherrf.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/redherrf.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy FilesLogical Fallacy: Red HerringRed Herring is the most general fallacy of irrelevance. Any argument in which the premisses...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/redherrf.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/redherrf.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy FilesLogical Fallacy: Red HerringRed Herring is the most general fallacy of irrelevance. Any argument in which the premisses...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZggiwS7iv2A</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZggiwS7iv2A</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/stanfordonline" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/stanfordonline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford OnlineYou can gain access to a world of education through Stanford Online, the Stanford School of Engineering&#x27;s portal for acade...</p></details>
+   Link:<a href="https://www.youtube.com/stanfordonline" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/stanfordonline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford OnlineYou can gain access to a world of education through Stanford Online, the Stanford School of Engineering&#x27;s portal for acade...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring. A red herring is a smelly fish that would...Read more...</p></details>
+   Link:<a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring. A red herring is a smelly fish that would...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Red-Herring</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Red-Herring</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: stanforddaily.com  
    Title: Why are so many athletes transferring from Stanford?  
-   Link: <a href="https://stanforddaily.com/2026/05/07/athletes-transferring-from-stanford/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2026/05/07/athletes-transferring-from-stanford/</a>  
+   Link:<a href="https://stanforddaily.com/2026/05/07/athletes-transferring-from-stanford/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2026/05/07/athletes-transferring-from-stanford/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: stanforddaily.com  
    Title: Stanford enters homestretch with playoff hopes on the line  
-   Link: <a href="https://stanforddaily.com/2026/05/07/stanford-playoff-hopes-on-the-line/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2026/05/07/stanford-playoff-hopes-on-the-line/</a>  
+   Link:<a href="https://stanforddaily.com/2026/05/07/stanford-playoff-hopes-on-the-line/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2026/05/07/stanford-playoff-hopes-on-the-line/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: stanforddaily.com  
    Title: Stanfordle #129  
-   Link: <a href="https://stanforddaily.com/2026/05/07/stanfordle-129/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2026/05/07/stanfordle-129/</a>  
+   Link:<a href="https://stanforddaily.com/2026/05/07/stanfordle-129/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2026/05/07/stanfordle-129/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, Red Herring, Straw ManFeb 13, 2026 — The fallacy lies in the assumption that there are only two mutually exclusive options, wh...</p></details>
+   Link:<a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, Red Herring, Straw ManFeb 13, 2026 — The fallacy lies in the assumption that there are only two mutually exclusive options, wh...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: critikid.com  
-   Link: <a href="https://critikid.com/red-herring" target="_blank" rel="noopener noreferrer nofollow">https://critikid.com/red-herring</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red herringA red herring is a distraction in an argument. You commit this fallacy when you shift to a related-sounding but irrelevant poi...</p></details>
+   Link:<a href="https://critikid.com/red-herring" target="_blank" rel="noopener noreferrer nofollow">https://critikid.com/red-herring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red herringA red herring is a distraction in an argument. You commit this fallacy when you shift to a related-sounding but irrelevant poi...</p></details>
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thomism.org  
-   Link: <a href="https://www.thomism.org/logic/fallacies/index.html?name=Informal_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.thomism.org/logic/fallacies/index.html?name=Informal_Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal FallacyHedging Fallacy · [No True](&amp;#123;&amp;#123; &#x27;no-true/&#x27; | relative_url &amp;#125;&amp;#125;)... Relevance Fallacy · Ignoratio Elenchi · Quantum Physics Fallacy · Red Herring... • Interne...</p></details>
+   Link:<a href="https://www.thomism.org/logic/fallacies/index.html?name=Informal_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.thomism.org/logic/fallacies/index.html?name=Informal_Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal FallacyHedging Fallacy · [No True](&amp;#123;&amp;#123; &#x27;no-true/&#x27; | relative_url &amp;#125;&amp;#125;)... Relevance Fallacy · Ignoratio Elenchi · Quantum Physics Fallacy · Red Herring... • Interne...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: bartleby.com  
-   Link: <a href="https://www.bartleby.com/topics/fallacies/1" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/topics/fallacies/1</a>  
+   Link:<a href="https://www.bartleby.com/topics/fallacies/1" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/topics/fallacies/1</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PhilosophyMttrs/posts/when-all-the-logical-fallacies-go-for-a-walk/1138912554938156/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PhilosophyMttrs/posts/when-all-the-logical-fallacies-go-for-a-walk/1138912554938156/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When all the logical fallacies go for a walkInternet Encyclopedia of Philosophy · No photo description available... Typical fallacies of...</p></details>
+   Link:<a href="https://www.facebook.com/PhilosophyMttrs/posts/when-all-the-logical-fallacies-go-for-a-walk/1138912554938156/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PhilosophyMttrs/posts/when-all-the-logical-fallacies-go-for-a-walk/1138912554938156/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When all the logical fallacies go for a walkInternet Encyclopedia of Philosophy · No photo description available... Typical fallacies of...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: philosophyalevel.com  
    Title: Philosophy A Level Informal Fallacies: 15 Common Examples of Faulty  
-   Link: <a href="https://philosophyalevel.com/posts/informal-fallacies-examples/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/informal-fallacies-examples/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Fallacies: 15 Common Examples of Faulty...May 31, 2023 — The Red Herring fallacy involves diverting attention from the main top...</p></details>
+   Link:<a href="https://philosophyalevel.com/posts/informal-fallacies-examples/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/informal-fallacies-examples/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Fallacies: 15 Common Examples of Faulty...May 31, 2023 — The Red Herring fallacy involves diverting attention from the main top...</p></details>
    Published: May 31, 2023  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-red-herring-fallacy-in-arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-red-herring-fallacy-in-arguments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teps the original issue and replaces it with a distracting side...Read more...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-red-herring-fallacy-in-arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-red-herring-fallacy-in-arguments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>teps the original issue and replaces it with a distracting side...Read more...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: actuary.org  
    Title: Here is a description of the most common types  
-   Link: <a href="https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Irrationally Yours—An Introduction to Logical FallaciesMar 1, 2021 — Logical fallacies are, at best, flawed logic, but more commonly are...</p></details>
+   Link:<a href="https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Irrationally Yours—An Introduction to Logical FallaciesMar 1, 2021 — Logical fallacies are, at best, flawed logic, but more commonly are...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: press.rebus.community  
-   Link: <a href="https://press.rebus.community/intro-to-phil-logic/chapter/chapter-4-informal-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://press.rebus.community/intro-to-phil-logic/chapter/chapter-4-informal-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies – Introduction to Philosophy: LogicInformal fallacies are so called because their errors lie not in their logical form...</p></details>
+   Link:<a href="https://press.rebus.community/intro-to-phil-logic/chapter/chapter-4-informal-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://press.rebus.community/intro-to-phil-logic/chapter/chapter-4-informal-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies – Introduction to Philosophy: LogicInformal fallacies are so called because their errors lie not in their logical form...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/270238449806612/posts/1961009704062803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/270238449806612/posts/1961009704062803/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cting away from the original topic that is being discussed. This is...</p></details>
+   Link:<a href="https://www.facebook.com/groups/270238449806612/posts/1961009704062803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/270238449806612/posts/1961009704062803/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cting away from the original topic that is being discussed. This is...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: informallogic.ca  
    Title: Classification of Fallacies of Relevance!  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/2133/1577</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/2133/1577</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: markmanson.net  
    Title: 8 Logical Fallacies That Mess Us All Up1  
-   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Is Not Causation · 2. [Slippery Slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy · 3. False Dichotomies · 4. Begging the Question · 5. Red Herrings · 6. Appeals...</p></details>
+   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Is Not Causation · 2. [Slippery Slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy · 3. False Dichotomies · 4. Begging the Question · 5. Red Herrings · 6. Appeals...</p></details>

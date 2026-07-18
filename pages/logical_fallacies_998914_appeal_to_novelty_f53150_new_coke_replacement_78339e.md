@@ -274,18 +274,18 @@ image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_coke
 
 ## Introduction
 
-The story of New Coke is one of the clearest examples of why “new” does not automatically mean “better”. In 1985, Coca-Cola replaced its original flagship formula with a sweeter version known as New Coke after extensive market research suggested consumers preferred the new taste. Yet the launch triggered a fierce backlash, forcing the company to restore the original formula within months. The episode remains a powerful case study in the [appeal to novelty]({{ 'novelty/' | relative_url }}) because it shows how a seemingly rational improvement can fail when decision-makers assume that a measurable advantage—in this case, taste-test performance—is the same thing as overall value. The mistake was not creating a new product. The mistake was replacing something that already worked without fully understanding why people valued it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaNew Coke &#124; History, Response, &amp; Facts5 days ago — New Coke, reformulated soft drink that the Coca-Cola Company int...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Coca-Cola Introduces a New Formula &#124; HistoryThe company conducted extensive taste tests that indicated consumer preference for the n...</span></span></span>
+The story of New Coke is one of the clearest examples of why “new” does not automatically mean “better”. In 1985, Coca-Cola replaced its original flagship formula with a sweeter version known as New Coke after extensive market research suggested consumers preferred the new taste. Yet the launch triggered a fierce backlash, forcing the company to restore the original formula within months. The episode remains a powerful case study in the [appeal to novelty]({{ 'novelty/' | relative_url }}) because it shows how a seemingly rational improvement can fail when decision-makers assume that a measurable advantage—in this case, taste-test performance—is the same thing as overall value. The mistake was not creating a new product. The mistake was replacing something that already worked without fully understanding why people valued it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaNew Coke &#124; History, Response, &amp; Facts5 days ago — New Coke, reformulated soft drink that the Coca-Cola Company int...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Coca-Cola Introduces a New Formula &#124; HistoryThe company conducted extensive taste tests that indicated consumer preference for the n...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_coke_replacement_78339e-Illustration-1-dark.svg" | relative_url }}" alt="New Coke illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_coke_replacement_78339e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_coke_replacement_78339e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Coca-Cola Changed in 1985 and Why
 
-By the early 1980s, Coca-Cola faced growing pressure from Pepsi. The highly publicised “Pepsi Challenge” blind taste tests often showed consumers preferring Pepsi’s sweeter flavour. Coca-Cola’s own research increasingly pointed to taste as a competitive weakness, particularly among younger consumers. In response, the company developed a reformulated cola designed to outperform both Pepsi and the original Coke in blind comparisons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatideasforteachingmarketing.com">[Great Ideas for Teaching Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatideasforteachingmarketing.com</span><span class="citation-popover-snippet">Great Ideas for Teaching MarketingThe New Coke Case Study: What Really Happened in 1985Coca-Cola&#x27;s own market research was delivering a c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/marketing/new-coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">new coke</span><span class="citation-popover-snippet">Marketing &#124; Research StartersPreliminary blind taste tests indicated that Americans preferred the new, sweeter cola. However, only 20 per...</span></span></span>
+By the early 1980s, Coca-Cola faced growing pressure from Pepsi. The highly publicised “Pepsi Challenge” blind taste tests often showed consumers preferring Pepsi’s sweeter flavour. Coca-Cola’s own research increasingly pointed to taste as a competitive weakness, particularly among younger consumers. In response, the company developed a reformulated cola designed to outperform both Pepsi and the original Coke in blind comparisons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatideasforteachingmarketing.com">[Great Ideas for Teaching Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatideasforteachingmarketing.com</span><span class="citation-popover-snippet">Great Ideas for Teaching MarketingThe New Coke Case Study: What Really Happened in 1985Coca-Cola&#x27;s own market research was delivering a c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/marketing/new-coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">new coke</span><span class="citation-popover-snippet">Marketing &#124; Research StartersPreliminary blind taste tests indicated that Americans preferred the new, sweeter cola. However, only 20 per...</span></span></span>
 
-The company conducted extensive testing. Reports from the period describe large-scale taste tests, surveys, and focus groups in which many participants preferred the new formula. Based on those findings, executives concluded that replacing the original product was the logical next step. Rather than selling the new drink alongside the existing one, Coca-Cola withdrew its flagship formula and introduced New Coke as its successor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">New Coke</span><span class="citation-popover-snippet">New Coke</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO From a narrow product-performance perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Coca-Cola Introduces a New Formula &#124; HistoryThe company conducted extensive taste tests that indicated consumer preference for the n...</span></span></span>, the decision seemed evidence-based. The new formula often won blind comparisons. Yet the company treated those results as proof that consumers wanted the entire product replaced. That assumption turned out to be deeply flawed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatideasforteachingmarketing.com">[Great Ideas for Teaching Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatideasforteachingmarketing.com</span><span class="citation-popover-snippet">Great Ideas for Teaching MarketingThe New Coke Case Study: What Really Happened in 1985Coca-Cola&#x27;s own market research was delivering a c...</span></span></span>
+The company conducted extensive testing. Reports from the period describe large-scale taste tests, surveys, and focus groups in which many participants preferred the new formula. Based on those findings, executives concluded that replacing the original product was the logical next step. Rather than selling the new drink alongside the existing one, Coca-Cola withdrew its flagship formula and introduced New Coke as its successor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">New Coke</span><span class="citation-popover-snippet">New Coke</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO From a narrow product-performance perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Coca-Cola Introduces a New Formula &#124; HistoryThe company conducted extensive taste tests that indicated consumer preference for the n...</span></span></span>, the decision seemed evidence-based. The new formula often won blind comparisons. Yet the company treated those results as proof that consumers wanted the entire product replaced. That assumption turned out to be deeply flawed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatideasforteachingmarketing.com">[Great Ideas for Teaching Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatideasforteachingmarketing.com</span><span class="citation-popover-snippet">Great Ideas for Teaching MarketingThe New Coke Case Study: What Really Happened in 1985Coca-Cola&#x27;s own market research was delivering a c...</span></span></span>
 
 ## Why Taste Tests Missed Loyalty, Identity, and Brand Experience
 
-The central lesson of New Coke is that consumers were not simply buying a flavour. They were buying a brand with decades of personal, cultural, and emotional meaning attached to it. When Coca-Cola removed the original formula, many customers interpreted the decision not as a product upgrade but as the loss of something familiar and valued. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[IntechOpen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-snippet">A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</span></span></span> Scribd Taste tests measured a very specific question: which sample tastes better in a short comparison <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/501287490/New-Coke-Case-Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">New Coke Case Study</span><span class="citation-popover-snippet">New Coke 1985 Case Study Guide &#124; PDF &#124; Coca Cola &#124; PepsiThe backlash against New Coke was heavily influenced by the strong brand id...</span></span></span> They did not adequately measure other questions, such as:
+The central lesson of New Coke is that consumers were not simply buying a flavour. They were buying a brand with decades of personal, cultural, and emotional meaning attached to it. When Coca-Cola removed the original formula, many customers interpreted the decision not as a product upgrade but as the loss of something familiar and valued.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[IntechOpen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-snippet">A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</span></span></span> Scribd Taste tests measured a very specific question: which sample tastes better in a short comparison<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/501287490/New-Coke-Case-Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">New Coke Case Study</span><span class="citation-popover-snippet">New Coke 1985 Case Study Guide &#124; PDF &#124; Coca Cola &#124; PepsiThe backlash against New Coke was heavily influenced by the strong brand id...</span></span></span> They did not adequately measure other questions, such as:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -296,23 +296,23 @@ The central lesson of New Coke is that consumers were not simply buying a flavou
 
 </div>
 
-These factors mattered enormously once the change moved from a laboratory-style test into everyday life. Consumers who may have preferred a few sips of the new formula often reacted differently when told that a century-old product was being eliminated. Some research conducted before launch even revealed pockets of [anger]({{ 'anger/' | relative_url }}) and alienation at the idea of replacing the original, but those warning signs were not given enough weight in the final decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">New Coke</span><span class="citation-popover-snippet">New Coke</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessleader.co.uk/insights/how-new-coke-fizzled-out" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessleader.co.uk">[Business Leader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessleader.co.uk</span><span class="citation-popover-title">how new coke fizzled out</span><span class="citation-popover-snippet">15 Jun 2025 — Even in testing, according to fact-checking site Snopes, between 10 and 12 per cent of people felt angry and alienated by t...</span></span></span>
+These factors mattered enormously once the change moved from a laboratory-style test into everyday life. Consumers who may have preferred a few sips of the new formula often reacted differently when told that a century-old product was being eliminated. Some research conducted before launch even revealed pockets of [anger]({{ 'anger/' | relative_url }}) and alienation at the idea of replacing the original, but those warning signs were not given enough weight in the final decision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">New Coke</span><span class="citation-popover-snippet">New Coke</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessleader.co.uk/insights/how-new-coke-fizzled-out" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessleader.co.uk">[Business Leader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessleader.co.uk</span><span class="citation-popover-title">how new coke fizzled out</span><span class="citation-popover-snippet">15 Jun 2025 — Even in testing, according to fact-checking site Snopes, between 10 and 12 per cent of people felt angry and alienated by t...</span></span></span>
 
-Coca-Cola president Donald Keough later acknowledged that consumer research had failed to capture the depth of attachment many people felt toward the original product. The backlash revealed that emotional commitment, habit, memory, and identity can be just as important as functional performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allrecipes.com/how-fans-saved-coke-classic-11736570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allrecipes.com">[Allrecipes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allrecipes.com</span><span class="citation-popover-title">how fans saved coke classic 11736570</span><span class="citation-popover-snippet">Despite secret taste tests suggesting the new formula was preferred, the change provoked an immediate and passionate backlash. Longtime f...</span></span></span>
+Coca-Cola president Donald Keough later acknowledged that consumer research had failed to capture the depth of attachment many people felt toward the original product. The backlash revealed that emotional commitment, habit, memory, and identity can be just as important as functional performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allrecipes.com/how-fans-saved-coke-classic-11736570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allrecipes.com">[Allrecipes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allrecipes.com</span><span class="citation-popover-title">how fans saved coke classic 11736570</span><span class="citation-popover-snippet">Despite secret taste tests suggesting the new formula was preferred, the change provoked an immediate and passionate backlash. Longtime f...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L9W4Yp6AGUk" title="From the archives: The introduction of &#x27;New Coke&#x27; during the 80s cola wars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L9W4Yp6AGUk" target="_blank" rel="noopener noreferrer">From the archives: The introduction of &#x27;New Coke&#x27; during the 80s cola wars</a></p><p class="youtube-embed-meta">Channel: CBC British Columbia &middot; Views: 1.4K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L9W4Yp6AGUk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L9W4Yp6AGUk">Open on YouTube</a></p></div></div></div>
 
 ### More Than a Soft Drink
 
-Part of the intensity of the reaction came from Coca-Cola’s status as a cultural icon. For many consumers, the original drink represented continuity, [tradition]({{ 'tradition/' | relative_url }}), and personal memories. Replacing it felt less like a recipe adjustment and more like an attempt to rewrite a familiar part of everyday life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/501287490/New-Coke-Case-Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">New Coke Case Study</span><span class="citation-popover-snippet">New Coke 1985 Case Study Guide &#124; PDF &#124; Coca Cola &#124; PepsiThe backlash against New Coke was heavily influenced by the strong brand id...</span></span></span>
+Part of the intensity of the reaction came from Coca-Cola’s status as a cultural icon. For many consumers, the original drink represented continuity, [tradition]({{ 'tradition/' | relative_url }}), and personal memories. Replacing it felt less like a recipe adjustment and more like an attempt to rewrite a familiar part of everyday life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/501287490/New-Coke-Case-Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">New Coke Case Study</span><span class="citation-popover-snippet">New Coke 1985 Case Study Guide &#124; PDF &#124; Coca Cola &#124; PepsiThe backlash against New Coke was heavily influenced by the strong brand id...</span></span></span>
 
-This helps explain a puzzle that confused many observers. If New Coke often performed well in taste tests, why did people object so strongly? The answer is that the real comparison was never only about taste. Consumers were evaluating the entire [experience]({{ 'experience/' | relative_url }}) associated with the brand, not merely the flavour of the liquid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bixaresearch.com/blog/2022/8/17/it-was-1980-something-what-new-coke-can-teach-us-about-market-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bixaresearch.com">[BIXA Customer Research &amp; UX Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bixaresearch.com</span><span class="citation-popover-title">BIXA Customer Research &amp; UX Agency New Coke Market Research Lessons</span><span class="citation-popover-snippet">Coca-Cola realized how loyal its consumers were to its brand. They discovered that the bond and loyalty of their customers transcends tas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40kimkiree26/the-new-coke-paradox-when-data-obscures-the-truth-e0ded1ce9d65" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The New Coke Paradox: When Data Obscures the TruthThey failed to capture the profound emotional equity and symbolic identity consumers ha...</span></span></span>
+This helps explain a puzzle that confused many observers. If New Coke often performed well in taste tests, why did people object so strongly? The answer is that the real comparison was never only about taste. Consumers were evaluating the entire [experience]({{ 'experience/' | relative_url }}) associated with the brand, not merely the flavour of the liquid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bixaresearch.com/blog/2022/8/17/it-was-1980-something-what-new-coke-can-teach-us-about-market-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bixaresearch.com">[BIXA Customer Research &amp; UX Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bixaresearch.com</span><span class="citation-popover-title">BIXA Customer Research &amp; UX Agency New Coke Market Research Lessons</span><span class="citation-popover-snippet">Coca-Cola realized how loyal its consumers were to its brand. They discovered that the bond and loyalty of their customers transcends tas...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40kimkiree26/the-new-coke-paradox-when-data-obscures-the-truth-e0ded1ce9d65" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The New Coke Paradox: When Data Obscures the TruthThey failed to capture the profound emotional equity and symbolic identity consumers ha...</span></span></span>
 
 ## How the Case Exposes the Gap Between Novelty and Real Improvement
 
 The New Coke episode highlights a common error behind appeal-to-[novelty]({{ 'novelty/' | relative_url }}) thinking: assuming that improvement in one measurable dimension proves overall superiority.
 
-Coca-Cola identified a genuine issue. Pepsi was performing strongly in taste-based comparisons. The company also found a plausible solution: a sweeter formula that scored well in testing. The mistake occurred when managers concluded that a better score on one metric justified replacing the established product entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatideasforteachingmarketing.com">[Great Ideas for Teaching Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatideasforteachingmarketing.com</span><span class="citation-popover-snippet">Great Ideas for Teaching MarketingThe New Coke Case Study: What Really Happened in 1985Coca-Cola&#x27;s own market research was delivering a c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Coca-Cola Introduces a New Formula &#124; HistoryThe company conducted extensive taste tests that indicated consumer preference for the n...</span></span></span>
+Coca-Cola identified a genuine issue. Pepsi was performing strongly in taste-based comparisons. The company also found a plausible solution: a sweeter formula that scored well in testing. The mistake occurred when managers concluded that a better score on one metric justified replacing the established product entirely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatideasforteachingmarketing.com">[Great Ideas for Teaching Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatideasforteachingmarketing.com</span><span class="citation-popover-snippet">Great Ideas for Teaching MarketingThe New Coke Case Study: What Really Happened in 1985Coca-Cola&#x27;s own market research was delivering a c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Coca-Cola Introduces a New Formula &#124; HistoryThe company conducted extensive taste tests that indicated consumer preference for the n...</span></span></span>
 
 In logical terms, the reasoning resembled an appeal to novelty:
 
@@ -326,13 +326,13 @@ In logical terms, the reasoning resembled an appeal to novelty:
 
 </div>
 
-The weakness lies in the hidden assumption that the measured improvement captures everything consumers value. It did not. The new formula may have improved one characteristic while weakening others that mattered more, including familiarity, trust, authenticity, and emotional connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/the-failure-of-new-coke-1985/29531037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-title">the failure of new coke 1985</span><span class="citation-popover-snippet">failure of new coke 1985 &#124; PPTXCoca Cola&#x27;s marketing research failed to adequately assess consumer perception and attachment to the origi...</span></span></span> IntechOpen The lesson extends beyond soft drinks. Organisations often focus on what can be easily measured while overlooking harder-to-quantify forms of <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[intechopen.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-snippet">A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</span></span></span> value. A redesign may test better in controlled trials yet frustrate long-time users. A new policy may appear more efficient while damaging morale. A new technology may offer additional features while removing qualities that made the previous version successful.
+The weakness lies in the hidden assumption that the measured improvement captures everything consumers value. It did not. The new formula may have improved one characteristic while weakening others that mattered more, including familiarity, trust, authenticity, and emotional connection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/the-failure-of-new-coke-1985/29531037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-title">the failure of new coke 1985</span><span class="citation-popover-snippet">failure of new coke 1985 &#124; PPTXCoca Cola&#x27;s marketing research failed to adequately assess consumer perception and attachment to the origi...</span></span></span> IntechOpen The lesson extends beyond soft drinks. Organisations often focus on what can be easily measured while overlooking harder-to-quantify forms of<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[intechopen.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-snippet">A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</span></span></span> value. A redesign may test better in controlled trials yet frustrate long-time users. A new policy may appear more efficient while damaging morale. A new technology may offer additional features while removing qualities that made the previous version successful.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xpKkmWUrq4k" title="Why New Coke Failed: The Biggest Branding Disaster in History? | Strategy in a Sip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xpKkmWUrq4k" target="_blank" rel="noopener noreferrer">Why New Coke Failed: The Biggest Branding Disaster in History? | Strategy in a Sip</a></p><p class="youtube-embed-meta">Channel: BeyondProfit: A Global Perspective &middot; Views: 814 &middot; Uploaded: May 2025 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xpKkmWUrq4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xpKkmWUrq4k">Open on YouTube</a></p></div></div></div>
 
 ## The Rapid Reversal and What It Revealed
 
-Consumer opposition emerged almost immediately after the launch. Complaints flooded the company, media coverage intensified, and organised campaigns demanded the return of the original formula. Within roughly three months, Coca-Cola reintroduced the old recipe under the name “Coca-Cola Classic.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coca-colacompany.com">[Coca-Cola Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coca-colacompany.com</span><span class="citation-popover-title">new coke the most memorable marketing blunder ever</span><span class="citation-popover-snippet">Coca-Cola CompanyNew Coke: The Most Memorable Marketing Blunder Ever?Apr 23, 1985 — That changed, of course, in the summer of 1985 as the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allrecipes.com/how-fans-saved-coke-classic-11736570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allrecipes.com">[allrecipes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allrecipes.com</span><span class="citation-popover-title">how fans saved coke classic 11736570</span><span class="citation-popover-snippet">Despite secret taste tests suggesting the new formula was preferred, the change provoked an immediate and passionate backlash. Longtime f...</span></span></span> The speed of the reversal demonstrated how severely the company had underestimated the importance of what it was replacing. The original formula had accumulated value over decades that could not be fully captured by surveys and taste tests. What looked like a straightforward product upgrade turned into a reminder that successful products often embody more than their technical characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaNew Coke &#124; History, Response, &amp; Facts5 days ago — New Coke, reformulated soft drink that the Coca-Cola Company int...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[IntechOpen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-snippet">A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</span></span></span>
+Consumer opposition emerged almost immediately after the launch. Complaints flooded the company, media coverage intensified, and organised campaigns demanded the return of the original formula. Within roughly three months, Coca-Cola reintroduced the old recipe under the name “Coca-Cola Classic.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coca-colacompany.com">[Coca-Cola Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coca-colacompany.com</span><span class="citation-popover-title">new coke the most memorable marketing blunder ever</span><span class="citation-popover-snippet">Coca-Cola CompanyNew Coke: The Most Memorable Marketing Blunder Ever?Apr 23, 1985 — That changed, of course, in the summer of 1985 as the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allrecipes.com/how-fans-saved-coke-classic-11736570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allrecipes.com">[allrecipes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allrecipes.com</span><span class="citation-popover-title">how fans saved coke classic 11736570</span><span class="citation-popover-snippet">Despite secret taste tests suggesting the new formula was preferred, the change provoked an immediate and passionate backlash. Longtime f...</span></span></span> The speed of the reversal demonstrated how severely the company had underestimated the importance of what it was replacing. The original formula had accumulated value over decades that could not be fully captured by surveys and taste tests. What looked like a straightforward product upgrade turned into a reminder that successful products often embody more than their technical characteristics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaNew Coke &#124; History, Response, &amp; Facts5 days ago — New Coke, reformulated soft drink that the Coca-Cola Company int...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[IntechOpen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-snippet">A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gw44xdDuRRI" title="Billion-Dollar Blunder: The Untold Story of New Coke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gw44xdDuRRI" target="_blank" rel="noopener noreferrer">Billion-Dollar Blunder: The Untold Story of New Coke</a></p><p class="youtube-embed-meta">Channel: House of Business &middot; Views: 1.2K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gw44xdDuRRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gw44xdDuRRI">Open on YouTube</a></p></div></div></div>
 
@@ -342,274 +342,274 @@ New Coke remains memorable because it was not a case of poor research or careles
 
 When evaluating claims that a new version is automatically better, the key question is not whether the new option excels on one metric. The key question is whether it preserves, replaces, or undermines the full set of qualities people actually value.
 
-The New Coke case shows that what works may contain hidden strengths that become visible only when they are removed. A newer product can outperform its predecessor in tests and still be worse in practice if those tests fail to measure loyalty, identity, trust, and experience. That is why New Coke remains a classic warning against assuming that newer automatically means better. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allrecipes.com/how-fans-saved-coke-classic-11736570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allrecipes.com">[Allrecipes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allrecipes.com</span><span class="citation-popover-title">how fans saved coke classic 11736570</span><span class="citation-popover-snippet">Despite secret taste tests suggesting the new formula was preferred, the change provoked an immediate and passionate backlash. Longtime f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[IntechOpen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-snippet">A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bixaresearch.com/blog/2022/8/17/it-was-1980-something-what-new-coke-can-teach-us-about-market-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bixaresearch.com">[BIXA Customer Research &amp; UX Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bixaresearch.com</span><span class="citation-popover-title">BIXA Customer Research &amp; UX Agency New Coke Market Research Lessons</span><span class="citation-popover-snippet">Coca-Cola realized how loyal its consumers were to its brand. They discovered that the bond and loyalty of their customers transcends tas...</span></span></span>
+The New Coke case shows that what works may contain hidden strengths that become visible only when they are removed. A newer product can outperform its predecessor in tests and still be worse in practice if those tests fail to measure loyalty, identity, trust, and experience. That is why New Coke remains a classic warning against assuming that newer automatically means better.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allrecipes.com/how-fans-saved-coke-classic-11736570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allrecipes.com">[Allrecipes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allrecipes.com</span><span class="citation-popover-title">how fans saved coke classic 11736570</span><span class="citation-popover-snippet">Despite secret taste tests suggesting the new formula was preferred, the change provoked an immediate and passionate backlash. Longtime f...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intechopen.com">[IntechOpen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intechopen.com</span><span class="citation-popover-snippet">A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bixaresearch.com/blog/2022/8/17/it-was-1980-something-what-new-coke-can-teach-us-about-market-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bixaresearch.com">[BIXA Customer Research &amp; UX Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bixaresearch.com</span><span class="citation-popover-title">BIXA Customer Research &amp; UX Agency New Coke Market Research Lessons</span><span class="citation-popover-snippet">Coca-Cola realized how loyal its consumers were to its brand. They discovered that the bond and loyalty of their customers transcends tas...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_coke_replacement_78339e-Illustration-3-dark.svg" | relative_url }}" alt="New Coke illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_coke_replacement_78339e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_coke_replacement_78339e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why New Coke Was Not Just a Taste Test. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why New Coke Was Not Just a Taste Test. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=For+God%2C+Country+and+Coca-Cola+by+Mark+Pendergrast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open For God, Country and Coca-Cola on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zT08NQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for For God, Country and Coca-Cola" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=For+God%2C+Country+and+Coca-Cola+by+Mark+Pendergrast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="For God, Country and Coca-Cola">For God, Country and Coca-Cola</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pendergrast</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=For+God%2C+Country+and+Coca-Cola+by+Mark+Pendergrast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open For God, Country and Coca-Cola on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zT08NQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for For God, Country and Coca-Cola" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=For+God%2C+Country+and+Coca-Cola+by+Mark+Pendergrast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="For God, Country and Coca-Cola">For God, Country and Coca-Cola</a>
+</h4>
+<p class="fr-book-author">By Mark Pendergrast</p>
         
-        <p class="fr-book-desc">Provides extensive context for the New Coke episode and its lessons about consumer behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=For+God%2C+Country+and+Coca-Cola+by+Mark+Pendergrast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides extensive context for the New Coke episode and its lessons about consumer behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=For+God%2C+Country+and+Coca-Cola+by+Mark+Pendergrast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Real+Thing+by+Constance+L.+Hays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Real Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=60wfAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Real Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Real+Thing+by+Constance+L.+Hays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Real Thing">The Real Thing</a>
-        </h4>
-        <p class="fr-book-author">By Constance L. Hays</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Real+Thing+by+Constance+L.+Hays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Real Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=60wfAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Real Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Real+Thing+by+Constance+L.+Hays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Real Thing">The Real Thing</a>
+</h4>
+<p class="fr-book-author">By Constance L. Hays</p>
         
-        <p class="fr-book-desc">Examines company decisions, strategy, and the consequences surrounding major product changes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Real+Thing+by+Constance+L.+Hays&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines company decisions, strategy, and the consequences surrounding major product changes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Real+Thing+by+Constance+L.+Hays&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tipping+Point+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tipping Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mUZ7EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tipping Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Tipping+Point+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tipping Point">The Tipping Point</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gladwell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tipping+Point+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tipping Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mUZ7EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tipping Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Tipping+Point+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tipping Point">The Tipping Point</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gladwell</p>
         
-        <p class="fr-book-desc">Explores social dynamics and consumer reactions that help explain the New Coke backlash.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Tipping+Point+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores social dynamics and consumer reactions that help explain the New Coke backlash.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Tipping+Point+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Positioning%3A+The+Battle+For+Your+Mind+by+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Positioning: The Battle For Your Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Positioning%3A+The+Battle+For+Your+Mind+by+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Positioning: The Battle For Your Mind">Positioning: The Battle For Your Mind</a>
-        </h4>
-        <p class="fr-book-author">By Ries</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Positioning%3A+The+Battle+For+Your+Mind+by+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Positioning: The Battle For Your Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Positioning%3A+The+Battle+For+Your+Mind+by+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Positioning: The Battle For Your Mind">Positioning: The Battle For Your Mind</a>
+</h4>
+<p class="fr-book-author">By Ries</p>
         
-        <p class="fr-book-desc">Helps explain why brand identity can matter more than product-feature improvements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Positioning%3A+The+Battle+For+Your+Mind+by+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why brand identity can matter more than product-feature improvements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Positioning%3A+The+Battle+For+Your+Mind+by+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=For+God%2C+Country+and+Coca+Cola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">For God, Country and Coca Cola</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Real+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Real Thing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tipping Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=For+God%2C+Country+and+Coca+Cola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">For God, Country and Coca Cola</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Real+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Real Thing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tipping Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coca-Cola Red Sunglasses UV Protection Promo Collectible Shades NEW"><img src="{{ '/assets/images/marketplace-covers/ecf93bfeeccb35241123.jpg' | relative_url }}" alt="Listing image for Coca-Cola Red Sunglasses UV Protection Promo Collectible Shades NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coca-Cola Red Sunglasses UV Protection Promo Collectible Shades NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Coca Cola collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Coca Cola collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coca-Cola Red Sunglasses UV Protection Promo Collectible Shades NEW"><img src="{{ '/assets/images/marketplace-covers/ecf93bfeeccb35241123.jpg' | relative_url }}" alt="Listing image for Coca-Cola Red Sunglasses UV Protection Promo Collectible Shades NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coca-Cola Red Sunglasses UV Protection Promo Collectible Shades NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Coca Cola collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Coca Cola collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Coca-Cola Special Limited Edition Asian Masks Chinese Bottle Boxed"><img src="{{ '/assets/images/marketplace-covers/f13da8ede4ae21d4453b.jpg' | relative_url }}" alt="Listing image for Collectible Coca-Cola Special Limited Edition Asian Masks Chinese Bottle Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Collectible Coca-Cola Special Limited Edition Asian Masks Chinese Bottle Boxed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Coca Cola collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Coca Cola collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Coca-Cola Special Limited Edition Asian Masks Chinese Bottle Boxed"><img src="{{ '/assets/images/marketplace-covers/f13da8ede4ae21d4453b.jpg' | relative_url }}" alt="Listing image for Collectible Coca-Cola Special Limited Edition Asian Masks Chinese Bottle Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Collectible Coca-Cola Special Limited Edition Asian Masks Chinese Bottle Boxed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Coca Cola collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Coca Cola collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coca-Cola Premier League Special Edition Can “Drink It In” Collectible"><img src="{{ '/assets/images/marketplace-covers/1646c6acee19751e8aa9.jpg' | relative_url }}" alt="Listing image for Coca-Cola Premier League Special Edition Can “Drink It In” Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coca-Cola Premier League Special Edition Can “Drink It In” Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Coca Cola collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Coca Cola collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coca-Cola Premier League Special Edition Can “Drink It In” Collectible"><img src="{{ '/assets/images/marketplace-covers/1646c6acee19751e8aa9.jpg' | relative_url }}" alt="Listing image for Coca-Cola Premier League Special Edition Can “Drink It In” Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coca-Cola Premier League Special Edition Can “Drink It In” Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Coca Cola collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Coca Cola collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coca-Cola Collectible Bottles"><img src="{{ '/assets/images/marketplace-covers/eff09f3891ef41bf2f2b.jpg' | relative_url }}" alt="Listing image for Coca-Cola Collectible Bottles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coca-Cola Collectible Bottles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Coca Cola collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Coca Cola collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coca-Cola Collectible Bottles"><img src="{{ '/assets/images/marketplace-covers/eff09f3891ef41bf2f2b.jpg' | relative_url }}" alt="Listing image for Coca-Cola Collectible Bottles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coca-Cola Collectible Bottles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Coca Cola collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Coca Cola collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Coca+Cola+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-coke-why-new-coke-was-not-just-a-taste-test-logical-fallacies-coca-cola-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -625,7 +625,7 @@ The New Coke case shows that what works may contain hidden strengths that become
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -645,7 +645,7 @@ The New Coke case shows that what works may contain hidden strengths that become
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -677,7 +677,7 @@ The New Coke case shows that what works may contain hidden strengths that become
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ The New Coke case shows that what works may contain hidden strengths that become
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -765,177 +765,177 @@ The New Coke case shows that what works may contain hidden strengths that become
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/New-Coke</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaNew Coke | History, Response, &amp; Facts5 days ago — New Coke, reformulated soft drink that the Coca-Cola Company int...</p></details>
+   Link:<a href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/New-Coke</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaNew Coke | History, Response, &amp; Facts5 days ago — New Coke, reformulated soft drink that the Coca-Cola Company int...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coca-Cola Introduces a New Formula | HistoryThe company conducted extensive taste tests that indicated consumer preference for the n...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/coca-cola-introduces-new-formula</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coca-Cola Introduces a New Formula | HistoryThe company conducted extensive taste tests that indicated consumer preference for the n...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ebsco.com  
    Title: new coke  
-   Link: <a href="https://www.ebsco.com/research-starters/marketing/new-coke" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/marketing/new-coke</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing | Research StartersPreliminary blind taste tests indicated that Americans preferred the new, sweeter cola. However, only 20 per...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/marketing/new-coke" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/marketing/new-coke</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing | Research StartersPreliminary blind taste tests indicated that Americans preferred the new, sweeter cola. However, only 20 per...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: New Coke  
-   Link: <a href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_Coke</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_Coke</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: intechopen.com  
-   Link: <a href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow">https://www.intechopen.com/chapters/85150</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</p></details>
+   Link:<a href="https://www.intechopen.com/chapters/85150" target="_blank" rel="noopener noreferrer nofollow">https://www.intechopen.com/chapters/85150</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Coke by Any Other Name: What New Coke Can Teach...by MP Levine · 2022 · Cited by 2 — When Coca-Cola changed from its classic...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
    Title: New Coke Case Study  
-   Link: <a href="https://www.scribd.com/document/501287490/New-Coke-Case-Study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/501287490/New-Coke-Case-Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke 1985 Case Study Guide | PDF | Coca Cola | PepsiThe backlash against New Coke was heavily influenced by the strong brand id...</p></details>
+   Link:<a href="https://www.scribd.com/document/501287490/New-Coke-Case-Study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/501287490/New-Coke-Case-Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke 1985 Case Study Guide | PDF | Coca Cola | PepsiThe backlash against New Coke was heavily influenced by the strong brand id...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: allrecipes.com  
    Title: how fans saved coke classic 11736570  
-   Link: <a href="https://www.allrecipes.com/how-fans-saved-coke-classic-11736570" target="_blank" rel="noopener noreferrer nofollow">https://www.allrecipes.com/how-fans-saved-coke-classic-11736570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite secret taste tests suggesting the new formula was preferred, the change provoked an immediate and passionate backlash. Longtime f...</p></details>
+   Link:<a href="https://www.allrecipes.com/how-fans-saved-coke-classic-11736570" target="_blank" rel="noopener noreferrer nofollow">https://www.allrecipes.com/how-fans-saved-coke-classic-11736570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite secret taste tests suggesting the new formula was preferred, the change provoked an immediate and passionate backlash. Longtime f...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40kimkiree26/the-new-coke-paradox-when-data-obscures-the-truth-e0ded1ce9d65" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kimkiree26/the-new-coke-paradox-when-data-obscures-the-truth-e0ded1ce9d65</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Coke Paradox: When Data Obscures the TruthThey failed to capture the profound emotional equity and symbolic identity consumers ha...</p></details>
+   Link:<a href="https://medium.com/%40kimkiree26/the-new-coke-paradox-when-data-obscures-the-truth-e0ded1ce9d65" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kimkiree26/the-new-coke-paradox-when-data-obscures-the-truth-e0ded1ce9d65</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Coke Paradox: When Data Obscures the TruthThey failed to capture the profound emotional equity and symbolic identity consumers ha...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: slideshare.net  
    Title: the failure of new coke 1985  
-   Link: <a href="https://www.slideshare.net/slideshow/the-failure-of-new-coke-1985/29531037" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/the-failure-of-new-coke-1985/29531037</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>failure of new coke 1985 | PPTXCoca Cola&#x27;s marketing research failed to adequately assess consumer perception and attachment to the origi...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/the-failure-of-new-coke-1985/29531037" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/the-failure-of-new-coke-1985/29531037</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>failure of new coke 1985 | PPTXCoca Cola&#x27;s marketing research failed to adequately assess consumer perception and attachment to the origi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/day-in-history/the-launch-of-new-coke-d7f4cdec2650" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/day-in-history/the-launch-of-new-coke-d7f4cdec2650</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ore shelves until it was discontinued in 2002. The original...Read more...</p></details>
+   Link:<a href="https://medium.com/day-in-history/the-launch-of-new-coke-d7f4cdec2650" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/day-in-history/the-launch-of-new-coke-d7f4cdec2650</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ore shelves until it was discontinued in 2002. The original...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
    Title: when the product stops mattering 5453136fd3c8  
-   Link: <a href="https://medium.com/%40nemeavision/when-the-product-stops-mattering-5453136fd3c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nemeavision/when-the-product-stops-mattering-5453136fd3c8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Product Stops Mattering. The New Coke case...In 1985, Coca-Cola made a decision that was, on paper, perfectly logical. And that...</p></details>
+   Link:<a href="https://medium.com/%40nemeavision/when-the-product-stops-mattering-5453136fd3c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nemeavision/when-the-product-stops-mattering-5453136fd3c8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Product Stops Mattering. The New Coke case...In 1985, Coca-Cola made a decision that was, on paper, perfectly logical. And that...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/835983916/Nguyen-Case-Study-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/835983916/Nguyen-Case-Study-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke Marketing Failure Analysis | PDF | Coca ColaMarket research focused on taste tests overlooked emotional attachments, leading to...</p></details>
+   Link:<a href="https://www.scribd.com/document/835983916/Nguyen-Case-Study-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/835983916/Nguyen-Case-Study-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke Marketing Failure Analysis | PDF | Coca ColaMarket research focused on taste tests overlooked emotional attachments, leading to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribd.com  
    Title: New Coke Marketing  
-   Link: <a href="https://www.scribd.com/document/84814235/New-Coke-Marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/84814235/New-Coke-Marketing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke: A Marketing Misjudgment | PDF | Coca ColaCoca Cola launched New Coke in 1985 after extensive market research seemed to show con...</p></details>
+   Link:<a href="https://www.scribd.com/document/84814235/New-Coke-Marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/84814235/New-Coke-Marketing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke: A Marketing Misjudgment | PDF | Coca ColaCoca Cola launched New Coke in 1985 after extensive market research seemed to show con...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/142027231/The-New-Coke-Marketing-Fiasco-Draft-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/142027231/The-New-Coke-Marketing-Fiasco-Draft-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Coke Fiasco: A Marketing Misstep | PDF- Market research showed taste testers preferred New Coke but failed to measure emotional a...</p></details>
+   Link:<a href="https://www.scribd.com/document/142027231/The-New-Coke-Marketing-Fiasco-Draft-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/142027231/The-New-Coke-Marketing-Fiasco-Draft-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Coke Fiasco: A Marketing Misstep | PDF- Market research showed taste testers preferred New Coke but failed to measure emotional a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: coca-colacompany.com  
    Title: new coke the most memorable marketing blunder ever  
-   Link: <a href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coca-Cola CompanyNew Coke: The Most Memorable Marketing Blunder Ever?Apr 23, 1985 — That changed, of course, in the summer of 1985 as the...</p></details>
+   Link:<a href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coca-Cola CompanyNew Coke: The Most Memorable Marketing Blunder Ever?Apr 23, 1985 — That changed, of course, in the summer of 1985 as the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: greatideasforteachingmarketing.com  
-   Link: <a href="https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Ideas for Teaching MarketingThe New Coke Case Study: What Really Happened in 1985Coca-Cola&#x27;s own market research was delivering a c...</p></details>
+   Link:<a href="https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.greatideasforteachingmarketing.com/new-coke-story-the-full-case-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great Ideas for Teaching MarketingThe New Coke Case Study: What Really Happened in 1985Coca-Cola&#x27;s own market research was delivering a c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: businessleader.co.uk  
    Title: how new coke fizzled out  
-   Link: <a href="https://www.businessleader.co.uk/insights/how-new-coke-fizzled-out" target="_blank" rel="noopener noreferrer nofollow">https://www.businessleader.co.uk/insights/how-new-coke-fizzled-out</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jun 2025 — Even in testing, according to fact-checking site Snopes, between 10 and 12 per cent of people felt angry and alienated by t...</p></details>
+   Link:<a href="https://www.businessleader.co.uk/insights/how-new-coke-fizzled-out" target="_blank" rel="noopener noreferrer nofollow">https://www.businessleader.co.uk/insights/how-new-coke-fizzled-out</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jun 2025 — Even in testing, according to fact-checking site Snopes, between 10 and 12 per cent of people felt angry and alienated by t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bixaresearch.com  
    Title: BIXA Customer Research & UX Agency New Coke Market Research Lessons  
-   Link: <a href="https://www.bixaresearch.com/blog/2022/8/17/it-was-1980-something-what-new-coke-can-teach-us-about-market-research" target="_blank" rel="noopener noreferrer nofollow">https://www.bixaresearch.com/blog/2022/8/17/it-was-1980-something-what-new-coke-can-teach-us-about-market-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coca-Cola realized how loyal its consumers were to its brand. They discovered that the bond and loyalty of their customers transcends tas...</p></details>
+   Link:<a href="https://www.bixaresearch.com/blog/2022/8/17/it-was-1980-something-what-new-coke-can-teach-us-about-market-research" target="_blank" rel="noopener noreferrer nofollow">https://www.bixaresearch.com/blog/2022/8/17/it-was-1980-something-what-new-coke-can-teach-us-about-market-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coca-Cola realized how loyal its consumers were to its brand. They discovered that the bond and loyalty of their customers transcends tas...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.com  
    Title: why coca cola new coke flopped  
-   Link: <a href="https://www.history.com/articles/why-coca-cola-new-coke-flopped" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/why-coca-cola-new-coke-flopped</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Coca-Cola&#x27;s &#x27;New Coke&#x27; FloppedApr 23, 2015 — To the shock of Coca-Cola, internal taste tests yielded the same results.... New Coke l...</p></details>
+   Link:<a href="https://www.history.com/articles/why-coca-cola-new-coke-flopped" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/why-coca-cola-new-coke-flopped</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Coca-Cola&#x27;s &#x27;New Coke&#x27; FloppedApr 23, 2015 — To the shock of Coca-Cola, internal taste tests yielded the same results.... New Coke l...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/this-day-in-history/april-23/new-coke-debuts-one-of-the-biggest-product-flops-in-history" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/april-23/new-coke-debuts-one-of-the-biggest-product-flops-in-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke debuts, one of the biggest product flops in historyOn April 23, 1985, The Coca-Cola Company announces that it is changing the fo...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/april-23/new-coke-debuts-one-of-the-biggest-product-flops-in-history" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/april-23/new-coke-debuts-one-of-the-biggest-product-flops-in-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke debuts, one of the biggest product flops in historyOn April 23, 1985, The Coca-Cola Company announces that it is changing the fo...</p></details>
    Published: April 23, 1985  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: greatideasforteachingmarketing.com  
    Title: New Coke Case Study (Part 1)  
-   Link: <a href="https://www.greatideasforteachingmarketing.com/new-coke-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.greatideasforteachingmarketing.com/new-coke-case-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The new flavor outperformed both traditional Coke and Pepsi in market research taste tests...</p></details>
+   Link:<a href="https://www.greatideasforteachingmarketing.com/new-coke-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.greatideasforteachingmarketing.com/new-coke-case-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The new flavor outperformed both traditional Coke and Pepsi in market research taste tests...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316255186_Don%27t_Mess_with_Coca-Cola_Introducing_New_Coke_Reveals_Flaws_in_Decision-Making_within_the_Coca-Cola_Company" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316255186_Don%27t_Mess_with_Coca-Cola_Introducing_New_Coke_Reveals_Flaws_in_Decision-Making_within_the_Coca-Cola_Company</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Don&#x27;t Mess with Coca-Cola: Introducing New Coke...19 Apr 2017 — The effects of The Coca-Cola Company&#x27;s decision to introduce New C...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316255186_Don%27t_Mess_with_Coca-Cola_Introducing_New_Coke_Reveals_Flaws_in_Decision-Making_within_the_Coca-Cola_Company" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316255186_Don%27t_Mess_with_Coca-Cola_Introducing_New_Coke_Reveals_Flaws_in_Decision-Making_within_the_Coca-Cola_Company</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Don&#x27;t Mess with Coca-Cola: Introducing New Coke...19 Apr 2017 — The effects of The Coca-Cola Company&#x27;s decision to introduce New C...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/big-brain-marketing-by-r8a_in-1985-coca-cola-made-one-of-the-most-infamous-activity-7428452990933708800-Z6Xh" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/big-brain-marketing-by-r8a_in-1985-coca-cola-made-one-of-the-most-infamous-activity-7428452990933708800-Z6Xh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coca Cola&#x27;s New Coke Debacle: A Lesson in Brand IdentityCoca Cola&#x27;s New Coke Debacle: A Lesson in Brand Identity. View... tests, so exec...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/big-brain-marketing-by-r8a_in-1985-coca-cola-made-one-of-the-most-infamous-activity-7428452990933708800-Z6Xh" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/big-brain-marketing-by-r8a_in-1985-coca-cola-made-one-of-the-most-infamous-activity-7428452990933708800-Z6Xh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coca Cola&#x27;s New Coke Debacle: A Lesson in Brand IdentityCoca Cola&#x27;s New Coke Debacle: A Lesson in Brand Identity. View... tests, so exec...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/qxnib0/til_despite_the_common_theory_that_new_coke_was_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/qxnib0/til_despite_the_common_theory_that_new_coke_was_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL despite the common theory that “New Coke” was a...Despite the common theory that “New Coke” was a marketing ploy, the main reason fo...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/qxnib0/til_despite_the_common_theory_that_new_coke_was_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/qxnib0/til_despite_the_common_theory_that_new_coke_was_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL despite the common theory that “New Coke” was a...Despite the common theory that “New Coke” was a marketing ploy, the main reason fo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thecommspot.com  
-   Link: <a href="https://thecommspot.com/comm-subjects/strategic-communication/case-studies-in-strategic-communication/coca-cola-new-coke-debacle-1985/" target="_blank" rel="noopener noreferrer nofollow">https://thecommspot.com/comm-subjects/strategic-communication/case-studies-in-strategic-communication/coca-cola-new-coke-debacle-1985/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Relations Case Study: Coca-Cola &quot;New Coke...Over time, “New Coke” became a cultural symbol and an enduring case study, teaching g...</p></details>
+   Link:<a href="https://thecommspot.com/comm-subjects/strategic-communication/case-studies-in-strategic-communication/coca-cola-new-coke-debacle-1985/" target="_blank" rel="noopener noreferrer nofollow">https://thecommspot.com/comm-subjects/strategic-communication/case-studies-in-strategic-communication/coca-cola-new-coke-debacle-1985/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Relations Case Study: Coca-Cola &quot;New Coke...Over time, “New Coke” became a cultural symbol and an enduring case study, teaching g...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: in 1985 coca cola did the unthinkable and changed the recipe of their flagship p  
-   Link: <a href="https://www.facebook.com/LettersLiveLON/posts/in-1985-coca-cola-did-the-unthinkable-and-changed-the-recipe-of-their-flagship-p/1491754649619706/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LettersLiveLON/posts/in-1985-coca-cola-did-the-unthinkable-and-changed-the-recipe-of-their-flagship-p/1491754649619706/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1985, Coca-Cola did the unthinkable and changed...Blind taste tests indicated that consumers seemed to prefer the sweeter taste of ri...</p></details>
+   Link:<a href="https://www.facebook.com/LettersLiveLON/posts/in-1985-coca-cola-did-the-unthinkable-and-changed-the-recipe-of-their-flagship-p/1491754649619706/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LettersLiveLON/posts/in-1985-coca-cola-did-the-unthinkable-and-changed-the-recipe-of-their-flagship-p/1491754649619706/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1985, Coca-Cola did the unthinkable and changed...Blind taste tests indicated that consumers seemed to prefer the sweeter taste of ri...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: avanzaagency.com  
    Title: new coke case study what really happened and why emotional loyalty still matters  
-   Link: <a href="https://avanzaagency.com/blog/new-coke-case-study-what-really-happened-and-why-emotional-loyalty-still-matters" target="_blank" rel="noopener noreferrer nofollow">https://avanzaagency.com/blog/new-coke-case-study-what-really-happened-and-why-emotional-loyalty-still-matters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke Case Study: What Really Happened and Why...11 Jul 2025 — Discover what went wrong with New Coke and how Coca-Cola&#x27;s biggest bra...</p></details>
+   Link:<a href="https://avanzaagency.com/blog/new-coke-case-study-what-really-happened-and-why-emotional-loyalty-still-matters" target="_blank" rel="noopener noreferrer nofollow">https://avanzaagency.com/blog/new-coke-case-study-what-really-happened-and-why-emotional-loyalty-still-matters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke Case Study: What Really Happened and Why...11 Jul 2025 — Discover what went wrong with New Coke and how Coca-Cola&#x27;s biggest bra...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
    Title: new coca cola crisis 1985 lessons marketing strategy consumer ttw0c  
-   Link: <a href="https://www.linkedin.com/pulse/new-coca-cola-crisis-1985-lessons-marketing-strategy-consumer-ttw0c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/new-coca-cola-crisis-1985-lessons-marketing-strategy-consumer-ttw0c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NEW Coca-Cola Crisis: The 1985 Lessons in...The New Coke case study imparts several crucial lessons for businesses, offering profoun...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/new-coca-cola-crisis-1985-lessons-marketing-strategy-consumer-ttw0c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/new-coca-cola-crisis-1985-lessons-marketing-strategy-consumer-ttw0c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NEW Coca-Cola Crisis: The 1985 Lessons in...The New Coke case study imparts several crucial lessons for businesses, offering profoun...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: phable.io  
    Title: the branding disaster that shocked the world the new coke story  
-   Link: <a href="https://www.phable.io/phable-labs/the-branding-disaster-that-shocked-the-world-the-new-coke-story" target="_blank" rel="noopener noreferrer nofollow">https://www.phable.io/phable-labs/the-branding-disaster-that-shocked-the-world-the-new-coke-story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke&#x27;s Branding Disaster: Lessons from Coca-Cola&#x27;s...27 Nov 2025 — It was a branding failure of historic proportions, one that force...</p></details>
+   Link:<a href="https://www.phable.io/phable-labs/the-branding-disaster-that-shocked-the-world-the-new-coke-story" target="_blank" rel="noopener noreferrer nofollow">https://www.phable.io/phable-labs/the-branding-disaster-that-shocked-the-world-the-new-coke-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke&#x27;s Branding Disaster: Lessons from Coca-Cola&#x27;s...27 Nov 2025 — It was a branding failure of historic proportions, one that force...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cognitivemarketresearch.com  
    Title: the fall of new coke how coca cola misread its loyal audience  
-   Link: <a href="https://www.cognitivemarketresearch.com/blog/the-fall-of-new-coke-how-coca-cola-misread-its-loyal-audience" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitivemarketresearch.com/blog/the-fall-of-new-coke-how-coca-cola-misread-its-loyal-audience</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fall of a Major Soft Drink BrandFeb 7, 2025 — The introduction of a reformulated flagship beverage in 1985 is widely regarded as one...</p></details>
+   Link:<a href="https://www.cognitivemarketresearch.com/blog/the-fall-of-new-coke-how-coca-cola-misread-its-loyal-audience" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitivemarketresearch.com/blog/the-fall-of-new-coke-how-coca-cola-misread-its-loyal-audience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fall of a Major Soft Drink BrandFeb 7, 2025 — The introduction of a reformulated flagship beverage in 1985 is widely regarded as one...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: headcountcoffee.com  
    Title: new coke 1985 when market research ignored loyalty  
-   Link: <a href="https://www.headcountcoffee.com/blogs/food-drink/new-coke-1985-when-market-research-ignored-loyalty?srsltid=AfmBOoq1W4EvWF5GnH_5xb_xTJcZhqTicjIPFUp7YlstaN41WZ95T--H" target="_blank" rel="noopener noreferrer nofollow">https://www.headcountcoffee.com/blogs/food-drink/new-coke-1985-when-market-research-ignored-loyalty?srsltid=AfmBOoq1W4EvWF5GnH_5xb_xTJcZhqTicjIPFUp7YlstaN41WZ95T--H</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke 1985: When Market Research Ignored LoyaltyDec 15, 2025 — New Coke failed not because of taste, but because Coca-Cola underestima...</p></details>
+   Link:<a href="https://www.headcountcoffee.com/blogs/food-drink/new-coke-1985-when-market-research-ignored-loyalty?srsltid=AfmBOoq1W4EvWF5GnH_5xb_xTJcZhqTicjIPFUp7YlstaN41WZ95T--H" target="_blank" rel="noopener noreferrer nofollow">https://www.headcountcoffee.com/blogs/food-drink/new-coke-1985-when-market-research-ignored-loyalty?srsltid=AfmBOoq1W4EvWF5GnH_5xb_xTJcZhqTicjIPFUp7YlstaN41WZ95T--H</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Coke 1985: When Market Research Ignored LoyaltyDec 15, 2025 — New Coke failed not because of taste, but because Coca-Cola underestima...</p></details>

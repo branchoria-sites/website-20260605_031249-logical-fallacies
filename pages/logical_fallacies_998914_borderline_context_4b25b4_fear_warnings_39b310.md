@@ -274,14 +274,14 @@ image: /assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_wa
 
 ## Introduction
 
-Fear is not automatically a sign of bad reasoning. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), an appeal to fear becomes problematic when fear is used as a substitute for evidence or when the danger is exaggerated beyond what the facts support. However, many warnings are not fallacious at all. If a genuine threat exists, the evidence for that threat is strong, and the recommended response is proportionate, then fear can be a rational emotional response rather than a manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span>
+Fear is not automatically a sign of bad reasoning. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), an appeal to fear becomes problematic when fear is used as a substitute for evidence or when the danger is exaggerated beyond what the facts support. However, many warnings are not fallacious at all. If a genuine threat exists, the evidence for that threat is strong, and the recommended response is proportionate, then fear can be a rational emotional response rather than a manipulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-1-dark.svg" | relative_url }}" alt="Fear Warnings illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because public safety, health, security, and disaster communication often depend on alerting people to serious risks. The key question is not whether fear is present. The key question is whether the fear tracks a real danger and whether the conclusion follows from the available evidence.
 
 ## Real Risk Versus Manufactured Panic
 
-The classic appeal-to-fear fallacy attempts to secure agreement by making people anxious rather than by providing relevant reasons. A speaker may imply catastrophe without demonstrating that the danger is likely, significant, or connected to the conclusion being promoted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to FearDescription: When fear, not based on evidence or reason, is being used as the primary motivator to get...</span></span></span>
+The classic appeal-to-fear fallacy attempts to secure agreement by making people anxious rather than by providing relevant reasons. A speaker may imply catastrophe without demonstrating that the danger is likely, significant, or connected to the conclusion being promoted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to FearDescription: When fear, not based on evidence or reason, is being used as the primary motivator to get...</span></span></span>
 
 A legitimate warning works differently. It links three elements:
 
@@ -299,7 +299,7 @@ Consider two contrasting examples.
 
 **Non-fallacious version:** “Evacuate because a rapidly approaching wildfire has entered the area and emergency services have issued evacuation orders.” Here, the warning points to a documented danger and recommends a response directly related to that danger.
 
-The emotional force of the second message does not make it irrational. In fact, ignoring the danger would be less rational than recognising it. [Informal logic]({{ 'informal-logic/' | relative_url }}) therefore evaluates [fear appeals]({{ 'fear-appeals/' | relative_url }}) by asking whether the threat claim is supported and whether the proposed action genuinely follows from the risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">The scheme Argument from Authority (“Appeal to Authority,” “Appeal...Read more...</span></span></span> Encyclopedia of Philosophy
+The emotional force of the second message does not make it irrational. In fact, ignoring the danger would be less rational than recognising it. [Informal logic]({{ 'informal-logic/' | relative_url }}) therefore evaluates [fear appeals]({{ 'fear-appeals/' | relative_url }}) by asking whether the threat claim is supported and whether the proposed action genuinely follows from the risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">The scheme Argument from Authority (“Appeal to Authority,” “Appeal...Read more...</span></span></span> Encyclopedia of Philosophy
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oCk1fOZwdJU" title="What is Extended Parallel Process Model? (Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oCk1fOZwdJU" target="_blank" rel="noopener noreferrer">What is Extended Parallel Process Model? (Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 309 &middot; Uploaded: January 2026 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oCk1fOZwdJU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oCk1fOZwdJU">Open on YouTube</a></p></div></div></div>
 
@@ -307,11 +307,11 @@ The emotional force of the second message does not make it irrational. In fact, 
 
 Fear becomes a reasonable part of argumentation when it reflects reality rather than distorting it. Several features help distinguish fair warnings from manipulative scare tactics.
 
-**The threat is evidence-based.** The warning rests on observable facts, credible research, expert assessment, or documented [experience]({{ 'experience/' | relative_url }}) rather than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span>
+**The threat is evidence-based.** The warning rests on observable facts, credible research, expert assessment, or documented [experience]({{ 'experience/' | relative_url }}) rather than speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span>
 
 **The severity matches the evidence.** Serious risks are described as serious, moderate risks as moderate. The communicator does not inflate uncertainty into certainty or possibility into inevitability.
 
-**The audience is genuinely vulnerable.** A warning is stronger when the danger actually applies to the people receiving it. Risk communication research repeatedly emphasises that people respond differently depending on whether they believe the threat is relevant to them personally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">putting the fear back into fear appeals the extended parallel process model</span><span class="citation-popover-snippet">You&#x27;re at-risk for AIDS because you share needles while using...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicatehealth.com/wehearthealthliteracy/useful-theory-extended-parallel-process-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicatehealth.com">[Lumina Corps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicatehealth.com</span><span class="citation-popover-title">Lumina Corps Useful Theory: Extended Parallel Process Model</span><span class="citation-popover-snippet">Lumina CorpsUseful Theory: Extended Parallel Process ModelMay 20, 2021 — The EPPM, developed by Dr. Kim Witte, explains that health risk...</span><span class="citation-popover-meta">Published: May 20, 2021</span></span></span>
+**The audience is genuinely vulnerable.** A warning is stronger when the danger actually applies to the people receiving it. Risk communication research repeatedly emphasises that people respond differently depending on whether they believe the threat is relevant to them personally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">putting the fear back into fear appeals the extended parallel process model</span><span class="citation-popover-snippet">You&#x27;re at-risk for AIDS because you share needles while using...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicatehealth.com/wehearthealthliteracy/useful-theory-extended-parallel-process-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicatehealth.com">[Lumina Corps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicatehealth.com</span><span class="citation-popover-title">Lumina Corps Useful Theory: Extended Parallel Process Model</span><span class="citation-popover-snippet">Lumina CorpsUseful Theory: Extended Parallel Process ModelMay 20, 2021 — The EPPM, developed by Dr. Kim Witte, explains that health risk...</span><span class="citation-popover-meta">Published: May 20, 2021</span></span></span>
 
 **The conclusion remains limited.** A legitimate warning supports actions related to the threat itself. It does not use the danger as a pretext to justify unrelated beliefs or policies.
 
@@ -320,14 +320,14 @@ Under these conditions, fear functions as a signal about risk rather than a repl
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-2-dark.svg" | relative_url }}" alt="Fear Warnings illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Proportionate Emotion and Practical Action
 
-Research on fear appeals helps explain why some warnings are persuasive without being manipulative. Studies in health communication consistently find that fear-based messages are most effective when they combine information about a threat with clear, practical steps that people can take to reduce the danger. Merely frightening people is often ineffective and can even provoke avoidance or denial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/109019810002700506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analysis of Fear Appeals: Implications for Effective...by K Witte · 2000 · Cited by 4977 — The meta-analysis suggest...</span></span></span>
+Research on fear appeals helps explain why some warnings are persuasive without being manipulative. Studies in health communication consistently find that fear-based messages are most effective when they combine information about a threat with clear, practical steps that people can take to reduce the danger. Merely frightening people is often ineffective and can even provoke avoidance or denial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/109019810002700506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analysis of Fear Appeals: Implications for Effective...by K Witte · 2000 · Cited by 4977 — The meta-analysis suggest...</span></span></span>
 
-The influential Extended Parallel Process Model (EPPM) proposes that people evaluate both: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span>
+The influential Extended Parallel Process Model (EPPM) proposes that people evaluate both:<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span>
 
 * **Threat**: How serious and personally relevant the danger appears.
-* **Efficacy**: Whether effective protective actions exist and whether they seem achievable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">putting the fear back into fear appeals the extended parallel process model</span><span class="citation-popover-snippet">You&#x27;re at-risk for AIDS because you share needles while using...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicatehealth.com/wehearthealthliteracy/useful-theory-extended-parallel-process-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicatehealth.com">[Lumina Corps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicatehealth.com</span><span class="citation-popover-title">Lumina Corps Useful Theory: Extended Parallel Process Model</span><span class="citation-popover-snippet">Lumina CorpsUseful Theory: Extended Parallel Process ModelMay 20, 2021 — The EPPM, developed by Dr. Kim Witte, explains that health risk...</span><span class="citation-popover-meta">Published: May 20, 2021</span></span></span>
+* **Efficacy**: Whether effective protective actions exist and whether they seem achievable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">putting the fear back into fear appeals the extended parallel process model</span><span class="citation-popover-snippet">You&#x27;re at-risk for AIDS because you share needles while using...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicatehealth.com/wehearthealthliteracy/useful-theory-extended-parallel-process-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicatehealth.com">[Lumina Corps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicatehealth.com</span><span class="citation-popover-title">Lumina Corps Useful Theory: Extended Parallel Process Model</span><span class="citation-popover-snippet">Lumina CorpsUseful Theory: Extended Parallel Process ModelMay 20, 2021 — The EPPM, developed by Dr. Kim Witte, explains that health risk...</span><span class="citation-popover-meta">Published: May 20, 2021</span></span></span>
 
-When people perceive a real threat and believe they can respond effectively, fear tends to promote constructive action. When they perceive danger but feel powerless, they may reject the message, avoid thinking about it, or become defensive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">putting the fear back into fear appeals the extended parallel process model</span><span class="citation-popover-snippet">You&#x27;re at-risk for AIDS because you share needles while using...Read more...</span></span></span>
+When people perceive a real threat and believe they can respond effectively, fear tends to promote constructive action. When they perceive danger but feel powerless, they may reject the message, avoid thinking about it, or become defensive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">putting the fear back into fear appeals the extended parallel process model</span><span class="citation-popover-snippet">You&#x27;re at-risk for AIDS because you share needles while using...Read more...</span></span></span>
 
 This insight is important for evaluating arguments. A warning that says, “This risk is real, and here is how you can reduce it,” is fundamentally different from a warning that simply amplifies anxiety. The former aims at problem-solving; the latter may aim only at emotional pressure.
 
@@ -337,11 +337,11 @@ This insight is important for evaluating arguments. A warning that says, “This
 
 Public safety campaigns provide some of the clearest borderline examples.
 
-Anti-smoking advertisements often depict severe illness, damaged organs, or premature death. These messages deliberately evoke fear. Yet the health consequences of smoking are extensively documented, and the recommended action—avoiding or quitting smoking—directly addresses the risk. Whether a particular advertisement is effective can be debated, but the mere presence of fear does not make the argument fallacious. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span>
+Anti-smoking advertisements often depict severe illness, damaged organs, or premature death. These messages deliberately evoke fear. Yet the health consequences of smoking are extensively documented, and the recommended action—avoiding or quitting smoking—directly addresses the risk. Whether a particular advertisement is effective can be debated, but the mere presence of fear does not make the argument fallacious. OUP Academic<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span>
 
-Road-safety campaigns offer another example. Graphic depictions of crashes can appear emotionally manipulative at first glance. However, when they are based on well-established accident risks and paired with practical advice such as wearing seat belts, avoiding impaired driving, or reducing speed, they are warning about documented dangers rather than inventing them. Studies of threat-based road-safety messaging have found that high-threat messages can influence behaviour when accompanied by strong efficacy information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/1517289/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL DiscoveryThreat appeals in health communication: messages that elicit...RESULTS: Study 1 findings indicated that a high threat messa...</span></span></span>
+Road-safety campaigns offer another example. Graphic depictions of crashes can appear emotionally manipulative at first glance. However, when they are based on well-established accident risks and paired with practical advice such as wearing seat belts, avoiding impaired driving, or reducing speed, they are warning about documented dangers rather than inventing them. Studies of threat-based road-safety messaging have found that high-threat messages can influence behaviour when accompanied by strong efficacy information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/1517289/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL DiscoveryThreat appeals in health communication: messages that elicit...RESULTS: Study 1 findings indicated that a high threat messa...</span></span></span>
 
-Public health emergencies frequently raise the same issue. Communicators may need to warn about infectious disease, environmental hazards, or natural disasters. Such warnings can create fear, but if the risk assessments are evidence-based and the guidance is proportionate, the appeal is not merely emotional. It is grounded in the realities of risk management. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/109019810002700506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analysis of Fear Appeals: Implications for Effective...by K Witte · 2000 · Cited by 4977 — The meta-analysis suggest...</span></span></span>
+Public health emergencies frequently raise the same issue. Communicators may need to warn about infectious disease, environmental hazards, or natural disasters. Such warnings can create fear, but if the risk assessments are evidence-based and the guidance is proportionate, the appeal is not merely emotional. It is grounded in the realities of risk management.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/109019810002700506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analysis of Fear Appeals: Implications for Effective...by K Witte · 2000 · Cited by 4977 — The meta-analysis suggest...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-3-dark.svg" | relative_url }}" alt="Fear Warnings illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Test for Evaluating Fear-Based Arguments
@@ -360,274 +360,274 @@ When deciding whether a fear appeal is fallacious or reasonable, a useful set of
 
 If the warning survives these questions, it is likely functioning as a legitimate risk argument rather than a fallacious appeal to fear.
 
-The central lesson is that fear itself is not the problem. In borderline cases, the decisive issue is whether fear tracks reality. When evidence shows that a danger is genuine and the proposed response is sensible, fear can serve as a rational guide to action rather than a tool of manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span>
+The central lesson is that fear itself is not the problem. In borderline cases, the decisive issue is whether fear tracks reality. When evidence shows that a danger is genuine and the proposed response is sensible, fear can serve as a rational guide to action rather than a tool of manipulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Even within a public health context, much is now.Read more</span><span class="citation-popover-snippet">Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn application of the extended parallel process model</span><span class="citation-popover-snippet">by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HAsmwRMOcCs" title="Critical Thinking: The Fallacy of Appeal to Fear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HAsmwRMOcCs" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal to Fear</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 5.2K &middot; Uploaded: December 2014 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HAsmwRMOcCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HAsmwRMOcCs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Is Fear a Fair Warning?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Is Fear a Fair Warning?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gift of Fear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PAbaAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Gift of Fear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
-        </h4>
-        <p class="fr-book-author">By Gavin De Becker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gift of Fear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PAbaAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Gift of Fear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
+</h4>
+<p class="fr-book-author">By Gavin De Becker</p>
         
-        <p class="fr-book-desc">Directly examines rational versus irrational fear.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines rational versus irrational fear.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains risk perception and judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains risk perception and judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+by+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_uOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Risk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Risk+by+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk">Risk</a>
-        </h4>
-        <p class="fr-book-author">By Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+by+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_uOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Risk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Risk+by+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk">Risk</a>
+</h4>
+<p class="fr-book-author">By Dan Gardner</p>
         
-        <p class="fr-book-desc">Explores fear, danger, and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Risk+by+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores fear, danger, and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Risk+by+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Covers reasoning errors tied to risk and fear.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers reasoning errors tied to risk and fear.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gift+of+Fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gift of Fear</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Risk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risk</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gift+of+Fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gift of Fear</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Risk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risk</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fear-warnings-when-is-fear-a-fair-warning-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ The central lesson is that fear itself is not the problem. In borderline cases, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ The central lesson is that fear itself is not the problem. In borderline cases, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ The central lesson is that fear itself is not the problem. In borderline cases, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ The central lesson is that fear itself is not the problem. In borderline cases, 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -783,131 +783,131 @@ The central lesson is that fear itself is not the problem. In borderline cases, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/archives/fall2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2022/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The scheme Argument from Authority (“Appeal to Authority,” “Appeal...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2022/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The scheme Argument from Authority (“Appeal to Authority,” “Appeal...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn application of the extended parallel process model  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8903272/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by H Yoon · 2022 · Cited by 33 — The EPPM explains that danger control and fear control are mutually exclusive responses based on an i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academic.oup.com  
    Title: Academic Fear Arousal and Health and Risk Messaging  
-   Link: <a href="https://academic.oup.com/edited-volume/61798/chapter/546204722?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/61798/chapter/546204722?searchresult=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicFear Arousal and Health and Risk Messaging - Oxford AcademicA fear appeal, then, can be defined as a message that intends to...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/61798/chapter/546204722?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/61798/chapter/546204722?searchresult=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicFear Arousal and Health and Risk Messaging - Oxford AcademicA fear appeal, then, can be defined as a message that intends to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Unresolved issues include possible mediation [mechanisms](&#123;&#123; 'mechanisms/' | relative_url &#125;&#125;). Read more  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8266257/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8266257/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fear appeals to promote better health behaviors - PMCby LS Moussaoui · 2021 · Cited by 54 — Fear appeals are widely used in health com...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8266257/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8266257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fear appeals to promote better health behaviors - PMCby LS Moussaoui · 2021 · Cited by 54 — Fear appeals are widely used in health com...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: informallogic.ca  
    Title: Even within a public health [context](&#123;&#123; 'context/' | relative_url &#125;&#125;), much is now.Read more  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3146/2764</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/3146/2764" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3146/2764</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicFear Appeal Arguments In Public Health Reasoningby L Cummings · 2012 · Cited by 35 — Abstract: The study of threat and fear...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to FearDescription: When fear, not based on evidence or reason, is being used as the primary motivator to get...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to FearDescription: When fear, not based on evidence or reason, is being used as the primary motivator to get...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: communicationcache.com  
    Title: putting the fear back into fear appeals the extended parallel process model  
-   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;You&#x27;re at-risk for AIDS because you share needles while using...Read more...</p></details>
+   Link:<a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;You&#x27;re at-risk for AIDS because you share needles while using...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: communicatehealth.com  
    Title: Lumina Corps Useful Theory: Extended Parallel Process Model  
-   Link: <a href="https://www.communicatehealth.com/wehearthealthliteracy/useful-theory-extended-parallel-process-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatehealth.com/wehearthealthliteracy/useful-theory-extended-parallel-process-model/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lumina CorpsUseful Theory: Extended Parallel Process ModelMay 20, 2021 — The EPPM, developed by Dr. Kim Witte, explains that health risk...</p></details>
+   Link:<a href="https://www.communicatehealth.com/wehearthealthliteracy/useful-theory-extended-parallel-process-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatehealth.com/wehearthealthliteracy/useful-theory-extended-parallel-process-model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lumina CorpsUseful Theory: Extended Parallel Process ModelMay 20, 2021 — The EPPM, developed by Dr. Kim Witte, explains that health risk...</p></details>
    Published: May 20, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/109019810002700506" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/109019810002700506</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analysis of Fear Appeals: Implications for Effective...by K Witte · 2000 · Cited by 4977 — The meta-analysis suggest...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/109019810002700506" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/109019810002700506</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analysis of Fear Appeals: Implications for Effective...by K Witte · 2000 · Cited by 4977 — The meta-analysis suggest...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/1517289/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1517289/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryThreat appeals in health communication: messages that elicit...RESULTS: Study 1 findings indicated that a high threat messa...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/1517289/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1517289/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryThreat appeals in health communication: messages that elicit...RESULTS: Study 1 findings indicated that a high threat messa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/08901171231218689" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/08901171231218689</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsUnderstanding the Design of Fear Appeals by Applying...Nov 28, 2023 — Understanding the Design of Fear Appeals by Applying...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/08901171231218689" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/08901171231218689</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsUnderstanding the Design of Fear Appeals by Applying...Nov 28, 2023 — Understanding the Design of Fear Appeals by Applying...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: db.arabpsychology.com  
    Title: appeal to fear  
-   Link: <a href="https://db.arabpsychology.com/appeal-to-fear/" target="_blank" rel="noopener noreferrer nofollow">https://db.arabpsychology.com/appeal-to-fear/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Fear: Fallacy, Definition &amp; ExamplesAn appeal to fear (also called argumentum ad metum or argumentum in terrorem) is a fallacy in whic...</p></details>
+   Link:<a href="https://db.arabpsychology.com/appeal-to-fear/" target="_blank" rel="noopener noreferrer nofollow">https://db.arabpsychology.com/appeal-to-fear/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Fear: Fallacy, Definition &amp; ExamplesAn appeal to fear (also called argumentum ad metum or argumentum in terrorem) is a fallacy in whic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Extended parallel process model  
-   Link: <a href="https://en.wikipedia.org/wiki/Extended_parallel_process_model" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extended_parallel_process_model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extended parallel process modelThis is also the first fear appeal model that outlines the relationship between threat and efficacy in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Extended_parallel_process_model" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extended_parallel_process_model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extended parallel process modelThis is also the first fear appeal model that outlines the relationship between threat and efficacy in...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/364302746_Examining_the_persuasion_process_of_narrative_fear_appeals_on_health_misinformation_correction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364302746_Examining_the_persuasion_process_of_narrative_fear_appeals_on_health_misinformation_correction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Examining the persuasion process of narrative fear...10 Oct 2022 — Results revealed that narrative fear appeal messages are effect...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/364302746_Examining_the_persuasion_process_of_narrative_fear_appeals_on_health_misinformation_correction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364302746_Examining_the_persuasion_process_of_narrative_fear_appeals_on_health_misinformation_correction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Examining the persuasion process of narrative fear...10 Oct 2022 — Results revealed that narrative fear appeal messages are effect...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: contensis.uwaterloo.ca  
-   Link: <a href="https://contensis.uwaterloo.ca/sites/courses-archive/1185/PHS-617/lecture-content/module-5/5c.aspx/1000" target="_blank" rel="noopener noreferrer nofollow">https://contensis.uwaterloo.ca/sites/courses-archive/1185/PHS-617/lecture-content/module-5/5c.aspx/1000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uwaterloo.ca5c. Fear Appeals in Health Communication CampaignsA fear appeal is a persuasive message that attempts to arouse fear in order...</p></details>
+   Link:<a href="https://contensis.uwaterloo.ca/sites/courses-archive/1185/PHS-617/lecture-content/module-5/5c.aspx/1000" target="_blank" rel="noopener noreferrer nofollow">https://contensis.uwaterloo.ca/sites/courses-archive/1185/PHS-617/lecture-content/module-5/5c.aspx/1000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uwaterloo.ca5c. Fear Appeals in Health Communication CampaignsA fear appeal is a persuasive message that attempts to arouse fear in order...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/345737608_Extended_Parallel_Process_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345737608_Extended_Parallel_Process_Model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extended Parallel Process ModelA fear appeal should convince the message recipient to engage in danger control behaviors to avert the thr...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345737608_Extended_Parallel_Process_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345737608_Extended_Parallel_Process_Model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extended Parallel Process ModelA fear appeal should convince the message recipient to engage in danger control behaviors to avert the thr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: socialactionlab.org  
-   Link: <a href="https://socialactionlab.org/wp-content/uploads/2024/01/Tannenbaum_Appealing-to-Fear-A-Meta-Analysis-of-Fear-Appeal-Effectiveness-and-Theories_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialactionlab.org/wp-content/uploads/2024/01/Tannenbaum_Appealing-to-Fear-A-Meta-Analysis-of-Fear-Appeal-Effectiveness-and-Theories_2015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis of Fear Appeal Effectiveness and Theoriesby MB Tannenbaum · Cited by 1644 — Fear appeals are persuasive messages that att...</p></details>
+   Link:<a href="https://socialactionlab.org/wp-content/uploads/2024/01/Tannenbaum_Appealing-to-Fear-A-Meta-Analysis-of-Fear-Appeal-Effectiveness-and-Theories_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialactionlab.org/wp-content/uploads/2024/01/Tannenbaum_Appealing-to-Fear-A-Meta-Analysis-of-Fear-Appeal-Effectiveness-and-Theories_2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis of Fear Appeal Effectiveness and Theoriesby MB Tannenbaum · Cited by 1644 — Fear appeals are persuasive messages that att...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228297479_Why_Fallacies_Appear_to_be_Better_Arguments_Than_They_Are" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228297479_Why_Fallacies_Appear_to_be_Better_Arguments_Than_They_Are</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Fallacies Appear to be Better Arguments Than They AreThree informal fallacies, argumentum ad verecundiam, argumentum ad ignorantiam a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228297479_Why_Fallacies_Appear_to_be_Better_Arguments_Than_They_Are" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228297479_Why_Fallacies_Appear_to_be_Better_Arguments_Than_They_Are</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Fallacies Appear to be Better Arguments Than They AreThree informal fallacies, argumentum ad verecundiam, argumentum ad ignorantiam a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: read.aupress.ca  
-   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15. Fallacies of Emotional BiasIn this chapter we identify seven fallacies: three ad hominem arguments, the appeal to pity, the appeal to...</p></details>
+   Link:<a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15. Fallacies of Emotional BiasIn this chapter we identify seven fallacies: three ad hominem arguments, the appeal to pity, the appeal to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: global.comminit.com  
-   Link: <a href="https://global.comminit.com/content/message-effectiveness-fear-appeals-vaccination-communication-campaigns-systematic-review" target="_blank" rel="noopener noreferrer nofollow">https://global.comminit.com/content/message-effectiveness-fear-appeals-vaccination-communication-campaigns-systematic-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of Fear Appeals in Vaccination...29 Oct 2024 — For example, fear appeals attempt to motivate receivers to reduce the commu...</p></details>
+   Link:<a href="https://global.comminit.com/content/message-effectiveness-fear-appeals-vaccination-communication-campaigns-systematic-review" target="_blank" rel="noopener noreferrer nofollow">https://global.comminit.com/content/message-effectiveness-fear-appeals-vaccination-communication-campaigns-systematic-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of Fear Appeals in Vaccination...29 Oct 2024 — For example, fear appeals attempt to motivate receivers to reduce the commu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/hedb/fulltext/10.1177/1090198111418108~the-extended-parallel-process-model-illuminating-the-gaps-in" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/hedb/fulltext/10.1177/1090198111418108~the-extended-parallel-process-model-illuminating-the-gaps-in</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Extended Parallel Process Modelby L Popova · 2012 · Cited by 560 — This model posited that people have to first learn to fear a threa...</p></details>
+   Link:<a href="https://www.ovid.com/journals/hedb/fulltext/10.1177/1090198111418108~the-extended-parallel-process-model-illuminating-the-gaps-in" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/hedb/fulltext/10.1177/1090198111418108~the-extended-parallel-process-model-illuminating-the-gaps-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Extended Parallel Process Modelby L Popova · 2012 · Cited by 560 — This model posited that people have to first learn to fear a threa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: socialsci.libretexts.org  
    Title: Social Sci Libre Texts5.1: Fear Appeals- The Extended Parallel Process Model  
-   Link: <a href="https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Persuasion_Theory_in_Action_%28Worthington%29/05%3A_Emotional_Appeals/5.01%3A_Fear_Appeals-_The_Extended_Parallel_Process_Model" target="_blank" rel="noopener noreferrer nofollow">https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Persuasion_Theory_in_Action_%28Worthington%29/05%3A_Emotional_Appeals/5.01%3A_Fear_Appeals-_The_Extended_Parallel_Process_Model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Sci LibreTexts5.1: Fear Appeals- The Extended Parallel Process ModelMay 10, 2023 — The Extended Parallel Process Model specifies t...</p></details>
+   Link:<a href="https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Persuasion_Theory_in_Action_%28Worthington%29/05%3A_Emotional_Appeals/5.01%3A_Fear_Appeals-_The_Extended_Parallel_Process_Model" target="_blank" rel="noopener noreferrer nofollow">https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Persuasion_Theory_in_Action_%28Worthington%29/05%3A_Emotional_Appeals/5.01%3A_Fear_Appeals-_The_Extended_Parallel_Process_Model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Sci LibreTexts5.1: Fear Appeals- The Extended Parallel Process ModelMay 10, 2023 — The Extended Parallel Process Model specifies t...</p></details>
    Published: May 10, 2023  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/force.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/force.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad Baculum: The Appeal to ForceThe argumentum ad baculum is based upon the appeal to threat or force in or...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/force.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/force.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad Baculum: The Appeal to ForceThe argumentum ad baculum is based upon the appeal to threat or force in or...</p></details>

@@ -277,7 +277,7 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_re
 Can a news source prove its own reliability? Logically, no. A source may claim that it is accurate, impartial, or trustworthy, but those claims become circular if the only evidence offered is the source’s own record as described by itself. The reasoning loop looks simple: “This outlet is reliable because its reporting is accurate, and we know its reporting is accurate because the outlet is reliable.” The conclusion and the evidence end up supporting each other without any independent check. This is a specific form of circular reasoning, a fallacy in which an argument never leaves its own assumptions.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-dark.svg" | relative_url }}" alt="News Trust illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In everyday media use, this matters because trust decisions often depend on whether evidence comes from outside the claim itself. A source may genuinely be reliable, but reliability is established through verification, transparency, correction records, independent scrutiny, and corroboration—not merely through self-assertion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thomsonreuters.com/en/about-us/trust-principles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thomsonreuters.com">[Thomson Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thomsonreuters.com</span><span class="citation-popover-snippet">The Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independenc...</span></span></span>
+In everyday media use, this matters because trust decisions often depend on whether evidence comes from outside the claim itself. A source may genuinely be reliable, but reliability is established through verification, transparency, correction records, independent scrutiny, and corroboration—not merely through self-assertion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thomsonreuters.com/en/about-us/trust-principles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thomsonreuters.com">[Thomson Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thomsonreuters.com</span><span class="citation-popover-snippet">The Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independenc...</span></span></span>
 
 ## The Reliability-Accuracy Loop
 
@@ -296,7 +296,7 @@ A circular version of the argument runs as follows:
 
 Each statement appears to support the next, but no independent evidence enters the chain. Someone who already accepts the source may find the argument convincing, yet a sceptical reader has been given no external reason to accept either premise.
 
-This distinction becomes clearer when compared with genuine evidence. A source's reliability is not demonstrated merely because it says it follows high standards. Rather, reliability depends on whether those standards can be observed, tested, and evaluated from outside the organisation. Reuters, for example, publishes detailed standards emphasising accuracy, [corrections]({{ 'corrections/' | relative_url }}), independence, and verification procedures. Those standards are not proof by themselves; they become meaningful when readers, competitors, researchers, and watchdogs can examine whether the organisation actually follows them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span>
+This distinction becomes clearer when compared with genuine evidence. A source's reliability is not demonstrated merely because it says it follows high standards. Rather, reliability depends on whether those standards can be observed, tested, and evaluated from outside the organisation. Reuters, for example, publishes detailed standards emphasising accuracy, [corrections]({{ 'corrections/' | relative_url }}), independence, and verification procedures. Those standards are not proof by themselves; they become meaningful when readers, competitors, researchers, and watchdogs can examine whether the organisation actually follows them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span>
 
 The logical mistake occurs when standards are treated as self-validating. “We are accurate because we say we follow accurate practices” remains a circular claim unless supported by evidence beyond the statement itself.
 
@@ -310,8 +310,8 @@ Several forms of independent checking break the circle:
 
 * **Corroboration by unrelated outlets.** If multiple organisations with different ownership structures, editorial teams, and incentives independently confirm the same facts, confidence can increase.
 * **Transparent corrections.** A visible record of corrections allows outsiders to assess how frequently errors occur and how they are handled.
-* **External fact-checking.** Independent fact-checking organisations provide a separate layer of evaluation rather than relying on the source's self-assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">The first...Read more...</span></span></span>
-* **Academic and professional assessment.** Researchers and media analysts often evaluate accuracy, reliability, bias, and verification practices using criteria that are not controlled by the news organisation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glassmanlab.seas.harvard.edu">[glassmanlab.seas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glassmanlab.seas.harvard.edu</span><span class="citation-popover-title">We identify reliability criteria, We discuss 11 widely recognized criteria,</span><span class="citation-popover-snippet">Reliability Criteria for News WebsitesFebruary 1, 2024 — by H HEUER · 2024 · Cited by 15 — Reliability criteria for news websites can hel...</span><span class="citation-popover-meta">Published: February 1, 2024</span></span></span>
+* **External fact-checking.** Independent fact-checking organisations provide a separate layer of evaluation rather than relying on the source's self-assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">The first...Read more...</span></span></span>
+* **Academic and professional assessment.** Researchers and media analysts often evaluate accuracy, reliability, bias, and verification practices using criteria that are not controlled by the news organisation itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glassmanlab.seas.harvard.edu">[glassmanlab.seas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glassmanlab.seas.harvard.edu</span><span class="citation-popover-title">We identify reliability criteria, We discuss 11 widely recognized criteria,</span><span class="citation-popover-snippet">Reliability Criteria for News WebsitesFebruary 1, 2024 — by H HEUER · 2024 · Cited by 15 — Reliability criteria for news websites can hel...</span><span class="citation-popover-meta">Published: February 1, 2024</span></span></span>
 * **Primary-source access.** When documents, transcripts, datasets, or recordings are made available, readers can compare reporting against underlying evidence.
 
 Notice that each of these checks introduces information from outside the original claim. That external evidence is what prevents the reasoning from becoming circular.
@@ -330,14 +330,14 @@ This creates another potential evidence loop:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * People trust a source because it confirms what they already believe.
-* Confirmation strengthens their trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">rebuilding trust journalisms role ai driven world</span><span class="citation-popover-snippet">People often place trust in sources that affirm their worldview, even when they lack accuracy or integrity.Read more...</span></span></span>
+* Confirmation strengthens their trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">rebuilding trust journalisms role ai driven world</span><span class="citation-popover-snippet">People often place trust in sources that affirm their worldview, even when they lack accuracy or integrity.Read more...</span></span></span>
 * Increased trust leads them to view the source as more accurate.
 
 </div>
 
 The source may or may not actually be accurate. The key point is that trust itself becomes part of the evidence chain. In such cases, confidence can grow even when independent verification is weak.
 
-This distinction explains why public trust surveys and reliability assessments measure different things. Polls may reveal how much confidence people place in media organisations, but they do not automatically demonstrate whether those organisations are accurate. Recent polling shows substantial variation and decline in public trust toward media institutions, yet trust levels alone cannot determine journalistic quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">trust media new low.aspx</span><span class="citation-popover-snippet">in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</span><span class="citation-popover-meta">Published: October 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">trust media new low.aspx</span><span class="citation-popover-snippet">in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</span><span class="citation-popover-meta">Published: October 2, 2025</span></span></span>
+This distinction explains why public trust surveys and reliability assessments measure different things. Polls may reveal how much confidence people place in media organisations, but they do not automatically demonstrate whether those organisations are accurate. Recent polling shows substantial variation and decline in public trust toward media institutions, yet trust levels alone cannot determine journalistic quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">trust media new low.aspx</span><span class="citation-popover-snippet">in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</span><span class="citation-popover-meta">Published: October 2, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">trust media new low.aspx</span><span class="citation-popover-snippet">in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</span><span class="citation-popover-meta">Published: October 2, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8UHoY0B48uM" title="Eat Your Broccoli: What Media Literacy Misses About Young People | News Over Noise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8UHoY0B48uM" target="_blank" rel="noopener noreferrer">Eat Your Broccoli: What Media Literacy Misses About Young People | News Over Noise</a></p><p class="youtube-embed-meta">Channel: wpsu &middot; Views: 124 &middot; Uploaded: March 2026 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8UHoY0B48uM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8UHoY0B48uM">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +358,7 @@ Statements such as “this source has always been right” often rely on selecti
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-dark.svg" | relative_url }}" alt="News Trust illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fact-Checking Used as a Badge Rather Than a Process
 
-Fact-checking can strengthen credibility when it is transparent and open to scrutiny. However, simply declaring that material has been fact-checked does not automatically prove accuracy. The value comes from the methodology, evidence, and accountability behind the verification process. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DM Markowitz · 2023 · Cited by 32 — The current study assessed agreement among two independent fact-checkers, The Washington Post a...</span></span></span>
+Fact-checking can strengthen credibility when it is transparent and open to scrutiny. However, simply declaring that material has been fact-checked does not automatically prove accuracy. The value comes from the methodology, evidence, and accountability behind the verification process. Taylor & Francis Online<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DM Markowitz · 2023 · Cited by 32 — The current study assessed agreement among two independent fact-checkers, The Washington Post a...</span></span></span>
 
 ### Source-to-Source Echoes
 
@@ -372,274 +372,274 @@ When evaluating claims about a news source's reliability, a simple question ofte
 
 If the answer is merely “the source says it is trustworthy” or “its reporting is trustworthy because the source is trustworthy,” the argument remains trapped in a logical loop.
 
-By contrast, evidence such as transparent sourcing, correction records, independent fact-checks, corroboration from unrelated organisations, and external audits gives readers something beyond the claim itself. That external support is what transforms trust from an assumption into a reasoned judgement. trust.org 3Reuters Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glassmanlab.seas.harvard.edu">[3glassmanlab.seas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glassmanlab.seas.harvard.edu</span><span class="citation-popover-title">We identify reliability criteria, We discuss 11 widely recognized criteria,</span><span class="citation-popover-snippet">Reliability Criteria for News WebsitesFebruary 1, 2024 — by H HEUER · 2024 · Cited by 15 — Reliability criteria for news websites can hel...</span><span class="citation-popover-meta">Published: February 1, 2024</span></span></span>
+By contrast, evidence such as transparent sourcing, correction records, independent fact-checks, corroboration from unrelated organisations, and external audits gives readers something beyond the claim itself. That external support is what transforms trust from an assumption into a reasoned judgement. trust.org 3Reuters Agency<span class="citation-chip-wrap"><a class="citation-chip" href="https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glassmanlab.seas.harvard.edu">[3glassmanlab.seas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glassmanlab.seas.harvard.edu</span><span class="citation-popover-title">We identify reliability criteria, We discuss 11 widely recognized criteria,</span><span class="citation-popover-snippet">Reliability Criteria for News WebsitesFebruary 1, 2024 — by H HEUER · 2024 · Cited by 15 — Reliability criteria for news websites can hel...</span><span class="citation-popover-meta">Published: February 1, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6KdBjgYyj7I" title="Logical fallacies | GMF Compact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6KdBjgYyj7I" target="_blank" rel="noopener noreferrer">Logical fallacies | GMF Compact</a></p><p class="youtube-embed-meta">Channel: DW Global Media Forum &middot; Views: 318 &middot; Uploaded: January 2023 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6KdBjgYyj7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6KdBjgYyj7I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Source Prove Its Own Reliability?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Source Prove Its Own Reliability?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches verification and independent checking of claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches verification and independent checking of claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that affect trust and judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that affect trust and judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
-        </h4>
-        <p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
+</h4>
+<p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
         
-        <p class="fr-book-desc">Provides practical tools for identifying circular arguments and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical tools for identifying circular arguments and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Supports careful assessment of media reliability and verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful assessment of media reliability and verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/814520aa0cb49773a1b6.jpg' | relative_url }}" alt="Listing image for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/814520aa0cb49773a1b6.jpg' | relative_url }}" alt="Listing image for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5014adfd25142455c8.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5014adfd25142455c8.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/653de9bd276f6160d54e.jpg' | relative_url }}" alt="Listing image for Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Journalism Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/653de9bd276f6160d54e.jpg' | relative_url }}" alt="Listing image for Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Journalism Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda"><img src="{{ '/assets/images/marketplace-covers/586986dbe0044e047bca.jpg' | relative_url }}" alt="Listing image for 1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda"><img src="{{ '/assets/images/marketplace-covers/586986dbe0044e047bca.jpg' | relative_url }}" alt="Listing image for 1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=news-trust-can-a-source-prove-its-own-reliability-logical-fallacies-journalism-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ By contrast, evidence such as transparent sourcing, correction records, independ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ By contrast, evidence such as transparent sourcing, correction records, independ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ By contrast, evidence such as transparent sourcing, correction records, independ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ By contrast, evidence such as transparent sourcing, correction records, independ
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -795,178 +795,178 @@ By contrast, evidence such as transparent sourcing, correction records, independ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters ha establecido una unidad de fact-checking que revisa material visual y declaraciones en redes sociales. Los hallazgos se publica...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters ha establecido una unidad de fact-checking que revisa material visual y declaraciones en redes sociales. Los hallazgos se publica...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: glassmanlab.seas.harvard.edu  
    Title: We identify reliability criteria, We discuss 11 widely recognized criteria,  
-   Link: <a href="https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reliability Criteria for News WebsitesFebruary 1, 2024 — by H HEUER · 2024 · Cited by 15 — Reliability criteria for news websites can hel...</p></details>
+   Link:<a href="https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reliability Criteria for News WebsitesFebruary 1, 2024 — by H HEUER · 2024 · Cited by 15 — Reliability criteria for news websites can hel...</p></details>
    Published: February 1, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.09565" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.09565</a>  
+   Link:<a href="https://arxiv.org/abs/2404.09565" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.09565</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: rebuilding trust journalisms role ai driven world  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>People often place trust in sources that affirm their worldview, even when they lack accuracy or integrity.Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People often place trust in sources that affirm their worldview, even when they lack accuracy or integrity.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.01663</a>  
+   Link:<a href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.01663</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govTrust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 183 — This study expands on...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govTrust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 183 — This study expands on...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.gallup.com  
    Title: trust media new low.aspx  
-   Link: <a href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/695762/trust-media-new-low.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</p></details>
+   Link:<a href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/695762/trust-media-new-low.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</p></details>
    Published: October 2, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.gallup.com  
    Title: americans trust media remains trend low.aspx  
-   Link: <a href="https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gallup.comAmericans&#x27; Trust in Media Remains at Trend Low14 Oct 2024 — Americans continue to register record-low trust in the mass media...</p></details>
+   Link:<a href="https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gallup.comAmericans&#x27; Trust in Media Remains at Trend Low14 Oct 2024 — Americans continue to register record-low trust in the mass media...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.gallup.com  
-   Link: <a href="https://news.gallup.com/topic/media.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/topic/media.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gallup Topic30 Apr 2026 — Americans&#x27; trust in the media to report the news fully, accurately and fairly has edged down four points to 3...</p></details>
+   Link:<a href="https://news.gallup.com/topic/media.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/topic/media.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gallup Topic30 Apr 2026 — Americans&#x27; trust in the media to report the news fully, accurately and fairly has edged down four points to 3...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Markowitz · 2023 · Cited by 32 — The current study assessed agreement among two independent fact-checkers, The Washington Post a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Markowitz · 2023 · Cited by 32 — The current study assessed agreement among two independent fact-checkers, The Washington Post a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Nic Newman and Richard Fletcher Bias, Bullshit and Lies Report  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-11/Nic%20Newman%20and%20Richard%20Fletcher%20-%20Bias%2C%20Bullshit%20and%20Lies%20-%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-11/Nic%20Newman%20and%20Richard%20Fletcher%20-%20Bias%2C%20Bullshit%20and%20Lies%20-%20Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias, Bullshit and Lies16 Nov 2017 — Fact-checking approaches have been widely adopted by mainstream media companies such as the Washingt...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-11/Nic%20Newman%20and%20Richard%20Fletcher%20-%20Bias%2C%20Bullshit%20and%20Lies%20-%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-11/Nic%20Newman%20and%20Richard%20Fletcher%20-%20Bias%2C%20Bullshit%20and%20Lies%20-%20Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias, Bullshit and Lies16 Nov 2017 — Fact-checking approaches have been widely adopted by mainstream media companies such as the Washingt...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: trust.org  
    Title: world press freedom day 2026  
-   Link: <a href="https://www.trust.org/2026/04/29/world-press-freedom-day-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/2026/04/29/world-press-freedom-day-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 days ago — We equip journalists with the tools they need to maintain editorial best practice in their reporting, such as sourcing, veri...</p></details>
+   Link:<a href="https://www.trust.org/2026/04/29/world-press-freedom-day-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/2026/04/29/world-press-freedom-day-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 days ago — We equip journalists with the tools they need to maintain editorial best practice in their reporting, such as sourcing, veri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.gallup.com  
    Title: americans misinformation bias inaccuracy news.aspx  
-   Link: <a href="https://news.gallup.com/opinion/gallup/235796/americans-misinformation-bias-inaccuracy-news.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/opinion/gallup/235796/americans-misinformation-bias-inaccuracy-news.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gallup.comAmericans: Much Misinformation, Bias, Inaccuracy in News20 Jun 2018 — Americans estimate 62% of the news they see in newspapers...</p></details>
+   Link:<a href="https://news.gallup.com/opinion/gallup/235796/americans-misinformation-bias-inaccuracy-news.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/opinion/gallup/235796/americans-misinformation-bias-inaccuracy-news.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gallup.comAmericans: Much Misinformation, Bias, Inaccuracy in News20 Jun 2018 — Americans estimate 62% of the news they see in newspapers...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.gallup.com  
    Title: media use evaluation.aspx  
-   Link: <a href="https://news.gallup.com/poll/1663/media-use-evaluation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/1663/media-use-evaluation.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use and Evaluation | Gallup Historical TrendsHow much trust and confidence do you have in the mass media, such as newspapers, TV and radi...</p></details>
+   Link:<a href="https://news.gallup.com/poll/1663/media-use-evaluation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/1663/media-use-evaluation.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use and Evaluation | Gallup Historical TrendsHow much trust and confidence do you have in the mass media, such as newspapers, TV and radi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.gallup.com  
    Title: americans reliance trust media news sources trends.aspx  
-   Link: <a href="https://news.gallup.com/poll/265808/americans-reliance-trust-media-news-sources-trends.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/265808/americans-reliance-trust-media-news-sources-trends.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gallup.comAmericans&#x27; Reliance on and Trust in Media News Sources...We&#x27;d like to know whether or not you can trust the accuracy of the ne...</p></details>
+   Link:<a href="https://news.gallup.com/poll/265808/americans-reliance-trust-media-news-sources-trends.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/265808/americans-reliance-trust-media-news-sources-trends.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gallup.comAmericans&#x27; Reliance on and Trust in Media News Sources...We&#x27;d like to know whether or not you can trust the accuracy of the ne...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: trust.org  
-   Link: <a href="https://www.trust.org/our-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/our-journalism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our JournalismWe adhere to the Thomson Reuters Trust Principles of integrity, independence and freedom from bias.... accurate and impart...</p></details>
+   Link:<a href="https://www.trust.org/our-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/our-journalism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our JournalismWe adhere to the Thomson Reuters Trust Principles of integrity, independence and freedom from bias.... accurate and impart...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: trust.org  
-   Link: <a href="https://www.trust.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/about-us/</a>  
+   Link:<a href="https://www.trust.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/about-us/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: trust.org  
-   Link: <a href="https://www.trust.org/legal/trust-principles/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/legal/trust-principles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independence, a...</p></details>
+   Link:<a href="https://www.trust.org/legal/trust-principles/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/legal/trust-principles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independence, a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reutersagency.com  
-   Link: <a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</p></details>
+   Link:<a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thomsonreuters.com  
-   Link: <a href="https://www.thomsonreuters.com/en/about-us/trust-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.thomsonreuters.com/en/about-us/trust-principles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independenc...</p></details>
+   Link:<a href="https://www.thomsonreuters.com/en/about-us/trust-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.thomsonreuters.com/en/about-us/trust-principles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independenc...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reutersagency.com  
-   Link: <a href="https://reutersagency.com/about/our-trust-principles/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/our-trust-principles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters: Our Trust PrinciplesAlongside our Trust Principles, our journalists adhere to strict journalistic standards and values in everyt...</p></details>
+   Link:<a href="https://reutersagency.com/about/our-trust-principles/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/our-trust-principles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters: Our Trust PrinciplesAlongside our Trust Principles, our journalists adhere to strict journalistic standards and values in everyt...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first...Read more...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reuters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reuters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersReuters is an international news agency wholly owned by Thomson Reuters, which is a multinational information conglomerate.Read...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reuters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reuters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersReuters is an international news agency wholly owned by Thomson Reuters, which is a multinational information conglomerate.Read...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: spj.org  
-   Link: <a href="https://www.spj.org/what-the-codes-say-code-provisions-by-subject/" target="_blank" rel="noopener noreferrer nofollow">https://www.spj.org/what-the-codes-say-code-provisions-by-subject/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Society of Professional JournalistsWhat the Codes Say: Code provisions by subjectThe good news organization is fair, accurate, responsibl...</p></details>
+   Link:<a href="https://www.spj.org/what-the-codes-say-code-provisions-by-subject/" target="_blank" rel="noopener noreferrer nofollow">https://www.spj.org/what-the-codes-say-code-provisions-by-subject/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society of Professional JournalistsWhat the Codes Say: Code provisions by subjectThe good news organization is fair, accurate, responsibl...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thebaron.info  
    Title: Reuters tops accuracy and impartiality scores  
-   Link: <a href="https://www.thebaron.info/news/article/2019/07/01/reuters-tops-accuracy-and-impartiality-scores-study" target="_blank" rel="noopener noreferrer nofollow">https://www.thebaron.info/news/article/2019/07/01/reuters-tops-accuracy-and-impartiality-scores-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>study1 Jul 2019 — Reuters has the highest accuracy score of all publications in a recent study and tracks almost dead centre on a bias sc...</p></details>
+   Link:<a href="https://www.thebaron.info/news/article/2019/07/01/reuters-tops-accuracy-and-impartiality-scores-study" target="_blank" rel="noopener noreferrer nofollow">https://www.thebaron.info/news/article/2019/07/01/reuters-tops-accuracy-and-impartiality-scores-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study1 Jul 2019 — Reuters has the highest accuracy score of all publications in a recent study and tracks almost dead centre on a bias sc...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHOSEARO/posts/how-do-you-spot-the-difference-between-news-vs-fake-news-information-vs-[rumours" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOSEARO/posts/how-do-you-spot-the-difference-between-news-vs-fake-news-information-vs-[rumours</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you spot the difference between news vs fake...🛠️ DIY Tip: Use fact-checking sites like Snopes, Africa Check, or Google Fact Check...</p></details>
+   Link:<a href="https://www.facebook.com/WHOSEARO/posts/how-do-you-spot-the-difference-between-news-vs-fake-news-information-vs-[rumours" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOSEARO/posts/how-do-you-spot-the-difference-between-news-vs-fake-news-information-vs-[rumours</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do you spot the difference between news vs fake...🛠️ DIY Tip: Use fact-checking sites like Snopes, Africa Check, or Google Fact Check...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rces independently influence participants&#x27; credibility judgments...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rces independently influence participants&#x27; credibility judgments...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290347859_Reuters_Principles_Of_Trust_Or_Propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290347859_Reuters_Principles_Of_Trust_Or_Propaganda</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>East conflict published on the Reuters proprietary websites...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290347859_Reuters_Principles_Of_Trust_Or_Propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290347859_Reuters_Principles_Of_Trust_Or_Propaganda</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>East conflict published on the Reuters proprietary websites...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ifcncodeofprinciples.poynter.org  
-   Link: <a href="https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b04ba7689d4814192d8" target="_blank" rel="noopener noreferrer nofollow">https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b04ba7689d4814192d8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFCN Code of Principles - PoynterThe principles of with integrity, independence, and freedom from bias guide all journalism at Reuters...</p></details>
+   Link:<a href="https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b04ba7689d4814192d8" target="_blank" rel="noopener noreferrer nofollow">https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b04ba7689d4814192d8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFCN Code of Principles - PoynterThe principles of with integrity, independence, and freedom from bias guide all journalism at Reuters...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/reuters-journalism-handbook/14063121" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/reuters-journalism-handbook/14063121</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ding accuracy, freedom from bias, independence...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/reuters-journalism-handbook/14063121" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/reuters-journalism-handbook/14063121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ding accuracy, freedom from bias, independence...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mediareform.org.uk  
-   Link: <a href="https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Reform CoalitionReuters Handbook of Journalism Standards and ValuesEverything we do as Reuters journalists has to be independent, f...</p></details>
+   Link:<a href="https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Reform CoalitionReuters Handbook of Journalism Standards and ValuesEverything we do as Reuters journalists has to be independent, f...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8UHoY0B48uM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8UHoY0B48uM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Media Literacy: Crash Course Media Literacy #1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8UHoY0B48uM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8UHoY0B48uM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Media Literacy: Crash Course Media Literacy #1...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ebooks.inflibnet.ac.in  
-   Link: <a href="https://ebooks.inflibnet.ac.in/aep08/chapter/sources-in-media-checking-for-truth-reliability/" target="_blank" rel="noopener noreferrer nofollow">https://ebooks.inflibnet.ac.in/aep08/chapter/sources-in-media-checking-for-truth-reliability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources in Media – Checking for truth &amp; reliability18 Mar 2012 — Objectives. To identify reliable sources of information; To identify fak...</p></details>
+   Link:<a href="https://ebooks.inflibnet.ac.in/aep08/chapter/sources-in-media-checking-for-truth-reliability/" target="_blank" rel="noopener noreferrer nofollow">https://ebooks.inflibnet.ac.in/aep08/chapter/sources-in-media-checking-for-truth-reliability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sources in Media – Checking for truth &amp; reliability18 Mar 2012 — Objectives. To identify reliable sources of information; To identify fak...</p></details>

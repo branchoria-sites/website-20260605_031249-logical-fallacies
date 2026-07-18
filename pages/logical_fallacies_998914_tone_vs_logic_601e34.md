@@ -504,19 +504,19 @@ image: /assets/images/logical_fallacies_998914_tone_vs_logic_601e34-overview-soc
 Tone is not the same as logic. A harsh argument can still give relevant reasons, and a polite argument can still dodge the point, distort the evidence or lean on a weak inference. In the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the central test is not “Was the speaker nice?” but “Do the reasons actually support the conclusion?” This distinction matters because arguments about fallacies often go wrong in two opposite ways: people dismiss a sound criticism because it sounds rude, or they excuse a bad argument because it sounds calm and civil.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-overview.webp" | relative_url }}" alt="Overview image for Tone" loading="eager" decoding="sync" fetchpriority="high">
-The most common confusion sits near the ad hominem fallacy. An ad hominem becomes fallacious when it attacks a person instead of addressing the claim or evidence. But not every unpleasant personal remark is doing that logical work. Some insults are merely uncivil add-ons; some criticisms of a speaker’s conduct are directly relevant; and some polished, respectful comments are still fallacious because they avoid the issue. The practical skill is to separate tone, [relevance]({{ 'relevance/' | relative_url }}) and argumentative support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd HominemOften the fallacy is characterized simply as a personal attack. However, a personal attack is a claim, not...</span></span></span>
+The most common confusion sits near the ad hominem fallacy. An ad hominem becomes fallacious when it attacks a person instead of addressing the claim or evidence. But not every unpleasant personal remark is doing that logical work. Some insults are merely uncivil add-ons; some criticisms of a speaker’s conduct are directly relevant; and some polished, respectful comments are still fallacious because they avoid the issue. The practical skill is to separate tone, [relevance]({{ 'relevance/' | relative_url }}) and argumentative support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd HominemOften the fallacy is characterized simply as a personal attack. However, a personal attack is a claim, not...</span></span></span>
 
 ## Why emotion is not automatically a fallacy
 
-A fallacy is a problem in reasoning, not simply a strong feeling. Anger, frustration, sarcasm or grief can make an exchange harder to hear, but none of them proves that the argument is logically defective. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have long argued that real-life argument is not just a sequence of neat propositions; [emotion]({{ 'emotion/' | relative_url }}) can signal urgency, perceived injustice, danger, commitment or the human stakes behind a claim. Michael Gilbert’s work on emotion and informal logic, for example, argues that everyday argumentation should not treat emotion as automatically outside rational exchange. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Emotion, Argumentation and Informal Logic*</span><span class="citation-popover-snippet">April 9, 2009 — by MA Gilbert · 2004 · Cited by 109 — In particular, I examine the role of emotion in everyday argumentation, and how Inf...</span><span class="citation-popover-meta">Published: April 9, 2009</span></span></span>
+A fallacy is a problem in reasoning, not simply a strong feeling. Anger, frustration, sarcasm or grief can make an exchange harder to hear, but none of them proves that the argument is logically defective. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have long argued that real-life argument is not just a sequence of neat propositions; [emotion]({{ 'emotion/' | relative_url }}) can signal urgency, perceived injustice, danger, commitment or the human stakes behind a claim. Michael Gilbert’s work on emotion and informal logic, for example, argues that everyday argumentation should not treat emotion as automatically outside rational exchange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Emotion, Argumentation and Informal Logic*</span><span class="citation-popover-snippet">April 9, 2009 — by MA Gilbert · 2004 · Cited by 109 — In particular, I examine the role of emotion in everyday argumentation, and how Inf...</span><span class="citation-popover-meta">Published: April 9, 2009</span></span></span>
 
-The same point appears in discussions of appeal to emotion. Emotional language becomes fallacious when it replaces relevant evidence or distracts from the issue that needs to be proved. A person saying “This policy is cruel because it will leave these named groups without housing, according to the eligibility rules” may be emotional, but the argument is still offering a relevant reason. By contrast, “Support this policy or you do not care about children” uses emotional pressure to shortcut the actual question. The difference is not emotional versus unemotional; it is evidentially connected versus evasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to emotion</span><span class="citation-popover-snippet">Appeal to emotion</span></span></span>
+The same point appears in discussions of appeal to emotion. Emotional language becomes fallacious when it replaces relevant evidence or distracts from the issue that needs to be proved. A person saying “This policy is cruel because it will leave these named groups without housing, according to the eligibility rules” may be emotional, but the argument is still offering a relevant reason. By contrast, “Support this policy or you do not care about children” uses emotional pressure to shortcut the actual question. The difference is not emotional versus unemotional; it is evidentially connected versus evasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to emotion</span><span class="citation-popover-snippet">Appeal to emotion</span></span></span>
 
 That is why “calm down” can be a poor reply to an argument. If the speaker has made a factual claim, cited evidence, or offered a relevant objection, the listener has not answered it by criticising the speaker’s volume, mood or wording. Tone may matter for whether a conversation remains productive, but it does not by itself settle whether the reasoning is sound.
 
 ## When rudeness is not the fallacy
 
-Rudeness and fallacy can overlap, but they are not identical. A rude remark may be logically irrelevant, logically relevant, or not part of the argument at all. Lander University’s logic materials make this distinction sharply: a personal attack by itself is a claim, not automatically an ad hominem fallacy; it becomes the fallacy when it is used in place of addressing the truth or support of the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd HominemOften the fallacy is characterized simply as a personal attack. However, a personal attack is a claim, not...</span></span></span>
+Rudeness and fallacy can overlap, but they are not identical. A rude remark may be logically irrelevant, logically relevant, or not part of the argument at all. Lander University’s logic materials make this distinction sharply: a personal attack by itself is a claim, not automatically an ad hominem fallacy; it becomes the fallacy when it is used in place of addressing the truth or support of the argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd HominemOften the fallacy is characterized simply as a personal attack. However, a personal attack is a claim, not...</span></span></span>
 
 Consider three different replies to the same claim: “The council should publish the pollution data.”
 
@@ -526,14 +526,14 @@ Consider three different replies to the same claim: “The council should publis
 
 “With respect, the council has always acted responsibly, so there is no need to publish anything further.” This is polite but logically weak if it substitutes vague reassurance for evidence about the data.
 
-The ad hominem issue is especially sensitive because some personal criticism is relevant. The Internet Encyclopedia of Philosophy notes that the hard question is often whether the personal fact is relevant to the issue: private misconduct is irrelevant to someone’s reasoning about astronomy, but it may be relevant when judging fitness for a role where that conduct bears on trust or duty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span>
+The ad hominem issue is especially sensitive because some personal criticism is relevant. The Internet Encyclopedia of Philosophy notes that the hard question is often whether the personal fact is relevant to the issue: private misconduct is irrelevant to someone’s reasoning about astronomy, but it may be relevant when judging fitness for a role where that conduct bears on trust or duty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span>
 
 This is the mechanism behind the “rude but relevant” category. A complaint may be blunt, even insulting, while still pointing to evidence that matters. “The witness lied under oath last year, so we should corroborate this testimony” may sound severe, but credibility is relevant in a testimonial setting. “The scientist is unpleasant, so the measurements are wrong” is different: the personal attack does not engage the method, data or inference.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-1-dark.svg" | relative_url }}" alt="Tone illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tone policing as a relevance mistake
 
-[Tone policing]({{ 'tone-policing/' | relative_url }}) is the move of shifting attention from what is being argued to how it is being expressed, especially when the shift is used to avoid the substance. It is often discussed as a form of ad hominem because it targets the speaker’s manner, [anger]({{ 'anger/' | relative_url }}) or emotional state rather than the truth or relevance of the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tone_policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tone policing</span><span class="citation-popover-snippet">Tone policing</span></span></span>
+[Tone policing]({{ 'tone-policing/' | relative_url }}) is the move of shifting attention from what is being argued to how it is being expressed, especially when the shift is used to avoid the substance. It is often discussed as a form of ad hominem because it targets the speaker’s manner, [anger]({{ 'anger/' | relative_url }}) or emotional state rather than the truth or relevance of the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tone_policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tone policing</span><span class="citation-popover-snippet">Tone policing</span></span></span>
 
 The fallacy risk lies in substitution. A listener may reasonably say, “I want to continue this discussion without insults,” because civility can protect the conditions for dialogue. But that is not the same as saying, “Your argument is invalid because you sound angry.” The first is a conversational boundary; the second is a logical dismissal. If the argument contains evidence, the evidence still needs to be answered.
 
@@ -544,7 +544,7 @@ A useful test is to ask: if the same argument were delivered calmly, would the o
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-3-dark.svg" | relative_url }}" alt="Tone illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Civility can improve dialogue without proving logic
 
-Tone is not irrelevant to communication. Incivility can make people defensive, discourage participation, and damage trust in a discussion. Research on online and political communication often defines incivility as disrespectful behaviour that can undermine deliberation, though studies vary in whether they include insults, emotional displays, accusations or stronger forms of hostility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.812145/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Perceptions and Evaluations of Incivility in Public Online</span><span class="citation-popover-snippet">Frontiers Perceptions and Evaluations of Incivility in Public Online</span></span></span>
+Tone is not irrelevant to communication. Incivility can make people defensive, discourage participation, and damage trust in a discussion. Research on online and political communication often defines incivility as disrespectful behaviour that can undermine deliberation, though studies vary in whether they include insults, emotional displays, accusations or stronger forms of hostility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.812145/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Perceptions and Evaluations of Incivility in Public Online</span><span class="citation-popover-snippet">Frontiers Perceptions and Evaluations of Incivility in Public Online</span></span></span>
 
 That social effect is real, but it should not be confused with logical assessment. An argument may be rude enough to violate a discussion norm while still containing a good reason. A meeting chair, teacher or moderator may need to address the manner of speech to keep the exchange usable. But after doing so, the original claim remains to be evaluated.
 
@@ -565,7 +565,7 @@ A single statement can pass one test and fail another. “Your figures are nonse
 
 ## Polished weak arguments can be more dangerous than obvious insults
 
-A crude insult is easy to spot. A polished weak argument can travel further because it carries the signals of reasonableness: calm voice, tidy structure, formal vocabulary and respectful phrasing. But those signals are not proof of validity. Purdue OWL’s fallacy guide describes ad hominem as attacking character rather than engaging the argument; the same logic applies to many polished diversions, where the surface is civil but the reasoning still avoids the issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLAd hominem: This is an attack on the character of a person rather than his or her opinions or arg...</span></span></span>
+A crude insult is easy to spot. A polished weak argument can travel further because it carries the signals of reasonableness: calm voice, tidy structure, formal vocabulary and respectful phrasing. But those signals are not proof of validity. Purdue OWL’s fallacy guide describes ad hominem as attacking character rather than engaging the argument; the same logic applies to many polished diversions, where the surface is civil but the reasoning still avoids the issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLAd hominem: This is an attack on the character of a person rather than his or her opinions or arg...</span></span></span>
 
 For example, a speaker might say: “I appreciate your passion, but serious people understand that this proposal is unrealistic.” The sentence sounds courteous, yet it may still commit a relevance error if it offers no reason the proposal is unrealistic. The phrase “serious people” functions as a social filter rather than evidence. In another setting, “Experts reject this” may be strong if it names relevant experts and their reasons; it is weak if it merely borrows the prestige of expertise without showing fit, evidence or agreement.
 
@@ -601,7 +601,7 @@ A practical sequence is:
 
 This avoids two common errors. The first is the “rudeness equals fallacy” error, where people dismiss a relevant objection because they dislike the delivery. The second is the “politeness equals reason” error, where smooth phrasing conceals a missing link in the argument.
 
-The distinction is especially important in debates about credibility. Personal facts can be relevant when the argument depends on trust, testimony, expertise, conflict of interest or consistency between words and actions. Douglas Walton’s work on ad hominem reasoning is often cited for this more nuanced view: some ad hominem arguments are fallacious diversions, but some raise legitimate critical questions about a speaker’s position, especially where inconsistency or credibility is directly at issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1570868308000384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTAH-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALTAH 2</span><span class="citation-popover-snippet">WALTAH 2</span></span></span>
+The distinction is especially important in debates about credibility. Personal facts can be relevant when the argument depends on trust, testimony, expertise, conflict of interest or consistency between words and actions. Douglas Walton’s work on ad hominem reasoning is often cited for this more nuanced view: some ad hominem arguments are fallacious diversions, but some raise legitimate critical questions about a speaker’s position, especially where inconsistency or credibility is directly at issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1570868308000384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTAH-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALTAH 2</span><span class="citation-popover-snippet">WALTAH 2</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZPI8olxv7UQ" title="Not Every Insult is an Ad Hominem Fallacy!!! [SUB ESP] #logic #fallacy #insult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZPI8olxv7UQ" target="_blank" rel="noopener noreferrer">Not Every Insult is an Ad Hominem Fallacy!!! [SUB ESP] #logic #fallacy #insult</a></p><p class="youtube-embed-meta">Channel: Chihon Teaches &middot; Views: 665 &middot; Uploaded: September 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZPI8olxv7UQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZPI8olxv7UQ">Open on YouTube</a></p></div></div></div>
 
@@ -616,194 +616,194 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kCgkiGNOmek" title="On Tone Policing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer">On Tone Policing</a></p><p class="youtube-embed-meta">Channel: T1J &middot; Views: 26.8K &middot; Uploaded: May 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kCgkiGNOmek">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Tone the Same as Logic?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Tone the Same as Logic?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Separates intuitive reactions from careful reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Separates intuitive reactions from careful reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Shows why tone and logic are separate issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why tone and logic are separate issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Directly addresses evidence, reasoning, and persuasion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evidence, reasoning, and persuasion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explores emotion and reasoning in moral disagreement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores emotion and reasoning in moral disagreement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)"><img src="https://i.ebayimg.com/images/g/YmEAAeSwfWxpe5MF/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)"><img src="https://i.ebayimg.com/images/g/YmEAAeSwfWxpe5MF/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/~WAAAeSwEdBpYQ3U/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/~WAAAeSwEdBpYQ3U/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)"><img src="https://i.ebayimg.com/images/g/HT0AAeSwmutqGErO/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)"><img src="https://i.ebayimg.com/images/g/HT0AAeSwmutqGErO/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/2DAAAeSwQ9JpYP-4/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/2DAAAeSwQ9JpYP-4/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -819,7 +819,7 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -839,7 +839,7 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -871,7 +871,7 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -923,7 +923,7 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -968,7 +968,7 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1009,220 +1009,220 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd HominemOften the fallacy is characterized simply as a personal attack. However, a personal attack is a claim, not...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd HominemOften the fallacy is characterized simply as a personal attack. However, a personal attack is a claim, not...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLAd hominem: This is an attack on the character of a person rather than his or her opinions or arg...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLAd hominem: This is an attack on the character of a person rather than his or her opinions or arg...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: informallogic.ca  
    Title: Emotion, Argumentation and Informal Logic*  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147/1591</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 9, 2009 — by MA Gilbert · 2004 · Cited by 109 — In particular, I examine the role of emotion in everyday argumentation, and how Inf...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147/1591</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 9, 2009 — by MA Gilbert · 2004 · Cited by 109 — In particular, I examine the role of emotion in everyday argumentation, and how Inf...</p></details>
    Published: April 9, 2009  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Appeal to emotion  
-   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_emotion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_emotion</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Tone policing  
-   Link: <a href="https://en.wikipedia.org/wiki/Tone_policing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tone_policing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tone_policing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tone_policing</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1570868308000384" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1570868308000384</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1570868308000384" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1570868308000384</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: philpapers.org  
    Title: WALTAH 2  
-   Link: <a href="https://philpapers.org/rec/WALTAH-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTAH-2</a>  
+   Link:<a href="https://philpapers.org/rec/WALTAH-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTAH-2</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Walton Group  
-   Link: <a href="https://en.wikipedia.org/wiki/Walton_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walton_Group</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walton_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walton_Group</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: informallogic.ca  
    Title: Woods Correct Paper  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/467/436" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/467/436</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/467/436" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/467/436</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: informallogic.ca  
    Title: Emotions and Argumentation  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2407/1849" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2407/1849</a>  
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/2407/1849" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2407/1849</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/scireas/personal.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/personal.html</a>  
+   Link:<a href="https://philosophy.lander.edu/scireas/personal.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/personal.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: philosophy.lander.edu  
    Title: fallacy answers  
-   Link: <a href="https://philosophy.lander.edu/logic/fallacy_answers.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/fallacy_answers.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/fallacy_answers.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/fallacy_answers.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: philosophy.lander.edu  
    Title: fallacies answers  
-   Link: <a href="https://philosophy.lander.edu/logic/fallacies_answers.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/fallacies_answers.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/fallacies_answers.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/fallacies_answers.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philosophy.lander.edu  
    Title: nature fall  
-   Link: <a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/authority.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/authority.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/authority.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/authority.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/scireas/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/popular.html</a>  
+   Link:<a href="https://philosophy.lander.edu/scireas/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/popular.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignoratio.html</a>  
+   Link:<a href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignoratio.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: web.ics.purdue.edu  
    Title: Logical Fallacies  
-   Link: <a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
+   Link:<a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: owl.purdue.edu  
    Title: rhetorical strategies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: web.ics.purdue.edu  
    Title: Russell Reimer 2018  
-   Link: <a href="https://web.ics.purdue.edu/~treimer/assets/files/Russell%20Reimer%202018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~treimer/assets/files/Russell%20Reimer%202018.pdf</a>  
+   Link:<a href="https://web.ics.purdue.edu/~treimer/assets/files/Russell%20Reimer%202018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~treimer/assets/files/Russell%20Reimer%202018.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: web.ics.purdue.edu  
    Title: Russell Reimer 2020  
-   Link: <a href="https://web.ics.purdue.edu/~treimer/assets/files/Russell%20Reimer%202020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~treimer/assets/files/Russell%20Reimer%202020.pdf</a>  
+   Link:<a href="https://web.ics.purdue.edu/~treimer/assets/files/Russell%20Reimer%202020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~treimer/assets/files/Russell%20Reimer%202020.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: walton.com  
-   Link: <a href="https://walton.com/" target="_blank" rel="noopener noreferrer nofollow">https://walton.com/</a>  
+   Link:<a href="https://walton.com/" target="_blank" rel="noopener noreferrer nofollow">https://walton.com/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: walton.com  
-   Link: <a href="https://walton.com/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://walton.com/contact-us/</a>  
+   Link:<a href="https://walton.com/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://walton.com/contact-us/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: walton.com  
-   Link: <a href="https://walton.com/leadership/" target="_blank" rel="noopener noreferrer nofollow">https://walton.com/leadership/</a>  
+   Link:<a href="https://walton.com/leadership/" target="_blank" rel="noopener noreferrer nofollow">https://walton.com/leadership/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: scribbr.com  
    Title: appeal to emotion  
-   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-emotion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Emotion Fallacy | Definition &amp; Examples26 Jul 2023 — Appeal to emotion fallacy occurs when someone tries to win an argum...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-emotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Emotion Fallacy | Definition &amp; Examples26 Jul 2023 — Appeal to emotion fallacy occurs when someone tries to win an argum...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: frontiersin.org  
    Title: Frontiers Perceptions and Evaluations of Incivility in Public Online  
-   Link: <a href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.812145/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.812145/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.812145/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.812145/full</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
+   Link:<a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: anecdotal.app  
-   Link: <a href="https://anecdotal.app/fallacy/tone-policing/" target="_blank" rel="noopener noreferrer nofollow">https://anecdotal.app/fallacy/tone-policing/</a>  
+   Link:<a href="https://anecdotal.app/fallacy/tone-policing/" target="_blank" rel="noopener noreferrer nofollow">https://anecdotal.app/fallacy/tone-policing/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: logical-fallacy.com  
    Title: Ad Hominem  
-   Link: <a href="https://www.logical-fallacy.com/articles/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/ad-hominem/</a>  
+   Link:<a href="https://www.logical-fallacy.com/articles/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/ad-hominem/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2020/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/fallacies/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2020/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/fallacies/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Not Every Insult is an Ad Hominem Fallacy!!! [SUB ESP] #logic #fallacy #insult  
-   Link: <a href="https://www.youtube.com/watch?v=ZPI8olxv7UQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZPI8olxv7UQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ad Hominem Fallacy: Distracting Attacks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZPI8olxv7UQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZPI8olxv7UQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ad Hominem Fallacy: Distracting Attacks...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227141322_The_ad_Hominem_argument_as_an_informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227141322_The_ad_Hominem_argument_as_an_informal_fallacy</a>  
+   Link:<a href="https://www.researchgate.net/publication/227141322_The_ad_Hominem_argument_as_an_informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227141322_The_ad_Hominem_argument_as_an_informal_fallacy</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: markmanson.net  
-   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/omj/article/17/1/43/314420/Do-you-pass-it-on-An-examination-of-the" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/omj/article/17/1/43/314420/Do-you-pass-it-on-An-examination-of-the</a>  
+   Link:<a href="https://www.emerald.com/omj/article/17/1/43/314420/Do-you-pass-it-on-An-examination-of-the" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/omj/article/17/1/43/314420/Do-you-pass-it-on-An-examination-of-the</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/400vk7/how_can_i_show_that_a_tone_argument_tone_policing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/400vk7/how_can_i_show_that_a_tone_argument_tone_policing/</a>  
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/400vk7/how_can_i_show_that_a_tone_argument_tone_policing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/400vk7/how_can_i_show_that_a_tone_argument_tone_policing/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/ebsi7k/is_there_such_a_thing_as_a_valid_ad_hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/ebsi7k/is_there_such_a_thing_as_a_valid_ad_hominem/</a>  
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/ebsi7k/is_there_such_a_thing_as_a_valid_ad_hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/ebsi7k/is_there_such_a_thing_as_a_valid_ad_hominem/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AutisticTyping/posts/tone-policing-can-be-a-heated-topic-and-many-people-have-questions-about-what-it/489483281652075/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AutisticTyping/posts/tone-policing-can-be-a-heated-topic-and-many-people-have-questions-about-what-it/489483281652075/</a>  
+   Link:<a href="https://www.facebook.com/AutisticTyping/posts/tone-policing-can-be-a-heated-topic-and-many-people-have-questions-about-what-it/489483281652075/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AutisticTyping/posts/tone-policing-can-be-a-heated-topic-and-many-people-have-questions-about-what-it/489483281652075/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: uapress.ua.edu  
-   Link: <a href="https://www.uapress.ua.edu/9780817391140/ad-hominem-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapress.ua.edu/9780817391140/ad-hominem-arguments/</a>  
+   Link:<a href="https://www.uapress.ua.edu/9780817391140/ad-hominem-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapress.ua.edu/9780817391140/ad-hominem-arguments/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theinclusionsolution.me  
-   Link: <a href="https://theinclusionsolution.me/unpacking-the-conversations-that-matter-if-you-werent-so-angry-people-would-listen-and-the-problem-with-tone-policing/" target="_blank" rel="noopener noreferrer nofollow">https://theinclusionsolution.me/unpacking-the-conversations-that-matter-if-you-werent-so-angry-people-would-listen-and-the-problem-with-tone-policing/</a>  
+   Link:<a href="https://theinclusionsolution.me/unpacking-the-conversations-that-matter-if-you-werent-so-angry-people-would-listen-and-the-problem-with-tone-policing/" target="_blank" rel="noopener noreferrer nofollow">https://theinclusionsolution.me/unpacking-the-conversations-that-matter-if-you-werent-so-angry-people-would-listen-and-the-problem-with-tone-policing/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/walton-global" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/walton-global</a>
+   Link:<a href="https://www.linkedin.com/company/walton-global" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/walton-global</a>

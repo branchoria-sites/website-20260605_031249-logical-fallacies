@@ -274,18 +274,18 @@ image: /assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slop
 
 ## Introduction
 
-Many [slippery slope]({{ 'slippery-slope/' | relative_url }}) arguments are dismissed because they seem to leap from a modest first step to a dramatic future outcome without explaining how the transition would occur. Eugene Volokh’s contribution was to shift the discussion away from metaphor and towards mechanism. Instead of asking whether a feared outcome is imaginable, he asks what concrete processes could make an initial decision increase the likelihood of a later one. This move matters because it turns slippery slope claims from vague warnings into propositions that can be examined, challenged, and supported with evidence. A slope is not persuasive simply because someone predicts disaster; it becomes analytically interesting when there is a plausible mechanism connecting one decision to the next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+Many [slippery slope]({{ 'slippery-slope/' | relative_url }}) arguments are dismissed because they seem to leap from a modest first step to a dramatic future outcome without explaining how the transition would occur. Eugene Volokh’s contribution was to shift the discussion away from metaphor and towards mechanism. Instead of asking whether a feared outcome is imaginable, he asks what concrete processes could make an initial decision increase the likelihood of a later one. This move matters because it turns slippery slope claims from vague warnings into propositions that can be examined, challenged, and supported with evidence. A slope is not persuasive simply because someone predicts disaster; it becomes analytically interesting when there is a plausible mechanism connecting one decision to the next.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-1-dark.svg" | relative_url }}" alt="Mechanisms illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Actually Makes the Slope Slippery?
 
-Volokh argues that slippery slope arguments should be evaluated by identifying the real-world pathways through which decision A might increase the probability of decision B. Rather than treating slopes as rhetorical devices, he presents them as hypotheses about institutional behaviour, public opinion, legal reasoning, and political incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+Volokh argues that slippery slope arguments should be evaluated by identifying the real-world pathways through which decision A might increase the probability of decision B. Rather than treating slopes as rhetorical devices, he presents them as hypotheses about institutional behaviour, public opinion, legal reasoning, and political incentives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
-This approach changes the key question. Instead of asking, “Could this eventually lead somewhere worse?”, the question becomes, “What specific force would make the later step easier than it is today?” If no such force can be identified, the warning is weak. If a force can be identified and measured, the argument becomes stronger and more testable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+This approach changes the key question. Instead of asking, “Could this eventually lead somewhere worse?”, the question becomes, “What specific force would make the later step easier than it is today?” If no such force can be identified, the warning is weak. If a force can be identified and measured, the argument becomes stronger and more testable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
 ## Lowering the Cost of Later Decisions
 
-One of Volokh’s most influential mechanisms is the cost-lowering slippery slope. The idea is straightforward: once society accepts one policy, the practical, political, or legal costs of adopting a broader version may fall. The later decision no longer starts from scratch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+One of Volokh’s most influential mechanisms is the cost-lowering slippery slope. The idea is straightforward: once society accepts one policy, the practical, political, or legal costs of adopting a broader version may fall. The later decision no longer starts from scratch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
 Several processes can reduce those costs:
 
@@ -294,15 +294,15 @@ Several processes can reduce those costs:
 * **Political resistance weakens.** Opponents who lost the first battle may have fewer resources or less credibility in subsequent debates.
 * **Information costs decline.** Policymakers gain [experience]({{ 'experience/' | relative_url }}) with the initial policy and become more comfortable extending it.
 
-These claims are testable because they generate observable predictions. Researchers can examine whether later proposals relied on earlier precedents, whether administrative systems were reused, or whether political opposition became less effective after an initial change. The mechanism does not guarantee movement down the slope, but it specifies why movement might become easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Introduction to Thinking About...1 Jun 2022 — The Article aims to describe the real-world paths that the metaphors represent—to provide...</span></span></span>
+These claims are testable because they generate observable predictions. Researchers can examine whether later proposals relied on earlier precedents, whether administrative systems were reused, or whether political opposition became less effective after an initial change. The mechanism does not guarantee movement down the slope, but it specifies why movement might become easier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Introduction to Thinking About...1 Jun 2022 — The Article aims to describe the real-world paths that the metaphors represent—to provide...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l-nmc8LPo40" title="Critical Thinking #14: Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l-nmc8LPo40" target="_blank" rel="noopener noreferrer">Critical Thinking #14: Slippery Slope</a></p><p class="youtube-embed-meta">Channel: David Pakman Show &middot; Views: 10.9K &middot; Uploaded: March 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l-nmc8LPo40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l-nmc8LPo40">Open on YouTube</a></p></div></div></div>
 
 ## Changing Attitudes and Political Momentum
 
-A second category of mechanisms focuses on changes in public beliefs and social norms. Volokh argues that an initial decision may alter how people evaluate related proposals in the future. What once seemed unacceptable can begin to appear ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+A second category of mechanisms focuses on changes in public beliefs and social norms. Volokh argues that an initial decision may alter how people evaluate related proposals in the future. What once seemed unacceptable can begin to appear ordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
-This is not merely a claim about persuasion. It is a claim about measurable shifts in attitudes. If acceptance of policy A causes voters, judges, legislators, or interest groups to view policy B more favourably, then the first decision has changed the political environment in which later decisions are made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+This is not merely a claim about persuasion. It is a claim about measurable shifts in attitudes. If acceptance of policy A causes voters, judges, legislators, or interest groups to view policy B more favourably, then the first decision has changed the political environment in which later decisions are made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
 Several pathways can contribute:
 
@@ -315,16 +315,16 @@ Several pathways can contribute:
 
 </div>
 
-These mechanisms are also testable. Opinion polling, election results, legislative voting patterns, and public discourse can reveal whether attitudes changed after an initial decision. Instead of assuming an inevitable slide, the analyst can look for evidence of shifting preferences and political momentum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.nyu.edu">[NYU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.nyu.edu</span><span class="citation-popover-title">Law PATERNALIST SLOPES</span><span class="citation-popover-snippet">Rizzoby DG Whitman · Cited by 102 — And as Eugene. Volokh has argued, slippery slopes are closely connected to phe- nomena such as “bound...</span></span></span>
+These mechanisms are also testable. Opinion polling, election results, legislative voting patterns, and public discourse can reveal whether attitudes changed after an initial decision. Instead of assuming an inevitable slide, the analyst can look for evidence of shifting preferences and political momentum.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.nyu.edu">[NYU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.nyu.edu</span><span class="citation-popover-title">Law PATERNALIST SLOPES</span><span class="citation-popover-snippet">Rizzoby DG Whitman · Cited by 102 — And as Eugene. Volokh has argued, slippery slopes are closely connected to phe- nomena such as “bound...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-2-dark.svg" | relative_url }}" alt="Mechanisms illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Equal-Treatment Dynamic
 
-Volokh places particular emphasis on what he calls equality-based or precedent-based pressures. Once a rule is justified for one case, decision-makers may find it difficult to deny apparently similar cases later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+Volokh places particular emphasis on what he calls equality-based or precedent-based pressures. Once a rule is justified for one case, decision-makers may find it difficult to deny apparently similar cases later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
-The mechanism operates through consistency. Suppose lawmakers create an exception to a general rule. Future advocates may argue that another group is relevantly similar and therefore deserves the same treatment. Courts often confront such arguments because legal systems place value on treating like cases alike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+The mechanism operates through consistency. Suppose lawmakers create an exception to a general rule. Future advocates may argue that another group is relevantly similar and therefore deserves the same treatment. Courts often confront such arguments because legal systems place value on treating like cases alike.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
-What makes this mechanism testable is that it leaves documentary evidence. Judicial opinions, legislative debates, and policy reports frequently explain later expansions by citing earlier decisions and appealing to consistency. Analysts can therefore investigate whether a feared extension actually relied on equal-treatment reasoning or whether other factors drove the change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
+What makes this mechanism testable is that it leaves documentary evidence. Judicial opinions, legislative debates, and policy reports frequently explain later expansions by citing earlier decisions and appealing to consistency. Analysts can therefore investigate whether a feared extension actually relied on equal-treatment reasoning or whether other factors drove the change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-3-dark.svg" | relative_url }}" alt="Mechanisms illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turning Vague Fears into Testable Claims
@@ -341,282 +341,282 @@ Volokh’s framework is valuable because it changes the standards by which slipp
 
 </div>
 
-These questions transform a slippery slope claim from a rhetorical flourish into a causal hypothesis. A critic can examine the evidence, test the assumptions, and identify weak links in the chain. Likewise, supporters of a policy can respond by showing that [safeguards]({{ 'safeguards/' | relative_url }}), institutional barriers, or political realities interrupt the proposed mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/VOLSSA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eugene Volokh. In Hugh LaFollette, The International Encyclopedia of Ethics. Hoboken, NJ: Wiley-Blackwell (2013). @incollection...Read more...</span></span></span>
+These questions transform a slippery slope claim from a rhetorical flourish into a causal hypothesis. A critic can examine the evidence, test the assumptions, and identify weak links in the chain. Likewise, supporters of a policy can respond by showing that [safeguards]({{ 'safeguards/' | relative_url }}), institutional barriers, or political realities interrupt the proposed mechanism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/VOLSSA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eugene Volokh. In Hugh LaFollette, The International Encyclopedia of Ethics. Hoboken, NJ: Wiley-Blackwell (2013). @incollection...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qt4f7QrfRRc" title="Can you outsmart the slippery slope fallacy? - Elizabeth Cox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer">Can you outsmart the slippery slope fallacy? - Elizabeth Cox</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.1M &middot; Uploaded: August 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qt4f7QrfRRc">Open on YouTube</a></p></div></div></div>
 
 ## Why This Matters for Identifying the Fallacy
 
-Volokh’s analysis does not prove that slippery slope arguments are usually correct. Instead, it shows why treating every slippery slope warning as a fallacy is too simple. Some warnings rest on identifiable mechanisms that can be investigated; others merely assert that disaster will follow without explaining why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[Harvard Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-title">eugene volokh of the volokh conspiracy discusses slippery slope arguments video</span><span class="citation-popover-snippet">Harvard Law SchoolEugene Volokh, of The Volokh Conspiracy, discusses slippery...4 Oct 2011 — Eugene Volokh, professor at UCLA School of...</span></span></span>
+Volokh’s analysis does not prove that slippery slope arguments are usually correct. Instead, it shows why treating every slippery slope warning as a fallacy is too simple. Some warnings rest on identifiable mechanisms that can be investigated; others merely assert that disaster will follow without explaining why.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[Harvard Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-title">eugene volokh of the volokh conspiracy discusses slippery slope arguments video</span><span class="citation-popover-snippet">Harvard Law SchoolEugene Volokh, of The Volokh Conspiracy, discusses slippery...4 Oct 2011 — Eugene Volokh, professor at UCLA School of...</span></span></span>
 
-The practical lesson is that the presence of a slope argument is not the end of analysis but the beginning. The crucial task is to identify the mechanism. If the speaker cannot explain how the first decision lowers costs, changes attitudes, creates precedent, or generates political momentum, the argument remains speculative. If those mechanisms can be specified and supported with evidence, the claim moves from a logical fallacy towards a serious empirical prediction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Cost-Lowering Slippery Slopes as Multi-Peaked...Jun 9, 2022 — Cost-lowering slippery slopes, it turns out, are a special case of a broad...</span></span></span>
+The practical lesson is that the presence of a slope argument is not the end of analysis but the beginning. The crucial task is to identify the mechanism. If the speaker cannot explain how the first decision lowers costs, changes attitudes, creates precedent, or generates political momentum, the argument remains speculative. If those mechanisms can be specified and supported with evidence, the claim moves from a logical fallacy towards a serious empirical prediction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Cost-Lowering Slippery Slopes as Multi-Peaked...Jun 9, 2022 — Cost-lowering slippery slopes, it turns out, are a special case of a broad...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RIAhM-s5oMU" title="Straw Man vs Slippery Slope Fallacy explained with examples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RIAhM-s5oMU" target="_blank" rel="noopener noreferrer">Straw Man vs Slippery Slope Fallacy explained with examples</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 10.4K &middot; Uploaded: December 2022 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RIAhM-s5oMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RIAhM-s5oMU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Actually Makes the Slope Slippery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Actually Makes the Slope Slippery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Legal Analyst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=slj9yJt1_JcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Legal Analyst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Legal Analyst">The Legal Analyst</a>
-        </h4>
-        <p class="fr-book-author">By Ward Farnsworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Legal Analyst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=slj9yJt1_JcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Legal Analyst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Legal Analyst">The Legal Analyst</a>
+</h4>
+<p class="fr-book-author">By Ward Farnsworth</p>
         
-        <p class="fr-book-desc">Explains mechanisms behind legal and policy arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains mechanisms behind legal and policy arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Legal+Analyst+by+Ward+Farnsworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer+by+Frederick+F.+Schauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking Like a Lawyer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xZVw0EcmYh8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking Like a Lawyer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer+by+Frederick+F.+Schauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking Like a Lawyer">Thinking Like a Lawyer</a>
-        </h4>
-        <p class="fr-book-author">By Frederick F. Schauer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer+by+Frederick+F.+Schauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking Like a Lawyer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xZVw0EcmYh8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking Like a Lawyer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer+by+Frederick+F.+Schauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking Like a Lawyer">Thinking Like a Lawyer</a>
+</h4>
+<p class="fr-book-author">By Frederick F. Schauer</p>
         
-        <p class="fr-book-desc">Relevant to precedent and mechanism-based analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer+by+Frederick+F.+Schauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to precedent and mechanism-based analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer+by+Frederick+F.+Schauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Supports evaluating causal claims and probabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evaluating causal claims and probabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Encourages testing mechanisms instead of assuming outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing mechanisms instead of assuming outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Legal+Analyst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Legal Analyst</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking Like a Lawyer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Legal+Analyst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Legal Analyst</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+Like+a+Lawyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking Like a Lawyer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law School This Is My Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a697df13658f8207317d.jpg' | relative_url }}" alt="Listing image for Law School This Is My Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Law School This Is My Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law school poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: law school poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law School This Is My Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a697df13658f8207317d.jpg' | relative_url }}" alt="Listing image for Law School This Is My Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Law School This Is My Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law school poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: law school poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michigan Law School Library Black and White Art Print Poster Wall Decor Elegant"><img src="{{ '/assets/images/marketplace-covers/c6ca43afb09ef0410a9d.jpg' | relative_url }}" alt="Listing image for Michigan Law School Library Black and White Art Print Poster Wall Decor Elegant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michigan Law School Library Black and White Art Print Poster Wall Decor Elegant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law school poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: law school poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michigan Law School Library Black and White Art Print Poster Wall Decor Elegant"><img src="{{ '/assets/images/marketplace-covers/c6ca43afb09ef0410a9d.jpg' | relative_url }}" alt="Listing image for Michigan Law School Library Black and White Art Print Poster Wall Decor Elegant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michigan Law School Library Black and White Art Print Poster Wall Decor Elegant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law school poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: law school poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law School Survivor Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f4ccbaffa982ac412d3e.jpg' | relative_url }}" alt="Listing image for Law School Survivor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Law School Survivor Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law school poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: law school poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law School Survivor Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f4ccbaffa982ac412d3e.jpg' | relative_url }}" alt="Listing image for Law School Survivor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Law School Survivor Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law school poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: law school poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michigan Law School Library Source Art Print Poster Wall Decor Centerpiece Reali"><img src="{{ '/assets/images/marketplace-covers/6d0724c20449edd406b6.jpg' | relative_url }}" alt="Listing image for Michigan Law School Library Source Art Print Poster Wall Decor Centerpiece Reali" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michigan Law School Library Source Art Print Poster Wall Decor Centerpiece Reali</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law school poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: law school poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michigan Law School Library Source Art Print Poster Wall Decor Centerpiece Reali"><img src="{{ '/assets/images/marketplace-covers/6d0724c20449edd406b6.jpg' | relative_url }}" alt="Listing image for Michigan Law School Library Source Art Print Poster Wall Decor Centerpiece Reali" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michigan Law School Library Source Art Print Poster Wall Decor Centerpiece Reali</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law school poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: law school poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+school+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanisms-what-actually-makes-the-slope-slippery-logical-fallacies-law-school-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -632,7 +632,7 @@ The practical lesson is that the presence of a slope argument is not the end of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -652,7 +652,7 @@ The practical lesson is that the presence of a slope argument is not the end of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -684,7 +684,7 @@ The practical lesson is that the presence of a slope argument is not the end of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ The practical lesson is that the presence of a slope argument is not the end of 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -772,112 +772,112 @@ The practical lesson is that the presence of a slope argument is not the end of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: www2.law.ucla.edu  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</p></details>
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reason.com  
-   Link: <a href="https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Thinking About...1 Jun 2022 — The Article aims to describe the real-world paths that the metaphors represent—to provide...</p></details>
+   Link:<a href="https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Thinking About...1 Jun 2022 — The Article aims to describe the real-world paths that the metaphors represent—to provide...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reason.com  
-   Link: <a href="https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Lowering [Slippery Slopes](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) as Multi-Peaked...Jun 9, 2022 — Cost-lowering slippery slopes, it turns out, are a special case of a broad...</p></details>
+   Link:<a href="https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Lowering [Slippery Slopes](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) as Multi-Peaked...Jun 9, 2022 — Cost-lowering slippery slopes, it turns out, are a special case of a broad...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: law.nyu.edu  
    Title: Law PATERNALIST SLOPES  
-   Link: <a href="https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rizzoby DG Whitman · Cited by 102 — And as Eugene. Volokh has argued, slippery slopes are closely connected to phe- nomena such as “bound...</p></details>
+   Link:<a href="https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rizzoby DG Whitman · Cited by 102 — And as Eugene. Volokh has argued, slippery slopes are closely connected to phe- nomena such as “bound...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/VOLSSA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/VOLSSA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Volokh. In Hugh LaFollette, The International Encyclopedia of Ethics. Hoboken, NJ: Wiley-Blackwell (2013). @incollection...Read more...</p></details>
+   Link:<a href="https://philpapers.org/rec/VOLSSA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/VOLSSA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Volokh. In Hugh LaFollette, The International Encyclopedia of Ethics. Hoboken, NJ: Wiley-Blackwell (2013). @incollection...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hls.harvard.edu  
    Title: eugene volokh of the volokh conspiracy discusses slippery slope arguments video  
-   Link: <a href="https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Law SchoolEugene Volokh, of The Volokh Conspiracy, discusses slippery...4 Oct 2011 — Eugene Volokh, professor at UCLA School of...</p></details>
+   Link:<a href="https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Law SchoolEugene Volokh, of The Volokh Conspiracy, discusses slippery...4 Oct 2011 — Eugene Volokh, professor at UCLA School of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: www2.law.ucla.edu  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(This is a condensed version of an article published at. 116 Harv. L. Rev. 1026 (2003)). THE MECHANISMS OF THE SLIPPERY SLOPE...Read more...</p></details>
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(This is a condensed version of an article published at. 116 Harv. L. Rev. 1026 (2003)). THE MECHANISMS OF THE SLIPPERY SLOPE...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart the slippery slope fallacy? - Elizabeth Cox...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart the slippery slope fallacy? - Elizabeth Cox...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Slippery slope  
-   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/EUGENEvideo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/EUGENEvideo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EUGENESinger. Songwriter. Producer. Arranger. Loves electronics. Energetic. Releasing tracks on Wall Of Sound UK, Kronos Records and Disc...</p></details>
+   Link:<a href="https://www.youtube.com/EUGENEvideo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/EUGENEvideo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EUGENESinger. Songwriter. Producer. Arranger. Loves electronics. Energetic. Releasing tracks on Wall Of Sound UK, Kronos Records and Disc...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: eugene-or.gov  
-   Link: <a href="https://www.eugene-or.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.eugene-or.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene, OR Website | Official WebsiteThe City of Eugene--a great city for the arts and outdoors. Eugene, Oregon is consistently ranked on...</p></details>
+   Link:<a href="https://www.eugene-or.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.eugene-or.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene, OR Website | Official WebsiteThe City of Eugene--a great city for the arts and outdoors. Eugene, Oregon is consistently ranked on...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>slope argumentsA helpful analysis of some of the causal mechanisms has been given by Volokh. An important factor is that in a group (e.g...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>slope argumentsA helpful analysis of some of the causal mechanisms has been given by Volokh. An important factor is that in a group (e.g...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uclalawreview.org  
-   Link: <a href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rules, Theories, and Slippery Slopesby MJ Rizzo · Cited by 113 — 4 Eugene Volokh has produced a wide- ranging study of various possible s...</p></details>
+   Link:<a href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rules, Theories, and Slippery Slopesby MJ Rizzo · Cited by 113 — 4 Eugene Volokh has produced a wide- ranging study of various possible s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fliphtml5.com  
-   Link: <a href="https://fliphtml5.com/ywqx/ulur/THE_MECHANISMS_OF_THE_SLIPPERY_SLOPE_Eugene_Volokh/44/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/ywqx/ulur/THE_MECHANISMS_OF_THE_SLIPPERY_SLOPE_Eugene_Volokh/44/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MECHANISMS OF THE SLIPPERY SLOPE Eugene VolokhLooking For THE MECHANISMS OF THE SLIPPERY SLOPE Eugene Volokh? Read THE MECHANISMS OF...</p></details>
+   Link:<a href="https://fliphtml5.com/ywqx/ulur/THE_MECHANISMS_OF_THE_SLIPPERY_SLOPE_Eugene_Volokh/44/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/ywqx/ulur/THE_MECHANISMS_OF_THE_SLIPPERY_SLOPE_Eugene_Volokh/44/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE MECHANISMS OF THE SLIPPERY SLOPE Eugene VolokhLooking For THE MECHANISMS OF THE SLIPPERY SLOPE Eugene Volokh? Read THE MECHANISMS OF...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mason.gmu.edu  
-   Link: <a href="https://mason.gmu.edu/~bbrown/courses/2004spring/puad700/SlipperySlope_LegalAffairsMar-Apr03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mason.gmu.edu/~bbrown/courses/2004spring/puad700/SlipperySlope_LegalAffairsMar-Apr03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This essay is adapted from his article &quot;The Mechanisms of the. Slippery Slope,&quot; recently published in the...</p></details>
+   Link:<a href="https://mason.gmu.edu/~bbrown/courses/2004spring/puad700/SlipperySlope_LegalAffairsMar-Apr03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mason.gmu.edu/~bbrown/courses/2004spring/puad700/SlipperySlope_LegalAffairsMar-Apr03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This essay is adapted from his article &quot;The Mechanisms of the. Slippery Slope,&quot; recently published in the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 228189621 The Mechanisms of the Slippery Slope  
-   Link: <a href="https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 2000. Eugene Volokh. Volokh presents four cyberspace speech controversies that involve an interesting modern body of...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 2000. Eugene Volokh. Volokh presents four cyberspace speech controversies that involve an interesting modern body of...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stafforini.com  
    Title: volokh 2003 mechanisms slippery slope  
-   Link: <a href="https://stafforini.com/works/volokh-2003-mechanisms-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://stafforini.com/works/volokh-2003-mechanisms-slippery-slope/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mechanisms of the slippery slopeThe mechanisms of the slippery slope. Eugene Volokh. Harvard Law Review, vol. 116, no. 4, 2003, pp. 1...</p></details>
+   Link:<a href="https://stafforini.com/works/volokh-2003-mechanisms-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://stafforini.com/works/volokh-2003-mechanisms-slippery-slope/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mechanisms of the slippery slopeThe mechanisms of the slippery slope. Eugene Volokh. Harvard Law Review, vol. 116, no. 4, 2003, pp. 1...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: freakonomics.com  
    Title: enough with the slippery slopes  
-   Link: <a href="https://freakonomics.com/podcast/enough-with-the-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://freakonomics.com/podcast/enough-with-the-slippery-slopes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>!7 Jun 2023 — Eugene Volokh, at the University of California, Los Angeles, thinks that rushing to call every slippery-slope argument a fa...</p></details>
+   Link:<a href="https://freakonomics.com/podcast/enough-with-the-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://freakonomics.com/podcast/enough-with-the-slippery-slopes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>!7 Jun 2023 — Eugene Volokh, at the University of California, Los Angeles, thinks that rushing to call every slippery-slope argument a fa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID3138302 code2885242  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comInternet, freedom of speech and slippery slope argumentAbstract: Eugene Volokh, a renowned advocate of protection of [free speech](&amp;#123;&amp;#123; &#x27;free-speech/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comInternet, freedom of speech and slippery slope argumentAbstract: Eugene Volokh, a renowned advocate of protection of [free speech](&amp;#123;&amp;#123; &#x27;free-speech/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Eugene (given name)  
-   Link: <a href="https://en.wikipedia.org/wiki/Eugene_%28given_name%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eugene_%28given_name%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene (given name)Eugene is a common masculine given name that comes from the Greek εὐγενής (eugenēs), &quot;noble&quot;, literally &quot;well-born&quot;...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eugene_%28given_name%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eugene_%28given_name%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene (given name)Eugene is a common masculine given name that comes from the Greek εὐγενής (eugenēs), &quot;noble&quot;, literally &quot;well-born&quot;...</p></details>

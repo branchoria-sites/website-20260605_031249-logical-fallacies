@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_sec
 
 ## Introduction
 
-The debate over privacy and security is often presented as a stark choice: either citizens retain strong privacy protections or governments gain the powers needed to keep people safe. As an example of a [false dilemma]({{ 'false-dilemma/' | relative_url }}), this framing is persuasive because both values matter and because genuine conflicts sometimes arise between them. Yet many policy disputes are not about choosing one value and abandoning the other. They are about designing institutions, rules, and oversight [mechanisms]({{ 'mechanisms/' | relative_url }}) that protect both as far as possible. Legal warrants, independent review bodies, transparency requirements, targeted surveillance authorities, data-minimisation rules, and audits all exist because democratic societies have long recognised that privacy and security need not be treated as mutually exclusive goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlycommons.law.northwestern.edu">[Scholarly Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlycommons.law.northwestern.edu</span><span class="citation-popover-snippet">Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span>
+The debate over privacy and security is often presented as a stark choice: either citizens retain strong privacy protections or governments gain the powers needed to keep people safe. As an example of a [false dilemma]({{ 'false-dilemma/' | relative_url }}), this framing is persuasive because both values matter and because genuine conflicts sometimes arise between them. Yet many policy disputes are not about choosing one value and abandoning the other. They are about designing institutions, rules, and oversight [mechanisms]({{ 'mechanisms/' | relative_url }}) that protect both as far as possible. Legal warrants, independent review bodies, transparency requirements, targeted surveillance authorities, data-minimisation rules, and audits all exist because democratic societies have long recognised that privacy and security need not be treated as mutually exclusive goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlycommons.law.northwestern.edu">[Scholarly Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlycommons.law.northwestern.edu</span><span class="citation-popover-snippet">Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-1-dark.svg" | relative_url }}" alt="Privacy Security illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader topic of [false dilemmas]({{ 'false-dilemma/' | relative_url }}) and missing-middle options, the privacy-versus-security debate is a useful case study because it shows how governance choices can expand the range of available options. The question is often not “privacy or safety?” but “what [safeguards]({{ 'safeguards/' | relative_url }}) allow security measures to operate without granting unlimited power?”
@@ -283,9 +283,9 @@ Within the broader topic of [false dilemmas]({{ 'false-dilemma/' | relative_url 
 
 The privacy-security dilemma gains force from real-world fears. Governments face pressure to prevent terrorism, organised crime, cyberattacks, and other [threats]({{ 'threats/' | relative_url }}). At the same time, citizens worry about surveillance, misuse of personal information, and the chilling effects of excessive monitoring. Because both concerns are legitimate, arguments framed as an urgent choice between them can seem reasonable.
 
-Another reason the binary persists is that some security measures do require access to information that would otherwise remain private. Investigators may need communications records, location data, or financial information. From this observation, however, it does not automatically follow that broad or unchecked access is necessary. The leap from “some access may be needed” to “privacy must be sacrificed” is where the false dilemma often appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span>
+Another reason the binary persists is that some security measures do require access to information that would otherwise remain private. Investigators may need communications records, location data, or financial information. From this observation, however, it does not automatically follow that broad or unchecked access is necessary. The leap from “some access may be needed” to “privacy must be sacrificed” is where the false dilemma often appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span>
 
-Scholars have also noted that privacy and security are frequently treated as if they occupy opposite ends of a single scale. Yet privacy can itself contribute to security. Secure communications, strong authentication systems, and protected personal data help defend individuals, businesses, and governments against criminals and hostile actors. In that sense, privacy protections are sometimes part of a security strategy rather than an obstacle to one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlycommons.law.northwestern.edu">[Scholarly Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlycommons.law.northwestern.edu</span><span class="citation-popover-snippet">Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span>
+Scholars have also noted that privacy and security are frequently treated as if they occupy opposite ends of a single scale. Yet privacy can itself contribute to security. Secure communications, strong authentication systems, and protected personal data help defend individuals, businesses, and governments against criminals and hostile actors. In that sense, privacy protections are sometimes part of a security strategy rather than an obstacle to one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlycommons.law.northwestern.edu">[Scholarly Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlycommons.law.northwestern.edu</span><span class="citation-popover-snippet">Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span>
 
 ## Safeguards as Middle Options
 
@@ -303,30 +303,30 @@ This approach accepts that security agencies sometimes need access to private in
 
 Modern democracies increasingly supplement legal authority with oversight institutions. Parliamentary committees, inspectors general, privacy commissioners, courts, and independent review boards can examine whether surveillance powers are being used lawfully and proportionately.
 
-International discussions about government access to private-sector data have increasingly emphasised principles such as legality, necessity, proportionality, transparency, and effective oversight. These mechanisms are designed specifically to avoid framing security powers as unchecked necessities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crossborderdataforum.org">[Cross-Border Data Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crossborderdataforum.org</span><span class="citation-popover-snippet">The New OECD Principles on Government Access to...11 Jan 2023 — The recent OECD declaration demonstrates the surprising degree of common...</span></span></span>
+International discussions about government access to private-sector data have increasingly emphasised principles such as legality, necessity, proportionality, transparency, and effective oversight. These mechanisms are designed specifically to avoid framing security powers as unchecked necessities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crossborderdataforum.org">[Cross-Border Data Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crossborderdataforum.org</span><span class="citation-popover-snippet">The New OECD Principles on Government Access to...11 Jan 2023 — The recent OECD declaration demonstrates the surprising degree of common...</span></span></span>
 
 ### Audits and Accountability
 
 Auditing creates another middle option. Instead of assuming that authorities will always use powers appropriately, audit systems generate records that can later be reviewed.
 
-Privacy audits can evaluate whether organisations collected excessive data, retained information too long, or failed to implement promised safeguards. In government settings, audit trails can help ensure that surveillance tools are used only for authorised purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.compact.nl/articles/privacy-audits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compact.nl">[Compact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compact.nl</span><span class="citation-popover-snippet">Privacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</span></span></span>
+Privacy audits can evaluate whether organisations collected excessive data, retained information too long, or failed to implement promised safeguards. In government settings, audit trails can help ensure that surveillance tools are used only for authorised purposes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.compact.nl/articles/privacy-audits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compact.nl">[Compact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compact.nl</span><span class="citation-popover-snippet">Privacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-dark.svg" | relative_url }}" alt="Privacy Security illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Data Minimisation and Narrower Collection Rules
 
 A further middle path focuses on limiting what information is gathered in the first place. Rather than collecting all available data in anticipation of future needs, data-minimisation rules restrict collection to information relevant to a specific purpose.
 
-The OECD privacy framework and related international principles have long emphasised limits on collection, use, and retention of personal information. Such measures attempt to preserve investigative capabilities while reducing the risks associated with large-scale accumulation of personal data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afapdp.org">[Afapdp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afapdp.org</span><span class="citation-popover-snippet">and a condition for the free flow of personal...Read more...</span></span></span>
+The OECD privacy framework and related international principles have long emphasised limits on collection, use, and retention of personal information. Such measures attempt to preserve investigative capabilities while reducing the risks associated with large-scale accumulation of personal data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afapdp.org">[Afapdp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afapdp.org</span><span class="citation-popover-snippet">and a condition for the free flow of personal...Read more...</span></span></span>
 
 ## Encryption as a Test Case
 
 Encryption illustrates particularly well why privacy-versus-security arguments often conceal more than they reveal.
 
-Law-enforcement agencies frequently argue that strong encryption can impede investigations because communications may become inaccessible even when authorities possess legal authority to obtain them. Privacy advocates, technologists, and many cybersecurity experts respond that weakening encryption creates vulnerabilities that can be exploited not only by governments but also by criminals, hostile states, and other attackers. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bsa.org">[BSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bsa.org</span><span class="citation-popover-snippet">Encryption and Law Enforcement Access to Data3 Oct 2019 — It would weaken national security by enabling adversaries to exploit encryption...</span></span></span>
+Law-enforcement agencies frequently argue that strong encryption can impede investigations because communications may become inaccessible even when authorities possess legal authority to obtain them. Privacy advocates, technologists, and many cybersecurity experts respond that weakening encryption creates vulnerabilities that can be exploited not only by governments but also by criminals, hostile states, and other attackers. OUP Academic<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bsa.org">[BSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bsa.org</span><span class="citation-popover-snippet">Encryption and Law Enforcement Access to Data3 Oct 2019 — It would weaken national security by enabling adversaries to exploit encryption...</span></span></span>
 
-The debate is therefore not simply about privacy. Strong encryption protects banking systems, healthcare records, government communications, critical infrastructure, and ordinary citizens from cybercrime. Several analyses have concluded that mandated backdoors or key-escrow systems would introduce systemic security risks alongside any investigative benefits. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internetsociety.org">[Internet Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internetsociety.org</span><span class="citation-popover-snippet">Internet SocietyThe Economic Impact of Laws that Weaken Encryption LECAby G Barker · 2021 — should accept security risks of encryption ba...</span></span></span>
+The debate is therefore not simply about privacy. Strong encryption protects banking systems, healthcare records, government communications, critical infrastructure, and ordinary citizens from cybercrime. Several analyses have concluded that mandated backdoors or key-escrow systems would introduce systemic security risks alongside any investigative benefits. OUP Academic<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internetsociety.org">[Internet Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internetsociety.org</span><span class="citation-popover-snippet">Internet SocietyThe Economic Impact of Laws that Weaken Encryption LECAby G Barker · 2021 — should accept security risks of encryption ba...</span></span></span>
 
-This does not mean that investigative challenges disappear. Instead, policymakers have explored alternatives such as targeted device access, improved digital forensics, international cooperation, specialised investigative capabilities, and judicially supervised access procedures. Whether these alternatives are sufficient remains contested, but their existence demonstrates that the policy landscape contains more than two choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">The Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">This stalemate has made it challenging to publicly discuss any potential compromise. Some insiders from government and big-tech companies...</span></span></span>
+This does not mean that investigative challenges disappear. Instead, policymakers have explored alternatives such as targeted device access, improved digital forensics, international cooperation, specialised investigative capabilities, and judicially supervised access procedures. Whether these alternatives are sufficient remains contested, but their existence demonstrates that the policy landscape contains more than two choices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">The Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">This stalemate has made it challenging to publicly discuss any potential compromise. Some insiders from government and big-tech companies...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RRt08MvK4tE" title="Why You&#x27;re Misunderstanding Privacy (and How It Harms You)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RRt08MvK4tE" target="_blank" rel="noopener noreferrer">Why You&#x27;re Misunderstanding Privacy (and How It Harms You)</a></p><p class="youtube-embed-meta">Channel: Privacy Guides &middot; Views: 28.8K &middot; Uploaded: March 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RRt08MvK4tE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RRt08MvK4tE">Open on YouTube</a></p></div></div></div>
 
@@ -336,9 +336,9 @@ Recognising a false dilemma does not require denying that genuine tradeoffs some
 
 There are situations in which broader information access may improve investigative efficiency, just as stronger privacy protections may make some forms of surveillance more difficult. In such cases, the challenge is not to pretend both values can be maximised simultaneously but to determine whether a restriction on privacy is lawful, necessary, proportionate, and subject to safeguards.
 
-Debates surrounding intelligence collection programmes often revolve around precisely these questions. Disagreements may concern how much oversight is sufficient, whether [warrants]({{ 'warrants/' | relative_url }}) should be required, how incidental collection should be handled, or how long information should be retained. The existence of these disputes does not prove that privacy and security are mutually exclusive. Instead, it shows that balancing them requires continuous institutional design and democratic accountability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">national security agencies to conduct warrantless surveillance of foreign communications that may incidentally collect data from American...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interface-eu.org">[Interface]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interface-eu.org</span><span class="citation-popover-snippet">An International Compendium of Good Legal Safeguards and Oversight Innovations. By Thorsten Wetzling and Kilian Vieth...</span></span></span>
+Debates surrounding intelligence collection programmes often revolve around precisely these questions. Disagreements may concern how much oversight is sufficient, whether [warrants]({{ 'warrants/' | relative_url }}) should be required, how incidental collection should be handled, or how long information should be retained. The existence of these disputes does not prove that privacy and security are mutually exclusive. Instead, it shows that balancing them requires continuous institutional design and democratic accountability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">national security agencies to conduct warrantless surveillance of foreign communications that may incidentally collect data from American...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interface-eu.org">[Interface]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interface-eu.org</span><span class="citation-popover-snippet">An International Compendium of Good Legal Safeguards and Oversight Innovations. By Thorsten Wetzling and Kilian Vieth...</span></span></span>
 
-A useful warning sign is language suggesting that one value must be abandoned entirely to preserve the other. Claims that privacy is an absolute barrier to safety, or that every security measure inevitably destroys liberty, usually oversimplify the available choices. Real policy debates tend to involve degrees, conditions, safeguards, and oversight rather than absolute positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Privacy vs</span><span class="citation-popover-snippet">Privacy vs. Security: It&#x27;s a False Dilemma6 Oct 2019 — Congress is the proper body to balance these risks—to reconcile individual privacy...</span></span></span>
+A useful warning sign is language suggesting that one value must be abandoned entirely to preserve the other. Claims that privacy is an absolute barrier to safety, or that every security measure inevitably destroys liberty, usually oversimplify the available choices. Real policy debates tend to involve degrees, conditions, safeguards, and oversight rather than absolute positions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Privacy vs</span><span class="citation-popover-snippet">Privacy vs. Security: It&#x27;s a False Dilemma6 Oct 2019 — Congress is the proper body to balance these risks—to reconcile individual privacy...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-dark.svg" | relative_url }}" alt="Privacy Security illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Reveals About False Dilemmas
@@ -350,269 +350,269 @@ As a result, the key question is rarely whether privacy or security should win. 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CkX3i0seYnM" title="Balancing Privacy and Security in the Age of the Internet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CkX3i0seYnM" target="_blank" rel="noopener noreferrer">Balancing Privacy and Security in the Age of the Internet</a></p><p class="youtube-embed-meta">Channel: Hudson Institute &middot; Views: 330 &middot; Uploaded: May 2016 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CkX3i0seYnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CkX3i0seYnM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do We Have to Choose Privacy or Safety?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do We Have to Choose Privacy or Safety?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why fear and risk perceptions can narrow choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why fear and risk perceptions can narrow choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Freedom%3A+Illiberal+Democracy+at+Home+and+Abroad+%28Revised+Edition%29+by+Fareed+Zakaria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Freedom: Illiberal Democracy at Home and Abroad (Revised Edition) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sp7yxJCkc-0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Future of Freedom: Illiberal Democracy at Home and Abroad (Revised Edition)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Freedom%3A+Illiberal+Democracy+at+Home+and+Abroad+%28Revised+Edition%29+by+Fareed+Zakaria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Freedom: Illiberal Democracy at Home and Abroad (Revised Edition)">The Future of Freedom: Illiberal Democracy at Home and Abroad...</a>
-        </h4>
-        <p class="fr-book-author">By Fareed Zakaria</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Freedom%3A+Illiberal+Democracy+at+Home+and+Abroad+%28Revised+Edition%29+by+Fareed+Zakaria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Freedom: Illiberal Democracy at Home and Abroad (Revised Edition) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sp7yxJCkc-0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Future of Freedom: Illiberal Democracy at Home and Abroad (Revised Edition)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+Freedom%3A+Illiberal+Democracy+at+Home+and+Abroad+%28Revised+Edition%29+by+Fareed+Zakaria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Freedom: Illiberal Democracy at Home and Abroad (Revised Edition)">The Future of Freedom: Illiberal Democracy at Home and Abroad...</a>
+</h4>
+<p class="fr-book-author">By Fareed Zakaria</p>
         
-        <p class="fr-book-desc">Explores balancing liberty, governance, and security concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Freedom%3A+Illiberal+Democracy+at+Home+and+Abroad+%28Revised+Edition%29+by+Fareed+Zakaria&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores balancing liberty, governance, and security concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+Freedom%3A+Illiberal+Democracy+at+Home+and+Abroad+%28Revised+Edition%29+by+Fareed+Zakaria&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Helps readers avoid binary thinking in policy debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers avoid binary thinking in policy debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based evaluation of public claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based evaluation of public claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Freedom%3A+Illiberal+Democracy+at+Home+and+Abroad+%28Revised+Edition%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Freedom: Illiberal Democracy at Home and Abroad (Revised Edition)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Freedom%3A+Illiberal+Democracy+at+Home+and+Abroad+%28Revised+Edition%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Freedom: Illiberal Democracy at Home and Abroad (Revised Edition)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/afd1854bdddcb175a25e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/afd1854bdddcb175a25e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1cb703d87663d99f96e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1cb703d87663d99f96e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1b5a859231102f0df50c.jpg' | relative_url }}" alt="Listing image for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1b5a859231102f0df50c.jpg' | relative_url }}" alt="Listing image for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-security-do-we-have-to-choose-privacy-or-safety-logical-fallacies-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ As a result, the key question is rarely whether privacy or security should win. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ As a result, the key question is rarely whether privacy or security should win. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ As a result, the key question is rarely whether privacy or security should win. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ As a result, the key question is rarely whether privacy or security should win. 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -768,143 +768,143 @@ As a result, the key question is rarely whether privacy or security should win. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: legalinstruments.oecd.org  
    Title: OECD LEGAL 0487  
-   Link: <a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</p></details>
+   Link:<a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: legalinstruments.oecd.org  
-   Link: <a href="https://legalinstruments.oecd.org/en/instruments/114" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/114</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsGuidelines Governing the Protection of Privacy and...The OECD Privacy Guidelines are the cornerstone of this work...</p></details>
+   Link:<a href="https://legalinstruments.oecd.org/en/instruments/114" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/114</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsGuidelines Governing the Protection of Privacy and...The OECD Privacy Guidelines are the cornerstone of this work...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: verfassungsblog.de  
-   Link: <a href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/os6-privacy-vs-security/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</p></details>
+   Link:<a href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/os6-privacy-vs-security/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</p></details>
    Published: April 21, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/policy-issues/privacy-and-data-protection.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/privacy-and-data-protection.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy and data protectionProtecting people&#x27;s privacy ensures their safety, dignity, and other fundamental rights and freedoms such as f...</p></details>
+   Link:<a href="https://www.oecd.org/en/topics/policy-issues/privacy-and-data-protection.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/privacy-and-data-protection.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy and data protectionProtecting people&#x27;s privacy ensures their safety, dignity, and other fundamental rights and freedoms such as f...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: compact.nl  
-   Link: <a href="https://www.compact.nl/articles/privacy-audits/" target="_blank" rel="noopener noreferrer nofollow">https://www.compact.nl/articles/privacy-audits/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</p></details>
+   Link:<a href="https://www.compact.nl/articles/privacy-audits/" target="_blank" rel="noopener noreferrer nofollow">https://www.compact.nl/articles/privacy-audits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: afapdp.org  
-   Link: <a href="https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and a condition for the free flow of personal...Read more...</p></details>
+   Link:<a href="https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and a condition for the free flow of personal...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/cybersecurity/article/1/1/69/2367066" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/cybersecurity/article/1/1/69/2367066</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicKeys under doormats: mandating insecurity by requiring...by H Abelson · 2015 · Cited by 361 — Many of us came together then...</p></details>
+   Link:<a href="https://academic.oup.com/cybersecurity/article/1/1/69/2367066" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/cybersecurity/article/1/1/69/2367066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicKeys under doormats: mandating insecurity by requiring...by H Abelson · 2015 · Cited by 361 — Many of us came together then...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bsa.org  
-   Link: <a href="https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encryption and Law Enforcement Access to Data3 Oct 2019 — It would weaken national security by enabling adversaries to exploit encryption...</p></details>
+   Link:<a href="https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encryption and Law Enforcement Access to Data3 Oct 2019 — It would weaken national security by enabling adversaries to exploit encryption...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: csis.org  
-   Link: <a href="https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</p></details>
+   Link:<a href="https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This stalemate has made it challenging to publicly discuss any potential compromise. Some insiders from government and big-tech companies...</p></details>
+   Link:<a href="https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This stalemate has made it challenging to publicly discuss any potential compromise. Some insiders from government and big-tech companies...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scholarlycommons.law.northwestern.edu  
-   Link: <a href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</p></details>
+   Link:<a href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: crossborderdataforum.org  
-   Link: <a href="https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/" target="_blank" rel="noopener noreferrer nofollow">https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New OECD Principles on Government Access to...11 Jan 2023 — The recent OECD declaration demonstrates the surprising degree of common...</p></details>
+   Link:<a href="https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/" target="_blank" rel="noopener noreferrer nofollow">https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New OECD Principles on Government Access to...11 Jan 2023 — The recent OECD declaration demonstrates the surprising degree of common...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: internetsociety.org  
-   Link: <a href="https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet SocietyThe Economic Impact of Laws that Weaken Encryption LECAby G Barker · 2021 — should accept security risks of encryption ba...</p></details>
+   Link:<a href="https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet SocietyThe Economic Impact of Laws that Weaken Encryption LECAby G Barker · 2021 — should accept security risks of encryption ba...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>national security agencies to conduct warrantless surveillance of foreign communications that may incidentally collect data from American...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>national security agencies to conduct warrantless surveillance of foreign communications that may incidentally collect data from American...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: interface-eu.org  
-   Link: <a href="https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An International Compendium of Good Legal Safeguards and Oversight Innovations. By Thorsten Wetzling and Kilian Vieth...</p></details>
+   Link:<a href="https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An International Compendium of Good Legal Safeguards and Oversight Innovations. By Thorsten Wetzling and Kilian Vieth...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Privacy vs  
-   Link: <a href="https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy vs. Security: It&#x27;s a False Dilemma6 Oct 2019 — Congress is the proper body to balance these risks—to reconcile individual privacy...</p></details>
+   Link:<a href="https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy vs. Security: It&#x27;s a False Dilemma6 Oct 2019 — Congress is the proper body to balance these risks—to reconcile individual privacy...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/national</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to all parts of a nation or to a nation as a whole rather than to any part of it...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/national</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to all parts of a nation or to a nation as a whole rather than to any part of it...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389986954_Balancing_Surveillance_and_Privacy_Legal_Frameworks_Governing_Technology_in_the_Digital_Age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389986954_Balancing_Surveillance_and_Privacy_Legal_Frameworks_Governing_Technology_in_the_Digital_Age</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Frameworks Governing Technology in the Digital Age19 Mar 2025 — The study highlights the tension between national security objectiv...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389986954_Balancing_Surveillance_and_Privacy_Legal_Frameworks_Governing_Technology_in_the_Digital_Age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389986954_Balancing_Surveillance_and_Privacy_Legal_Frameworks_Governing_Technology_in_the_Digital_Age</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Frameworks Governing Technology in the Digital Age19 Mar 2025 — The study highlights the tension between national security objectiv...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: raeng.org.uk  
-   Link: <a href="https://raeng.org.uk/media/2hwab54p/dilemmas_of_privacy_and_surveillance_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raeng.org.uk/media/2hwab54p/dilemmas_of_privacy_and_surveillance_report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dilemmas of Privacy and SurveillanceThe laws protecting privacy need to be clarified in order to be more effective. As well as making the...</p></details>
+   Link:<a href="https://raeng.org.uk/media/2hwab54p/dilemmas_of_privacy_and_surveillance_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raeng.org.uk/media/2hwab54p/dilemmas_of_privacy_and_surveillance_report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dilemmas of Privacy and SurveillanceThe laws protecting privacy need to be clarified in order to be more effective. As well as making the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/national" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/national</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL Definition &amp; Meaning5 days ago — 1. of or relating to a nation; national [boundaries](&amp;#123;&amp;#123; &#x27;boundaries/&#x27; | relative_url &amp;#125;&amp;#125;); the national flag. 2. nationalist. 3. compr...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/national" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/national</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL Definition &amp; Meaning5 days ago — 1. of or relating to a nation; national [boundaries](&amp;#123;&amp;#123; &#x27;boundaries/&#x27; | relative_url &amp;#125;&amp;#125;); the national flag. 2. nationalist. 3. compr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/privacy-versus-security-users-choice" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/privacy-versus-security-users-choice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2022, the idea that privacy must be sacrificed for security will be debunked, revealing the true extent of privacy intrusions by &quot;free...</p></details>
+   Link:<a href="https://www.wired.com/story/privacy-versus-security-users-choice" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/privacy-versus-security-users-choice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2022, the idea that privacy must be sacrificed for security will be debunked, revealing the true extent of privacy intrusions by &quot;free...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dserver.bundestag.de  
-   Link: <a href="https://dserver.bundestag.de/btd/18/CD12850/D_II_Sachverstaendigengutachten/14%20Gutachten%20Aldrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dserver.bundestag.de/btd/18/CD12850/D_II_Sachverstaendigengutachten/14%20Gutachten%20Aldrich.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK intelligence Community before and after Snowden3.The protection of privacy and civil liberties in the UK. 4. This needs to be consider...</p></details>
+   Link:<a href="https://dserver.bundestag.de/btd/18/CD12850/D_II_Sachverstaendigengutachten/14%20Gutachten%20Aldrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dserver.bundestag.de/btd/18/CD12850/D_II_Sachverstaendigengutachten/14%20Gutachten%20Aldrich.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK intelligence Community before and after Snowden3.The protection of privacy and civil liberties in the UK. 4. This needs to be consider...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationaljournal.com  
-   Link: <a href="https://www.nationaljournal.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaljournal.com/</a>  
+   Link:<a href="https://www.nationaljournal.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaljournal.com/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thirdway.org  
-   Link: <a href="https://www.thirdway.org/report/weakened-encryption-the-threat-to-americas-national-security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thirdway.org/report/weakened-encryption-the-threat-to-americas-national-security.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weakened Encryption: The Threat to America&#x27;s National...by M Eoyang · Cited by 5 — If backdoors were introduced into encrypted systems...</p></details>
+   Link:<a href="https://www.thirdway.org/report/weakened-encryption-the-threat-to-americas-national-security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thirdway.org/report/weakened-encryption-the-threat-to-americas-national-security.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weakened Encryption: The Threat to America&#x27;s National...by M Eoyang · Cited by 5 — If backdoors were introduced into encrypted systems...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: insideprivacy.com  
    Title: revised oecd privacy guidelines strengthen accountability principle  
-   Link: <a href="https://www.insideprivacy.com/international/revised-oecd-privacy-guidelines-strengthen-accountability-principle/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideprivacy.com/international/revised-oecd-privacy-guidelines-strengthen-accountability-principle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revised OECD Privacy Guidelines Strengthen...23 Sept 2013 — The revised Guidelines introduce a number of new concepts and changes to the...</p></details>
+   Link:<a href="https://www.insideprivacy.com/international/revised-oecd-privacy-guidelines-strengthen-accountability-principle/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideprivacy.com/international/revised-oecd-privacy-guidelines-strengthen-accountability-principle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revised OECD Privacy Guidelines Strengthen...23 Sept 2013 — The revised Guidelines introduce a number of new concepts and changes to the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: kas.de  
    Title: privacy and security a comparative constitutional law conversation  
-   Link: <a href="https://www.kas.de/en/web/usa/single-title/-/content/privacy-and-security-a-comparative-constitutional-law-conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.kas.de/en/web/usa/single-title/-/content/privacy-and-security-a-comparative-constitutional-law-conversation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Konrad Adenauer StiftungPrivacy and Security: A Comparative Constitutional Law...26 Jun 2015 — On both sides of the Atlantic, debate ove...</p></details>
+   Link:<a href="https://www.kas.de/en/web/usa/single-title/-/content/privacy-and-security-a-comparative-constitutional-law-conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.kas.de/en/web/usa/single-title/-/content/privacy-and-security-a-comparative-constitutional-law-conversation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Konrad Adenauer StiftungPrivacy and Security: A Comparative Constitutional Law...26 Jun 2015 — On both sides of the Atlantic, debate ove...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalThe Official YouTube Page for the band The National. More The National - Rome (Full Album Fan Video) Rome - The Live Album...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalThe Official YouTube Page for the band The National. More The National - Rome (Full Album Fan Video) Rome - The Live Album...</p></details>

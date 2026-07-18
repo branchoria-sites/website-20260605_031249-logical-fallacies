@@ -283,7 +283,7 @@ Denying the antecedent is a formal fallacy that occurs when someone assumes that
 
 *Therefore, not Q.*
 
-The reasoning fails because the original statement identifies a sufficient condition, not necessarily the only way the outcome can occur. In practice, the fallacy often appears as a failure to consider other causes, routes, or explanations. A person hears one possible explanation for an event, rules it out, and then wrongly concludes that the event itself could not have happened. Logic texts consistently classify this pattern as an invalid argument form because the conclusion does not follow from the premises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</span></span></span> OpenStax This mistake matters far beyond classroom logic. It appears in troubleshooting <span class="citation-link-wrap"><a class="citation-inline-link" href="https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openstax.org">[openstax.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openstax.org</span><span class="citation-popover-title">Open Stax5.4 Types of Inferences</span><span class="citation-popover-snippet">5.4 Types of Inferences - Introduction to Philosophy15 Jun 2022 — Here are two common invalid inference forms: Affirming the Consequent...</span></span></span>, scientific reasoning, policy debates, legal arguments, and everyday decision-making whenever one possible cause is treated as the only possible cause.
+The reasoning fails because the original statement identifies a sufficient condition, not necessarily the only way the outcome can occur. In practice, the fallacy often appears as a failure to consider other causes, routes, or explanations. A person hears one possible explanation for an event, rules it out, and then wrongly concludes that the event itself could not have happened. Logic texts consistently classify this pattern as an invalid argument form because the conclusion does not follow from the premises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</span></span></span> OpenStax This mistake matters far beyond classroom logic. It appears in troubleshooting<span class="citation-link-wrap"><a class="citation-inline-link" href="https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openstax.org">[openstax.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openstax.org</span><span class="citation-popover-title">Open Stax5.4 Types of Inferences</span><span class="citation-popover-snippet">5.4 Types of Inferences - Introduction to Philosophy15 Jun 2022 — Here are two common invalid inference forms: Affirming the Consequent...</span></span></span>, scientific reasoning, policy debates, legal arguments, and everyday decision-making whenever one possible cause is treated as the only possible cause.
 
 ## Why One-Way Conditionals Are Not Guarantees
 
@@ -299,9 +299,9 @@ The fallacy arises when someone reasons:
 
 *Therefore, the pavement is not wet.*
 
-The conclusion excludes possibilities that were never ruled out by the premises. Logic references describe denying the antecedent precisely as the mistake of treating the absence of the antecedent as sufficient reason to reject the consequent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Denying the AntecedentThe arguer has committed a formal fallacy, and the argument is invalid because the truth of the premises does not g...</span></span></span>
+The conclusion excludes possibilities that were never ruled out by the premises. Logic references describe denying the antecedent precisely as the mistake of treating the absence of the antecedent as sufficient reason to reject the consequent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Denying the AntecedentThe arguer has committed a formal fallacy, and the argument is invalid because the truth of the premises does not g...</span></span></span>
 
-A useful way to think about the issue is the distinction between **sufficient** and **necessary** conditions. A sufficient condition guarantees an outcome when present, but the outcome may still occur through other [mechanisms]({{ 'mechanisms/' | relative_url }}). Only a necessary condition would allow us to infer that the outcome cannot occur when the condition is absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Denying the antecedent</span><span class="citation-popover-snippet">Denying the antecedent</span></span></span>
+A useful way to think about the issue is the distinction between **sufficient** and **necessary** conditions. A sufficient condition guarantees an outcome when present, but the outcome may still occur through other [mechanisms]({{ 'mechanisms/' | relative_url }}). Only a necessary condition would allow us to infer that the outcome cannot occur when the condition is absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Denying the antecedent</span><span class="citation-popover-snippet">Denying the antecedent</span></span></span>
 
 ### Why the Pattern Feels Persuasive
 
@@ -382,7 +382,7 @@ Even if prices did not recently increase, pricing relative to competitors, chang
 
 ## The Mechanism: Missing Other Causes
 
-The phrase “missing other causes” captures the practical heart of denying the antecedent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Denying the antecedent</span><span class="citation-popover-snippet">Denying the antecedent</span></span></span>
+The phrase “missing other causes” captures the practical heart of denying the antecedent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Denying the antecedent</span><span class="citation-popover-snippet">Denying the antecedent</span></span></span>
 
 Formally, the fallacy concerns conditional logic. Operationally, it is often a failure of causal imagination. Someone identifies one pathway to an outcome and treats it as exhaustive.
 
@@ -403,11 +403,11 @@ This pattern creates blind spots because the argument prematurely closes investi
 
 In everyday reasoning, people often prefer a single explanation because it reduces uncertainty. Yet many real systems—technical, social, biological, and economic—are characterised by multiple interacting causes. A conclusion becomes unreliable when it depends on ignoring those alternatives.
 
-Research in reasoning and logic education notes that people frequently draw invalid conditional inferences in ordinary thinking even though those inferences are not deductively valid. Human reasoning often fills gaps with background assumptions that are not explicitly stated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">Human Conditional Reasoning in Answer Set ProgrammingNovember 8, 2023...</span><span class="citation-popover-meta">Published: November 8, 2023</span></span></span>
+Research in reasoning and logic education notes that people frequently draw invalid conditional inferences in ordinary thinking even though those inferences are not deductively valid. Human reasoning often fills gaps with background assumptions that are not explicitly stated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">Human Conditional Reasoning in Answer Set ProgrammingNovember 8, 2023...</span><span class="citation-popover-meta">Published: November 8, 2023</span></span></span>
 
 ## Denying the Antecedent Versus Valid Reasoning
 
-The fallacy is frequently confused with a valid argument form called *modus tollens*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Modus tollens</span><span class="citation-popover-snippet">Modus tollens</span></span></span>
+The fallacy is frequently confused with a valid argument form called *modus tollens*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Modus tollens</span><span class="citation-popover-snippet">Modus tollens</span></span></span>
 
 Valid reasoning:
 
@@ -417,7 +417,7 @@ Valid reasoning:
 
 *Therefore, not P.*
 
-Example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">denying the antecedent</span><span class="citation-popover-snippet">Examples &amp; Definition22 Jul 2024 — Denying the antecedent is the fallacy of assuming that if the initial condition (P) is not met, the ex...</span></span></span>
+Example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">denying the antecedent</span><span class="citation-popover-snippet">Examples &amp; Definition22 Jul 2024 — Denying the antecedent is the fallacy of assuming that if the initial condition (P) is not met, the ex...</span></span></span>
 
 *If the server is online, users can reach the website.*
 
@@ -425,7 +425,7 @@ Example: <span class="citation-chip-wrap"><a class="citation-chip" href="https:/
 
 *Therefore, the server is not online.*
 
-Whether the premises are factually true is a separate question, but the logical structure is valid. Modus tollens works because it denies the consequent, not the antecedent. Logic texts routinely contrast this valid form with denying the antecedent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Necessity_and_sufficiency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Necessity and sufficiency</span><span class="citation-popover-snippet">May 1, 2026 — Example 1: &quot;John is a king&quot; implies that John is male. · Example 2: A number&#x27;s being divisible by 4 is sufficient (but not...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+Whether the premises are factually true is a separate question, but the logical structure is valid. Modus tollens works because it denies the consequent, not the antecedent. Logic texts routinely contrast this valid form with denying the antecedent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Necessity_and_sufficiency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Necessity and sufficiency</span><span class="citation-popover-snippet">May 1, 2026 — Example 1: &quot;John is a king&quot; implies that John is male. · Example 2: A number&#x27;s being divisible by 4 is sufficient (but not...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 By contrast:
 
@@ -468,197 +468,197 @@ Denying the antecedent is more than a technical mistake in symbolic logic. It en
 
 In investigations, this can stop useful inquiry. In troubleshooting, it can delay finding the real fault. In public debates, it can create false either-or choices. The common thread is the same: one sufficient condition is mistaken for the only possible path.
 
-The safest corrective is to remember that an “if–then” statement usually identifies a route to an outcome, not the entire map. When one route is blocked, the outcome may still arrive by another road. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</span></span></span>
+The safest corrective is to remember that an “if–then” statement usually identifies a route to an outcome, not the entire map. When one route is blocked, the outcome may still arrive by another road.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Fallacy That Rules Out Too Much. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Fallacy That Rules Out Too Much. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Patrick J. Hurley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Patrick J. Hurley</p>
         
-        <p class="fr-book-desc">Directly covers denying the antecedent and conditional logic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers denying the antecedent and conditional logic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jDOoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Logic">Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Irving M. Copi, Carl Cohen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jDOoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Logic">Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Irving M. Copi, Carl Cohen et al.</p>
         
-        <p class="fr-book-desc">Explains why negating a condition does not negate all outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why negating a condition does not negate all outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Strengthens understanding of valid inference patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strengthens understanding of valid inference patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Uses practical examples of alternative causes and explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Uses practical examples of alternative causes and explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019"><img src="https://i.ebayimg.com/images/g/dZkAAOSwaNRc0NyW/s-l225.jpg" alt="Listing image for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019"><img src="https://i.ebayimg.com/images/g/dZkAAOSwaNRc0NyW/s-l225.jpg" alt="Listing image for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2aMAAeSwQYlp1Tf6/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2aMAAeSwQYlp1Tf6/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -674,7 +674,7 @@ The safest corrective is to remember that an “if–then” statement usually i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -694,7 +694,7 @@ The safest corrective is to remember that an “if–then” statement usually i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -726,7 +726,7 @@ The safest corrective is to remember that an “if–then” statement usually i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -778,7 +778,7 @@ The safest corrective is to remember that an “if–then” statement usually i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -823,7 +823,7 @@ The safest corrective is to remember that an “if–then” statement usually i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -864,160 +864,160 @@ The safest corrective is to remember that an “if–then” statement usually i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: openstax.org  
    Title: Open Stax5.4 Types of Inferences  
-   Link: <a href="https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5.4 Types of Inferences - Introduction to Philosophy15 Jun 2022 — Here are two common invalid inference forms: Affirming the Consequent...</p></details>
+   Link:<a href="https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5.4 Types of Inferences - Introduction to Philosophy15 Jun 2022 — Here are two common invalid inference forms: Affirming the Consequent...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Denying the antecedent  
-   Link: <a href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denying_the_antecedent</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denying_the_antecedent</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Necessity and sufficiency  
-   Link: <a href="https://en.wikipedia.org/wiki/Necessity_and_sufficiency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Necessity_and_sufficiency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2026 — Example 1: &quot;John is a king&quot; implies that John is male. · Example 2: A number&#x27;s being divisible by 4 is sufficient (but not...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Necessity_and_sufficiency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Necessity_and_sufficiency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2026 — Example 1: &quot;John is a king&quot; implies that John is male. · Example 2: A number&#x27;s being divisible by 4 is sufficient (but not...</p></details>
    Published: May 1, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Modus tollens  
-   Link: <a href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Modus_tollens</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Modus_tollens</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Human Conditional Reasoning in Answer Set Programming  
-   Link: <a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Conditional Reasoning in Answer Set ProgrammingNovember 8, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Conditional Reasoning in Answer Set ProgrammingNovember 8, 2023...</p></details>
    Published: November 8, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: openstax.org  
    Title: 7.4 Critical Thinking  
-   Link: <a href="https://openstax.org/books/college-success/pages/7-4-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/college-success/pages/7-4-critical-thinking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>College Success27 Mar 2020 — One component to keep in mind to guide your critical thinking is to determine the situation. What problem ar...</p></details>
+   Link:<a href="https://openstax.org/books/college-success/pages/7-4-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/college-success/pages/7-4-critical-thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>College Success27 Mar 2020 — One component to keep in mind to guide your critical thinking is to determine the situation. What problem ar...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: openstax.org  
    Title: 2.7 Logical Arguments  
-   Link: <a href="https://openstax.org/books/contemporary-mathematics/pages/2-7-logical-arguments" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-7-logical-arguments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Contemporary Mathematics22 Mar 2023 — The conditional statement can also be described as, “If antecedent, then consequent.”This is where...</p></details>
+   Link:<a href="https://openstax.org/books/contemporary-mathematics/pages/2-7-logical-arguments" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-7-logical-arguments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contemporary Mathematics22 Mar 2023 — The conditional statement can also be described as, “If antecedent, then consequent.”This is where...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: openstax.org  
    Title: Ch. 2 Key Concepts  
-   Link: <a href="https://openstax.org/books/contemporary-mathematics/pages/2-key-concepts" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-key-concepts</a>  
+   Link:<a href="https://openstax.org/books/contemporary-mathematics/pages/2-key-concepts" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-key-concepts</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: openstax.org  
    Title: 5.5 Informal Fallacies  
-   Link: <a href="https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Philosophy15 Jun 2022 — In fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), the arguer presents evidence that is not relevant for logically establ...</p></details>
+   Link:<a href="https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Philosophy15 Jun 2022 — In fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), the arguer presents evidence that is not relevant for logically establ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: openstax.org  
    Title: If Giacomo works with Faheem, then Faheem is not a software engineer.Read more  
-   Link: <a href="https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional</a>  
+   Link:<a href="https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: openstax.org  
    Title: 2.5 Equivalent Statements  
-   Link: <a href="https://openstax.org/books/contemporary-mathematics/pages/2-5-equivalent-statements" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-5-equivalent-statements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contemporary MathematicsMar 22, 2023 — The inverse has the form, “if ~ p ~ p, then ~ q ~ q,” so the inverse is: &quot;If Harry is not a wiza...</p></details>
+   Link:<a href="https://openstax.org/books/contemporary-mathematics/pages/2-5-equivalent-statements" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-5-equivalent-statements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contemporary MathematicsMar 22, 2023 — The inverse has the form, “if ~ p ~ p, then ~ q ~ q,” so the inverse is: &quot;If Harry is not a wiza...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the consequentA related fallacy is denying the antecedent. Two related valid forms of logical argument include modus tollens...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the consequentA related fallacy is denying the antecedent. Two related valid forms of logical argument include modus tollens...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the AntecedentThe arguer has committed a formal fallacy, and the argument is invalid because the truth of the premises does not g...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the AntecedentThe arguer has committed a formal fallacy, and the argument is invalid because the truth of the premises does not g...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: quillbot.com  
    Title: denying the antecedent  
-   Link: <a href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/denying-the-antecedent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition22 Jul 2024 — Denying the antecedent is the fallacy of assuming that if the initial condition (P) is not met, the ex...</p></details>
+   Link:<a href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/denying-the-antecedent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition22 Jul 2024 — Denying the antecedent is the fallacy of assuming that if the initial condition (P) is not met, the ex...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.ed.ac.uk  
-   Link: <a href="https://www.research.ed.ac.uk/files/28378747/Duarte_DAlmeida_MacDonald_2016_IL_denying_the_antecedent.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/28378747/Duarte_DAlmeida_MacDonald_2016_IL_denying_the_antecedent.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the antecedent - Edinburgh Research Explorerby LD D&#x27;Almeida · 2016 · Cited by 3 — Abstract: In this paper we examine two challenges to th...</p></details>
+   Link:<a href="https://www.research.ed.ac.uk/files/28378747/Duarte_DAlmeida_MacDonald_2016_IL_denying_the_antecedent.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/28378747/Duarte_DAlmeida_MacDonald_2016_IL_denying_the_antecedent.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the antecedent - Edinburgh Research Explorerby LD D&#x27;Almeida · 2016 · Cited by 3 — Abstract: In this paper we examine two challenges to th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: informallogic.ca  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4469/3777" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4469/3777</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the Antecedent - Informal Logicby LD d’Almeida · 2016 · Cited by 3 — Abstract: In this paper we examine two challenges to the ort...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/4469/3777" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4469/3777</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the Antecedent - Informal Logicby LD d’Almeida · 2016 · Cited by 3 — Abstract: In this paper we examine two challenges to the ort...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: afterall.net  
-   Link: <a href="https://afterall.net/illogic/non-sequitur/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/non-sequitur/denying-the-antecedent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the Antecedent | Illogic at Afterall.netJan 1, 2026 — Any argument of the following form is invalid: (1) If A then B (2) Not A (3...</p></details>
+   Link:<a href="https://afterall.net/illogic/non-sequitur/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/non-sequitur/denying-the-antecedent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the Antecedent | Illogic at Afterall.netJan 1, 2026 — Any argument of the following form is invalid: (1) If A then B (2) Not A (3...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fiveable.me  
    Title: Denying the Antecedent  
-   Link: <a href="https://fiveable.me/formal-logic-ii/key-terms/denying-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/formal-logic-ii/key-terms/denying-the-antecedent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Formal Logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) IIDenying the antecedent is a formal fallacy that occurs when one assumes that if the antecedent of a conditional statement...</p></details>
+   Link:<a href="https://fiveable.me/formal-logic-ii/key-terms/denying-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/formal-logic-ii/key-terms/denying-the-antecedent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Formal Logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) IIDenying the antecedent is a formal fallacy that occurs when one assumes that if the antecedent of a conditional statement...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/denial-of-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/denial-of-the-antecedent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denial of the antecedent | logicAmong the best known are denying the antecedent (“If A, then B; not-A; therefore, not-B”) and affirming t...</p></details>
+   Link:<a href="https://www.britannica.com/topic/denial-of-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/denial-of-the-antecedent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denial of the antecedent | logicAmong the best known are denying the antecedent (“If A, then B; not-A; therefore, not-B”) and affirming t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: homeworkforyou.com  
-   Link: <a href="https://www.homeworkforyou.com/static_media/uploadedfiles/1733569814_39407__391..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.homeworkforyou.com/static_media/uploadedfiles/1733569814_39407__391..pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying The Antecedent FallacyIt is essential to know this fallacy to grasp the root of such wrong conclusions; misleading causal inferen...</p></details>
+   Link:<a href="https://www.homeworkforyou.com/static_media/uploadedfiles/1733569814_39407__391..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.homeworkforyou.com/static_media/uploadedfiles/1733569814_39407__391..pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denying The Antecedent FallacyIt is essential to know this fallacy to grasp the root of such wrong conclusions; misleading causal inferen...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: philosophicalsociety.com  
-   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesA fallacy is an invalid form of argument, an instance of incorrect reasoning. Below is a list of common fallacies.Read more...</p></details>
+   Link:<a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesA fallacy is an invalid form of argument, an instance of incorrect reasoning. Below is a list of common fallacies.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: diales.com  
-   Link: <a href="https://www.diales.com/fr/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.diales.com/fr/news/the-fallacy-of-affirming-the-consequent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of affirming the consequentThe &#x27;affirming the consequent&#x27; fallacy can occur within expert testimony when a subject matter exp...</p></details>
+   Link:<a href="https://www.diales.com/fr/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.diales.com/fr/news/the-fallacy-of-affirming-the-consequent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of affirming the consequentThe &#x27;affirming the consequent&#x27; fallacy can occur within expert testimony when a subject matter exp...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: oercollective.caul.edu.au  
-   Link: <a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/basic-structural-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/basic-structural-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>structural fallacies – How to Think CriticallyThis section looks at three common structural fallacies: The fallacy of affirming the conse...</p></details>
+   Link:<a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/basic-structural-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/basic-structural-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structural fallacies – How to Think CriticallyThis section looks at three common structural fallacies: The fallacy of affirming the conse...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=h83bzYAfgrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h83bzYAfgrM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrapositive of a Conditional StatementThe contrapositive of &quot;p implies q&quot; is &quot;not q implies not p&quot;. It looks quite different, but in f...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h83bzYAfgrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h83bzYAfgrM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contrapositive of a Conditional StatementThe contrapositive of &quot;p implies q&quot; is &quot;not q implies not p&quot;. It looks quite different, but in f...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: study.com  
-   Link: <a href="https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html</a>  
+   Link:<a href="https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/x8qa2z/i_do_not_understand_logic_and_arguments_modus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/x8qa2z/i_do_not_understand_logic_and_arguments_modus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng the Consequent (invalid!): if P, then Q. Q. Therefore, P.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/x8qa2z/i_do_not_understand_logic_and_arguments_modus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/x8qa2z/i_do_not_understand_logic_and_arguments_modus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng the Consequent (invalid!): if P, then Q. Q. Therefore, P.Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: helpfulprofessor.com  
-   Link: <a href="https://helpfulprofessor.com/denying-the-antecedent-fallacy-examples/" target="_blank" rel="noopener noreferrer nofollow">https://helpfulprofessor.com/denying-the-antecedent-fallacy-examples/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cy is understood as a logical error involving an if-then statement...</p></details>
+   Link:<a href="https://helpfulprofessor.com/denying-the-antecedent-fallacy-examples/" target="_blank" rel="noopener noreferrer nofollow">https://helpfulprofessor.com/denying-the-antecedent-fallacy-examples/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cy is understood as a logical error involving an if-then statement...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: khanacademy.org  
-   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/denying-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/denying-the-antecedent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>firming the consequent means asserting John will want to marry...</p></details>
+   Link:<a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/denying-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/denying-the-antecedent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>firming the consequent means asserting John will want to marry...</p></details>

@@ -274,12 +274,12 @@ image: /assets/images/logical_fallacies_998914_informal_fallacies_08e748_hasty_g
 
 ## Introduction
 
-A hasty generalisation occurs when someone takes a small amount of evidence—often a personal story, a few examples, or a tiny sample—and treats it as proof of a much broader claim. Within everyday informal arguments, this is one of the most common reasoning errors because the evidence often feels persuasive. The [experience]({{ 'experience/' | relative_url }}) may be real, vivid and emotionally memorable. The problem is not that the anecdote is false; it is that the conclusion reaches further than the evidence can support. A single bad customer-service experience does not show that a company is always incompetent. Knowing one successful school dropout does not prove that education is unimportant. The mistake lies in moving too quickly from “this happened” to “this is generally true”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Faulty_generalization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Faulty generalization</span><span class="citation-popover-snippet">Faulty generalization</span></span></span>
+A hasty generalisation occurs when someone takes a small amount of evidence—often a personal story, a few examples, or a tiny sample—and treats it as proof of a much broader claim. Within everyday informal arguments, this is one of the most common reasoning errors because the evidence often feels persuasive. The [experience]({{ 'experience/' | relative_url }}) may be real, vivid and emotionally memorable. The problem is not that the anecdote is false; it is that the conclusion reaches further than the evidence can support. A single bad customer-service experience does not show that a company is always incompetent. Knowing one successful school dropout does not prove that education is unimportant. The mistake lies in moving too quickly from “this happened” to “this is generally true”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Faulty_generalization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Faulty generalization</span><span class="citation-popover-snippet">Faulty generalization</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_hasty_generalisation_4db1f5-Illustration-1-dark.svg" | relative_url }}" alt="Anecdotes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_hasty_generalisation_4db1f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_hasty_generalisation_4db1f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why anecdotes feel more decisive than they are
 
-People naturally pay attention to stories. A detailed personal account is easier to imagine and remember than a table of statistics. Research on the availability heuristic shows that information that comes to mind quickly often feels more important or more common than it really is. As a result, one striking example can outweigh a large body of less vivid evidence in people's judgments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span>
+People naturally pay attention to stories. A detailed personal account is easier to imagine and remember than a table of statistics. Research on the availability heuristic shows that information that comes to mind quickly often feels more important or more common than it really is. As a result, one striking example can outweigh a large body of less vivid evidence in people's judgments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span>
 
 Consider a common conversation:
 
@@ -287,7 +287,7 @@ Consider a common conversation:
 
 The anecdote may be completely accurate. Yet it does not answer the broader question of how smoking affects populations. The story highlights an exception while leaving unknown how many similar people experienced different outcomes. The evidence is therefore too narrow to support the general conclusion.
 
-Studies of persuasion have repeatedly found that anecdotes can be surprisingly influential, even when statistical evidence is available. People often give substantial weight to personal experiences and testimonies because they feel concrete, human and trustworthy. Utrecht University <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.ubn.ru.nl">[Repository UBN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.ubn.ru.nl</span><span class="citation-popover-snippet">Repository UBNCombining Anecdotal and Statistical Evidence in Real-Life...25 May 2017 — The persuasiveness of anecdotal evidence and sta...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+Studies of persuasion have repeatedly found that anecdotes can be surprisingly influential, even when statistical evidence is available. People often give substantial weight to personal experiences and testimonies because they feel concrete, human and trustworthy. Utrecht University<span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.ubn.ru.nl">[Repository UBN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.ubn.ru.nl</span><span class="citation-popover-snippet">Repository UBNCombining Anecdotal and Statistical Evidence in Real-Life...25 May 2017 — The persuasiveness of anecdotal evidence and sta...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 This helps explain why hasty generalisations are common in debates about health, education, [politics]({{ 'politics/' | relative_url }}) and consumer products. The speaker is often not inventing evidence; they are overextending it.
 
@@ -300,7 +300,7 @@ Imagine asking three friends whether a new restaurant is good. If all three enjo
 A hasty generalisation typically appears when one of two problems exists:
 
 * **The sample is too small.** There are not enough observations to justify a broad conclusion.
-* **The sample is unrepresentative.** The observations come from a narrow or unusual subgroup that does not reflect the wider population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
+* **The sample is unrepresentative.** The observations come from a narrow or unusual subgroup that does not reflect the wider population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
 The distinction matters. A sample can be large but biased, or small yet reasonably informative. What makes the reasoning fallacious is the confidence placed in evidence that cannot adequately support the claim being made.
 
@@ -308,14 +308,14 @@ The distinction matters. A sample can be large but biased, or small yet reasonab
 
 ### The “law of small numbers” problem
 
-Psychologists Amos Tversky and Daniel Kahneman famously described a tendency they called the “belief in the law of small numbers”. People often assume that [small samples]({{ 'small-samples/' | relative_url }}) will closely resemble the larger population from which they come. In reality, small samples are much more likely to produce unusual or extreme results by chance alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</span></span></span>
+Psychologists Amos Tversky and Daniel Kahneman famously described a tendency they called the “belief in the law of small numbers”. People often assume that [small samples]({{ 'small-samples/' | relative_url }}) will closely resemble the larger population from which they come. In reality, small samples are much more likely to produce unusual or extreme results by chance alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</span></span></span>
 
 For example:
 
 * A coin flipped ten times may produce eight heads.
 * A coin flipped ten thousand times is much more likely to end up close to fifty percent heads.
 
-Yet people often treat the first result as more meaningful than it deserves. They see a pattern where randomness may be sufficient to explain what happened. Research on sample-size neglect shows that many people underestimate how variable small samples can be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">Farnam StreetMental Model: Bias from Insensitivity to Sample SizeOur bias from insensitivity to sample size, (aka the law of small number...</span></span></span>
+Yet people often treat the first result as more meaningful than it deserves. They see a pattern where randomness may be sufficient to explain what happened. Research on sample-size neglect shows that many people underestimate how variable small samples can be.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">Farnam StreetMental Model: Bias from Insensitivity to Sample SizeOur bias from insensitivity to sample size, (aka the law of small number...</span></span></span>
 
 This misunderstanding encourages broad conclusions from limited evidence. A few observations appear representative when they may simply be statistical noise.
 
@@ -333,11 +333,11 @@ Someone has an unpleasant interaction during a visit to a city and decides that 
 
 **Health claims**
 
-A friend reports that a particular supplement improved their energy levels. Another says it did nothing. Neither account alone establishes whether the supplement is generally effective. Individual experiences can be influenced by coincidence, placebo effects, differing circumstances and natural variation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Insensitivity_to_sample_size" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Insensitivity to sample size</span><span class="citation-popover-snippet">August 13, 2025 — Insensitivity to sample size is a cognitive bias where people estimate the probability of obtaining a sample statistic...</span><span class="citation-popover-meta">Published: August 13, 2025</span></span></span>
+A friend reports that a particular supplement improved their energy levels. Another says it did nothing. Neither account alone establishes whether the supplement is generally effective. Individual experiences can be influenced by coincidence, placebo effects, differing circumstances and natural variation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Insensitivity_to_sample_size" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Insensitivity to sample size</span><span class="citation-popover-snippet">August 13, 2025 — Insensitivity to sample size is a cognitive bias where people estimate the probability of obtaining a sample statistic...</span><span class="citation-popover-meta">Published: August 13, 2025</span></span></span>
 
 **Social stereotypes**
 
-One encounter with a member of a group becomes evidence about the group as a whole. This is among the most damaging forms of hasty generalisation because it converts isolated observations into sweeping judgments about categories of people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base rate fallacy</span><span class="citation-popover-snippet">Base rate fallacyThe base rate fallacy, also called base rate neglect or base rate bias, is a type of fallacy in which people tend to...</span></span></span>
+One encounter with a member of a group becomes evidence about the group as a whole. This is among the most damaging forms of hasty generalisation because it converts isolated observations into sweeping judgments about categories of people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base rate fallacy</span><span class="citation-popover-snippet">Base rate fallacyThe base rate fallacy, also called base rate neglect or base rate bias, is a type of fallacy in which people tend to...</span></span></span>
 
 In each case, the reasoning error is the same: a narrow set of observations is treated as if it were representative of a much larger reality.
 
@@ -357,7 +357,7 @@ Personal experiences can serve important purposes:
 
 </div>
 
-The issue is proportionality. An anecdote is often excellent evidence that something happened to a particular person. It is usually much weaker evidence that the same thing happens frequently, typically or universally. Statistical evidence is generally more informative when the goal is to make claims about populations, frequencies or probabilities. Research comparing anecdotal and statistical evidence has found that statistical information is particularly valuable when the argument aims to support a generalisation about a wider group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uu.nl">[Utrecht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uu.nl</span><span class="citation-popover-title">when is statistical evidence superior to anecdotal evidence in su</span><span class="citation-popover-snippet">Utrecht UniversityWhen is Statistical Evidence Superior to Anecdotal...by H Hoeken · 2009 · Cited by 178 — Under certain conditions, sta...</span></span></span>
+The issue is proportionality. An anecdote is often excellent evidence that something happened to a particular person. It is usually much weaker evidence that the same thing happens frequently, typically or universally. Statistical evidence is generally more informative when the goal is to make claims about populations, frequencies or probabilities. Research comparing anecdotal and statistical evidence has found that statistical information is particularly valuable when the argument aims to support a generalisation about a wider group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uu.nl">[Utrecht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uu.nl</span><span class="citation-popover-title">when is statistical evidence superior to anecdotal evidence in su</span><span class="citation-popover-snippet">Utrecht UniversityWhen is Statistical Evidence Superior to Anecdotal...by H Hoeken · 2009 · Cited by 178 — Under certain conditions, sta...</span></span></span>
 
 A useful mental shift is to ask:
 
@@ -402,151 +402,151 @@ These questions encourage a more cautious relationship between evidence and conc
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_hasty_generalisation_4db1f5-Illustration-3-dark.svg" | relative_url }}" alt="Anecdotes illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_hasty_generalisation_4db1f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_hasty_generalisation_4db1f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key lesson
 
-Hasty generalisation from anecdotes and small samples is not a failure to observe reality; it is a failure to recognise the limits of what has been observed. Personal stories can be accurate, memorable and emotionally powerful. Small samples can contain genuine information. The fallacy appears when that limited evidence is stretched into a claim about a much larger population without adequate support. Understanding the difference between a story and a pattern helps keep conclusions proportionate to the evidence and makes everyday reasoning more reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">that they both result in conclusions drawn from insufficient evidence.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Representativeness_heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Representativeness heuristic</span><span class="citation-popover-snippet">Representativeness heuristicThe representativeness heuristic is used when making judgments about the probability of an event being rep...</span></span></span>
+Hasty generalisation from anecdotes and small samples is not a failure to observe reality; it is a failure to recognise the limits of what has been observed. Personal stories can be accurate, memorable and emotionally powerful. Small samples can contain genuine information. The fallacy appears when that limited evidence is stretched into a claim about a much larger population without adequate support. Understanding the difference between a story and a pattern helps keep conclusions proportionate to the evidence and makes everyday reasoning more reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">that they both result in conclusions drawn from insufficient evidence.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Representativeness_heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Representativeness heuristic</span><span class="citation-popover-snippet">Representativeness heuristicThe representativeness heuristic is used when making judgments about the probability of an event being rep...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7kuS2ScZnHQ" title="Simpsons Logical Fallacies: Hasty Generalization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7kuS2ScZnHQ" target="_blank" rel="noopener noreferrer">Simpsons Logical Fallacies: Hasty Generalization</a></p><p class="youtube-embed-meta">Channel: Colburn Classroom &middot; Views: 199.6K &middot; Uploaded: November 2019 &middot; Length: 1 minute 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7kuS2ScZnHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7kuS2ScZnHQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When One Story Becomes Too Much Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When One Story Becomes Too Much Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people overgeneralize from small samples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people overgeneralize from small samples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Challenges conclusions drawn from limited or misleading examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Challenges conclusions drawn from limited or misleading examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows why sample size and representativeness matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why sample size and representativeness matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Covers cognitive biases related to overgeneralization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cognitive biases related to overgeneralization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search <span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search<span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search <span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search<span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-7b13b3-when-one-story-becomes-too-much-proof-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ Hasty generalisation from anecdotes and small samples is not a failure to observ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ Hasty generalisation from anecdotes and small samples is not a failure to observ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ Hasty generalisation from anecdotes and small samples is not a failure to observ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Hasty generalisation from anecdotes and small samples is not a failure to observ
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -702,153 +702,153 @@ Hasty generalisation from anecdotes and small samples is not a failure to observ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Faulty generalization  
-   Link: <a href="https://en.wikipedia.org/wiki/Faulty_generalization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Faulty_generalization</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Faulty_generalization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Faulty_generalization</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: repository.ubn.ru.nl  
-   Link: <a href="https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Repository UBNCombining Anecdotal and Statistical Evidence in Real-Life...25 May 2017 — The persuasiveness of anecdotal evidence and sta...</p></details>
+   Link:<a href="https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repository UBNCombining Anecdotal and Statistical Evidence in Real-Life...25 May 2017 — The persuasiveness of anecdotal evidence and sta...</p></details>
    Published: May 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stats.org.uk  
    Title: BELIE F IN THE LAW OF SMALL NUMBERS  
-   Link: <a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</p></details>
+   Link:<a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan we shift belief in the 'Law of Small Numbers'?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Insensitivity to sample size  
-   Link: <a href="https://en.wikipedia.org/wiki/Insensitivity_to_sample_size" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Insensitivity_to_sample_size</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2025 — Insensitivity to sample size is a cognitive bias where people estimate the probability of obtaining a sample statistic...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Insensitivity_to_sample_size" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Insensitivity_to_sample_size</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2025 — Insensitivity to sample size is a cognitive bias where people estimate the probability of obtaining a sample statistic...</p></details>
    Published: August 13, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhen and why do people act on flawed science?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribbr.com  
-   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>that they both result in conclusions drawn from insufficient evidence.Read more...</p></details>
+   Link:<a href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that they both result in conclusions drawn from insufficient evidence.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Base rate fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate fallacyThe base rate fallacy, also called base rate neglect or base rate bias, is a type of fallacy in which people tend to...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate fallacyThe base rate fallacy, also called base rate neglect or base rate bias, is a type of fallacy in which people tend to...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Representativeness heuristic  
-   Link: <a href="https://en.wikipedia.org/wiki/Representativeness_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Representativeness_heuristic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representativeness heuristicThe representativeness heuristic is used when making judgments about the probability of an event being rep...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Representativeness_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Representativeness_heuristic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Representativeness heuristicThe representativeness heuristic is used when making judgments about the probability of an event being rep...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribbr.com  
-   Link: <a href="https://www.scribbr.com/frequently-asked-questions/how-to-avoid-base-rate-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/how-to-avoid-base-rate-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>her words, [post hoc](&amp;#123;&amp;#123; &#x27;post-hoc/&#x27; | relative_url &amp;#125;&amp;#125;) fallacy involves a leap to a...</p></details>
+   Link:<a href="https://www.scribbr.com/frequently-asked-questions/how-to-avoid-base-rate-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/how-to-avoid-base-rate-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>her words, [post hoc](&amp;#123;&amp;#123; &#x27;post-hoc/&#x27; | relative_url &amp;#125;&amp;#125;) fallacy involves a leap to a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribbr.com  
    Title: hasty generalization fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research-portal.uu.nl  
    Title: when is statistical evidence superior to anecdotal evidence in su  
-   Link: <a href="https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityWhen is Statistical Evidence Superior to Anecdotal...by H Hoeken · 2009 · Cited by 178 — Under certain conditions, sta...</p></details>
+   Link:<a href="https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityWhen is Statistical Evidence Superior to Anecdotal...by H Hoeken · 2009 · Cited by 178 — Under certain conditions, sta...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Farnam StreetMental Model: Bias from Insensitivity to Sample SizeOur bias from insensitivity to sample size, (aka the law of small number...</p></details>
+   Link:<a href="https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Farnam StreetMental Model: Bias from Insensitivity to Sample SizeOur bias from insensitivity to sample size, (aka the law of small number...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thedecisionlab.com  
    Title: Base Rate Fallacy  
-   Link: <a href="https://thedecisionlab.com/biases/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/base-rate-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Base Rate Fallacy is our tendency to give more weight to the event-specific information than we should, and sometimes eve...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/base-rate-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Base Rate Fallacy is our tendency to give more weight to the event-specific information than we should, and sometimes eve...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: brainly.com  
-   Link: <a href="https://brainly.com/question/43284718" target="_blank" rel="noopener noreferrer nofollow">https://brainly.com/question/43284718</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Describe the mistaken belief in the &quot;law of small numbers...23 Nov 2023 — The &#x27;law of small numbers&#x27; leads to the mistaken belief that s...</p></details>
+   Link:<a href="https://brainly.com/question/43284718" target="_blank" rel="noopener noreferrer nofollow">https://brainly.com/question/43284718</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Describe the mistaken belief in the &quot;law of small numbers...23 Nov 2023 — The &#x27;law of small numbers&#x27; leads to the mistaken belief that s...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Revisiting the &quot;Belief in the law of small numbers&quot;16 Jul 2023 — PDF | The belief in the law of small numbers is the phenomenon tha...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Revisiting the &quot;Belief in the law of small numbers&quot;16 Jul 2023 — PDF | The belief in the law of small numbers is the phenomenon tha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/base-rate-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate fallacy | Psychology | Research StartersBase rate fallacy, which is also called base rate neglect, is a social science theory a...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/base-rate-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate fallacy | Psychology | Research StartersBase rate fallacy, which is also called base rate neglect, is a social science theory a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: shortcogs.com  
-   Link: <a href="https://www.shortcogs.com/bias/base-rate-neglect-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.shortcogs.com/bias/base-rate-neglect-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate neglect fallacy | ShortcutsThe base rate neglect fallacy, which can be seen as a cognitive bias, is in fact a group of phenomen...</p></details>
+   Link:<a href="https://www.shortcogs.com/bias/base-rate-neglect-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.shortcogs.com/bias/base-rate-neglect-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate neglect fallacy | ShortcutsThe base rate neglect fallacy, which can be seen as a cognitive bias, is in fact a group of phenomen...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: Anecdotal evidence is very much *valid* evidence.The trendy sentiment that any anecdotal evidence MUST be invalid and the only valid...</p></details>
+   Link:<a href="https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: Anecdotal evidence is very much *valid* evidence.The trendy sentiment that any anecdotal evidence MUST be invalid and the only valid...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218241255916" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218241255916</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsRevisiting representativeness heuristic classic paradigmsKahneman and Tversky showed that when people make probability judge...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/17470218241255916" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218241255916</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsRevisiting representativeness heuristic classic paradigmsKahneman and Tversky showed that when people make probability judge...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: viva.pressbooks.pub  
-   Link: <a href="https://viva.pressbooks.pub/comp2/chapter/a-repository-of-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://viva.pressbooks.pub/comp2/chapter/a-repository-of-fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Another type of hasty generalization involves relying on anecdotal evidence for support. As human beings, we overestimate...Read more...</p></details>
+   Link:<a href="https://viva.pressbooks.pub/comp2/chapter/a-repository-of-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://viva.pressbooks.pub/comp2/chapter/a-repository-of-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Another type of hasty generalization involves relying on anecdotal evidence for support. As human beings, we overestimate...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fallacyinlogic.medium.com  
    Title: anecdotal fallacy why is the use of anecdotal evidence fallacious 192eacb5db93  
-   Link: <a href="https://fallacyinlogic.medium.com/anecdotal-fallacy-why-is-the-use-of-anecdotal-evidence-fallacious-192eacb5db93" target="_blank" rel="noopener noreferrer nofollow">https://fallacyinlogic.medium.com/anecdotal-fallacy-why-is-the-use-of-anecdotal-evidence-fallacious-192eacb5db93</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Use of Anecdotal Evidence Fallacious?This is a logical fallacy that arises when one draws a conclusion on the grounds of too few e...</p></details>
+   Link:<a href="https://fallacyinlogic.medium.com/anecdotal-fallacy-why-is-the-use-of-anecdotal-evidence-fallacious-192eacb5db93" target="_blank" rel="noopener noreferrer nofollow">https://fallacyinlogic.medium.com/anecdotal-fallacy-why-is-the-use-of-anecdotal-evidence-fallacious-192eacb5db93</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Use of Anecdotal Evidence Fallacious?This is a logical fallacy that arises when one draws a conclusion on the grounds of too few e...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HoMb4nKTZwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HoMb4nKTZwg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Law of Small NumbersWe don&#x27;t get how statistics or randomness work and we treat conclusions from small samples with too much confiden...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HoMb4nKTZwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HoMb4nKTZwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Law of Small NumbersWe don&#x27;t get how statistics or randomness work and we treat conclusions from small samples with too much confiden...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LFi6PeD_PyA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFi6PeD_PyA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization fallacy critical thinking anecdotal evidence [Logical fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;), part 1. Hasty generalization + anecdotal evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFi6PeD_PyA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFi6PeD_PyA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization fallacy critical thinking anecdotal evidence [Logical fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;), part 1. Hasty generalization + anecdotal evidence...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: renascence.io  
    Title: base rate fallacy ignoring general information in favor of specifics  
-   Link: <a href="https://www.renascence.io/journal/base-rate-fallacy-ignoring-general-information-in-favor-of-specifics" target="_blank" rel="noopener noreferrer nofollow">https://www.renascence.io/journal/base-rate-fallacy-ignoring-general-information-in-favor-of-specifics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Base Rate Fallacy: Ignoring General Information in Favor of...2 Aug 2024 — The Base Rate Fallacy is the tendency to ignore general stati...</p></details>
+   Link:<a href="https://www.renascence.io/journal/base-rate-fallacy-ignoring-general-information-in-favor-of-specifics" target="_blank" rel="noopener noreferrer nofollow">https://www.renascence.io/journal/base-rate-fallacy-ignoring-general-information-in-favor-of-specifics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Base Rate Fallacy: Ignoring General Information in Favor of...2 Aug 2024 — The Base Rate Fallacy is the tendency to ignore general stati...</p></details>

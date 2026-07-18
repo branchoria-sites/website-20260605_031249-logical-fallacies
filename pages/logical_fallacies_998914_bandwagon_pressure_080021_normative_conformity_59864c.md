@@ -274,14 +274,14 @@ image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normati
 
 ## Introduction
 
-Normative conformity is the social mechanism that makes people publicly agree with a group even when they privately disagree. Within [bandwagon pressure]({{ 'bandwagon/' | relative_url }}), the key force is not evidence but the fear of standing alone. A person may suspect that a claim is weak, inaccurate, or unsupported, yet still nod along because disagreement risks embarrassment, exclusion, conflict, or damage to relationships. This matters for [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) because apparent consensus can be mistaken for genuine agreement. When many people stay silent for social reasons, a popular view can appear stronger, more widely accepted, and more persuasive than it actually is. Research on conformity and public opinion repeatedly shows that people often adjust what they say in public to avoid social costs, even when their private judgement remains unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span>
+Normative conformity is the social mechanism that makes people publicly agree with a group even when they privately disagree. Within [bandwagon pressure]({{ 'bandwagon/' | relative_url }}), the key force is not evidence but the fear of standing alone. A person may suspect that a claim is weak, inaccurate, or unsupported, yet still nod along because disagreement risks embarrassment, exclusion, conflict, or damage to relationships. This matters for [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) because apparent consensus can be mistaken for genuine agreement. When many people stay silent for social reasons, a popular view can appear stronger, more widely accepted, and more persuasive than it actually is. Research on conformity and public opinion repeatedly shows that people often adjust what they say in public to avoid social costs, even when their private judgement remains unchanged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-1-dark.svg" | relative_url }}" alt="Standing Alone illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Disagreement Feels Socially Risky
 
 Normative conformity operates through belonging. Human beings are highly sensitive to acceptance and rejection within groups. In many situations, the immediate social consequences of dissent feel more tangible than the abstract value of being correct.
 
-The classic conformity experiments conducted by psychologist Solomon Asch demonstrated this dynamic. Participants were placed in groups where others intentionally gave obviously incorrect answers. Many participants followed the majority at least some of the time despite being able to see that the group was wrong. Later interpretations of these experiments emphasised normative influence: people often complied publicly to avoid standing out or appearing foolish in front of others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO The important distinction is between]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">asch conformity experiments</span><span class="citation-popover-snippet">History &#124; Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</span></span></span>**public agreement** and **private belief**. Normative conformity frequently changes what people express rather than what they actually think. Someone may outwardly support a position, laugh at a joke they dislike, or remain silent during a discussion while internally remaining unconvinced. Social psychologists describe this as public compliance rather than genuine acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span>
+The classic conformity experiments conducted by psychologist Solomon Asch demonstrated this dynamic. Participants were placed in groups where others intentionally gave obviously incorrect answers. Many participants followed the majority at least some of the time despite being able to see that the group was wrong. Later interpretations of these experiments emphasised normative influence: people often complied publicly to avoid standing out or appearing foolish in front of others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to whi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO The important distinction is between]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">asch conformity experiments</span><span class="citation-popover-snippet">History &#124; Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</span></span></span>**public agreement** and **private belief**. Normative conformity frequently changes what people express rather than what they actually think. Someone may outwardly support a position, laugh at a joke they dislike, or remain silent during a discussion while internally remaining unconvinced. Social psychologists describe this as public compliance rather than genuine acceptance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span>
 
 For logical reasoning, this distinction matters because visible agreement is often treated as evidence that a claim has been independently evaluated and accepted. In reality, some of that agreement may reflect social caution rather than conviction.
 
@@ -297,7 +297,7 @@ Third, they adjust their public behaviour. Some openly agree. Others soften obje
 
 The result is a distorted public picture. What appears to be unanimous support may actually include many people who privately disagree but see little benefit in speaking up. This is one reason [bandwagon]({{ 'bandwagon/' | relative_url }}) arguments can feel persuasive: the apparent size of the majority may partly be created by conformity itself.
 
-Research on the "spiral of silence" provides a useful framework. Developed by communication scholar Elisabeth Noelle-Neumann, the theory argues that people monitor the climate of opinion and become less willing to express views they believe are unpopular. Fear of social isolation encourages self-censorship, which makes the dominant view seem even more dominant. The silence of dissenters is then interpreted as agreement, reinforcing the cycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpiral of silence &#124; Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO In this way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">asch conformity experiments</span><span class="citation-popover-snippet">History &#124; Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</span></span></span>, normative conformity does not merely respond to perceived consensus; it can help create the appearance of consensus.
+Research on the "spiral of silence" provides a useful framework. Developed by communication scholar Elisabeth Noelle-Neumann, the theory argues that people monitor the climate of opinion and become less willing to express views they believe are unpopular. Fear of social isolation encourages self-censorship, which makes the dominant view seem even more dominant. The silence of dissenters is then interpreted as agreement, reinforcing the cycle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpiral of silence &#124; Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO In this way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">asch conformity experiments</span><span class="citation-popover-snippet">History &#124; Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</span></span></span>, normative conformity does not merely respond to perceived consensus; it can help create the appearance of consensus.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uPyq46ct7C8" title="Spiral of Silence Theory: Definition &amp; Examples (Explained in 2 Minutes)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uPyq46ct7C8" target="_blank" rel="noopener noreferrer">Spiral of Silence Theory: Definition &amp; Examples (Explained in 2 Minutes)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 9.0K &middot; Uploaded: October 2024 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uPyq46ct7C8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uPyq46ct7C8">Open on YouTube</a></p></div></div></div>
 
@@ -320,11 +320,11 @@ Social harmony frequently takes priority over accuracy. People may laugh along, 
 
 ### Political and Cultural Discussions
 
-Topics tied to identity often create strong conformity pressures. Individuals may fear being labelled, criticised, or excluded if they express uncertainty or disagreement. Under these conditions, silence can be mistaken for widespread endorsement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spiral of silence</span><span class="citation-popover-snippet">Spiral of silence</span></span></span>
+Topics tied to identity often create strong conformity pressures. Individuals may fear being labelled, criticised, or excluded if they express uncertainty or disagreement. Under these conditions, silence can be mistaken for widespread endorsement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spiral of silence</span><span class="citation-popover-snippet">Spiral of silence</span></span></span>
 
 ### Online Communities
 
-Digital spaces can intensify normative pressure because approval and disapproval are publicly visible through replies, reactions, shares, and other engagement signals. Recent research examining online communities found that people who perceive themselves to be in the minority are substantially less likely to express their views publicly, helping visible opinion distributions diverge from private beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.00952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online CommunitiesFebruary 2, 2025...</span><span class="citation-popover-meta">Published: February 2, 2025</span></span></span>
+Digital spaces can intensify normative pressure because approval and disapproval are publicly visible through replies, reactions, shares, and other engagement signals. Recent research examining online communities found that people who perceive themselves to be in the minority are substantially less likely to express their views publicly, helping visible opinion distributions diverge from private beliefs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.00952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online CommunitiesFebruary 2, 2025...</span><span class="citation-popover-meta">Published: February 2, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-x75l2QFTew" title="Asch: Conformity - Social influence [ A Level Psychology ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-x75l2QFTew" target="_blank" rel="noopener noreferrer">Asch: Conformity - Social influence [ A Level Psychology ]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 91.5K &middot; Uploaded: April 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-x75l2QFTew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-x75l2QFTew">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +332,7 @@ Digital spaces can intensify normative pressure because approval and disapproval
 
 One of the most important findings in conformity research is that unanimity is often more powerful than numbers alone.
 
-In variations of the Asch experiments, conformity dropped dramatically when even a single other person broke from the majority. The dissenter did not necessarily need to persuade anyone. Simply demonstrating that disagreement was possible reduced the pressure to conform. Participants became more willing to trust their own judgement once they were no longer completely isolated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span>
+In variations of the Asch experiments, conformity dropped dramatically when even a single other person broke from the majority. The dissenter did not necessarily need to persuade anyone. Simply demonstrating that disagreement was possible reduced the pressure to conform. Participants became more willing to trust their own judgement once they were no longer completely isolated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span>
 
 This effect reveals something important about normative conformity: many people are not convinced by the majority's reasoning. They are responding to the social [experience]({{ 'experience/' | relative_url }}) of being alone.
 
@@ -347,7 +347,7 @@ A lone dissenter changes the situation in several ways:
 
 </div>
 
-Research on conformity consistently finds that unanimity is a critical source of pressure. Once unanimity disappears, independent judgement becomes much easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychstory.co.uk">[PSYCHSTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychstory.co.uk</span><span class="citation-popover-snippet">ASCH: VARIABLES AFFECTING CONFORMITYHis findings suggested that conformity rates might be lower when individuals are not under direct gro...</span></span></span>
+Research on conformity consistently finds that unanimity is a critical source of pressure. Once unanimity disappears, independent judgement becomes much easier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychstory.co.uk">[PSYCHSTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychstory.co.uk</span><span class="citation-popover-snippet">ASCH: VARIABLES AFFECTING CONFORMITYHis findings suggested that conformity rates might be lower when individuals are not under direct gro...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-3-dark.svg" | relative_url }}" alt="Standing Alone illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for Logical Fallacies
@@ -356,242 +356,242 @@ Normative conformity helps explain why bandwagon reasoning can be so persuasive 
 
 However, apparent agreement can emerge from social dynamics rather than careful evaluation. If individuals stay silent because dissent feels risky, the visible majority may not accurately represent what people actually believe. The group then appears more unified than it truly is, making appeals to popularity seem more convincing.
 
-The practical lesson is not that majorities are usually wrong. Many majorities are correct. The lesson is that popularity and truth are different questions. When evaluating a claim, it is worth asking whether support reflects evidence, or whether some portion of the apparent consensus may have been shaped by the simple human reluctance to stand alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpiral of silence &#124; Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</span></span></span>
+The practical lesson is not that majorities are usually wrong. Many majorities are correct. The lesson is that popularity and truth are different questions. When evaluating a claim, it is worth asking whether support reflects evidence, or whether some portion of the apparent consensus may have been shaped by the simple human reluctance to stand alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpiral of silence &#124; Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UGxGDdQnC1Y" title="Social Influence: Crash Course Psychology #38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer">Social Influence: Crash Course Psychology #38</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 3.1M &middot; Uploaded: November 2014 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UGxGDdQnC1Y">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Disagreement Feels Socially Risky. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Disagreement Feels Socially Risky. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conformity+by+Cass+R+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conformity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2JNzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conformity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conformity+by+Cass+R+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conformity">Conformity</a>
-        </h4>
-        <p class="fr-book-author">By Cass R Sunstein, Robert H Frank</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conformity+by+Cass+R+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conformity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2JNzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conformity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conformity+by+Cass+R+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conformity">Conformity</a>
+</h4>
+<p class="fr-book-author">By Cass R Sunstein, Robert H Frank</p>
         
-        <p class="fr-book-desc">Directly examines conformity, dissent, and social pressure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conformity+by+Cass+R+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines conformity, dissent, and social pressure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conformity+by+Cass+R+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Shows how group belonging influences beliefs and public positions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how group belonging influences beliefs and public positions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lucifer+Effect+by+Philip+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lucifer Effect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vjeHCA6i4IAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lucifer Effect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+by+Philip+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
-        </h4>
-        <p class="fr-book-author">By Philip Zimbardo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lucifer+Effect+by+Philip+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lucifer Effect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vjeHCA6i4IAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lucifer Effect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lucifer+Effect+by+Philip+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
+</h4>
+<p class="fr-book-author">By Philip Zimbardo</p>
         
-        <p class="fr-book-desc">Demonstrates the power of social situations and pressures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+by+Philip+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the power of social situations and pressures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lucifer+Effect+by+Philip+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Presentation+of+Self+in+Everyday+Life+by+Erving+Goffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Presentation of Self in Everyday Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Sdt-cDkV8pQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Presentation of Self in Everyday Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Presentation+of+Self+in+Everyday+Life+by+Erving+Goffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Presentation of Self in Everyday Life">The Presentation of Self in Everyday Life</a>
-        </h4>
-        <p class="fr-book-author">By Erving Goffman</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Explores impression management and the social risks of standing apart.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Presentation+of+Self+in+Everyday+Life+by+Erving+Goffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Presentation+of+Self+in+Everyday+Life+by+Erving+Goffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Presentation of Self in Everyday Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Sdt-cDkV8pQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Presentation of Self in Everyday Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Presentation+of+Self+in+Everyday+Life+by+Erving+Goffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Presentation of Self in Everyday Life">The Presentation of Self in Everyday Life</a>
+</h4>
+<p class="fr-book-author">By Erving Goffman</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Explores impression management and the social risks of standing apart.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Presentation+of+Self+in+Everyday+Life+by+Erving+Goffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conformity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conformity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lucifer Effect</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conformity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conformity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lucifer Effect</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Psychology Guide Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79b169b1438dca88f0d4.jpg' | relative_url }}" alt="Listing image for Social Media Psychology Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Social Media Psychology Guide Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Psychology Guide Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79b169b1438dca88f0d4.jpg' | relative_url }}" alt="Listing image for Social Media Psychology Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Social Media Psychology Guide Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Therapy Decorations, Canvas Poster Wood Hanger, Social Psychology Canvas Poster,"><img src="{{ '/assets/images/marketplace-covers/2d25fe81cd82c9a8ebbe.jpg' | relative_url }}" alt="Listing image for Therapy Decorations, Canvas Poster Wood Hanger, Social Psychology Canvas Poster," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Therapy Decorations, Canvas Poster Wood Hanger, Social Psychology Canvas Poster,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Therapy Decorations, Canvas Poster Wood Hanger, Social Psychology Canvas Poster,"><img src="{{ '/assets/images/marketplace-covers/2d25fe81cd82c9a8ebbe.jpg' | relative_url }}" alt="Listing image for Therapy Decorations, Canvas Poster Wood Hanger, Social Psychology Canvas Poster," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Therapy Decorations, Canvas Poster Wood Hanger, Social Psychology Canvas Poster,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=standing-alone-why-disagreement-feels-socially-risky-logical-fallacies-social-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ The practical lesson is not that majorities are usually wrong. Many majorities a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ The practical lesson is not that majorities are usually wrong. Many majorities a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ The practical lesson is not that majorities are usually wrong. Many majorities a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ The practical lesson is not that majorities are usually wrong. Many majorities a
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -747,149 +747,149 @@ The practical lesson is not that majorities are usually wrong. Many majorities a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: opentextbc.ca  
    Title: the many varieties of conformity  
-   Link: <a href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</p></details>
+   Link:<a href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ebsco.com  
    Title: asch conformity experiments  
-   Link: <a href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/asch-conformity-experiments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History | Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/asch-conformity-experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History | Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: psychology.town  
-   Link: <a href="https://psychology.town/advanced-social/understanding-conformity-factors-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/advanced-social/understanding-conformity-factors-experiments/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conformity: Factors and Experiments in...30 Oct 2025 — Normative social influence is the pressure to conform in order to f...</p></details>
+   Link:<a href="https://psychology.town/advanced-social/understanding-conformity-factors-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/advanced-social/understanding-conformity-factors-experiments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conformity: Factors and Experiments in...30 Oct 2025 — Normative social influence is the pressure to conform in order to f...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/spiral-of-silence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSpiral of silence | Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</p></details>
+   Link:<a href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/spiral-of-silence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSpiral of silence | Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spiral of silence | Social Sciences and HumanitiesThe spiral of silence is a public opinion theory developed by German communications res...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spiral of silence | Social Sciences and HumanitiesThe spiral of silence is a public opinion theory developed by German communications res...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Spiral of silence  
-   Link: <a href="https://en.wikipedia.org/wiki/Spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spiral_of_silence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spiral_of_silence</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.00952" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.00952</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online CommunitiesFebruary 2, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2502.00952" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.00952</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online CommunitiesFebruary 2, 2025...</p></details>
    Published: February 2, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Asch conformity experiments  
-   Link: <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: psychology.town  
    Title: asch conformity line length experiments  
-   Link: <a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Asch also found that group size had a ceiling effect on conformity. Conformity inc...</p></details>
+   Link:<a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Asch also found that group size had a ceiling effect on conformity. Conformity inc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Solomon Asch  
-   Link: <a href="https://en.wikipedia.org/wiki/Solomon_Asch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solomon_Asch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon AschSolomon Eliot Asch (September 14, 1907 – February 20, 1996) was a Polish-American Gestalt psychologist and pioneer in soci...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Solomon_Asch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solomon_Asch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon AschSolomon Eliot Asch (September 14, 1907 – February 20, 1996) was a Polish-American Gestalt psychologist and pioneer in soci...</p></details>
    Published: September 14, 1907  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychology.town  
    Title: asch experiments conformity alternatives consequences  
-   Link: <a href="https://psychology.town/social/asch-experiments-conformity-alternatives-consequences/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-experiments-conformity-alternatives-consequences/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://psychology.town/social/asch-experiments-conformity-alternatives-consequences/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-experiments-conformity-alternatives-consequences/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: psychology.town  
    Title: private responses. Understand social  
-   Link: <a href="https://psychology.town/social/asch-conformity-experiments-variations-insights/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-experiments-variations-insights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Variations in Conformity: Asch&#x27;s Experimental...17 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: group size, disse...</p></details>
+   Link:<a href="https://psychology.town/social/asch-conformity-experiments-variations-insights/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-experiments-variations-insights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Variations in Conformity: Asch&#x27;s Experimental...17 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: group size, disse...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: noelle-neumann.de  
    Title: Spiral of Silence  
-   Link: <a href="https://noelle-neumann.de/scientific-work/spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://noelle-neumann.de/scientific-work/spiral-of-silence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elisabeth Noelle-NeumannThe theory explains how sways in public opinion may come about, especially in morally and emotionally laden debat...</p></details>
+   Link:<a href="https://noelle-neumann.de/scientific-work/spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://noelle-neumann.de/scientific-work/spiral-of-silence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elisabeth Noelle-NeumannThe theory explains how sways in public opinion may come about, especially in morally and emotionally laden debat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyAsch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to whi...</p></details>
+   Link:<a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyAsch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to whi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychstory.co.uk  
-   Link: <a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYHis findings suggested that conformity rates might be lower when individuals are not under direct gro...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYHis findings suggested that conformity rates might be lower when individuals are not under direct gro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: doctorspin.net  
    Title: The Spiral of Silence  
-   Link: <a href="https://doctorspin.net/spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://doctorspin.net/spiral-of-silence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doctor SpinElisabeth Noelle-Neumann&#x27;s well-documented theory on the spiral of silence (1974) explains why fear of isolation might serve t...</p></details>
+   Link:<a href="https://doctorspin.net/spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://doctorspin.net/spiral-of-silence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doctor SpinElisabeth Noelle-Neumann&#x27;s well-documented theory on the spiral of silence (1974) explains why fear of isolation might serve t...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/557620371/Deutsch-Morton-Harold-B-Gerard-a-Study-of-Normative-and-Informational-Social-Influences-Upon-Individual-Judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/557620371/Deutsch-Morton-Harold-B-Gerard-a-Study-of-Normative-and-Informational-Social-Influences-Upon-Individual-Judgment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Normative vs Informational Influence Study | PDF | ConformityThis document outlines hypotheses about two types of social influence - norm...</p></details>
+   Link:<a href="https://www.scribd.com/document/557620371/Deutsch-Morton-Harold-B-Gerard-a-Study-of-Normative-and-Informational-Social-Influences-Upon-Individual-Judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/557620371/Deutsch-Morton-Harold-B-Gerard-a-Study-of-Normative-and-Informational-Social-Influences-Upon-Individual-Judgment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Normative vs Informational Influence Study | PDF | ConformityThis document outlines hypotheses about two types of social influence - norm...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330279751_Spiral_of_Silence_A_Powerful_Perspective_of_Understanding_the_Public_Opinion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330279751_Spiral_of_Silence_A_Powerful_Perspective_of_Understanding_the_Public_Opinion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Spiral of Silence: A Powerful Perspective of...10 Jan 2019 — The spiral of silence theory states that people with a minority point...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/330279751_Spiral_of_Silence_A_Powerful_Perspective_of_Understanding_the_Public_Opinion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330279751_Spiral_of_Silence_A_Powerful_Perspective_of_Understanding_the_Public_Opinion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Spiral of Silence: A Powerful Perspective of...10 Jan 2019 — The spiral of silence theory states that people with a minority point...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExamining the spiral of silence in offline and online  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12083012/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12083012/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Alkandari · 2025 · Cited by 1 — SOS is a theory that focuses on individuals&#x27; fear of being isolated if they express minority opin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12083012/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12083012/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Alkandari · 2025 · Cited by 1 — SOS is a theory that focuses on individuals&#x27; fear of being isolated if they express minority opin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f communication is the tendency of people not to speak up about policy issues in public.Read more...</p></details>
+   Link:<a href="https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f communication is the tendency of people not to speak up about policy issues in public.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227594074_The_Spiral_of_Silence_and_Fear_of_Isolation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227594074_The_Spiral_of_Silence_and_Fear_of_Isolation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>view can induce fear of social isolation, which motivates conformity such...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227594074_The_Spiral_of_Silence_and_Fear_of_Isolation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227594074_The_Spiral_of_Silence_and_Fear_of_Isolation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>view can induce fear of social isolation, which motivates conformity such...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: open.ncl.ac.uk  
    Title: ncl.ac.uk Social Influence Theory: A review  
-   Link: <a href="https://open.ncl.ac.uk/theories/15/social-influence-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/15/social-influence-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence Theory: A review - TheoryHub7 Apr 2026 — Social Influence Theory explains the impact of social influence on individuals through...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/15/social-influence-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/15/social-influence-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence Theory: A review - TheoryHub7 Apr 2026 — Social Influence Theory explains the impact of social influence on individuals through...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: vaia.com  
-   Link: <a href="https://www.vaia.com/en-us/textbooks/psychology/cultural-psychology-4-edition/chapter-8/problem-8-why-did-people-conform-so-often-in-the-asch-confor/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaia.com/en-us/textbooks/psychology/cultural-psychology-4-edition/chapter-8/problem-8-why-did-people-conform-so-often-in-the-asch-confor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why did people conform so often in the Asch conformity studies?Normative social influence: People tend to conform to a group&#x27;s norms to g...</p></details>
+   Link:<a href="https://www.vaia.com/en-us/textbooks/psychology/cultural-psychology-4-edition/chapter-8/problem-8-why-did-people-conform-so-often-in-the-asch-confor/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaia.com/en-us/textbooks/psychology/cultural-psychology-4-edition/chapter-8/problem-8-why-did-people-conform-so-often-in-the-asch-confor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why did people conform so often in the Asch conformity studies?Normative social influence: People tend to conform to a group&#x27;s norms to g...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: verywellmind.com  
    Title: [the asch conformity experiments](&#123;&#123; 'the-asch-conformity-experiments/' | relative_url &#125;&#125;) 2794996  
-   Link: <a href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/the-asch-conformity-experiments-2794996</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity Experiments26 Oct 2025 — During the 1950s, psychologist Solomon Asch conducted a series of experiments designed to de...</p></details>
+   Link:<a href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/the-asch-conformity-experiments-2794996</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity Experiments26 Oct 2025 — During the 1950s, psychologist Solomon Asch conducted a series of experiments designed to de...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: opentext.uoregon.edu  
    Title: the many varieties of conformity  
-   Link: <a href="https://opentext.uoregon.edu/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentext.uoregon.edu/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Text Publishing6.1 The Many Varieties of Conformity – Principles of Social...by R Jhangiani · 2022 · Cited by 2 — Asch found that a...</p></details>
+   Link:<a href="https://opentext.uoregon.edu/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentext.uoregon.edu/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Text Publishing6.1 The Many Varieties of Conformity – Principles of Social...by R Jhangiani · 2022 · Cited by 2 — Asch found that a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: osf.io  
    Title: Breaking the Spiral of Silence?  
-   Link: <a href="https://osf.io/download/9hvgf" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/9hvgf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Influence...by Z Lyua · 2025 — The spiral of silence theory typically considers that shifts in public opinion have bee...</p></details>
+   Link:<a href="https://osf.io/download/9hvgf" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/9hvgf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Influence...by Z Lyua · 2025 — The spiral of silence theory typically considers that shifts in public opinion have bee...</p></details>

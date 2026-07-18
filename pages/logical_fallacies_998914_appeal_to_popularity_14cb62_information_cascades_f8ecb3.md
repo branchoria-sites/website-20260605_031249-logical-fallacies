@@ -268,18 +268,18 @@ image: /assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_infor
 
 ## Introduction
 
-Information cascades help explain how a [bandwagon]({{ 'bandwagon/' | relative_url }}) can emerge even when the crowd possesses very little reliable information. In the [context]({{ 'context/' | relative_url }}) of appeal to popularity, the key insight is that widespread agreement may not reflect independent evidence gathered by many people. Instead, it may reflect a chain of imitation in which later individuals copy earlier visible choices and gradually stop relying on their own private knowledge. Once this process begins, a belief can appear strongly supported simply because many people repeat it, even though the apparent consensus originated from a small amount of information or even an early mistake. Research on social learning and informational cascades has shown that collective behaviour can become both highly uniform and surprisingly fragile because it rests on imitation rather than independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
+Information cascades help explain how a [bandwagon]({{ 'bandwagon/' | relative_url }}) can emerge even when the crowd possesses very little reliable information. In the [context]({{ 'context/' | relative_url }}) of appeal to popularity, the key insight is that widespread agreement may not reflect independent evidence gathered by many people. Instead, it may reflect a chain of imitation in which later individuals copy earlier visible choices and gradually stop relying on their own private knowledge. Once this process begins, a belief can appear strongly supported simply because many people repeat it, even though the apparent consensus originated from a small amount of information or even an early mistake. Research on social learning and informational cascades has shown that collective behaviour can become both highly uniform and surprisingly fragile because it rests on imitation rather than independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-1-dark.svg" | relative_url }}" alt="Cascades illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding cascades is important because they reveal a hidden weakness in crowd belief. A large number of people may agree, yet the agreement itself may contain far less information than it appears to contain. This helps explain why popularity is not reliable proof of truth and why bandwagon reasoning can become a logical fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
+Understanding cascades is important because they reveal a hidden weakness in crowd belief. A large number of people may agree, yet the agreement itself may contain far less information than it appears to contain. This helps explain why popularity is not reliable proof of truth and why bandwagon reasoning can become a logical fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
 
 ## How Early Choices Trigger Later Imitation
 
-The classic information cascade model begins with individuals making decisions one after another. Each person possesses some private information, but they can also observe what earlier people have done. The first few decisions therefore carry disproportionate influence because later observers treat those visible choices as clues about what the earlier decision-makers might know. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
+The classic information cascade model begins with individuals making decisions one after another. Each person possesses some private information, but they can also observe what earlier people have done. The first few decisions therefore carry disproportionate influence because later observers treat those visible choices as clues about what the earlier decision-makers might know. SSRN<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
 
-Imagine a sequence of people choosing between two restaurants. The first two customers independently pick Restaurant A. A third customer may privately suspect Restaurant B is better, yet reason that the first two customers probably had information worth trusting. The third customer therefore chooses A. The fourth customer now sees three choices favouring A and becomes even more likely to follow. As the pattern grows, the visible consensus begins to outweigh individual judgement. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snap.stanford.edu">[Stanford Network Analysis Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snap.stanford.edu</span><span class="citation-popover-snippet">Stanford Network Analysis ProjectA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11090 — In...</span></span></span>
+Imagine a sequence of people choosing between two restaurants. The first two customers independently pick Restaurant A. A third customer may privately suspect Restaurant B is better, yet reason that the first two customers probably had information worth trusting. The third customer therefore chooses A. The fourth customer now sees three choices favouring A and becomes even more likely to follow. As the pattern grows, the visible consensus begins to outweigh individual judgement. SSRN<span class="citation-chip-wrap"><a class="citation-chip" href="https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snap.stanford.edu">[Stanford Network Analysis Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snap.stanford.edu</span><span class="citation-popover-snippet">Stanford Network Analysis ProjectA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11090 — In...</span></span></span>
 
-What makes the mechanism distinctive is that imitation can be individually rational. Participants are not necessarily being gullible. They may be making what appears to be the best decision given the information available to them. Yet when everyone reasons this way, the group can collectively converge on a conclusion that is weakly supported or completely wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> 2arXiv
+What makes the mechanism distinctive is that imitation can be individually rational. Participants are not necessarily being gullible. They may be making what appears to be the best decision given the information available to them. Yet when everyone reasons this way, the group can collectively converge on a conclusion that is weakly supported or completely wrong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> 2arXiv
 
 This is one route by which a bandwagon forms. The growing number of adherents looks like accumulating evidence, but much of that apparent evidence is actually repetition of the same original signal.
 
@@ -287,24 +287,24 @@ This is one route by which a bandwagon forms. The growing number of adherents lo
 
 ## Why Private Knowledge Can Disappear in a Cascade
 
-A central feature of information cascades is that private information gradually stops influencing public outcomes. Researchers describe cascades as situations in which people eventually ignore their own information and simply follow observed behaviour. At that point, new knowledge entering the system no longer changes visible decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e2.wpmucdn.com">[bpb-us-e2.wpmucdn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e2.wpmucdn.com</span><span class="citation-popover-title">Information cascades</span><span class="citation-popover-snippet">CDNAn information cascade occurs when individuals, having observed the actions and possibly payoffs of those ahead of them, take the same...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</span></span></span>
+A central feature of information cascades is that private information gradually stops influencing public outcomes. Researchers describe cascades as situations in which people eventually ignore their own information and simply follow observed behaviour. At that point, new knowledge entering the system no longer changes visible decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e2.wpmucdn.com">[bpb-us-e2.wpmucdn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e2.wpmucdn.com</span><span class="citation-popover-title">Information cascades</span><span class="citation-popover-snippet">CDNAn information cascade occurs when individuals, having observed the actions and possibly payoffs of those ahead of them, take the same...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</span></span></span>
 
-This creates a paradox. As more people join the bandwagon, outsiders often become more confident that the crowd must be correct. Yet the opposite may be true. The later participants may not be contributing independent evidence at all. They may merely be echoing earlier choices. A crowd of one thousand people can therefore embody much less information than it appears to contain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Cascades and Social Learningby S Bikhchandani · 2023 · Cited by 190 — We review the theory of information cascades and social learning, a...</span></span></span>
+This creates a paradox. As more people join the bandwagon, outsiders often become more confident that the crowd must be correct. Yet the opposite may be true. The later participants may not be contributing independent evidence at all. They may merely be echoing earlier choices. A crowd of one thousand people can therefore embody much less information than it appears to contain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Cascades and Social Learningby S Bikhchandani · 2023 · Cited by 190 — We review the theory of information cascades and social learning, a...</span></span></span>
 
-Another important consequence is fragility. Because cascades may be built on a small informational foundation, they can collapse quickly when credible new evidence appears. A belief that seemed overwhelmingly accepted may reverse direction once people realise that others were also following the crowd rather than independently confirming the claim. Researchers have repeatedly highlighted this fragility as one of the defining characteristics of informational cascades. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
+Another important consequence is fragility. Because cascades may be built on a small informational foundation, they can collapse quickly when credible new evidence appears. A belief that seemed overwhelmingly accepted may reverse direction once people realise that others were also following the crowd rather than independently confirming the claim. Researchers have repeatedly highlighted this fragility as one of the defining characteristics of informational cascades. SSRN<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
 
-For the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this point is crucial. An appeal to popularity assumes that widespread acceptance itself supports a claim. Information cascade theory shows why that assumption can fail: the popularity may not represent many independent judgements at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
+For the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this point is crucial. An appeal to popularity assumes that widespread acceptance itself supports a claim. Information cascade theory shows why that assumption can fail: the popularity may not represent many independent judgements at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-2-dark.svg" | relative_url }}" alt="Cascades illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Markets, Queues, and Everyday Bandwagon Examples
 
 ### Financial Markets
 
-Financial markets provide some of the most discussed examples of cascade behaviour. Investors often observe what other investors are buying and selling. If enough early participants move in one direction, later investors may interpret those actions as evidence of hidden information. This can contribute to herding behaviour, speculative bubbles, or rapid shifts in market sentiment. The literature on informational cascades has frequently used investment decisions as an illustration of how rational imitation can produce collective errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/2647037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">However, conventional industrial organiza-.Read more</span><span class="citation-popover-snippet">Sushil Bikhchandani, David Hirshleifer and Ivo Welchby S Bikhchandani · 1998 · Cited by 3233 — The theory of informational cascades...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaltodoc.aalto.fi">[Aaltodoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaltodoc.aalto.fi</span><span class="citation-popover-snippet">A basic theory of rational herd behavior and informational...by N Tuominen · 2017 · Cited by 9 — The basic theories of rational...</span></span></span>
+Financial markets provide some of the most discussed examples of cascade behaviour. Investors often observe what other investors are buying and selling. If enough early participants move in one direction, later investors may interpret those actions as evidence of hidden information. This can contribute to herding behaviour, speculative bubbles, or rapid shifts in market sentiment. The literature on informational cascades has frequently used investment decisions as an illustration of how rational imitation can produce collective errors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/2647037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">However, conventional industrial organiza-.Read more</span><span class="citation-popover-snippet">Sushil Bikhchandani, David Hirshleifer and Ivo Welchby S Bikhchandani · 1998 · Cited by 3233 — The theory of informational cascades...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaltodoc.aalto.fi">[Aaltodoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaltodoc.aalto.fi</span><span class="citation-popover-snippet">A basic theory of rational herd behavior and informational...by N Tuominen · 2017 · Cited by 9 — The basic theories of rational...</span></span></span>
 
 ### Queues and Consumer Choice
 
-Long queues can create a similar effect. A person encountering two otherwise similar cafés may infer that the busier one is superior because many others chose it. Sometimes that inference is correct. However, if the initial crowd formed for accidental reasons—a tour group arriving first, for example—later customers may reinforce the pattern simply by interpreting popularity as quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span>
+Long queues can create a similar effect. A person encountering two otherwise similar cafés may infer that the busier one is superior because many others chose it. Sometimes that inference is correct. However, if the initial crowd formed for accidental reasons—a tour group arriving first, for example—later customers may reinforce the pattern simply by interpreting popularity as quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span>
 
 The resulting queue appears to confirm the café's excellence, but the evidence may largely consist of previous people responding to the same queue.
 
@@ -312,287 +312,287 @@ The resulting queue appears to confirm the café's excellence, but the evidence 
 
 ### Fashion, Fads, and Cultural Trends
 
-The original informational cascade literature was strongly concerned with explaining fashions, customs, and fads. Certain styles, products, or cultural practices may spread because people observe adoption by others and infer that the adopters possess valuable information. Over time, the visible popularity of the trend becomes its own justification, even when many participants cannot independently explain why it is preferable. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
+The original informational cascade literature was strongly concerned with explaining fashions, customs, and fads. Certain styles, products, or cultural practices may spread because people observe adoption by others and infer that the adopters possess valuable information. Over time, the visible popularity of the trend becomes its own justification, even when many participants cannot independently explain why it is preferable. SSRN<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
 
 ### Online Information and Rumours
 
-[Social media]({{ 'social-media/' | relative_url }}) has made cascade dynamics especially visible. Users often judge credibility through likes, shares, reposts, and endorsements. A claim that gains early traction can appear increasingly trustworthy because many others seem to accept it. Yet the visible consensus may reflect repeated copying rather than independent verification. Research on social learning highlights how observation of others can both aggregate useful information and amplify mistaken beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Cascades in Banerjee (1992), Bikhchandani...by I Welch · 1992 · Cited by 1 — The early information cascades paper of Banerjee (1992) is...</span></span></span>
+[Social media]({{ 'social-media/' | relative_url }}) has made cascade dynamics especially visible. Users often judge credibility through likes, shares, reposts, and endorsements. A claim that gains early traction can appear increasingly trustworthy because many others seem to accept it. Yet the visible consensus may reflect repeated copying rather than independent verification. Research on social learning highlights how observation of others can both aggregate useful information and amplify mistaken beliefs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Cascades in Banerjee (1992), Bikhchandani...by I Welch · 1992 · Cited by 1 — The early information cascades paper of Banerjee (1992) is...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-3-dark.svg" | relative_url }}" alt="Cascades illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Cascades Reveal About Appeal to Popularity
 
-Information cascades do not prove that crowds are usually wrong. Often, observing others is a sensible shortcut. Social learning allows information to spread efficiently, and many collective judgements are accurate. The lesson is narrower and more important: popularity alone does not tell us how much independent evidence stands behind a belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
+Information cascades do not prove that crowds are usually wrong. Often, observing others is a sensible shortcut. Social learning allows information to spread efficiently, and many collective judgements are accurate. The lesson is narrower and more important: popularity alone does not tell us how much independent evidence stands behind a belief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
 
-When evaluating a popular claim, the critical question is not merely how many people believe it, but how those people reached that belief. If the apparent consensus arose through a cascade, then thousands of endorsements may ultimately trace back to a small number of early signals. What looks like strong evidence may therefore be little more than a chain of imitation. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snap.stanford.edu">[Stanford Network Analysis Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snap.stanford.edu</span><span class="citation-popover-snippet">Stanford Network Analysis ProjectA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11090 — In...</span></span></span>
+When evaluating a popular claim, the critical question is not merely how many people believe it, but how those people reached that belief. If the apparent consensus arose through a cascade, then thousands of endorsements may ultimately trace back to a small number of early signals. What looks like strong evidence may therefore be little more than a chain of imitation. SSRN<span class="citation-chip-wrap"><a class="citation-chip" href="https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snap.stanford.edu">[Stanford Network Analysis Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snap.stanford.edu</span><span class="citation-popover-snippet">Stanford Network Analysis ProjectA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11090 — In...</span></span></span>
 
-This is why information cascades occupy an important place in understanding appeal to popularity. They provide a concrete mechanism showing how large crowds can appear informed even when the underlying evidence is thin, making the bandwagon effect persuasive without making it logically sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</span></span></span>
+This is why information cascades occupy an important place in understanding appeal to popularity. They provide a concrete mechanism showing how large crowds can appear informed even when the underlying evidence is thin, making the bandwagon effect persuasive without making it logically sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n14qsp2C9Tw" title="Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer">Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Ontology Explained: Philosophy and AI &middot; Views: 372 &middot; Uploaded: October 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n14qsp2C9Tw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Bandwagons Grow From Thin Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Bandwagons Grow From Thin Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By James Surowiecki</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
+</h4>
+<p class="fr-book-author">By James Surowiecki</p>
         
-        <p class="fr-book-desc">Explains when crowds succeed and when herd effects undermine judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains when crowds succeed and when herd effects undermine judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides foundations for understanding cascade-driven decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundations for understanding cascade-driven decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Shows how visible choices influence later decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how visible choices influence later decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Covers social proof mechanisms behind cascades.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers social proof mechanisms behind cascades.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/507f06bf3be4341bf93d.jpg' | relative_url }}" alt="Listing image for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/507f06bf3be4341bf93d.jpg' | relative_url }}" alt="Listing image for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3043224cef26a887498.jpg' | relative_url }}" alt="Listing image for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3043224cef26a887498.jpg' | relative_url }}" alt="Listing image for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ff8fe0c130a32448cb1e.jpg' | relative_url }}" alt="Listing image for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychologist Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ff8fe0c130a32448cb1e.jpg' | relative_url }}" alt="Listing image for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Psychologist Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cascades-how-bandwagons-grow-from-thin-evidence-logical-fallacies-psychology-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ This is why information cascades occupy an important place in understanding appe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ This is why information cascades occupy an important place in understanding appe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ This is why information cascades occupy an important place in understanding appe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ This is why information cascades occupy an important place in understanding appe
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -748,176 +748,176 @@ This is why information cascades occupy an important place in understanding appe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ideas.repec.org  
    Title: v62y2024i3p1040 93  
-   Link: <a href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</p></details>
+   Link:<a href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ideas.repec.org  
    Title: v100y1992i5p992 1026  
-   Link: <a href="https://ideas.repec.org/a/ucp/jpolec/v100y1992i5p992-1026.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/ucp/jpolec/v100y1992i5p992-1026.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11108 — An informational cascade...</p></details>
+   Link:<a href="https://ideas.repec.org/a/ucp/jpolec/v100y1992i5p992-1026.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/ucp/jpolec/v100y1992i5p992-1026.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11108 — An informational cascade...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: snap.stanford.edu  
-   Link: <a href="https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" target="_blank" rel="noopener noreferrer nofollow">https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Network Analysis ProjectA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11090 — In...</p></details>
+   Link:<a href="https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" target="_blank" rel="noopener noreferrer nofollow">https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Network Analysis ProjectA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11090 — In...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Information Cascades and Social Learning  
-   Link: <a href="https://arxiv.org/abs/2105.11044" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.11044</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Authors:Sushil Bikhchandani, David Hirshleifer, Omer Tamuz, Ivo Welch. View a PDF of the paper...Read more...</p></details>
+   Link:<a href="https://arxiv.org/abs/2105.11044" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.11044</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authors:Sushil Bikhchandani, David Hirshleifer, Omer Tamuz, Ivo Welch. View a PDF of the paper...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bpb-us-e2.wpmucdn.com  
    Title: Information cascades  
-   Link: <a href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDNAn information cascade occurs when individuals, having observed the actions and possibly payoffs of those ahead of them, take the same...</p></details>
+   Link:<a href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CDNAn information cascade occurs when individuals, having observed the actions and possibly payoffs of those ahead of them, take the same...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: econpapers.repec.org  
    Title: Sushil Bikhchandani, David Hirshleifer and Ivo Welch.Read more  
-   Link: <a href="https://econpapers.repec.org/RePEc%3Aucp%3Ajpolec%3Av%3A100%3Ay%3A1992%3Ai%3A5%3Ap%3A992-1026" target="_blank" rel="noopener noreferrer nofollow">https://econpapers.repec.org/RePEc%3Aucp%3Ajpolec%3Av%3A100%3Ay%3A1992%3Ai%3A5%3Ap%3A992-1026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11076 — A Theory of Fads, Fashion...</p></details>
+   Link:<a href="https://econpapers.repec.org/RePEc%3Aucp%3Ajpolec%3Av%3A100%3Ay%3A1992%3Ai%3A5%3Ap%3A992-1026" target="_blank" rel="noopener noreferrer nofollow">https://econpapers.repec.org/RePEc%3Aucp%3Ajpolec%3Av%3A100%3Ay%3A1992%3Ai%3A5%3Ap%3A992-1026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11076 — A Theory of Fads, Fashion...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades and Social Learningby S Bikhchandani · 2023 · Cited by 190 — We review the theory of information cascades and social learning, a...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades and Social Learningby S Bikhchandani · 2023 · Cited by 190 — We review the theory of information cascades and social learning, a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jstor.org  
    Title: However, conventional industrial organiza-.Read more  
-   Link: <a href="https://www.jstor.org/stable/2647037" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2647037</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sushil Bikhchandani, David Hirshleifer and Ivo Welchby S Bikhchandani · 1998 · Cited by 3233 — The theory of informational cascades...</p></details>
+   Link:<a href="https://www.jstor.org/stable/2647037" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2647037</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sushil Bikhchandani, David Hirshleifer and Ivo Welchby S Bikhchandani · 1998 · Cited by 3233 — The theory of informational cascades...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2006.00765" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.00765</a>  
+   Link:<a href="https://arxiv.org/abs/2006.00765" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.00765</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades in Banerjee (1992), Bikhchandani...by I Welch · 1992 · Cited by 1 — The early information cascades paper of Banerjee (1992) is...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades in Banerjee (1992), Bikhchandani...by I Welch · 1992 · Cited by 1 — The early information cascades paper of Banerjee (1992) is...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ideas.repec.org  
-   Link: <a href="https://ideas.repec.org/p/cla/levarc/1193.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/cla/levarc/1193.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theory of Fads, Fashion, Custom and cultural change as...by S Bikhchandani · 2010 · Cited by 4 — The authors argue that localized confor...</p></details>
+   Link:<a href="https://ideas.repec.org/p/cla/levarc/1193.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/cla/levarc/1193.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theory of Fads, Fashion, Custom and cultural change as...by S Bikhchandani · 2010 · Cited by 4 — The authors argue that localized confor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Bandwagon Effect: How Popularity Drives Behavior (2 Minutes)  
-   Link: <a href="https://www.youtube.com/watch?v=C9S5nFHcvSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9S5nFHcvSA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Cascade...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C9S5nFHcvSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9S5nFHcvSA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Cascade...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Information Cascade  
-   Link: <a href="https://www.youtube.com/watch?v=tHE3pBbc_zI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tHE3pBbc_zI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=tHE3pBbc_zI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tHE3pBbc_zI</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aeaweb.org  
-   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</p></details>
+   Link:<a href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribbr.co.uk  
    Title: Scribbr What Is Ad Populum Fallacy? | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</p></details>
    Published: June 20, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aeaweb.org  
-   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Fjep.12.3.151" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fjep.12.3.151</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationLearning from the Behavior of Others: Conformity, Fads...by S Bikhchandani · 1998 · Cited by 3238 — Learni...</p></details>
+   Link:<a href="https://www.aeaweb.org/articles?id=10.1257%2Fjep.12.3.151" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fjep.12.3.151</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationLearning from the Behavior of Others: Conformity, Fads...by S Bikhchandani · 1998 · Cited by 3238 — Learni...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaltodoc.aalto.fi  
-   Link: <a href="https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104" target="_blank" rel="noopener noreferrer nofollow">https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A basic theory of rational herd behavior and informational...by N Tuominen · 2017 · Cited by 9 — The basic theories of rational...</p></details>
+   Link:<a href="https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104" target="_blank" rel="noopener noreferrer nofollow">https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A basic theory of rational herd behavior and informational...by N Tuominen · 2017 · Cited by 9 — The basic theories of rational...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Information" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InformationInformation is an abstract concept that refers to something which has the power to inform. At the most fundamental level, i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Information" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InformationInformation is an abstract concept that refers to something which has the power to inform. At the most fundamental level, i...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/information" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — Information is an uncountable noun meaning &#x27;facts about someone or something&#x27;. It is...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/information" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — Information is an uncountable noun meaning &#x27;facts about someone or something&#x27;. It is...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pages.gseis.ucla.edu  
-   Link: <a href="https://pages.gseis.ucla.edu/faculty/bates/articles/information.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.gseis.ucla.edu/faculty/bates/articles/information.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Batesby CRC Press — Roughly speaking, information is that commodity capable of yielding knowledge, and what information a signal carri...</p></details>
+   Link:<a href="https://pages.gseis.ucla.edu/faculty/bates/articles/information.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.gseis.ucla.edu/faculty/bates/articles/information.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Batesby CRC Press — Roughly speaking, information is that commodity capable of yielding knowledge, and what information a signal carri...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gymglish.com  
-   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/information" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningInformation definition in English...</p></details>
+   Link:<a href="https://www.gymglish.com/en/gymglish/english-translation/information" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningInformation definition in English...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: everydayconcepts.io  
-   Link: <a href="https://everydayconcepts.io/information-cascade" target="_blank" rel="noopener noreferrer nofollow">https://everydayconcepts.io/information-cascade</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information CascadeEconomists Sushil Bikhchandani, David Hirshleifer, and Ivo Welch formalized the theory in their 1992 paper &quot;A Theory o...</p></details>
+   Link:<a href="https://everydayconcepts.io/information-cascade" target="_blank" rel="noopener noreferrer nofollow">https://everydayconcepts.io/information-cascade</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information CascadeEconomists Sushil Bikhchandani, David Hirshleifer, and Ivo Welch formalized the theory in their 1992 paper &quot;A Theory o...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/information" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMATION Definition &amp; Meaning6 days ago — The meaning of INFORMATION is knowledge gained from investigation, study, or instruction. Ho...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/information" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMATION Definition &amp; Meaning6 days ago — The meaning of INFORMATION is knowledge gained from investigation, study, or instruction. Ho...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PopularityUsing the popularity of a premise or proposition as evidence for its truthfulness. This is a fallacy which is very di...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PopularityUsing the popularity of a premise or proposition as evidence for its truthfulness. This is a fallacy which is very di...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theinformation.com  
-   Link: <a href="https://www.theinformation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.theinformation.com/</a>  
+   Link:<a href="https://www.theinformation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.theinformation.com/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: deusdiapente.wordpress.com  
-   Link: <a href="https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/" target="_blank" rel="noopener noreferrer nofollow">https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies As Weak Bayesian Evidence3 Sept 2012 — Appeal to popularity, of course, is a logical fallacy because in bare bones logic the co...</p></details>
+   Link:<a href="https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/" target="_blank" rel="noopener noreferrer nofollow">https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies As Weak Bayesian Evidence3 Sept 2012 — Appeal to popularity, of course, is a logical fallacy because in bare bones logic the co...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n14qsp2C9Tw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n14qsp2C9Tw</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: blogs.cornell.edu  
    Title: informational cascades and related thoughts on local rationality  
-   Link: <a href="https://blogs.cornell.edu/info2040/2021/11/05/informational-cascades-and-related-thoughts-on-local-rationality/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.cornell.edu/info2040/2021/11/05/informational-cascades-and-related-thoughts-on-local-rationality/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades and Related Thoughts on Local...5 Nov 2021 — Informational cascade is explained as a model with systemic fragility which to cer...</p></details>
+   Link:<a href="https://blogs.cornell.edu/info2040/2021/11/05/informational-cascades-and-related-thoughts-on-local-rationality/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.cornell.edu/info2040/2021/11/05/informational-cascades-and-related-thoughts-on-local-rationality/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades and Related Thoughts on Local...5 Nov 2021 — Informational cascade is explained as a model with systemic fragility which to cer...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: sites.uci.edu  
-   Link: <a href="https://sites.uci.edu/dhirshle/files/2011/02/Learning-from-the-Behavior-of-Others-Conformity-Fads-and-Informational-Cascades.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.uci.edu/dhirshle/files/2011/02/Learning-from-the-Behavior-of-Others-Conformity-Fads-and-Informational-Cascades.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCI SitesConformity, Fads, and Informational Cascadesby S Bikhchandani · 1998 · Cited by 3233 — Learning from the Behavior of Others: Con...</p></details>
+   Link:<a href="https://sites.uci.edu/dhirshle/files/2011/02/Learning-from-the-Behavior-of-Others-Conformity-Fads-and-Informational-Cascades.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.uci.edu/dhirshle/files/2011/02/Learning-from-the-Behavior-of-Others-Conformity-Fads-and-Informational-Cascades.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCI SitesConformity, Fads, and Informational Cascadesby S Bikhchandani · 1998 · Cited by 3233 — Learning from the Behavior of Others: Con...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-bandwagon-fallac/25684558261152363/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-bandwagon-fallac/25684558261152363/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y where something is claimed to be true or good simply because...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-bandwagon-fallac/25684558261152363/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-bandwagon-fallac/25684558261152363/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y where something is claimed to be true or good simply because...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: fallacyguide.com  
-   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-popularity" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-popularity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Popularity Fallacy: Definition, Examples &amp; How to Fix ItAppeals to popularity turn headcount into evidence and...</p></details>
+   Link:<a href="https://fallacyguide.com/fallacies/appeal-to-popularity" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-popularity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Popularity Fallacy: Definition, Examples &amp; How to Fix ItAppeals to popularity turn headcount into evidence and...</p></details>

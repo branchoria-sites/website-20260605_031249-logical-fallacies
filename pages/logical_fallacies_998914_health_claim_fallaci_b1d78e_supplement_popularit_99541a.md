@@ -277,7 +277,7 @@ image: /assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_suppl
 Popularity is one of the most powerful tools in supplement marketing. Labels such as “best-selling”, “#1 brand”, “millions of users”, or “trusted worldwide” create the impression that a product has already been tested by the crowd and found effective. In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a classic appeal to popularity: the suggestion that widespread use is evidence that a health claim is true.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Demand can reveal many things. It can show that consumers like a product, that [advertising]({{ 'advertising/' | relative_url }}) has been effective, or that a supplement fits a popular health trend. What it cannot do is demonstrate that the supplement prevents, treats, or cures a medical condition. Regulators and health authorities consistently distinguish between market success and scientific evidence, requiring health claims to be supported by reliable research rather than sales figures, [testimonials]({{ 'testimonials/' | relative_url }}), or consumer enthusiasm. Federal Trade Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cohenhealthcarelaw.com">[2cohenhealthcarelaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cohenhealthcarelaw.com</span><span class="citation-popover-snippet">It means you must have solid scientific evidence—often including expert analysis or...Read more...</span></span></span>
+Demand can reveal many things. It can show that consumers like a product, that [advertising]({{ 'advertising/' | relative_url }}) has been effective, or that a supplement fits a popular health trend. What it cannot do is demonstrate that the supplement prevents, treats, or cures a medical condition. Regulators and health authorities consistently distinguish between market success and scientific evidence, requiring health claims to be supported by reliable research rather than sales figures, [testimonials]({{ 'testimonials/' | relative_url }}), or consumer enthusiasm. Federal Trade Commission<span class="citation-chip-wrap"><a class="citation-chip" href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cohenhealthcarelaw.com">[2cohenhealthcarelaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cohenhealthcarelaw.com</span><span class="citation-popover-snippet">It means you must have solid scientific evidence—often including expert analysis or...Read more...</span></span></span>
 
 ## What Popularity Can and Cannot Prove
 
@@ -290,7 +290,7 @@ The logical mistake occurs when popularity is treated as a substitute for eviden
 
 The conclusion does not follow. History contains many examples of widely accepted health beliefs that later proved ineffective, exaggerated, or wrong. Mass adoption can spread faster than scientific verification, especially when consumers are motivated by fear of illness, hope for improvement, or dissatisfaction with existing treatments.
 
-Health regulators emphasise that claims about health benefits must be supported by scientific substantiation rather than consumer belief. The US Federal Trade Commission (FTC), which oversees advertising claims, states that health-related claims must be truthful, not misleading, and backed by appropriate scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+Health regulators emphasise that claims about health benefits must be supported by scientific substantiation rather than consumer belief. The US Federal Trade Commission (FTC), which oversees advertising claims, states that health-related claims must be truthful, not misleading, and backed by appropriate scientific evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 Popularity can therefore suggest demand. It cannot establish efficacy.
 
@@ -313,7 +313,7 @@ In supplement marketing, this tendency is amplified by impressive numbers:
 
 Such statements create the feeling that the product has undergone a form of collective testing. If enough people buy it, many consumers assume that poor products would disappear from the market.
 
-The problem is that supplement markets do not function as controlled scientific experiments. Buyers rarely use the same dosage, for the same condition, over the same period, while controlling for other variables. Many users never know whether improvements came from the supplement, lifestyle changes, natural recovery, placebo effects, or unrelated factors. As a result, popularity can grow even when evidence remains weak or disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span>
+The problem is that supplement markets do not function as controlled scientific experiments. Buyers rarely use the same dosage, for the same condition, over the same period, while controlling for other variables. Many users never know whether improvements came from the supplement, lifestyle changes, natural recovery, placebo effects, or unrelated factors. As a result, popularity can grow even when evidence remains weak or disputed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span>
 
 The appeal to popularity is especially strong in health because people often assume that large groups cannot all be mistaken. In reality, large groups can share the same advertising exposure, the same cultural beliefs, and the same misconceptions.
 
@@ -327,9 +327,9 @@ Popularity is rarely spontaneous. It is often manufactured through marketing sys
 
 [Social media]({{ 'social-media/' | relative_url }}) allows supplements to spread rapidly through influencer recommendations. When consumers repeatedly encounter favourable reviews, transformation stories, and endorsement videos, a perception of consensus emerges even when the underlying evidence is limited.
 
-Research on affiliate marketing and endorsements has shown that many consumers struggle to distinguish between genuine recommendations and commercial promotion. Disclosure practices have historically been inconsistent, increasing the persuasive power of influencer endorsements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research on affiliate marketing and endorsements has shown that many consumers struggle to distinguish between genuine recommendations and commercial promotion. Disclosure practices have historically been inconsistent, increasing the persuasive power of influencer endorsements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
-The FTC has repeatedly stressed that advertisers cannot use testimonials or endorsements as a substitute for scientific substantiation. If a company could not legally make a health claim directly, it generally cannot rely on influencers or testimonials to make that claim indirectly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+The FTC has repeatedly stressed that advertisers cannot use testimonials or endorsements as a substitute for scientific substantiation. If a company could not legally make a health claim directly, it generally cannot rely on influencers or testimonials to make that claim indirectly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 ### Branding and the bestseller effect
 
@@ -350,9 +350,9 @@ This emotional mechanism helps explain why products can become cultural phenomen
 
 Several supplement categories illustrate the gap between consumer enthusiasm and scientific support.
 
-Fish oil supplements became enormously popular because of early observational research and widespread belief that they promoted heart health. Yet reviews of later evidence have often produced more limited conclusions than many consumers expected, and researchers have noted that numerous products make health-oriented claims that exceed the strength of available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.com/fish-oil-supplements-for-heart-health-7852475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.com">[Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.com</span><span class="citation-popover-title">Study: Majority of Fish Oil Supplements Make Unfounded Health Claims</span><span class="citation-popover-snippet">make health claims not supported by scientific evidence, particularly regarding heart health. Conducted by researchers from UT Southweste...</span></span></span>
+Fish oil supplements became enormously popular because of early observational research and widespread belief that they promoted heart health. Yet reviews of later evidence have often produced more limited conclusions than many consumers expected, and researchers have noted that numerous products make health-oriented claims that exceed the strength of available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.com/fish-oil-supplements-for-heart-health-7852475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.com">[Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.com</span><span class="citation-popover-title">Study: Majority of Fish Oil Supplements Make Unfounded Health Claims</span><span class="citation-popover-snippet">make health claims not supported by scientific evidence, particularly regarding heart health. Conducted by researchers from UT Southweste...</span></span></span>
 
-More recently, supplements promoted on social media as alternatives to prescription weight-loss medications have gained attention through viral popularity. Their rapid adoption has often been driven by influencer discussion, affordability, and accessibility rather than a large body of high-quality clinical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/berberine-isnt-natures-ozempic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">However, experts warn it is not equivalent to these prescription drugs and lacks proven efficacy. Ozempic and Wegovy, designed for diabet...</span></span></span>
+More recently, supplements promoted on social media as alternatives to prescription weight-loss medications have gained attention through viral popularity. Their rapid adoption has often been driven by influencer discussion, affordability, and accessibility rather than a large body of high-quality clinical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/berberine-isnt-natures-ozempic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">However, experts warn it is not equivalent to these prescription drugs and lacks proven efficacy. Ozempic and Wegovy, designed for diabet...</span></span></span>
 
 These examples do not prove that every popular supplement is ineffective. Some supplements do have evidence-supported uses. The point is that popularity alone cannot distinguish effective products from ineffective ones. Scientific testing is required for that task.
 
@@ -368,7 +368,7 @@ A statement that a product is popular is different from a statement that it impr
 
 **Is there evidence beyond testimonials?**
 
-Consumer stories can be sincere while still failing to establish causation. Regulators expect health claims to be supported by reliable scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+Consumer stories can be sincere while still failing to establish causation. Regulators expect health claims to be supported by reliable scientific evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 **Could marketing explain the popularity?**
 
@@ -376,11 +376,11 @@ Advertising campaigns, influencer partnerships, celebrity endorsements, and reta
 
 **Does the claim rely on vague language?**
 
-Phrases such as “supports”, “promotes”, or “helps maintain” may sound stronger than the evidence behind them. Health authorities distinguish among different types of claims and regulate them differently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">label claims conventional foods and dietary supplements</span><span class="citation-popover-snippet">Food and Drug AdministrationLabel Claims for Conventional Foods and Dietary...28 Mar 2024 — Among the claims that can be used on food an...</span></span></span>
+Phrases such as “supports”, “promotes”, or “helps maintain” may sound stronger than the evidence behind them. Health authorities distinguish among different types of claims and regulate them differently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">label claims conventional foods and dietary supplements</span><span class="citation-popover-snippet">Food and Drug AdministrationLabel Claims for Conventional Foods and Dietary...28 Mar 2024 — Among the claims that can be used on food an...</span></span></span>
 
 **Who evaluates the evidence?**
 
-Independent scientific reviews, clinical trials, and evidence summaries from health organisations provide stronger grounds for judgment than sales rankings or online ratings. Resources from the NIH Office of Dietary Supplements are designed specifically to help consumers assess evidence rather than popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span>
+Independent scientific reviews, clinical trials, and evidence summaries from health organisations provide stronger grounds for judgment than sales rankings or online ratings. Resources from the NIH Office of Dietary Supplements are designed specifically to help consumers assess evidence rather than popularity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-3-dark.svg" | relative_url }}" alt="Popularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Logical Fallacy Behind the Bestseller Label
@@ -392,269 +392,269 @@ A bestseller label may indicate successful marketing. Millions of users may indi
 Scientific evidence and popularity answer different questions. Popularity asks, “How many people believe in or buy this product?” Evidence asks, “Does it actually work?” Confusing those questions is the essence of the appeal-to-popularity fallacy in supplement marketing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why bestsellers can still mislead. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why bestsellers can still mislead. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Shows why popularity and anecdotes are poor substitutes for evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why popularity and anecdotes are poor substitutes for evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Helps readers evaluate claims that rely on popularity and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate claims that rely on popularity and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+Or+Treatment%3F+by+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick Or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zoWsJQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Trick Or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trick+Or+Treatment%3F+by+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick Or Treatment?">Trick Or Treatment?</a>
-        </h4>
-        <p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+Or+Treatment%3F+by+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick Or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zoWsJQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Trick Or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trick+Or+Treatment%3F+by+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick Or Treatment?">Trick Or Treatment?</a>
+</h4>
+<p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
         
-        <p class="fr-book-desc">Illustrates why widespread use does not prove a treatment works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trick+Or+Treatment%3F+by+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates why widespread use does not prove a treatment works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trick+Or+Treatment%3F+by+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains social proof and other forces that make popular products seem trustworthy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains social proof and other forces that make popular products seem trustworthy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trick+Or+Treatment%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trick Or Treatment?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trick+Or+Treatment%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trick Or Treatment?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Pill Box Organiser 3 Times a Day Medicine Supplement Box 32 Compartments"><img src="{{ '/assets/images/marketplace-covers/486ace86c35159df2ad3.jpg' | relative_url }}" alt="Listing image for Monthly Pill Box Organiser 3 Times a Day Medicine Supplement Box 32 Compartments" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Monthly Pill Box Organiser 3 Times a Day Medicine Supplement Box 32 Compartments</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supplement organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: supplement organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Pill Box Organiser 3 Times a Day Medicine Supplement Box 32 Compartments"><img src="{{ '/assets/images/marketplace-covers/486ace86c35159df2ad3.jpg' | relative_url }}" alt="Listing image for Monthly Pill Box Organiser 3 Times a Day Medicine Supplement Box 32 Compartments" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Monthly Pill Box Organiser 3 Times a Day Medicine Supplement Box 32 Compartments</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supplement organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: supplement organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pill Dispenser with 7 Large Compartments - Pill and Supplement Organizer"><img src="{{ '/assets/images/marketplace-covers/263a9f7337e8790dbac0.jpg' | relative_url }}" alt="Listing image for Pill Dispenser with 7 Large Compartments - Pill and Supplement Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pill Dispenser with 7 Large Compartments - Pill and Supplement Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supplement organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: supplement organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pill Dispenser with 7 Large Compartments - Pill and Supplement Organizer"><img src="{{ '/assets/images/marketplace-covers/263a9f7337e8790dbac0.jpg' | relative_url }}" alt="Listing image for Pill Dispenser with 7 Large Compartments - Pill and Supplement Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pill Dispenser with 7 Large Compartments - Pill and Supplement Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supplement organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: supplement organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Pill Bottle Organizer, Supplement Organizer for Holding 6 Various Vitam"><img src="{{ '/assets/images/marketplace-covers/4e0b8e1a5841733b815f.jpg' | relative_url }}" alt="Listing image for Large Pill Bottle Organizer, Supplement Organizer for Holding 6 Various Vitam" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large Pill Bottle Organizer, Supplement Organizer for Holding 6 Various Vitam</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supplement organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: supplement organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Pill Bottle Organizer, Supplement Organizer for Holding 6 Various Vitam"><img src="{{ '/assets/images/marketplace-covers/4e0b8e1a5841733b815f.jpg' | relative_url }}" alt="Listing image for Large Pill Bottle Organizer, Supplement Organizer for Holding 6 Various Vitam" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large Pill Bottle Organizer, Supplement Organizer for Holding 6 Various Vitam</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supplement organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: supplement organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supplements Medicines Medical Pill Box Organizer Tablet Capsules Pills 7 Holder"><img src="{{ '/assets/images/marketplace-covers/af1db4053341dbf70ecd.jpg' | relative_url }}" alt="Listing image for Supplements Medicines Medical Pill Box Organizer Tablet Capsules Pills 7 Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Supplements Medicines Medical Pill Box Organizer Tablet Capsules Pills 7 Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supplement organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: supplement organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supplements Medicines Medical Pill Box Organizer Tablet Capsules Pills 7 Holder"><img src="{{ '/assets/images/marketplace-covers/af1db4053341dbf70ecd.jpg' | relative_url }}" alt="Listing image for Supplements Medicines Medical Pill Box Organizer Tablet Capsules Pills 7 Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Supplements Medicines Medical Pill Box Organizer Tablet Capsules Pills 7 Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supplement organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: supplement organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=supplement+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-e421fe-why-bestsellers-can-still-mislead-logical-fallacies-supplement-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -670,7 +670,7 @@ Scientific evidence and popularity answer different questions. Popularity asks, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -690,7 +690,7 @@ Scientific evidence and popularity answer different questions. Popularity asks, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -722,7 +722,7 @@ Scientific evidence and popularity answer different questions. Popularity asks, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -752,7 +752,7 @@ Scientific evidence and popularity answer different questions. Popularity asks, 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -810,205 +810,205 @@ Scientific evidence and popularity answer different questions. Popularity asks, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cohenhealthcarelaw.com  
-   Link: <a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It means you must have solid scientific evidence—often including expert analysis or...Read more...</p></details>
+   Link:<a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It means you must have solid scientific evidence—often including expert analysis or...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ods.od.nih.gov  
    Title: Learn about their label information, effectiveness, safety, risk, quality,  
-   Link: <a href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/WYNTK-Consumer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</p></details>
+   Link:<a href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/WYNTK-Consumer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ods.od.nih.gov  
-   Link: <a href="https://ods.od.nih.gov/HealthInformation/healthinformation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/HealthInformation/healthinformation.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsHealth InformationEvidence-based summaries for health professionals and consumers on specific vitamins, mine...</p></details>
+   Link:<a href="https://ods.od.nih.gov/HealthInformation/healthinformation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/HealthInformation/healthinformation.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsHealth InformationEvidence-based summaries for health professionals and consumers on specific vitamins, mine...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: health.com  
    Title: Study: Majority of Fish Oil Supplements Make Unfounded Health Claims  
-   Link: <a href="https://www.health.com/fish-oil-supplements-for-heart-health-7852475" target="_blank" rel="noopener noreferrer nofollow">https://www.health.com/fish-oil-supplements-for-heart-health-7852475</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>make health claims not supported by scientific evidence, particularly regarding heart health. Conducted by researchers from UT Southweste...</p></details>
+   Link:<a href="https://www.health.com/fish-oil-supplements-for-heart-health-7852475" target="_blank" rel="noopener noreferrer nofollow">https://www.health.com/fish-oil-supplements-for-heart-health-7852475</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>make health claims not supported by scientific evidence, particularly regarding heart health. Conducted by researchers from UT Southweste...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fda.gov  
    Title: label claims conventional foods and dietary supplements  
-   Link: <a href="https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationLabel Claims for Conventional Foods and Dietary...28 Mar 2024 — Among the claims that can be used on food an...</p></details>
+   Link:<a href="https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationLabel Claims for Conventional Foods and Dietary...28 Mar 2024 — Among the claims that can be used on food an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ods.od.nih.gov  
    Title: Office of Dietary Supplements Background Information: Dietary Supplements  
-   Link: <a href="https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsBackground Information: Dietary Supplements - Consumer11 Mar 2020 — Health claims describe a relationship be...</p></details>
+   Link:<a href="https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsBackground Information: Dietary Supplements - Consumer11 Mar 2020 — Health claims describe a relationship be...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ods.od.nih.gov  
-   Link: <a href="https://ods.od.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Dietary Supplements (ODS) - NIHThe ODS Probiotics Fact Sheet for Consumers has been updated. It provides essential information on the...</p></details>
+   Link:<a href="https://ods.od.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Dietary Supplements (ODS) - NIHThe ODS Probiotics Fact Sheet for Consumers has been updated. It provides essential information on the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6513729/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6513729/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>regulatory guidelines and resources to support...by RL Bailey · 2018 · Cited by 196 — This review will highlight the existing American r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6513729/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6513729/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>regulatory guidelines and resources to support...by RL Bailey · 2018 · Cited by 196 — This review will highlight the existing American r...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Muela-Molina · 2021 · Cited by 36 — The aim of this research is to analyse the presence of false and misleading claims in food su...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Muela-Molina · 2021 · Cited by 36 — The aim of this research is to analyse the presence of false and misleading claims in food su...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12265102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12265102/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Antonio · 2025 · Cited by 4 — It should be noted that supplements are not required to have FDA approval prior to marketing unless...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12265102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12265102/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Antonio · 2025 · Cited by 4 — It should be noted that supplements are not required to have FDA approval prior to marketing unless...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by RR Starr · 2015 · Cited by 259 — However, supplements need not be evaluated for efficacy, and only limited data on safety are requi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by RR Starr · 2015 · Cited by 259 — However, supplements need not be evaluated for efficacy, and only limited data on safety are requi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK220865/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK220865/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Framework for Evaluating the Safety of Dietary...A framework for the evaluation of safety of dietary supplement ingredients must be carr...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK220865/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK220865/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Framework for Evaluating the Safety of Dietary...A framework for the evaluation of safety of dietary supplement ingredients must be carr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ods.od.nih.gov  
    Title: list all  
-   Link: <a href="https://ods.od.nih.gov/factsheets/list-all/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/list-all/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supplement Fact SheetsProvides information about dietary supplements and their ingredients. These include vitamins, minerals, herbs and b...</p></details>
+   Link:<a href="https://ods.od.nih.gov/factsheets/list-all/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/list-all/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supplement Fact SheetsProvides information about dietary supplements and their ingredients. These include vitamins, minerals, herbs and b...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12455376/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12455376/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statements and Perceived Health Benefits of Dietary...by JN Assadourian · 2025 · Cited by 5 — To evaluate how commonly used structure/fu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12455376/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12455376/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statements and Perceived Health Benefits of Dietary...by JN Assadourian · 2025 · Cited by 5 — To evaluate how commonly used structure/fu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claims | Federal Trade CommissionHealth Products Compliance Guidance. Companies must support their advertising claims with solid p...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claims | Federal Trade CommissionHealth Products Compliance Guidance. Companies must support their advertising claims with solid p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: <a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUPPLEMENT INDUSTRY MARKETING...&quot;Somebody&#x27;s got to tell the truth!!!&quot; - Rich Piana...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUPPLEMENT INDUSTRY MARKETING...&quot;Somebody&#x27;s got to tell the truth!!!&quot; - Rich Piana...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pwUYSi3c2Oo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pwUYSi3c2Oo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pwUYSi3c2Oo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pwUYSi3c2Oo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Argumentum ad populum  
-   Link: <a href="https://www.youtube.com/watch?v=myspZ3Ap4jQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=myspZ3Ap4jQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Oz Exposes Supplement Scams: What You Need to Know! | Dr. Oz | S6 | Ep 161 | Full Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=myspZ3Ap4jQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=myspZ3Ap4jQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Oz Exposes Supplement Scams: What You Need to Know! | Dr. Oz | S6 | Ep 161 | Full Episode...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Y5Y2aY06ums" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y5Y2aY06ums</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic of the Herbalist Tricking Sick People...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y5Y2aY06ums" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y5Y2aY06ums</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic of the Herbalist Tricking Sick People...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Logic of the Herbalist Tricking Sick People  
-   Link: <a href="https://www.youtube.com/watch?v=tPAUPY2vhH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tPAUPY2vhH0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=tPAUPY2vhH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tPAUPY2vhH0</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: teenvogue.com  
-   Link: <a href="https://www.teenvogue.com/story/berberine-isnt-natures-ozempic" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/berberine-isnt-natures-ozempic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, experts warn it is not equivalent to these prescription drugs and lacks proven efficacy. Ozempic and Wegovy, designed for diabet...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/berberine-isnt-natures-ozempic" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/berberine-isnt-natures-ozempic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, experts warn it is not equivalent to these prescription drugs and lacks proven efficacy. Ozempic and Wegovy, designed for diabet...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fda.gov  
    Title: dietary supplements  
-   Link: <a href="https://www.fda.gov/food/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/dietary-supplements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 1, 2024 — FDA regulates dietary supplements under a different set of regulations than those covering conventional foods and drug prod...</p></details>
+   Link:<a href="https://www.fda.gov/food/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/dietary-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 1, 2024 — FDA regulates dietary supplements under a different set of regulations than those covering conventional foods and drug prod...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IEZ0lQ1JOnY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IEZ0lQ1JOnY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting Exploring the Scope of Dietary Supplement...FDA&#x27;s Office of Dietary Supplement Programs (ODSP) invites stakeholders to pa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IEZ0lQ1JOnY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IEZ0lQ1JOnY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting Exploring the Scope of Dietary Supplement...FDA&#x27;s Office of Dietary Supplement Programs (ODSP) invites stakeholders to pa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7CmI5zjFFAE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7CmI5zjFFAE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nal Institutes of Health (NIH) Office of Dietary Supplements (ODS)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7CmI5zjFFAE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7CmI5zjFFAE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nal Institutes of Health (NIH) Office of Dietary Supplements (ODS)...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Y8WsTQ2G-HY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y8WsTQ2G-HY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>activities related to ensuring that supplement advertising... Claims...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y8WsTQ2G-HY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y8WsTQ2G-HY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>activities related to ensuring that supplement advertising... Claims...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: npanational.org  
-   Link: <a href="https://www.npanational.org/regulatory/federal-trade-commission-ftc/" target="_blank" rel="noopener noreferrer nofollow">https://www.npanational.org/regulatory/federal-trade-commission-ftc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ypically applied a substantiation standard of...</p></details>
+   Link:<a href="https://www.npanational.org/regulatory/federal-trade-commission-ftc/" target="_blank" rel="noopener noreferrer nofollow">https://www.npanational.org/regulatory/federal-trade-commission-ftc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ypically applied a substantiation standard of...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nutrition.gov  
-   Link: <a href="https://www.nutrition.gov/topics/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nutrition.gov/topics/dietary-supplements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary SupplementsFind evidence-based information about dietary supplements. This collection of fact sheets presents information about d...</p></details>
+   Link:<a href="https://www.nutrition.gov/topics/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nutrition.gov/topics/dietary-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary SupplementsFind evidence-based information about dietary supplements. This collection of fact sheets presents information about d...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nutrition.gov  
-   Link: <a href="https://www.nutrition.gov/nutrition-misinformation-and-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.nutrition.gov/nutrition-misinformation-and-fraud</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nutrition Misinformation and FraudFind resources to help identify nutrition misinformation and fraudulent health claims, which provide fa...</p></details>
+   Link:<a href="https://www.nutrition.gov/nutrition-misinformation-and-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.nutrition.gov/nutrition-misinformation-and-fraud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nutrition Misinformation and FraudFind resources to help identify nutrition misinformation and fraudulent health claims, which provide fa...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-substantiation-dietary-supplement-claims-made-under-section-403r-6-federal-food" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-substantiation-dietary-supplement-claims-made-under-section-403r-6-federal-food</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Substantiation for Dietary Supplement Claims Made Under...20 Sept 2018 — The FTC has typically applied a substantiation standard of &quot;com...</p></details>
+   Link:<a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-substantiation-dietary-supplement-claims-made-under-section-403r-6-federal-food" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-substantiation-dietary-supplement-claims-made-under-section-403r-6-federal-food</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Substantiation for Dietary Supplement Claims Made Under...20 Sept 2018 — The FTC has typically applied a substantiation standard of &quot;com...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ftcdefenselawyer.com  
-   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Advertising Claim Substantiation Compliance AttorneyClaim Substantiation and “Competent and Reliable Scientific Evidence;”; Endorseme...</p></details>
+   Link:<a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Advertising Claim Substantiation Compliance AttorneyClaim Substantiation and “Competent and Reliable Scientific Evidence;”; Endorseme...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ftcdefenselawyer.com  
-   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Health Products Compliance Guidance | HinchNewman...As a general rule, advertisers should not make claims through consumer testimoni...</p></details>
+   Link:<a href="https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Health Products Compliance Guidance | HinchNewman...As a general rule, advertisers should not make claims through consumer testimoni...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cirs-group.com  
-   Link: <a href="https://www.cirs-group.com/en/food/faqs-american-dietary-supplements-2-do-dietary-supplements-require-fda-approval-before-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.cirs-group.com/en/food/faqs-american-dietary-supplements-2-do-dietary-supplements-require-fda-approval-before-marketing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Dietary Supplements Require FDA Approval Before...Dec 26, 2024 — Since dietary supplements do not require pre-market approval from th...</p></details>
+   Link:<a href="https://www.cirs-group.com/en/food/faqs-american-dietary-supplements-2-do-dietary-supplements-require-fda-approval-before-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.cirs-group.com/en/food/faqs-american-dietary-supplements-2-do-dietary-supplements-require-fda-approval-before-marketing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Dietary Supplements Require FDA Approval Before...Dec 26, 2024 — Since dietary supplements do not require pre-market approval from th...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cov.com  
-   Link: <a href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — The new guidance broadly applies to all health-related claims, as opp...</p></details>
+   Link:<a href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — The new guidance broadly applies to all health-related claims, as opp...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: kelleydrye.com  
-   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misguided: The FTC Attempts to Redefine the Law with its...21 Dec 2022 — Yesterday, the FTC&#x27;s Bureau of Consumer Protection released its...</p></details>
+   Link:<a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misguided: The FTC Attempts to Redefine the Law with its...21 Dec 2022 — Yesterday, the FTC&#x27;s Bureau of Consumer Protection released its...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/nih-office-of-dietary-supplements-ods_ods-offers-reliable-evidence-based-information-activity-7278409351554293761-_B9h" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nih-office-of-dietary-supplements-ods_ods-offers-reliable-evidence-based-information-activity-7278409351554293761-_B9h</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIH Office of Dietary Supplements (ODS)27 Dec 2024 — ODS offers reliable, evidence-based information about dietary supplements. Students...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/nih-office-of-dietary-supplements-ods_ods-offers-reliable-evidence-based-information-activity-7278409351554293761-_B9h" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nih-office-of-dietary-supplements-ods_ods-offers-reliable-evidence-based-information-activity-7278409351554293761-_B9h</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIH Office of Dietary Supplements (ODS)27 Dec 2024 — ODS offers reliable, evidence-based information about dietary supplements. Students...</p></details>

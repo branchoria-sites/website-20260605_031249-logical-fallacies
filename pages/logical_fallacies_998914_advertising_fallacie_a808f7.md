@@ -504,7 +504,7 @@ image: /assets/images/logical_fallacies_998914_advertising_fallacie_a808f7-overv
 Advertising fallacies are persuasive shortcuts that make a product, service or brand feel better supported than the evidence actually allows. In logical terms, the weakness is not always that the advert is false; it is that the advert nudges the audience to accept a stronger conclusion than the stated reasons justify. “Millions sold” does not prove quality. A celebrity’s approval does not prove effectiveness. A scientific-sounding phrase does not prove scientific backing. These techniques matter because advertising is designed for quick judgement, not slow argument, and consumers often have little time to check what is being implied.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7-overview.webp" | relative_url }}" alt="Overview image for Advertising" loading="eager" decoding="sync" fetchpriority="high">
-The useful question is not “Is this advert emotional?” [Emotion]({{ 'emotion/' | relative_url }}) is part of ordinary persuasion. The sharper question is: “What claim am I being invited to believe, and what evidence would actually support it?” Regulators use a similar distinction. The US Federal Trade Commission says advertising must be truthful, not misleading and, where appropriate, supported by evidence; UK advertising rules require marketers to hold evidence for objective claims before publishing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span>
+The useful question is not “Is this advert emotional?” [Emotion]({{ 'emotion/' | relative_url }}) is part of ordinary persuasion. The sharper question is: “What claim am I being invited to believe, and what evidence would actually support it?” Regulators use a similar distinction. The US Federal Trade Commission says advertising must be truthful, not misleading and, where appropriate, supported by evidence; UK advertising rules require marketers to hold evidence for objective claims before publishing them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span>
 
 ## How weak claims become persuasive
 
@@ -512,17 +512,17 @@ Advertising often works by compressing an argument into a cue: a star rating, a 
 
 A fallacy in advertising is therefore usually an informal fallacy: its flaw depends on [context]({{ 'context/' | relative_url }}), wording, implication and audience interpretation. A statement such as “our most popular formula” may be harmless if it simply reports sales. It becomes misleading if the advert encourages consumers to infer that popularity proves superiority, safety or suitability without evidence. Likewise, an expert endorsement can help when the expert is genuinely qualified, independent and speaking within their field. It becomes weak reasoning when authority is borrowed for a claim the endorser cannot substantiate.
 
-This is why advertising law and fallacy analysis overlap but are not identical. A fallacy lens asks whether the reasoning is strong. A regulatory lens asks whether the overall message is likely to mislead consumers. Both lenses are useful because many adverts do not make one explicit false statement; they assemble cues that lead the audience towards an unsupported conclusion. The FTC’s advertising guidance stresses that advertisers need proof not only for direct claims but also for implied claims that reasonable consumers take from the advert. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span>
+This is why advertising law and fallacy analysis overlap but are not identical. A fallacy lens asks whether the reasoning is strong. A regulatory lens asks whether the overall message is likely to mislead consumers. Both lenses are useful because many adverts do not make one explicit false statement; they assemble cues that lead the audience towards an unsupported conclusion. The FTC’s advertising guidance stresses that advertisers need proof not only for direct claims but also for implied claims that reasonable consumers take from the advert.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span>
 
 ## Popularity cues: when “everyone loves it” stands in for evidence
 
 Popularity is one of the most common advertising shortcuts because it feels like public proof. A product with thousands of reviews, a long queue, a “bestseller” badge or a line such as “the nation’s favourite” invites the consumer to think: if many people choose it, it must be good. That inference can be reasonable when popularity reflects repeated, informed satisfaction. It becomes a [bandwagon]({{ 'bandwagon/' | relative_url }})-style fallacy when the advert treats popularity as if it proves quality, value, safety or truth.
 
-Social advertising research shows why this cue is powerful. In large field experiments, ads that displayed peer affiliations with a brand increased responses, and influence effects were stronger when the social cue came from stronger social ties. The cue did not need to be a detailed recommendation; even a minimal sign that a peer was connected with the advertised entity could affect behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Social Influence in Social Advertising: Evidence from Field Experiments</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span>
+Social advertising research shows why this cue is powerful. In large field experiments, ads that displayed peer affiliations with a brand increased responses, and influence effects were stronger when the social cue came from stronger social ties. The cue did not need to be a detailed recommendation; even a minimal sign that a peer was connected with the advertised entity could affect behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Social Influence in Social Advertising: Evidence from Field Experiments</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span>
 
 The risk is that popularity information is easy to manipulate or over-read. “Trending” may mean heavily promoted. A five-star average may hide a small sample, cherry-picked reviews, suppressed negative feedback or incentivised ratings. A “most bought” label may say more about distribution, discounting or platform ranking than product merit. In logical terms, the advert is asking the consumer to move from “many people appeared to choose this” to “this is the better choice”. That conclusion needs more than popularity.
 
-Online reviews make the problem especially visible. The UK Competition and Markets Authority has treated fake and misleading reviews as a consumer-protection priority, publishing guidance on [fake reviews]({{ 'fake-reviews/' | relative_url }}) in 2025 and later reviewing more than 100 businesses for practices such as policies on fake and incentivised reviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Online consumer reviews</span><span class="citation-popover-snippet">Online consumer reviews</span></span></span> The concern is not abstract: reviews are often read as ordinary consumer evidence, so fake, filtered or poorly labelled reviews can turn a popularity cue into manufactured proof.
+Online reviews make the problem especially visible. The UK Competition and Markets Authority has treated fake and misleading reviews as a consumer-protection priority, publishing guidance on [fake reviews]({{ 'fake-reviews/' | relative_url }}) in 2025 and later reviewing more than 100 businesses for practices such as policies on fake and incentivised reviews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Online consumer reviews</span><span class="citation-popover-snippet">Online consumer reviews</span></span></span> The concern is not abstract: reviews are often read as ordinary consumer evidence, so fake, filtered or poorly labelled reviews can turn a popularity cue into manufactured proof.
 
 A practical way to test the cue is to separate social evidence from product evidence:
 
@@ -540,13 +540,13 @@ A practical way to test the cue is to separate social evidence from product evid
 
 Authority cues persuade by transferring trust from a person, institution or symbol onto a product. The cue may be explicit, as with a doctor or engineer endorsing a product, or indirect, as with scientific imagery, white coats, academic-looking charts or phrases such as “expert approved”. The underlying reasoning can be legitimate: expertise is often a good guide when consumers cannot evaluate a technical claim themselves. The fallacy appears when the authority does not actually support the claim being implied.
 
-Celebrity endorsement is a clear example. A performer, athlete or influencer may be admired, attractive, familiar or trusted, but that does not make them qualified to judge a skincare ingredient, financial product, health device or environmental claim. A meta-analysis of celebrity endorsements found that such endorsements can have persuasive effects, but their force depends on factors such as fit between the celebrity and the promoted object rather than mere fame alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The effectiveness of celebrity endorsements: a meta-analysis</span><span class="citation-popover-snippet">Research Gate The effectiveness of celebrity endorsements: a meta-analysis</span></span></span> More recent influencer research similarly finds that perceived credibility and influencer type affect persuasion, with [social media]({{ 'social-media/' | relative_url }}) influencers often outperforming brand-only advertising. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051241269269" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Celebrity endorsement is a clear example. A performer, athlete or influencer may be admired, attractive, familiar or trusted, but that does not make them qualified to judge a skincare ingredient, financial product, health device or environmental claim. A meta-analysis of celebrity endorsements found that such endorsements can have persuasive effects, but their force depends on factors such as fit between the celebrity and the promoted object rather than mere fame alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The effectiveness of celebrity endorsements: a meta-analysis</span><span class="citation-popover-snippet">Research Gate The effectiveness of celebrity endorsements: a meta-analysis</span></span></span> More recent influencer research similarly finds that perceived credibility and influencer type affect persuasion, with [social media]({{ 'social-media/' | relative_url }}) influencers often outperforming brand-only advertising.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051241269269" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The logical risk is an appeal to inappropriate authority. The advert encourages the audience to treat the endorser’s status as evidence for the product claim. That may be weak for three reasons. First, the endorser may not have relevant expertise. Second, the endorser may be paid or otherwise connected to the brand. Third, even a genuine personal [experience]({{ 'experience/' | relative_url }}) does not prove typical results for other consumers.
 
-Regulators focus heavily on this problem because hidden payment or incentive changes how an audience interprets praise. The FTC’s endorsement guidance says endorsements must be truthful and not misleading, and its FAQ stresses that disclosure depends on context, including whether a material connection would affect how consumers evaluate the endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span> The US electronic Code of Federal Regulations also states that the Endorsement Guides address how endorsement and testimonial practices relate to Section 5 of the FTC Act. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Regulators focus heavily on this problem because hidden payment or incentive changes how an audience interprets praise. The FTC’s endorsement guidance says endorsements must be truthful and not misleading, and its FAQ stresses that disclosure depends on context, including whether a material connection would affect how consumers evaluate the endorsement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span> The US electronic Code of Federal Regulations also states that the Endorsement Guides address how endorsement and testimonial practices relate to Section 5 of the FTC Act.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-UK rules take a similar approach. The ASA’s advice says [testimonials]({{ 'testimonials/' | relative_url }}) and endorsements must be genuine, relate to the advertised product and be supported by documentary evidence; its substantiation guidance adds that testimonials alone are unlikely to be enough to prove objective claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Open source on asa.org.uk.</span></span></span> That matters because a consumer story can be persuasive without being representative.
+UK rules take a similar approach. The ASA’s advice says [testimonials]({{ 'testimonials/' | relative_url }}) and endorsements must be genuine, relate to the advertised product and be supported by documentary evidence; its substantiation guidance adds that testimonials alone are unlikely to be enough to prove objective claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Open source on asa.org.uk.</span></span></span> That matters because a consumer story can be persuasive without being representative.
 
 A useful warning sign is a mismatch between the authority and the claim. A dentist discussing fluoride toothpaste is different from an actor praising a supplement. A mechanic explaining a tyre test is different from a lifestyle influencer saying a car “feels safer”. A university logo, laboratory image or “doctor recommended” line should prompt the reader to ask: which expert, what expertise, what test, what result, and who paid?
 
@@ -556,7 +556,7 @@ A useful warning sign is a mismatch between the authority and the claim. A denti
 
 Some of the most persuasive advertising fallacies depend less on what is said than on what is left unsaid. An advert may offer a claim that sounds factual but omit the evidence needed to judge it: compared with what, tested on whom, by whom, for how long, and with what result? These omissions are powerful because they let the audience complete the argument in the brand’s favour.
 
-The FTC’s small-business advertising guidance gives a simple version of this issue: even when an advert does not state a stronger claim literally, advertisers must have proof for the express and implied claims consumers reasonably take from it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span> UK CAP rules likewise require marketers to hold documentary evidence for objective claims consumers are likely to regard as capable of substantiation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">testimonials and endorsements</span><span class="citation-popover-snippet">testimonials and endorsements</span></span></span>
+The FTC’s small-business advertising guidance gives a simple version of this issue: even when an advert does not state a stronger claim literally, advertisers must have proof for the express and implied claims consumers reasonably take from it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span> UK CAP rules likewise require marketers to hold documentary evidence for objective claims consumers are likely to regard as capable of substantiation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">testimonials and endorsements</span><span class="citation-popover-snippet">testimonials and endorsements</span></span></span>
 
 Common missing-evidence patterns include:
 
@@ -570,9 +570,9 @@ Common missing-evidence patterns include:
 
 **Testimonial substitution.** A dramatic before-and-after story may be memorable, but it does not show typicality, causation or safety.
 
-Health and beauty advertising illustrates the problem especially clearly because consumers are often asked to infer efficacy from technical language. The FTC’s Health Products Compliance Guidance says claims about health-related products should be truthful, not misleading and supported by science; it also notes that the same principles apply broadly to health-related marketing beyond dietary supplements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span> A study reported in Time found that, in a sample of 289 cosmetics adverts, only 18% of claims were rated generally trustworthy, with many claims judged vague, omissive or false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/3973031/cosmetic-ads/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">That Makeup Ad Is Probably Lying to You</span><span class="citation-popover-snippet">That Makeup Ad Is Probably Lying to You</span></span></span>
+Health and beauty advertising illustrates the problem especially clearly because consumers are often asked to infer efficacy from technical language. The FTC’s Health Products Compliance Guidance says claims about health-related products should be truthful, not misleading and supported by science; it also notes that the same principles apply broadly to health-related marketing beyond dietary supplements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span> A study reported in Time found that, in a sample of 289 cosmetics adverts, only 18% of claims were rated generally trustworthy, with many claims judged vague, omissive or false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/3973031/cosmetic-ads/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">That Makeup Ad Is Probably Lying to You</span><span class="citation-popover-snippet">That Makeup Ad Is Probably Lying to You</span></span></span>
 
-Puffery sits at the edge of this issue. Advertising law has often tolerated vague, subjective praise such as “the ultimate experience” because it is thought not to be the kind of claim consumers can verify or rely on literally. But research on exaggerated advertising claims challenges the simple assumption that consumers never take puffery seriously. One study on processing exaggerated advertising claims notes that regulators often allow puffery because it is considered vague, fanciful or not meant to be treated as factual, while researchers continue to examine how consumers actually process such claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Puffery sits at the edge of this issue. Advertising law has often tolerated vague, subjective praise such as “the ultimate experience” because it is thought not to be the kind of claim consumers can verify or rely on literally. But research on exaggerated advertising claims challenges the simple assumption that consumers never take puffery seriously. One study on processing exaggerated advertising claims notes that regulators often allow puffery because it is considered vague, fanciful or not meant to be treated as factual, while researchers continue to examine how consumers actually process such claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fallacy risk is that vague praise can act like evidence without becoming evidence. “Premium”, “natural”, “trusted”, “smart”, “clean”, “professional-grade” and “scientifically inspired” may all be meaningful in some contexts, but each needs a concrete definition before it can support a consumer decision.
 
@@ -581,7 +581,7 @@ The fallacy risk is that vague praise can act like evidence without becoming evi
 
 Social media makes advertising fallacies harder to spot because persuasion often arrives as ordinary content. A product recommendation may appear inside a routine, tutorial, unboxing, review, travel diary or personal story. The ad-like claim is softened by intimacy: the audience feels that a person they follow is sharing a discovery rather than delivering a commercial message.
 
-Disclosure is supposed to restore context, but research suggests it often fails in practice. A large empirical study of affiliate marketing disclosures on YouTube and Pinterest examined more than 500,000 YouTube videos and 2.1 million Pinterest pins, then tested user understanding with 1,791 participants. It found that only about 10% of affiliate marketing content on both platforms contained any disclosure, and that users often failed to understand shorter, non-explanatory disclosures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Social Influence in Social Advertising: Evidence from Field Experiments</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span>
+Disclosure is supposed to restore context, but research suggests it often fails in practice. A large empirical study of affiliate marketing disclosures on YouTube and Pinterest examined more than 500,000 YouTube videos and 2.1 million Pinterest pins, then tested user understanding with 1,791 participants. It found that only about 10% of affiliate marketing content on both platforms contained any disclosure, and that users often failed to understand shorter, non-explanatory disclosures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Social Influence in Social Advertising: Evidence from Field Experiments</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span>
 
 This matters for [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) because hidden sponsorship strengthens weak appeals. A popularity cue looks more organic when the audience does not realise it has been engineered. An authority cue looks more sincere when the commercial relationship is invisible. A testimonial looks more independent when incentives are not disclosed. The missing premise is: “this person may have a financial reason to present the product favourably.”
 
@@ -615,276 +615,276 @@ This approach avoids cynicism. Some adverts are well-supported. Some endorsement
 
 Advertising fallacies matter because they shape decisions under uncertainty. Consumers cannot personally test every product, audit every claim or inspect every supply chain. They rely on signals. Advertising becomes risky when those signals imitate evidence while withholding the conditions that would make them reliable.
 
-The strongest consumer protection therefore comes from both sides: better rules for advertisers and better questions from audiences. Regulators can require substantiation, disclosure and honest presentation of reviews. The CMA’s 2025 fake-review guidance, the ASA’s rules on substantiation and testimonials, and the FTC’s endorsement and advertising substantiation guidance all reflect the same basic principle: persuasion should not depend on consumers mistaking weak cues for strong evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Online consumer reviews</span><span class="citation-popover-snippet">Online consumer reviews</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/type/non_broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">03 Misleading advertisingSubjective claims must not mislead the consumer; marketing communications must not mislead by implying that e...</span></span></span>
+The strongest consumer protection therefore comes from both sides: better rules for advertisers and better questions from audiences. Regulators can require substantiation, disclosure and honest presentation of reviews. The CMA’s 2025 fake-review guidance, the ASA’s rules on substantiation and testimonials, and the FTC’s endorsement and advertising substantiation guidance all reflect the same basic principle: persuasion should not depend on consumers mistaking weak cues for strong evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Online consumer reviews</span><span class="citation-popover-snippet">Online consumer reviews</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/type/non_broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">03 Misleading advertisingSubjective claims must not mislead the consumer; marketing communications must not mislead by implying that e...</span></span></span>
 
 For the reader, the key habit is to notice the gap between a cue and a claim. A queue is not a test. A star is not a study. A celebrity is not a specialist. A testimonial is not a representative sample. A scientific phrase is not scientific evidence. Once that gap is visible, many advertising fallacies lose their force: the advert may still be appealing, but it no longer gets to borrow certainty it has not earned.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DD3BQwY_qCs" title="Logical Fallacies in Advertisement YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DD3BQwY_qCs" target="_blank" rel="noopener noreferrer">Logical Fallacies in Advertisement YouTube</a></p><p class="youtube-embed-meta">Channel: Bullion Brotherhood &middot; Views: 149.0K &middot; Uploaded: March 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DD3BQwY_qCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DD3BQwY_qCs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Ads Make Weak Claims Persuasive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Ads Make Weak Claims Persuasive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts exploited in ads.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts exploited in ads.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7XGPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7XGPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Shows why some messages feel convincing regardless of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why some messages feel convincing regardless of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Highlights common judgment errors behind ad persuasion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights common judgment errors behind ad persuasion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains persuasive techniques commonly used in advertising.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains persuasive techniques commonly used in advertising.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Advertising Poster Prints - Antique Wall Art - Home Deco"><img src="{{ '/assets/images/marketplace-covers/856a565ad414501d160f.jpg' | relative_url }}" alt="Listing image for Vintage Advertising Poster Prints - Antique Wall Art - Home Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Advertising Poster Prints - Antique Wall Art - Home Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage advertising poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage advertising poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Advertising Poster Prints - Antique Wall Art - Home Deco"><img src="{{ '/assets/images/marketplace-covers/856a565ad414501d160f.jpg' | relative_url }}" alt="Listing image for Vintage Advertising Poster Prints - Antique Wall Art - Home Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Advertising Poster Prints - Antique Wall Art - Home Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage advertising poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage advertising poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE VERMOUTH BIANCO ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/44acd05d6e3cc8914857.jpg' | relative_url }}" alt="Listing image for VINTAGE VERMOUTH BIANCO ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE VERMOUTH BIANCO ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage advertising poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage advertising poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE VERMOUTH BIANCO ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/44acd05d6e3cc8914857.jpg' | relative_url }}" alt="Listing image for VINTAGE VERMOUTH BIANCO ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE VERMOUTH BIANCO ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage advertising poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage advertising poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Advertising Poster - COLMANS MUSTARD - A4,A3,A2,A1"><img src="{{ '/assets/images/marketplace-covers/117ac28f22dd94dc875f.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Advertising Poster - COLMANS MUSTARD - A4,A3,A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Advertising Poster - COLMANS MUSTARD - A4,A3,A2,A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage advertising poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage advertising poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Advertising Poster - COLMANS MUSTARD - A4,A3,A2,A1"><img src="{{ '/assets/images/marketplace-covers/117ac28f22dd94dc875f.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Advertising Poster - COLMANS MUSTARD - A4,A3,A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Advertising Poster - COLMANS MUSTARD - A4,A3,A2,A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage advertising poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage advertising poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE MICHELIN TYRES ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/0dd37db941fb829e600e.jpg' | relative_url }}" alt="Listing image for VINTAGE MICHELIN TYRES ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE MICHELIN TYRES ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage advertising poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage advertising poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE MICHELIN TYRES ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/0dd37db941fb829e600e.jpg' | relative_url }}" alt="Listing image for VINTAGE MICHELIN TYRES ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE MICHELIN TYRES ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage advertising poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage advertising poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+advertising+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advertising-how-ads-make-weak-claims-persuasive-logical-fallacies-vintage-advertising-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -900,7 +900,7 @@ For the reader, the key habit is to notice the gap between a cue and a claim. A 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -920,7 +920,7 @@ For the reader, the key habit is to notice the gap between a cue and a claim. A 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -952,7 +952,7 @@ For the reader, the key habit is to notice the gap between a cue and a claim. A 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -982,7 +982,7 @@ For the reader, the key habit is to notice the gap between a cue and a claim. A 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1040,190 +1040,190 @@ For the reader, the key habit is to notice the gap between a cue and a claim. A 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: The FTC looks at what the ad does not say  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertising FAQ&#x27;s: A Guide for Small BusinessUnder the law, advertisers must have proof to back up express and im...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertising FAQ&#x27;s: A Guide for Small BusinessUnder the law, advertisers must have proof to back up express and im...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Policy Statement Regarding Advertising SubstantiationAdvertisers substantiate express and implied claims, how...</p></details>
+   Link:<a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Policy Statement Regarding Advertising SubstantiationAdvertisers substantiate express and implied claims, how...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Social Influence in Social Advertising: Evidence from Field Experiments  
-   Link: <a href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1206.4327</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</p></details>
+   Link:<a href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1206.4327</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</p></details>
    Published: June 19, 2012  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Online consumer reviews  
-   Link: <a href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/online-consumer-reviews</a>  
+   Link:<a href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/online-consumer-reviews</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate The effectiveness of celebrity endorsements: a meta-analysis  
-   Link: <a href="https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
+   Link:<a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: time.com  
    Title: That Makeup Ad Is Probably Lying to You  
-   Link: <a href="https://time.com/3973031/cosmetic-ads/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3973031/cosmetic-ads/</a>  
+   Link:<a href="https://time.com/3973031/cosmetic-ads/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3973031/cosmetic-ads/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 393842851 The role of bandwagon effect and FoMo in viral marketing  
-   Link: <a href="https://www.researchgate.net/publication/393842851_The_role_of_bandwagon_effect_and_FoMo_in_viral_marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393842851_The_role_of_bandwagon_effect_and_FoMo_in_viral_marketing</a>  
+   Link:<a href="https://www.researchgate.net/publication/393842851_The_role_of_bandwagon_effect_and_FoMo_in_viral_marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393842851_The_role_of_bandwagon_effect_and_FoMo_in_viral_marketing</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/280172517_When_Do_Consumers_Believe_Puffery_Claims_The_Moderating_Role_of_Brand_Familiarity_and_Repetition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280172517_When_Do_Consumers_Believe_Puffery_Claims_The_Moderating_Role_of_Brand_Familiarity_and_Repetition</a>  
+   Link:<a href="https://www.researchgate.net/publication/280172517_When_Do_Consumers_Believe_Puffery_Claims_The_Moderating_Role_of_Brand_Familiarity_and_Repetition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280172517_When_Do_Consumers_Believe_Puffery_Claims_The_Moderating_Role_of_Brand_Familiarity_and_Repetition</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/268284164_Aggregate_Bandwagon_Effects_of_Popularity_Information_on_Audiences%27_Movie_Selections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268284164_Aggregate_Bandwagon_Effects_of_Popularity_Information_on_Audiences%27_Movie_Selections</a>  
+   Link:<a href="https://www.researchgate.net/publication/268284164_Aggregate_Bandwagon_Effects_of_Popularity_Information_on_Audiences%27_Movie_Selections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268284164_Aggregate_Bandwagon_Effects_of_Popularity_Information_on_Audiences%27_Movie_Selections</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666784325000282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666784325000282</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666784325000282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666784325000282</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844023043542" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023043542</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405844023043542" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023043542</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: accc.gov.au  
-   Link: <a href="https://www.accc.gov.au/business/advertising-and-promotions/online-reviews-for-product-and-services" target="_blank" rel="noopener noreferrer nofollow">https://www.accc.gov.au/business/advertising-and-promotions/online-reviews-for-product-and-services</a>  
+   Link:<a href="https://www.accc.gov.au/business/advertising-and-promotions/online-reviews-for-product-and-services" target="_blank" rel="noopener noreferrer nofollow">https://www.accc.gov.au/business/advertising-and-promotions/online-reviews-for-product-and-services</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TSLnCtbUcQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TSLnCtbUcQk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TSLnCtbUcQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TSLnCtbUcQk</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: 5 Fallacies in Ads  
-   Link: <a href="http://www.youtube.com/watch?v=ZNWCDh1XRN0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZNWCDh1XRN0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies in Advertisement YouTube...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ZNWCDh1XRN0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZNWCDh1XRN0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies in Advertisement YouTube...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Logical Fallacies in Advertisement You Tube  
-   Link: <a href="http://www.youtube.com/watch?v=DD3BQwY_qCs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DD3BQwY_qCs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence &amp; Persuasion: Crash Course Media Literacy #6...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DD3BQwY_qCs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DD3BQwY_qCs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence &amp; Persuasion: Crash Course Media Literacy #6...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Influence & Persuasion: Crash Course Media Literacy #6  
-   Link: <a href="http://www.youtube.com/watch?v=VXhLmkrN0-I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VXhLmkrN0-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethos, Pathos, and Logos in Persuasion/Advertising/Writing...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=VXhLmkrN0-I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VXhLmkrN0-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethos, Pathos, and Logos in Persuasion/Advertising/Writing...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Ethos, Pathos, and Logos in Persuasion/Advertising/Writing  
-   Link: <a href="http://www.youtube.com/watch?v=rFcCFEeOEeg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rFcCFEeOEeg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization - Logical Fallacy in advertisement...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rFcCFEeOEeg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rFcCFEeOEeg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization - Logical Fallacy in advertisement...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Hasty generalization  
-   Link: <a href="http://www.youtube.com/watch?v=WfuHuFx31rE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WfuHuFx31rE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallacies in advertising Hasty generalization - Logical Fallacy in advertisement Radical Apathy...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=WfuHuFx31rE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WfuHuFx31rE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallacies in advertising Hasty generalization - Logical Fallacy in advertisement Radical Apathy...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051241269269" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051241269269</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20563051241269269" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051241269269</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/substantiation.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/substantiation.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: asa.org.uk  
    Title: testimonials and endorsements  
-   Link: <a href="https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/type/non_broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/type/non_broadcast/code_section/03.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>03 Misleading advertisingSubjective claims must not mislead the consumer; marketing communications must not mislead by implying that e...</p></details>
+   Link:<a href="https://www.asa.org.uk/type/non_broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/type/non_broadcast/code_section/03.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>03 Misleading advertisingSubjective claims must not mislead the consumer; marketing communications must not mislead by implying that e...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: clutch.co  
-   Link: <a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
+   Link:<a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: academyofphysicalmedicine.co.uk  
-   Link: <a href="https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf</a>  
+   Link:<a href="https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/type/broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/type/broadcast/code_section/03.html</a>  
+   Link:<a href="https://www.asa.org.uk/type/broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/type/broadcast/code_section/03.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: publisher-collective.com  
-   Link: <a href="https://www.publisher-collective.com/blog/ads-with-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.publisher-collective.com/blog/ads-with-fallacies</a>  
+   Link:<a href="https://www.publisher-collective.com/blog/ads-with-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.publisher-collective.com/blog/ads-with-fallacies</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: procopywriters.co.uk  
-   Link: <a href="https://www.procopywriters.co.uk/guidance/advertising-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.procopywriters.co.uk/guidance/advertising-standards/</a>  
+   Link:<a href="https://www.procopywriters.co.uk/guidance/advertising-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.procopywriters.co.uk/guidance/advertising-standards/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: kelleydrye.com  
-   Link: <a href="https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards</a>  
+   Link:<a href="https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: bundeskartellamt.de  
-   Link: <a href="https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Schriftenreihe_Digitales_VIII.pdf?__blob=publicationFile&amp;v=2" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Schriftenreihe_Digitales_VIII.pdf?__blob=publicationFile&amp;v=2</a>  
+   Link:<a href="https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Schriftenreihe_Digitales_VIII.pdf?__blob=publicationFile&amp;v=2" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Schriftenreihe_Digitales_VIII.pdf?__blob=publicationFile&amp;v=2</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ftcdefenselawyer.com  
-   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>
+   Link:<a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-fallacy/
 description: Focused pages that expand on Labels.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_fallacy_labels_567868
 parent_title: Labels
@@ -16,7 +16,7 @@ parent_permalink: /labels/
 
 # Explore Topics in Labels
 
-The following pages expand on the main **[Labels]({{ '/labels/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Labels]({{ '/labels/' | relative_url }})** page and cover its key branches in.
 
 - [Anecdotes]({{ '/anecdotes-c0ecbe/' | relative_url }})
 - [Authority]({{ '/authority-494dc1/' | relative_url }})

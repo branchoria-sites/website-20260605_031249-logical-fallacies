@@ -268,16 +268,16 @@ image: /assets/images/logical_fallacies_998914_borderline_context_4b25b4_credibi
 
 ## Introduction
 
-Personal criticism is not always an ad hominem fallacy. In borderline cases, the key question is whether facts about a person are relevant to the evidence being offered. When someone asks an audience to accept a claim because they are a witness, expert, spokesperson, or trusted source, their reliability can become part of the argument itself. In those situations, examining bias, honesty, competence, or conflicts of interest may be legitimate. The fallacy arises when criticism of the person is used as a substitute for addressing the claim, or when the personal fact has no meaningful connection to the issue under discussion. [Informal logic]({{ 'informal-logic/' | relative_url }}) therefore treats ad hominem reasoning as a context-sensitive problem of [relevance]({{ 'relevance/' | relative_url }}) rather than a simple ban on mentioning personal characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span>
+Personal criticism is not always an ad hominem fallacy. In borderline cases, the key question is whether facts about a person are relevant to the evidence being offered. When someone asks an audience to accept a claim because they are a witness, expert, spokesperson, or trusted source, their reliability can become part of the argument itself. In those situations, examining bias, honesty, competence, or conflicts of interest may be legitimate. The fallacy arises when criticism of the person is used as a substitute for addressing the claim, or when the personal fact has no meaningful connection to the issue under discussion. [Informal logic]({{ 'informal-logic/' | relative_url }}) therefore treats ad hominem reasoning as a context-sensitive problem of [relevance]({{ 'relevance/' | relative_url }}) rather than a simple ban on mentioning personal characteristics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_credibility_checks_aaf271-Illustration-1-dark.svg" | relative_url }}" alt="Credibility illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_credibility_checks_aaf271-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_credibility_checks_aaf271-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Does a Person Become Part of the Evidence?
 
 A useful distinction is between arguments supported by independent evidence and arguments that depend heavily on testimony.
 
-If a scientist publishes data, the data can often be examined directly. Attacking the scientist's personality does little to assess whether the measurements are correct. By contrast, if a witness says, “Trust me, I saw it happen,” the witness's credibility becomes part of the evidential chain. Questions about honesty, memory, bias, and reliability are then relevant because the testimony itself is functioning as evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nycourts.gov">[New York Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nycourts.gov</span><span class="citation-popover-snippet">New York CourtsGUDE TO NEW YORK EVIDENCE ARTICLE 6(1) The credibility of a witness may be impeached by evidence that has a tendency in re...</span></span></span>
+If a scientist publishes data, the data can often be examined directly. Attacking the scientist's personality does little to assess whether the measurements are correct. By contrast, if a witness says, “Trust me, I saw it happen,” the witness's credibility becomes part of the evidential chain. Questions about honesty, memory, bias, and reliability are then relevant because the testimony itself is functioning as evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nycourts.gov">[New York Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nycourts.gov</span><span class="citation-popover-snippet">New York CourtsGUDE TO NEW YORK EVIDENCE ARTICLE 6(1) The credibility of a witness may be impeached by evidence that has a tendency in re...</span></span></span>
 
-This explains why courts routinely allow challenges to witness credibility. Legal systems recognise that testimony cannot be evaluated without considering factors that affect trustworthiness. Evidence of bias, inconsistency, prior dishonesty, or motives to misrepresent may be relevant not because they disprove a factual claim directly, but because they affect the weight that should be given to the testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nycourts.gov">[New York Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nycourts.gov</span><span class="citation-popover-snippet">New York CourtsGUDE TO NEW YORK EVIDENCE ARTICLE 6(1) The credibility of a witness may be impeached by evidence that has a tendency in re...</span></span></span>
+This explains why courts routinely allow challenges to witness credibility. Legal systems recognise that testimony cannot be evaluated without considering factors that affect trustworthiness. Evidence of bias, inconsistency, prior dishonesty, or motives to misrepresent may be relevant not because they disprove a factual claim directly, but because they affect the weight that should be given to the testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nycourts.gov">[New York Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nycourts.gov</span><span class="citation-popover-snippet">New York CourtsGUDE TO NEW YORK EVIDENCE ARTICLE 6(1) The credibility of a witness may be impeached by evidence that has a tendency in re...</span></span></span>
 
 The distinction can be expressed simply:
 
@@ -290,7 +290,7 @@ The first concerns reliability. The second merely insults the speaker.
 
 ## Credibility as Evidence in Testimony
 
-Many of the clearest non-fallacious ad hominem cases involve testimony. Philosophers of argumentation have long noted that criticism of a speaker can be reasonable when the speaker's trustworthiness is directly relevant to the claim being assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy PhilPapers Consider a courtroom witness. If cross-examination reveals repeated dishonesty <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span>, a jury may rationally reduce confidence in the witness's account. The criticism does not prove the testimony false, but it affects how much evidential weight the testimony deserves. Legal rules concerning witness impeachment are built around precisely this idea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nycourts.gov">[New York Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nycourts.gov</span><span class="citation-popover-snippet">New York CourtsGUDE TO NEW YORK EVIDENCE ARTICLE 6(1) The credibility of a witness may be impeached by evidence that has a tendency in re...</span></span></span>
+Many of the clearest non-fallacious ad hominem cases involve testimony. Philosophers of argumentation have long noted that criticism of a speaker can be reasonable when the speaker's trustworthiness is directly relevant to the claim being assessed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy PhilPapers Consider a courtroom witness. If cross-examination reveals repeated dishonesty<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span>, a jury may rationally reduce confidence in the witness's account. The criticism does not prove the testimony false, but it affects how much evidential weight the testimony deserves. Legal rules concerning witness impeachment are built around precisely this idea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nycourts.gov">[New York Courts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nycourts.gov</span><span class="citation-popover-snippet">New York CourtsGUDE TO NEW YORK EVIDENCE ARTICLE 6(1) The credibility of a witness may be impeached by evidence that has a tendency in re...</span></span></span>
 
 The same reasoning applies outside courts:
 
@@ -302,7 +302,7 @@ The same reasoning applies outside courts:
 
 </div>
 
-In each case, the person's characteristics matter because the argument relies on that person's credibility. The criticism targets the evidential link, not merely the individual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy PhilPapers A common mistake is to assume that any reference to a speaker's background automatically commits an ad hominem fallacy. Informal logic reject <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span> s that view. The relevant question is whether the personal information changes the rational assessment of the testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span>
+In each case, the person's characteristics matter because the argument relies on that person's credibility. The criticism targets the evidential link, not merely the individual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy PhilPapers A common mistake is to assume that any reference to a speaker's background automatically commits an ad hominem fallacy. Informal logic reject<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span> s that view. The relevant question is whether the personal information changes the rational assessment of the testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GzXVqwYHVE" title="The Ad Hominem Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GzXVqwYHVE" target="_blank" rel="noopener noreferrer">The Ad Hominem Fallacy</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 80.3K &middot; Uploaded: July 2011 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GzXVqwYHVE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GzXVqwYHVE">Open on YouTube</a></p></div></div></div>
 
@@ -310,9 +310,9 @@ In each case, the person's characteristics matter because the argument relies on
 
 Questions about financial incentives are another important borderline case.
 
-Suppose a researcher promotes a product while receiving substantial funding from the company that sells it. Mentioning that relationship does not automatically refute the research. However, it may reveal a potential source of bias and therefore become relevant when evaluating credibility. The point is not that funded researchers are necessarily wrong, but that readers should understand possible influences on judgment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span>
+Suppose a researcher promotes a product while receiving substantial funding from the company that sells it. Mentioning that relationship does not automatically refute the research. However, it may reveal a potential source of bias and therefore become relevant when evaluating credibility. The point is not that funded researchers are necessarily wrong, but that readers should understand possible influences on judgment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span>
 
-The same principle applies to expert witnesses. Modern legal and scientific discussions often recognise that incentives, institutional pressures, or professional allegiances can affect evaluations. Such concerns do not invalidate evidence by themselves, but they can justify closer scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13094959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The analysis of competing hypotheses and expert witness...by J Otzipka · 2026 — Cognitive biases, such as adversarial allegiance, can...</span></span></span>
+The same principle applies to expert witnesses. Modern legal and scientific discussions often recognise that incentives, institutional pressures, or professional allegiances can affect evaluations. Such concerns do not invalidate evidence by themselves, but they can justify closer scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13094959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The analysis of competing hypotheses and expert witness...by J Otzipka · 2026 — Cognitive biases, such as adversarial allegiance, can...</span></span></span>
 
 A useful test is whether the criticism can be translated into a question about reliability:
 
@@ -326,9 +326,9 @@ The first asks whether the source deserves additional scrutiny. The second leaps
 
 Most ad hominem fallacies occur when criticism of a person replaces engagement with the argument.
 
-A proposal for environmental policy is not refuted because its advocate was rude at a meeting. A mathematical proof is not disproved because the mathematician has personal flaws. A factual claim about astronomy is not undermined by unrelated details about the claimant's private life. In such cases, the personal information does not bear on the truth of the proposition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an...</span></span></span>
+A proposal for environmental policy is not refuted because its advocate was rude at a meeting. A mathematical proof is not disproved because the mathematician has personal flaws. A factual claim about astronomy is not undermined by unrelated details about the claimant's private life. In such cases, the personal information does not bear on the truth of the proposition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an...</span></span></span>
 
-These attacks often succeed rhetorically because they redirect attention. Audiences may begin judging the speaker instead of the evidence. Research on argumentation has shown that ad hominem attacks can influence evaluations even when they are logically irrelevant. Their persuasive force frequently exceeds their evidential value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">In regards to the first point, ad hominem attacks have been described...Read more...</span></span></span>
+These attacks often succeed rhetorically because they redirect attention. Audiences may begin judging the speaker instead of the evidence. Research on argumentation has shown that ad hominem attacks can influence evaluations even when they are logically irrelevant. Their persuasive force frequently exceeds their evidential value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">In regards to the first point, ad hominem attacks have been described...Read more...</span></span></span>
 
 Typical examples include:
 
@@ -341,7 +341,7 @@ Typical examples include:
 
 </div>
 
-In each case, the argument's substance remains unanswered. The criticism functions as a distraction rather than an assessment of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem &#124; Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — Ad hominem, type of argument or attack that...</span></span></span>
+In each case, the argument's substance remains unanswered. The criticism functions as a distraction rather than an assessment of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem &#124; Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — Ad hominem, type of argument or attack that...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/abrZeMSnwpk" title="Credibility of Evidence in Civil Proceedings, Trinity Barrister, Gary Willock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=abrZeMSnwpk" target="_blank" rel="noopener noreferrer">Credibility of Evidence in Civil Proceedings, Trinity Barrister, Gary Willock</a></p><p class="youtube-embed-meta">Channel: Trinity Barristers Chambers &middot; Views: 1.8K &middot; Uploaded: September 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=abrZeMSnwpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=abrZeMSnwpk">Open on YouTube</a></p></div></div></div>
 
@@ -351,15 +351,15 @@ When deciding whether a personal criticism is legitimate or fallacious, three qu
 
 **Is the person's testimony or expertise part of the evidence?**
 
-If the argument depends on trusting the speaker, credibility may be relevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy
+If the argument depends on trusting the speaker, credibility may be relevant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</span></span></span> Encyclopedia of Philosophy
 
 **Does the criticism affect reliability rather than merely reputation?**
 
-Bias, conflicts of interest, dishonesty, and competence may matter. Mere dislike or embarrassment usually does not. UC Law SF Scholarship Repository <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span>
+Bias, conflicts of interest, dishonesty, and competence may matter. Mere dislike or embarrassment usually does not. UC Law SF Scholarship Repository<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span>
 
 **Does the criticism show caution or claim falsity?**
 
-A credibility challenge typically supports a more modest conclusion: that testimony deserves less weight or further verification. It rarely proves that the underlying claim is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilms.academy/blog/ad-hominem-explained-a-common-logical-fallacy-in-law-and-[debate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilms.academy">[ILMS Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilms.academy</span><span class="citation-popover-snippet">Ad Hominem Explained: A Common Logical Fallacy in Law...3 Nov 2025 — Ad hominem arguments that attack a witness&#x27;s character without subs...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span>
+A credibility challenge typically supports a more modest conclusion: that testimony deserves less weight or further verification. It rarely proves that the underlying claim is false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilms.academy/blog/ad-hominem-explained-a-common-logical-fallacy-in-law-and-[debate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilms.academy">[ILMS Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilms.academy</span><span class="citation-popover-snippet">Ad Hominem Explained: A Common Logical Fallacy in Law...3 Nov 2025 — Ad hominem arguments that attack a witness&#x27;s character without subs...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span>
 
 This last point is crucial. Even a justified credibility concern usually weakens confidence rather than conclusively refuting a claim.
 
@@ -371,269 +371,269 @@ The distinction between credibility checks and personal attacks is important bec
 If personal factors are ignored entirely, genuine concerns about bias and reliability may be missed. If personal criticism is treated as decisive proof against a claim, discussion collapses into character attacks. The challenge is to keep attention on relevance: personal facts matter when they help assess the quality of testimony, and they become ad hominem fallacies when they merely encourage rejection of a claim because of who said it. [Internet Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Is Personal Criticism Relevant?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Is Personal Criticism Relevant?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches evaluation of sources and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evaluation of sources and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores bias, credibility, and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores bias, credibility, and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases affecting credibility judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases affecting credibility judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Discusses trust, authority, and persuasion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses trust, authority, and persuasion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker"><img src="{{ '/assets/images/marketplace-covers/04ca01328932ff309145.jpg' | relative_url }}" alt="Listing image for Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Mug Homeschool Mom Ayn Rand Question Everything Free Thinker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-3bd4bb-when-is-personal-criticism-relevant-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ If personal factors are ignored entirely, genuine concerns about bias and reliab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ If personal factors are ignored entirely, genuine concerns about bias and reliab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ If personal factors are ignored entirely, genuine concerns about bias and reliab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ If personal factors are ignored entirely, genuine concerns about bias and reliab
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -789,160 +789,160 @@ If personal factors are ignored entirely, genuine concerns about bias and reliab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Ad hominem is...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Ad hominem is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scholarlycommons.law.case.edu  
-   Link: <a href="https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1398&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1398&amp;[context</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In some trials, it is the only issue; once the jury has...Read more...</p></details>
+   Link:<a href="https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1398&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1398&amp;[context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In some trials, it is the only issue; once the jury has...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/YAPAHF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</p></details>
+   Link:<a href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/YAPAHF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13094959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13094959/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The analysis of competing hypotheses and expert witness...by J Otzipka · 2026 — Cognitive biases, such as adversarial allegiance, can...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13094959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13094959/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The analysis of competing hypotheses and expert witness...by J Otzipka · 2026 — Cognitive biases, such as adversarial allegiance, can...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
+   Link:<a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In regards to the first point, ad hominem attacks have been described...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In regards to the first point, ad hominem attacks have been described...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ilms.academy  
-   Link: <a href="https://www.ilms.academy/blog/ad-hominem-explained-a-common-logical-fallacy-in-law-and-[debate" target="_blank" rel="noopener noreferrer nofollow">https://www.ilms.academy/blog/ad-hominem-explained-a-common-logical-fallacy-in-law-and-[debate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Explained: A Common Logical Fallacy in Law...3 Nov 2025 — Ad hominem arguments that attack a witness&#x27;s character without subs...</p></details>
+   Link:<a href="https://www.ilms.academy/blog/ad-hominem-explained-a-common-logical-fallacy-in-law-and-[debate" target="_blank" rel="noopener noreferrer nofollow">https://www.ilms.academy/blog/ad-hominem-explained-a-common-logical-fallacy-in-law-and-[debate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Explained: A Common Logical Fallacy in Law...3 Nov 2025 — Ad hominem arguments that attack a witness&#x27;s character without subs...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: expert.it  
    Title: Benvenuto nel negozio online di Expert  
-   Link: <a href="https://www.expert.it/it/it/exp/" target="_blank" rel="noopener noreferrer nofollow">https://www.expert.it/it/it/exp/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benvenuto nel negozio online di Expert - Gli esperti siamo noi. Acquista ora il tuo Smartphone, TV, Elettrodomestico e molto altro...</p></details>
+   Link:<a href="https://www.expert.it/it/it/exp/" target="_blank" rel="noopener noreferrer nofollow">https://www.expert.it/it/it/exp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benvenuto nel negozio online di Expert - Gli esperti siamo noi. Acquista ora il tuo Smartphone, TV, Elettrodomestico e molto altro...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — The ad hominem fallacy, which involves bringing negative aspects of an arguer...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — The ad hominem fallacy, which involves bringing negative aspects of an arguer...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: testimony episprob  
-   Link: <a href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/testimony-episprob/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, there is disagreement about where exactly...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/testimony-episprob/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, there is disagreement about where exactly...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Fallacies: Ad Hominem  
-   Link: <a href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ad Hominem Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ad Hominem Fallacy...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Ad Hominem Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=7GzXVqwYHVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7GzXVqwYHVE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacies: Critical Thinking...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7GzXVqwYHVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7GzXVqwYHVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacies: Critical Thinking...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: law.cornell.edu  
    Title: Legal Information Instituteimpeachment of a witness | Wex  
-   Link: <a href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/impeachment_of_a_witness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</p></details>
+   Link:<a href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/impeachment_of_a_witness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nycourts.gov  
-   Link: <a href="https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York CourtsGUDE TO NEW YORK EVIDENCE ARTICLE 6(1) The credibility of a witness may be impeached by evidence that has a tendency in re...</p></details>
+   Link:<a href="https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nycourts.gov/JUDGES/evidence/6-WITNESSES/ARTICLE%206%20RULES.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York CourtsGUDE TO NEW YORK EVIDENCE ARTICLE 6(1) The credibility of a witness may be impeached by evidence that has a tendency in re...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples21 Apr 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on the person making an argument...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples21 Apr 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on the person making an argument...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: armfor.uscourts.gov  
-   Link: <a href="https://www.armfor.uscourts.gov/digest/IIIC11.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.armfor.uscourts.gov/digest/IIIC11.htm</a>  
+   Link:<a href="https://www.armfor.uscourts.gov/digest/IIIC11.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.armfor.uscourts.gov/digest/IIIC11.htm</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: courts.michigan.gov  
-   Link: <a href="https://www.courts.michigan.gov/498da7/siteassets/publications/benchbooks/evidence/evidenceresponsivehtml5.zip/Evidence/Ch_3_Testimony/Impeachment_of_WitnessBias__44__Character__44__Prior_Convictions__44__Prior_Statements-r780c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.courts.michigan.gov/498da7/siteassets/publications/benchbooks/evidence/evidenceresponsivehtml5.zip/Evidence/Ch_3_Testimony/Impeachment_of_WitnessBias__44__Character__44__Prior_Convictions__44__Prior_Statements-r780c.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>michigan.govA. - ​ - Ways to Impeach a WitnessA witness&#x27;s credibility may be attacked or supported by testimony about the witness&#x27;s reput...</p></details>
+   Link:<a href="https://www.courts.michigan.gov/498da7/siteassets/publications/benchbooks/evidence/evidenceresponsivehtml5.zip/Evidence/Ch_3_Testimony/Impeachment_of_WitnessBias__44__Character__44__Prior_Convictions__44__Prior_Statements-r780c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.courts.michigan.gov/498da7/siteassets/publications/benchbooks/evidence/evidenceresponsivehtml5.zip/Evidence/Ch_3_Testimony/Impeachment_of_WitnessBias__44__Character__44__Prior_Convictions__44__Prior_Statements-r780c.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>michigan.govA. - ​ - Ways to Impeach a WitnessA witness&#x27;s credibility may be attacked or supported by testimony about the witness&#x27;s reput...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: okcca.net  
-   Link: <a href="https://okcca.net/ouji-cr/9-21/" target="_blank" rel="noopener noreferrer nofollow">https://okcca.net/ouji-cr/9-21/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impeachment by Prior Bad ActsThis evidence is called impeachment evidence, and it is offered to show that the defendant&#x27;s/witness&#x27;s testi...</p></details>
+   Link:<a href="https://okcca.net/ouji-cr/9-21/" target="_blank" rel="noopener noreferrer nofollow">https://okcca.net/ouji-cr/9-21/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impeachment by Prior Bad ActsThis evidence is called impeachment evidence, and it is offered to show that the defendant&#x27;s/witness&#x27;s testi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/Is-it-ever-OK-to-include-ad-hominem-information-about-an-author-whose-work-you-are-critiquing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Is-it-ever-OK-to-include-ad-hominem-information-about-an-author-whose-work-you-are-critiquing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it ever OK to include &quot;ad hominem&quot; information about an...28 Dec 2013 — -- i.e., so long as you&#x27;re not resting your argument on the a...</p></details>
+   Link:<a href="https://www.researchgate.net/post/Is-it-ever-OK-to-include-ad-hominem-information-about-an-author-whose-work-you-are-critiquing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Is-it-ever-OK-to-include-ad-hominem-information-about-an-author-whose-work-you-are-critiquing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is it ever OK to include &quot;ad hominem&quot; information about an...28 Dec 2013 — -- i.e., so long as you&#x27;re not resting your argument on the a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assigned.org  
-   Link: <a href="https://www.assigned.org/wp-content/uploads/2020/11/Impeachment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.assigned.org/wp-content/uploads/2020/11/Impeachment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a few more words on witness impeachmentThe general rule is that the credibility of a witness may be impeached by evidence that has any te...</p></details>
+   Link:<a href="https://www.assigned.org/wp-content/uploads/2020/11/Impeachment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.assigned.org/wp-content/uploads/2020/11/Impeachment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a few more words on witness impeachmentThe general rule is that the credibility of a witness may be impeached by evidence that has any te...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: philosophy.hku.hk  
-   Link: <a href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/fallacy/list.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hku.hk[F06] List of fallaciesHere are some examples of common fallacies: ad hominem. A theory is discarded not because of any evidence ag...</p></details>
+   Link:<a href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/fallacy/list.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hku.hk[F06] List of fallaciesHere are some examples of common fallacies: ad hominem. A theory is discarded not because of any evidence ag...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wklaw.com  
-   Link: <a href="https://www.wklaw.com/if-you-want-to-win-your-case-your-lawyer-needs-to-know-how-to-get-the-best-evidence-before-the-jury-or-judge-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.wklaw.com/if-you-want-to-win-your-case-your-lawyer-needs-to-know-how-to-get-the-best-evidence-before-the-jury-or-judge-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ensure Your Lawyer Presents the Best Evidence in Court21 Nov 2024 — Improper impeachment occurs when a party attempts to discredit a witn...</p></details>
+   Link:<a href="https://www.wklaw.com/if-you-want-to-win-your-case-your-lawyer-needs-to-know-how-to-get-the-best-evidence-before-the-jury-or-judge-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.wklaw.com/if-you-want-to-win-your-case-your-lawyer-needs-to-know-how-to-get-the-best-evidence-before-the-jury-or-judge-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ensure Your Lawyer Presents the Best Evidence in Court21 Nov 2024 — Improper impeachment occurs when a party attempts to discredit a witn...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: <a href="https://ecampusontario.pressbooks.pub/wsia062018/chapter/13/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/wsia062018/chapter/13/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Epistemology of ArgumentIn a fallacious ad hominem argument in which the arguer is attacked, there is an unsuccessful and poorly f...</p></details>
+   Link:<a href="https://ecampusontario.pressbooks.pub/wsia062018/chapter/13/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/wsia062018/chapter/13/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Epistemology of ArgumentIn a fallacious ad hominem argument in which the arguer is attacked, there is an unsuccessful and poorly f...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/329445311_Witness_Impeachment_in_Cross-Examination_Using_Ad_Hominem_Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329445311_Witness_Impeachment_in_Cross-Examination_Using_Ad_Hominem_Argumentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness Impeachment in Cross-Examination Using Ad...11 Feb 2026 — This paper extends the method by using the inconsistency of commitment...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329445311_Witness_Impeachment_in_Cross-Examination_Using_Ad_Hominem_Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329445311_Witness_Impeachment_in_Cross-Examination_Using_Ad_Hominem_Argumentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witness Impeachment in Cross-Examination Using Ad...11 Feb 2026 — This paper extends the method by using the inconsistency of commitment...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: faculty.fiu.edu  
-   Link: <a href="https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/CT%20Lecture%2015%20Fallacies%20of%20Relevance%20-%20Red%20Herrings.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/CT%20Lecture%2015%20Fallacies%20of%20Relevance%20-%20Red%20Herrings.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 15 Fallacies of Relevance: (Red Herrings)Ad Hominem ([tu quoque](&amp;#123;&amp;#123; &#x27;tu-quoque/&#x27; | relative_url &amp;#125;&amp;#125;), abusive, circumstantial) There are three main types of ad homine...</p></details>
+   Link:<a href="https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/CT%20Lecture%2015%20Fallacies%20of%20Relevance%20-%20Red%20Herrings.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/CT%20Lecture%2015%20Fallacies%20of%20Relevance%20-%20Red%20Herrings.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 15 Fallacies of Relevance: (Red Herrings)Ad Hominem ([tu quoque](&amp;#123;&amp;#123; &#x27;tu-quoque/&#x27; | relative_url &amp;#125;&amp;#125;), abusive, circumstantial) There are three main types of ad homine...</p></details>

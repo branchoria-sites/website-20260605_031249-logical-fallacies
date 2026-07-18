@@ -274,18 +274,18 @@ image: /assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity
 
 ## Introduction
 
-Does popular belief make a claim true? In most cases, no. A large majority can reveal what people think, prefer, fear or support, but it does not by itself establish that a factual, scientific, historical or moral claim is correct. This distinction is central to [relevance]({{ 'relevance/' | relative_url }}) testing in logic. When an argument moves from “many people believe this” to “therefore it is true”, it substitutes evidence about opinion for evidence about the claim itself. Logicians traditionally classify this mistake as an appeal to popularity, or *ad populum* reasoning. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span> The mistake matters because popularity often feels persuasive. Human beings are social creatures, and majority views can provide useful information. Yet a belief can be widely accepted and still be false, just as a minority view can be correct. The key relevance question is not how many people agree, but whether the popularity of the belief bears directly on the truth of the conclusion.
+Does popular belief make a claim true? In most cases, no. A large majority can reveal what people think, prefer, fear or support, but it does not by itself establish that a factual, scientific, historical or moral claim is correct. This distinction is central to [relevance]({{ 'relevance/' | relative_url }}) testing in logic. When an argument moves from “many people believe this” to “therefore it is true”, it substitutes evidence about opinion for evidence about the claim itself. Logicians traditionally classify this mistake as an appeal to popularity, or *ad populum* reasoning. Encyclopedia Britannica<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span> The mistake matters because popularity often feels persuasive. Human beings are social creatures, and majority views can provide useful information. Yet a belief can be widely accepted and still be false, just as a minority view can be correct. The key relevance question is not how many people agree, but whether the popularity of the belief bears directly on the truth of the conclusion.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Where Popularity Evidence Is Relevant
 
 Popularity is not always irrelevant. The crucial issue is what question is being asked.
 
-In governance, public opinion is often directly relevant to decisions about elections, political legitimacy, policy preferences and social acceptance. If a government wants to know whether voters support a tax proposal, polling data are relevant because the question concerns public attitudes. Similarly, market researchers can use popularity data to identify consumer preferences. In such cases, popularity is evidence about what people want or believe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Arguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</span></span></span>
+In governance, public opinion is often directly relevant to decisions about elections, political legitimacy, policy preferences and social acceptance. If a government wants to know whether voters support a tax proposal, polling data are relevant because the question concerns public attitudes. Similarly, market researchers can use popularity data to identify consumer preferences. In such cases, popularity is evidence about what people want or believe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Arguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</span></span></span>
 
 There are also limited cases where widespread agreement provides indirect evidence. If many independent observers report the same event, their agreement may increase confidence that something happened. However, the evidential force comes from the independence and reliability of the observations, not from the sheer number of believers. A crowd of witnesses can be informative because each witness contributes evidence, not because majority opinion magically creates truth.
 
-Some matters are partly defined by social agreement. Language is a familiar example. The meaning of a word often depends on how speakers collectively use it. In such cases, consensus helps determine the answer because the subject itself concerns social conventions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argumentum ad populum</span><span class="citation-popover-snippet">Argumentum ad populum</span></span></span>
+Some matters are partly defined by social agreement. Language is a familiar example. The meaning of a word often depends on how speakers collectively use it. In such cases, consensus helps determine the answer because the subject itself concerns social conventions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argumentum ad populum</span><span class="citation-popover-snippet">Argumentum ad populum</span></span></span>
 
 These examples show that popularity can be relevant when the conclusion is about preferences, conventions or collective choices. The problem arises when popularity is treated as proof of factual correctness.
 
@@ -295,10 +295,10 @@ The appeal to popularity becomes fallacious when the argument follows this patte
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MDCORPK8rKw" title="😎 Appeal Meaning - Appeal Defined - Appealing Examples - Appeal Definition - Appeal Appealing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MDCORPK8rKw" target="_blank" rel="noopener noreferrer">😎 Appeal Meaning - Appeal Defined - Appealing Examples - Appeal Definition - Appeal Appealing</a></p><p class="youtube-embed-meta">Channel: iswearenglish &middot; Views: 2.8K &middot; Uploaded: November 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MDCORPK8rKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MDCORPK8rKw">Open on YouTube</a></p></div></div></div>
 
-1. Many people believe claim X. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
+1. Many people believe claim X.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
 2. Therefore claim X is true.
 
-The weakness lies in the missing connection between belief and reality. Whether people believe something and whether it is true are separate questions. A belief can be sincere, widespread and mistaken. Logical reference works consistently identify this move as a fallacy because it replaces reasons and evidence with popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span>
+The weakness lies in the missing connection between belief and reality. Whether people believe something and whether it is true are separate questions. A belief can be sincere, widespread and mistaken. Logical reference works consistently identify this move as a fallacy because it replaces reasons and evidence with popularity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span>
 
 Consider several common forms:
 
@@ -307,7 +307,7 @@ Consider several common forms:
 * **Moral claims:** “Most people approve of this practice, therefore it is morally right.”
 * **Commercial claims:** “This is the best product because it is the most popular.”
 
-In each case, popularity may describe social reality, but it does not settle the substantive question. Evidence about historical records, scientific testing, ethical principles or product performance is still required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/bandwagn.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Bandwagon FallacyThe Bandwagon Fallacy is committed whenever one argues for an idea based upon an irrelevant appeal to its popularity...</span></span></span>
+In each case, popularity may describe social reality, but it does not settle the substantive question. Evidence about historical records, scientific testing, ethical principles or product performance is still required.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/bandwagn.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Bandwagon FallacyThe Bandwagon Fallacy is committed whenever one argues for an idea based upon an irrelevant appeal to its popularity...</span></span></span>
 
 A useful relevance test asks: if the number of believers suddenly changed, would the facts change as well? For many factual claims, the answer is clearly no. A disease does not become harmless because most people think it is harmless. A historical event does not become real because a majority believes it occurred.
 
@@ -317,9 +317,9 @@ One reason the fallacy persists is that people often assume large groups are unl
 
 The underlying [mechanisms]({{ 'mechanisms/' | relative_url }}) are well studied. People learn from one another, imitate respected peers and respond to social pressure. A belief can spread because it is repeated, rewarded or culturally embedded rather than because it has been independently verified.
 
-The classic conformity experiments conducted by psychologist Solomon Asch demonstrated that individuals sometimes agree with a majority even when the majority's answer is obviously wrong. Participants frequently altered their responses to align with a group consensus despite clear visual evidence to the contrary. Later replications and extensions found that social influence remains powerful across different contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">asch conformity</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line Experiment15 May 2025 — Solomon Asch experimented with investigating the extent to which social pre...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 61 — In this paper, we pursue four goals: Fir...</span></span></span>
+The classic conformity experiments conducted by psychologist Solomon Asch demonstrated that individuals sometimes agree with a majority even when the majority's answer is obviously wrong. Participants frequently altered their responses to align with a group consensus despite clear visual evidence to the contrary. Later replications and extensions found that social influence remains powerful across different contexts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">asch conformity</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line Experiment15 May 2025 — Solomon Asch experimented with investigating the extent to which social pre...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 61 — In this paper, we pursue four goals: Fir...</span></span></span>
 
-These findings do not prove that majorities are usually wrong. They show something more important for reasoning: popularity and truth can diverge. The fact that many people endorse a claim may reflect social influence rather than evidential strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-title">Verywell Mind The Asch Conformity Experiments</span><span class="citation-popover-snippet">Verywell MindThe Asch Conformity ExperimentsFebruary 9, 2009 — 26 Oct 2025 — After combining the trials, the results indicated that parti...</span><span class="citation-popover-meta">Published: February 9, 2009</span></span></span>
+These findings do not prove that majorities are usually wrong. They show something more important for reasoning: popularity and truth can diverge. The fact that many people endorse a claim may reflect social influence rather than evidential strength.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-title">Verywell Mind The Asch Conformity Experiments</span><span class="citation-popover-snippet">Verywell MindThe Asch Conformity ExperimentsFebruary 9, 2009 — 26 Oct 2025 — After combining the trials, the results indicated that parti...</span><span class="citation-popover-meta">Published: February 9, 2009</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-dark.svg" | relative_url }}" alt="Popularity illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Popularity, Governance and Public Decision-Making
@@ -360,7 +360,7 @@ A million people repeating the same unsupported claim may represent one piece of
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-dark.svg" | relative_url }}" alt="Popularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Is the Issue About Convention or About Reality?
 
-Questions about language, customs or collective rules often depend on social agreement. Questions about scientific facts, historical events or physical processes generally require evidence that exists independently of public opinion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experimentsIn psychology, the Asch conformity experiments were a series of studies testing the Asch paradigm, directed...</span></span></span>
+Questions about language, customs or collective rules often depend on social agreement. Questions about scientific facts, historical events or physical processes generally require evidence that exists independently of public opinion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experimentsIn psychology, the Asch conformity experiments were a series of studies testing the Asch paradigm, directed...</span></span></span>
 
 ### Would Expert Agreement Matter for a Different Reason?
 
@@ -370,274 +370,274 @@ A broad [expert consensus]({{ 'expert-consensus/' | relative_url }}) may carry e
 
 Popularity claims become stronger reasoning only when they are connected to the specific issue being debated. If the issue is what people prefer, support or accept, popularity may be highly relevant. If the issue is whether a factual claim is true, popularity alone is usually beside the point.
 
-A simple test is to replace the statement “many people believe this” with “many people believe this, but they might all be mistaken”. If the argument collapses, it was relying on popularity rather than proof. That is the hallmark of an appeal to popularity: treating widespread belief as if it were evidence of truth rather than evidence of what people happen to think. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
+A simple test is to replace the statement “many people believe this” with “many people believe this, but they might all be mistaken”. If the argument collapses, it was relying on popularity rather than proof. That is the hallmark of an appeal to popularity: treating widespread belief as if it were evidence of truth rather than evidence of what people happen to think. Encyclopedia Britannica<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/70nPe7Fo3DA" title="Critical Thinking: The Fallacy of Appeal To Popularity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=70nPe7Fo3DA" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal To Popularity</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 4.9K &middot; Uploaded: November 2014 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=70nPe7Fo3DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=70nPe7Fo3DA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Popular Belief Make a Claim True?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Popular Belief Make a Claim True?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses why popularity and belief are not reliable tests of truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses why popularity and belief are not reliable tests of truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Covers relevance and common reasoning mistakes including appeals to popularity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers relevance and common reasoning mistakes including appeals to popularity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Helps readers distinguish evidence from consensus or opinion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish evidence from consensus or opinion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Examines how beliefs spread and how evidence should be evaluated independently of popularity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how beliefs spread and how evidence should be evaluated independently of popularity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=popularity-1baf18-does-popular-belief-make-a-claim-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -653,7 +653,7 @@ A simple test is to replace the statement “many people believe this” with �
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -673,7 +673,7 @@ A simple test is to replace the statement “many people believe this” with �
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -705,7 +705,7 @@ A simple test is to replace the statement “many people believe this” with �
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -735,7 +735,7 @@ A simple test is to replace the statement “many people believe this” with �
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -793,205 +793,205 @@ A simple test is to replace the statement “many people believe this” with �
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: argumentum ad populum  
-   Link: <a href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-populum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaArgumentum ad populum | logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</p></details>
+   Link:<a href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-populum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaArgumentum ad populum | logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: ad populum fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-populum-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-populum-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11245-022-09872-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11245-022-09872-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Argumentum ad populum  
-   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaFallacy | Logic, Definition &amp; ExamplesFeb 13, 2026 — ad populum (an appeal “to the people”), which, instead of off...</p></details>
+   Link:<a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaFallacy | Logic, Definition &amp; ExamplesFeb 13, 2026 — ad populum (an appeal “to the people”), which, instead of off...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/bandwagn.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/bandwagn.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Bandwagon](&amp;#123;&amp;#123; &#x27;bandwagon/&#x27; | relative_url &amp;#125;&amp;#125;) FallacyThe Bandwagon Fallacy is committed whenever one argues for an idea based upon an irrelevant appeal to its popularity...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/bandwagn.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/bandwagn.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Bandwagon](&amp;#123;&amp;#123; &#x27;bandwagon/&#x27; | relative_url &amp;#125;&amp;#125;) FallacyThe Bandwagon Fallacy is committed whenever one argues for an idea based upon an irrelevant appeal to its popularity...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 61 — In this paper, we pursue four goals: Fir...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 61 — In this paper, we pursue four goals: Fir...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Asch conformity experiments  
-   Link: <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experimentsIn psychology, [the Asch conformity experiments](&amp;#123;&amp;#123; &#x27;the-asch-conformity-experiments/&#x27; | relative_url &amp;#125;&amp;#125;) were a series of studies testing the Asch paradigm, directed...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experimentsIn psychology, [the Asch conformity experiments](&amp;#123;&amp;#123; &#x27;the-asch-conformity-experiments/&#x27; | relative_url &amp;#125;&amp;#125;) were a series of studies testing the Asch paradigm, directed...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
    Title: argument logic  
-   Link: <a href="https://www.britannica.com/topic/argument-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argument-logic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument | logicFeb 13, 2026 —... argument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals t...</p></details>
+   Link:<a href="https://www.britannica.com/topic/argument-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argument-logic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument | logicFeb 13, 2026 —... argument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: circular argument  
-   Link: <a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>argument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals to such popular attitudes as the...</p></details>
+   Link:<a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>argument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals to such popular attitudes as the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: Applied logic | Fallacies, Varieties, & Facts  
-   Link: <a href="https://www.britannica.com/topic/applied-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>appeals to pity (traditionally called the fallacy of ad misericordiam), to authority (ad verecundiam), or to popular opinion (ad populum)...</p></details>
+   Link:<a href="https://www.britannica.com/topic/applied-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>appeals to pity (traditionally called the fallacy of ad misericordiam), to authority (ad verecundiam), or to popular opinion (ad populum)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/validity" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/validity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning, Argument, EvidenceFeb 13, 2026 — ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals t...</p></details>
+   Link:<a href="https://www.britannica.com/topic/validity" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/validity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning, Argument, EvidenceFeb 13, 2026 — ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: What Is the Either-Or Fallacy?  
-   Link: <a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;), Dichotomy...Feb 13, 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</p></details>
+   Link:<a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;), Dichotomy...Feb 13, 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
    Title: Applied logic  
-   Link: <a href="https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nonverbal Fallacies... appeals to pity (traditionally called the fallacy of ad misericordiam), to authority (ad verecundiam), or to popul...</p></details>
+   Link:<a href="https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nonverbal Fallacies... appeals to pity (traditionally called the fallacy of ad misericordiam), to authority (ad verecundiam), or to popul...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/argumentum-ad-baculum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-baculum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad baculum | logicArgument ad baculum (an appeal “to force”), which rests on a threatened or implied use of force to induce ac...</p></details>
+   Link:<a href="https://www.britannica.com/topic/argumentum-ad-baculum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-baculum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad baculum | logicArgument ad baculum (an appeal “to force”), which rests on a threatened or implied use of force to induce ac...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Appeal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AppealIn law, an appeal is the process in which cases or decisions are reviewed by a higher authority, where parties request a formal...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Appeal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AppealIn law, an appeal is the process in which cases or decisions are reviewed by a higher authority, where parties request a formal...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psychology.town  
    Title: reevaluating aschs experiments critical perspective  
-   Link: <a href="https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reevaluating Asch&#x27;s Experiments: A Critical PerspectiveNov 19, 2025 — Participants who were more confident in their own perceptions were...</p></details>
+   Link:<a href="https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reevaluating Asch&#x27;s Experiments: A Critical PerspectiveNov 19, 2025 — Participants who were more confident in their own perceptions were...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychology.town  
    Title: asch conformity line length experiments  
-   Link: <a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: social influence, group pressure, a...</p></details>
+   Link:<a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: social influence, group pressure, a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: simplypsychology.org  
    Title: asch conformity  
-   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyAsch Conformity Line Experiment15 May 2025 — Solomon Asch experimented with investigating the extent to which social pre...</p></details>
+   Link:<a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyAsch Conformity Line Experiment15 May 2025 — Solomon Asch experimented with investigating the extent to which social pre...</p></details>
    Published: May 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: verywellmind.com  
    Title: Verywell Mind The Asch Conformity Experiments  
-   Link: <a href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/the-asch-conformity-experiments-2794996</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verywell MindThe Asch Conformity ExperimentsFebruary 9, 2009 — 26 Oct 2025 — After combining the trials, the results indicated that parti...</p></details>
+   Link:<a href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/the-asch-conformity-experiments-2794996</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verywell MindThe Asch Conformity ExperimentsFebruary 9, 2009 — 26 Oct 2025 — After combining the trials, the results indicated that parti...</p></details>
    Published: February 9, 2009  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/appeal" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/appeal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to request formally that a decision, esp. a legal or official one, be changed: [ T ] The verdict was appealed to a higher...Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/appeal" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/appeal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to request formally that a decision, esp. a legal or official one, be changed: [ T ] The verdict was appealed to a higher...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/scireas/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/popular.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to the PeopleThe argument based upon what most or all people think or believe is characterized and shown to be sometimes persuasive but n...</p></details>
+   Link:<a href="https://philosophy.lander.edu/scireas/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/popular.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to the PeopleThe argument based upon what most or all people think or believe is characterized and shown to be sometimes persuasive but n...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tutor2u.net  
-   Link: <a href="https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOooOOF9RzrtKCnWsw7vwa2i1GHp1bzd5U6Yb-lLQwzC38SbXFm-r" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOooOOF9RzrtKCnWsw7vwa2i1GHp1bzd5U6Yb-lLQwzC38SbXFm-r</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conformity - Asch (1951) | Reference Library | Psychology3 Dec 2025 — Asch wanted to see if the real participant would conform to the maj...</p></details>
+   Link:<a href="https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOooOOF9RzrtKCnWsw7vwa2i1GHp1bzd5U6Yb-lLQwzC38SbXFm-r" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOooOOF9RzrtKCnWsw7vwa2i1GHp1bzd5U6Yb-lLQwzC38SbXFm-r</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conformity - Asch (1951) | Reference Library | Psychology3 Dec 2025 — Asch wanted to see if the real participant would conform to the maj...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 96 — [Informal logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) (“IL”) is the study of reasoning and infere...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 96 — [Informal logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) (“IL”) is the study of reasoning and infere...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.org1911 Encyclopædia Britannica/Fallacy - Wikisource22 Jun 2022 — Under this head come the so-called argumentum (a) ad hominem...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.org1911 Encyclopædia Britannica/Fallacy - Wikisource22 Jun 2022 — Under this head come the so-called argumentum (a) ad hominem...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ebsco.com  
    Title: asch conformity experiments  
-   Link: <a href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/asch-conformity-experiments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History | Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/asch-conformity-experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History | Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/appeal" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/appeal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>APPEAL Definition &amp; MeaningThe meaning of APPEAL is a legal proceeding by which a case is brought before a higher court for review of the...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/appeal" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/appeal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APPEAL Definition &amp; MeaningThe meaning of APPEAL is a legal proceeding by which a case is brought before a higher court for review of the...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: psychstory.co.uk  
-   Link: <a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYHis findings suggested that conformity rates might be lower when individuals are not under direct gro...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYHis findings suggested that conformity rates might be lower when individuals are not under direct gro...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PopularityAppeal to Popularity... Description: Using the popularity of a premise or proposition as evidence for its truthfulne...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PopularityAppeal to Popularity... Description: Using the popularity of a premise or proposition as evidence for its truthfulne...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: madeofmillions.com  
-   Link: <a href="https://www.madeofmillions.com/articles/the-asch-conformity-study" target="_blank" rel="noopener noreferrer nofollow">https://www.madeofmillions.com/articles/the-asch-conformity-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity StudyThe Asch Conformity Study shows how a group majority can influence decisions. However, the results aren&#x27;t someth...</p></details>
+   Link:<a href="https://www.madeofmillions.com/articles/the-asch-conformity-study" target="_blank" rel="noopener noreferrer nofollow">https://www.madeofmillions.com/articles/the-asch-conformity-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity StudyThe Asch Conformity Study shows how a group majority can influence decisions. However, the results aren&#x27;t someth...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-5.3" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-5.3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open UniversityStarting with psychology: 5.3 Groups and conformityOut of fifty participants in Asch&#x27;s original study, 75 per cent con...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-5.3" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-5.3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Open UniversityStarting with psychology: 5.3 Groups and conformityOut of fifty participants in Asch&#x27;s original study, 75 per cent con...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wordwebonline.com  
-   Link: <a href="https://www.wordwebonline.com/en/APPEAL" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/APPEAL</a>  
+   Link:<a href="https://www.wordwebonline.com/en/APPEAL" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/APPEAL</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: learn.academy4sc.org  
    Title: the asch conformity experiments the line between independence and conformity  
-   Link: <a href="https://learn.academy4sc.org/video/the-asch-conformity-experiments-the-line-between-independence-and-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/the-asch-conformity-experiments-the-line-between-independence-and-conformity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch Conformity Experiments: The Line Between...Despite the fact that only a minority of the total responses were wrong, a majority of s...</p></details>
+   Link:<a href="https://learn.academy4sc.org/video/the-asch-conformity-experiments-the-line-between-independence-and-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/the-asch-conformity-experiments-the-line-between-independence-and-conformity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asch Conformity Experiments: The Line Between...Despite the fact that only a minority of the total responses were wrong, a majority of s...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: law.cornell.edu  
-   Link: <a href="https://www.law.cornell.edu/wex/appeal" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/appeal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An appeal is directed towards a legal power higher than the power making the challenged...Read more...</p></details>
+   Link:<a href="https://www.law.cornell.edu/wex/appeal" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/appeal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An appeal is directed towards a legal power higher than the power making the challenged...Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: choicepointpsychology.au  
-   Link: <a href="https://choicepointpsychology.au/blog/everyone-else-was-doing-it-what-aschs-conformity-study-teaches-us-about-peer-pressure" target="_blank" rel="noopener noreferrer nofollow">https://choicepointpsychology.au/blog/everyone-else-was-doing-it-what-aschs-conformity-study-teaches-us-about-peer-pressure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Or how a work meeting can go strangely silent until the boss speaks and...Read more...</p></details>
+   Link:<a href="https://choicepointpsychology.au/blog/everyone-else-was-doing-it-what-aschs-conformity-study-teaches-us-about-peer-pressure" target="_blank" rel="noopener noreferrer nofollow">https://choicepointpsychology.au/blog/everyone-else-was-doing-it-what-aschs-conformity-study-teaches-us-about-peer-pressure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Or how a work meeting can go strangely silent until the boss speaks and...Read more...</p></details>

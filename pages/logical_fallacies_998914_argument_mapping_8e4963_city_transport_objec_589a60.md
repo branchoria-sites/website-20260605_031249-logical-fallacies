@@ -277,7 +277,7 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_tran
 City transport debates are fertile ground for argument mapping because objections come from many directions at once. A proposal such as a congestion charge, low-traffic neighbourhood (LTN), bus-priority corridor, or city-centre car restriction can be criticised on factual, ethical, economic, political, or practical grounds. When these objections are mixed together, it becomes difficult to tell whether they undermine the policy itself, challenge the evidence supporting it, or merely express a competing preference.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-dark.svg" | relative_url }}" alt="Policy Objections illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Argument mapping helps separate these strands. Instead of treating all criticism as equal, it asks a more precise question: what exactly is being challenged? Is the objection attacking the evidence, exposing a hidden assumption, highlighting an overlooked trade-off, or identifying an implementation problem? This distinction matters because some objections reveal weak reasoning, while others simply show that reasonable people value different outcomes. Transport policy researchers repeatedly note that successful decision-making depends on distinguishing evidence questions from political, distributive, and governance questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instituteforgovernment.org.uk">[Institute for Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instituteforgovernment.org.uk</span><span class="citation-popover-title">Institute for Government How governments use evidence to make transport policy</span><span class="citation-popover-snippet">Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</span><span class="citation-popover-meta">Published: March 5, 2021</span></span></span>
+Argument mapping helps separate these strands. Instead of treating all criticism as equal, it asks a more precise question: what exactly is being challenged? Is the objection attacking the evidence, exposing a hidden assumption, highlighting an overlooked trade-off, or identifying an implementation problem? This distinction matters because some objections reveal weak reasoning, while others simply show that reasonable people value different outcomes. Transport policy researchers repeatedly note that successful decision-making depends on distinguishing evidence questions from political, distributive, and governance questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instituteforgovernment.org.uk">[Institute for Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instituteforgovernment.org.uk</span><span class="citation-popover-title">Institute for Government How governments use evidence to make transport policy</span><span class="citation-popover-snippet">Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</span><span class="citation-popover-meta">Published: March 5, 2021</span></span></span>
 
 ## Do the Objections Undermine the Policy or the Reasoning?
 
@@ -322,7 +322,7 @@ Examples include:
 
 Such objections require factual investigation rather than rhetorical debate. If the supporting evidence is weak, the reasoning may fail. If the evidence is strong, the objection loses force.
 
-Transport research generally finds that congestion charging and similar demand-management measures can reduce traffic volumes and congestion, although the size of the effect varies by design and local conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Decongesting our Cities</span><span class="citation-popover-snippet">Decongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">London Congestion Pricing – Implications for Other CitiesSimilar schemes in London and Milan showed that congestion pricing can reduce ve...</span></span></span>
+Transport research generally finds that congestion charging and similar demand-management measures can reduce traffic volumes and congestion, although the size of the effect varies by design and local conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Decongesting our Cities</span><span class="citation-popover-snippet">Decongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">London Congestion Pricing – Implications for Other CitiesSimilar schemes in London and Milan showed that congestion pricing can reduce ve...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKplZwqFwVk" title="The U.S. National Blueprint for Transportation Decarbonization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer">The U.S. National Blueprint for Transportation Decarbonization</a></p><p class="youtube-embed-meta">Channel: U.S. Department of Energy &middot; Views: 2.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKplZwqFwVk">Open on YouTube</a></p></div></div></div>
 
@@ -354,7 +354,7 @@ A critic might say:
 
 This is not necessarily a factual disagreement. It is a disagreement about values and policy goals.
 
-Transport policy routinely involves balancing congestion, emissions, accessibility, economic activity, public health, fairness, and political acceptability. Governments commonly use cost-benefit analysis and broader social evaluation precisely because multiple objectives must be weighed simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instituteforgovernment.org.uk">[Institute for Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instituteforgovernment.org.uk</span><span class="citation-popover-title">Institute for Government How governments use evidence to make transport policy</span><span class="citation-popover-snippet">Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</span><span class="citation-popover-meta">Published: March 5, 2021</span></span></span>
+Transport policy routinely involves balancing congestion, emissions, accessibility, economic activity, public health, fairness, and political acceptability. Governments commonly use cost-benefit analysis and broader social evaluation precisely because multiple objectives must be weighed simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instituteforgovernment.org.uk">[Institute for Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instituteforgovernment.org.uk</span><span class="citation-popover-title">Institute for Government How governments use evidence to make transport policy</span><span class="citation-popover-snippet">Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</span><span class="citation-popover-meta">Published: March 5, 2021</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-2-dark.svg" | relative_url }}" alt="Policy Objections illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Implementation Objections
@@ -394,7 +394,7 @@ Argument mapping does not automatically identify a fallacy, but it shows where o
 
 Debates over LTNs illustrate why classification matters.
 
-Opponents often argue that LTNs push congestion onto surrounding roads, increase journey times, hurt businesses, or disadvantage people who rely on cars. Supporters frequently point to reductions in through-traffic, improved safety, lower pollution exposure, and increased walking and cycling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">low traffic neighbourhoods research report</span><span class="citation-popover-snippet">Traffic Neighbourhoods Research report March 2024March 15, 2024 — For example, the evidence suggests that impacts (positive or negative)...</span><span class="citation-popover-meta">Published: March 15, 2024</span></span></span>
+Opponents often argue that LTNs push congestion onto surrounding roads, increase journey times, hurt businesses, or disadvantage people who rely on cars. Supporters frequently point to reductions in through-traffic, improved safety, lower pollution exposure, and increased walking and cycling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">low traffic neighbourhoods research report</span><span class="citation-popover-snippet">Traffic Neighbourhoods Research report March 2024March 15, 2024 — For example, the evidence suggests that impacts (positive or negative)...</span><span class="citation-popover-meta">Published: March 15, 2024</span></span></span>
 
 An [argument map]({{ 'argument-map/' | relative_url }}) reveals that several distinct disputes are occurring simultaneously:
 
@@ -407,7 +407,7 @@ An [argument map]({{ 'argument-map/' | relative_url }}) reveals that several dis
 
 </div>
 
-Evidence reviews commissioned by the UK government have reported that LTNs generally reduce traffic within the affected area and that negative effects on surrounding roads appear limited, although perceptions of increased congestion often remain strong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">low traffic neighbourhoods research report</span><span class="citation-popover-snippet">Traffic Neighbourhoods Research report March 2024March 15, 2024 — For example, the evidence suggests that impacts (positive or negative)...</span><span class="citation-popover-meta">Published: March 15, 2024</span></span></span>
+Evidence reviews commissioned by the UK government have reported that LTNs generally reduce traffic within the affected area and that negative effects on surrounding roads appear limited, although perceptions of increased congestion often remain strong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">low traffic neighbourhoods research report</span><span class="citation-popover-snippet">Traffic Neighbourhoods Research report March 2024March 15, 2024 — For example, the evidence suggests that impacts (positive or negative)...</span><span class="citation-popover-meta">Published: March 15, 2024</span></span></span>
 
 This distinction is important for fallacy detection. If someone argues that a policy fails solely because residents believe congestion increased, they may be substituting perception for evidence. Conversely, a supporter who points only to traffic statistics while ignoring concerns about accessibility or consultation may be overlooking a different category of objection altogether.
 
@@ -429,7 +429,7 @@ This is one reason transport controversies are useful teaching examples. They of
 
 Not every successful objection defeats a policy. Sometimes it merely shifts the comparison toward an alternative.
 
-Suppose critics show that a congestion charge imposes disproportionate costs on certain groups. That finding may not imply that congestion should remain unaddressed. Instead, it may support modifications such as exemptions, rebates, public-transport investment, or revenue recycling. Research on road-pricing acceptability consistently finds that public support depends heavily on perceived fairness and the use of revenues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theicct.org">[ICCT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theicct.org</span><span class="citation-popover-title">Existing.Read more</span><span class="citation-popover-snippet">ICCTCongestion Charging: Challenges and OpportunitiesApril 21, 2010 — ➢ Convenient, flexible payment systems are important components to...</span><span class="citation-popover-meta">Published: April 21, 2010</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The acceptability of road pricing: Evidence from two studies...by M Dieplinger · 2014 · Cited by 58 — The results indicate...</span></span></span>
+Suppose critics show that a congestion charge imposes disproportionate costs on certain groups. That finding may not imply that congestion should remain unaddressed. Instead, it may support modifications such as exemptions, rebates, public-transport investment, or revenue recycling. Research on road-pricing acceptability consistently finds that public support depends heavily on perceived fairness and the use of revenues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theicct.org">[ICCT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theicct.org</span><span class="citation-popover-title">Existing.Read more</span><span class="citation-popover-snippet">ICCTCongestion Charging: Challenges and OpportunitiesApril 21, 2010 — ➢ Convenient, flexible payment systems are important components to...</span><span class="citation-popover-meta">Published: April 21, 2010</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The acceptability of road pricing: Evidence from two studies...by M Dieplinger · 2014 · Cited by 58 — The results indicate...</span></span></span>
 
 Argument mapping helps distinguish between:
 
@@ -443,7 +443,7 @@ Argument mapping helps distinguish between:
 
 These are different conclusions and require different evidence.
 
-A well-structured map therefore includes competing alternatives rather than treating the debate as a simple choice between action and inaction. Policy analysts commonly compare multiple options because identifying weaknesses in one proposal does not automatically establish the superiority of another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justicepolicynetwork.com">[justicepolicynetwork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justicepolicynetwork.com</span><span class="citation-popover-snippet">A Practical Guide for Policy AnalysisA practical guide for policy analysis: the eightfold path to more effective problem solving / Eugen...</span></span></span>
+A well-structured map therefore includes competing alternatives rather than treating the debate as a simple choice between action and inaction. Policy analysts commonly compare multiple options because identifying weaknesses in one proposal does not automatically establish the superiority of another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justicepolicynetwork.com">[justicepolicynetwork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justicepolicynetwork.com</span><span class="citation-popover-snippet">A Practical Guide for Policy AnalysisA practical guide for policy analysis: the eightfold path to more effective problem solving / Eugen...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=NJxTGuIQFh0</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=NJxTGuIQFh0</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJxTGuIQFh0">Open on YouTube</a></p></div></div></div>
 
@@ -456,194 +456,194 @@ The most valuable insight is that objections are not interchangeable. A challeng
 Once these distinctions are mapped, many apparent disagreements become clearer. Some objections genuinely expose weak reasoning. Others reveal competing values or preferred trade-offs. For anyone trying to identify [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), that distinction is crucial: before deciding whether an argument is fallacious, it is necessary to know exactly which part of the argument is under attack.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do the Objections Undermine the Policy or the Reasoning?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do the Objections Undermine the Policy or the Reasoning?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Helps classify objections and evaluate policy arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps classify objections and evaluate policy arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Useful for mapping evidence, trade-offs and objections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for mapping evidence, trade-offs and objections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Shows how to assess competing lines of reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to assess competing lines of reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages fair evaluation of policy disagreements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages fair evaluation of policy disagreements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Underground Cities: Mapping the tunne..., Ovenden, Mark"><img src="https://i.ebayimg.com/images/g/CWgAAeSwdstpNVH7/s-l225.jpg" alt="Listing image for Underground Cities: Mapping the tunne..., Ovenden, Mark" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Underground Cities: Mapping the tunne..., Ovenden, Mark</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Underground Cities: Mapping the tunne..., Ovenden, Mark"><img src="https://i.ebayimg.com/images/g/CWgAAeSwdstpNVH7/s-l225.jpg" alt="Listing image for Underground Cities: Mapping the tunne..., Ovenden, Mark" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Underground Cities: Mapping the tunne..., Ovenden, Mark</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated"><img src="https://i.ebayimg.com/images/g/PTAAAOSwHbZoNd1R/s-l225.jpg" alt="Listing image for UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated"><img src="https://i.ebayimg.com/images/g/PTAAAOSwHbZoNd1R/s-l225.jpg" alt="Listing image for UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)"><img src="https://i.ebayimg.com/images/g/L68AAeSwi5dpa-m7/s-l225.jpg" alt="Listing image for Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)"><img src="https://i.ebayimg.com/images/g/L68AAeSwi5dpa-m7/s-l225.jpg" alt="Listing image for Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)"><img src="https://i.ebayimg.com/images/g/bKsAAeSwbZxpa-mu/s-l225.jpg" alt="Listing image for Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)"><img src="https://i.ebayimg.com/images/g/bKsAAeSwbZxpa-mu/s-l225.jpg" alt="Listing image for Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -659,7 +659,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -679,7 +679,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -711,7 +711,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -763,7 +763,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -808,7 +808,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -849,124 +849,124 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oecd.org  
    Title: Decongesting our Cities  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</p></details>
    Published: May 14, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London Congestion Pricing – Implications for Other CitiesSimilar schemes in London and Milan showed that congestion pricing can reduce ve...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London Congestion Pricing – Implications for Other CitiesSimilar schemes in London and Milan showed that congestion pricing can reduce ve...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justicepolicynetwork.com  
-   Link: <a href="https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide for Policy AnalysisA practical guide for policy analysis: the eightfold path to more effective problem solving / Eugen...</p></details>
+   Link:<a href="https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide for Policy AnalysisA practical guide for policy analysis: the eightfold path to more effective problem solving / Eugen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: low traffic neighbourhoods research report  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Neighbourhoods Research report March 2024March 15, 2024 — For example, the evidence suggests that impacts (positive or negative)...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Neighbourhoods Research report March 2024March 15, 2024 — For example, the evidence suggests that impacts (positive or negative)...</p></details>
    Published: March 15, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theicct.org  
    Title: Existing.Read more  
-   Link: <a href="https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICCTCongestion Charging: Challenges and OpportunitiesApril 21, 2010 — ➢ Convenient, flexible payment systems are important components to...</p></details>
+   Link:<a href="https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICCTCongestion Charging: Challenges and OpportunitiesApril 21, 2010 — ➢ Convenient, flexible payment systems are important components to...</p></details>
    Published: April 21, 2010  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The acceptability of road pricing: Evidence from two studies...by M Dieplinger · 2014 · Cited by 58 — The results indicate...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The acceptability of road pricing: Evidence from two studies...by M Dieplinger · 2014 · Cited by 58 — The results indicate...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0965856424002246" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0965856424002246</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating acceptance and controversy of transport policiesby M Mehdizadeh · 2024 · Cited by 32 — The current study contributes to the li...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0965856424002246" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0965856424002246</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating acceptance and controversy of transport policiesby M Mehdizadeh · 2024 · Cited by 32 — The current study contributes to the li...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: Broad support vs  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0967070X23002937" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0967070X23002937</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>deep opposition: The [politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;) of bus rapid...by N Goedeking · 2024 · Cited by 16 — This paper addresses this gap by examining how politi...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0967070X23002937" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0967070X23002937</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deep opposition: The [politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;) of bus rapid...by N Goedeking · 2024 · Cited by 16 — This paper addresses this gap by examining how politi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: one.oecd.org  
-   Link: <a href="https://one.oecd.org/document/ENV/WKP%282023%293/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/ENV/WKP%282023%293/en/pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of urban transport policies to...1 Mar 2023 — At the same time, congestion pricing reduces traffic externalities such as air pol...</p></details>
+   Link:<a href="https://one.oecd.org/document/ENV/WKP%282023%293/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/ENV/WKP%282023%293/en/pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects of urban transport policies to...1 Mar 2023 — At the same time, congestion pricing reduces traffic externalities such as air pol...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227427425_Policy_transfer_and_learning_in_the_field_of_transport_A_review_of_concepts_and_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227427425_Policy_transfer_and_learning_in_the_field_of_transport_A_review_of_concepts_and_evidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/227427425_Policy_transfer_and_learning_in_the_field_of_transport_A_review_of_concepts_and_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227427425_Policy_transfer_and_learning_in_the_field_of_transport_A_review_of_concepts_and_evidence</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instituteforgovernment.org.uk  
    Title: Institute for Government How governments use evidence to make transport policy  
-   Link: <a href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</p></details>
+   Link:<a href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</p></details>
    Published: March 5, 2021  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk-news/2025/may/18/evidence-shows-that-ltns-improve-peoples-lives" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2025/may/18/evidence-shows-that-ltns-improve-peoples-lives</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporters argue that LTNs reduce overall traffic, improve safety by decreasing collisions and injuries, and lower pollution, citing comp...</p></details>
+   Link:<a href="https://www.theguardian.com/uk-news/2025/may/18/evidence-shows-that-ltns-improve-peoples-lives" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2025/may/18/evidence-shows-that-ltns-improve-peoples-lives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supporters argue that LTNs reduce overall traffic, improve safety by decreasing collisions and injuries, and lower pollution, citing comp...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk-news/2024/mar/08/low-traffic-neighbourhoods-generally-popular-report-ordered-by-sunak-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/mar/08/low-traffic-neighbourhoods-generally-popular-report-ordered-by-sunak-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the Department for Transport, the review was initiated to garner evidence against LTNs but instead showed that twice as many...</p></details>
+   Link:<a href="https://www.theguardian.com/uk-news/2024/mar/08/low-traffic-neighbourhoods-generally-popular-report-ordered-by-sunak-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/mar/08/low-traffic-neighbourhoods-generally-popular-report-ordered-by-sunak-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the Department for Transport, the review was initiated to garner evidence against LTNs but instead showed that twice as many...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: freepolicybriefs.org  
    Title: Research suggests that a new cashback model may boost public support  
-   Link: <a href="https://freepolicybriefs.org/2025/02/03/congestion-pricing/" target="_blank" rel="noopener noreferrer nofollow">https://freepolicybriefs.org/2025/02/03/congestion-pricing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FREE NETWORKRoad Congestion Pricing with A Public Transport Cashback...3 Feb 2025 — Congestion pricing can ease traffic, but fairness co...</p></details>
+   Link:<a href="https://freepolicybriefs.org/2025/02/03/congestion-pricing/" target="_blank" rel="noopener noreferrer nofollow">https://freepolicybriefs.org/2025/02/03/congestion-pricing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FREE NETWORKRoad Congestion Pricing with A Public Transport Cashback...3 Feb 2025 — Congestion pricing can ease traffic, but fairness co...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: paulcairney.wordpress.com  
    Title: policy analysis in 750 words eugene bardachs 2012 eightfold path  
-   Link: <a href="https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/" target="_blank" rel="noopener noreferrer nofollow">https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis in 750 words: Eugene Bardach&#x27;s (2012...8 Oct 2019 — Bardach (2012) describes policy analysis in eight steps: Provide a diagnosi...</p></details>
+   Link:<a href="https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/" target="_blank" rel="noopener noreferrer nofollow">https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis in 750 words: Eugene Bardach&#x27;s (2012...8 Oct 2019 — Bardach (2012) describes policy analysis in eight steps: Provide a diagnosi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cepr.org  
    Title: economics exempting green vehicles congestion pricing  
-   Link: <a href="https://cepr.org/voxeu/columns/economics-exempting-green-vehicles-congestion-pricing" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/economics-exempting-green-vehicles-congestion-pricing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The economics of exempting green vehicles from...16 Aug 2024 — It is increasingly popular for cities to exempt clean cars from congestio...</p></details>
+   Link:<a href="https://cepr.org/voxeu/columns/economics-exempting-green-vehicles-congestion-pricing" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/economics-exempting-green-vehicles-congestion-pricing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The economics of exempting green vehicles from...16 Aug 2024 — It is increasingly popular for cities to exempt clean cars from congestio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: felipebarbieri.com  
    Title: optimal urban transportation policy october 2025  
-   Link: <a href="https://felipebarbieri.com/files/optimal_urban_transportation_policy_october_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://felipebarbieri.com/files/optimal_urban_transportation_policy_october_2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We characterize and quantify optimal urban transportation policies in the presence of congestion and environmental externalities.Read more...</p></details>
+   Link:<a href="https://felipebarbieri.com/files/optimal_urban_transportation_policy_october_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://felipebarbieri.com/files/optimal_urban_transportation_policy_october_2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We characterize and quantify optimal urban transportation policies in the presence of congestion and environmental externalities.Read more...</p></details>
    Published: october 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: changing-transport.org  
-   Link: <a href="https://changing-transport.org/wp-content/uploads/Introduction_to_Congestion_Charging_English.pdf" target="_blank" rel="noopener noreferrer nofollow">https://changing-transport.org/wp-content/uploads/Introduction_to_Congestion_Charging_English.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Congestion ChargingAny objection to the technology chosen is often related to cost, privacy and user friendliness...</p></details>
+   Link:<a href="https://changing-transport.org/wp-content/uploads/Introduction_to_Congestion_Charging_English.pdf" target="_blank" rel="noopener noreferrer nofollow">https://changing-transport.org/wp-content/uploads/Introduction_to_Congestion_Charging_English.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Congestion ChargingAny objection to the technology chosen is often related to cost, privacy and user friendliness...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tsu.ox.ac.uk  
    Title: ox.ac.uk Politics, Power & Governance  
-   Link: <a href="https://www.tsu.ox.ac.uk/research/theme-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.tsu.ox.ac.uk/research/theme-governance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukPolitics, Power &amp; Governance - Transport Studies UnitExamine and reflect on the politics around the creation of knowledge and exp...</p></details>
+   Link:<a href="https://www.tsu.ox.ac.uk/research/theme-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.tsu.ox.ac.uk/research/theme-governance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukPolitics, Power &amp; Governance - Transport Studies UnitExamine and reflect on the politics around the creation of knowledge and exp...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: vtpi.org  
-   Link: <a href="https://www.vtpi.org/UMR_critique.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vtpi.org/UMR_critique.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congestion Costing Critique: Critical Evaluation of the “...by T Litman · 2023 · Cited by 6 — This report evaluates the methodologies us...</p></details>
+   Link:<a href="https://www.vtpi.org/UMR_critique.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vtpi.org/UMR_critique.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congestion Costing Critique: Critical Evaluation of the “...by T Litman · 2023 · Cited by 6 — This report evaluates the methodologies us...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eprints.whiterose.ac.uk  
    Title: Marsden Questions of Governance  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/116788/3/MarsdenQuestions%20of%20Governance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/116788/3/MarsdenQuestions%20of%20Governance.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineRethinking the Study of Transportation Policyby G Marsden · 2017 · Cited by 427 — Our review identifies some im...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/116788/3/MarsdenQuestions%20of%20Governance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/116788/3/MarsdenQuestions%20of%20Governance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineRethinking the Study of Transportation Policyby G Marsden · 2017 · Cited by 427 — Our review identifies some im...</p></details>

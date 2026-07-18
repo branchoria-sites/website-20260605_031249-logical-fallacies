@@ -504,11 +504,11 @@ image: /assets/images/logical_fallacies_998914_formal_fallacies_6c776a-overview-
 Formal fallacies are reasoning errors caused by an argument’s structure. The individual statements may sound plausible, and the conclusion may even be true, but the conclusion does not follow from the premises in the way the argument claims. That is the key difference: a formal fallacy is not mainly a problem of tone, evidence, wording or [relevance]({{ 'relevance/' | relative_url }}). It is a failure in the logical form of the inference itself.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a-overview.webp" | relative_url }}" alt="Overview image for Formal Logic" loading="eager" decoding="sync" fetchpriority="high">
-This matters because invalid structure can hide inside very familiar patterns of thought: “If this cause happened, we would see this effect; we see the effect; therefore that cause happened.” Sometimes that guess is reasonable as a hypothesis, but it is not deductive proof. Logic textbooks and philosophy references usually describe validity as the condition in which it is impossible for the premises to be true and the conclusion false; formal fallacies violate that condition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.okstate.edu">[open.library.okstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.okstate.edu</span><span class="citation-popover-title">Logic and the Study of Arguments – Critical Thinking</span><span class="citation-popover-snippet">An argument is valid if it is impossible for the premises to be true and the conclusion false. To put validity in...Read more...</span></span></span>
+This matters because invalid structure can hide inside very familiar patterns of thought: “If this cause happened, we would see this effect; we see the effect; therefore that cause happened.” Sometimes that guess is reasonable as a hypothesis, but it is not deductive proof. Logic textbooks and philosophy references usually describe validity as the condition in which it is impossible for the premises to be true and the conclusion false; formal fallacies violate that condition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.okstate.edu">[open.library.okstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.okstate.edu</span><span class="citation-popover-title">Logic and the Study of Arguments – Critical Thinking</span><span class="citation-popover-snippet">An argument is valid if it is impossible for the premises to be true and the conclusion false. To put validity in...Read more...</span></span></span>
 
 ## What Formal Validity Means
 
-A deductive argument is valid when its structure guarantees the conclusion, assuming the premises are true. Validity is therefore not the same as truth. A valid argument can contain false premises, and an invalid argument can contain true premises. What validity tests is the link between premises and conclusion, not the factual accuracy of each sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pimaopen.pressbooks.pub">[pimaopen.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pimaopen.pressbooks.pub</span><span class="citation-popover-snippet">1.2 Arguments – Types of Reasoning - Pima Open Digital Pressby K Eldred · 2024 — A deductive argument is valid when: If all its premises...</span></span></span>
+A deductive argument is valid when its structure guarantees the conclusion, assuming the premises are true. Validity is therefore not the same as truth. A valid argument can contain false premises, and an invalid argument can contain true premises. What validity tests is the link between premises and conclusion, not the factual accuracy of each sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pimaopen.pressbooks.pub">[pimaopen.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pimaopen.pressbooks.pub</span><span class="citation-popover-snippet">1.2 Arguments – Types of Reasoning - Pima Open Digital Pressby K Eldred · 2024 — A deductive argument is valid when: If all its premises...</span></span></span>
 
 Consider this valid pattern:
 
@@ -539,7 +539,7 @@ The most useful formal fallacies to know are not obscure labels. They are recurr
 
 ### Affirming the Consequent
 
-Affirming the consequent has this form: <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacies.online">[fallacies.online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacies.online</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">affirming the consequent</span></span></span>
+Affirming the consequent has this form:<span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacies.online">[fallacies.online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacies.online</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">affirming the consequent</span></span></span>
 
 If P, then Q.
 
@@ -547,17 +547,17 @@ Q.
 
 Therefore, P.
 
-The mistake is treating a consequence as if it proves the one possible cause named in the first premise. A [wet pavement]({{ 'wet-pavement/' | relative_url }}) may follow from rain, but a wet pavement does not prove rain. It could also follow from a burst pipe, street cleaning or someone emptying a bucket. The Internet Encyclopedia of Philosophy uses affirming the consequent as a standard example of a fallacious argument form, and logic references commonly contrast it with valid conditional forms such as modus ponens and modus tollens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The mistake is treating a consequence as if it proves the one possible cause named in the first premise. A [wet pavement]({{ 'wet-pavement/' | relative_url }}) may follow from rain, but a wet pavement does not prove rain. It could also follow from a burst pipe, street cleaning or someone emptying a bucket. The Internet Encyclopedia of Philosophy uses affirming the consequent as a standard example of a fallacious argument form, and logic references commonly contrast it with valid conditional forms such as modus ponens and modus tollens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This pattern becomes especially dangerous when the conclusion is emotionally or practically important. “If the accused were guilty, this evidence would be present. This evidence is present. Therefore, the accused is guilty.” That may be a reason to investigate further, but by itself it is not deductive proof. The same evidence may have alternative explanations.
 
-A related probabilistic version appears in discussions of the prosecutor’s fallacy, where people confuse the probability of seeing evidence if a person is innocent with the probability that the person is innocent given the evidence. Oxford’s Centre for Evidence-Based Medicine describes this kind of reversal as a source of miscarriages of justice, including cases where rare evidence was treated as if it directly established guilt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[cebm.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">the prosecutors fallacy</span></span></span>
+A related probabilistic version appears in discussions of the prosecutor’s fallacy, where people confuse the probability of seeing evidence if a person is innocent with the probability that the person is innocent given the evidence. Oxford’s Centre for Evidence-Based Medicine describes this kind of reversal as a source of miscarriages of justice, including cases where rare evidence was treated as if it directly established guilt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[cebm.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">the prosecutors fallacy</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VDGp04CfM4M" title="CRITICAL THINKING - Fallacies: Formal and Informal Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VDGp04CfM4M" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Formal and Informal Fallacies</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 454.5K &middot; Uploaded: July 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VDGp04CfM4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VDGp04CfM4M">Open on YouTube</a></p></div></div></div>
 
 ### Denying the Antecedent
 
-Denying the antecedent has this form: <span class="citation-chip-wrap"><a class="citation-chip" href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: answersingenesis.org">[answersingenesis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">answersingenesis.org</span><span class="citation-popover-title">formal fallacies</span><span class="citation-popover-snippet">formal fallacies</span></span></span>
+Denying the antecedent has this form:<span class="citation-chip-wrap"><a class="citation-chip" href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: answersingenesis.org">[answersingenesis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">answersingenesis.org</span><span class="citation-popover-title">formal fallacies</span><span class="citation-popover-snippet">formal fallacies</span></span></span>
 
 If P, then Q.
 
@@ -567,7 +567,7 @@ Therefore, not Q.
 
 The mistake is assuming that because one sufficient condition is absent, the result cannot occur. “If it rains, the pavement will be wet. It did not rain. Therefore, the pavement is not wet.” Again, the pavement might be wet for other reasons.
 
-This is the mirror image of affirming the consequent. Both errors come from confusing a one-way conditional with a two-way equivalence. “If P, then Q” does not normally mean “P if and only if Q.” It only says that P is enough for Q, not that P is the only route to Q. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pimaopen.pressbooks.pub">[pimaopen.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pimaopen.pressbooks.pub</span><span class="citation-popover-snippet">Open source on pressbooks.pub.</span></span></span>
+This is the mirror image of affirming the consequent. Both errors come from confusing a one-way conditional with a two-way equivalence. “If P, then Q” does not normally mean “P if and only if Q.” It only says that P is enough for Q, not that P is the only route to Q.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pimaopen.pressbooks.pub">[pimaopen.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pimaopen.pressbooks.pub</span><span class="citation-popover-snippet">Open source on pressbooks.pub.</span></span></span>
 
 In everyday reasoning, denying the antecedent often appears as premature dismissal. For example: “If the server had crashed, the website would be down. The server did not crash, so the website cannot be down.” That ignores other possible causes, such as a network failure, expired certificate, DNS problem or deployment error.
 
@@ -590,7 +590,7 @@ All dogs are mammals.
 
 Therefore, all cats are dogs.
 
-The premises are true, but the conclusion is false. The [shared category]({{ 'shared-category/' | relative_url }}) “mammals” is too broad to prove that cats and dogs are the same group. Stanford’s entry on fallacies names undistributed middle as one of the identifiable invalid forms typical of formal fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — Formal fallacies ar...</span></span></span> Encyclopedia of Philosophy
+The premises are true, but the conclusion is false. The [shared category]({{ 'shared-category/' | relative_url }}) “mammals” is too broad to prove that cats and dogs are the same group. Stanford’s entry on fallacies names undistributed middle as one of the identifiable invalid forms typical of formal fallacies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — Formal fallacies ar...</span></span></span> Encyclopedia of Philosophy
 
 The everyday version is easy to miss: two things can share a feature without being identical, causally connected or morally equivalent. “Both policies reduce costs; therefore they are the same policy” has the same kind of structural weakness unless the argument adds stronger connecting premises.
 
@@ -600,7 +600,7 @@ The everyday version is easy to miss: two things can share a feature without bei
 
 Some formal mistakes arise from mishandling words such as “all”, “some”, “none” and “there exists”. A common error is moving too quickly from a universal statement to a particular existence claim. For example, “All unicorns have horns” does not prove that unicorns exist. It only states what would be true if anything belonged to that category.
 
-This kind of problem is sometimes discussed under quantificational or existential fallacies. The general issue is that logical form changes when an argument moves between universal claims and existence claims. “All members of this group have property X” is not the same as “there is at least one member of this group.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/quanfall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This kind of problem is sometimes discussed under quantificational or existential fallacies. The general issue is that logical form changes when an argument moves between universal claims and existence claims. “All members of this group have property X” is not the same as “there is at least one member of this group.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/quanfall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These errors matter in technical, legal and policy contexts because a small shift in quantity can change the claim completely. “All approved applicants met the threshold” does not mean “all applicants who met the threshold were approved.” “Some risks are manageable” does not mean “all risks are manageable.” The structure of the quantifier controls the strength of the conclusion.
 
@@ -610,7 +610,7 @@ Formal fallacies are powerful because they show that truth alone is not enough. 
 
 The Paris example makes this clear. “If someone is in Paris, they are in France” is true. “This person is in France” may also be true. But “therefore, this person is in Paris” does not follow. The argument’s failure lies in the transition, not necessarily in any single statement.
 
-This is why formal logic separates validity from soundness. Soundness requires both valid structure and true premises. Validity alone asks whether the conclusion would have to be true if the premises were true. Soundness adds the further requirement that the premises really are true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pimaopen.pressbooks.pub">[pimaopen.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pimaopen.pressbooks.pub</span><span class="citation-popover-snippet">Open source on pressbooks.pub.</span></span></span>
+This is why formal logic separates validity from soundness. Soundness requires both valid structure and true premises. Validity alone asks whether the conclusion would have to be true if the premises were true. Soundness adds the further requirement that the premises really are true.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pimaopen.pressbooks.pub">[pimaopen.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pimaopen.pressbooks.pub</span><span class="citation-popover-snippet">Open source on pressbooks.pub.</span></span></span>
 
 That distinction prevents two common mistakes. The first is dismissing an argument as “invalid” merely because one premise is false. A false premise may make an argument unsound, but not necessarily invalid. The second is accepting an argument because its conclusion is true. A true conclusion can be reached by bad reasoning, coincidence or missing premises.
 
@@ -619,7 +619,7 @@ That distinction prevents two common mistakes. The first is dismissing an argume
 
 Formal fallacies usually happen when an argument treats a weaker relationship as if it were stronger.
 
-The most common upgrades are: <span class="citation-chip-wrap"><a class="citation-chip" href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: answersingenesis.org">[answersingenesis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">answersingenesis.org</span><span class="citation-popover-title">formal fallacies</span><span class="citation-popover-snippet">formal fallacies</span></span></span>
+The most common upgrades are:<span class="citation-chip-wrap"><a class="citation-chip" href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: answersingenesis.org">[answersingenesis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">answersingenesis.org</span><span class="citation-popover-title">formal fallacies</span><span class="citation-popover-snippet">formal fallacies</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -639,11 +639,11 @@ That is the practical lesson of formal fallacies: the argument may need addition
 
 Not every argument that resembles a formal fallacy is worthless. In real life, people often reason abductively: they infer the best available explanation rather than claiming deductive certainty. “The lawn is wet, so it probably rained” may be a sensible guess if rain is common and there is no sprinkler, but it should not be presented as a logical proof.
 
-Recent work on human conditional reasoning notes that people often use affirming-the-consequent and denying-the-antecedent patterns pragmatically in daily life, even though the forms are invalid in classical deductive logic. The important distinction is whether the argument is claiming certainty or offering a defeasible, evidence-based hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">arXiv Human Conditional Reasoning in Answer Set Programming</span></span></span>
+Recent work on human conditional reasoning notes that people often use affirming-the-consequent and denying-the-antecedent patterns pragmatically in daily life, even though the forms are invalid in classical deductive logic. The important distinction is whether the argument is claiming certainty or offering a defeasible, evidence-based hypothesis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">arXiv Human Conditional Reasoning in Answer Set Programming</span></span></span>
 
 This distinction helps avoid overcorrecting. A doctor, investigator or engineer may reasonably ask, “What cause would make this effect likely?” That is not automatically a fallacy. It becomes fallacious when the thinker treats one possible cause as the only possible cause without checking alternatives, base rates or background information.
 
-The same issue appears in legal and forensic reasoning. Evidence may be far more likely under one hypothesis than another, but that does not allow the listener to reverse conditional probabilities casually. Modern forensic discussions increasingly emphasise careful expression of likelihood ratios and avoidance of the prosecutor’s fallacy, because the way the conditional is framed can change how strongly evidence appears to support a conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">arXiv Human Conditional Reasoning in Answer Set Programming</span></span></span>
+The same issue appears in legal and forensic reasoning. Evidence may be far more likely under one hypothesis than another, but that does not allow the listener to reverse conditional probabilities casually. Modern forensic discussions increasingly emphasise careful expression of likelihood ratios and avoidance of the prosecutor’s fallacy, because the way the conditional is framed can change how strongly evidence appears to support a conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">arXiv Human Conditional Reasoning in Answer Set Programming</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ukWyom3OcEg" title="Formal and Informal Logic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ukWyom3OcEg" target="_blank" rel="noopener noreferrer">Formal and Informal Logic</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 45.4K &middot; Uploaded: January 2014 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ukWyom3OcEg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ukWyom3OcEg">Open on YouTube</a></p></div></div></div>
 
@@ -655,13 +655,13 @@ For a conditional argument, ask:
 
 1. Is the argument saying “if P, then Q”?
 2. Does it then affirm P and conclude Q? That is usually valid.
-3. Does it deny Q and conclude not-P? That is usually valid. 4. Does it affirm Q and conclude P? That is affirming the consequent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacies.online">[fallacies.online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacies.online</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">affirming the consequent</span></span></span> 5. Does it deny P and conclude not-Q? That is denying the antecedent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: answersingenesis.org">[answersingenesis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">answersingenesis.org</span><span class="citation-popover-title">formal fallacies</span><span class="citation-popover-snippet">formal fallacies</span></span></span>
+3. Does it deny Q and conclude not-P? That is usually valid. 4. Does it affirm Q and conclude P? That is affirming the consequent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacies.online">[fallacies.online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacies.online</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">affirming the consequent</span></span></span> 5. Does it deny P and conclude not-Q? That is denying the antecedent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: answersingenesis.org">[answersingenesis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">answersingenesis.org</span><span class="citation-popover-title">formal fallacies</span><span class="citation-popover-snippet">formal fallacies</span></span></span>
 
 For a category argument, ask whether the middle category truly connects the two groups or merely describes something they share. If two groups are both inside a larger class, that does not prove they are the same group.
 
 For arguments using “all”, “some” or “none”, ask whether the conclusion changes the quantity. A move from “all” to “some”, from “some” to “all”, or from a conditional description to an existence claim often needs an extra premise.
 
-The simplest stress test is this: can the premises be true while the conclusion is false? If yes, the argument is invalid. That single question captures the core of formal validity and explains why formal fallacies are structural failures rather than merely weak rhetoric. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.okstate.edu">[open.library.okstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.okstate.edu</span><span class="citation-popover-title">chapter 10 propositional logic truth tables and truth trees</span><span class="citation-popover-snippet">chapter 10 propositional logic truth tables and truth trees</span></span></span>
+The simplest stress test is this: can the premises be true while the conclusion is false? If yes, the argument is invalid. That single question captures the core of formal validity and explains why formal fallacies are structural failures rather than merely weak rhetoric.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.okstate.edu">[open.library.okstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.okstate.edu</span><span class="citation-popover-title">chapter 10 propositional logic truth tables and truth trees</span><span class="citation-popover-snippet">chapter 10 propositional logic truth tables and truth trees</span></span></span>
 
 ## Why Formal Fallacies Matter in Logical Fallacies
 
@@ -672,194 +672,194 @@ That makes them especially valuable as a foundation for understanding [logical f
 The reader’s lasting habit should be structural, not label-driven. Before asking whether a claim is persuasive, ask what form of support is being offered. Does the conclusion genuinely follow, or has the argument quietly converted a clue into proof, a sufficient condition into a necessary one, or a shared feature into an identity? That question is the practical core of recognising formal fallacies.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Structure Makes Reasoning Fail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Structure Makes Reasoning Fail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Patrick J. Hurley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Concise Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=54YIzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Concise Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise Introduction to Logic">A Concise Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Patrick J. Hurley</p>
         
-        <p class="fr-book-desc">Directly teaches validity, soundness, and formal fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches validity, soundness, and formal fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Concise+Introduction+to+Logic+by+Patrick+J.+Hurley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jDOoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Logic">Introduction to Logic</a>
-        </h4>
-        <p class="fr-book-author">By Irving M. Copi, Carl Cohen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Logic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jDOoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Logic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Logic">Introduction to Logic</a>
+</h4>
+<p class="fr-book-author">By Irving M. Copi, Carl Cohen et al.</p>
         
-        <p class="fr-book-desc">Extensive coverage of valid and invalid argument forms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Extensive coverage of valid and invalid argument forms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Logic+by+Irving+M.+Copi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Introduces many common fallacies in practical terms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces many common fallacies in practical terms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
-        </h4>
-        <p class="fr-book-author">By T. Edward Damer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Attacking Faulty Reasoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=49YKAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Attacking Faulty Reasoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Attacking Faulty Reasoning">Attacking Faulty Reasoning</a>
+</h4>
+<p class="fr-book-author">By T. Edward Damer</p>
         
-        <p class="fr-book-desc">Connects logical form with reasoning errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects logical form with reasoning errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Attacking+Faulty+Reasoning+by+T.+Edward+Damer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Logic books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Concise+to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Concise to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Logic+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Logic books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Signed Everybody Album Poster With Frame"><img src="https://i.ebayimg.com/images/g/nd0AAeSwoApoMksV/s-l225.jpg" alt="Listing image for Logic Signed Everybody Album Poster With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Signed Everybody Album Poster With Frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Signed Everybody Album Poster With Frame"><img src="https://i.ebayimg.com/images/g/nd0AAeSwoApoMksV/s-l225.jpg" alt="Listing image for Logic Signed Everybody Album Poster With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Signed Everybody Album Poster With Frame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/4O4AAeSwOI9o7NfA/s-l225.jpg" alt="Listing image for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/4O4AAeSwOI9o7NfA/s-l225.jpg" alt="Listing image for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Logic Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/oQQAAOSwGVNidEo0/s-l225.jpg" alt="Listing image for Large A3 Logic Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Large A3 Logic Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Logic Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/oQQAAOSwGVNidEo0/s-l225.jpg" alt="Listing image for Large A3 Logic Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Large A3 Logic Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="when-the-structure-makes-reasoning-fail-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -875,7 +875,7 @@ The reader’s lasting habit should be structural, not label-driven. Before aski
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -895,7 +895,7 @@ The reader’s lasting habit should be structural, not label-driven. Before aski
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -927,7 +927,7 @@ The reader’s lasting habit should be structural, not label-driven. Before aski
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -979,7 +979,7 @@ The reader’s lasting habit should be structural, not label-driven. Before aski
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1024,7 +1024,7 @@ The reader’s lasting habit should be structural, not label-driven. Before aski
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1065,233 +1065,233 @@ The reader’s lasting habit should be structural, not label-driven. Before aski
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: open.library.okstate.edu  
    Title: Logic and the Study of Arguments – Critical Thinking  
-   Link: <a href="https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An argument is valid if it is impossible for the premises to be true and the conclusion false. To put validity in...Read more...</p></details>
+   Link:<a href="https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An argument is valid if it is impossible for the premises to be true and the conclusion false. To put validity in...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — Formal fallacies ar...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — Formal fallacies ar...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pimaopen.pressbooks.pub  
-   Link: <a href="https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1.2 Arguments – Types of Reasoning - Pima Open Digital Pressby K Eldred · 2024 — A deductive argument is valid when: If all its premises...</p></details>
+   Link:<a href="https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1.2 Arguments – Types of Reasoning - Pima Open Digital Pressby K Eldred · 2024 — A deductive argument is valid when: If all its premises...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cebm.ox.ac.uk  
    Title: the prosecutors fallacy  
-   Link: <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</a>  
+   Link:<a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pimaopen.pressbooks.pub  
-   Link: <a href="https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/</a>  
+   Link:<a href="https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/quanfall.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/quanfall.html</a>  
+   Link:<a href="https://www.fallacyfiles.org/quanfall.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/quanfall.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Human Conditional Reasoning in Answer Set Programming  
-   Link: <a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
+   Link:<a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.03217" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.03217</a>  
+   Link:<a href="https://arxiv.org/abs/2502.03217" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.03217</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pimaopen.pressbooks.pub  
-   Link: <a href="https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/</a>  
+   Link:<a href="https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: feminism argumentation  
-   Link: <a href="https://plato.stanford.edu/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/feminism-argumentation/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/feminism-argumentation/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.03217v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.03217v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.03217v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.03217v1</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: open.library.okstate.edu  
    Title: chapter 10 propositional logic [truth tables](&#123;&#123; 'truth-table/' | relative_url &#125;&#125;) and truth trees  
-   Link: <a href="https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/</a>  
+   Link:<a href="https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1</a>  
+   Link:<a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: austlii.edu.au  
-   Link: <a href="https://www.austlii.edu.au/au/journals/AUJlLegPhil/2011/5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.austlii.edu.au/au/journals/AUJlLegPhil/2011/5.pdf</a>  
+   Link:<a href="https://www.austlii.edu.au/au/journals/AUJlLegPhil/2011/5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.austlii.edu.au/au/journals/AUJlLegPhil/2011/5.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
+   Link:<a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fallacies.online  
-   Link: <a href="https://fallacies.online/wiki/logic/formal_fallacies/existential" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/existential</a>  
+   Link:<a href="https://fallacies.online/wiki/logic/formal_fallacies/existential" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/existential</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fallacies.online  
    Title: affirming the consequent  
-   Link: <a href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent</a>  
+   Link:<a href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies</a>  
+   Link:<a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: stat.berkeley.edu  
-   Link: <a href="https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm</a>  
+   Link:<a href="https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Modus tollens  
-   Link: <a href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Modus_tollens</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Modus_tollens</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Denying the antecedent  
-   Link: <a href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denying_the_antecedent</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denying_the_antecedent</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: askphilosophers.org  
-   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
+   Link:<a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: answersingenesis.org  
    Title: formal fallacies  
-   Link: <a href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY" target="_blank" rel="noopener noreferrer nofollow">https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY</a>  
+   Link:<a href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY" target="_blank" rel="noopener noreferrer nofollow">https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: answersingenesis.org  
    Title: formal fallacies  
-   Link: <a href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR" target="_blank" rel="noopener noreferrer nofollow">https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR</a>  
+   Link:<a href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR" target="_blank" rel="noopener noreferrer nofollow">https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: germanna.edu  
    Title: Logical Fallacies  
-   Link: <a href="https://germanna.edu/sites/default/files/2025-01/Logical%20Fallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://germanna.edu/sites/default/files/2025-01/Logical%20Fallacies.pdf</a>  
+   Link:<a href="https://germanna.edu/sites/default/files/2025-01/Logical%20Fallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://germanna.edu/sites/default/files/2025-01/Logical%20Fallacies.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scribbr.co.uk  
    Title: Logical Fallacies | Definition, Types, List & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/logical-fallacies/</a>  
+   Link:<a href="https://www.scribbr.co.uk/fallacy/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/logical-fallacies/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
+   Link:<a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: quillbot.com  
    Title: denying the antecedent  
-   Link: <a href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/denying-the-antecedent/</a>  
+   Link:<a href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/denying-the-antecedent/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: quillbot.com  
    Title: affirming the consequent  
-   Link: <a href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/affirming-the-consequent/</a>  
+   Link:<a href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/affirming-the-consequent/</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: pressbooks.openeducationalberta.ca  
    Title: Pressbooks Validity and Soundness – A Brief  
-   Link: <a href="https://pressbooks.openeducationalberta.ca/saitintrophil/chapter/1-7-soundness/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.openeducationalberta.ca/saitintrophil/chapter/1-7-soundness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Validity and Soundness – A Brief Introduction to PhilosophyA sound argument is a valid argument that has all true premises. Tha...</p></details>
+   Link:<a href="https://pressbooks.openeducationalberta.ca/saitintrophil/chapter/1-7-soundness/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.openeducationalberta.ca/saitintrophil/chapter/1-7-soundness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Validity and Soundness – A Brief Introduction to PhilosophyA sound argument is a valid argument that has all true premises. Tha...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Deductive Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=LV1vkT6QrlE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LV1vkT6QrlE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic 101 (#48): Affirming the Consequent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LV1vkT6QrlE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LV1vkT6QrlE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logic 101 (#48): Affirming the Consequent...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Affirming the Consequent: A Formal Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85QJZdbgEoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy 102 - Week 10 - Chapter 8: Formal Fallacies and Fallacies of Language...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85QJZdbgEoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy 102 - Week 10 - Chapter 8: Formal Fallacies and Fallacies of Language...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: lrcfs-ap2.dundee.ac.uk  
-   Link: <a href="https://lrcfs-ap2.dundee.ac.uk/lr_book/prosecutor-fallacy.html" target="_blank" rel="noopener noreferrer nofollow">https://lrcfs-ap2.dundee.ac.uk/lr_book/prosecutor-fallacy.html</a>  
+   Link:<a href="https://lrcfs-ap2.dundee.ac.uk/lr_book/prosecutor-fallacy.html" target="_blank" rel="noopener noreferrer nofollow">https://lrcfs-ap2.dundee.ac.uk/lr_book/prosecutor-fallacy.html</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/11513471_The_Prosecutor%27s_Fallacy_-_A_Pitfall_in_Interpreting_Probabilities_in_Forensic_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11513471_The_Prosecutor%27s_Fallacy_-_A_Pitfall_in_Interpreting_Probabilities_in_Forensic_Evidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/11513471_The_Prosecutor%27s_Fallacy_-_A_Pitfall_in_Interpreting_Probabilities_in_Forensic_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11513471_The_Prosecutor%27s_Fallacy_-_A_Pitfall_in_Interpreting_Probabilities_in_Forensic_Evidence</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DebateEvolution/comments/wq62lh/affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateEvolution/comments/wq62lh/affirming_the_consequent/</a>  
+   Link:<a href="https://www.reddit.com/r/DebateEvolution/comments/wq62lh/affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateEvolution/comments/wq62lh/affirming_the_consequent/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent</a>  
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: smw.ch  
-   Link: <a href="https://smw.ch/index.php/smw/article/download/1609/2103?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://smw.ch/index.php/smw/article/download/1609/2103?inline=1</a>  
+   Link:<a href="https://smw.ch/index.php/smw/article/download/1609/2103?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://smw.ch/index.php/smw/article/download/1609/2103?inline=1</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: changingminds.org  
-   Link: <a href="https://changingminds.org/disciplines/argument/fallacies/fallacies_latin.htm" target="_blank" rel="noopener noreferrer nofollow">https://changingminds.org/disciplines/argument/fallacies/fallacies_latin.htm</a>
+   Link:<a href="https://changingminds.org/disciplines/argument/fallacies/fallacies_latin.htm" target="_blank" rel="noopener noreferrer nofollow">https://changingminds.org/disciplines/argument/fallacies/fallacies_latin.htm</a>

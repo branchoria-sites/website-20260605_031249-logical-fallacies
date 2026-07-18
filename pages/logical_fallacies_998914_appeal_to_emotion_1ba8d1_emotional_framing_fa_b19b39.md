@@ -268,16 +268,16 @@ image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotiona
 
 ## Introduction
 
-Emotional framing helps explain why some false headlines feel convincing even when supporting evidence is weak or absent. Within the broader family of appeals to [emotion]({{ 'emotion/' | relative_url }}), the key issue is not that people have feelings about news stories, but that emotional reactions can become a shortcut for judging truth. When a headline triggers fear, anger, outrage, hope, or anxiety, readers may focus on the feeling it creates rather than on whether the claim has been verified. Research on misinformation consistently finds that emotional processing is linked to greater susceptibility to [false news]({{ 'false-news/' | relative_url }}), while careful attention to accuracy improves truth discernment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">What is the role of emotion in susceptibility to believing fake news? Prior work on the psychology of misinformation has focused primaril...</span></span></span>
+Emotional framing helps explain why some false headlines feel convincing even when supporting evidence is weak or absent. Within the broader family of appeals to [emotion]({{ 'emotion/' | relative_url }}), the key issue is not that people have feelings about news stories, but that emotional reactions can become a shortcut for judging truth. When a headline triggers fear, anger, outrage, hope, or anxiety, readers may focus on the feeling it creates rather than on whether the claim has been verified. Research on misinformation consistently finds that emotional processing is linked to greater susceptibility to [false news]({{ 'false-news/' | relative_url }}), while careful attention to accuracy improves truth discernment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">What is the role of emotion in susceptibility to believing fake news? Prior work on the psychology of misinformation has focused primaril...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-1-dark.svg" | relative_url }}" alt="Fake News illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because modern misinformation is often designed around emotional impact. False stories that provoke strong reactions are more likely to be noticed, remembered, shared, and sometimes believed. The emotional response itself does not prove that a claim is false, but it can make accuracy checks feel less urgent at exactly the moment they are most needed. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation belief action</span><span class="citation-popover-snippet">American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</span></span></span>
+This matters because modern misinformation is often designed around emotional impact. False stories that provoke strong reactions are more likely to be noticed, remembered, shared, and sometimes believed. The emotional response itself does not prove that a claim is false, but it can make accuracy checks feel less urgent at exactly the moment they are most needed. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation belief action</span><span class="citation-popover-snippet">American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</span></span></span>
 
 ## How Emotion Shifts Attention Away from Evidence
 
 Emotional framing works by changing what readers pay attention to. Instead of asking, “What evidence supports this claim?”, readers may unconsciously ask, “How does this make me feel?” The stronger the emotional reaction, the easier it becomes for that feeling to influence judgments about credibility.
 
-Researchers Cameron Martel, Gordon Pennycook, and David Rand found evidence that reliance on emotion increases belief in fake news. Across multiple studies, people who depended more heavily on emotional processing were more likely to believe false headlines, while greater analytical thinking was associated with better discrimination between true and false information. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">on emotion promotes belief in fake newsby C Martel · 2020 · Cited by 769 — First, Study 1 found that experienced emotion, regardless of t...</span></span></span> Several emotions appear especially useful for misinformation producers:
+Researchers Cameron Martel, Gordon Pennycook, and David Rand found evidence that reliance on emotion increases belief in fake news. Across multiple studies, people who depended more heavily on emotional processing were more likely to believe false headlines, while greater analytical thinking was associated with better discrimination between true and false information. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">on emotion promotes belief in fake newsby C Martel · 2020 · Cited by 769 — First, Study 1 found that experienced emotion, regardless of t...</span></span></span> Several emotions appear especially useful for misinformation producers:
 
 * **[Anger]({{ 'anger/' | relative_url }})** encourages rapid reactions and sharing.
 * **Fear** increases attention to potential [threats]({{ 'threats/' | relative_url }}).
@@ -286,7 +286,7 @@ Researchers Cameron Martel, Gordon Pennycook, and David Rand found evidence that
 
 * **Outrage** creates a sense of moral urgency.
 * **Hope** can lower scepticism when a claim promises a desirable outcome.
-* **Anxiety and uncertainty** make people more receptive to simple explanations. Misinformation Review <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation belief action</span><span class="citation-popover-snippet">American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</span></span></span>
+* **Anxiety and uncertainty** make people more receptive to simple explanations. Misinformation Review<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation belief action</span><span class="citation-popover-snippet">American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</span></span></span>
 
 </div>
 
@@ -296,25 +296,25 @@ The emotional content does not have to be fabricated. A real photograph, genuine
 
 ## What Misinformation Studies Suggest About Belief
 
-Research on misinformation has increasingly examined emotional responses as a distinct factor in fake news belief. Reviews of the field conclude that emotional appeals are among the psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) that help misleading content gain attention and influence online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 37 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotions in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 34 — We conclude that studies need to d...</span></span></span>
+Research on misinformation has increasingly examined emotional responses as a distinct factor in fake news belief. Reviews of the field conclude that emotional appeals are among the psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) that help misleading content gain attention and influence online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 37 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotions in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 34 — We conclude that studies need to d...</span></span></span>
 
-One important finding is that emotion affects belief and sharing in slightly different ways. A person may share a story because it generates [outrage]({{ 'outrage/' | relative_url }}) or validates a group identity even when they have not carefully assessed its accuracy. Studies of online behaviour suggest that emotionally charged content often receives greater engagement than emotionally neutral information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/news/the-data-behind-your-doom-scroll-how-negative-news-takes-over-your-feed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">the data behind your doom scroll how negative news takes over your feed</span><span class="citation-popover-snippet">Stanford HAIThe Data Behind Your Doom Scroll: How Negative News...25 Oct 2024 — Analyzing nearly 30 million posts, Stanford scholars rev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 114 — We tested a hypothesis that misinformation explo...</span></span></span>
+One important finding is that emotion affects belief and sharing in slightly different ways. A person may share a story because it generates [outrage]({{ 'outrage/' | relative_url }}) or validates a group identity even when they have not carefully assessed its accuracy. Studies of online behaviour suggest that emotionally charged content often receives greater engagement than emotionally neutral information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/news/the-data-behind-your-doom-scroll-how-negative-news-takes-over-your-feed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">the data behind your doom scroll how negative news takes over your feed</span><span class="citation-popover-snippet">Stanford HAIThe Data Behind Your Doom Scroll: How Negative News...25 Oct 2024 — Analyzing nearly 30 million posts, Stanford scholars rev...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 114 — We tested a hypothesis that misinformation explo...</span></span></span>
 
-Research on COVID-19 misinformation provides a concrete example. A study of South Korean adults found that anger contributed to the spread of misinformation about the pandemic. The mechanism was not simply [ignorance]({{ 'ignorance/' | relative_url }}); emotional reactions influenced how information was processed and transmitted through social networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">anger contributes to the spread of covid 19 misinformation</span><span class="citation-popover-snippet">Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationby J Han · 2020 · Cited by 108 — A survey conducted over S...</span></span></span>
+Research on COVID-19 misinformation provides a concrete example. A study of South Korean adults found that anger contributed to the spread of misinformation about the pandemic. The mechanism was not simply [ignorance]({{ 'ignorance/' | relative_url }}); emotional reactions influenced how information was processed and transmitted through social networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">anger contributes to the spread of covid 19 misinformation</span><span class="citation-popover-snippet">Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationby J Han · 2020 · Cited by 108 — A survey conducted over S...</span></span></span>
 
-At the same time, evidence shows that emotion alone is not the whole story. Some newer research challenges simplistic claims that emotional states automatically make people gullible. A 2025 study reported that pre-existing emotions did not necessarily reduce people's ability to distinguish true from false news. This suggests that emotional framing interacts with other factors such as prior beliefs, political identity, familiarity, and reasoning style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csh.ac.at">[Complexity Science Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csh.ac.at</span><span class="citation-popover-snippet">Complexity Science HubDo Emotions Make Us More Susceptible to Misinformation...12 Mar 2025 — A new study out of the Complexity Science H...</span></span></span>
+At the same time, evidence shows that emotion alone is not the whole story. Some newer research challenges simplistic claims that emotional states automatically make people gullible. A 2025 study reported that pre-existing emotions did not necessarily reduce people's ability to distinguish true from false news. This suggests that emotional framing interacts with other factors such as prior beliefs, political identity, familiarity, and reasoning style.<span class="citation-chip-wrap"><a class="citation-chip" href="https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csh.ac.at">[Complexity Science Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csh.ac.at</span><span class="citation-popover-snippet">Complexity Science HubDo Emotions Make Us More Susceptible to Misinformation...12 Mar 2025 — A new study out of the Complexity Science H...</span></span></span>
 
-The emerging consensus is therefore more nuanced: emotions do not mechanically create false beliefs, but emotional framing can increase the likelihood that people rely on mental shortcuts instead of evaluating evidence carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect.Read more...</span></span></span>
+The emerging consensus is therefore more nuanced: emotions do not mechanically create false beliefs, but emotional framing can increase the likelihood that people rely on mental shortcuts instead of evaluating evidence carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect.Read more...</span></span></span>
 
 ## Why Emotional Headlines Often Feel True
 
 The feeling of truth is not always the same as truth itself. Emotional framing often works alongside other cognitive effects that reinforce belief.
 
-One important mechanism is **processing fluency**—the tendency to treat information that feels easy to process as more credible. Emotional headlines are often simple, vivid, and memorable, making them easier to process than cautious, evidence-heavy reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabIllusory truth effect - The Decision...The illusory truth effect describes how, when we are repeatedly exposed to misinf...</span></span></span>
+One important mechanism is **processing fluency**—the tendency to treat information that feels easy to process as more credible. Emotional headlines are often simple, vivid, and memorable, making them easier to process than cautious, evidence-heavy reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabIllusory truth effect - The Decision...The illusory truth effect describes how, when we are repeatedly exposed to misinf...</span></span></span>
 
-Another mechanism is the **illusory truth effect**, in which repeated statements become more believable simply because they are familiar. When emotionally framed misinformation is repeatedly encountered through social media feeds, group chats, and reposts, familiarity can combine with emotional impact to create a strong sense that the claim is probably true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">What is the role of emotion in susceptibility to believing fake news? Prior work on the psychology of misinformation has focused primaril...</span></span></span>
+Another mechanism is the **illusory truth effect**, in which repeated statements become more believable simply because they are familiar. When emotionally framed misinformation is repeatedly encountered through social media feeds, group chats, and reposts, familiarity can combine with emotional impact to create a strong sense that the claim is probably true.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">What is the role of emotion in susceptibility to believing fake news? Prior work on the psychology of misinformation has focused primaril...</span></span></span>
 
-This combination helps explain why false stories can spread widely. Research examining large-scale information diffusion on social media found that false news often spreads farther and faster than true news. Emotional novelty and strong reactions appear to be part of the reason such content gains traction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</span></span></span>
+This combination helps explain why false stories can spread widely. Research examining large-scale information diffusion on social media found that false news often spreads farther and faster than true news. Emotional novelty and strong reactions appear to be part of the reason such content gains traction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-2-dark.svg" | relative_url }}" alt="Fake News illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Pauses Before Sharing Emotional Claims
@@ -331,7 +331,7 @@ A useful question is: *What specific evidence would support this claim if the em
 
 Many misleading posts combine a compelling personal story with a broader factual assertion. The story may be genuine while the larger conclusion remains unsupported.
 
-Readers can distinguish between: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotions in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 34 — We conclude that studies need to d...</span></span></span>
+Readers can distinguish between:<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotions in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 34 — We conclude that studies need to d...</span></span></span>
 
 * The emotional event being described.
 * The factual claim the event is being used to prove.
@@ -342,7 +342,7 @@ The first does not automatically establish the second.
 
 ### Check Before Amplifying
 
-Research suggests that prompting people to think about accuracy can improve the quality of information they share. Even a brief moment spent considering whether a claim is true can reduce the influence of emotional impulses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — We synthesize a burgeoning literature investigatin...</span></span></span>
+Research suggests that prompting people to think about accuracy can improve the quality of information they share. Even a brief moment spent considering whether a claim is true can reduce the influence of emotional impulses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — We synthesize a burgeoning literature investigatin...</span></span></span>
 
 Practical checks include:
 
@@ -361,274 +361,274 @@ Practical checks include:
 
 Emotional framing and fake news belief illustrate how appeals to emotion can become fallacious. The problem is not that emotions are present; emotions are part of normal human judgment. The problem arises when emotional intensity is treated as evidence for a factual conclusion.
 
-A headline may feel alarming, inspiring, or infuriating. Those reactions may even be reasonable. Yet the truth of the underlying claim depends on evidence, not on the strength of the emotional response it produces. Research on misinformation repeatedly shows that when emotional cues dominate attention, the boundary between feeling that something is true and knowing that it is true becomes easier to cross. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation belief action</span><span class="citation-popover-snippet">American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</span></span></span>
+A headline may feel alarming, inspiring, or infuriating. Those reactions may even be reasonable. Yet the truth of the underlying claim depends on evidence, not on the strength of the emotional response it produces. Research on misinformation repeatedly shows that when emotional cues dominate attention, the boundary between feeling that something is true and knowing that it is true becomes easier to cross. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation belief action</span><span class="citation-popover-snippet">American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bA6Vgd8m04A" title="The Cognitive Science of Fake News - David Rand November 3, 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bA6Vgd8m04A" target="_blank" rel="noopener noreferrer">The Cognitive Science of Fake News - David Rand November 3, 2017</a></p><p class="youtube-embed-meta">Channel: UCTV &middot; Views: 656 &middot; Uploaded: November 2017 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bA6Vgd8m04A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bA6Vgd8m04A">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Emotional Headlines Feel True. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Emotional Headlines Feel True. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains how intuitive emotional reactions can override careful evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how intuitive emotional reactions can override careful evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches readers to evaluate claims instead of reacting to emotional framing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to evaluate claims instead of reacting to emotional framing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides practical tools for resisting emotionally persuasive misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical tools for resisting emotionally persuasive misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=APSMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=APSMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explores how emotions shape moral and factual judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how emotions shape moral and factual judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-news-why-emotional-headlines-feel-true-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -644,7 +644,7 @@ A headline may feel alarming, inspiring, or infuriating. Those reactions may eve
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -664,7 +664,7 @@ A headline may feel alarming, inspiring, or infuriating. Those reactions may eve
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -696,7 +696,7 @@ A headline may feel alarming, inspiring, or infuriating. Those reactions may eve
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -726,7 +726,7 @@ A headline may feel alarming, inspiring, or infuriating. Those reactions may eve
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -784,162 +784,162 @@ A headline may feel alarming, inspiring, or infuriating. Those reactions may eve
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReliance on emotion promotes belief in fake news  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the role of emotion in susceptibility to believing fake news? Prior work on the psychology of misinformation has focused primaril...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the role of emotion in susceptibility to believing fake news? Prior work on the psychology of misinformation has focused primaril...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — We synthesize a burgeoning literature investigatin...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — We synthesize a burgeoning literature investigatin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Munusamy · 2024 · Cited by 37 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Munusamy · 2024 · Cited by 37 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00252-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on emotion promotes belief in fake newsby C Martel · 2020 · Cited by 769 — First, Study 1 found that experienced emotion, regardless of t...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00252-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on emotion promotes belief in fake newsby C Martel · 2020 · Cited by 769 — First, Study 1 found that experienced emotion, regardless of t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotions in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 34 — We conclude that studies need to d...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotions in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 34 — We conclude that studies need to d...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hai.stanford.edu  
    Title: the data behind your doom scroll how negative news takes over your feed  
-   Link: <a href="https://hai.stanford.edu/news/the-data-behind-your-doom-scroll-how-negative-news-takes-over-your-feed" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/news/the-data-behind-your-doom-scroll-how-negative-news-takes-over-your-feed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAIThe Data Behind Your Doom Scroll: How Negative News...25 Oct 2024 — Analyzing nearly 30 million posts, Stanford scholars rev...</p></details>
+   Link:<a href="https://hai.stanford.edu/news/the-data-behind-your-doom-scroll-how-negative-news-takes-over-your-feed" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/news/the-data-behind-your-doom-scroll-how-negative-news-takes-over-your-feed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAIThe Data Behind Your Doom Scroll: How Negative News...25 Oct 2024 — Analyzing nearly 30 million posts, Stanford scholars rev...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion detection for misinformation: A reviewby Z Liu · 2024 · Cited by 110 — This article comprehensively reviews emotion-based methods...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion detection for misinformation: A reviewby Z Liu · 2024 · Cited by 110 — This article comprehensively reviews emotion-based methods...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563226001056" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563226001056</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfaking the past: Memory and perceived truth of...by MT Soto-Sanfiel · 2026 — The perceived truth judgments in our study align with t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563226001056" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563226001056</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfaking the past: Memory and perceived truth of...by MT Soto-Sanfiel · 2026 — The perceived truth judgments in our study align with t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: That's interesting!  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222004393" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222004393</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of epistemic emotions and...by A Rijo · 2023 · Cited by 44 — Fake news elicited stronger epistemic emotional responses which in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222004393" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222004393</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of epistemic emotions and...by A Rijo · 2023 · Cited by 44 — Fake news elicited stronger epistemic emotional responses which in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apa.org  
    Title: misinformation belief action  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-belief-action</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-belief-action</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 114 — We tested a hypothesis that misinformation explo...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 114 — We tested a hypothesis that misinformation explo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: anger contributes to the spread of covid 19 misinformation  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationby J Han · 2020 · Cited by 108 — A survey conducted over S...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationby J Han · 2020 · Cited by 108 — A survey conducted over S...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: csh.ac.at  
-   Link: <a href="https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/" target="_blank" rel="noopener noreferrer nofollow">https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complexity Science HubDo Emotions Make Us More Susceptible to Misinformation...12 Mar 2025 — A new study out of the Complexity Science H...</p></details>
+   Link:<a href="https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/" target="_blank" rel="noopener noreferrer nofollow">https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complexity Science HubDo Emotions Make Us More Susceptible to Misinformation...12 Mar 2025 — A new study out of the Complexity Science H...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabIllusory truth effect - The Decision...The illusory truth effect describes how, when we are repeatedly exposed to misinf...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabIllusory truth effect - The Decision...The illusory truth effect describes how, when we are repeatedly exposed to misinf...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectRepetition makes statements easier to process relative to new, unrepeated statements, leading people to believe t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectRepetition makes statements easier to process relative to new, unrepeated statements, leading people to believe t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: brodhub.eu  
    Title: Illusory Truth Effect  
-   Link: <a href="https://brodhub.eu/en/media-literacy/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brodhub.eu/en/media-literacy/illusory-truth-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BRODNov 16, 2023 — The illusory truth effect is a cognitive bias wherein repetition increases the perceived truthfulness of a statement...</p></details>
+   Link:<a href="https://brodhub.eu/en/media-literacy/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brodhub.eu/en/media-literacy/illusory-truth-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BRODNov 16, 2023 — The illusory truth effect is a cognitive bias wherein repetition increases the perceived truthfulness of a statement...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/335131958_Reliance_on_emotion_promotes_belief_in_fake_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335131958_Reliance_on_emotion_promotes_belief_in_fake_news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reliance on emotion promotes belief in fake newsWe found that across a wide range of specific emotions, heightened emotionality at the ou...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335131958_Reliance_on_emotion_promotes_belief_in_fake_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335131958_Reliance_on_emotion_promotes_belief_in_fake_news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reliance on emotion promotes belief in fake newsWe found that across a wide range of specific emotions, heightened emotionality at the ou...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe illusory truth effect is the reason why [advertising](&amp;#123;&amp;#123; &#x27;advertising/&#x27; | relative_url &amp;#125;&amp;#125;) works and why propaganda is one of the most powerful too...</p></details>
+   Link:<a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe illusory truth effect is the reason why [advertising](&amp;#123;&amp;#123; &#x27;advertising/&#x27; | relative_url &amp;#125;&amp;#125;) works and why propaganda is one of the most powerful too...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: leadalchemists.com  
-   Link: <a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
+   Link:<a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/345991064_Reliance_on_emotion_promotes_belief_in_fake_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345991064_Reliance_on_emotion_promotes_belief_in_fake_news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reliance on emotion promotes belief in fake newsWe found both correlational and causal evidence that reliance on emotion increases...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345991064_Reliance_on_emotion_promotes_belief_in_fake_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345991064_Reliance_on_emotion_promotes_belief_in_fake_news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reliance on emotion promotes belief in fake newsWe found both correlational and causal evidence that reliance on emotion increases...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pledgeproject.eu  
-   Link: <a href="https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/" target="_blank" rel="noopener noreferrer nofollow">https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fear, anger and uncertainty: when disinformation feeds on...6 Nov 2025 — This heightened emotional state, often compounded by an initial...</p></details>
+   Link:<a href="https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/" target="_blank" rel="noopener noreferrer nofollow">https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fear, anger and uncertainty: when disinformation feeds on...6 Nov 2025 — This heightened emotional state, often compounded by an initial...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: digitalcommons.uri.edu  
-   Link: <a href="https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1355&amp;context=jmle" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1355&amp;context=jmle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facts and Feelings: Emotion and News Literacyby S Currie Sivek · 2018 · Cited by 71 — This strongly emotional framing of much fake news p...</p></details>
+   Link:<a href="https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1355&amp;context=jmle" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1355&amp;context=jmle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facts and Feelings: Emotion and News Literacyby S Currie Sivek · 2018 · Cited by 71 — This strongly emotional framing of much fake news p...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: psypost.org  
-   Link: <a href="https://www.psypost.org/feeling-angry-makes-people-more-likely-to-share-news-from-low-credibility-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/feeling-angry-makes-people-more-likely-to-share-news-from-low-credibility-sources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>source credibility, fueling the rapid spread of fake news... false claims, the specific emotions involved are not entirely understood.Re...</p></details>
+   Link:<a href="https://www.psypost.org/feeling-angry-makes-people-more-likely-to-share-news-from-low-credibility-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/feeling-angry-makes-people-more-likely-to-share-news-from-low-credibility-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>source credibility, fueling the rapid spread of fake news... false claims, the specific emotions involved are not entirely understood.Re...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nature.com  
    Title: Why people share misinformation on social media?  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05511-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05511-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>M Wu · 2025 · Cited by 6 — How asking users to rate stories affects belief in fake news on social media. Inf Syst Res 33(3):887–...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05511-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05511-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M Wu · 2025 · Cited by 6 — How asking users to rate stories affects belief in fake news on social media. Inf Syst Res 33(3):887–...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
    Title: (PDF) Detecting Fake News through Emotion Analysisnews detection tasks  
-   Link: <a href="https://www.researchgate.net/publication/355023563_Detecting_Fake_News_through_Emotion_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355023563_Detecting_Fake_News_through_Emotion_Analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intent to deceive others, often for malicious purposes.... worded.... same amount of coverage as other forms of fake news (i.e..Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355023563_Detecting_Fake_News_through_Emotion_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355023563_Detecting_Fake_News_through_Emotion_Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intent to deceive others, often for malicious purposes.... worded.... same amount of coverage as other forms of fake news (i.e..Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: kennesaw.edu  
-   Link: <a href="https://www.kennesaw.edu/news/stories/2026/research-shows-emotional-triggers-belief-fake-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.kennesaw.edu/news/stories/2026/research-shows-emotional-triggers-belief-fake-news.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New research shows emotional triggers drive belief in fake...Mar 6, 2026 — New research shows emotional triggers drive belief in fake news...</p></details>
+   Link:<a href="https://www.kennesaw.edu/news/stories/2026/research-shows-emotional-triggers-belief-fake-news.php" target="_blank" rel="noopener noreferrer nofollow">https://www.kennesaw.edu/news/stories/2026/research-shows-emotional-triggers-belief-fake-news.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New research shows emotional triggers drive belief in fake...Mar 6, 2026 — New research shows emotional triggers drive belief in fake news...</p></details>

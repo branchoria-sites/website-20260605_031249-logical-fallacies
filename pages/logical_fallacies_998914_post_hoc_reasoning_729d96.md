@@ -504,11 +504,11 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-overvie
 [Post hoc]({{ 'post-hoc/' | relative_url }}) reasoning is the mistake of treating sequence as proof of causation: one thing happened, then another thing happened, so the first thing must have caused the second. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this sits under the wider family of false cause claims, where an argument identifies the wrong cause, an unproved cause, or a cause that is only one of several possibilities. The problem is not that timing is irrelevant. Causes normally come before effects, so timing is often a useful clue. The fallacy begins when timing does more work than it can support.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-overview.webp" | relative_url }}" alt="Overview image for False Cause" loading="eager" decoding="sync" fetchpriority="high">
-This matters because false cause claims are persuasive in everyday life. A person changes diet and then feels better. A new policy is introduced and unemployment falls. A vaccine is given and an illness is noticed later. In each case, the timing may deserve investigation, but it is not enough by itself. Good causal reasoning asks what else changed, what would probably have happened otherwise, and whether stronger evidence supports the proposed link. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterPost hoc (also called false cause). This fallacy gets its name from the Latin phrase “pos...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span>
+This matters because false cause claims are persuasive in everyday life. A person changes diet and then feels better. A new policy is introduced and unemployment falls. A vaccine is given and an illness is noticed later. In each case, the timing may deserve investigation, but it is not enough by itself. Good causal reasoning asks what else changed, what would probably have happened otherwise, and whether stronger evidence supports the proposed link.<span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterPost hoc (also called false cause). This fallacy gets its name from the Latin phrase “pos...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span>
 
 ## Why “after” is not the same as “because”
 
-The classic name for the fallacy is *post hoc ergo propter hoc*, usually translated as “after this, therefore because of this”. The Stanford Encyclopedia of Philosophy describes it as ascribing a causal relationship between two states or events on the basis of temporal succession. The Internet Encyclopedia of Philosophy treats it as one of the principal forms of false cause, alongside related errors such as mistaking correlation for causation or reversing cause and effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span> Encyclopedia of Philosophy
+The classic name for the fallacy is *post hoc ergo propter hoc*, usually translated as “after this, therefore because of this”. The Stanford Encyclopedia of Philosophy describes it as ascribing a causal relationship between two states or events on the basis of temporal succession. The Internet Encyclopedia of Philosophy treats it as one of the principal forms of false cause, alongside related errors such as mistaking correlation for causation or reversing cause and effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span> Encyclopedia of Philosophy
 
 The basic pattern is simple:
 
@@ -522,12 +522,12 @@ The basic pattern is simple:
 
 That pattern is not always wrong. If someone presses a working light switch and the light immediately comes on, the sequence is good initial evidence. But it becomes weak when the argument ignores other plausible causes: a timer, another switch, a motion sensor, or a coincidence. The point is not that sequence proves nothing; it is that sequence alone rarely proves enough.
 
-A useful way to see the gap is to ask a counterfactual question: if A had not happened, would B still have happened? Counterfactual theories of causation are built around this kind of test, asking whether the effect would have occurred without the supposed cause. In ordinary argument, this does not require formal philosophy. It means asking whether the same result was likely anyway, whether a background trend was already under way, or whether a different event better explains the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span> Encyclopedia of Philosophy
+A useful way to see the gap is to ask a counterfactual question: if A had not happened, would B still have happened? Counterfactual theories of causation are built around this kind of test, asking whether the effect would have occurred without the supposed cause. In ordinary argument, this does not require formal philosophy. It means asking whether the same result was likely anyway, whether a background trend was already under way, or whether a different event better explains the outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span> Encyclopedia of Philosophy
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-1-dark.svg" | relative_url }}" alt="False Cause illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timing is a clue, not a verdict
 
-Timing matters because a cause must usually come before its effect. If a claimed cause happened after the alleged effect, the claim is normally in serious trouble. Epidemiological reasoning has long treated temporality as one of the important viewpoints for assessing causation, but not as a complete test on its own. Modern discussions of the Bradford Hill viewpoints stress that causation is assessed through a pattern of evidence, including strength, consistency, dose-response relationships, plausibility, coherence and experimental support where available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Timing matters because a cause must usually come before its effect. If a claimed cause happened after the alleged effect, the claim is normally in serious trouble. Epidemiological reasoning has long treated temporality as one of the important viewpoints for assessing causation, but not as a complete test on its own. Modern discussions of the Bradford Hill viewpoints stress that causation is assessed through a pattern of evidence, including strength, consistency, dose-response relationships, plausibility, coherence and experimental support where available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 That distinction helps separate a reasonable suspicion from a fallacy. Suppose a factory changes a chemical process in March and a nearby river shows pollution in April. The sequence is relevant. It gives investigators a reason to look at the factory. But a strong claim needs more: measurements before and after the change, evidence of the same substance in the discharge and the river, exclusion of other sources, and perhaps a pattern showing that pollution rises when the discharge rises.
 
@@ -537,7 +537,7 @@ The post hoc fallacy often appears when this middle stage is skipped. The argume
 
 The most important question in post hoc reasoning is not “Could A have caused B?” but “What else could explain B just as well, or better?” False cause claims are tempting because real life rarely presents one clean event followed by one clean outcome. Several changes usually overlap.
 
-Common alternative explanations include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juliankingnz.substack.com">[juliankingnz.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juliankingnz.substack.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Common alternative explanations include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juliankingnz.substack.com">[juliankingnz.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juliankingnz.substack.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 * **Coincidence:** B followed A, but the two events were unrelated.
 * **Background trends:** B was already becoming more likely before A happened.
@@ -554,17 +554,17 @@ The weakness is not merely technical. It changes what people do next. If a busin
 
 ## Why the fallacy feels so convincing
 
-Post hoc reasoning works on ordinary human habits of attention. People naturally look for causes, especially after surprising, costly or emotionally charged events. Psychological research on illusions of causality shows that people can perceive causal links between unrelated events, particularly when the events occur close together or when the outcome is important to them. In one review, Helena Matute and colleagues describe illusions of causality as beliefs that two events are causally connected when they are actually unrelated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Post hoc reasoning works on ordinary human habits of attention. People naturally look for causes, especially after surprising, costly or emotionally charged events. Psychological research on illusions of causality shows that people can perceive causal links between unrelated events, particularly when the events occur close together or when the outcome is important to them. In one review, Helena Matute and colleagues describe illusions of causality as beliefs that two events are causally connected when they are actually unrelated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-Superstition shows the mechanism in a familiar form. A football fan wears a particular shirt and the team wins. The next time, the shirt feels lucky. The evidence is thin, but the sequence is vivid, personal and easy to remember. Research on illusory control similarly suggests that people may overestimate their influence over outcomes governed by chance; one study found that people who endorsed more superstitious beliefs showed stronger illusory control in a task where pressing a button had no objective effect on whether a light appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Superstition shows the mechanism in a familiar form. A football fan wears a particular shirt and the team wins. The next time, the shirt feels lucky. The evidence is thin, but the sequence is vivid, personal and easy to remember. Research on illusory control similarly suggests that people may overestimate their influence over outcomes governed by chance; one study found that people who endorsed more superstitious beliefs showed stronger illusory control in a task where pressing a button had no objective effect on whether a light appeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Temporal closeness also matters. Work on human causal learning finds that people use timing as a cue in judging cause and effect. That is sensible: many real causes have regular delays. But the same cue can mislead when the mind treats closeness or predictability as stronger evidence than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euresis.org">[euresis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euresis.org</span><span class="citation-popover-title">EJv7id1 Buehner</span><span class="citation-popover-snippet">EJv7id1 Buehner</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12850993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Temporal closeness also matters. Work on human causal learning finds that people use timing as a cue in judging cause and effect. That is sensible: many real causes have regular delays. But the same cue can mislead when the mind treats closeness or predictability as stronger evidence than it really is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euresis.org">[euresis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euresis.org</span><span class="citation-popover-title">EJv7id1 Buehner</span><span class="citation-popover-snippet">EJv7id1 Buehner</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12850993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## A public-health example: reports after vaccination
 
 Vaccine safety reporting is a useful concrete example because it shows both sides of the issue. If a medical problem happens after vaccination, the timing should not be dismissed automatically. Safety systems are designed to notice possible signals. But the timing also does not prove the vaccine caused the problem.
 
-The United States Vaccine Adverse Event Reporting System, known as VAERS, explicitly warns that a report generally does not prove causation. It confirms that an event was reported after vaccination; it does not require proof that the vaccine caused the event. The CDC similarly states that a VAERS report alone does not indicate whether a vaccine caused or contributed to an adverse event, and that such determinations require investigation by scientists and public health professionals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">Guide to Interpreting VAERS Data</span><span class="citation-popover-snippet">HHS.gov8 May 2025 — A report to VAERS generally does not prove that the identified vaccine(s) caused the adverse event described. It only...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The United States Vaccine Adverse Event Reporting System, known as VAERS, explicitly warns that a report generally does not prove causation. It confirms that an event was reported after vaccination; it does not require proof that the vaccine caused the event. The CDC similarly states that a VAERS report alone does not indicate whether a vaccine caused or contributed to an adverse event, and that such determinations require investigation by scientists and public health professionals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">Guide to Interpreting VAERS Data</span><span class="citation-popover-snippet">HHS.gov8 May 2025 — A report to VAERS generally does not prove that the identified vaccine(s) caused the adverse event described. It only...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 This is not a minor caveat. Passive reporting systems are designed to be sensitive: they collect possible warning signs early, including reports that may later turn out to be unrelated. That design is useful for detecting patterns, but it also makes the raw reports easy to misuse. A false cause argument can take the form: “The event happened after the vaccine, so the vaccine caused it.” A responsible causal argument asks a different set of questions: Is the event more common among vaccinated people than comparable unvaccinated people? Is there a plausible biological mechanism? Does the risk appear in multiple data sources? Does it cluster within a credible time window? Does the pattern remain after accounting for age, health status and background rates?
 
@@ -577,13 +577,13 @@ A good causal claim does not need absolute certainty, but it should show more th
 
 **A credible time order:** The proposed cause should occur before the effect in a time window that makes sense. If a medicine is alleged to cause an immediate allergic reaction, minutes or hours may be relevant. If an exposure is alleged to increase cancer risk, years may be relevant. Timing must fit the proposed mechanism, not merely appear in the right order.
 
-**A comparison group:** The strongest question is not “Did B happen after A?” but “Did B happen more often with A than without A?” Randomised trials are valuable because randomisation helps balance known and unknown confounders between groups, reducing the risk that some other factor explains the difference. Cochrane guidance also notes that non-randomised studies can be necessary, but their results need cautious interpretation because potential biases are often greater. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Open source on cochrane.org.</span></span></span>
+**A comparison group:** The strongest question is not “Did B happen after A?” but “Did B happen more often with A than without A?” Randomised trials are valuable because randomisation helps balance known and unknown confounders between groups, reducing the risk that some other factor explains the difference. Cochrane guidance also notes that non-randomised studies can be necessary, but their results need cautious interpretation because potential biases are often greater.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Open source on cochrane.org.</span></span></span>
 
 **A plausible mechanism:** A cause is more credible when there is a realistic account of how it produces the effect. Mechanism alone is not proof, and lack of a known mechanism does not always rule out causation, but it helps distinguish a serious hypothesis from a coincidence dressed up as an explanation.
 
 **Consistency across cases:** A single before-and-after story is weak. A repeated pattern across different settings, data sources or methods is stronger, especially when alternative explanations differ across those settings.
 
-**Dose-response or exposure pattern:** When greater exposure is associated with greater effect, the causal claim often becomes more plausible. The Bradford Hill [tradition]({{ 'tradition/' | relative_url }}) treats such gradients as supportive, while modern discussions also caution that not every real cause has a simple linear dose-response pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+**Dose-response or exposure pattern:** When greater exposure is associated with greater effect, the causal claim often becomes more plausible. The Bradford Hill [tradition]({{ 'tradition/' | relative_url }}) treats such gradients as supportive, while modern discussions also caution that not every real cause has a simple linear dose-response pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 **Ruling out rival explanations:** The most persuasive causal evidence actively tests competing explanations rather than ignoring them. This may involve controlling for confounders, using natural experiments, checking pre-existing trends, or testing whether the effect disappears when the cause is removed.
 
@@ -605,7 +605,7 @@ In personal relationships, post hoc reasoning can become unfair blame: “Everyt
 
 It would be too crude to say that before-and-after reasoning is always bad. Much practical reasoning begins with temporal clues. A doctor asks what changed before symptoms appeared. An engineer asks what was altered before a system failed. A historian asks what events preceded a revolution. The difference is that good inquiry treats sequence as a lead, not a conclusion.
 
-Some sources on fallacies warn that labelling every temporal inference as “post hoc” can itself be careless. A before-and-after comparison may be reasonable when one relevant change stands out, when the effect follows in a plausible time frame, and when alternative explanations have been considered. The fallacy is not the use of timing; it is the overuse of timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Some sources on fallacies warn that labelling every temporal inference as “post hoc” can itself be careless. A before-and-after comparison may be reasonable when one relevant change stands out, when the effect follows in a plausible time frame, and when alternative explanations have been considered. The fallacy is not the use of timing; it is the overuse of timing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A fair test is to ask whether the argument would survive if the words “after that” were removed. If the only support left is the order of events, the claim is weak. If there is also a mechanism, comparison, repeated pattern and serious engagement with alternatives, then the argument may be a legitimate causal inference rather than a fallacy.
 
@@ -638,269 +638,269 @@ Post hoc reasoning is powerful because it begins with something real: causes do 
 The safest habit is to treat sequence as an invitation to investigate. Ask what else could explain the result, what would have happened otherwise, and what evidence would distinguish the proposed cause from coincidence, background trends or a third factor. That habit does not make causal judgement effortless, but it prevents one of the most common ways weak arguments become persuasive.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did One Thing Really Cause Another?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did One Thing Really Cause Another?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vr9XzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
-        </h4>
-        <p class="fr-book-author">By Leonard Mlodinow</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vr9XzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
+</h4>
+<p class="fr-book-author">By Leonard Mlodinow</p>
         
-        <p class="fr-book-desc">Directly addresses false causal stories and chance events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses false causal stories and chance events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows why people infer causes from weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why people infer causes from weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Explains evidence, uncertainty, and causal interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evidence, uncertainty, and causal interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches readers to challenge weak causal arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to challenge weak causal arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drunkard&#x27;s Walk</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drunkard&#x27;s Walk</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/787a693b1c0a413b5cae.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/787a693b1c0a413b5cae.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5ac191dbe38e9b83310c.jpg' | relative_url }}" alt="Listing image for Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5ac191dbe38e9b83310c.jpg' | relative_url }}" alt="Listing image for Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame"><img src="{{ '/assets/images/marketplace-covers/01c6d9e5c77ae8bfb2d4.jpg' | relative_url }}" alt="Listing image for 7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame"><img src="{{ '/assets/images/marketplace-covers/01c6d9e5c77ae8bfb2d4.jpg' | relative_url }}" alt="Listing image for 7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b0e90398867168870419.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b0e90398867168870419.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY QUOTES - science without Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-cause-did-one-thing-really-cause-another-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -916,7 +916,7 @@ The safest habit is to treat sequence as an invitation to investigate. Ask what 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -936,7 +936,7 @@ The safest habit is to treat sequence as an invitation to investigate. Ask what 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -968,7 +968,7 @@ The safest habit is to treat sequence as an invitation to investigate. Ask what 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -998,7 +998,7 @@ The safest habit is to treat sequence as an invitation to investigate. Ask what 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1056,200 +1056,200 @@ The safest habit is to treat sequence as an invitation to investigate. Ask what 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vaers.hhs.gov  
    Title: Guide to Interpreting VAERS Data  
-   Link: <a href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data/dataguide.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HHS.gov8 May 2025 — A report to VAERS generally does not prove that the identified vaccine(s) caused the adverse event described. It only...</p></details>
+   Link:<a href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data/dataguide.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HHS.gov8 May 2025 — A report to VAERS generally does not prove that the identified vaccine(s) caused the adverse event described. It only...</p></details>
    Published: May 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: causation counterfactual  
-   Link: <a href="https://plato.stanford.edu/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-counterfactual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCounterfactual Theories of Causationby P Menzies · 2001 · Cited by 611 — The basic idea of counterfact...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-counterfactual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCounterfactual Theories of Causationby P Menzies · 2001 · Cited by 611 — The basic idea of counterfact...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy [Counterfactuals](&#123;&#123; 'counterfactuals/' | relative_url &#125;&#125;)  
-   Link: <a href="https://plato.stanford.edu/entries/counterfactuals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/counterfactuals/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/counterfactuals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/counterfactuals/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: euresis.org  
    Title: EJv7id1 Buehner  
-   Link: <a href="https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf</a>  
+   Link:<a href="https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
+   Link:<a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08</a>  
+   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-24" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-24</a>  
+   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-24" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-24</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies</a>  
+   Link:<a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5201a1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5201a1.htm</a>  
+   Link:<a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5201a1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5201a1.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: causation metaphysics  
-   Link: <a href="https://plato.stanford.edu/entries/causation-metaphysics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-metaphysics/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/causation-metaphysics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-metaphysics/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: methods.cochrane.org  
-   Link: <a href="https://methods.cochrane.org/defining-and-determining-which-quantitative-study-designs-include-your-systematic-review-effects" target="_blank" rel="noopener noreferrer nofollow">https://methods.cochrane.org/defining-and-determining-which-quantitative-study-designs-include-your-systematic-review-effects</a>  
+   Link:<a href="https://methods.cochrane.org/defining-and-determining-which-quantitative-study-designs-include-your-systematic-review-effects" target="_blank" rel="noopener noreferrer nofollow">https://methods.cochrane.org/defining-and-determining-which-quantitative-study-designs-include-your-systematic-review-effects</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23</a>  
+   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
+   Link:<a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vaers.hhs.gov  
-   Link: <a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
+   Link:<a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterPost hoc (also called false cause). This fallacy gets its name from the Latin phrase “pos...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterPost hoc (also called false cause). This fallacy gets its name from the Latin phrase “pos...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c</a>  
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12850993/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12850993/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12850993/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12850993/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Post hoc ergo propter hoc  
-   Link: <a href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tureng.com  
-   Link: <a href="https://tureng.com/en/turkish-english/false" target="_blank" rel="noopener noreferrer nofollow">https://tureng.com/en/turkish-english/false</a>  
+   Link:<a href="https://tureng.com/en/turkish-english/false" target="_blank" rel="noopener noreferrer nofollow">https://tureng.com/en/turkish-english/false</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: quillbot.com  
    Title: post hoc fallacy  
-   Link: <a href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/post-hoc-fallacy/</a>  
+   Link:<a href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/post-hoc-fallacy/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribbr.co.uk  
    Title: Post Hoc Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/the-post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-post-hoc-fallacy/</a>  
+   Link:<a href="https://www.scribbr.co.uk/fallacy/the-post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-post-hoc-fallacy/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: legal-resources.uslegalforms.com  
    Title: post hoc ergo propter hoc  
-   Link: <a href="https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc</a>  
+   Link:<a href="https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: explorable.com  
    Title: Post Hoc Reasoning  
-   Link: <a href="https://explorable.com/post-hoc-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://explorable.com/post-hoc-reasoning</a>  
+   Link:<a href="https://explorable.com/post-hoc-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://explorable.com/post-hoc-reasoning</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: philpapers.org  
    Title: Counterfactual theories of causation  
-   Link: <a href="https://philpapers.org/rec/MENCTO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/MENCTO</a>  
+   Link:<a href="https://philpapers.org/rec/MENCTO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/MENCTO</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: study.com  
    Title: Post Hoc Fallacy | Definition & Examples  
-   Link: <a href="https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html</a>  
+   Link:<a href="https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: study.com  
    Title: Post Hoc Fallacy | Definition & Examples  
-   Link: <a href="https://study.com/learn/lesson/post-hoc-fallacy-overview-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/post-hoc-fallacy-overview-examples.html</a>  
+   Link:<a href="https://study.com/learn/lesson/post-hoc-fallacy-overview-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/post-hoc-fallacy-overview-examples.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: afterall.net  
    Title: post hoc  
-   Link: <a href="https://afterall.net/illogic/causal/post-hoc/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/causal/post-hoc/</a>  
+   Link:<a href="https://afterall.net/illogic/causal/post-hoc/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/causal/post-hoc/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIts four principal kinds are the Post Hoc Fallacy, the Fallacy of Cum Hoc... This label is L...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIts four principal kinds are the Post Hoc Fallacy, the Fallacy of Cum Hoc... This label is L...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Can you outsmart the fallacy that fooled a generation of doctors?  
-   Link: <a href="https://www.youtube.com/watch?v=8HLtFv_KqoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8HLtFv_KqoE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is The Post Hoc Fallacy? | Critical Thinking Basics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8HLtFv_KqoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8HLtFv_KqoE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is The Post Hoc Fallacy? | Critical Thinking Basics...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327223124_Superstition_predicts_perception_of_illusory_control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327223124_Superstition_predicts_perception_of_illusory_control</a>  
+   Link:<a href="https://www.researchgate.net/publication/327223124_Superstition_predicts_perception_of_illusory_control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327223124_Superstition_predicts_perception_of_illusory_control</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/47642331_Temporal_Predictability_Facilitates_Causal_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/47642331_Temporal_Predictability_Facilitates_Causal_Learning</a>  
+   Link:<a href="https://www.researchgate.net/publication/47642331_Temporal_Predictability_Facilitates_Causal_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/47642331_Temporal_Predictability_Facilitates_Causal_Learning</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: helpfulprofessor.com  
-   Link: <a href="https://helpfulprofessor.com/false-cause-fallacy-examples/" target="_blank" rel="noopener noreferrer nofollow">https://helpfulprofessor.com/false-cause-fallacy-examples/</a>  
+   Link:<a href="https://helpfulprofessor.com/false-cause-fallacy-examples/" target="_blank" rel="noopener noreferrer nofollow">https://helpfulprofessor.com/false-cause-fallacy-examples/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: juliankingnz.substack.com  
-   Link: <a href="https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to" target="_blank" rel="noopener noreferrer nofollow">https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to</a>  
+   Link:<a href="https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to" target="_blank" rel="noopener noreferrer nofollow">https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: usablebuildings.co.uk  
-   Link: <a href="https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf</a>  
+   Link:<a href="https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: 1000wordphilosophy.com  
-   Link: <a href="https://1000wordphilosophy.com/2025/12/20/causation/" target="_blank" rel="noopener noreferrer nofollow">https://1000wordphilosophy.com/2025/12/20/causation/</a>  
+   Link:<a href="https://1000wordphilosophy.com/2025/12/20/causation/" target="_blank" rel="noopener noreferrer nofollow">https://1000wordphilosophy.com/2025/12/20/causation/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: alisongopnik.com  
-   Link: <a href="https://alisongopnik.com/Papers_Alison/Kushnir%20DevPsych.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alisongopnik.com/Papers_Alison/Kushnir%20DevPsych.pdf</a>  
+   Link:<a href="https://alisongopnik.com/Papers_Alison/Kushnir%20DevPsych.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alisongopnik.com/Papers_Alison/Kushnir%20DevPsych.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/</a>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/</a>

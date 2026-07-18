@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_
 
 ## Introduction
 
-Whataboutism is often described as answering criticism with “But what about them?”. As a test for spotting red herrings, the key question is not whether the comparison is true, but whether it helps answer the issue under discussion. When a speaker responds to a charge by pointing to someone else’s wrongdoing, hypocrisy, or inconsistency, the move may expose a genuine double standard. Yet if it leaves the original criticism unanswered, it functions as a diversion rather than a defence. Encyclopaedia Britannica defines whataboutism as responding to an accusation or difficult question with a counteraccusation or different issue, while discussions of [relevance]({{ 'relevance/' | relative_url }}) fallacies treat it as a common way of shifting attention away from the claim that needs to be addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
+Whataboutism is often described as answering criticism with “But what about them?”. As a test for spotting red herrings, the key question is not whether the comparison is true, but whether it helps answer the issue under discussion. When a speaker responds to a charge by pointing to someone else’s wrongdoing, hypocrisy, or inconsistency, the move may expose a genuine double standard. Yet if it leaves the original criticism unanswered, it functions as a diversion rather than a defence. Encyclopaedia Britannica defines whataboutism as responding to an accusation or difficult question with a counteraccusation or different issue, while discussions of [relevance]({{ 'relevance/' | relative_url }}) fallacies treat it as a common way of shifting attention away from the claim that needs to be addressed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-dark.svg" | relative_url }}" alt="Whataboutism illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader family of red herrings, whataboutism is especially persuasive because it often relies on facts that are partly or entirely correct. The challenge is therefore not to decide whether the new accusation is true, but to determine whether it is relevant.
@@ -295,7 +295,7 @@ Now consider:
 
 Here the comparison directly addresses the claim of uniqueness. It is relevant rather than evasive.
 
-The red-herring test is therefore simple: if the comparison helps evaluate the original claim, it may be legitimate. If it merely redirects attention, it is functioning as whataboutism. Philosophical discussions of relevance fallacies and analyses of whataboutery both emphasise that the crucial issue is whether the new point contributes to resolving the original dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
+The red-herring test is therefore simple: if the comparison helps evaluate the original claim, it may be legitimate. If it merely redirects attention, it is functioning as whataboutism. Philosophical discussions of relevance fallacies and analyses of whataboutery both emphasise that the crucial issue is whether the new point contributes to resolving the original dispute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BWiMwVqq4rM" title="Whataboutism in Russian diplomacy | Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer">Whataboutism in Russian diplomacy | Explained</a></p><p class="youtube-embed-meta">Channel: TV Rain Newsroom &middot; Views: 17.8K &middot; Uploaded: September 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BWiMwVqq4rM">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +303,7 @@ The red-herring test is therefore simple: if the comparison helps evaluate the o
 
 One reason whataboutism is difficult to evaluate is that accusations of hypocrisy are sometimes important.
 
-Imagine a regulator who punishes one industry for behaviour routinely ignored in another. Pointing out the inconsistency could reveal bias, selective enforcement, or unfair treatment. In such cases, the charge of [double standards]({{ 'double-standards/' | relative_url }}) helps assess whether the criticism itself is being applied fairly. Scholars analysing whataboutery have argued that not every “what about” response is fallacious because some comparisons genuinely illuminate fairness, consistency, or policy principles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
+Imagine a regulator who punishes one industry for behaviour routinely ignored in another. Pointing out the inconsistency could reveal bias, selective enforcement, or unfair treatment. In such cases, the charge of [double standards]({{ 'double-standards/' | relative_url }}) helps assess whether the criticism itself is being applied fairly. Scholars analysing whataboutery have argued that not every “what about” response is fallacious because some comparisons genuinely illuminate fairness, consistency, or policy principles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
 
 A useful distinction is between two questions:
 
@@ -319,7 +319,7 @@ For example:
 
 The second statement may raise a legitimate concern about enforcement, but it does not determine whether the violation occurred. The discussion has shifted from conduct to consistency.
 
-This is why whataboutism frequently overlaps with the *[tu quoque]({{ 'tu-quoque/' | relative_url }})* (“you too”) fallacy. The appeal to hypocrisy attempts to weaken criticism by highlighting inconsistency in the critic rather than addressing the substance of the criticism itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tu quoque</span><span class="citation-popover-snippet">Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</span></span></span>
+This is why whataboutism frequently overlaps with the *[tu quoque]({{ 'tu-quoque/' | relative_url }})* (“you too”) fallacy. The appeal to hypocrisy attempts to weaken criticism by highlighting inconsistency in the critic rather than addressing the substance of the criticism itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tu quoque</span><span class="citation-popover-snippet">Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-2-dark.svg" | relative_url }}" alt="Whataboutism illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Relevance Test
@@ -352,7 +352,7 @@ Political [debate]({{ 'debate/' | relative_url }}) provides some of the clearest
 
 A journalist asks whether a government violated civil liberties. A spokesperson replies by listing civil-liberty failures in another country. The comparison may be accurate, but unless it helps determine whether the alleged violation occurred, it functions as a [red herring]({{ 'red-herring/' | relative_url }}).
 
-The tactic became particularly associated with Cold War propaganda, where criticism of one side was frequently answered by pointing to abuses committed by the other. Commentators have long described this pattern as a defining example of whataboutism. The historical [association]({{ 'association/' | relative_url }}) helps explain why the term is often linked to propaganda and strategic distraction rather than genuine comparative analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.economist.com/europe/2008/01/31/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economist.com">[The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economist.com</span><span class="citation-popover-snippet">The EconomistWhataboutismJan 31, 2008 — SOVIET propagandists during the cold war were trained in a tactic that their western interlocutor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kjzz.org">[KJZZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kjzz.org</span><span class="citation-popover-title">whataboutism russian propaganda technique popular trump his supporters</span><span class="citation-popover-snippet">Whenever criticism was leveled at the Soviet Union, they countered with a similar critique of the West.Read more...</span></span></span>
+The tactic became particularly associated with Cold War propaganda, where criticism of one side was frequently answered by pointing to abuses committed by the other. Commentators have long described this pattern as a defining example of whataboutism. The historical [association]({{ 'association/' | relative_url }}) helps explain why the term is often linked to propaganda and strategic distraction rather than genuine comparative analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.economist.com/europe/2008/01/31/whataboutism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economist.com">[The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economist.com</span><span class="citation-popover-snippet">The EconomistWhataboutismJan 31, 2008 — SOVIET propagandists during the cold war were trained in a tactic that their western interlocutor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kjzz.org">[KJZZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kjzz.org</span><span class="citation-popover-title">whataboutism russian propaganda technique popular trump his supporters</span><span class="citation-popover-snippet">Whenever criticism was leveled at the Soviet Union, they countered with a similar critique of the West.Read more...</span></span></span>
 
 A revealing clue is that the conversation often ends up discussing the comparison instead of the original allegation. Once the audience debates which side is worse, the initial question may disappear entirely.
 
@@ -369,7 +369,7 @@ Similarly:
 
 The response may identify a broader problem, but it can also dilute scrutiny of the particular case being discussed.
 
-Researchers studying online discourse note that whataboutism often operates as a form of narrative disruption. Instead of directly contesting a claim, it redirects attention toward another grievance, controversy, or accusation. This makes detection difficult because the new topic is frequently related enough to seem relevant at first glance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
+Researchers studying online discourse note that whataboutism often operates as a form of narrative disruption. Instead of directly contesting a claim, it redirects attention toward another grievance, controversy, or accusation. This makes detection difficult because the new topic is frequently related enough to seem relevant at first glance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-dark.svg" | relative_url }}" alt="Whataboutism illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Whataboutism Is Not a Fallacy
@@ -385,7 +385,7 @@ A comparison is not automatically fallacious merely because it broadens the disc
 
 For example, if someone argues that a particular punishment is justified because a certain act is exceptionally harmful, evidence that similar acts receive different treatment may be directly relevant.
 
-The decisive question remains relevance. If the comparison helps assess the truth, fairness, or scope of the original claim, it contributes to the argument. If it merely redirects attention, it becomes a red herring. This distinction is central to philosophical discussions of whataboutery and relevance-based fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
+The decisive question remains relevance. If the comparison helps assess the truth, fairness, or scope of the original claim, it contributes to the argument. If it merely redirects attention, it becomes a red herring. This distinction is central to philosophical discussions of whataboutery and relevance-based fallacies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bG5IzHQ0SMM" title="Whataboutism explained (explainity® explainer video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bG5IzHQ0SMM" target="_blank" rel="noopener noreferrer">Whataboutism explained (explainity® explainer video)</a></p><p class="youtube-embed-meta">Channel: explainitychannel &middot; Views: 16.5K &middot; Uploaded: November 2022 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bG5IzHQ0SMM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bG5IzHQ0SMM">Open on YouTube</a></p></div></div></div>
 
@@ -393,272 +393,272 @@ The decisive question remains relevance. If the comparison helps assess the trut
 
 Whataboutism is best understood not as any mention of another wrongdoing, but as a test of relevance. A comparison can reveal hypocrisy, expose double standards, or supply essential context. Those uses are not necessarily fallacious.
 
-The warning sign appears when the comparison substitutes for an answer. If the original criticism remains standing after the “what about” response, the conversation has probably been diverted. In that moment, whataboutism functions as a classic red herring: attention moves, but the issue on the table has not actually been addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesIf the fallacy is due to claiming the person does not practice what is preached, it is the Tu...</span></span></span>
+The warning sign appears when the comparison substitutes for an answer. If the original criticism remains standing after the “what about” response, the conversation has probably been diverted. In that moment, whataboutism functions as a classic red herring: attention moves, but the issue on the table has not actually been addressed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesIf the fallacy is due to claiming the person does not practice what is preached, it is the Tu...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Whataboutism Becomes a Dodge. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Whataboutism Becomes a Dodge. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explains why people respond to criticism with counter-accusations and tribal comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people respond to criticism with counter-accusations and tribal comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches how to assess relevance rather than rhetorical impact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to assess relevance rather than rhetorical impact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Shows how comparisons can be relevant or irrelevant depending on the claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how comparisons can be relevant or irrelevant depending on the claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Covers diversionary reasoning patterns related to whataboutism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers diversionary reasoning patterns related to whataboutism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Anti Trump Mug American Psycho Parody Political Humour Coffee Cup Novelty"><img src="{{ '/assets/images/marketplace-covers/f1d323011e1e58f9a3f2.jpg' | relative_url }}" alt="Listing image for Funny Anti Trump Mug American Psycho Parody Political Humour Coffee Cup Novelty" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Anti Trump Mug American Psycho Parody Political Humour Coffee Cup Novelty</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political humor mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: political humor mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Anti Trump Mug American Psycho Parody Political Humour Coffee Cup Novelty"><img src="{{ '/assets/images/marketplace-covers/f1d323011e1e58f9a3f2.jpg' | relative_url }}" alt="Listing image for Funny Anti Trump Mug American Psycho Parody Political Humour Coffee Cup Novelty" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Anti Trump Mug American Psycho Parody Political Humour Coffee Cup Novelty</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political humor mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: political humor mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kim Jong Un Mug | Red White Ceramic Coffee Cup | Political Humor 11oz"><img src="{{ '/assets/images/marketplace-covers/a64ac65740d7094b7a10.jpg' | relative_url }}" alt="Listing image for Kim Jong Un Mug | Red White Ceramic Coffee Cup | Political Humor 11oz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kim Jong Un Mug | Red White Ceramic Coffee Cup | Political Humor 11oz</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political humor mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: political humor mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kim Jong Un Mug | Red White Ceramic Coffee Cup | Political Humor 11oz"><img src="{{ '/assets/images/marketplace-covers/a64ac65740d7094b7a10.jpg' | relative_url }}" alt="Listing image for Kim Jong Un Mug | Red White Ceramic Coffee Cup | Political Humor 11oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kim Jong Un Mug | Red White Ceramic Coffee Cup | Political Humor 11oz</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political humor mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: political humor mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Anti-Trump Coffee Mug | Sarcastic Political Humor Gift | Morning Strength"><img src="{{ '/assets/images/marketplace-covers/07a6cbd89bb017ac9e31.jpg' | relative_url }}" alt="Listing image for Funny Anti-Trump Coffee Mug | Sarcastic Political Humor Gift | Morning Strength" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Anti-Trump Coffee Mug | Sarcastic Political Humor Gift | Morning Strength</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political humor mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: political humor mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Anti-Trump Coffee Mug | Sarcastic Political Humor Gift | Morning Strength"><img src="{{ '/assets/images/marketplace-covers/07a6cbd89bb017ac9e31.jpg' | relative_url }}" alt="Listing image for Funny Anti-Trump Coffee Mug | Sarcastic Political Humor Gift | Morning Strength" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Anti-Trump Coffee Mug | Sarcastic Political Humor Gift | Morning Strength</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political humor mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: political humor mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Humor Mug, Trump And Biden Coffee Cup, Funny Presidents Push-up Mug"><img src="{{ '/assets/images/marketplace-covers/32648adf97069610c747.jpg' | relative_url }}" alt="Listing image for Political Humor Mug, Trump And Biden Coffee Cup, Funny Presidents Push-up Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Political Humor Mug, Trump And Biden Coffee Cup, Funny Presidents Push-up Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political humor mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: political humor mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Humor Mug, Trump And Biden Coffee Cup, Funny Presidents Push-up Mug"><img src="{{ '/assets/images/marketplace-covers/32648adf97069610c747.jpg' | relative_url }}" alt="Listing image for Political Humor Mug, Trump And Biden Coffee Cup, Funny Presidents Push-up Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Political Humor Mug, Trump And Biden Coffee Cup, Funny Presidents Push-up Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for political humor mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: political humor mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=political+humor+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whataboutism-when-whataboutism-becomes-a-dodge-logical-fallacies-political-humor-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -674,7 +674,7 @@ The warning sign appears when the comparison substitutes for an answer. If the o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -694,7 +694,7 @@ The warning sign appears when the comparison substitutes for an answer. If the o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -726,7 +726,7 @@ The warning sign appears when the comparison substitutes for an answer. If the o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -756,7 +756,7 @@ The warning sign appears when the comparison substitutes for an answer. If the o
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -814,143 +814,143 @@ The warning sign appears when the comparison substitutes for an answer. If the o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/whataboutism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhataboutism | Definition, Examples, Etymology, Logical...Apr 1, 2026 — Whataboutism, the rhetorical practice of...</p></details>
+   Link:<a href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/whataboutism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhataboutism | Definition, Examples, Etymology, Logical...Apr 1, 2026 — Whataboutism, the rhetorical practice of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OCOWIA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</p></details>
+   Link:<a href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OCOWIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: economist.com  
-   Link: <a href="https://www.economist.com/europe/2008/01/31/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/europe/2008/01/31/whataboutism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWhataboutismJan 31, 2008 — SOVIET propagandists during the cold war were trained in a tactic that their western interlocutor...</p></details>
+   Link:<a href="https://www.economist.com/europe/2008/01/31/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/europe/2008/01/31/whataboutism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWhataboutismJan 31, 2008 — SOVIET propagandists during the cold war were trained in a tactic that their western interlocutor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kjzz.org  
    Title: whataboutism russian propaganda technique popular trump his supporters  
-   Link: <a href="https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters" target="_blank" rel="noopener noreferrer nofollow">https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Whenever criticism was leveled at the Soviet Union, they countered with a similar critique of the West.Read more...</p></details>
+   Link:<a href="https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters" target="_blank" rel="noopener noreferrer nofollow">https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whenever criticism was leveled at the Soviet Union, they countered with a similar critique of the West.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.09934</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.09934</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</p></details>
    Published: February 15, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesRed herring fallacies. edit. A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesRed herring fallacies. edit. A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Whataboutism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WhataboutismCommon accusations include double standards, and hypocrisy, but it can also be used to relativize criticism of one&#x27;s own v...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Whataboutism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WhataboutismCommon accusations include double standards, and hypocrisy, but it can also be used to relativize criticism of one&#x27;s own v...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/propaganda</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Techniques, Examples, &amp;...16 May 2026 — Propaganda is the more or less systematic effort to manipulate other people...</p></details>
+   Link:<a href="https://www.britannica.com/topic/propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/propaganda</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Techniques, Examples, &amp;...16 May 2026 — Propaganda is the more or less systematic effort to manipulate other people...</p></details>
    Published: May 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</p></details>
+   Link:<a href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;critical discussion,&quot; which maintains that &quot;...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;critical discussion,&quot; which maintains that &quot;...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/35272" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/35272</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism | Encyclopedia MDPINov 18, 2022 — Whataboutism is used as Russian propaganda with the goal of obfuscating criticism of the R...</p></details>
+   Link:<a href="https://encyclopedia.pub/entry/35272" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/35272</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism | Encyclopedia MDPINov 18, 2022 — Whataboutism is used as Russian propaganda with the goal of obfuscating criticism of the R...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2311.09761" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09761</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2311.09761v2 [cs.CL] 9 Apr 2024by C Helwe · 2023 · Cited by 22 — It aims to systematize and classify the fallacies used in current...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2311.09761" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2311.09761v2 [cs.CL] 9 Apr 2024by C Helwe · 2023 · Cited by 22 — It aims to systematize and classify the fallacies used in current...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacy is due to claiming the person does not practice what is preached, it is the Tu...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacy is due to claiming the person does not practice what is preached, it is the Tu...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Tu quoque)Description: Claiming the argument is flawed by pointing out that the one making the argument is not acting consist...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Tu quoque)Description: Claiming the argument is flawed by pointing out that the one making the argument is not acting consist...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/changemyview/comments/1sisl9n/cmv_whataboutism_is_a_logical_fallacy_but_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/1sisl9n/cmv_whataboutism_is_a_logical_fallacy_but_it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism is a logical fallacy, but it works extremely wellWhataboutism is a tactic that deflects criticism by pointing to someone els...</p></details>
+   Link:<a href="https://www.reddit.com/r/changemyview/comments/1sisl9n/cmv_whataboutism_is_a_logical_fallacy_but_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/1sisl9n/cmv_whataboutism_is_a_logical_fallacy_but_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism is a logical fallacy, but it works extremely wellWhataboutism is a tactic that deflects criticism by pointing to someone els...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: globalchallenges.ch  
    Title: propaganda and disinformation between east and west a long term perspective  
-   Link: <a href="https://globalchallenges.ch/issue/13/propaganda-and-disinformation-between-east-and-west-a-long-term-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://globalchallenges.ch/issue/13/propaganda-and-disinformation-between-east-and-west-a-long-term-perspective/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Propaganda and Disinformation between East and WestIn the years following the October Revolution of 1917, the Soviet government sponsored...</p></details>
+   Link:<a href="https://globalchallenges.ch/issue/13/propaganda-and-disinformation-between-east-and-west-a-long-term-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://globalchallenges.ch/issue/13/propaganda-and-disinformation-between-east-and-west-a-long-term-perspective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Propaganda and Disinformation between East and WestIn the years following the October Revolution of 1917, the Soviet government sponsored...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BWiMwVqq4rM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism in Russian diplomacy | ExplainedWhataboutism is not only a way of shifting blame whenever faced with an accusation — it is a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BWiMwVqq4rM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism in Russian diplomacy | ExplainedWhataboutism is not only a way of shifting blame whenever faced with an accusation — it is a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is commonly employed as an effective red herring because it takes the heat off someone having to...Read more...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is commonly employed as an effective red herring because it takes the heat off someone having to...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: markmanson.net  
-   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red herring logical fallacy: Hitler was a vegetarian. Red herrings are also...Read more...</p></details>
+   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red herring logical fallacy: Hitler was a vegetarian. Red herrings are also...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: russiamatters.org  
    Title: 2 decades russian whataboutism partial rundown  
-   Link: <a href="https://www.russiamatters.org/blog/2-decades-russian-whataboutism-partial-rundown" target="_blank" rel="noopener noreferrer nofollow">https://www.russiamatters.org/blog/2-decades-russian-whataboutism-partial-rundown</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Decades of Russian &#x27;Whataboutism&#x27;: A Partial RundownOct 21, 2021 — The collection below features statements made between 2000 and 2021...</p></details>
+   Link:<a href="https://www.russiamatters.org/blog/2-decades-russian-whataboutism-partial-rundown" target="_blank" rel="noopener noreferrer nofollow">https://www.russiamatters.org/blog/2-decades-russian-whataboutism-partial-rundown</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Decades of Russian &#x27;Whataboutism&#x27;: A Partial RundownOct 21, 2021 — The collection below features statements made between 2000 and 2021...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MAtalkss/posts/whataboutisma-logical-fallacy-when-instead-of-addressing-the-issue-raised-the-pe/1175665091263489/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MAtalkss/posts/whataboutisma-logical-fallacy-when-instead-of-addressing-the-issue-raised-the-pe/1175665091263489/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssue raised, the mind diverts attention by shifting the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/MAtalkss/posts/whataboutisma-logical-fallacy-when-instead-of-addressing-the-issue-raised-the-pe/1175665091263489/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MAtalkss/posts/whataboutisma-logical-fallacy-when-instead-of-addressing-the-issue-raised-the-pe/1175665091263489/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssue raised, the mind diverts attention by shifting the...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ffreethinkers/posts/10158808061367188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ffreethinkers/posts/10158808061367188/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>le always tend to use it and it’s annoying. They don’t even try...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ffreethinkers/posts/10158808061367188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ffreethinkers/posts/10158808061367188/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>le always tend to use it and it’s annoying. They don’t even try...</p></details>

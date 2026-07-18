@@ -271,17 +271,17 @@ image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_
 When people debate whether to keep an existing system or adopt a new one, they often fall into a symmetrical pair of errors. The [appeal to novelty]({{ 'novelty/' | relative_url }}) assumes that the new option is better because it is new. The appeal to [tradition]({{ 'tradition/' | relative_url }}) assumes that the existing option is better because it has been around longer. Both mistakes substitute age for evidence. A fair comparison asks a different question: what does each option improve, preserve, risk, and cost?
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-dark.svg" | relative_url }}" alt="Fair Comparison illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In practice, better decisions come from comparing outcomes against a clear baseline, identifying transition costs, and defining success and failure before implementation begins. Whether the subject is public policy, digital government, healthcare processes, education reform, or organisational technology, the strongest arguments are grounded in measurable effects rather than assumptions about modernity or tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiviology.com">[2effectiviology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiviology.com</span><span class="citation-popover-snippet">med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</span></span></span>
+In practice, better decisions come from comparing outcomes against a clear baseline, identifying transition costs, and defining success and failure before implementation begins. Whether the subject is public policy, digital government, healthcare processes, education reform, or organisational technology, the strongest arguments are grounded in measurable effects rather than assumptions about modernity or tradition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiviology.com">[2effectiviology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiviology.com</span><span class="citation-popover-snippet">med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</span></span></span>
 
 ## How Appeal to Novelty and Appeal to Tradition Make Matching Mistakes
 
 The appeal to [novelty]({{ 'novelty/' | relative_url }}) and the appeal to tradition appear to be opposites, but they share the same logical flaw. Both treat a historical fact as proof of quality.
 
-The appeal to novelty follows a pattern such as: “This policy is new, therefore it is better.” The appeal to tradition follows the mirror image: “This policy has worked for years, therefore it is better.” Neither conclusion follows from the premise. New systems can introduce hidden defects, while long-established systems can preserve inefficiency. Age alone does not establish effectiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiviology.com">[2effectiviology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiviology.com</span><span class="citation-popover-snippet">med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</span></span></span>
+The appeal to novelty follows a pattern such as: “This policy is new, therefore it is better.” The appeal to tradition follows the mirror image: “This policy has worked for years, therefore it is better.” Neither conclusion follows from the premise. New systems can introduce hidden defects, while long-established systems can preserve inefficiency. Age alone does not establish effectiveness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiviology.com">[2effectiviology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiviology.com</span><span class="citation-popover-snippet">med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</span></span></span>
 
 A useful way to expose the error is to remove references to age entirely. If a proposal cannot explain its advantages without words such as “modern”, “innovative”, “next-generation”, “traditional”, or “time-tested”, the argument may be relying more on symbolism than evidence.
 
-The challenge is that both biases appeal to genuine human tendencies. People are often attracted to innovation because it promises improvement, while others prefer existing arrangements because familiar systems feel less risky. Research on [status quo]({{ 'status-quo/' | relative_url }}) bias shows that individuals frequently favour existing options even when alternatives may offer benefits. At the same time, novelty bias can lead people to overestimate the value of change before results are demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">How to measure the status quo bias?</span><span class="citation-popover-snippet">A review of current...by ME Godefroid · 2023 · Cited by 143 — The Status Quo Bias (SQB) describes an individual&#x27;s preference to avoid ch...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Status Quo BiasThe status quo bias describes our preference for the current state of affairs, resulting in resistance to change.Read more...</span></span></span>
+The challenge is that both biases appeal to genuine human tendencies. People are often attracted to innovation because it promises improvement, while others prefer existing arrangements because familiar systems feel less risky. Research on [status quo]({{ 'status-quo/' | relative_url }}) bias shows that individuals frequently favour existing options even when alternatives may offer benefits. At the same time, novelty bias can lead people to overestimate the value of change before results are demonstrated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">How to measure the status quo bias?</span><span class="citation-popover-snippet">A review of current...by ME Godefroid · 2023 · Cited by 143 — The Status Quo Bias (SQB) describes an individual&#x27;s preference to avoid ch...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Status Quo BiasThe status quo bias describes our preference for the current state of affairs, resulting in resistance to change.Read more...</span></span></span>
 
 A fair comparison therefore requires resisting both impulses simultaneously.
 
@@ -303,9 +303,9 @@ Before replacing an existing policy, process, or technology, decision-makers sho
 
 </div>
 
-The baseline matters because improvements are often selective. A new system may improve one metric while worsening another. A digital platform might increase speed but reduce transparency. A policy reform might lower administrative costs while creating new compliance burdens. Judging only the advertised benefit creates an unfair comparison because it ignores trade-offs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span>
+The baseline matters because improvements are often selective. A new system may improve one metric while worsening another. A digital platform might increase speed but reduce transparency. A policy reform might lower administrative costs while creating new compliance burdens. Judging only the advertised benefit creates an unfair comparison because it ignores trade-offs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span>
 
-Large-scale digital transformation programmes illustrate this point. International organisations such as the OECD emphasise measurement frameworks precisely because modernisation efforts must be evaluated against defined objectives rather than assumed to succeed simply because they involve newer technologies. What matters is not the presence of digital tools but whether they improve outcomes that can actually be measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 3</span><span class="citation-popover-snippet">The OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Measuring the Digital TransformationA Roadmap for the Future provides new insights into the state of the digital transformation by mappin...</span></span></span>
+Large-scale digital transformation programmes illustrate this point. International organisations such as the OECD emphasise measurement frameworks precisely because modernisation efforts must be evaluated against defined objectives rather than assumed to succeed simply because they involve newer technologies. What matters is not the presence of digital tools but whether they improve outcomes that can actually be measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 3</span><span class="citation-popover-snippet">The OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Measuring the Digital TransformationA Roadmap for the Future provides new insights into the state of the digital transformation by mappin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SJWvTZ3h18E" title="Avoiding the Appeal to Novelty: When New Isn&#x27;t Always Better" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer">Avoiding the Appeal to Novelty: When New Isn&#x27;t Always Better</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 53 &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SJWvTZ3h18E">Open on YouTube</a></p></div></div></div>
 
@@ -350,7 +350,7 @@ Replacing an established system often requires:
 
 These costs are easy to overlook because they occur during implementation rather than after the new system is fully operational.
 
-Research on digital transformation repeatedly finds that successful adoption depends not only on technology itself but also on complementary investments in organisational change, skills, and implementation capacity. A technically superior system can still underperform if transition requirements are underestimated. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itu.int">[ITU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itu.int</span><span class="citation-popover-snippet">A ROADMAP TOWARD A COMMON FRAMEWORK FOR...5 Mar 2020 — in the long term, low-skilled workers are most likely to bear the cost of digital...</span></span></span>
+Research on digital transformation repeatedly finds that successful adoption depends not only on technology itself but also on complementary investments in organisational change, skills, and implementation capacity. A technically superior system can still underperform if transition requirements are underestimated. MDPI<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itu.int">[ITU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itu.int</span><span class="citation-popover-snippet">A ROADMAP TOWARD A COMMON FRAMEWORK FOR...5 Mar 2020 — in the long term, low-skilled workers are most likely to bear the cost of digital...</span></span></span>
 
 This does not mean transition costs should prevent change. It means they should be included in the comparison. Ignoring them creates an unfair advantage for the proposed replacement.
 
@@ -361,7 +361,7 @@ Fairness also requires measuring the costs of inaction.
 
 Existing systems may appear inexpensive because their transition costs were paid long ago. However, they may impose ongoing expenses through inefficiency, maintenance requirements, security weaknesses, or declining performance.
 
-Status quo bias can obscure these hidden costs by making the current arrangement seem normal or inevitable. Studies of organisational decision-making show that people frequently prefer existing options simply because they are familiar, even when objective improvements are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">How to measure the status quo bias?</span><span class="citation-popover-snippet">A review of current...by ME Godefroid · 2023 · Cited by 143 — The Status Quo Bias (SQB) describes an individual&#x27;s preference to avoid ch...</span></span></span> MDPI A balanced assessment therefore compares: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-7099/13/6/152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Are Nations Ready for Digital Transformation?</span><span class="citation-popover-snippet">R Chinoracky · 2025 · Cited by 9 — The OECD and World Bank have documented that digital adoption boosts productivity and growth...</span></span></span>
+Status quo bias can obscure these hidden costs by making the current arrangement seem normal or inevitable. Studies of organisational decision-making show that people frequently prefer existing options simply because they are familiar, even when objective improvements are available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">How to measure the status quo bias?</span><span class="citation-popover-snippet">A review of current...by ME Godefroid · 2023 · Cited by 143 — The Status Quo Bias (SQB) describes an individual&#x27;s preference to avoid ch...</span></span></span> MDPI A balanced assessment therefore compares:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-7099/13/6/152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Are Nations Ready for Digital Transformation?</span><span class="citation-popover-snippet">R Chinoracky · 2025 · Cited by 9 — The OECD and World Bank have documented that digital adoption boosts productivity and growth...</span></span></span>
 
 1. The costs of changing.
 2. The costs of not changing.
@@ -376,7 +376,7 @@ Without a baseline, almost any change can be presented as a success.
 
 Suppose a public agency adopts a new digital service platform. If officials only report that the platform is “modern” or “innovative”, the claim provides little information. A meaningful evaluation compares measurable outcomes before and after implementation, such as processing times, error rates, user satisfaction, operating costs, or service accessibility.
 
-The same principle applies to organisational reforms, educational initiatives, healthcare systems, and regulatory changes. Improvement is meaningful only relative to a known starting point. Measurement frameworks developed for digital transformation and public-sector modernisation place heavy emphasis on establishing indicators precisely because outcomes must be compared against existing performance rather than marketing claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">digital government index 1edec44e</span><span class="citation-popover-snippet">Digital government index: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive over...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/digital-transformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Digital transformationEncompassing the integration of technology into financial services, digital finance is revolutionising how people m...</span></span></span>
+The same principle applies to organisational reforms, educational initiatives, healthcare systems, and regulatory changes. Improvement is meaningful only relative to a known starting point. Measurement frameworks developed for digital transformation and public-sector modernisation place heavy emphasis on establishing indicators precisely because outcomes must be compared against existing performance rather than marketing claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">digital government index 1edec44e</span><span class="citation-popover-snippet">Digital government index: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive over...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/digital-transformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Digital transformationEncompassing the integration of technology into financial services, digital finance is revolutionising how people m...</span></span></span>
 
 Baselines also reduce selective reporting. If success criteria are agreed beforehand, advocates cannot simply switch to whichever metric looks best after implementation.
 
@@ -384,7 +384,7 @@ Baselines also reduce selective reporting. If success criteria are agreed before
 
 ## Why Failure Criteria Matter Before Adoption
 
-Another safeguard against appeal-to-novelty reasoning is defining failure in advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span>
+Another safeguard against appeal-to-novelty reasoning is defining failure in advance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span>
 
 Organisations often establish success metrics but neglect failure thresholds. As a result, projects can continue long after evidence suggests they are underperforming.
 
@@ -428,269 +428,269 @@ Fair comparison does not favour old systems or new ones. It favours systems that
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5jiTWnyliQY" title="Appeal to Tradition | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer">Appeal to Tradition | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 3.1K &middot; Uploaded: January 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5jiTWnyliQY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Compare Old and New Fairly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Compare Old and New Fairly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that lead people to overvalue novelty or cling to tradition instead of evaluating evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that lead people to overvalue novelty or cling to tradition instead of evaluating evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Focuses on updating beliefs when evidence changes rather than defending old or new positions automatically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on updating beliefs when evidence changes rather than defending old or new positions automatically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Covers common reasoning errors involved in judging options and making comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers common reasoning errors involved in judging options and making comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based evaluation rather than assumptions rooted in fashion or tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based evaluation rather than assumptions rooted in fashion or tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW"><img src="{{ '/assets/images/marketplace-covers/05cf12b77b61c0464883.jpg' | relative_url }}" alt="Listing image for MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANIC STREET PREACHERS CRITICAL THINKING SMALL ORIGINAL PROMOTIONAL POSTER NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-comparison-how-to-compare-old-and-new-fairly-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -706,7 +706,7 @@ Fair comparison does not favour old systems or new ones. It favours systems that
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -726,7 +726,7 @@ Fair comparison does not favour old systems or new ones. It favours systems that
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -758,7 +758,7 @@ Fair comparison does not favour old systems or new ones. It favours systems that
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -788,7 +788,7 @@ Fair comparison does not favour old systems or new ones. It favours systems that
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -846,134 +846,134 @@ Fair comparison does not favour old systems or new ones. It favours systems that
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Appeal to novelty  
-   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_novelty</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_novelty</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: effectiviology.com  
-   Link: <a href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/appeal-to-novelty-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</p></details>
+   Link:<a href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/appeal-to-novelty-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
    Title: How to measure the status quo bias?  
-   Link: <a href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11301-022-00283-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of current...by ME Godefroid · 2023 · Cited by 143 — The Status Quo Bias (SQB) describes an individual&#x27;s preference to avoid ch...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11301-022-00283-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of current...by ME Godefroid · 2023 · Cited by 143 — The Status Quo Bias (SQB) describes an individual&#x27;s preference to avoid ch...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oecd.org  
    Title: component 3  
-   Link: <a href="https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Digital TransformationA Roadmap for the Future provides new insights into the state of the digital transformation by mappin...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Digital TransformationA Roadmap for the Future provides new insights into the state of the digital transformation by mappin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oecd.org  
    Title: digital government index 1edec44e  
-   Link: <a href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital government index: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive over...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital government index: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive over...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdpi.com  
    Title: Are Nations Ready for Digital Transformation?  
-   Link: <a href="https://www.mdpi.com/2227-7099/13/6/152" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7099/13/6/152</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>R Chinoracky · 2025 · Cited by 9 — The OECD and World Bank have documented that digital adoption boosts productivity and growth...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-7099/13/6/152" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7099/13/6/152</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>R Chinoracky · 2025 · Cited by 9 — The OECD and World Bank have documented that digital adoption boosts productivity and growth...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: itu.int  
-   Link: <a href="https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A ROADMAP TOWARD A COMMON FRAMEWORK FOR...5 Mar 2020 — in the long term, low-skilled workers are most likely to bear the cost of digital...</p></details>
+   Link:<a href="https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A ROADMAP TOWARD A COMMON FRAMEWORK FOR...5 Mar 2020 — in the long term, low-skilled workers are most likely to bear the cost of digital...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/14/13/8188" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/13/8188</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping Things as They Are: How Status Quo Biases and...by B Hofman · 2022 · Cited by 32 — Status quo bias, the tendency to remain i...</p></details>
+   Link:<a href="https://www.mdpi.com/2071-1050/14/13/8188" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/13/8188</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping Things as They Are: How Status Quo Biases and...by B Hofman · 2022 · Cited by 32 — Status quo bias, the tendency to remain i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/digital-transformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/digital-transformation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital transformationEncompassing the integration of technology into financial services, digital finance is revolutionising how people m...</p></details>
+   Link:<a href="https://www.oecd.org/en/topics/digital-transformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/digital-transformation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital transformationEncompassing the integration of technology into financial services, digital finance is revolutionising how people m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: legalinstruments.oecd.org  
    Title: OECD LEGAL 0380  
-   Link: <a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0380" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0380</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Council on Digital Technologies...4 Jun 2025 — RECOGNISING the interlinkages between the digital and green transitions and their...</p></details>
+   Link:<a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0380" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0380</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Council on Digital Technologies...4 Jun 2025 — RECOGNISING the interlinkages between the digital and green transitions and their...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Avoiding the Appeal to Novelty: When New Isn't Always Better  
-   Link: <a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SJWvTZ3h18E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Tradition | [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SJWvTZ3h18E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Tradition | [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Appeal to Tradition | Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5jiTWnyliQY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Tradition Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5jiTWnyliQY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Tradition Fallacy...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo BiasThe status quo bias describes our preference for the current state of affairs, resulting in resistance to change.Read more...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo BiasThe status quo bias describes our preference for the current state of affairs, resulting in resistance to change.Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: learn.academy4sc.org  
-   Link: <a href="https://learn.academy4sc.org/video/appeal-to-novelty-a-cutting-edge-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/appeal-to-novelty-a-cutting-edge-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Novelty: A Cutting Edge FallacyAn appeal to novelty is a logical fallacy in which a proposal is claimed to be better because it...</p></details>
+   Link:<a href="https://learn.academy4sc.org/video/appeal-to-novelty-a-cutting-edge-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/appeal-to-novelty-a-cutting-edge-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Novelty: A Cutting Edge FallacyAn appeal to novelty is a logical fallacy in which a proposal is claimed to be better because it...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: beyonduxdesign.com  
-   Link: <a href="https://www.beyonduxdesign.com/cognition-catalog/appeal-to-novelty/" target="_blank" rel="noopener noreferrer nofollow">https://www.beyonduxdesign.com/cognition-catalog/appeal-to-novelty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to NoveltyAppeal to Novelty does not have a single point of origin. Research in organizational psychology has explored how busines...</p></details>
+   Link:<a href="https://www.beyonduxdesign.com/cognition-catalog/appeal-to-novelty/" target="_blank" rel="noopener noreferrer nofollow">https://www.beyonduxdesign.com/cognition-catalog/appeal-to-novelty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to NoveltyAppeal to Novelty does not have a single point of origin. Research in organizational psychology has explored how busines...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nesslabs.com  
-   Link: <a href="https://nesslabs.com/novelty-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/novelty-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Novelty fallacy: why new isn&#x27;t always betterThe novelty bias is a form of informal logical fallacy, where we consider that something is b...</p></details>
+   Link:<a href="https://nesslabs.com/novelty-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/novelty-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Novelty fallacy: why new isn&#x27;t always betterThe novelty bias is a form of informal logical fallacy, where we consider that something is b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to NoveltyClaiming that something that is new or modern is superior to the status quo, based exclusively on its newness...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to NoveltyClaiming that something that is new or modern is superior to the status quo, based exclusively on its newness...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fallacyinlogic.medium.com  
    Title: what is the appeal to novelty fallacy definition and examples 5f227432acc5  
-   Link: <a href="https://fallacyinlogic.medium.com/what-is-the-appeal-to-novelty-fallacy-definition-and-examples-5f227432acc5?source=user_profile---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow">https://fallacyinlogic.medium.com/what-is-the-appeal-to-novelty-fallacy-definition-and-examples-5f227432acc5?source=user_profile---------9----------------------------</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesAppeal to novelty is a logical fallacy, or an error in reasoning, that is based on the assumption that novel (new)...</p></details>
+   Link:<a href="https://fallacyinlogic.medium.com/what-is-the-appeal-to-novelty-fallacy-definition-and-examples-5f227432acc5?source=user_profile---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow">https://fallacyinlogic.medium.com/what-is-the-appeal-to-novelty-fallacy-definition-and-examples-5f227432acc5?source=user_profile---------9----------------------------</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesAppeal to novelty is a logical fallacy, or an error in reasoning, that is based on the assumption that novel (new)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: davidpublisher.com  
-   Link: <a href="https://www.davidpublisher.com/Public/uploads/Contribute/65f00058c7536.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.davidpublisher.com/Public/uploads/Contribute/65f00058c7536.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ias in these different circumstances and the mechanism about how Status Quo Bias...Read more...</p></details>
+   Link:<a href="https://www.davidpublisher.com/Public/uploads/Contribute/65f00058c7536.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.davidpublisher.com/Public/uploads/Contribute/65f00058c7536.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ias in these different circumstances and the mechanism about how Status Quo Bias...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: profrjstarr.com  
-   Link: <a href="https://profrjstarr.com/cognitive-biases/status-quo-bias-why-we-prefer-the-familiar-even-when-it-doesnt-work" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/status-quo-bias-why-we-prefer-the-familiar-even-when-it-doesnt-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Why We Prefer the Familiar—Even When...Status quo bias makes us favor familiar situations, systems, and routines—even w...</p></details>
+   Link:<a href="https://profrjstarr.com/cognitive-biases/status-quo-bias-why-we-prefer-the-familiar-even-when-it-doesnt-work" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/status-quo-bias-why-we-prefer-the-familiar-even-when-it-doesnt-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Why We Prefer the Familiar—Even When...Status quo bias makes us favor familiar situations, systems, and routines—even w...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: innovationmanagement.se  
    Title: how status quo bias can kill innovation  
-   Link: <a href="https://innovationmanagement.se/2013/03/26/how-status-quo-bias-can-kill-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://innovationmanagement.se/2013/03/26/how-status-quo-bias-can-kill-innovation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2013 — Status quo bias may also explain why some companies innovate constantly, while others struggle to maintain a process of con...</p></details>
+   Link:<a href="https://innovationmanagement.se/2013/03/26/how-status-quo-bias-can-kill-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://innovationmanagement.se/2013/03/26/how-status-quo-bias-can-kill-innovation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2013 — Status quo bias may also explain why some companies innovate constantly, while others struggle to maintain a process of con...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theccc.org.uk  
    Title: the seventh carbon budget  
-   Link: <a href="https://www.theccc.org.uk/publication/the-seventh-carbon-budget/" target="_blank" rel="noopener noreferrer nofollow">https://www.theccc.org.uk/publication/the-seventh-carbon-budget/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2025 — Compared to the baseline, both transitions provide a net increase in private and social benefits, equivalent to £700/hectar...</p></details>
+   Link:<a href="https://www.theccc.org.uk/publication/the-seventh-carbon-budget/" target="_blank" rel="noopener noreferrer nofollow">https://www.theccc.org.uk/publication/the-seventh-carbon-budget/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2025 — Compared to the baseline, both transitions provide a net increase in private and social benefits, equivalent to £700/hectar...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/370701091_A_Study_of_Psychological_Mechanisms_and_Relevant_Application_Research_of_Status_Quo_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370701091_A_Study_of_Psychological_Mechanisms_and_Relevant_Application_Research_of_Status_Quo_Bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We call it status quo...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/370701091_A_Study_of_Psychological_Mechanisms_and_Relevant_Application_Research_of_Status_Quo_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370701091_A_Study_of_Psychological_Mechanisms_and_Relevant_Application_Research_of_Status_Quo_Bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We call it status quo...Read more...</p></details>

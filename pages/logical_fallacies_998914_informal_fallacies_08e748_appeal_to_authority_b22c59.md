@@ -274,14 +274,14 @@ image: /assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_
 
 ## Introduction
 
-An [appeal to authority]({{ 'authority/' | relative_url }}) becomes fallacious when a claim is treated as true simply because an expert, celebrity, official, or other respected figure says it is. Yet the issue is more subtle than the slogan “don’t trust authorities”. In modern societies, most people rely on expert knowledge every day when making decisions about medicine, engineering, law, science, and public policy. The real question is not whether authority matters, but when expert opinion is a reasonable form of evidence and when it is being used to replace evidence altogether. [Informal logic]({{ 'informal-logic/' | relative_url }}) therefore treats appeals to authority as a context-sensitive argument pattern: sometimes strong, sometimes weak, and occasionally misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Fundamentally, the fallacy involves accepting as evidence for a...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers Within everyday arguments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityThis book provides a method for the evaluation of these appeals in everyday a...</span></span></span>, the fallacy arises when status, credentials, or prestige are used as a shortcut to certainty. The challenge for critical thinking is learning how to respect expertise without treating experts as infallible.
+An [appeal to authority]({{ 'authority/' | relative_url }}) becomes fallacious when a claim is treated as true simply because an expert, celebrity, official, or other respected figure says it is. Yet the issue is more subtle than the slogan “don’t trust authorities”. In modern societies, most people rely on expert knowledge every day when making decisions about medicine, engineering, law, science, and public policy. The real question is not whether authority matters, but when expert opinion is a reasonable form of evidence and when it is being used to replace evidence altogether. [Informal logic]({{ 'informal-logic/' | relative_url }}) therefore treats appeals to authority as a context-sensitive argument pattern: sometimes strong, sometimes weak, and occasionally misleading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Fundamentally, the fallacy involves accepting as evidence for a...Read more...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers Within everyday arguments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityThis book provides a method for the evaluation of these appeals in everyday a...</span></span></span>, the fallacy arises when status, credentials, or prestige are used as a shortcut to certainty. The challenge for critical thinking is learning how to respect expertise without treating experts as infallible.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-1-dark.svg" | relative_url }}" alt="Authority illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Authority Is Useful Evidence
 
-In many situations, relying on expert judgement is entirely rational. Few people can personally verify the safety of an aircraft, reproduce medical trials, or evaluate the mathematics behind climate models. Knowledge is specialised, and expert testimony often functions as evidence because experts possess training, [experience]({{ 'experience/' | relative_url }}), and access to information that non-specialists lack. Philosophers of argumentation have long recognised that appeals to expert opinion can be legitimate forms of reasoning when the authority is genuinely qualified and speaking within their field of competence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityThis book provides a method for the evaluation of these appeals in everyday a...</span></span></span>
+In many situations, relying on expert judgement is entirely rational. Few people can personally verify the safety of an aircraft, reproduce medical trials, or evaluate the mathematics behind climate models. Knowledge is specialised, and expert testimony often functions as evidence because experts possess training, [experience]({{ 'experience/' | relative_url }}), and access to information that non-specialists lack. Philosophers of argumentation have long recognised that appeals to expert opinion can be legitimate forms of reasoning when the authority is genuinely qualified and speaking within their field of competence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityThis book provides a method for the evaluation of these appeals in everyday a...</span></span></span>
 
-The mistake occurs when authority is treated as conclusive proof rather than one piece of evidence. A scientist's statement may deserve serious consideration because of the methods, research, and institutions behind it. The conclusion does not become true merely because a scientist said it. The supporting evidence remains the ultimate basis for confidence. As the Stanford Encyclopedia of Philosophy notes, the traditional ad verecundiam fallacy concerns accepting a claim on the basis of authority alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Fundamentally, the fallacy involves accepting as evidence for a...Read more...</span></span></span> Encyclopedia of Philosophy
+The mistake occurs when authority is treated as conclusive proof rather than one piece of evidence. A scientist's statement may deserve serious consideration because of the methods, research, and institutions behind it. The conclusion does not become true merely because a scientist said it. The supporting evidence remains the ultimate basis for confidence. As the Stanford Encyclopedia of Philosophy notes, the traditional ad verecundiam fallacy concerns accepting a claim on the basis of authority alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Fundamentally, the fallacy involves accepting as evidence for a...Read more...</span></span></span> Encyclopedia of Philosophy
 
 A practical distinction is useful:
 
@@ -296,7 +296,7 @@ The first points towards evidence and expertise. The second asks the audience to
 
 Not all expertise transfers across subjects. One of the most common forms of the fallacy occurs when a person is highly respected in one domain but presented as authoritative in another.
 
-A Nobel Prize-winning physicist may be an outstanding authority on particle physics while possessing no special expertise in nutrition policy. Likewise, a celebrity doctor, entrepreneur, actor, or athlete may command public attention without having relevant knowledge about the issue being discussed. Critical-thinking guides frequently identify this mismatch between authority and subject matter as a central warning sign. <span class="citation-chip-wrap"><a class="citation-chip" href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.stanford.edu">[Stanford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.stanford.edu</span><span class="citation-popover-snippet">Stanford UniversityLogical FallaciesAppeal to Authority: the authority is not an expert in the field; experts in the field disagree; the...</span></span></span>
+A Nobel Prize-winning physicist may be an outstanding authority on particle physics while possessing no special expertise in nutrition policy. Likewise, a celebrity doctor, entrepreneur, actor, or athlete may command public attention without having relevant knowledge about the issue being discussed. Critical-thinking guides frequently identify this mismatch between authority and subject matter as a central warning sign.<span class="citation-chip-wrap"><a class="citation-chip" href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.stanford.edu">[Stanford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.stanford.edu</span><span class="citation-popover-snippet">Stanford UniversityLogical FallaciesAppeal to Authority: the authority is not an expert in the field; experts in the field disagree; the...</span></span></span>
 
 Three questions help assess whether an authority is relevant:
 
@@ -316,9 +316,9 @@ The third question is especially important. Expertise is rarely exercised in iso
 
 People often assume that the existence of disagreement among experts automatically destroys the value of expertise. The reality is more complicated.
 
-In some fields, disagreement is expected because evidence is incomplete or uncertainties remain large. In other cases, public attention may focus on a small number of dissenting voices while overlooking a much broader professional consensus. Research on expert disagreement shows that disagreement itself must be interpreted in [context]({{ 'context/' | relative_url }}): its significance depends on how extensive it is, what evidence is contested, and whether the disagreement concerns core conclusions or secondary details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/FINWED" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive When Expert Disagreement Supports the Consensus</span><span class="citation-popover-snippet">When Expert Disagreement Supports the ConsensusFebruary 14, 2017 — by F Dellsén · 2017 · Cited by 39 — It is often suggested t...</span><span class="citation-popover-meta">Published: February 14, 2017</span></span></span>
+In some fields, disagreement is expected because evidence is incomplete or uncertainties remain large. In other cases, public attention may focus on a small number of dissenting voices while overlooking a much broader professional consensus. Research on expert disagreement shows that disagreement itself must be interpreted in [context]({{ 'context/' | relative_url }}): its significance depends on how extensive it is, what evidence is contested, and whether the disagreement concerns core conclusions or secondary details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/FINWED" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive When Expert Disagreement Supports the Consensus</span><span class="citation-popover-snippet">When Expert Disagreement Supports the ConsensusFebruary 14, 2017 — by F Dellsén · 2017 · Cited by 39 — It is often suggested t...</span><span class="citation-popover-meta">Published: February 14, 2017</span></span></span>
 
-This distinction helps explain why citing scientific consensus is not necessarily an appeal-to-authority fallacy. A consensus is not merely a collection of opinions from famous individuals. Ideally, it reflects the accumulated results of many studies, methods, and critical evaluations. When scientific organisations report broad agreement on a claim, the authority derives partly from the underlying evidence-generating process rather than personal status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iai.tv/articles/scientific-consensus-needs-dissent-auid-2926" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iai.tv">[IAI TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iai.tv</span><span class="citation-popover-title">However, even experts are fallible.Read more</span><span class="citation-popover-snippet">We need to evaluate expert consensus &#124; Miriam SolomonAugust 22, 2024 — 22 Aug 2024 — In traditional epistemological terms, it recommends...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-981-97-9222-1_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe Controversy over Expert Consensus in Scienceby A Jorm · 2024 — “Expert consensus in science” is a high level of agreemen...</span></span></span>
+This distinction helps explain why citing scientific consensus is not necessarily an appeal-to-authority fallacy. A consensus is not merely a collection of opinions from famous individuals. Ideally, it reflects the accumulated results of many studies, methods, and critical evaluations. When scientific organisations report broad agreement on a claim, the authority derives partly from the underlying evidence-generating process rather than personal status.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iai.tv/articles/scientific-consensus-needs-dissent-auid-2926" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iai.tv">[IAI TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iai.tv</span><span class="citation-popover-title">However, even experts are fallible.Read more</span><span class="citation-popover-snippet">We need to evaluate expert consensus &#124; Miriam SolomonAugust 22, 2024 — 22 Aug 2024 — In traditional epistemological terms, it recommends...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe Controversy over Expert Consensus in Scienceby A Jorm · 2024 — “Expert consensus in science” is a high level of agreemen...</span></span></span>
 
 At the same time, consensus should not be confused with certainty. Experts can be mistaken, institutions can overlook problems, and accepted views can change as new evidence emerges. The history of science contains many examples of revisions and corrections. Respecting expertise therefore differs from assuming experts are incapable of error.
 
@@ -351,9 +351,9 @@ These patterns shift attention from reasons and evidence to status and identity.
 
 Companies often feature doctors, scientists, engineers, or people dressed to resemble them. The goal is not always to present detailed evidence but to transfer trust from the apparent expert to the product. Consumers may infer reliability simply because the endorsement appears professional.
 
-Regulators have long recognised this risk. The US Federal Trade Commission's endorsement guidance emphasises that endorsements should not be misleading and that expert endorsements should be supported by the level of examination or testing that someone with comparable expertise would normally perform. Advertisers cannot simply borrow expert prestige without adequate substantiation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arnoldporter.com/en/perspectives/advisories/2023/07/ftc-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arnoldporter.com">[Arnold &amp; Porter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arnoldporter.com</span><span class="citation-popover-title">ftc endorsement guides</span><span class="citation-popover-snippet">FTC Signals Continued Heightened Scrutiny of...Jul 7, 2023 — Under the updated Guides, an expert endorser may be held liable for false s...</span></span></span>
+Regulators have long recognised this risk. The US Federal Trade Commission's endorsement guidance emphasises that endorsements should not be misleading and that expert endorsements should be supported by the level of examination or testing that someone with comparable expertise would normally perform. Advertisers cannot simply borrow expert prestige without adequate substantiation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arnoldporter.com/en/perspectives/advisories/2023/07/ftc-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arnoldporter.com">[Arnold &amp; Porter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arnoldporter.com</span><span class="citation-popover-title">ftc endorsement guides</span><span class="citation-popover-snippet">FTC Signals Continued Heightened Scrutiny of...Jul 7, 2023 — Under the updated Guides, an expert endorser may be held liable for false s...</span></span></span>
 
-The problem becomes more complicated online. Influencers, consultants, and self-described experts may appear independent while receiving compensation or other benefits. Research on social-media endorsements has found that disclosures are often absent or poorly understood, making it difficult for audiences to distinguish genuine expertise from marketing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</span></span></span>
+The problem becomes more complicated online. Influencers, consultants, and self-described experts may appear independent while receiving compensation or other benefits. Research on social-media endorsements has found that disclosures are often absent or poorly understood, making it difficult for audiences to distinguish genuine expertise from marketing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</span></span></span>
 
 In these settings, the authority cue often works because it reduces the effort required to evaluate claims. Rather than examining evidence directly, audiences are encouraged to trust the person presenting it.
 
@@ -382,178 +382,178 @@ In informal arguments, expert opinion is often necessary because no individual c
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-3-dark.svg" | relative_url }}" alt="Authority illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Expert Opinion Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Expert Opinion Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
-        </h4>
-        <p class="fr-book-author">By Tom Nichols</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
+</h4>
+<p class="fr-book-author">By Tom Nichols</p>
         
-        <p class="fr-book-desc">Directly examines when expert authority should and should not be trusted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines when expert authority should and should not be trusted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating authority-based claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating authority-based claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Covers appeal-to-authority reasoning among common fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers appeal-to-authority reasoning among common fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence over prestige or status.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence over prestige or status.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/c34d599e1b85f5f07f53.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/c34d599e1b85f5f07f53.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/d35949cdde79a8a0f862.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/d35949cdde79a8a0f862.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-69260f-when-expert-opinion-is-not-enough-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ In informal arguments, expert opinion is often necessary because no individual c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ In informal arguments, expert opinion is often necessary because no individual c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ In informal arguments, expert opinion is often necessary because no individual c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ In informal arguments, expert opinion is often necessary because no individual c
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -709,169 +709,169 @@ In informal arguments, expert opinion is often necessary because no individual c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentally, the fallacy involves accepting as evidence for a...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentally, the fallacy involves accepting as evidence for a...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALATE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Expert Opinion: Arguments From AuthorityThis book provides a method for the evaluation of these appeals in everyday a...</p></details>
+   Link:<a href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALATE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Expert Opinion: Arguments From AuthorityThis book provides a method for the evaluation of these appeals in everyday a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: web.stanford.edu  
-   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityLogical FallaciesAppeal to Authority: the authority is not an expert in the field; experts in the field disagree; the...</p></details>
+   Link:<a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityLogical FallaciesAppeal to Authority: the authority is not an expert in the field; experts in the field disagree; the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: philarchive.org  
    Title: Phil Archive When Expert Disagreement Supports the Consensus  
-   Link: <a href="https://philarchive.org/archive/FINWED" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/FINWED</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Expert Disagreement Supports the ConsensusFebruary 14, 2017 — by F Dellsén · 2017 · Cited by 39 — It is often suggested t...</p></details>
+   Link:<a href="https://philarchive.org/archive/FINWED" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/FINWED</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Expert Disagreement Supports the ConsensusFebruary 14, 2017 — by F Dellsén · 2017 · Cited by 39 — It is often suggested t...</p></details>
    Published: February 14, 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.01889</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</p></details>
+   Link:<a href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.01889</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iai.tv  
    Title: However, even experts are fallible.Read more  
-   Link: <a href="https://iai.tv/articles/scientific-consensus-needs-dissent-auid-2926" target="_blank" rel="noopener noreferrer nofollow">https://iai.tv/articles/scientific-consensus-needs-dissent-auid-2926</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We need to evaluate [expert consensus](&amp;#123;&amp;#123; &#x27;expert-consensus/&#x27; | relative_url &amp;#125;&amp;#125;) | Miriam SolomonAugust 22, 2024 — 22 Aug 2024 — In traditional epistemological terms, it recommends...</p></details>
+   Link:<a href="https://iai.tv/articles/scientific-consensus-needs-dissent-auid-2926" target="_blank" rel="noopener noreferrer nofollow">https://iai.tv/articles/scientific-consensus-needs-dissent-auid-2926</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We need to evaluate [expert consensus](&amp;#123;&amp;#123; &#x27;expert-consensus/&#x27; | relative_url &amp;#125;&amp;#125;) | Miriam SolomonAugust 22, 2024 — 22 Aug 2024 — In traditional epistemological terms, it recommends...</p></details>
    Published: August 22, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-981-97-9222-1_1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-981-97-9222-1_1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe Controversy over Expert Consensus in Scienceby A Jorm · 2024 — “Expert consensus in science” is a high level of agreemen...</p></details>
+   Link:<a href="https://link.springer.com/chapter/10.1007/978" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe Controversy over Expert Consensus in Scienceby A Jorm · 2024 — “Expert consensus in science” is a high level of agreemen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/spr2013/entries/authority/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2013/entries/authority/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyJul 2, 2004 — It discusses the theory advanced by John Rawls that authority is legitimate if and only...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/spr2013/entries/authority/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2013/entries/authority/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyJul 2, 2004 — It discusses the theory advanced by John Rawls that authority is legitimate if and only...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/authority/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/authority/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/authority/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/authority/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-023-09623-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09623-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Structure of Arguments from Deontic Authority and How to...by M Araszkiewicz · 2024 · Cited by 3 — Our approach adds procedural aspects...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10503-023-09623-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09623-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structure of Arguments from Deontic Authority and How to...by M Araszkiewicz · 2024 · Cited by 3 — Our approach adds procedural aspects...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertisement Endorsements | Federal Trade CommissionThe FTC&#x27;s Guides Concerning the Use of Endorsements and Test...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertisement Endorsements | Federal Trade CommissionThe FTC&#x27;s Guides Concerning the Use of Endorsements and Test...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arnoldporter.com  
    Title: ftc endorsement guides  
-   Link: <a href="https://www.arnoldporter.com/en/perspectives/advisories/2023/07/ftc-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.arnoldporter.com/en/perspectives/advisories/2023/07/ftc-endorsement-guides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Signals Continued Heightened Scrutiny of...Jul 7, 2023 — Under the updated Guides, an expert endorser may be held liable for false s...</p></details>
+   Link:<a href="https://www.arnoldporter.com/en/perspectives/advisories/2023/07/ftc-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.arnoldporter.com/en/perspectives/advisories/2023/07/ftc-endorsement-guides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Signals Continued Heightened Scrutiny of...Jul 7, 2023 — Under the updated Guides, an expert endorser may be held liable for false s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndorsements and testimonials, together with examples illustrating the...Read more...</p></details>
+   Link:<a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndorsements and testimonials, together with examples illustrating the...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission | Protecting America's Consumers About the FTC  
-   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our mission is protecting the public from deceptive or unfair business practices and from unfair methods of competition through law enfor...</p></details>
+   Link:<a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our mission is protecting the public from deceptive or unfair business practices and from unfair methods of competition through law enfor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>their endorsement and testimonial advertising practices to the...Read more...</p></details>
+   Link:<a href="https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>their endorsement and testimonial advertising practices to the...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/endorsement" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/endorsement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — the act of saying that you approve of or support something or someone: The campaign...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/endorsement" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/endorsement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — the act of saying that you approve of or support something or someone: The campaign...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Federal Trade Commission  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Trade_Commission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Trade_Commission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: usa.gov  
-   Link: <a href="https://www.usa.gov/agencies/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-trade-commission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hey also provide information to help consumers.Read more...</p></details>
+   Link:<a href="https://www.usa.gov/agencies/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-trade-commission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hey also provide information to help consumers.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ftc.net  
-   Link: <a href="https://www.ftc.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.net/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TV | Internet and Phone PackagesFTC is a local telecommunications company headquartered in Kingstree, SC, providing digital tv, inte...</p></details>
+   Link:<a href="https://www.ftc.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TV | Internet and Phone PackagesFTC is a local telecommunications company headquartered in Kingstree, SC, providing digital tv, inte...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/federal-trade-commission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe FTC is a bipartisan federal agency with a unique dual mission to protect consumers and promote competition.Re...</p></details>
+   Link:<a href="https://www.linkedin.com/company/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/federal-trade-commission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe FTC is a bipartisan federal agency with a unique dual mission to protect consumers and promote competition.Re...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fallacyguide.com  
-   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without evidence. See when auth...</p></details>
+   Link:<a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without evidence. See when auth...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to AuthorityAppeals to authority are not valid arguments, but nor is it reasonable to disregard the claims of experts who have a d...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to AuthorityAppeals to authority are not valid arguments, but nor is it reasonable to disregard the claims of experts who have a d...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to AuthorityInsisting that a claim is true simply because a valid authority or expert on the issue said it was true, without any o...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to AuthorityInsisting that a claim is true simply because a valid authority or expert on the issue said it was true, without any o...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: politico.com  
-   Link: <a href="https://www.politico.com/news/2025/09/17/climate-change-beyond-scientific-dispute-national-academies-report-says-00568552" target="_blank" rel="noopener noreferrer nofollow">https://www.politico.com/news/2025/09/17/climate-change-beyond-scientific-dispute-national-academies-report-says-00568552</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This stands in stark contrast to a July report from the Department of Energy (DOE), which downplayed climate risks and was aligned with T...</p></details>
+   Link:<a href="https://www.politico.com/news/2025/09/17/climate-change-beyond-scientific-dispute-national-academies-report-says-00568552" target="_blank" rel="noopener noreferrer nofollow">https://www.politico.com/news/2025/09/17/climate-change-beyond-scientific-dispute-national-academies-report-says-00568552</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This stands in stark contrast to a July report from the Department of Energy (DOE), which downplayed climate risks and was aligned with T...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wexd.eu  
-   Link: <a href="https://wexd.eu/climate-science-disagreement-and-policy-a-multidisciplinary-investigation-2/" target="_blank" rel="noopener noreferrer nofollow">https://wexd.eu/climate-science-disagreement-and-policy-a-multidisciplinary-investigation-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expertise and Expert KnowledgeIn this paper, I will sketch two different conceptions of expertise: what I call the expert-as-authority an...</p></details>
+   Link:<a href="https://wexd.eu/climate-science-disagreement-and-policy-a-multidisciplinary-investigation-2/" target="_blank" rel="noopener noreferrer nofollow">https://wexd.eu/climate-science-disagreement-and-policy-a-multidisciplinary-investigation-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expertise and Expert KnowledgeIn this paper, I will sketch two different conceptions of expertise: what I call the expert-as-authority an...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387629732_The_Controversy_over_Expert_Consensus_in_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387629732_The_Controversy_over_Expert_Consensus_in_Science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Controversy over Expert Consensus in ScienceThis chapter defines “expert consensus in science” as a high level of agreement among sci...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/387629732_The_Controversy_over_Expert_Consensus_in_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387629732_The_Controversy_over_Expert_Consensus_in_Science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Controversy over Expert Consensus in ScienceThis chapter defines “expert consensus in science” as a high level of agreement among sci...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</p></details>
+   Link:<a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: finnegan.com  
-   Link: <a href="https://www.finnegan.com/en/insights/blogs/ad-law-buzz-blog/endorsement-guides-and-fake-reviews-what-advertisers-and-influencers-need-to-know-about-the-ftcs-recent-announcements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/blogs/ad-law-buzz-blog/endorsement-guides-and-fake-reviews-what-advertisers-and-influencers-need-to-know-about-the-ftcs-recent-announcements.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading IP+ Law FirmEndorsement Guides and [Fake Reviews](&amp;#123;&amp;#123; &#x27;fake-reviews/&#x27; | relative_url &amp;#125;&amp;#125;): What Advertisers...Aug 8, 2023 — The Guides provide that advertisers...</p></details>
+   Link:<a href="https://www.finnegan.com/en/insights/blogs/ad-law-buzz-blog/endorsement-guides-and-fake-reviews-what-advertisers-and-influencers-need-to-know-about-the-ftcs-recent-announcements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/blogs/ad-law-buzz-blog/endorsement-guides-and-fake-reviews-what-advertisers-and-influencers-need-to-know-about-the-ftcs-recent-announcements.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leading IP+ Law FirmEndorsement Guides and [Fake Reviews](&amp;#123;&amp;#123; &#x27;fake-reviews/&#x27; | relative_url &amp;#125;&amp;#125;): What Advertisers...Aug 8, 2023 — The Guides provide that advertisers...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/453353528124367/posts/25607266172306422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/453353528124367/posts/25607266172306422/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>this not the same as acknowledging scientific consensusAppeal to Authority explained (note: this not the same as acknowledging scientific...</p></details>
+   Link:<a href="https://www.facebook.com/groups/453353528124367/posts/25607266172306422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/453353528124367/posts/25607266172306422/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this not the same as acknowledging scientific consensusAppeal to Authority explained (note: this not the same as acknowledging scientific...</p></details>

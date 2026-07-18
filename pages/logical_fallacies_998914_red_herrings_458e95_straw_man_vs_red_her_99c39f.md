@@ -274,22 +274,22 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_
 
 ## Introduction
 
-A straw man and a [red herring]({{ 'red-herring/' | relative_url }}) are often confused because both prevent a discussion from engaging with the original argument. The crucial difference is simple: a **straw man changes the argument**, while a **red herring changes the subject**. A straw man misrepresents what someone said and then attacks the distorted version. A red herring leaves the original claim behind and directs attention to a different issue that may be interesting, emotional, or loosely related but does not answer the point at hand. Philosophers and writing specialists consistently distinguish straw man fallacies as misrepresentation and red herrings as diversion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
+A straw man and a [red herring]({{ 'red-herring/' | relative_url }}) are often confused because both prevent a discussion from engaging with the original argument. The crucial difference is simple: a **straw man changes the argument**, while a **red herring changes the subject**. A straw man misrepresents what someone said and then attacks the distorted version. A red herring leaves the original claim behind and directs attention to a different issue that may be interesting, emotional, or loosely related but does not answer the point at hand. Philosophers and writing specialists consistently distinguish straw man fallacies as misrepresentation and red herrings as diversion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-1-dark.svg" | relative_url }}" alt="Straw Man illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Because both tactics can occur in the same [debate]({{ 'debate/' | relative_url }}), identifying the correct label requires looking closely at what happened to the original claim. Was it rewritten into a weaker version, or was it simply abandoned?
 
 ## How Misrepresentation Differs from Diversion
 
-A straw man occurs when a speaker responds to a claim that was never actually made. The opponent's position is exaggerated, simplified, or distorted into an easier target. Texas State University's philosophy department defines the fallacy as addressing only a weak or distorted version of another person's argument rather than the argument itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
+A straw man occurs when a speaker responds to a claim that was never actually made. The opponent's position is exaggerated, simplified, or distorted into an easier target. Texas State University's philosophy department defines the fallacy as addressing only a weak or distorted version of another person's argument rather than the argument itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
 
-A red herring works differently. Instead of altering the claim, it introduces another issue and encourages the audience to follow that new trail. The original question remains unanswered. Purdue OWL describes a red herring as a diversionary tactic that avoids the key issue, while Texas State University characterises it as shifting attention to a matter with only surface [relevance]({{ 'relevance/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
+A red herring works differently. Instead of altering the claim, it introduces another issue and encourages the audience to follow that new trail. The original question remains unanswered. Purdue OWL describes a red herring as a diversionary tactic that avoids the key issue, while Texas State University characterises it as shifting attention to a matter with only surface [relevance]({{ 'relevance/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
 
 The distinction can be expressed as a simple diagnostic:
 
 QuestionStraw ManRed HerringWhat happens to the original claim?It is distorted or replaced.It is ignored or left behind.Is the reply still talking about the same issue?Yes, but inaccurately.Usually not.Main tacticMisrepresentation.Diversion.Typical effectMakes the opponent's view easier to defeat.Redirects attention away from the difficult question.
 
-In practice, the two fallacies can feel similar because both prevent a genuine response. The mechanism, however, is different. A straw man attacks a substitute argument. A red herring creates a substitute topic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
+In practice, the two fallacies can feel similar because both prevent a genuine response. The mechanism, however, is different. A straw man attacks a substitute argument. A red herring creates a substitute topic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
 
 ## Side-by-Side Examples of Each Fallacy
 
@@ -305,13 +305,13 @@ The contrast becomes clearer when similar discussions are examined side by side.
 
 "So you want to ban all plastic products and make modern life impossible."
 
-The speaker has transformed a limited proposal into an extreme position and then attacked that extreme version. The discussion remains about plastic policy, but the claim has been misrepresented. Texas State University <span class="citation-chip-wrap"><a class="citation-chip" href="https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fsw.pressbooks.pub">[2fsw.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fsw.pressbooks.pub</span><span class="citation-popover-snippet">Logical, Emotional, and Ethical FallaciesStraw man: The writer rebuts a competing claim by offering an exaggerated or oversimplified vers...</span></span></span>
+The speaker has transformed a limited proposal into an extreme position and then attacked that extreme version. The discussion remains about plastic policy, but the claim has been misrepresented. Texas State University<span class="citation-chip-wrap"><a class="citation-chip" href="https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fsw.pressbooks.pub">[2fsw.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fsw.pressbooks.pub</span><span class="citation-popover-snippet">Logical, Emotional, and Ethical FallaciesStraw man: The writer rebuts a competing claim by offering an exaggerated or oversimplified vers...</span></span></span>
 
 **Red herring response:**
 
 "Plastic waste may be a problem, but think about how many jobs the manufacturing sector provides."
 
-Employment may be an important topic, but it does not address whether reducing plastic waste is justified. The discussion has shifted tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
+Employment may be an important topic, but it does not address whether reducing plastic waste is justified. The discussion has shifted tracks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Va6CI87t9rs" title="Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer">Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope</a></p><p class="youtube-embed-meta">Channel: One Minute Economics &middot; Views: 26.9K &middot; Uploaded: April 2019 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Va6CI87t9rs">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +344,7 @@ The awards may be genuine, but they do not answer the question about overspendin
 
 "So you think everyone should give up cars completely."
 
-This follows the classic pattern of exaggerating a moderate recommendation into an extreme demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fsw.pressbooks.pub">[fsw.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fsw.pressbooks.pub</span><span class="citation-popover-snippet">Logical, Emotional, and Ethical FallaciesStraw man: The writer rebuts a competing claim by offering an exaggerated or oversimplified vers...</span></span></span>
+This follows the classic pattern of exaggerating a moderate recommendation into an extreme demand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fsw.pressbooks.pub">[fsw.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fsw.pressbooks.pub</span><span class="citation-popover-snippet">Logical, Emotional, and Ethical FallaciesStraw man: The writer rebuts a competing claim by offering an exaggerated or oversimplified vers...</span></span></span>
 
 **Red herring response:**
 
@@ -372,7 +372,7 @@ Second, speakers sometimes combine the fallacies. A person may first misrepresen
 
 The first sentence attacks a distorted position; the second changes the subject. The audience may perceive one continuous response even though two distinct fallacies have occurred.
 
-Third, emotional appeals can disguise both tactics. [Anger]({{ 'anger/' | relative_url }}), loyalty, fear, or sympathy may draw attention away from whether the response actually engaged with the argument. Research on fallacy detection consistently finds that identifying the specific error often requires tracing how the response relates to the original claim rather than focusing on the emotional force of the language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Robust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
+Third, emotional appeals can disguise both tactics. [Anger]({{ 'anger/' | relative_url }}), loyalty, fear, or sympathy may draw attention away from whether the response actually engaged with the argument. Research on fallacy detection consistently finds that identifying the specific error often requires tracing how the response relates to the original claim rather than focusing on the emotional force of the language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Robust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-dark.svg" | relative_url }}" alt="Straw Man illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions That Identify the Right Label
@@ -381,11 +381,11 @@ When deciding whether an argument contains a straw man or a red herring, three q
 
 ### Did the speaker accurately restate the original claim?
 
-If the answer is no, a straw man is likely present. The key sign is that the response attacks a version of the claim that the original speaker would reject. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
+If the answer is no, a straw man is likely present. The key sign is that the response attacks a version of the claim that the original speaker would reject.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
 
 ### Is the response addressing the same issue?
 
-If the discussion has moved to a different question, a red herring is more likely. The new topic may be related, but it does not resolve the original point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
+If the discussion has moved to a different question, a red herring is more likely. The new topic may be related, but it does not resolve the original point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
 
 ### Could both speakers agree on what is being debated?
 
@@ -402,276 +402,276 @@ A useful shortcut is:
 
 The fastest way to distinguish the two fallacies is to track the fate of the original claim.
 
-If the claim is **rewritten into something weaker, more extreme, or easier to attack**, the fallacy is a **straw man**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</span></span></span>
+If the claim is **rewritten into something weaker, more extreme, or easier to attack**, the fallacy is a **straw man**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</span></span></span>
 
-If the claim is **left unanswered while attention moves to another issue**, the fallacy is a **red herring**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
+If the claim is **left unanswered while attention moves to another issue**, the fallacy is a **red herring**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
 
 Both derail reasoning, but they do so in different ways: one fights a counterfeit argument, while the other leads the discussion away from the argument altogether.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Straw Man or Red Herring?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Straw Man or Red Herring?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
-        </h4>
-        <p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fallacy Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bjEMkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fallacy Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fallacy Detective">The Fallacy Detective</a>
+</h4>
+<p class="fr-book-author">By Nathaniel Bluedorn, Hans Bluedorn</p>
         
-        <p class="fr-book-desc">Contains practical examples of both fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains practical examples of both fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fallacy+Detective+by+Nathaniel+Bluedorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Explains correct argument structure and relevance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains correct argument structure and relevance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Directly distinguishes major fallacies including straw man and red herring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly distinguishes major fallacies including straw man and red herring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Helps identify whether a claim was distorted or merely avoided.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify whether a claim was distorted or merely avoided.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fallacy+Detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fallacy Detective</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift"><img src="{{ '/assets/images/marketplace-covers/0e3cfb0f2bcd471c5deb.jpg' | relative_url }}" alt="Listing image for Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Demand Evidence &amp; Think Critically Mug Can Personalise Critical Thinking Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question"><img src="{{ '/assets/images/marketplace-covers/27c4f1c8a79e17f8813c.jpg' | relative_url }}" alt="Listing image for Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Disobey Mug Anarchist Stuff Vendetta Self Ownership Critical Thinking Question</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/4d2b7dc35ec304a18a95.jpg' | relative_url }}" alt="Listing image for Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Thinker Mug Question Everything Coffee Cup Inspirational Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism"><img src="{{ '/assets/images/marketplace-covers/2e9f8fb8dc8c5869af99.jpg' | relative_url }}" alt="Listing image for Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Realist Mug Black Coffee Cup Truth Logic Critical Thinking Objectivism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=straw-man-585401-straw-man-or-red-herring-logical-fallacies-critical-thinking-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -687,7 +687,7 @@ Both derail reasoning, but they do so in different ways: one fights a counterfei
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -707,7 +707,7 @@ Both derail reasoning, but they do so in different ways: one fights a counterfei
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -739,7 +739,7 @@ Both derail reasoning, but they do so in different ways: one fights a counterfei
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -769,7 +769,7 @@ Both derail reasoning, but they do so in different ways: one fights a counterfei
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -827,141 +827,141 @@ Both derail reasoning, but they do so in different ways: one fights a counterfei
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fsw.pressbooks.pub  
-   Link: <a href="https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical, Emotional, and Ethical FallaciesStraw man: The writer rebuts a competing claim by offering an exaggerated or oversimplified vers...</p></details>
+   Link:<a href="https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical, Emotional, and Ethical FallaciesStraw man: The writer rebuts a competing claim by offering an exaggerated or oversimplified vers...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07425</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robust and Explainable Identification of [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) in Natural Language ArgumentsDecember 12, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robust and Explainable Identification of [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) in Natural Language ArgumentsDecember 12, 2022...</p></details>
    Published: December 12, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.04293" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.04293</a>  
+   Link:<a href="https://arxiv.org/abs/2404.04293" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.04293</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Straw (film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Straw_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_%28film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw (film)Straw is a 2025 American psychological crime drama film written, produced and directed by Tyler Perry. The film stars Tara...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Straw_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_%28film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Straw (film)Straw is a 2025 American psychological crime drama film written, produced and directed by Tyler Perry. The film stars Tara...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Texas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Texas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TexasTexas has a coastline on the Gulf of Mexico to the southeast. Covering 268,596 square miles (695,660 km2) and with an estimated p...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Texas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Texas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TexasTexas has a coastline on the Gulf of Mexico to the southeast. Covering 268,596 square miles (695,660 km2) and with an estimated p...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Red herring  
-   Link: <a href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_herring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red herringA red herring is something that misleads or distracts from a relevant or important question. [1] It may be either a logical...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_herring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red herringA red herring is something that misleads or distracts from a relevant or important question. [1] It may be either a logical...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FallacyA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument that may appear to be well-rea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FallacyA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument that may appear to be well-rea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: web.ics.purdue.edu  
    Title: Logical Fallacies  
-   Link: <a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This fallacy has the same function as an ad hominem, but applies instead...Read more...</p></details>
+   Link:<a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This fallacy has the same function as an ad hominem, but applies instead...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: txst.edu  
-   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</p></details>
+   Link:<a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: txst.edu  
    Title: Examples:.Read more  
-   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/red-herring.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/red-herring.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State UniversityRed Herring: Department of PhilosophyThis fallacy consists in diverting attention from the real issue by focusing...</p></details>
+   Link:<a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/red-herring.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/red-herring.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State UniversityRed Herring: Department of PhilosophyThis fallacy consists in diverting attention from the real issue by focusing...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, Red Herring, Straw ManMay 13, 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thr...</p></details>
+   Link:<a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, Red Herring, Straw ManMay 13, 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thr...</p></details>
    Published: May 13, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: writingcenter.tamu.edu  
-   Link: <a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University Writing CenterThis fallacy often takes the form of name-calling. The term ad hominem means “to the man” or “to the person.” Ex...</p></details>
+   Link:<a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University Writing CenterThis fallacy often takes the form of name-calling. The term ad hominem means “to the man” or “to the person.” Ex...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black-or-White fallacy or Black-White fallacy is a [False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy that limits you unfairly to only two choices, as if you were mad...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black-or-White fallacy or Black-White fallacy is a [False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy that limits you unfairly to only two choices, as if you were mad...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: markmanson.net  
-   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Logical Fallacies That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a person made of...</p></details>
+   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Logical Fallacies That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a person made of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: txst.edu  
-   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/ad-hominem.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/ad-hominem.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem: Department of PhilosophyThis fallacy occurs when, instead of addressing someone&#x27;s argument or position, one irrelevantly att...</p></details>
+   Link:<a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/ad-hominem.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/ad-hominem.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem: Department of PhilosophyThis fallacy occurs when, instead of addressing someone&#x27;s argument or position, one irrelevantly att...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/npkc7/eli5_all_the_common_logical_fallacies_that_you/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/npkc7/eli5_all_the_common_logical_fallacies_that_you/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: All the common &quot;logical fallacies&quot; that you see people...Red Herring, Straw man, ad hominem, etc. Basically, all the common... Fo...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/npkc7/eli5_all_the_common_logical_fallacies_that_you/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/npkc7/eli5_all_the_common_logical_fallacies_that_you/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: All the common &quot;logical fallacies&quot; that you see people...Red Herring, Straw man, ad hominem, etc. Basically, all the common... Fo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: josephparis.me  
-   Link: <a href="https://josephparis.me/my-articles/effective-arguing-beware-of-logical-red-herrings/" target="_blank" rel="noopener noreferrer nofollow">https://josephparis.me/my-articles/effective-arguing-beware-of-logical-red-herrings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Arguing; Beware of Logical Red-HerringsAppeal to Authority is a very superficial yet pervasive technique for persuasion which w...</p></details>
+   Link:<a href="https://josephparis.me/my-articles/effective-arguing-beware-of-logical-red-herrings/" target="_blank" rel="noopener noreferrer nofollow">https://josephparis.me/my-articles/effective-arguing-beware-of-logical-red-herrings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Arguing; Beware of Logical Red-HerringsAppeal to Authority is a very superficial yet pervasive technique for persuasion which w...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: txst.edu  
-   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/false-dilemma.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/false-dilemma.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma: Department of PhilosophyThis fallacy occurs when one reasons from an either-or position and you haven&#x27;t considered all re...</p></details>
+   Link:<a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/false-dilemma.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/false-dilemma.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma: Department of PhilosophyThis fallacy occurs when one reasons from an either-or position and you haven&#x27;t considered all re...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/665027492/logical-fallacies-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/665027492/logical-fallacies-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies FlashcardsStudy with Quizlet and memorize flashcards containing terms like red herring, red herring, [Tu Quoque](&amp;#123;&amp;#123; &#x27;tu-quoque/&#x27; | relative_url &amp;#125;&amp;#125;) and more...</p></details>
+   Link:<a href="https://quizlet.com/665027492/logical-fallacies-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/665027492/logical-fallacies-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies FlashcardsStudy with Quizlet and memorize flashcards containing terms like red herring, red herring, [Tu Quoque](&amp;#123;&amp;#123; &#x27;tu-quoque/&#x27; | relative_url &amp;#125;&amp;#125;) and more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: newslit.org  
-   Link: <a href="https://newslit.org/wp-content/uploads/2021/01/LogicalFallacies-Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/wp-content/uploads/2021/01/LogicalFallacies-Poster.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallaciesFalse dilemma. A logical fallacy in which an either/or proposition is set up when there are actually more options availa...</p></details>
+   Link:<a href="https://newslit.org/wp-content/uploads/2021/01/LogicalFallacies-Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/wp-content/uploads/2021/01/LogicalFallacies-Poster.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallaciesFalse dilemma. A logical fallacy in which an either/or proposition is set up when there are actually more options availa...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Master List of Logical FallaciesThe Straw Man (also &quot;The Straw Person&quot; &quot;&quot;The Straw Figure&quot;): The fallacy of setting up a phony, weak, ext...</p></details>
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Master List of Logical FallaciesThe Straw Man (also &quot;The Straw Person&quot; &quot;&quot;The Straw Figure&quot;): The fallacy of setting up a phony, weak, ext...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/straw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningSTRAW definition: a single stalk or stem, especially of certain species of grain, chiefly wheat, rye, oats, and...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/straw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningSTRAW definition: a single stalk or stem, especially of certain species of grain, chiefly wheat, rye, oats, and...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/straw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningThe meaning of STRAW is stalks of grain after threshing; broadly: dry stalky plant residue used like grain str...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/straw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningThe meaning of STRAW is stalks of grain after threshing; broadly: dry stalky plant residue used like grain str...</p></details>

@@ -504,15 +504,15 @@ image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-overview
 Appeal to novelty is the fallacy of treating newness itself as proof of superiority. It appears when a speaker, advertiser, policymaker or organisation argues that an idea, tool, treatment or reform is better mainly because it is recent, modern, updated or innovative. The mistake is not liking new things. New products and policies can be real improvements. The fallacy occurs when “new” replaces the harder question: better by what measure, for whom, at what cost, and compared with which alternative?
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-overview.webp" | relative_url }}" alt="Overview image for Novelty" loading="eager" decoding="sync" fetchpriority="high">
-Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), appeal to novelty is an informal fallacy because its weakness depends on context, evidence and the implied assumption behind the claim, rather than on a simple invalid formula. [Informal logic]({{ 'informal-logic/' | relative_url }}) is concerned with how reasons support claims in ordinary argument, where missing assumptions and persuasive wording often do much of the work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Formal fallacies are those readily seen to be instances of...Read more...</span></span></span> Encyclopedia of Philosophy
+Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), appeal to novelty is an informal fallacy because its weakness depends on context, evidence and the implied assumption behind the claim, rather than on a simple invalid formula. [Informal logic]({{ 'informal-logic/' | relative_url }}) is concerned with how reasons support claims in ordinary argument, where missing assumptions and persuasive wording often do much of the work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Formal fallacies are those readily seen to be instances of...Read more...</span></span></span> Encyclopedia of Philosophy
 
 ## Freshness as appeal
 
-A typical appeal to novelty has a simple hidden structure: the old option has existed for some time; the new option has just arrived; therefore, the new option is better. Logically, the conclusion does not follow. Newness can be a clue that something might be worth examining, but it is not evidence that the thing is safer, fairer, more effective, more durable or more suitable. Accessible fallacy guides describe the appeal to novelty as claiming that something is superior “exclusively” or “simply” because it is new or modern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to NoveltyClaiming that something that is new or modern is superior to the status quo, based exclusively on it...</span></span></span>
+A typical appeal to novelty has a simple hidden structure: the old option has existed for some time; the new option has just arrived; therefore, the new option is better. Logically, the conclusion does not follow. Newness can be a clue that something might be worth examining, but it is not evidence that the thing is safer, fairer, more effective, more durable or more suitable. Accessible fallacy guides describe the appeal to novelty as claiming that something is superior “exclusively” or “simply” because it is new or modern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to NoveltyClaiming that something that is new or modern is superior to the status quo, based exclusively on it...</span></span></span>
 
-This makes the fallacy especially persuasive in cultures that associate progress with replacement. Words such as “modern”, “next-generation”, “reimagined”, “upgraded”, “cutting-edge” and “disruptive” can make a proposal feel forward-looking before anyone has asked what has actually improved. Consumer research suggests that even the word “new” in [advertising]({{ 'advertising/' | relative_url }}) can heighten perceptions of novelty and interest, which helps explain why newness works as a marketing signal even when it does not prove product quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This makes the fallacy especially persuasive in cultures that associate progress with replacement. Words such as “modern”, “next-generation”, “reimagined”, “upgraded”, “cutting-edge” and “disruptive” can make a proposal feel forward-looking before anyone has asked what has actually improved. Consumer research suggests that even the word “new” in [advertising]({{ 'advertising/' | relative_url }}) can heighten perceptions of novelty and interest, which helps explain why newness works as a marketing signal even when it does not prove product quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The fallacy often sits between two different ideas that should be kept separate. One is a factual claim: this thing is recent. The other is an evaluative claim: this thing is better. The first may be easy to verify; the second needs criteria and evidence. A new phone may have a faster processor but worse battery life. A new school policy may use updated language but create more administrative burden. A new medical device may promise access for patients with serious conditions while still involving unresolved uncertainty at the time of authorisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Breakthrough Devices Program</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Breakthrough Devices Program</span></span></span>
+The fallacy often sits between two different ideas that should be kept separate. One is a factual claim: this thing is recent. The other is an evaluative claim: this thing is better. The first may be easy to verify; the second needs criteria and evidence. A new phone may have a faster processor but worse battery life. A new school policy may use updated language but create more administrative burden. A new medical device may promise access for patients with serious conditions while still involving unresolved uncertainty at the time of authorisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Breakthrough Devices Program</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Breakthrough Devices Program</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-1-dark.svg" | relative_url }}" alt="Novelty illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When newness is a reason to look, not a reason to believe
@@ -527,11 +527,11 @@ A useful test is to replace “new” with the claimed benefit. Instead of sayin
 
 The strongest response to a new-is-better claim is not cynicism. It is comparison. The question is not whether the new option has attractive features, but whether it improves on the relevant baseline. The baseline may be an older product, the current policy, standard care, an existing workflow, or doing nothing. Without that comparison, “new” can conceal trade-offs.
 
-In medicine, this distinction is unusually clear because a new treatment may be promising, but patient benefit depends on evidence. The Catalogue of Bias describes “novelty bias” in clinical research as the appearance that a new treatment is better because it is new, and notes that meta-analyses of medicine trials have found novelty can make an intervention appear between 2% and 27% better when it is novel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogofbias.org/biases/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogofbias.org">[catalogofbias.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogofbias.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A separate review of randomised clinical trials identified 396 medical reversals, where later, stronger evidence contradicted established clinical practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In medicine, this distinction is unusually clear because a new treatment may be promising, but patient benefit depends on evidence. The Catalogue of Bias describes “novelty bias” in clinical research as the appearance that a new treatment is better because it is new, and notes that meta-analyses of medicine trials have found novelty can make an intervention appear between 2% and 27% better when it is novel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogofbias.org/biases/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogofbias.org">[catalogofbias.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogofbias.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A separate review of randomised clinical trials identified 396 medical reversals, where later, stronger evidence contradicted established clinical practices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That does not mean older medicine is automatically better. It means “new” and “proved improvement” are different claims. A study of new versus established treatments found that new treatments were, on average, only very slightly more likely to have favourable results than established ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Reporting on German drug assessments, Chemistry World noted that among 216 new approvals in Germany between 2011 and 2017, only about a quarter conclusively showed a considerable or major added benefit over standard care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-title">Chemistry World Are new drugs better than existing ones? &#124; Opinion</span><span class="citation-popover-snippet">Chemistry World Are new drugs better than existing ones? &#124; Opinion</span></span></span>
+That does not mean older medicine is automatically better. It means “new” and “proved improvement” are different claims. A study of new versus established treatments found that new treatments were, on average, only very slightly more likely to have favourable results than established ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Reporting on German drug assessments, Chemistry World noted that among 216 new approvals in Germany between 2011 and 2017, only about a quarter conclusively showed a considerable or major added benefit over standard care.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-title">Chemistry World Are new drugs better than existing ones? &#124; Opinion</span><span class="citation-popover-snippet">Chemistry World Are new drugs better than existing ones? &#124; Opinion</span></span></span>
 
-The same discipline applies outside medicine. In technology, a new tool should be judged by outcomes: reliability, usability, security, maintainability, total cost, user learning curve and measurable benefit. Gartner’s Hype Cycle framework is used to think about how technologies evolve over time and how organisations can time deployment against business goals, not simply adopt whatever is newest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gartner.com/en/research/methodologies/gartner-hype-cycle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-snippet">Open source on gartner.com.</span></span></span> Research on online experiments also warns that early effects may be distorted by novelty: users may engage with a new feature at first because it is fresh, then behave differently after learning or habituation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments</span><span class="citation-popover-snippet">arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments</span></span></span>
+The same discipline applies outside medicine. In technology, a new tool should be judged by outcomes: reliability, usability, security, maintainability, total cost, user learning curve and measurable benefit. Gartner’s Hype Cycle framework is used to think about how technologies evolve over time and how organisations can time deployment against business goals, not simply adopt whatever is newest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gartner.com/en/research/methodologies/gartner-hype-cycle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-snippet">Open source on gartner.com.</span></span></span> Research on online experiments also warns that early effects may be distorted by novelty: users may engage with a new feature at first because it is fresh, then behave differently after learning or habituation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments</span><span class="citation-popover-snippet">arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jB1RDz9jaj0" title="Gartner Hype Cycles, Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jB1RDz9jaj0" target="_blank" rel="noopener noreferrer">Gartner Hype Cycles, Explained</a></p><p class="youtube-embed-meta">Channel: Gartner &middot; Views: 142.9K &middot; Uploaded: March 2022 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jB1RDz9jaj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jB1RDz9jaj0">Open on YouTube</a></p></div></div></div>
 
@@ -553,7 +553,7 @@ A practical comparison can ask:
 
 </div>
 
-The [New Coke]({{ 'new-coke/' | relative_url }}) case shows why comparison must include more than surface preference. Coca-Cola introduced a reformulated drink in April 1985 after taste-testing and competitive pressure, but the public backlash became one of the most famous product failures in consumer-goods history; the company restored the original formula as Coca-Cola Classic within months. Coca-Cola’s own history describes the decision as a major risk that generated extraordinary consumer angst, while Britannica summarises the episode as a reformulation intended to revitalise the brand that quickly provoked a furour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coca-colacompany.com">[Coca-Cola Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coca-colacompany.com</span><span class="citation-popover-title">new coke the most memorable marketing blunder ever</span><span class="citation-popover-snippet">new coke the most memorable marketing blunder ever</span></span></span> The lesson is not that reformulation is always wrong. It is that “new taste” was not the same as “better brand [experience]({{ 'experience/' | relative_url }})” for loyal consumers.
+The [New Coke]({{ 'new-coke/' | relative_url }}) case shows why comparison must include more than surface preference. Coca-Cola introduced a reformulated drink in April 1985 after taste-testing and competitive pressure, but the public backlash became one of the most famous product failures in consumer-goods history; the company restored the original formula as Coca-Cola Classic within months. Coca-Cola’s own history describes the decision as a major risk that generated extraordinary consumer angst, while Britannica summarises the episode as a reformulation intended to revitalise the brand that quickly provoked a furour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coca-colacompany.com">[Coca-Cola Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coca-colacompany.com</span><span class="citation-popover-title">new coke the most memorable marketing blunder ever</span><span class="citation-popover-snippet">new coke the most memorable marketing blunder ever</span></span></span> The lesson is not that reformulation is always wrong. It is that “new taste” was not the same as “better brand [experience]({{ 'experience/' | relative_url }})” for loyal consumers.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-2-dark.svg" | relative_url }}" alt="Novelty illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the fallacy is so tempting
@@ -562,9 +562,9 @@ Appeal to novelty works because it borrows emotional force from genuine progress
 
 The fallacy also offers social signalling. Supporting the newest platform, policy language or management trend can make a person look informed, ambitious and adaptive. Resisting it can be framed as fear, nostalgia or backwardness, even when the resistance is evidence-based. This rhetorical pressure is powerful because it shifts the burden of proof: critics are asked to justify why they are “against progress”, while advocates are not asked to prove that the specific new proposal improves outcomes.
 
-Technology hype makes this pattern visible. Gartner’s model is built around the idea that expectations for emerging technologies can rise, disappoint and then settle as practical uses become clearer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.de">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.de</span><span class="citation-popover-title">hype cycle fuer neue technologien</span><span class="citation-popover-snippet">hype cycle fuer neue technologien</span></span></span> The model itself is debated, but the broader warning is useful: early excitement is not the same as mature value. A new system may be worth piloting while still being a poor candidate for full adoption.
+Technology hype makes this pattern visible. Gartner’s model is built around the idea that expectations for emerging technologies can rise, disappoint and then settle as practical uses become clearer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.de">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.de</span><span class="citation-popover-title">hype cycle fuer neue technologien</span><span class="citation-popover-snippet">hype cycle fuer neue technologien</span></span></span> The model itself is debated, but the broader warning is useful: early excitement is not the same as mature value. A new system may be worth piloting while still being a poor candidate for full adoption.
 
-Public policy has a similar problem. OECD work on innovation policy argues that innovations should not be treated as beneficial in themselves, but judged by their positive and negative social externalities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Innovation policy transformed? (EN</span><span class="citation-popover-snippet">Innovation policy transformed? (EN</span></span></span> That is exactly the reasoning discipline appeal to novelty tends to bypass. Innovation can help, but the word does not settle the argument.
+Public policy has a similar problem. OECD work on innovation policy argues that innovations should not be treated as beneficial in themselves, but judged by their positive and negative social externalities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Innovation policy transformed? (EN</span><span class="citation-popover-snippet">Innovation policy transformed? (EN</span></span></span> That is exactly the reasoning discipline appeal to novelty tends to bypass. Innovation can help, but the word does not settle the argument.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KpOEr18m4vw" title="Critical Thinking: The Fallacy of Appeal to Novelty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal to Novelty</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 1.7K &middot; Uploaded: November 2014 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KpOEr18m4vw">Open on YouTube</a></p></div></div></div>
 
@@ -574,9 +574,9 @@ Appeal to novelty rarely announces itself as a formal syllogism. It usually appe
 
 A company may say, “Our new AI-powered process is the future of customer service,” without showing whether customers get faster, fairer or more accurate help. A school may replace a familiar teaching method with a branded modern approach before comparing learning outcomes. A government may present a digital service as efficient because it is online, while ignoring users who lack access, confidence or support. A consumer may buy an upgraded product because it is the latest model, even if the older model meets their needs better.
 
-Healthcare provides a sharper version because the stakes are high. The United States Food and Drug Administration says its Breakthrough Devices Program is intended to give patients and clinicians timely access to certain medical devices by speeding development, assessment and review, while still requiring rigorous safety and effectiveness standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Breakthrough Devices Program</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Breakthrough Devices Program</span></span></span> Its guidance also recognises that premarket decisions involve uncertainty about benefits and risks, and that some questions may be answered after market access rather than before it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Breakthrough Devices Program</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Breakthrough Devices Program</span></span></span> This is not a fallacy by itself; regulators may reasonably balance urgency and evidence. The fallacy would be to treat “breakthrough” or “first-in-class” as proof that patients will necessarily fare better.
+Healthcare provides a sharper version because the stakes are high. The United States Food and Drug Administration says its Breakthrough Devices Program is intended to give patients and clinicians timely access to certain medical devices by speeding development, assessment and review, while still requiring rigorous safety and effectiveness standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Breakthrough Devices Program</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Breakthrough Devices Program</span></span></span> Its guidance also recognises that premarket decisions involve uncertainty about benefits and risks, and that some questions may be answered after market access rather than before it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Breakthrough Devices Program</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Breakthrough Devices Program</span></span></span> This is not a fallacy by itself; regulators may reasonably balance urgency and evidence. The fallacy would be to treat “breakthrough” or “first-in-class” as proof that patients will necessarily fare better.
 
-Artificial intelligence in healthcare shows the same caution. A recent systematic review on AI-related algorithmic decision-making in healthcare reported that although such systems may perform some tasks impressively, evidence about patient-relevant outcomes remains uncertain when compared with standard care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The critical question is not whether the tool is advanced, but whether it improves outcomes that matter to patients and clinicians.
+Artificial intelligence in healthcare shows the same caution. A recent systematic review on AI-related algorithmic decision-making in healthcare reported that although such systems may perform some tasks impressively, evidence about patient-relevant outcomes remains uncertain when compared with standard care.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The critical question is not whether the tool is advanced, but whether it improves outcomes that matter to patients and clinicians.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-3-dark.svg" | relative_url }}" alt="Novelty illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spotting the fallacy without rejecting progress
@@ -598,269 +598,269 @@ Appeal to novelty matters because it turns a timeline into an argument. It asks 
 The better habit is historical comparison. Ask what changed, why it changed, what evidence supports the change, and what the older option was already doing well. New can be better. Old can be better. The fallacy begins when the calendar is treated as proof.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is New Always Better?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is New Always Better?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating claims beyond marketing language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating claims beyond marketing language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts that make novelty persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts that make novelty persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Includes reasoning patterns related to unsupported claims of superiority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes reasoning patterns related to unsupported claims of superiority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lwKRgkLNgXsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
-        </h4>
-        <p class="fr-book-author">By Dan Ariely</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lwKRgkLNgXsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
+</h4>
+<p class="fr-book-author">By Dan Ariely</p>
         
-        <p class="fr-book-desc">Explores irrational preferences that can favor novelty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores irrational preferences that can favor novelty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Illustrated Book of Bad Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Tech - Video Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/522ba1ca9f6fd2dfdb25.jpg' | relative_url }}" alt="Listing image for Retro Tech - Video Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Tech - Video Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro tech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro tech poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Tech - Video Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/522ba1ca9f6fd2dfdb25.jpg' | relative_url }}" alt="Listing image for Retro Tech - Video Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Tech - Video Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro tech poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro tech poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor"><img src="{{ '/assets/images/marketplace-covers/77a56e86dc38d0842a36.jpg' | relative_url }}" alt="Listing image for Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro tech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro tech poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor"><img src="{{ '/assets/images/marketplace-covers/77a56e86dc38d0842a36.jpg' | relative_url }}" alt="Listing image for Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro tech poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro tech poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Line Tech Drawing Chieftain Tank Mock Retro Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/09f18bfc633eafc09698.jpg' | relative_url }}" alt="Listing image for Line Tech Drawing Chieftain Tank Mock Retro Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Line Tech Drawing Chieftain Tank Mock Retro Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro tech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro tech poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Line Tech Drawing Chieftain Tank Mock Retro Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/09f18bfc633eafc09698.jpg' | relative_url }}" alt="Listing image for Line Tech Drawing Chieftain Tank Mock Retro Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Line Tech Drawing Chieftain Tank Mock Retro Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro tech poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro tech poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Macintosh Poster Wall Art - Retro Tech Design Premium Quality"><img src="{{ '/assets/images/marketplace-covers/460d302ffbb6ac56ae43.jpg' | relative_url }}" alt="Listing image for Vintage Macintosh Poster Wall Art - Retro Tech Design Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Macintosh Poster Wall Art - Retro Tech Design Premium Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro tech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro tech poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Macintosh Poster Wall Art - Retro Tech Design Premium Quality"><img src="{{ '/assets/images/marketplace-covers/460d302ffbb6ac56ae43.jpg' | relative_url }}" alt="Listing image for Vintage Macintosh Poster Wall Art - Retro Tech Design Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Macintosh Poster Wall Art - Retro Tech Design Premium Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro tech poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro tech poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+tech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novelty-is-new-always-better-logical-fallacies-retro-tech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -876,7 +876,7 @@ The better habit is historical comparison. Ask what changed, why it changed, wha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -896,7 +896,7 @@ The better habit is historical comparison. Ask what changed, why it changed, wha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -928,7 +928,7 @@ The better habit is historical comparison. Ask what changed, why it changed, wha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -958,7 +958,7 @@ The better habit is historical comparison. Ask what changed, why it changed, wha
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1016,235 +1016,235 @@ The better habit is historical comparison. Ask what changed, why it changed, wha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Formal fallacies are those readily seen to be instances of...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Formal fallacies are those readily seen to be instances of...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Appeal to novelty  
-   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_novelty</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 23, 2026 — The appeal to novelty is a logical fallacy in which one prematurely claims that an idea or proposal is correct or superi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_novelty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 23, 2026 — The appeal to novelty is a logical fallacy in which one prematurely claims that an idea or proposal is correct or superi...</p></details>
    Published: April 23, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: catalogofbias.org  
-   Link: <a href="https://catalogofbias.org/biases/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow">https://catalogofbias.org/biases/novelty-bias/</a>  
+   Link:<a href="https://catalogofbias.org/biases/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow">https://catalogofbias.org/biases/novelty-bias/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gartner.com  
-   Link: <a href="https://www.gartner.com/en/research/methodologies/gartner-hype-cycle" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/en/research/methodologies/gartner-hype-cycle</a>  
+   Link:<a href="https://www.gartner.com/en/research/methodologies/gartner-hype-cycle" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/en/research/methodologies/gartner-hype-cycle</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments  
-   Link: <a href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.12893</a>  
+   Link:<a href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.12893</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: New Coke  
-   Link: <a href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/New-Coke</a>  
+   Link:<a href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/New-Coke</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oecd.org  
    Title: Innovation policy transformed? (EN)  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666776224003144" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666776224003144</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666776224003144" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666776224003144</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Appeal to tradition  
-   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_tradition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_tradition</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Appeal_to_tradition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_tradition</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: New Coke  
-   Link: <a href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_Coke</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_Coke</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Gartner hype cycle  
-   Link: <a href="https://en.wikipedia.org/wiki/Gartner_hype_cycle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gartner_hype_cycle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gartner_hype_cycle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gartner_hype_cycle</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Informal fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
-20. <a id="endnote-20"></a>
-   Source: plato.stanford.edu  
-   Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
-
-21. <a id="endnote-21"></a>
+20.<a id="endnote-20"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/win2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2019/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
 
-22. <a id="endnote-22"></a>
+21.<a id="endnote-21"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: <a href="https://plato.stanford.edu/archives/sum2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2004/entries/logic-informal/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/win2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2019/entries/logic-informal/</a>  
 
-23. <a id="endnote-23"></a>
+22.<a id="endnote-22"></a>
+   Source: plato.stanford.edu  
+   Title: logic informal  
+   Link:<a href="https://plato.stanford.edu/archives/sum2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2004/entries/logic-informal/</a>  
+
+23.<a id="endnote-23"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/04/making-innovation-policy-work_g1g24173/9789264185739-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/04/making-innovation-policy-work_g1g24173/9789264185739-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/04/making-innovation-policy-work_g1g24173/9789264185739-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/04/making-innovation-policy-work_g1g24173/9789264185739-en.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/broad-based-innovation-policy-for-all-regions-and-cities_1ce6985d/299731d2-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/broad-based-innovation-policy-for-all-regions-and-cities_1ce6985d/299731d2-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/broad-based-innovation-policy-for-all-regions-and-cities_1ce6985d/299731d2-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/broad-based-innovation-policy-for-all-regions-and-cities_1ce6985d/299731d2-en.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/innovation-policy-and-performance_9789264006737-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/innovation-policy-and-performance_9789264006737-en.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/innovation-policy-and-performance_9789264006737-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/innovation-policy-and-performance_9789264006737-en.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gartner.de  
    Title: hype cycle fuer neue technologien  
-   Link: <a href="https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien</a>  
+   Link:<a href="https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to NoveltyClaiming that something that is new or modern is superior to the [status quo](&amp;#123;&amp;#123; &#x27;status-quo/&#x27; | relative_url &amp;#125;&amp;#125;), based exclusively on it...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to NoveltyClaiming that something that is new or modern is superior to the [status quo](&amp;#123;&amp;#123; &#x27;status-quo/&#x27; | relative_url &amp;#125;&amp;#125;), based exclusively on it...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: fda.gov  
    Title: U.S. Food and Drug Administration Breakthrough Devices Program  
-   Link: <a href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program</a>  
+   Link:<a href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/files/guidance%20documents/published/Breakthrough-Devices-Program.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/files/guidance%20documents/published/Breakthrough-Devices-Program.pdf</a>  
+   Link:<a href="https://www.fda.gov/files/guidance%20documents/published/Breakthrough-Devices-Program.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/files/guidance%20documents/published/Breakthrough-Devices-Program.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: chemistryworld.com  
    Title: Chemistry World Are new drugs better than existing ones? | Opinion  
-   Link: <a href="https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article</a>  
+   Link:<a href="https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: coca-colacompany.com  
    Title: new coke the most memorable marketing blunder ever  
-   Link: <a href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever</a>  
+   Link:<a href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: thebrandingjournal.com  
    Title: new coke  
-   Link: <a href="https://www.thebrandingjournal.com/2025/02/new-coke/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrandingjournal.com/2025/02/new-coke/</a>  
+   Link:<a href="https://www.thebrandingjournal.com/2025/02/new-coke/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrandingjournal.com/2025/02/new-coke/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: logical-fallacy.com  
    Title: Appeal to Novelty  
-   Link: <a href="https://www.logical-fallacy.com/articles/appeal-to-novelty/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/appeal-to-novelty/</a>  
+   Link:<a href="https://www.logical-fallacy.com/articles/appeal-to-novelty/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/appeal-to-novelty/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Gartner Hype Cycles, Explained  
-   Link: <a href="https://www.youtube.com/watch?v=jB1RDz9jaj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jB1RDz9jaj0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=jB1RDz9jaj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jB1RDz9jaj0</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ebsco.com  
    Title: new coke  
-   Link: <a href="https://www.ebsco.com/research-starters/marketing/new-coke" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/marketing/new-coke</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/marketing/new-coke" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/marketing/new-coke</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: coca-colacompany.com  
-   Link: <a href="https://www.coca-colacompany.com/about-us/history" target="_blank" rel="noopener noreferrer nofollow">https://www.coca-colacompany.com/about-us/history</a>  
+   Link:<a href="https://www.coca-colacompany.com/about-us/history" target="_blank" rel="noopener noreferrer nofollow">https://www.coca-colacompany.com/about-us/history</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: bmc.com  
    Title: gartner hype cycle  
-   Link: <a href="https://www.bmc.com/blogs/gartner-hype-cycle/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmc.com/blogs/gartner-hype-cycle/</a>  
+   Link:<a href="https://www.bmc.com/blogs/gartner-hype-cycle/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmc.com/blogs/gartner-hype-cycle/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ideatovalue.com  
    Title: novelty bias  
-   Link: <a href="https://www.ideatovalue.com/curi/nickskillicorn/2022/05/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.ideatovalue.com/curi/nickskillicorn/2022/05/novelty-bias/</a>  
+   Link:<a href="https://www.ideatovalue.com/curi/nickskillicorn/2022/05/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.ideatovalue.com/curi/nickskillicorn/2022/05/novelty-bias/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: delightability.com  
    Title: Appeal to Novelty  
-   Link: <a href="https://www.delightability.com/free-stuff/appeal-novelty-logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.delightability.com/free-stuff/appeal-novelty-logical-fallacy/</a>  
+   Link:<a href="https://www.delightability.com/free-stuff/appeal-novelty-logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.delightability.com/free-stuff/appeal-novelty-logical-fallacy/</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesA formal fallacy can be detected by examining the logical form of the reasoning, whereas an i...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesA formal fallacy can be detected by examining the logical form of the reasoning, whereas an i...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YZMpnK4JA90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YZMpnK4JA90</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronological Snobbery - a logical fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YZMpnK4JA90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YZMpnK4JA90</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chronological Snobbery - a logical fallacy...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Critical Thinking: The Fallacy of Appeal to Novelty  
-   Link: <a href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KpOEr18m4vw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronological Snobbery Fallacy | Middle and High School Homeschooling Logic/Argument video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KpOEr18m4vw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chronological Snobbery Fallacy | Middle and High School Homeschooling Logic/Argument video...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: hutchdatascience.org  
-   Link: <a href="https://hutchdatascience.org/AI_for_Decision_Makers/references.html" target="_blank" rel="noopener noreferrer nofollow">https://hutchdatascience.org/AI_for_Decision_Makers/references.html</a>  
+   Link:<a href="https://hutchdatascience.org/AI_for_Decision_Makers/references.html" target="_blank" rel="noopener noreferrer nofollow">https://hutchdatascience.org/AI_for_Decision_Makers/references.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: businessatoecd.org  
-   Link: <a href="https://www.businessatoecd.org/hubfs/website/documents/pdf/Innovation%20and%20Tech/Science%2C%20Technology%20and%20Innovation%20Policies%20for%20Society%20-%20April%202019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.businessatoecd.org/hubfs/website/documents/pdf/Innovation%20and%20Tech/Science%2C%20Technology%20and%20Innovation%20Policies%20for%20Society%20-%20April%202019.pdf</a>  
+   Link:<a href="https://www.businessatoecd.org/hubfs/website/documents/pdf/Innovation%20and%20Tech/Science%2C%20Technology%20and%20Innovation%20Policies%20for%20Society%20-%20April%202019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.businessatoecd.org/hubfs/website/documents/pdf/Innovation%20and%20Tech/Science%2C%20Technology%20and%20Innovation%20Policies%20for%20Society%20-%20April%202019.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Avoiding the Appeal to Novelty: When New Isn't Always Better  
-   Link: <a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SJWvTZ3h18E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Appeal to Novelty...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SJWvTZ3h18E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Appeal to Novelty...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387297646_Cross-sectional_evaluation_of_medical_reversals_among_National_Institute_of_Health_guideline_practices_implemented_during_the_COVID-19_pandemic_how_often_did_experts_err_in_a_time_of_crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387297646_Cross-sectional_evaluation_of_medical_reversals_among_National_Institute_of_Health_guideline_practices_implemented_during_the_COVID-19_pandemic_how_often_did_experts_err_in_a_time_of_crisis</a>  
+   Link:<a href="https://www.researchgate.net/publication/387297646_Cross-sectional_evaluation_of_medical_reversals_among_National_Institute_of_Health_guideline_practices_implemented_during_the_COVID-19_pandemic_how_often_did_experts_err_in_a_time_of_crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387297646_Cross-sectional_evaluation_of_medical_reversals_among_National_Institute_of_Health_guideline_practices_implemented_during_the_COVID-19_pandemic_how_often_did_experts_err_in_a_time_of_crisis</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: tvtropes.org  
-   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/AppealToNovelty" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Main/AppealToNovelty</a>  
+   Link:<a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/AppealToNovelty" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Main/AppealToNovelty</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: podiapaedia.org  
-   Link: <a href="https://podiapaedia.org/wiki/research/pseudoscience/logical-fallacies/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://podiapaedia.org/wiki/research/pseudoscience/logical-fallacies/appeal-to-novelty-fallacy/</a>  
+   Link:<a href="https://podiapaedia.org/wiki/research/pseudoscience/logical-fallacies/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://podiapaedia.org/wiki/research/pseudoscience/logical-fallacies/appeal-to-novelty-fallacy/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: fallacyguide.com  
-   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-novelty" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-novelty</a>
+   Link:<a href="https://fallacyguide.com/fallacies/appeal-to-novelty" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-novelty</a>

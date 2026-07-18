@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trendin
 
 ## Introduction
 
-Visible popularity signals are among the most powerful forms of modern [bandwagon pressure]({{ 'bandwagon/' | relative_url }}). A trending label, bestseller badge, follower count, view total, star rating or “most shared” marker appears to describe what other people have already chosen. In practice, however, these metrics often do more than record popularity: they can help create it. When people use visible popularity as a shortcut for quality, credibility or relevance, early advantages can compound into self-reinforcing feedback loops. The result is a form of appeal-to-popularity reasoning in which what appears popular gains attention because it appears popular. Research on online markets, [social media]({{ 'social-media/' | relative_url }}) and recommendation systems repeatedly finds that visibility and popularity can interact in ways that magnify initial differences and make later outcomes less predictable than they seem. Princeton University <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
+Visible popularity signals are among the most powerful forms of modern [bandwagon pressure]({{ 'bandwagon/' | relative_url }}). A trending label, bestseller badge, follower count, view total, star rating or “most shared” marker appears to describe what other people have already chosen. In practice, however, these metrics often do more than record popularity: they can help create it. When people use visible popularity as a shortcut for quality, credibility or relevance, early advantages can compound into self-reinforcing feedback loops. The result is a form of appeal-to-popularity reasoning in which what appears popular gains attention because it appears popular. Research on online markets, [social media]({{ 'social-media/' | relative_url }}) and recommendation systems repeatedly finds that visibility and popularity can interact in ways that magnify initial differences and make later outcomes less predictable than they seem. Princeton University<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1-dark.svg" | relative_url }}" alt="Trending Loops illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Visible Metrics Feel Persuasive
@@ -277,7 +277,7 @@ Popularity metrics compress large amounts of social information into a single, e
 
 This shortcut is often useful. A product with thousands of reviews may genuinely have more evidence behind it than a product with none. A widely followed account may have earned its audience through expertise or entertainment value. The problem arises when the popularity signal quietly substitutes for independent evaluation.
 
-Online platforms make these signals unusually vivid. Users encounter precise numbers—likes, reposts, downloads, subscribers and ratings—rather than vague impressions. Studies of social media engagement metrics have found that high engagement counts increase perceived newsworthiness and encourage users to read and share content, even when the metrics themselves do not establish the content's accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Effect of Social Media Engagement Metrics in Risk</span><span class="citation-popover-snippet">Effect of Social Media Engagement Metrics in Risk...September 29, 2020 — Findings suggest that high engagement metrics show...</span><span class="citation-popover-meta">Published: September 29, 2020</span></span></span>
+Online platforms make these signals unusually vivid. Users encounter precise numbers—likes, reposts, downloads, subscribers and ratings—rather than vague impressions. Studies of social media engagement metrics have found that high engagement counts increase perceived newsworthiness and encourage users to read and share content, even when the metrics themselves do not establish the content's accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Effect of Social Media Engagement Metrics in Risk</span><span class="citation-popover-snippet">Effect of Social Media Engagement Metrics in Risk...September 29, 2020 — Findings suggest that high engagement metrics show...</span><span class="citation-popover-meta">Published: September 29, 2020</span></span></span>
 
 Trending indicators can therefore function as a persuasive cue before any substantive assessment occurs. The implicit message is not simply “many people noticed this” but often “many people noticed this, therefore it must be worth noticing”.
 
@@ -298,9 +298,9 @@ A typical loop works as follows:
 
 </div>
 
-This process resembles the “rich get richer” pattern known in sociology as cumulative advantage or the Matthew effect. Small early differences can grow into large gaps because attention itself becomes a resource that generates additional attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
+This process resembles the “rich get richer” pattern known in sociology as cumulative advantage or the Matthew effect. Small early differences can grow into large gaps because attention itself becomes a resource that generates additional attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
 
-The classic MusicLab experiments provide one of the clearest demonstrations. Researchers created artificial online music markets in which participants could download songs by unknown bands. In some versions, users could see how many previous participants had downloaded each song. When social influence was visible, success became more unequal and substantially less predictable. Songs that became popular in one experimental world often did not become popular in another, despite identical starting conditions. Visibility of previous choices amplified early advantages and helped shape later outcomes. Princeton University <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/research/papers/salganik2006a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[2Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Of (im)possible interestExperimental study of inequality and unpredictability in an...We investigated this paradox experimentally, by cr...</span></span></span>
+The classic MusicLab experiments provide one of the clearest demonstrations. Researchers created artificial online music markets in which participants could download songs by unknown bands. In some versions, users could see how many previous participants had downloaded each song. When social influence was visible, success became more unequal and substantially less predictable. Songs that became popular in one experimental world often did not become popular in another, despite identical starting conditions. Visibility of previous choices amplified early advantages and helped shape later outcomes. Princeton University<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/research/papers/salganik2006a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[2Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Of (im)possible interestExperimental study of inequality and unpredictability in an...We investigated this paradox experimentally, by cr...</span></span></span>
 
 For understanding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this finding is important because it shows that popularity can partly reflect previous popularity rather than independent evidence of superiority.
 
@@ -310,9 +310,9 @@ Trending systems are often presented as mirrors of public interest. Yet once use
 
 A trending topic receives additional exposure simply because it occupies a privileged position on a page or feed. Users who might otherwise have ignored it are more likely to click, discuss or share it. Those interactions then generate further evidence that the topic is important.
 
-This creates a self-fulfilling dynamic. The label “trending” is initially based on behaviour, but the label also changes behaviour. As a result, later popularity may reflect both genuine interest and the influence of the visibility mechanism itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
+This creates a self-fulfilling dynamic. The label “trending” is initially based on behaviour, but the label also changes behaviour. As a result, later popularity may reflect both genuine interest and the influence of the visibility mechanism itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
 
-Experimental research on ranked feeds suggests that placement alone affects attention. Identical content can receive significantly different levels of engagement depending on where it appears in a popularity-based ranking, even when users do not consciously recognise the influence of rank. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
+Experimental research on ranked feeds suggests that placement alone affects attention. Identical content can receive significantly different levels of engagement depending on where it appears in a popularity-based ranking, even when users do not consciously recognise the influence of rank.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
 
 From a logical perspective, this means that popularity metrics are not always independent evidence. Sometimes they are partly the outcome of previous popularity signals.
 
@@ -321,11 +321,11 @@ From a logical perspective, this means that popularity metrics are not always in
 
 One of the most persistent misunderstandings online is the assumption that highly visible content must be high-quality content.
 
-Platforms often optimise for engagement because engagement is measurable. Recommendation systems commonly use signals such as clicks, reactions, viewing time, comments and shares to determine what users see next. Major social-media ranking systems explicitly predict which content users are most likely to engage with and use those predictions to rank feeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.fb.com">[Engineering at Meta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.fb.com</span><span class="citation-popover-title">Engineering at Meta News Feed ranking, powered by machine learning</span><span class="citation-popover-snippet">Engineering at MetaNews Feed ranking, powered by machine learningJanuary 26, 2021 — 26 Jan 2021 — We are sharing new details of how we de...</span><span class="citation-popover-meta">Published: January 26, 2021</span></span></span>
+Platforms often optimise for engagement because engagement is measurable. Recommendation systems commonly use signals such as clicks, reactions, viewing time, comments and shares to determine what users see next. Major social-media ranking systems explicitly predict which content users are most likely to engage with and use those predictions to rank feeds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.fb.com">[Engineering at Meta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.fb.com</span><span class="citation-popover-title">Engineering at Meta News Feed ranking, powered by machine learning</span><span class="citation-popover-snippet">Engineering at MetaNews Feed ranking, powered by machine learningJanuary 26, 2021 — 26 Jan 2021 — We are sharing new details of how we de...</span><span class="citation-popover-meta">Published: January 26, 2021</span></span></span>
 
 The difficulty is that engagement and quality are not identical concepts.
 
-A post may attract attention because it is informative, but it may also attract attention because it is emotionally provocative, controversial, surprising or already popular. Internal reporting and external analyses of social-media ranking systems have documented cases where engagement-focused weighting increased the visibility of emotionally charged content because those interactions generated stronger user responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabMore internal documents show how Facebook&#x27;s algorithm...26 Oct 2021 — The ranking algorithm treated reactions such as “angry,”...</span></span></span>
+A post may attract attention because it is informative, but it may also attract attention because it is emotionally provocative, controversial, surprising or already popular. Internal reporting and external analyses of social-media ranking systems have documented cases where engagement-focused weighting increased the visibility of emotionally charged content because those interactions generated stronger user responses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabMore internal documents show how Facebook&#x27;s algorithm...26 Oct 2021 — The ranking algorithm treated reactions such as “angry,”...</span></span></span>
 
 When users interpret popularity as proof of truth, expertise or value, they risk committing a [bandwagon]({{ 'bandwagon/' | relative_url }})-style error. The metric may indicate that many people interacted with the content, but it does not automatically establish why they interacted with it.
 
@@ -348,7 +348,7 @@ The challenge is distinguishing informative signals from self-reinforcing ones.
 
 A bestseller badge may increase sales because it attracts attention. A highly rated item may receive more visibility in search results, leading to more purchases and more reviews. A creator with a large audience may gain opportunities unavailable to smaller competitors, making future growth easier regardless of relative quality.
 
-In these situations, popularity becomes both an outcome and a cause. The metric is no longer merely reporting collective judgement; it is helping to shape it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketingcourse.org">[MarketingCourse.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketingcourse.org</span><span class="citation-popover-title">Marketing Course.org The Psychology of Online Reviews and Ratings: Leveraging</span><span class="citation-popover-snippet">The Psychology of Online Reviews and Ratings: Leveraging...May 5, 2025 — 5 May 2025 — Online reviews and ratings serve as a potent form...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijfans.org">[2ijfans.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijfans.org</span><span class="citation-popover-snippet">analyzing the influence of social proof on online shoppingHerd behavior is amplified by algorithms on social media platforms, which push...</span></span></span>
+In these situations, popularity becomes both an outcome and a cause. The metric is no longer merely reporting collective judgement; it is helping to shape it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketingcourse.org">[MarketingCourse.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketingcourse.org</span><span class="citation-popover-title">Marketing Course.org The Psychology of Online Reviews and Ratings: Leveraging</span><span class="citation-popover-snippet">The Psychology of Online Reviews and Ratings: Leveraging...May 5, 2025 — 5 May 2025 — Online reviews and ratings serve as a potent form...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijfans.org">[2ijfans.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijfans.org</span><span class="citation-popover-snippet">analyzing the influence of social proof on online shoppingHerd behavior is amplified by algorithms on social media platforms, which push...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UGxGDdQnC1Y" title="Social Influence: Crash Course Psychology #38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer">Social Influence: Crash Course Psychology #38</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 3.1M &middot; Uploaded: November 2014 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UGxGDdQnC1Y">Open on YouTube</a></p></div></div></div>
 
@@ -364,7 +364,7 @@ Several interventions have been proposed or tested:
 * **Limiting popularity weighting.** Recommendation algorithms can avoid treating existing popularity as the dominant ranking factor.
 * **Providing [context]({{ 'context/' | relative_url }}) around metrics.** Explaining what a number actually measures can reduce mistaken inferences.
 
-Researchers studying recommendation systems and social-media ranking increasingly emphasise that platform outcomes emerge from interactions between algorithms and user behaviour rather than from either factor alone. This means implementation choices can strengthen or weaken feedback loops without eliminating popularity signals entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
+Researchers studying recommendation systems and social-media ranking increasingly emphasise that platform outcomes emerge from interactions between algorithms and user behaviour rather than from either factor alone. This means implementation choices can strengthen or weaken feedback loops without eliminating popularity signals entirely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-3-dark.svg" | relative_url }}" alt="Trending Loops illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Popularity Can and Cannot Tell Us
@@ -373,272 +373,272 @@ Popularity metrics are not inherently misleading. They often contain useful info
 
 A trending topic shows that many people are discussing something. A bestseller badge shows that many people bought something. A large follower count shows that many people chose to subscribe. None of these facts, by themselves, establish truth, quality, expertise or merit.
 
-Online feedback loops make this distinction especially important because visible popularity can partly generate the very popularity it appears to measure. In such environments, the strongest defence against bandwagon reasoning is to treat trending numbers as one piece of evidence among many rather than as a substitute for evaluating the underlying claim. Princeton University <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
+Online feedback loops make this distinction especially important because visible popularity can partly generate the very popularity it appears to measure. In such environments, the strongest defence against bandwagon reasoning is to treat trending numbers as one piece of evidence among many rather than as a substitute for evaluating the underlying claim. Princeton University<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Trending Numbers Create More Trending. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Trending Numbers Create More Trending. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By James Surowiecki</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
+</h4>
+<p class="fr-book-author">By James Surowiecki</p>
         
-        <p class="fr-book-desc">Examines collective judgment and crowd effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines collective judgment and crowd effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8dEkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
-        </h4>
-        <p class="fr-book-author">By Seth Stephens-Davidowitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8dEkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
+</h4>
+<p class="fr-book-author">By Seth Stephens-Davidowitz</p>
         
-        <p class="fr-book-desc">Shows how digital behavior and metrics shape perceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how digital behavior and metrics shape perceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Covers decision shortcuts and influence mechanisms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers decision shortcuts and influence mechanisms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains why popularity signals influence decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why popularity signals influence decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trending-loops-how-trending-numbers-create-more-trending-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -654,7 +654,7 @@ Online feedback loops make this distinction especially important because visible
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -674,7 +674,7 @@ Online feedback loops make this distinction especially important because visible
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -706,7 +706,7 @@ Online feedback loops make this distinction especially important because visible
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -736,7 +736,7 @@ Online feedback loops make this distinction especially important because visible
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -794,158 +794,158 @@ Online feedback loops make this distinction especially important because visible
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: princeton.edu  
-   Link: <a href="https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Princeton UniversityExperimental Study of Inequality and Unpredictability in an...September 14, 2006 — by MJ Salganik · Cited by 3018 —...</p></details>
+   Link:<a href="https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Princeton UniversityExperimental Study of Inequality and Unpredictability in an...September 14, 2006 — by MJ Salganik · Cited by 3018 —...</p></details>
    Published: September 14, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCQuantifying Social Influence in an Online Cultural Market  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 304 — Algorithmic mechanisms on digital media...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 304 — Algorithmic mechanisms on digital media...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Effect of Social Media Engagement Metrics in Risk  
-   Link: <a href="https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Social Media Engagement Metrics in Risk...September 29, 2020 — Findings suggest that high engagement metrics show...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Social Media Engagement Metrics in Risk...September 29, 2020 — Findings suggest that high engagement metrics show...</p></details>
    Published: September 29, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Matthew effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Matthew_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Matthew_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Matthew_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Matthew_effect</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Algorithmic amplification  
-   Link: <a href="https://en.wikipedia.org/wiki/Algorithmic_amplification" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Algorithmic_amplification</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Algorithmic_amplification" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Algorithmic_amplification</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.18440</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.18440</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</p></details>
    Published: September 22, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: marketingcourse.org  
    Title: Marketing Course.org The Psychology of Online Reviews and Ratings: Leveraging  
-   Link: <a href="https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/" target="_blank" rel="noopener noreferrer nofollow">https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Online Reviews and Ratings: Leveraging...May 5, 2025 — 5 May 2025 — Online reviews and ratings serve as a potent form...</p></details>
+   Link:<a href="https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/" target="_blank" rel="noopener noreferrer nofollow">https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Online Reviews and Ratings: Leveraging...May 5, 2025 — 5 May 2025 — Online reviews and ratings serve as a potent form...</p></details>
    Published: May 5, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ijfans.org  
-   Link: <a href="https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf</a>  
+   Link:<a href="https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2406.19571v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2406.19571v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reranking Social Media Feeds: A Practical Guide for Field...27 Jun 2024 — This article offers practical recommendations to researchers d...</p></details>
+   Link:<a href="https://arxiv.org/html/2406.19571v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2406.19571v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reranking Social Media Feeds: A Practical Guide for Field...27 Jun 2024 — This article offers practical recommendations to researchers d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/51372761_Experimental_Study_of_Inequality_and_Unpredictability_in_an_Artificial_Cultural_Market" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51372761_Experimental_Study_of_Inequality_and_Unpredictability_in_an_Artificial_Cultural_Market</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Study of Inequality and Unpredictability in an...29 Apr 2026 — We investigated this paradox experimentally, by creating an...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/51372761_Experimental_Study_of_Inequality_and_Unpredictability_in_an_Artificial_Cultural_Market" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51372761_Experimental_Study_of_Inequality_and_Unpredictability_in_an_Artificial_Cultural_Market</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Study of Inequality and Unpredictability in an...29 Apr 2026 — We investigated this paradox experimentally, by creating an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scholarsbank.uoregon.edu  
-   Link: <a href="https://scholarsbank.uoregon.edu/bitstreams/40b3225a-bdc0-4b20-b5c6-dcedc112ae88/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarsbank.uoregon.edu/bitstreams/40b3225a-bdc0-4b20-b5c6-dcedc112ae88/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholars&#x27; BankEXPLORING THE EFFECT OF SOCIAL MEDIA POPULARITY...by E WALDRON · 2022 · Cited by 1 — These findings confirm that indicator...</p></details>
+   Link:<a href="https://scholarsbank.uoregon.edu/bitstreams/40b3225a-bdc0-4b20-b5c6-dcedc112ae88/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarsbank.uoregon.edu/bitstreams/40b3225a-bdc0-4b20-b5c6-dcedc112ae88/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scholars&#x27; BankEXPLORING THE EFFECT OF SOCIAL MEDIA POPULARITY...by E WALDRON · 2022 · Cited by 1 — These findings confirm that indicator...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pdodds.w3.uvm.edu  
-   Link: <a href="https://pdodds.w3.uvm.edu/research/papers/salganik2006a/" target="_blank" rel="noopener noreferrer nofollow">https://pdodds.w3.uvm.edu/research/papers/salganik2006a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Of (im)possible interestExperimental study of inequality and unpredictability in an...We investigated this paradox experimentally, by cr...</p></details>
+   Link:<a href="https://pdodds.w3.uvm.edu/research/papers/salganik2006a/" target="_blank" rel="noopener noreferrer nofollow">https://pdodds.w3.uvm.edu/research/papers/salganik2006a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Of (im)possible interestExperimental study of inequality and unpredictability in an...We investigated this paradox experimentally, by cr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: engineering.fb.com  
    Title: Engineering at Meta News Feed ranking, powered by machine learning  
-   Link: <a href="https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/" target="_blank" rel="noopener noreferrer nofollow">https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering at MetaNews Feed ranking, powered by machine learningJanuary 26, 2021 — 26 Jan 2021 — We are sharing new details of how we de...</p></details>
+   Link:<a href="https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/" target="_blank" rel="noopener noreferrer nofollow">https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering at MetaNews Feed ranking, powered by machine learningJanuary 26, 2021 — 26 Jan 2021 — We are sharing new details of how we de...</p></details>
    Published: January 26, 2021  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tech.facebook.com  
-   Link: <a href="https://tech.facebook.com/engineering/2021/1/news-feed-ranking/" target="_blank" rel="noopener noreferrer nofollow">https://tech.facebook.com/engineering/2021/1/news-feed-ranking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ting what you&#x27;re most likely to be interested in or engage with.Read more...</p></details>
+   Link:<a href="https://tech.facebook.com/engineering/2021/1/news-feed-ranking/" target="_blank" rel="noopener noreferrer nofollow">https://tech.facebook.com/engineering/2021/1/news-feed-ranking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ting what you&#x27;re most likely to be interested in or engage with.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabMore internal documents show how Facebook&#x27;s algorithm...26 Oct 2021 — The ranking algorithm treated reactions such as “angry,”...</p></details>
+   Link:<a href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabMore internal documents show how Facebook&#x27;s algorithm...26 Oct 2021 — The ranking algorithm treated reactions such as “angry,”...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: These algorithms determine how content is filtered,  
-   Link: <a href="https://www.facebook.com/groups/TheMovmentofyork/posts/8173845212645904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TheMovmentofyork/posts/8173845212645904/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How social media algorithms influence user content visibilityIn social media, algorithms are rules, signals and data that govern the plat...</p></details>
+   Link:<a href="https://www.facebook.com/groups/TheMovmentofyork/posts/8173845212645904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TheMovmentofyork/posts/8173845212645904/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How social media algorithms influence user content visibilityIn social media, algorithms are rules, signals and data that govern the plat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: socialinsilico.wordpress.com  
    Title: music lab  
-   Link: <a href="https://socialinsilico.wordpress.com/tag/music-lab/" target="_blank" rel="noopener noreferrer nofollow">https://socialinsilico.wordpress.com/tag/music-lab/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lab | Social in silico20 Jan 2014 — So social influence increases not just inequality in decision making (“the rich get richer”), but als...</p></details>
+   Link:<a href="https://socialinsilico.wordpress.com/tag/music-lab/" target="_blank" rel="noopener noreferrer nofollow">https://socialinsilico.wordpress.com/tag/music-lab/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lab | Social in silico20 Jan 2014 — So social influence increases not just inequality in decision making (“the rich get richer”), but als...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: karishma-agr1996.medium.com  
-   Link: <a href="https://karishma-agr1996.medium.com/how-feed-ranking-algorithms-work-the-hidden-system-design-behind-personalized-feeds-4cd243fbd772" target="_blank" rel="noopener noreferrer nofollow">https://karishma-agr1996.medium.com/how-feed-ranking-algorithms-work-the-hidden-system-design-behind-personalized-feeds-4cd243fbd772</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feed Ranking Algorithms Work: The Hidden System...Meta&#x27;s News Feed Ranking model uses multi-task learning — predicting likes, shares, co...</p></details>
+   Link:<a href="https://karishma-agr1996.medium.com/how-feed-ranking-algorithms-work-the-hidden-system-design-behind-personalized-feeds-4cd243fbd772" target="_blank" rel="noopener noreferrer nofollow">https://karishma-agr1996.medium.com/how-feed-ranking-algorithms-work-the-hidden-system-design-behind-personalized-feeds-4cd243fbd772</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feed Ranking Algorithms Work: The Hidden System...Meta&#x27;s News Feed Ranking model uses multi-task learning — predicting likes, shares, co...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: conversion-uplift.co.uk  
-   Link: <a href="https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/" target="_blank" rel="noopener noreferrer nofollow">https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bandwagon Effect and Why People Follow the CrowdThe bandwagon effect is a psychological tendency where the adoption of ideas, product...</p></details>
+   Link:<a href="https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/" target="_blank" rel="noopener noreferrer nofollow">https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bandwagon Effect and Why People Follow the CrowdThe bandwagon effect is a psychological tendency where the adoption of ideas, product...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: renascence.io  
    Title: bandwagon effect leveraging [social proof](&#123;&#123; 'social-proof/' | relative_url &#125;&#125;) in customer experience  
-   Link: <a href="https://www.renascence.io/journal/bandwagon-effect-leveraging-social-proof-in-customer-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.renascence.io/journal/bandwagon-effect-leveraging-social-proof-in-customer-experience</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bandwagon Effect: Leveraging Social Proof in Customer...1 Aug 2024 — The Bandwagon Effect is the tendency for people to align their beli...</p></details>
+   Link:<a href="https://www.renascence.io/journal/bandwagon-effect-leveraging-social-proof-in-customer-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.renascence.io/journal/bandwagon-effect-leveraging-social-proof-in-customer-experience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bandwagon Effect: Leveraging Social Proof in Customer...1 Aug 2024 — The Bandwagon Effect is the tendency for people to align their beli...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Experimental-Study-of-Inequality-and-in-an-Cultural-Salganik-Dodds/982670ad8463c69eabc745a62aca170d255d0ee0" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Experimental-Study-of-Inequality-and-in-an-Cultural-Salganik-Dodds/982670ad8463c69eabc745a62aca170d255d0ee0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>loaded previously unknown songs either with or without knowledge of previous...Read more...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Experimental-Study-of-Inequality-and-in-an-Cultural-Salganik-Dodds/982670ad8463c69eabc745a62aca170d255d0ee0" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Experimental-Study-of-Inequality-and-in-an-Cultural-Salganik-Dodds/982670ad8463c69eabc745a62aca170d255d0ee0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>loaded previously unknown songs either with or without knowledge of previous...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ifo.de  
    Title: Institut CESifo Working Paper No  
-   Link: <a href="https://www.ifo.de/DocDL/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/cesifo1_wp10011.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10011by F Germano · Cited by 16 — This paper investigates the dy- namic feedback loop between recommendation algorithms and user behavior...</p></details>
+   Link:<a href="https://www.ifo.de/DocDL/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/cesifo1_wp10011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10011by F Germano · Cited by 16 — This paper investigates the dy- namic feedback loop between recommendation algorithms and user behavior...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: smartinsights.com  
    Title: new global social media research  
-   Link: <a href="https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global social media statistics research summary14 Feb 2025 — Our compilation of the latest social media statistics of consumer adoption a...</p></details>
+   Link:<a href="https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global social media statistics research summary14 Feb 2025 — Our compilation of the latest social media statistics of consumer adoption a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sfieducation.s3.amazonaws.com  
    Title: Salganik etal Science2006  
-   Link: <a href="https://sfieducation.s3.amazonaws.com/2022%2BComplexity-GAINs/readings/Salganik_etal_Science2006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sfieducation.s3.amazonaws.com/2022%2BComplexity-GAINs/readings/Salganik_etal_Science2006.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Study of Inequality and Unpredictability in an...by MJ Salganik · Cited by 3012 — We investigated this paradox experimental...</p></details>
+   Link:<a href="https://sfieducation.s3.amazonaws.com/2022%2BComplexity-GAINs/readings/Salganik_etal_Science2006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sfieducation.s3.amazonaws.com/2022%2BComplexity-GAINs/readings/Salganik_etal_Science2006.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Study of Inequality and Unpredictability in an...by MJ Salganik · Cited by 3012 — We investigated this paradox experimental...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10864415.2025.2556645" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10864415.2025.2556645</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Streamer&#x27;s Halo and Viewer&#x27;s Bandwagon...by R Yun · 2025 — The bandwagon effect refers to the tendency for individuals...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10864415.2025.2556645" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10864415.2025.2556645</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Streamer&#x27;s Halo and Viewer&#x27;s Bandwagon...by R Yun · 2025 — The bandwagon effect refers to the tendency for individuals...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Real‐Time Engagement in Shaping Social Media...by X Lu · 2025 · Cited by 12 — This study addresses these critical gaps by integr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Real‐Time Engagement in Shaping Social Media...by X Lu · 2025 · Cited by 12 — This study addresses these critical gaps by integr...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mattgroh.com  
-   Link: <a href="https://mattgroh.com/pdfs/ganimals2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mattgroh.com/pdfs/ganimals2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social influence leads to the formation of diverse local trends17 Aug 2021 — The Music Lab inspired a generation of experiments in artifi...</p></details>
+   Link:<a href="https://mattgroh.com/pdfs/ganimals2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mattgroh.com/pdfs/ganimals2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social influence leads to the formation of diverse local trends17 Aug 2021 — The Music Lab inspired a generation of experiments in artifi...</p></details>

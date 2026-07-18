@@ -504,13 +504,13 @@ image: /assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-overv
 Popular remedies do not prove themselves merely by being widely used, warmly recommended, or not yet disproved. In consumer health claims, the same reasoning mistakes appear again and again: a neighbour’s recovery is treated as a clinical test, sales figures are treated as proof, and the absence of a public refutation is treated as permission to believe. These are familiar [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) in a health setting: anecdotal reasoning, appeal to popularity, appeal to [tradition]({{ 'tradition/' | relative_url }}), false cause, and shifting the burden of proof.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-overview.webp" | relative_url }}" alt="Overview image for Remedies" loading="eager" decoding="sync" fetchpriority="high">
-This matters because health decisions carry stakes that ordinary consumer choices do not. A harmless-seeming tea, supplement, device, detox plan, or “natural” cure may waste money, delay effective care, interact with medication, or encourage false hope. Regulators such as the US Food and Drug Administration and Federal Trade Commission repeatedly warn that health fraud often relies on miracle-cure language, [testimonials]({{ 'testimonials/' | relative_url }}), “ancient remedy” appeals, conspiracy claims, and scientific-sounding jargon without adequate evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+This matters because health decisions carry stakes that ordinary consumer choices do not. A harmless-seeming tea, supplement, device, detox plan, or “natural” cure may waste money, delay effective care, interact with medication, or encourage false hope. Regulators such as the US Food and Drug Administration and Federal Trade Commission repeatedly warn that health fraud often relies on miracle-cure language, [testimonials]({{ 'testimonials/' | relative_url }}), “ancient remedy” appeals, conspiracy claims, and scientific-sounding jargon without adequate evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 ## Why Anecdotes Feel Persuasive but Prove Little
 
 Anecdotes are powerful because they are human-sized. “I took this and felt better” is easier to grasp than a trial protocol, a confidence interval, or a systematic review. The logical problem is not that the person is lying. The problem is that a single [experience]({{ 'experience/' | relative_url }}) cannot usually separate the remedy from all the other reasons someone might improve.
 
-Many symptoms naturally rise and fall. Back pain, fatigue, headaches, irritable bowel symptoms, anxiety, colds, rashes, and digestive complaints often fluctuate over time. People tend to try a remedy when symptoms are especially bad; if symptoms later move back towards their usual level, the improvement may be credited to whatever was taken. This is one reason researchers distinguish the placebo effect from spontaneous improvement, [regression]({{ 'regression/' | relative_url }}) to the mean, changing behaviour, ordinary recovery, and reporting bias. Cochrane’s review of placebo interventions found no major health benefits overall, although placebos can have modest effects on patient-reported outcomes such as pain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">CD003974 placebo interventions all clinical conditions</span><span class="citation-popover-snippet">Placebo interventions for all clinical conditions1 May 2022 — We studied the effect of placebo treatments by reviewing 202 trials...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Many symptoms naturally rise and fall. Back pain, fatigue, headaches, irritable bowel symptoms, anxiety, colds, rashes, and digestive complaints often fluctuate over time. People tend to try a remedy when symptoms are especially bad; if symptoms later move back towards their usual level, the improvement may be credited to whatever was taken. This is one reason researchers distinguish the placebo effect from spontaneous improvement, [regression]({{ 'regression/' | relative_url }}) to the mean, changing behaviour, ordinary recovery, and reporting bias. Cochrane’s review of placebo interventions found no major health benefits overall, although placebos can have modest effects on patient-reported outcomes such as pain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">CD003974 placebo interventions all clinical conditions</span><span class="citation-popover-snippet">Placebo interventions for all clinical conditions1 May 2022 — We studied the effect of placebo treatments by reviewing 202 trials...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 Anecdotes also suffer from selective visibility. People who improve are more likely to post reviews, tell friends, or appear in advertising. People who do not improve may simply stop talking about it, blame themselves, or move on to the next remedy. This creates a distorted public record in which success stories are easy to find and failures are scattered, silent, or undocumented.
 
@@ -535,15 +535,15 @@ Many consumer remedies lean on popularity: “millions use it”, “trusted for
 
 This is the appeal to popularity: the argument that a claim is true because many people believe it or act on it. In health markets, the fallacy is especially tempting because popularity can look like a rough form of collective testing. If thousands of people buy a supplement and it remains on shelves, it may feel as though the public has already validated it. But consumer markets can reward hope, clever branding, availability, influencer promotion, distrust of institutions, low price, and fear of conventional treatments as easily as they reward genuine effectiveness.
 
-Regulators have long identified repeated patterns in health-fraud marketing. The FTC’s “Operation Cure.All” warned consumers about products advertised as quick cures for many conditions, promoted with phrases such as “scientific breakthrough”, “miraculous cure”, “secret ingredient”, or “ancient remedy”, and wrapped in impressive-sounding medical language. The agency also noted conspiracy claims that doctors, scientists, or government bodies were supposedly suppressing the product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+Regulators have long identified repeated patterns in health-fraud marketing. The FTC’s “Operation Cure.All” warned consumers about products advertised as quick cures for many conditions, promoted with phrases such as “scientific breakthrough”, “miraculous cure”, “secret ingredient”, or “ancient remedy”, and wrapped in impressive-sounding medical language. The agency also noted conspiracy claims that doctors, scientists, or government bodies were supposedly suppressing the product.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
-The FDA’s health fraud database shows why popularity is an unreliable filter. It lists unapproved products cited in warning letters, recalls, public notifications, and other actions for problems ranging from disease-treatment claims to undeclared ingredients. In other words, products can be visible, marketed, and purchased before their claims are adequately supported or their risks are fully understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
+The FDA’s health fraud database shows why popularity is an unreliable filter. It lists unapproved products cited in warning letters, recalls, public notifications, and other actions for problems ranging from disease-treatment claims to undeclared ingredients. In other words, products can be visible, marketed, and purchased before their claims are adequately supported or their risks are fully understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
 
 ## “Natural” and “Traditional” Can Be Relevant Without Being Decisive
 
 “Natural” is one of the most [persuasive words]({{ 'persuasive-words/' | relative_url }}) in consumer health marketing because it suggests gentleness, purity, and safety. The fallacy occurs when “natural” is treated as a substitute for evidence. Some natural substances are useful; others are inert, contaminated, variable in strength, or harmful. Some interact with medicines in ways that matter clinically.
 
-St John’s wort is a useful example because it is not simply a cartoonish fake remedy. It has been studied for depression, and some evidence suggests possible benefit for certain depressive symptoms. Yet the safety story is more complicated than the popularity story. The National Center for Complementary and Integrative Health warns that St John’s wort can weaken the effects of many medicines, including some antidepressants, birth-control pills, cyclosporine used after organ transplants, and drugs used for HIV and other conditions. The FDA likewise warns that combining supplements and medicines can produce dangerous or even life-threatening effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/st-johns-wort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+St John’s wort is a useful example because it is not simply a cartoonish fake remedy. It has been studied for depression, and some evidence suggests possible benefit for certain depressive symptoms. Yet the safety story is more complicated than the popularity story. The National Center for Complementary and Integrative Health warns that St John’s wort can weaken the effects of many medicines, including some antidepressants, birth-control pills, cyclosporine used after organ transplants, and drugs used for HIV and other conditions. The FDA likewise warns that combining supplements and medicines can produce dangerous or even life-threatening effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/st-johns-wort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 That example shows the right distinction. A remedy’s origin may help explain why people use it, but it does not answer the central health questions: What is in the product? At what dose? For which condition? Compared with what? In which population? With what risks? Under what quality controls? “Traditional” may mean a long history of use, but a long history is not the same thing as a well-controlled comparison.
 
@@ -557,7 +557,7 @@ A common defence of popular remedies is: “You cannot prove it does not work.�
 
 For low-risk, vague wellbeing claims, uncertainty may be tolerable. A person may reasonably say that a practice helps them relax, sleep, or feel more in control, while recognising that this is a personal experience rather than a disease-treatment claim. The evidential bar rises sharply when sellers claim that a product treats cancer, prevents infection, reverses chronic disease, detoxifies organs, or replaces established care.
 
-The FTC’s health products guidance says health-related advertising claims should be truthful, not misleading, and supported by science. It explains that, for many health claims, competent and reliable scientific evidence will generally mean randomised, controlled human clinical testing, assessed by factors such as sample size, duration, controls, outcome measures, and fit between the evidence and the advertised claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+The FTC’s health products guidance says health-related advertising claims should be truthful, not misleading, and supported by science. It explains that, for many health claims, competent and reliable scientific evidence will generally mean randomised, controlled human clinical testing, assessed by factors such as sample size, duration, controls, outcome measures, and fit between the evidence and the advertised claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 This matters because “not disproved” can cover very different situations. A claim may be untested, poorly tested, tested only in cells or animals, supported by small uncontrolled studies, contradicted by larger trials, or plausible for one outcome but not another. A responsible argument does not flatten all of these into “science has not ruled it out”.
 
@@ -567,28 +567,28 @@ Good testing does not remove all uncertainty, but it reduces the specific errors
 
 The key value is comparison. A person who improves after taking a remedy tells us that improvement happened after use. A controlled study asks whether similar people improved more than they would have with a placebo, usual care, another treatment, or no intervention. That distinction is the difference between “something happened” and “this probably made the difference”.
 
-Systematic reviews are especially important because individual studies can be small, badly designed, selectively reported, or contradicted by later work. Cochrane describes systematic reviews as using explicit, systematic methods to minimise bias and inform decisions about health and social care. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 1</span><span class="citation-popover-snippet">Chapter 1</span></span></span>
+Systematic reviews are especially important because individual studies can be small, badly designed, selectively reported, or contradicted by later work. Cochrane describes systematic reviews as using explicit, systematic methods to minimise bias and inform decisions about health and social care.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 1</span><span class="citation-popover-snippet">Chapter 1</span></span></span>
 
-Homeopathy illustrates why this matters. It remains popular with some consumers and practitioners, and its supporters often point to individual favourable studies or personal experience. But major evidence reviews and policy assessments have concluded that the clinical evidence does not show homeopathic products performing better than placebo. A UK House of Commons Science and Technology Committee report stated that systematic reviews and meta-analyses demonstrate that homeopathic products perform no better than placebos; NHS England’s review similarly referred to no clear evidence of superiority over placebo in the conditions examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Commons</span><span class="citation-popover-snippet">UK Parliament House of Commons</span></span></span>
+Homeopathy illustrates why this matters. It remains popular with some consumers and practitioners, and its supporters often point to individual favourable studies or personal experience. But major evidence reviews and policy assessments have concluded that the clinical evidence does not show homeopathic products performing better than placebo. A UK House of Commons Science and Technology Committee report stated that systematic reviews and meta-analyses demonstrate that homeopathic products perform no better than placebos; NHS England’s review similarly referred to no clear evidence of superiority over placebo in the conditions examined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Commons</span><span class="citation-popover-snippet">UK Parliament House of Commons</span></span></span>
 
 The logical lesson is not “no popular remedy ever works”. It is that popularity does not settle the question. Testing can confirm some claims, narrow others, expose harms, or show that a remedy’s reputation has outrun its evidence.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-2-dark.svg" | relative_url }}" alt="Remedies illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case Patterns Readers Can Recognise
 
-Consumer health claims vary widely, but the weak arguments often have a familiar shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Consumer health claims vary widely, but the weak arguments often have a familiar shape.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**The miracle-cure bundle.** One product is promoted for many unrelated conditions: pain, infection, cancer, diabetes, weight loss, immune support, ageing, and mood. This is a warning sign because different conditions usually have different [mechanisms]({{ 'mechanisms/' | relative_url }}), treatments, risks, and outcome measures. Regulators repeatedly identify broad cure-all claims as a hallmark of health fraud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+**The miracle-cure bundle.** One product is promoted for many unrelated conditions: pain, infection, cancer, diabetes, weight loss, immune support, ageing, and mood. This is a warning sign because different conditions usually have different [mechanisms]({{ 'mechanisms/' | relative_url }}), treatments, risks, and outcome measures. Regulators repeatedly identify broad cure-all claims as a hallmark of health fraud.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 **The testimonial wall.** A site displays pages of personal stories but no serious trial evidence. Testimonials may show what users believe happened, but they cannot establish how many people tried the remedy, how many failed to improve, what else they were doing, whether diagnoses were accurate, or whether benefits persisted.
 
 **The ancient-secret appeal.** A product is presented as powerful because it is old, suppressed, or rediscovered. Tradition may justify respectful investigation; it does not bypass testing. The “ancient remedy” framing often works by turning lack of modern evidence into a marketing advantage.
 
-**The natural-safety leap.** A supplement is assumed safe because it is plant-based or available without prescription. St John’s wort shows why that is unsafe reasoning: a remedy can be natural, widely available, and still interact with important medicines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHColloidal Silver: What You Need To Know</span><span class="citation-popover-snippet">NCCIHColloidal Silver: What You Need To Know</span></span></span>
+**The natural-safety leap.** A supplement is assumed safe because it is plant-based or available without prescription. St John’s wort shows why that is unsafe reasoning: a remedy can be natural, widely available, and still interact with important medicines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHColloidal Silver: What You Need To Know</span><span class="citation-popover-snippet">NCCIHColloidal Silver: What You Need To Know</span></span></span>
 
 **The lab-study leap.** A substance affects cells, bacteria, inflammation markers, or viruses in a laboratory, and marketing implies it will treat disease in humans. Lab findings can be scientifically useful, but they do not automatically establish safe, effective dosing in real people.
 
-**The popularity shield.** Criticism is dismissed with “so many people use it” or “it would not be sold if it did not work”. The FDA’s health fraud actions show that products can be sold and promoted despite unapproved, unsubstantiated, or misleading health claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
+**The popularity shield.** Criticism is dismissed with “so many people use it” or “it would not be sold if it did not work”. The FDA’s health fraud actions show that products can be sold and promoted despite unapproved, unsubstantiated, or misleading health claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n64Xgr6VDYQ" title="Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer">Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy.</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 8.6K &middot; Uploaded: January 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n64Xgr6VDYQ">Open on YouTube</a></p></div></div></div>
 
@@ -602,7 +602,7 @@ Some remedies may be **promising but unproven**. Early studies, plausible mechan
 
 Some products may be **effective for narrow uses but oversold for broad ones**. A substance may have evidence for one condition, one dose, or one population, while marketing expands it to unrelated problems. This is common in wellness advertising, where a small kernel of evidence can be stretched into a much larger claim.
 
-Some remedies may be **unsafe or actively misleading**. Colloidal silver is a clear example. NCCIH says evidence for health-related claims is lacking and warns that it can cause serious side effects; Mayo Clinic states that taking colloidal silver by mouth is not considered safe or effective for the health claims many manufacturers make. The problem is not merely that the evidence is weak, but that risk and benefit are badly mismatched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Some remedies may be **unsafe or actively misleading**. Colloidal silver is a clear example. NCCIH says evidence for health-related claims is lacking and warns that it can cause serious side effects; Mayo Clinic states that taking colloidal silver by mouth is not considered safe or effective for the health claims many manufacturers make. The problem is not merely that the evidence is weak, but that risk and benefit are badly mismatched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KsPlwKbGxE8" title="Health Fraud Scams -- Be Smart, Be Aware, Be Careful Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KsPlwKbGxE8" target="_blank" rel="noopener noreferrer">Health Fraud Scams -- Be Smart, Be Aware, Be Careful Video</a></p><p class="youtube-embed-meta">Channel: U.S. Food and Drug Administration &middot; Views: 146.2K &middot; Uploaded: March 2011 &middot; Length: 3 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KsPlwKbGxE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KsPlwKbGxE8">Open on YouTube</a></p></div></div></div>
 
@@ -617,7 +617,7 @@ Good questions include:
 3. **Compared with what?** Improvement matters only when compared with placebo, usual care, no treatment, or an established alternative.
 4. **What outcome was measured?** Feeling better, changing a lab marker, reducing hospitalisation, and improving survival are very different claims.
 5. **Who was studied?** Evidence in healthy adults may not apply to children, pregnant people, older adults, people with chronic illness, or those taking multiple medicines.
-6. **What harms and [interactions]({{ 'interactions/' | relative_url }}) are known?** Supplements and remedies can interact with prescription and over-the-counter medicines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
+6. **What harms and [interactions]({{ 'interactions/' | relative_url }}) are known?** Supplements and remedies can interact with prescription and over-the-counter medicines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
 7. **Who benefits financially?** A seller’s claim needs more scrutiny than a neutral evidence review.
 8. **Is criticism answered with evidence or suspicion?** Conspiracy framing can make a claim unfalsifiable: every lack of proof becomes part of the alleged cover-up.
 
@@ -631,269 +631,269 @@ Consumer health claims are a concentrated lesson in everyday fallacies because t
 The sounder argument is narrower and more careful: define the claim, match it to the right kind of evidence, compare outcomes fairly, look for harms, and adjust confidence to the quality of testing. That is what good reasoning adds to health decisions. It does not promise certainty. It helps prevent the most persuasive story from being mistaken for the best-supported one.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Popular Remedies Prove Themselves?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Popular Remedies Prove Themselves?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly addresses health claims, anecdotes, and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses health claims, anecdotes, and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims and pseudoscience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims and pseudoscience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why anecdotes and intuition can overwhelm evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why anecdotes and intuition can overwhelm evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Helps readers assess medical and health data claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess medical and health data claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/0ff56561933ecc767077.jpg' | relative_url }}" alt="Listing image for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/0ff56561933ecc767077.jpg' | relative_url }}" alt="Listing image for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remedies-do-popular-remedies-prove-themselves-logical-fallacies-medical-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -909,7 +909,7 @@ The sounder argument is narrower and more careful: define the claim, match it to
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -929,7 +929,7 @@ The sounder argument is narrower and more careful: define the claim, match it to
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -961,7 +961,7 @@ The sounder argument is narrower and more careful: define the claim, match it to
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -991,7 +991,7 @@ The sounder argument is narrower and more careful: define the claim, match it to
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1049,207 +1049,207 @@ The sounder argument is narrower and more careful: define the claim, match it to
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ftc.gov  
    Title: operation cureall targets internet health fraud  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&quot;Operation Cure.all&quot; Targets Internet Health Fraud24 Jun 1999 — &quot;Operation Cure.all&quot; Targets Internet Health Frau...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&quot;Operation Cure.all&quot; Targets Internet Health Fraud24 Jun 1999 — &quot;Operation Cure.all&quot; Targets Internet Health Frau...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cochrane.org  
    Title: CD003974 placebo interventions all clinical conditions  
-   Link: <a href="https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Placebo interventions for all clinical conditions1 May 2022 — We studied the effect of placebo treatments by reviewing 202 trials...</p></details>
+   Link:<a href="https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Placebo interventions for all clinical conditions1 May 2022 — We studied the effect of placebo treatments by reviewing 202 trials...</p></details>
    Published: May 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ftc.gov  
    Title: hits internet health fraud continuation operation cureall  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall</a>  
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fda.gov  
    Title: 2024 warning letters health fraud  
-   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/2024-warning-letters-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/2024-warning-letters-health-fraud</a>  
+   Link:<a href="https://www.fda.gov/consumers/health-fraud-scams/2024-warning-letters-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/2024-warning-letters-health-fraud</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/health/st-johns-wort" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/st-johns-wort</a>  
+   Link:<a href="https://www.nccih.nih.gov/health/st-johns-wort" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/st-johns-wort</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fda.gov  
    Title: mixing medications and dietary supplements can endanger your health  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health</a>  
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cochrane.org  
    Title: Chapter 1  
-   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0</a>  
+   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament House of Commons  
-   Link: <a href="https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: england.nhs.uk  
    Title: sps homeopathy  
-   Link: <a href="https://www.england.nhs.uk/wp-content/uploads/2017/11/sps-homeopathy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/wp-content/uploads/2017/11/sps-homeopathy.pdf</a>  
+   Link:<a href="https://www.england.nhs.uk/wp-content/uploads/2017/11/sps-homeopathy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/wp-content/uploads/2017/11/sps-homeopathy.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: consumer.ftc.gov  
    Title: Consumer Advice Anatomy of a Cancer Treatment Scam  
-   Link: <a href="https://consumer.ftc.gov/media/79879" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/media/79879</a>  
+   Link:<a href="https://consumer.ftc.gov/media/79879" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/media/79879</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nccih.nih.gov  
    Title: NCCIHColloidal Silver: What You Need To Know  
-   Link: <a href="https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know</a>  
+   Link:<a href="https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/</a>  
+   Link:<a href="https://www.fda.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fda.gov  
    Title: 6 tip offs rip offs dont fall health fraud scams  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams</a>  
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fda.gov  
    Title: Health Fraud Scams  
-   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video</a>  
+   Link:<a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
+   Link:<a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ftc.gov  
    Title: operation cureall wages new battle ongoing war against internet health fraud  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2001/06/operation-cureall-wages-new-battle-ongoing-war-against-internet-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2001/06/operation-cureall-wages-new-battle-ongoing-war-against-internet-health-fraud</a>  
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2001/06/operation-cureall-wages-new-battle-ongoing-war-against-internet-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2001/06/operation-cureall-wages-new-battle-ongoing-war-against-internet-health-fraud</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/health-claims</a>  
+   Link:<a href="https://www.ftc.gov/news-events/topics/truth-advertising/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/health-claims</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/blog/term/1409" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/term/1409</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/blog/term/1409" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/term/1409</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/features/coronavirus/enforcement/warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/features/coronavirus/enforcement/warning-letters</a>  
+   Link:<a href="https://www.ftc.gov/news-events/features/coronavirus/enforcement/warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/features/coronavirus/enforcement/warning-letters</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cochrane.org  
    Title: Chapter I  
-   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v6.3" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v6.3</a>  
+   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v6.3" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v6.3</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cochrane.org  
    Title: CD015017 ivermectin preventing and treating covid 19  
-   Link: <a href="https://www.cochrane.org/evidence/CD015017_ivermectin-preventing-and-treating-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD015017_ivermectin-preventing-and-treating-covid-19</a>  
+   Link:<a href="https://www.cochrane.org/evidence/CD015017_ivermectin-preventing-and-treating-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD015017_ivermectin-preventing-and-treating-covid-19</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cochrane.org  
    Title: ivermectin preventing and treating covid 19  
-   Link: <a href="https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19</a>  
+   Link:<a href="https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cochrane.org  
    Title: ivermectin preventing and treating covid 19 0  
-   Link: <a href="https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19-0</a>  
+   Link:<a href="https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/</a>  
+   Link:<a href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nccih.nih.gov  
    Title: complementary alternative or integrative health whats in a name  
-   Link: <a href="https://www.nccih.nih.gov/health/complementary-alternative-or-integrative-health-whats-in-a-name" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/complementary-alternative-or-integrative-health-whats-in-a-name</a>  
+   Link:<a href="https://www.nccih.nih.gov/health/complementary-alternative-or-integrative-health-whats-in-a-name" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/complementary-alternative-or-integrative-health-whats-in-a-name</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nccih.nih.gov  
    Title: know the science of complementary health approaches  
-   Link: <a href="https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches</a>  
+   Link:<a href="https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/training/videolectures/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/training/videolectures/14/1</a>  
+   Link:<a href="https://www.nccih.nih.gov/training/videolectures/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/training/videolectures/14/1</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Food and Drug Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/Food_and_Drug_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Food_and_Drug_Administration</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Food_and_Drug_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Food_and_Drug_Administration</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: mskcc.org  
    Title: colloidal silver  
-   Link: <a href="https://www.mskcc.org/cancer-care/integrative-medicine/herbs/colloidal-silver" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/cancer-care/integrative-medicine/herbs/colloidal-silver</a>  
+   Link:<a href="https://www.mskcc.org/cancer-care/integrative-medicine/herbs/colloidal-silver" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/cancer-care/integrative-medicine/herbs/colloidal-silver</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: courses.lumenlearning.com  
    Title: health fraud  
-   Link: <a href="https://courses.lumenlearning.com/suny-monroecc-hed110/chapter/health-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-monroecc-hed110/chapter/health-fraud/</a>  
+   Link:<a href="https://courses.lumenlearning.com/suny-monroecc-hed110/chapter/health-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-monroecc-hed110/chapter/health-fraud/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n64Xgr6VDYQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Oz Exposes Supplement Scams: What You Need to Know! | Dr. Oz | S6 | Ep 161 | Full Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n64Xgr6VDYQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Oz Exposes Supplement Scams: What You Need to Know! | Dr. Oz | S6 | Ep 161 | Full Episode...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Logic of the Herbalist Tricking Sick People  
-   Link: <a href="https://www.youtube.com/watch?v=tPAUPY2vhH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tPAUPY2vhH0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tPAUPY2vhH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tPAUPY2vhH0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: usa.gov  
-   Link: <a href="https://www.usa.gov/agencies/food-and-drug-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/food-and-drug-administration</a>  
+   Link:<a href="https://www.usa.gov/agencies/food-and-drug-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/food-and-drug-administration</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nj.gov  
-   Link: <a href="https://www.nj.gov/health/ceohs/documents/food-drug-safety/health_fraud_scams.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nj.gov/health/ceohs/documents/food-drug-safety/health_fraud_scams.pdf</a>  
+   Link:<a href="https://www.nj.gov/health/ceohs/documents/food-drug-safety/health_fraud_scams.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nj.gov/health/ceohs/documents/food-drug-safety/health_fraud_scams.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/fdaphotos/8528312890" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/fdaphotos/8528312890</a>  
+   Link:<a href="https://www.flickr.com/photos/fdaphotos/8528312890" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/fdaphotos/8528312890</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: goodrx.com  
-   Link: <a href="https://www.goodrx.com/well-being/supplements-herbs/st-johns-wort-interactions?srsltid=AfmBOopQ_pqEDplvLRNQU8TvUk9DVnMAk_b94xLLdp-ZXxjRCuo1_h9a" target="_blank" rel="noopener noreferrer nofollow">https://www.goodrx.com/well-being/supplements-herbs/st-johns-wort-interactions?srsltid=AfmBOopQ_pqEDplvLRNQU8TvUk9DVnMAk_b94xLLdp-ZXxjRCuo1_h9a</a>  
+   Link:<a href="https://www.goodrx.com/well-being/supplements-herbs/st-johns-wort-interactions?srsltid=AfmBOopQ_pqEDplvLRNQU8TvUk9DVnMAk_b94xLLdp-ZXxjRCuo1_h9a" target="_blank" rel="noopener noreferrer nofollow">https://www.goodrx.com/well-being/supplements-herbs/st-johns-wort-interactions?srsltid=AfmBOopQ_pqEDplvLRNQU8TvUk9DVnMAk_b94xLLdp-ZXxjRCuo1_h9a</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333606939_Mesmer_the_placebo_effect_and_the_efficacy_paradox_lessons_for_evidence_based_medicine_and_complementary_and_alternative_medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333606939_Mesmer_the_placebo_effect_and_the_efficacy_paradox_lessons_for_evidence_based_medicine_and_complementary_and_alternative_medicine</a>  
+   Link:<a href="https://www.researchgate.net/publication/333606939_Mesmer_the_placebo_effect_and_the_efficacy_paradox_lessons_for_evidence_based_medicine_and_complementary_and_alternative_medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333606939_Mesmer_the_placebo_effect_and_the_efficacy_paradox_lessons_for_evidence_based_medicine_and_complementary_and_alternative_medicine</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cohenhealthcarelaw.com  
-   Link: <a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
+   Link:<a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: webmd.com  
-   Link: <a href="https://www.webmd.com/skin-problems-and-treatments/argyria-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/skin-problems-and-treatments/argyria-overview</a>  
+   Link:<a href="https://www.webmd.com/skin-problems-and-treatments/argyria-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/skin-problems-and-treatments/argyria-overview</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/</a>
+   Link:<a href="https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/</a>

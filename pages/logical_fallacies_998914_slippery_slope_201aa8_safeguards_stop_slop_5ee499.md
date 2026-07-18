@@ -271,13 +271,13 @@ image: /assets/images/logical_fallacies_998914_slippery_slope_201aa8_safeguards_
 A [slippery slope]({{ 'slippery-slope/' | relative_url }}) argument becomes much weaker when it assumes that nothing will interrupt the predicted chain of events. In public policy, law, and [politics]({{ 'politics/' | relative_url }}), that assumption is often unrealistic. Decisions rarely move in a straight line from a modest first step to an extreme outcome. Courts review laws, legislatures amend them, regulators issue guidance, voters replace governments, and oversight bodies monitor implementation. These safeguards do not guarantee success, but they are barriers that can slow, redirect, or stop a feared chain reaction altogether.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_safeguards_stop_slop_5ee499-Illustration-1-dark.svg" | relative_url }}" alt="Safeguards illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_safeguards_stop_slop_5ee499-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_safeguards_stop_slop_5ee499-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For that reason, evaluating a slippery slope argument requires more than asking whether a bad outcome is possible. It requires asking whether existing safeguards are likely to prevent the slide. A risk warning that ignores strong safeguards may be fallacious; a stronger warning explains why those safeguards are inadequate, likely to fail, or vulnerable to erosion. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have long argued that slippery slope reasoning should be judged by the quality of its causal story, not merely by its form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic The Basic Slippery Slope Argument</span><span class="citation-popover-snippet">Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</span></span></span>
+For that reason, evaluating a slippery slope argument requires more than asking whether a bad outcome is possible. It requires asking whether existing safeguards are likely to prevent the slide. A risk warning that ignores strong safeguards may be fallacious; a stronger warning explains why those safeguards are inadequate, likely to fail, or vulnerable to erosion. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have long argued that slippery slope reasoning should be judged by the quality of its causal story, not merely by its form.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic The Basic Slippery Slope Argument</span><span class="citation-popover-snippet">Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</span></span></span>
 
 ## Can the Slide Be Stopped in Time?
 
 The central weakness in many slippery slope arguments is the assumption of inevitability. The argument often proceeds as if once society takes step A, steps B through Z must follow. Yet real-world decision-making contains multiple points where people can reassess, reverse course, or draw new [boundaries]({{ 'boundaries/' | relative_url }}).
 
-Consider a policy change that critics claim will lead to a much broader and more controversial outcome. The key question is not simply whether the later outcome could happen. The better question is whether institutions possess practical [mechanisms]({{ 'mechanisms/' | relative_url }}) for stopping it. If lawmakers can revise the policy, courts can reject overextensions, and voters can punish unpopular expansions, then the predicted chain is not automatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+Consider a policy change that critics claim will lead to a much broader and more controversial outcome. The key question is not simply whether the later outcome could happen. The better question is whether institutions possess practical [mechanisms]({{ 'mechanisms/' | relative_url }}) for stopping it. If lawmakers can revise the policy, courts can reject overextensions, and voters can punish unpopular expansions, then the predicted chain is not automatic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
 
 This does not prove the slippery slope argument is wrong. It means the argument must do more work. It must explain why those barriers will fail rather than treating them as if they do not exist.
 
@@ -295,7 +295,7 @@ A prediction becomes stronger when it identifies specific weaknesses rather than
 
 ### Courts as Boundary-Drawers
 
-Legal systems frequently confront slippery slope concerns. Courts routinely distinguish one case from another instead of treating every precedent as requiring identical outcomes. Legal scholars analysing slippery slope arguments note that precedents can sometimes create pressure for further change, but they also emphasise that courts retain the ability to draw distinctions and reject extensions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — a precedent that courts have the authority to dec...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic The Basic Slippery Slope Argument</span><span class="citation-popover-snippet">Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</span></span></span>
+Legal systems frequently confront slippery slope concerns. Courts routinely distinguish one case from another instead of treating every precedent as requiring identical outcomes. Legal scholars analysing slippery slope arguments note that precedents can sometimes create pressure for further change, but they also emphasise that courts retain the ability to draw distinctions and reject extensions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — a precedent that courts have the authority to dec...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic The Basic Slippery Slope Argument</span><span class="citation-popover-snippet">Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</span></span></span>
 
 This means that a claim such as "if courts allow X, they must eventually allow Y" requires more than speculation. The argument should explain why future judges would be unable or unwilling to maintain a limiting principle.
 
@@ -318,7 +318,7 @@ Oversight mechanisms are not perfect, but they represent additional barriers tha
 
 ## Questions That Test Whether Safeguards Are Real
 
-A useful way to evaluate a slippery slope claim is to ask a series of practical questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+A useful way to evaluate a slippery slope claim is to ask a series of practical questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
 
 * **What specific safeguard exists?** Vague references to "regulation" or "oversight" are less reassuring than clearly defined institutions and procedures.
 * **Who enforces the safeguard?** Rules matter less if no one has authority or incentive to apply them.
@@ -341,7 +341,7 @@ These questions shift the discussion from rhetoric to implementation. Instead of
 
 Not every safeguard deserves confidence. Sometimes a slippery slope warning remains persuasive because the proposed barriers are fragile, poorly designed, or historically ineffective.
 
-For example, scholars examining slippery slope dynamics have noted that vague legal principles can make later expansions easier because future decision-makers may interpret the original justification more broadly than intended. In such cases, the existence of a formal boundary may not be enough if the boundary itself lacks clarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — a precedent that courts have the authority to dec...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Judicial-Judicial Equality Slippery Slopes and the...15 Jun 2022 — A related legal effect slippery slope may happen when the justificati...</span></span></span>
+For example, scholars examining slippery slope dynamics have noted that vague legal principles can make later expansions easier because future decision-makers may interpret the original justification more broadly than intended. In such cases, the existence of a formal boundary may not be enough if the boundary itself lacks clarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — a precedent that courts have the authority to dec...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Judicial-Judicial Equality Slippery Slopes and the...15 Jun 2022 — A related legal effect slippery slope may happen when the justificati...</span></span></span>
 
 Similarly, oversight can fail when institutions lack independence, resources, expertise, or political support. A safeguard that exists only on paper may provide reassurance without genuine protection.
 
@@ -353,201 +353,201 @@ A strong slippery slope argument therefore does not merely point to a frightenin
 
 The most informative discussions of [slippery slopes]({{ 'slippery-slope/' | relative_url }}) neither dismiss risks nor assume disaster. They examine the barriers between the first step and the feared outcome.
 
-Weak slippery slope arguments skip this analysis. They treat possibility as certainty and overlook the institutions that could intervene. Stronger arguments recognise that societies contain brakes as well as accelerators. They ask whether safeguards are robust, whether they can be enforced, and whether there is evidence that they will hold under pressure. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic The Basic Slippery Slope Argument</span><span class="citation-popover-snippet">Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</span></span></span>
+Weak slippery slope arguments skip this analysis. They treat possibility as certainty and overlook the institutions that could intervene. Stronger arguments recognise that societies contain brakes as well as accelerators. They ask whether safeguards are robust, whether they can be enforced, and whether there is evidence that they will hold under pressure. SSRN<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic The Basic Slippery Slope Argument</span><span class="citation-popover-snippet">Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</span></span></span>
 
 In practical reasoning, the existence and quality of safeguards often determine whether a slippery slope warning is a credible forecast or a logical fallacy. The more realistic the account of those safeguards—and their strengths and weaknesses—the more useful the argument becomes.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_safeguards_stop_slop_5ee499-Illustration-3-dark.svg" | relative_url }}" alt="Safeguards illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_safeguards_stop_slop_5ee499-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_safeguards_stop_slop_5ee499-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Slide Be Stopped in Time?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Slide Be Stopped in Time?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Encourages probabilistic rather than inevitable predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages probabilistic rather than inevitable predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps evaluate assumptions about inevitable chains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps evaluate assumptions about inevitable chains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based risk assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based risk assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Logic+Of+Failure+by+Dietrich+Dorner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Logic Of Failure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HU59AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Logic Of Failure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Logic+Of+Failure+by+Dietrich+Dorner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Logic Of Failure">The Logic Of Failure</a>
-        </h4>
-        <p class="fr-book-author">By Dietrich Dorner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Logic+Of+Failure+by+Dietrich+Dorner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Logic Of Failure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HU59AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Logic Of Failure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Logic+Of+Failure+by+Dietrich+Dorner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Logic Of Failure">The Logic Of Failure</a>
+</h4>
+<p class="fr-book-author">By Dietrich Dorner</p>
         
-        <p class="fr-book-desc">Explores how systems succeed or fail at preventing bad outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Logic+Of+Failure+by+Dietrich+Dorner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how systems succeed or fail at preventing bad outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Logic+Of+Failure+by+Dietrich+Dorner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/2DAAAeSwQ9JpYP-4/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/2DAAAeSwQ9JpYP-4/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/4O4AAeSwOI9o7NfA/s-l225.jpg" alt="Listing image for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/4O4AAeSwOI9o7NfA/s-l225.jpg" alt="Listing image for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Logic Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/oQQAAOSwGVNidEo0/s-l225.jpg" alt="Listing image for Large A3 Logic Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Large A3 Logic Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Logic Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/oQQAAOSwGVNidEo0/s-l225.jpg" alt="Listing image for Large A3 Logic Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Large A3 Logic Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-slide-be-stopped-in-time-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="can-the-slide-be-stopped-in-time-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ In practical reasoning, the existence and quality of safeguards often determine 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ In practical reasoning, the existence and quality of safeguards often determine 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ In practical reasoning, the existence and quality of safeguards often determine 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ In practical reasoning, the existence and quality of safeguards often determine 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ In practical reasoning, the existence and quality of safeguards often determine 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,125 +753,125 @@ In practical reasoning, the existence and quality of safeguards often determine 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slope argumentsA first additional requirement for calling an argument a slippery slope argument can be distilled from this...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slope argumentsA first additional requirement for calling an argument a slippery slope argument can be distilled from this...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: Slippery Slope Fallacy | Definition & Examples  
-   Link: <a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</p></details>
    Published: April 14, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: www2.law.ucla.edu  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — a precedent that courts have the authority to dec...</p></details>
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — a precedent that courts have the authority to dec...</p></details>
    Published: November 26, 2012  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reason.com  
-   Link: <a href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Judicial-Judicial Equality Slippery Slopes and the...15 Jun 2022 — A related legal effect slippery slope may happen when the justificati...</p></details>
+   Link:<a href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Judicial-Judicial Equality Slippery Slopes and the...15 Jun 2022 — A related legal effect slippery slope may happen when the justificati...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: www2.law.ucla.edu  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyfar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyfar.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of Law18 0 Slippery Slopes1 Mar 2007 — The slippery slope we mean to describe here occurs when there are distinctions between...</p></details>
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slipperyfar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyfar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of Law18 0 Slippery Slopes1 Mar 2007 — The slippery slope we mean to describe here occurs when there are distinctions between...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID3138302 code2885242  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comInternet, freedom of speech and slippery slope argumentWhat is thus worth considering is where the [free speech](&amp;#123;&amp;#123; &#x27;free-speech/&#x27; | relative_url &amp;#125;&amp;#125;) line is drawn by l...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comInternet, freedom of speech and slippery slope argumentWhat is thus worth considering is where the [free speech](&amp;#123;&amp;#123; &#x27;free-speech/&#x27; | relative_url &amp;#125;&amp;#125;) line is drawn by l...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change  
-   Link: <a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ar39s8NQXUM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ar39s8NQXUM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Slippery Slope Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t2ePCnSyQ4w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t2ePCnSyQ4w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Slippery Slope Fallacy - Learn how to avoid this common logical fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Slippery Slope Fallacy - Learn how to avoid this common logical fallacy...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Slippery Slope Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=6ksMckeGdoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6ksMckeGdoI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=6ksMckeGdoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6ksMckeGdoI</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: informallogic.ca  
    Title: Informal Logic The Basic Slippery Slope Argument  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4286/3764</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4286/3764</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wibrenvanderburg.nl  
    Title: The Slippery Slope Argument  
-   Link: <a href="https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wibren van der Burgby W van der Burg · 1991 · Cited by 232 — In this section I will analyze whether these two logical varieties are valid...</p></details>
+   Link:<a href="https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wibren van der Burgby W van der Burg · 1991 · Cited by 232 — In this section I will analyze whether these two logical varieties are valid...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/205990052896041/posts/3224031804425169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/205990052896041/posts/3224031804425169/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BBI AND THE CONSTITUTIONAL RED LINE...BBI AND THE CONSTITUTIONAL RED LINE: A Brief for Lawyers, Law Students, and the Legal Conscience o...</p></details>
+   Link:<a href="https://www.facebook.com/groups/205990052896041/posts/3224031804425169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/205990052896041/posts/3224031804425169/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BBI AND THE CONSTITUTIONAL RED LINE...BBI AND THE CONSTITUTIONAL RED LINE: A Brief for Lawyers, Law Students, and the Legal Conscience o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375247506_Slippery_Slope_Arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375247506_Slippery_Slope_Arguments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope ArgumentsA `slippery slope argument&#x27; is a kind of argument which warns you that, if you take a first step, you will find y...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/375247506_Slippery_Slope_Arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375247506_Slippery_Slope_Arguments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope ArgumentsA `slippery slope argument&#x27; is a kind of argument which warns you that, if you take a first step, you will find y...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: verywellmind.com  
-   Link: <a href="https://www.verywellmind.com/how-to-recognize-and-avoid-the-slippery-slope-fallacy-8649241" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/how-to-recognize-and-avoid-the-slippery-slope-fallacy-8649241</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While not all slippery slope arguments are fallacious—some are based on real cause-effect connections—the fallacy arises when at least on...</p></details>
+   Link:<a href="https://www.verywellmind.com/how-to-recognize-and-avoid-the-slippery-slope-fallacy-8649241" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/how-to-recognize-and-avoid-the-slippery-slope-fallacy-8649241</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While not all slippery slope arguments are fallacious—some are based on real cause-effect connections—the fallacy arises when at least on...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ssm-italia.eu  
    Title: ARTIFICIA L INTELLIGENCE, JUDICIAL DECISION-MAKING  
-   Link: <a href="https://ssm-italia.eu/wp-content/uploads/2025/02/JuLIA_handbook-Justice_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ssm-italia.eu/wp-content/uploads/2025/02/JuLIA_handbook-Justice_final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oversee their functioning. Human oversight shall aim to prevent or minimise the risks to fundamental rights that may emerge in the use of...</p></details>
+   Link:<a href="https://ssm-italia.eu/wp-content/uploads/2025/02/JuLIA_handbook-Justice_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ssm-italia.eu/wp-content/uploads/2025/02/JuLIA_handbook-Justice_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oversee their functioning. Human oversight shall aim to prevent or minimise the risks to fundamental rights that may emerge in the use of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>events will follow and this will eventually lead to undesirable consequences...</p></details>
+   Link:<a href="https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>events will follow and this will eventually lead to undesirable consequences...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-slippery-slopedefinition-and-explanation-the-slippery-slope-f/466541828401435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-slippery-slopedefinition-and-explanation-the-slippery-slope-f/466541828401435/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y argues that an action will lead to a chain of events, resulting...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-slippery-slopedefinition-and-explanation-the-slippery-slope-f/466541828401435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-slippery-slopedefinition-and-explanation-the-slippery-slope-f/466541828401435/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y argues that an action will lead to a chain of events, resulting...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y diverting attention towards negative and unlikely outcomes. In...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y diverting attention towards negative and unlikely outcomes. In...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41230891/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41230891/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Differences in Slippery Slope Thinkingby RA Anderson · Cited by 1 — Slippery slope arguments (SSAs) contend that a small, innocuous chang...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41230891/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41230891/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Differences in Slippery Slope Thinkingby RA Anderson · Cited by 1 — Slippery slope arguments (SSAs) contend that a small, innocuous chang...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ll action will inevitably lead to a chain of extreme and undesirable consequences...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ll action will inevitably lead to a chain of extreme and undesirable consequences...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: owl.excelsior.edu  
    Title: OWLSlippery Slope Fallacy  
-   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLSlippery Slope Fallacy - Excelsior OWLA slippery slope fallacy occurs when someone claims that a position or decision will l...</p></details>
+   Link:<a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLSlippery Slope Fallacy - Excelsior OWLA slippery slope fallacy occurs when someone claims that a position or decision will l...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appea
 
 ## Introduction
 
-In parliamentary [debate]({{ 'debate/' | relative_url }}), public opinion matters. Elected representatives are expected to pay attention to voters, explain how policies reflect public concerns and consider the legitimacy that comes from democratic support. The problem arises when popularity is treated not as a political consideration but as proof that a claim is true or that a policy is sound. This is the logical fallacy known as an appeal to popularity, or *argumentum ad populum*. It occurs when a speaker argues that a proposition should be accepted simply because many people believe it, support it or favour it. Popularity may be politically relevant, but it is not evidence that a factual claim is correct or that a policy will achieve its intended outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</span></span></span>
+In parliamentary [debate]({{ 'debate/' | relative_url }}), public opinion matters. Elected representatives are expected to pay attention to voters, explain how policies reflect public concerns and consider the legitimacy that comes from democratic support. The problem arises when popularity is treated not as a political consideration but as proof that a claim is true or that a policy is sound. This is the logical fallacy known as an appeal to popularity, or *argumentum ad populum*. It occurs when a speaker argues that a proposition should be accepted simply because many people believe it, support it or favour it. Popularity may be politically relevant, but it is not evidence that a factual claim is correct or that a policy will achieve its intended outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within legislatures, this fallacy is especially important because parliamentary arguments often blend questions of democratic legitimacy with questions of evidence. Distinguishing between those two issues is essential for high-quality public debate.
@@ -283,7 +283,7 @@ Within legislatures, this fallacy is especially important because parliamentary 
 
 Parliamentary debate differs from many other forms of argument because legislators are not merely discussing abstract truths. They are also making collective decisions on behalf of citizens. As a result, references to public opinion are often appropriate.
 
-A member of parliament may legitimately argue that a proposal deserves consideration because it reflects the preferences of a large portion of the electorate. Democratic systems require representatives to take citizens' interests, values and priorities seriously. Scholars of political argumentation note that appeals to majority preferences can play a role in establishing the political legitimacy of a policy position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-015-9372-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</span></span></span>
+A member of parliament may legitimately argue that a proposal deserves consideration because it reflects the preferences of a large portion of the electorate. Democratic systems require representatives to take citizens' interests, values and priorities seriously. Scholars of political argumentation note that appeals to majority preferences can play a role in establishing the political legitimacy of a policy position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</span></span></span>
 
 This democratic [context]({{ 'context/' | relative_url }}) explains why popularity-based arguments can sound persuasive. Statements such as:
 
@@ -297,7 +297,7 @@ This democratic [context]({{ 'context/' | relative_url }}) explains why populari
 
 may be relevant when discussing political mandates or electoral accountability.
 
-However, [relevance]({{ 'relevance/' | relative_url }}) to political legitimacy is not the same as proof of correctness. A majority can support a policy that is ineffective, misunderstand factual evidence or hold beliefs that later prove mistaken. The logical mistake occurs when popularity is presented as if it settles questions that require independent evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span>
+However, [relevance]({{ 'relevance/' | relative_url }}) to political legitimacy is not the same as proof of correctness. A majority can support a policy that is ineffective, misunderstand factual evidence or hold beliefs that later prove mistaken. The logical mistake occurs when popularity is presented as if it settles questions that require independent evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span>
 
 ## How Appeal to Majority Bypasses Evidence
 
@@ -308,7 +308,7 @@ The structure of the fallacy is straightforward:
 1. Many people believe or support a claim.
 2. Therefore, the claim is true or the policy is justified.
 
-The conclusion does not logically follow from the premise. Whether a claim is widely accepted and whether it is true are separate questions. Logic scholars classify appeal to popularity as a relevance fallacy because the popularity of a belief does not itself provide evidence for its accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[2philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an elite group people irre...</span></span></span>
+The conclusion does not logically follow from the premise. Whether a claim is widely accepted and whether it is true are separate questions. Logic scholars classify appeal to popularity as a relevance fallacy because the popularity of a belief does not itself provide evidence for its accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[2philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an elite group people irre...</span></span></span>
 
 In parliamentary settings, the fallacy often appears in more sophisticated forms than the textbook example. Rather than explicitly saying “the majority believes it, therefore it is true”, speakers may imply that public support eliminates the need for further justification.
 
@@ -330,7 +330,7 @@ This substitution can be especially powerful because parliamentary audiences are
 
 ## How the Fallacy Appears in Parliamentary Speech
 
-Research on parliamentary discourse shows that appeals to majority opinion are a recurring feature of legislative argumentation. Studies examining parliamentary debates in different countries have identified *argumentum ad populum* alongside other common political fallacies such as *ad hominem* attacks and straw-man arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rozenbergquarterly.com">[rozenbergquarterly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rozenbergquarterly.com</span><span class="citation-popover-snippet">Analysis Of Fallacies in Croatian Parliamentary Debateby G Kišiček — This fallacy is often accompanied by words like: “Everybody knows th...</span></span></span>
+Research on parliamentary discourse shows that appeals to majority opinion are a recurring feature of legislative argumentation. Studies examining parliamentary debates in different countries have identified *argumentum ad populum* alongside other common political fallacies such as *ad hominem* attacks and straw-man arguments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rozenbergquarterly.com">[rozenbergquarterly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rozenbergquarterly.com</span><span class="citation-popover-snippet">Analysis Of Fallacies in Croatian Parliamentary Debateby G Kišiček — This fallacy is often accompanied by words like: “Everybody knows th...</span></span></span>
 
 Several recurring patterns appear:
 
@@ -340,7 +340,7 @@ A government claims that electoral victory proves the correctness of every polic
 
 **The common-sense claim.**
 
-Speakers invoke phrases such as “everybody knows”, “ordinary people understand” or “it is obvious to the public”. Research on parliamentary fallacies notes that such language frequently accompanies appeals to popularity because it discourages scrutiny and suggests that dissent is unreasonable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rozenbergquarterly.com">[rozenbergquarterly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rozenbergquarterly.com</span><span class="citation-popover-snippet">Analysis Of Fallacies in Croatian Parliamentary Debateby G Kišiček — This fallacy is often accompanied by words like: “Everybody knows th...</span></span></span>
+Speakers invoke phrases such as “everybody knows”, “ordinary people understand” or “it is obvious to the public”. Research on parliamentary fallacies notes that such language frequently accompanies appeals to popularity because it discourages scrutiny and suggests that dissent is unreasonable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rozenbergquarterly.com">[rozenbergquarterly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rozenbergquarterly.com</span><span class="citation-popover-snippet">Analysis Of Fallacies in Croatian Parliamentary Debateby G Kišiček — This fallacy is often accompanied by words like: “Everybody knows th...</span></span></span>
 
 **The polling shortcut.**
 
@@ -361,11 +361,11 @@ A useful distinction is between two questions:
 
 ### Who should decide?
 
-In a democracy, majority preferences often matter when determining collective choices. Legislators may reasonably argue that policy should reflect the wishes of citizens because democratic institutions exist to represent them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-015-9372-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</span></span></span>
+In a democracy, majority preferences often matter when determining collective choices. Legislators may reasonably argue that policy should reflect the wishes of citizens because democratic institutions exist to represent them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</span></span></span>
 
 ### What is true or effective?
 
-Questions of fact require evidence beyond public belief. Whether a tax policy increases revenue, whether a public-health measure reduces harm, or whether a forecast is accurate cannot be determined solely by counting supporters. These questions require data, analysis and reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span>
+Questions of fact require evidence beyond public belief. Whether a tax policy increases revenue, whether a public-health measure reduces harm, or whether a forecast is accurate cannot be determined solely by counting supporters. These questions require data, analysis and reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span>
 
 Confusion arises when answers to the first question are used to settle the second. Democratic legitimacy and factual validity are related but distinct concepts.
 
@@ -394,203 +394,203 @@ This distinction reflects a broader principle of parliamentary reasoning: democr
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-3-dark.svg" | relative_url }}" alt="Popularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Distinction Matters for Public Debate
 
-Parliamentary debate serves several purposes. It represents citizens, tests competing claims and provides public justification for government action. Political theorists and scholars of parliamentary rhetoric have long argued that debate is valuable precisely because it exposes proposals to criticism and scrutiny rather than treating support alone as decisive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal-redescriptions.org">[journal-redescriptions.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal-redescriptions.org</span><span class="citation-popover-title">“What Is the Point of Parliamentary Debate?” Deliberation,</span><span class="citation-popover-snippet">This article seeks to open up debate about Parliamentary debate by exploring the history of ideas about Parliamentary debate and rhetoric...</span></span></span>
+Parliamentary debate serves several purposes. It represents citizens, tests competing claims and provides public justification for government action. Political theorists and scholars of parliamentary rhetoric have long argued that debate is valuable precisely because it exposes proposals to criticism and scrutiny rather than treating support alone as decisive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal-redescriptions.org">[journal-redescriptions.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal-redescriptions.org</span><span class="citation-popover-title">“What Is the Point of Parliamentary Debate?” Deliberation,</span><span class="citation-popover-snippet">This article seeks to open up debate about Parliamentary debate by exploring the history of ideas about Parliamentary debate and rhetoric...</span></span></span>
 
 When appeal-to-popularity arguments dominate, that deliberative function weakens. Speakers can avoid addressing inconvenient evidence by pointing to polls, election results or public sentiment. Opponents may then respond with rival claims about popularity instead of examining the substance of the issue.
 
 The result is a debate focused on who has the larger following rather than on which arguments are better supported.
 
-Recognising the appeal to popularity fallacy does not require ignoring public opinion. Democratic debate depends on understanding what citizens want. The critical point is that majority support can indicate political importance, legitimacy or urgency, but it cannot by itself prove that a claim is true or that a policy is sound. Evidence must still do that work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</span></span></span>
+Recognising the appeal to popularity fallacy does not require ignoring public opinion. Democratic debate depends on understanding what citizens want. The critical point is that majority support can indicate political importance, legitimacy or urgency, but it cannot by itself prove that a claim is true or that a policy is sound. Evidence must still do that work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Majority Support Becomes Fake Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Majority Support Becomes Fake Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By James Surowiecki</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wisdom of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Moh1Z6D4VRAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Wisdom of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds">The Wisdom of Crowds</a>
+</h4>
+<p class="fr-book-author">By James Surowiecki</p>
         
-        <p class="fr-book-desc">Directly explores when collective opinion is informative and when it is not proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores when collective opinion is informative and when it is not proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds+by+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts that make majority opinion feel like evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts that make majority opinion feel like evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Provides tools for distinguishing evidence from popularity-based claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for distinguishing evidence from popularity-based claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages truth-seeking over conformity with group opinion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages truth-seeking over conformity with group opinion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Wisdom of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet USSR Poster A Society of Genuine Democracy 1984 17*22&quot;"><img src="https://i.ebayimg.com/images/g/X7AAAeSwT3toiJv6/s-l225.jpg" alt="Listing image for Original Soviet USSR Poster A Society of Genuine Democracy 1984 17*22&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet USSR Poster A Society of Genuine Democracy 1984 17*22&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for democracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: democracy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet USSR Poster A Society of Genuine Democracy 1984 17*22&quot;"><img src="https://i.ebayimg.com/images/g/X7AAAeSwT3toiJv6/s-l225.jpg" alt="Listing image for Original Soviet USSR Poster A Society of Genuine Democracy 1984 17*22&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet USSR Poster A Society of Genuine Democracy 1984 17*22&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for democracy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: democracy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE RETRO HOLIDAY TRAVEL RAILWAY POSTERS CITY COUNTRY PHOTO PRINT WALL ART.."><img src="https://i.ebayimg.com/images/g/mCAAAOSwTR1iXqFO/s-l225.jpg" alt="Listing image for VINTAGE RETRO HOLIDAY TRAVEL RAILWAY POSTERS CITY COUNTRY PHOTO PRINT WALL ART.." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE RETRO HOLIDAY TRAVEL RAILWAY POSTERS CITY COUNTRY PHOTO PRINT WALL ART..</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for democracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: democracy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE RETRO HOLIDAY TRAVEL RAILWAY POSTERS CITY COUNTRY PHOTO PRINT WALL ART.."><img src="https://i.ebayimg.com/images/g/mCAAAOSwTR1iXqFO/s-l225.jpg" alt="Listing image for VINTAGE RETRO HOLIDAY TRAVEL RAILWAY POSTERS CITY COUNTRY PHOTO PRINT WALL ART.." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE RETRO HOLIDAY TRAVEL RAILWAY POSTERS CITY COUNTRY PHOTO PRINT WALL ART..</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for democracy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: democracy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for This Is Democracy Manifest Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/WG4AAeSwEB9p1Tc-/s-l225.jpg" alt="Listing image for This Is Democracy Manifest Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">This Is Democracy Manifest Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for democracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: democracy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for This Is Democracy Manifest Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/WG4AAeSwEB9p1Tc-/s-l225.jpg" alt="Listing image for This Is Democracy Manifest Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">This Is Democracy Manifest Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for democracy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: democracy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for This Is Not A Democracy This Is My Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Bq8AAeSwS3xp2SJe/s-l225.jpg" alt="Listing image for This Is Not A Democracy This Is My Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">This Is Not A Democracy This Is My Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for democracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: democracy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for This Is Not A Democracy This Is My Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Bq8AAeSwS3xp2SJe/s-l225.jpg" alt="Listing image for This Is Not A Democracy This Is My Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">This Is Not A Democracy This Is My Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for democracy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: democracy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=democracy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-majority-support-becomes-fake-proof-democracy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="democracy poster" data-ebay-reference="when-majority-support-becomes-fake-proof-democracy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ Recognising the appeal to popularity fallacy does not require ignoring public op
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ Recognising the appeal to popularity fallacy does not require ignoring public op
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ Recognising the appeal to popularity fallacy does not require ignoring public op
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ Recognising the appeal to popularity fallacy does not require ignoring public op
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ Recognising the appeal to popularity fallacy does not require ignoring public op
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,115 +796,115 @@ Recognising the appeal to popularity fallacy does not require ignoring public op
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: philosophy.lander.edu  
-   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an elite group people irre...</p></details>
+   Link:<a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an elite group people irre...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-015-9372-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-015-9372-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10503" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribbr.com  
    Title: ad populum fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-populum-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-populum-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rozenbergquarterly.com  
-   Link: <a href="https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/" target="_blank" rel="noopener noreferrer nofollow">https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis Of Fallacies in Croatian Parliamentary Debateby G Kišiček — This fallacy is often accompanied by words like: “Everybody knows th...</p></details>
+   Link:<a href="https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/" target="_blank" rel="noopener noreferrer nofollow">https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis Of Fallacies in Croatian Parliamentary Debateby G Kišiček — This fallacy is often accompanied by words like: “Everybody knows th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journal-redescriptions.org  
    Title: “What Is the Point of Parliamentary Debate?” Deliberation,  
-   Link: <a href="https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This article seeks to open up debate about Parliamentary debate by exploring the history of ideas about Parliamentary debate and rhetoric...</p></details>
+   Link:<a href="https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This article seeks to open up debate about Parliamentary debate by exploring the history of ideas about Parliamentary debate and rhetoric...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: parliament.uk  
-   Link: <a href="https://www.parliament.uk/about/how/business/debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/about/how/business/debates/</a>  
+   Link:<a href="https://www.parliament.uk/about/how/business/debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/about/how/business/debates/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribbr.co.uk  
    Title: Scribbr What Is Ad Populum Fallacy? | Definition & Examples  
-   Link: <a href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</p></details>
    Published: June 20, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</p></details>
+   Link:<a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Argumentum ad populum  
-   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populumIn argumentation theory, an argumentum ad populum is an informal fallacy that asserts a claim is true, good, or c...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populumIn argumentation theory, an argumentum ad populum is an informal fallacy that asserts a claim is true, good, or c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uvm.edu  
    Title: Parliamentary debate  
-   Link: <a href="https://www.uvm.edu/~debate/meanyparli.html" target="_blank" rel="noopener noreferrer nofollow">https://www.uvm.edu/~debate/meanyparli.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rs do not...Read more...</p></details>
+   Link:<a href="https://www.uvm.edu/~debate/meanyparli.html" target="_blank" rel="noopener noreferrer nofollow">https://www.uvm.edu/~debate/meanyparli.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rs do not...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 281112603 Parrying Ad Hominem Arguments in Parliamentary Debates  
-   Link: <a href="https://www.researchgate.net/publication/281112603_Parrying_Ad_Hominem_Arguments_in_Parliamentary_Debates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281112603_Parrying_Ad_Hominem_Arguments_in_Parliamentary_Debates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>José Plug published Parrying Ad Hominem Arguments in Parliamentary Debates | Find, read and cite all the research you need on...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/281112603_Parrying_Ad_Hominem_Arguments_in_Parliamentary_Debates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281112603_Parrying_Ad_Hominem_Arguments_in_Parliamentary_Debates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>José Plug published Parrying Ad Hominem Arguments in Parliamentary Debates | Find, read and cite all the research you need on...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: icar.cnrs.fr  
-   Link: <a href="https://icar.cnrs.fr/dicoplantin/political-arguments-eng/" target="_blank" rel="noopener noreferrer nofollow">https://icar.cnrs.fr/dicoplantin/political-arguments-eng/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Political Arguments: Two Collections6 Aug 2021 — Bentham focuses exclusively on fallacious arguments in parliamentary debates...</p></details>
+   Link:<a href="https://icar.cnrs.fr/dicoplantin/political-arguments-eng/" target="_blank" rel="noopener noreferrer nofollow">https://icar.cnrs.fr/dicoplantin/political-arguments-eng/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Political Arguments: Two Collections6 Aug 2021 — Bentham focuses exclusively on fallacious arguments in parliamentary debates...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-[bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-[bandwagon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum, also known as the &quot;appeal to...Argumentum ad populum is a logical fallacy that argues a claim is true because a l...</p></details>
+   Link:<a href="https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-[bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-[bandwagon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum, also known as the &quot;appeal to...Argumentum ad populum is a logical fallacy that argues a claim is true because a l...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: STAR TREK Logical Thinking #1  
-   Link: <a href="https://www.youtube.com/watch?v=xkoMdnCS6Og" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xkoMdnCS6Og</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is argumentum ad populum? [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) Explained #7...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xkoMdnCS6Og" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xkoMdnCS6Og</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is argumentum ad populum? [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) Explained #7...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5712170/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5712170/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>appeal to popularity... There has been discussion whether ad populum would be reasonable and not fallacious in the political debate [32...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5712170/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5712170/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>appeal to popularity... There has been discussion whether ad populum would be reasonable and not fallacious in the political debate [32...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED299644.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED299644.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper reviews the newly emergent trend of audience-centered debate paradigms, such as the narrative and the issues-agenda paradigms...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED299644.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED299644.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This paper reviews the newly emergent trend of audience-centered debate paradigms, such as the narrative and the issues-agenda paradigms...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Ad Populum (Appeal to Popularity): Lesson and Activity  
-   Link: <a href="https://www.youtube.com/watch?v=8zg2dpimhNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8zg2dpimhNQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STAR TREK Logical Thinking #1 - Argumentum Ad Populum (Appeal to the Majority)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8zg2dpimhNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8zg2dpimhNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STAR TREK Logical Thinking #1 - Argumentum Ad Populum (Appeal to the Majority)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: <a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Don't Be a Sheep: The Ad Populum Fallacy Explained  
-   Link: <a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n14qsp2C9Tw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Populum (Appeal to Popularity): Lesson and Activity...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n14qsp2C9Tw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Populum (Appeal to Popularity): Lesson and Activity...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assignnmentinneed.com  
    Title: what is an example of ad populum fallacy in [politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.assignnmentinneed.com/blog/what-is-an-example-of-ad-populum-fallacy-in-politics" target="_blank" rel="noopener noreferrer nofollow">https://www.assignnmentinneed.com/blog/what-is-an-example-of-ad-populum-fallacy-in-politics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of presenting...Read more...</p></details>
+   Link:<a href="https://www.assignnmentinneed.com/blog/what-is-an-example-of-ad-populum-fallacy-in-politics" target="_blank" rel="noopener noreferrer nofollow">https://www.assignnmentinneed.com/blog/what-is-an-example-of-ad-populum-fallacy-in-politics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of presenting...Read more...</p></details>

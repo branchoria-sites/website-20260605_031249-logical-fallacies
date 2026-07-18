@@ -271,15 +271,15 @@ image: /assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_
 When schools announce a “phone ban”, they are often describing very different policies. Some schools prohibit pupils from bringing [phones]({{ 'phones/' | relative_url }}) onto the site at all. Others allow phones to be brought for journeys to and from school but make them inaccessible throughout the school day. Treating these models as identical creates a false choice: either total prohibition or unrestricted access.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_ban_models_c521eb-Illustration-1-dark.svg" | relative_url }}" alt="Ban Models illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_ban_models_c521eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_ban_models_c521eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A phone-free school day can be stricter than a classroom-only restriction while still being less restrictive than requiring every pupil to leave a device at home. The governance question is not simply whether phones are banned. It is how access is controlled, where devices are stored, and what [exceptions]({{ 'exceptions/' | relative_url }}) exist. Understanding those distinctions helps avoid one of the most common [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) in school phone debates: assuming that a single label describes a single policy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mobile phones in schools</span><span class="citation-popover-snippet">19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</span></span></span>
+A phone-free school day can be stricter than a classroom-only restriction while still being less restrictive than requiring every pupil to leave a device at home. The governance question is not simply whether phones are banned. It is how access is controlled, where devices are stored, and what [exceptions]({{ 'exceptions/' | relative_url }}) exist. Understanding those distinctions helps avoid one of the most common [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) in school phone debates: assuming that a single label describes a single policy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mobile phones in schools</span><span class="citation-popover-snippet">19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</span></span></span>
 
 ## No Phones on Site Versus No Access in School
 
-The clearest distinction is between a total phone ban and a phone-free school day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-pcc.gov.uk">[cheshire-pcc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-pcc.gov.uk</span><span class="citation-popover-snippet">3.5% ban phones from being brought to school at all; 7.9...Read more...</span></span></span>
+The clearest distinction is between a total phone ban and a phone-free school day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-pcc.gov.uk">[cheshire-pcc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-pcc.gov.uk</span><span class="citation-popover-snippet">3.5% ban phones from being brought to school at all; 7.9...Read more...</span></span></span>
 
-A **total phone ban** generally means pupils may not bring phones onto school premises. If a device is found, it is treated as a rule violation simply because it is present. Some schools adopt this approach specifically to eliminate enforcement disputes about whether a phone was being used or merely carried. Examples exist in England where pupils are not permitted to have phones at school at all and face lengthy confiscation periods if they breach the rule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: schoolsweek.co.uk">[Schools Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">schoolsweek.co.uk</span><span class="citation-popover-snippet">Schools WeekPhone ban: The school that confiscates devices for six weeks19 Jan 2026 — If a pupil is found with a phone, it is confiscated...</span></span></span>
+A **total phone ban** generally means pupils may not bring phones onto school premises. If a device is found, it is treated as a rule violation simply because it is present. Some schools adopt this approach specifically to eliminate enforcement disputes about whether a phone was being used or merely carried. Examples exist in England where pupils are not permitted to have phones at school at all and face lengthy confiscation periods if they breach the rule.<span class="citation-chip-wrap"><a class="citation-chip" href="https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: schoolsweek.co.uk">[Schools Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">schoolsweek.co.uk</span><span class="citation-popover-snippet">Schools WeekPhone ban: The school that confiscates devices for six weeks19 Jan 2026 — If a pupil is found with a phone, it is confiscated...</span></span></span>
 
-A **phone-free school day** works differently. Pupils may bring a phone for travel, family communication before or after school, or personal security during the journey. However, the device cannot be accessed during the school day. The practical effect is often similar from the perspective of classroom distraction: students cannot use their phones in lessons, corridors, lunch breaks or between classes. The difference is that possession and access are treated as separate questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">creating a mobile phone free environment school case studies</span><span class="citation-popover-snippet">Creating a mobile phone-free environment: school case...19 Feb 2026 — All pupils must place their turned-off mobile phone into a lockabl...</span></span></span>
+A **phone-free school day** works differently. Pupils may bring a phone for travel, family communication before or after school, or personal security during the journey. However, the device cannot be accessed during the school day. The practical effect is often similar from the perspective of classroom distraction: students cannot use their phones in lessons, corridors, lunch breaks or between classes. The difference is that possession and access are treated as separate questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">creating a mobile phone free environment school case studies</span><span class="citation-popover-snippet">Creating a mobile phone-free environment: school case...19 Feb 2026 — All pupils must place their turned-off mobile phone into a lockabl...</span></span></span>
 
 This distinction matters because many public arguments compare a total ban with unrestricted use while ignoring the middle option. In reality, a school can create a genuinely phone-free learning environment without requiring every family to leave devices at home.
 
@@ -289,18 +289,18 @@ This distinction matters because many public arguments compare a total ban with 
 
 The most important design decision in a phone-free school day is often storage rather than prohibition.
 
-Government guidance in England identifies several implementation models, including leaving phones at home, storing them in lockers, handing them in, or using lockable pouches that prevent access until dismissal. These approaches can all be described as “phone bans”, yet they create different experiences for pupils and staff. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</span></span></span>
+Government guidance in England identifies several implementation models, including leaving phones at home, storing them in lockers, handing them in, or using lockable pouches that prevent access until dismissal. These approaches can all be described as “phone bans”, yet they create different experiences for pupils and staff.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</span></span></span>
 
 Common models include:
 
 * **Leave-at-home policies**: the strictest approach, removing devices from the school environment entirely.
 * **School-controlled storage**: phones are collected and secured by staff or in designated storage areas.
 * **Personal lockers**: pupils bring phones but must store them for the day.
-* **Lockable pouches**: pupils keep possession of the device, but cannot access it until the pouch is unlocked after school. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mobile phones in schools</span><span class="citation-popover-snippet">19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</span></span></span>
+* **Lockable pouches**: pupils keep possession of the device, but cannot access it until the pouch is unlocked after school.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mobile phones in schools</span><span class="citation-popover-snippet">19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</span></span></span>
 
 The pouch model is especially useful for understanding why the term “ban” can be misleading. A pupil technically has a phone with them all day, yet the device remains inaccessible. From a behavioural perspective, that may resemble a complete ban more closely than a classroom-only restriction.
 
-Recent English case studies describe schools requiring every pupil to place a switched-off phone into a lockable pouch that remains with them throughout the day and can only be opened after school ends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">creating a mobile phone free environment school case studies</span><span class="citation-popover-snippet">Creating a mobile phone-free environment: school case...19 Feb 2026 — All pupils must place their turned-off mobile phone into a lockabl...</span></span></span>
+Recent English case studies describe schools requiring every pupil to place a switched-off phone into a lockable pouch that remains with them throughout the day and can only be opened after school ends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">creating a mobile phone free environment school case studies</span><span class="citation-popover-snippet">Creating a mobile phone-free environment: school case...19 Feb 2026 — All pupils must place their turned-off mobile phone into a lockabl...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_ban_models_c521eb-Illustration-2-dark.svg" | relative_url }}" alt="Ban Models illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_ban_models_c521eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_ban_models_c521eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Vague Ban Language Creates False Choices
@@ -319,7 +319,7 @@ When campaigners argue that schools should “ban phones”, listeners may imagi
 
 </div>
 
-Because these models differ, evidence about one model does not automatically apply to another. A study examining locked-pouch systems is not necessarily measuring the effects of a leave-at-home policy. Likewise, research on classroom restrictions alone may not tell us much about a bell-to-bell phone-free day. A major scoping review of the evidence noted that studies frequently use different definitions of bans, including partial and complete restrictions, making direct comparison difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Evidence for and against banning mobile phones in schools</span><span class="citation-popover-snippet">Evidence for and against banning mobile phones in schoolsAugust 13, 2024 — 13 May 2026 — We provide a synthesis of the latest...</span><span class="citation-popover-meta">Published: August 13, 2024</span></span></span>
+Because these models differ, evidence about one model does not automatically apply to another. A study examining locked-pouch systems is not necessarily measuring the effects of a leave-at-home policy. Likewise, research on classroom restrictions alone may not tell us much about a bell-to-bell phone-free day. A major scoping review of the evidence noted that studies frequently use different definitions of bans, including partial and complete restrictions, making direct comparison difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Evidence for and against banning mobile phones in schools</span><span class="citation-popover-snippet">Evidence for and against banning mobile phones in schoolsAugust 13, 2024 — 13 May 2026 — We provide a synthesis of the latest...</span><span class="citation-popover-meta">Published: August 13, 2024</span></span></span>
 
 This is where the logical fallacy appears. A [debate]({{ 'debate/' | relative_url }}) framed as “ban phones or allow phones” hides the fact that policymakers are choosing among several governance models rather than two mutually exclusive options.
 
@@ -329,9 +329,9 @@ This is where the logical fallacy appears. A [debate]({{ 'debate/' | relative_ur
 
 One reason the terminology matters is that outcomes may depend on implementation details.
 
-Research and policy discussions increasingly distinguish between reducing access and eliminating possession. Large-scale studies of lockable-pouch systems show substantial reductions in in-school phone use, with teachers reporting far fewer students using phones during lessons. However, the same studies found much smaller effects on broader outcomes such as [test scores]({{ 'test-scores/' | relative_url }}), attendance and [wellbeing]({{ 'wellbeing/' | relative_url }}) than many advocates expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Researchers from institutions like Stanford and Duke concluded that such bans lead to negligible changes in test scores and attendance. W...</span></span></span>
+Research and policy discussions increasingly distinguish between reducing access and eliminating possession. Large-scale studies of lockable-pouch systems show substantial reductions in in-school phone use, with teachers reporting far fewer students using phones during lessons. However, the same studies found much smaller effects on broader outcomes such as [test scores]({{ 'test-scores/' | relative_url }}), attendance and [wellbeing]({{ 'wellbeing/' | relative_url }}) than many advocates expected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Researchers from institutions like Stanford and Duke concluded that such bans lead to negligible changes in test scores and attendance. W...</span></span></span>
 
-That does not mean phone-free policies have no effect. Teachers often report easier classroom management and fewer distractions, while some schools describe increases in face-to-face interaction during breaks after introducing locked-storage systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Researchers from institutions like Stanford and Duke concluded that such bans lead to negligible changes in test scores and attendance. W...</span></span></span>
+That does not mean phone-free policies have no effect. Teachers often report easier classroom management and fewer distractions, while some schools describe increases in face-to-face interaction during breaks after introducing locked-storage systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Researchers from institutions like Stanford and Duke concluded that such bans lead to negligible changes in test scores and attendance. W...</span></span></span>
 
 The key point is narrower: evidence about a phone-free day should not automatically be treated as evidence about a total ban. Different interventions may achieve similar access restrictions while imposing different costs, enforcement burdens and family expectations.
 
@@ -340,276 +340,276 @@ The key point is narrower: evidence about a phone-free day should not automatica
 
 For school leaders, the most important question is often not whether phones are banned but what exactly is being restricted.
 
-A total ban prioritises simplicity and clarity: no phones should be present. A phone-free school day prioritises in-school inaccessibility while allowing pupils to carry devices for travel and after-school use. Both approaches can produce environments where phones are unavailable during lessons, breaks and lunchtime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</span></span></span>
+A total ban prioritises simplicity and clarity: no phones should be present. A phone-free school day prioritises in-school inaccessibility while allowing pupils to carry devices for travel and after-school use. Both approaches can produce environments where phones are unavailable during lessons, breaks and lunchtime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</span></span></span>
 
 The false choice arises when those distinct models are treated as identical. Once storage methods, access rules and exceptions are separated from the general label of “ban”, the policy landscape becomes much broader than a simple yes-or-no argument about phones.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wyqlSsm2CgI" title="What happened when a school banned smartphones? The results surprised parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wyqlSsm2CgI" target="_blank" rel="noopener noreferrer">What happened when a school banned smartphones? The results surprised parents</a></p><p class="youtube-embed-meta">Channel: KurttheCyberGuy &middot; Views: 1.8K &middot; Uploaded: February 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wyqlSsm2CgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wyqlSsm2CgI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does a Phone Ban Actually Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does a Phone Ban Actually Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Anxious+Generation+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Anxious Generation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n9fDEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Anxious Generation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Anxious+Generation+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anxious Generation">The Anxious Generation</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Anxious+Generation+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Anxious Generation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n9fDEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Anxious Generation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Anxious+Generation+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anxious Generation">The Anxious Generation</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Directly relevant to phone bans and youth outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Anxious+Generation+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to phone bans and youth outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Anxious+Generation+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-        </h4>
-        <p class="fr-book-author">By Johann Hari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+</h4>
+<p class="fr-book-author">By Johann Hari</p>
         
-        <p class="fr-book-desc">Provides evidence and context around attention impacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides evidence and context around attention impacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irresistible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pdZLDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Irresistible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irresistible">Irresistible</a>
-        </h4>
-        <p class="fr-book-author">By Adam Alter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irresistible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pdZLDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Irresistible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irresistible">Irresistible</a>
+</h4>
+<p class="fr-book-author">By Adam Alter</p>
         
-        <p class="fr-book-desc">Explains behavioural issues that motivate bans.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains behavioural issues that motivate bans.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Distracted+Mind+by+Adam+Gazzaley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Distracted Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o8sbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Distracted Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Distracted+Mind+by+Adam+Gazzaley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Distracted Mind">The Distracted Mind</a>
-        </h4>
-        <p class="fr-book-author">By Adam Gazzaley, Larry D. Rosen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Distracted+Mind+by+Adam+Gazzaley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Distracted Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o8sbDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Distracted Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Distracted+Mind+by+Adam+Gazzaley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Distracted Mind">The Distracted Mind</a>
+</h4>
+<p class="fr-book-author">By Adam Gazzaley, Larry D. Rosen</p>
         
-        <p class="fr-book-desc">Useful for evaluating distraction-related policy claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Distracted+Mind+by+Adam+Gazzaley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating distraction-related policy claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Distracted+Mind+by+Adam+Gazzaley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Anxious+Generation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Anxious Generation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Irresistible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irresistible</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Anxious+Generation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Anxious Generation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irresistible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irresistible</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack"><img src="{{ '/assets/images/marketplace-covers/af1e5403f1d438c5bdcc.jpg' | relative_url }}" alt="Listing image for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack"><img src="{{ '/assets/images/marketplace-covers/af1e5403f1d438c5bdcc.jpg' | relative_url }}" alt="Listing image for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone storage organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Remote Holder Storage Box PU Leather Phone TV/AC Remote Organizer Stand NEW"><img src="{{ '/assets/images/marketplace-covers/e6c7ee7f676607bf6b85.jpg' | relative_url }}" alt="Listing image for Desk Remote Holder Storage Box PU Leather Phone TV/AC Remote Organizer Stand NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desk Remote Holder Storage Box PU Leather Phone TV/AC Remote Organizer Stand NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Remote Holder Storage Box PU Leather Phone TV/AC Remote Organizer Stand NEW"><img src="{{ '/assets/images/marketplace-covers/e6c7ee7f676607bf6b85.jpg' | relative_url }}" alt="Listing image for Desk Remote Holder Storage Box PU Leather Phone TV/AC Remote Organizer Stand NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desk Remote Holder Storage Box PU Leather Phone TV/AC Remote Organizer Stand NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone storage organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 in 1 Wall Mounted Mobile Phone Charging Organizer Storage Box TV Remot Holder"><img src="{{ '/assets/images/marketplace-covers/b726f7ad67ea313a049d.jpg' | relative_url }}" alt="Listing image for 2 in 1 Wall Mounted Mobile Phone Charging Organizer Storage Box TV Remot Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2 in 1 Wall Mounted Mobile Phone Charging Organizer Storage Box TV Remot Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 in 1 Wall Mounted Mobile Phone Charging Organizer Storage Box TV Remot Holder"><img src="{{ '/assets/images/marketplace-covers/b726f7ad67ea313a049d.jpg' | relative_url }}" alt="Listing image for 2 in 1 Wall Mounted Mobile Phone Charging Organizer Storage Box TV Remot Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2 in 1 Wall Mounted Mobile Phone Charging Organizer Storage Box TV Remot Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone storage organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch"><img src="{{ '/assets/images/marketplace-covers/aa626701502b3fb5e994.jpg' | relative_url }}" alt="Listing image for Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch"><img src="{{ '/assets/images/marketplace-covers/aa626701502b3fb5e994.jpg' | relative_url }}" alt="Listing image for Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone storage organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ban-models-what-does-a-phone-ban-actually-mean-logical-fallacies-phone-storage-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -625,7 +625,7 @@ The false choice arises when those distinct models are treated as identical. Onc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -645,7 +645,7 @@ The false choice arises when those distinct models are treated as identical. Onc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -677,7 +677,7 @@ The false choice arises when those distinct models are treated as identical. Onc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ The false choice arises when those distinct models are treated as identical. Onc
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -765,116 +765,116 @@ The false choice arises when those distinct models are treated as identical. Onc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: mobile phones in schools  
-   Link: <a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: creating a mobile phone free environment school case studies  
-   Link: <a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating a mobile phone-free environment: school case...19 Feb 2026 — All pupils must place their turned-off mobile phone into a lockabl...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creating a mobile phone-free environment: school case...19 Feb 2026 — All pupils must place their turned-off mobile phone into a lockabl...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: education-ni.gov.uk  
    Title: guidance use mobile phones schools launched  
-   Link: <a href="https://www.education-ni.gov.uk/news/guidance-use-mobile-phones-schools-launched" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/news/guidance-use-mobile-phones-schools-launched</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of EducationGuidance on use of mobile phones in schools launched3 Sept 2024 — The new guidance will be accompanied by a pilot...</p></details>
+   Link:<a href="https://www.education-ni.gov.uk/news/guidance-use-mobile-phones-schools-launched" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/news/guidance-use-mobile-phones-schools-launched</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of EducationGuidance on use of mobile phones in schools launched3 Sept 2024 — The new guidance will be accompanied by a pilot...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Evidence for and against banning mobile phones in schools  
-   Link: <a href="https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for and against banning mobile phones in schoolsAugust 13, 2024 — 13 May 2026 — We provide a synthesis of the latest...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for and against banning mobile phones in schoolsAugust 13, 2024 — 13 May 2026 — We provide a synthesis of the latest...</p></details>
    Published: August 13, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gov.ie  
-   Link: <a href="https://www.gov.ie/en/department-of-education/press-releases/minister-mcentee-issues-new-guidance-on-mobile-phone-use-in-schools-supported-by-9m-funding/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ie/en/department-of-education/press-releases/minister-mcentee-issues-new-guidance-on-mobile-phone-use-in-schools-supported-by-9m-funding/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McEntee issues new guidance on mobile phone...13 Jun 2025 — recognised primary schools are required to implement a policy to ban the use...</p></details>
+   Link:<a href="https://www.gov.ie/en/department-of-education/press-releases/minister-mcentee-issues-new-guidance-on-mobile-phone-use-in-schools-supported-by-9m-funding/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ie/en/department-of-education/press-releases/minister-mcentee-issues-new-guidance-on-mobile-phone-use-in-schools-supported-by-9m-funding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McEntee issues new guidance on mobile phone...13 Jun 2025 — recognised primary schools are required to implement a policy to ban the use...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
+   Link:<a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cheshire-pcc.gov.uk  
-   Link: <a href="https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3.5% ban phones from being brought to school at all; 7.9...Read more...</p></details>
+   Link:<a href="https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3.5% ban phones from being brought to school at all; 7.9...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: educationinspection.blog.gov.uk  
-   Link: <a href="https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/" target="_blank" rel="noopener noreferrer nofollow">https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the government&#x27;s updated guidance on mobile phones...23 Jan 2026 — The DfE guidance is clear: it expects a ban on mobile phones in schoo...</p></details>
+   Link:<a href="https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/" target="_blank" rel="noopener noreferrer nofollow">https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the government&#x27;s updated guidance on mobile phones...23 Jan 2026 — The DfE guidance is clear: it expects a ban on mobile phones in schoo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: schoolsweek.co.uk  
-   Link: <a href="https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/" target="_blank" rel="noopener noreferrer nofollow">https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schools WeekPhone ban: The school that confiscates devices for six weeks19 Jan 2026 — If a pupil is found with a phone, it is confiscated...</p></details>
+   Link:<a href="https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/" target="_blank" rel="noopener noreferrer nofollow">https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schools WeekPhone ban: The school that confiscates devices for six weeks19 Jan 2026 — If a pupil is found with a phone, it is confiscated...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers from institutions like Stanford and Duke concluded that such bans lead to negligible changes in test scores and attendance. W...</p></details>
+   Link:<a href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers from institutions like Stanford and Duke concluded that such bans lead to negligible changes in test scores and attendance. W...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mobile.de  
-   Link: <a href="https://www.mobile.de/?srsltid=AfmBOorCF11bUgE-xYL8UYW7t_BsxvHDUpdaHp_U1cY-RRuut2P8c7md" target="_blank" rel="noopener noreferrer nofollow">https://www.mobile.de/?srsltid=AfmBOorCF11bUgE-xYL8UYW7t_BsxvHDUpdaHp_U1cY-RRuut2P8c7md</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nzieren ✓ Wohnmobile ✓ Motorräder ✓ Nutzfahrzeuge ✓ E-Bikes ✓ Jetzt finden...</p></details>
+   Link:<a href="https://www.mobile.de/?srsltid=AfmBOorCF11bUgE-xYL8UYW7t_BsxvHDUpdaHp_U1cY-RRuut2P8c7md" target="_blank" rel="noopener noreferrer nofollow">https://www.mobile.de/?srsltid=AfmBOorCF11bUgE-xYL8UYW7t_BsxvHDUpdaHp_U1cY-RRuut2P8c7md</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nzieren ✓ Wohnmobile ✓ Motorräder ✓ Nutzfahrzeuge ✓ E-Bikes ✓ Jetzt finden...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: policyexchange.org.uk  
-   Link: <a href="https://policyexchange.org.uk/publication/disconnect/" target="_blank" rel="noopener noreferrer nofollow">https://policyexchange.org.uk/publication/disconnect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DisconnectPhones must be locked up at the start of each school day in phone lockers or... school governors in the UK can choose to imple...</p></details>
+   Link:<a href="https://policyexchange.org.uk/publication/disconnect/" target="_blank" rel="noopener noreferrer nofollow">https://policyexchange.org.uk/publication/disconnect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DisconnectPhones must be locked up at the start of each school day in phone lockers or... school governors in the UK can choose to imple...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: overyondr.com  
-   Link: <a href="https://www.overyondr.com/phone-free-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.overyondr.com/phone-free-schools</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SchoolsOur unique, lockable pouch means students keep their phones, but cannot access them during the school day. Teachers no longer have...</p></details>
+   Link:<a href="https://www.overyondr.com/phone-free-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.overyondr.com/phone-free-schools</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SchoolsOur unique, lockable pouch means students keep their phones, but cannot access them during the school day. Teachers no longer have...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/[politics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>study by researchers from universities including Stanford and Duke challenges the effectiveness of strict mobile phone bans in schools, f...</p></details>
+   Link:<a href="https://www.theguardian.com/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/[politics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study by researchers from universities including Stanford and Duke challenges the effectiveness of strict mobile phone bans in schools, f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/the-school-that-locks-phones-away-r397zbrmj" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/the-school-that-locks-phones-away-r397zbrmj</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enacted by headteacher Damian McBeath, the policy resulted in students engaging more actively and socially during breaks, with dramatic r...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/the-school-that-locks-phones-away-r397zbrmj" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/the-school-that-locks-phones-away-r397zbrmj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enacted by headteacher Damian McBeath, the policy resulted in students engaging more actively and socially during breaks, with dramatic r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: birmingham.ac.uk  
-   Link: <a href="https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use" target="_blank" rel="noopener noreferrer nofollow">https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>School bans alone not enough to tackle negative impacts...4 Feb 2025 — First study of its kind finds that restrictive school policies do...</p></details>
+   Link:<a href="https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use" target="_blank" rel="noopener noreferrer nofollow">https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>School bans alone not enough to tackle negative impacts...4 Feb 2025 — First study of its kind finds that restrictive school policies do...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lockershopuk.co.uk  
-   Link: <a href="https://www.lockershopuk.co.uk/Blogs/storage-lockers/why-mobile-phone-storage-lockers-are-essential-for-schools-following-new-uk-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.lockershopuk.co.uk/Blogs/storage-lockers/why-mobile-phone-storage-lockers-are-essential-for-schools-following-new-uk-guidance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Mobile Phone Storage Lockers Are Essential for...5 Jun 2024 — Mobile phone storage lockers for schools provide a secure place for st...</p></details>
+   Link:<a href="https://www.lockershopuk.co.uk/Blogs/storage-lockers/why-mobile-phone-storage-lockers-are-essential-for-schools-following-new-uk-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.lockershopuk.co.uk/Blogs/storage-lockers/why-mobile-phone-storage-lockers-are-essential-for-schools-following-new-uk-guidance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Mobile Phone Storage Lockers Are Essential for...5 Jun 2024 — Mobile phone storage lockers for schools provide a secure place for st...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_LICJh-6aSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_LICJh-6aSA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside a school where phones are banned | ITV NewsPhones are now kept in sealed pouches all day opened with a magnetic security device it...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_LICJh-6aSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_LICJh-6aSA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside a school where phones are banned | ITV NewsPhones are now kept in sealed pouches all day opened with a magnetic security device it...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unesco.org  
    Title: phone bans schools are spreading worldwide policy debate rages  
-   Link: <a href="https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phone bans in schools are spreading worldwide as the...19 Mar 2026 — Recent global monitoring shows that 114 education systems now have...</p></details>
+   Link:<a href="https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phone bans in schools are spreading worldwide as the...19 Mar 2026 — Recent global monitoring shows that 114 education systems now have...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: libertyhumanrights.org.uk  
    Title: Can a police officer or a teacher take a pupil's phone?  
-   Link: <a href="https://www.libertyhumanrights.org.uk/advice_information/can-a-police-officer-or-a-teacher-take-a-pupils-phone/" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/advice_information/can-a-police-officer-or-a-teacher-take-a-pupils-phone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LibertyOnce a phone has been confiscated, the member of staff has wide discretion about how long they keep it for. You are unable to clai...</p></details>
+   Link:<a href="https://www.libertyhumanrights.org.uk/advice_information/can-a-police-officer-or-a-teacher-take-a-pupils-phone/" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/advice_information/can-a-police-officer-or-a-teacher-take-a-pupils-phone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LibertyOnce a phone has been confiscated, the member of staff has wide discretion about how long they keep it for. You are unable to clai...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: paragoninstitute.org  
-   Link: <a href="https://paragoninstitute.org/public-health/banning-smartphones-in-schools/" target="_blank" rel="noopener noreferrer nofollow">https://paragoninstitute.org/public-health/banning-smartphones-in-schools/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Banning Smartphones in Schools: Review of the Literature...5 Jan 2026 — Research shows that cell phone bans can improve academic achieve...</p></details>
+   Link:<a href="https://paragoninstitute.org/public-health/banning-smartphones-in-schools/" target="_blank" rel="noopener noreferrer nofollow">https://paragoninstitute.org/public-health/banning-smartphones-in-schools/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Banning Smartphones in Schools: Review of the Literature...5 Jan 2026 — Research shows that cell phone bans can improve academic achieve...</p></details>

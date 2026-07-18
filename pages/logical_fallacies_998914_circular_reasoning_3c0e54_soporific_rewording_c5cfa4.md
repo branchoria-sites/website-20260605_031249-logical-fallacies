@@ -277,24 +277,24 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporif
 One of the most deceptive forms of circular reasoning occurs when an explanation sounds technical but merely restates the claim it was supposed to explain. Instead of providing a cause, mechanism, or independent reason, the explanation simply renames the phenomenon in different words. Because the language appears scientific or specialised, the weakness can be easy to miss.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-dark.svg" | relative_url }}" alt="Rewording illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The classic example is the claim that opium causes sleep because it possesses a “soporific” or “dormitive” property. Since *soporific* means “sleep-inducing”, the explanation effectively says that opium causes sleep because it has the property of causing sleep. Nothing new has been learned. The conclusion has merely been translated into different vocabulary. Philosophers and logicians have long used this example as a model of explanatory failure and as a warning about circular reasoning hidden behind impressive terminology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
+The classic example is the claim that opium causes sleep because it possesses a “soporific” or “dormitive” property. Since *soporific* means “sleep-inducing”, the explanation effectively says that opium causes sleep because it has the property of causing sleep. Nothing new has been learned. The conclusion has merely been translated into different vocabulary. Philosophers and logicians have long used this example as a model of explanatory failure and as a warning about circular reasoning hidden behind impressive terminology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
 
 ## Why the Opium Example Is Circular
 
-The famous “dormitive virtue” example is commonly traced to a satirical scene in Molière’s 1673 play *The Imaginary Invalid*. In the scene, a medical student is asked why opium induces sleep and replies that it contains a “dormitive virtue”, a response that earns approval from the assembled doctors. The joke works because the answer appears scholarly while explaining nothing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span>
+The famous “dormitive virtue” example is commonly traced to a satirical scene in Molière’s 1673 play *The Imaginary Invalid*. In the scene, a medical student is asked why opium induces sleep and replies that it contains a “dormitive virtue”, a response that earns approval from the assembled doctors. The joke works because the answer appears scholarly while explaining nothing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span>
 
 The structure of the reasoning is:
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
-* Question: Why does opium make people sleep? <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
+* Question: Why does opium make people sleep?<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
 * Answer: Because it has a sleep-causing property.
 
 </div>
 
-At first glance, the answer resembles an explanation. On inspection, however, the property is defined entirely by the effect being explained. The supposed cause adds no information beyond the original observation. Philosophers often describe this as a failure of explanatory distance: the explanation sits so close to the claim that it effectively repeats it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span>
+At first glance, the answer resembles an explanation. On inspection, however, the property is defined entirely by the effect being explained. The supposed cause adds no information beyond the original observation. Philosophers often describe this as a failure of explanatory distance: the explanation sits so close to the claim that it effectively repeats it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span>
 
-A genuine explanation would introduce something independent of the conclusion. Modern pharmacology, for example, explains sedative effects through chemical [interactions]({{ 'interactions/' | relative_url }}) with receptors and nervous-system processes. Whether that explanation is complete or not, it at least introduces [mechanisms]({{ 'mechanisms/' | relative_url }}) that are not simply synonyms for “causes sleep”. The dormitive-virtue explanation does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Scientific Explanation</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</span><span class="citation-popover-meta">Published: May 2003</span></span></span> Encyclopedia of Philosophy
+A genuine explanation would introduce something independent of the conclusion. Modern pharmacology, for example, explains sedative effects through chemical [interactions]({{ 'interactions/' | relative_url }}) with receptors and nervous-system processes. Whether that explanation is complete or not, it at least introduces [mechanisms]({{ 'mechanisms/' | relative_url }}) that are not simply synonyms for “causes sleep”. The dormitive-virtue explanation does not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Scientific Explanation</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</span><span class="citation-popover-meta">Published: May 2003</span></span></span> Encyclopedia of Philosophy
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2X23hAUjSQY" title="Professor Joe Harris discusses the theme of social class in Molière&#x27;s &#x27;Tartuffe&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2X23hAUjSQY" target="_blank" rel="noopener noreferrer">Professor Joe Harris discusses the theme of social class in Molière&#x27;s &#x27;Tartuffe&#x27;</a></p><p class="youtube-embed-meta">Channel: Royal Holloway Languages, Literatures and Cultures &middot; Views: 907 &middot; Uploaded: October 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2X23hAUjSQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2X23hAUjSQY">Open on YouTube</a></p></div></div></div>
 
@@ -315,14 +315,14 @@ Consider these examples:
 
 Each statement sounds explanatory. Yet in each case the proposed reason largely restates the outcome. The explanation merely converts a verb into a noun, adjective, or trait and then presents that reformulation as a cause.
 
-This pattern appears in many fields. In everyday conversation, people often infer hidden qualities from observed behaviour and then use those qualities to explain the same behaviour. The reasoning becomes circular because the evidence for the quality is the very behaviour it supposedly explains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
+This pattern appears in many fields. In everyday conversation, people often infer hidden qualities from observed behaviour and then use those qualities to explain the same behaviour. The reasoning becomes circular because the evidence for the quality is the very behaviour it supposedly explains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
 Technical language can make the problem harder to detect. A specialised term may create an impression of expertise, causing listeners to assume that a mechanism has been identified. Yet a new label is not automatically a new explanation. The crucial question is whether the term refers to independently established processes or merely redescribes the original fact.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-2-dark.svg" | relative_url }}" alt="Rewording illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Property Really Explains Something
 
-Not every reference to a property or disposition is fallacious. Scientific explanations frequently invoke properties such as mass, electrical charge, elasticity, or toxicity. The difference lies in whether the property contributes independent explanatory content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Scientific Explanation</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</span><span class="citation-popover-meta">Published: May 2003</span></span></span> Encyclopedia of Philosophy
+Not every reference to a property or disposition is fallacious. Scientific explanations frequently invoke properties such as mass, electrical charge, elasticity, or toxicity. The difference lies in whether the property contributes independent explanatory content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Scientific Explanation</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</span><span class="citation-popover-meta">Published: May 2003</span></span></span> Encyclopedia of Philosophy
 
 A property becomes informative when it:
 
@@ -337,7 +337,7 @@ A property becomes informative when it:
 
 For example, saying that a substance is toxic is not necessarily circular if toxicity has been independently studied, measured, and linked to identifiable biological mechanisms. The explanation does more than restate the observation; it places the observation within a wider causal framework.
 
-The dormitive-virtue example became famous precisely because it lacks these features. The alleged virtue is defined only through the effect it is supposed to explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span>
+The dormitive-virtue example became famous precisely because it lacks these features. The alleged virtue is defined only through the effect it is supposed to explain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ok7ri7R7Ffw" title="Circular Reasoning (Episode 36)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ok7ri7R7Ffw" target="_blank" rel="noopener noreferrer">Circular Reasoning (Episode 36)</a></p><p class="youtube-embed-meta">Channel: Answers in Genesis Canada &middot; Views: 1.2K &middot; Uploaded: August 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ok7ri7R7Ffw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ok7ri7R7Ffw">Open on YouTube</a></p></div></div></div>
 
@@ -372,276 +372,276 @@ Perhaps the simplest test is whether the explanation increases understanding or 
 
 People naturally seek causes, and language often rewards explanations that sound complete rather than explanations that genuinely add information. A concise label can create a powerful illusion of understanding. Once a phenomenon has been named, the mind may treat the naming itself as an explanation.
 
-Molière’s dormitive-virtue joke has endured for centuries because it captures this tendency perfectly. The example demonstrates that circular reasoning does not always appear as an obvious logical loop. Sometimes it hides behind sophisticated vocabulary, abstract traits, or scientific-sounding terminology. The conclusion returns disguised as an explanation, and the disguise is mistaken for evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
+Molière’s dormitive-virtue joke has endured for centuries because it captures this tendency perfectly. The example demonstrates that circular reasoning does not always appear as an obvious logical loop. Sometimes it hides behind sophisticated vocabulary, abstract traits, or scientific-sounding terminology. The conclusion returns disguised as an explanation, and the disguise is mistaken for evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
 
 Recognising reworded conclusions is therefore an important skill in evaluating arguments. Whenever an explanation seems impressive, it is worth asking whether it reveals a genuine mechanism or merely renames the claim it was meant to explain.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YyigEEx5194" title="What is Circular Reasoning?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YyigEEx5194" target="_blank" rel="noopener noreferrer">What is Circular Reasoning?</a></p><p class="youtube-embed-meta">Channel: History, Science and Religion &middot; Views: 35.3K &middot; Uploaded: August 2017 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YyigEEx5194" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YyigEEx5194">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Explanations Just Rename the Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Explanations Just Rename the Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Explains circular reasoning and explanatory weaknesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains circular reasoning and explanatory weaknesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Shows the difference between genuine explanations and empty labels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the difference between genuine explanations and empty labels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Helps readers distinguish explanation from mere restatement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish explanation from mere restatement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Demonstrates how technical language can disguise weak reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how technical language can disguise weak reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame"><img src="{{ '/assets/images/marketplace-covers/01c6d9e5c77ae8bfb2d4.jpg' | relative_url }}" alt="Listing image for 7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame"><img src="{{ '/assets/images/marketplace-covers/01c6d9e5c77ae8bfb2d4.jpg' | relative_url }}" alt="Listing image for 7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 Rules of Life philosophy reproduction mounted A4 poster with choice of frame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/be39c598db71c503786a.jpg' | relative_url }}" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/be39c598db71c503786a.jpg' | relative_url }}" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5ac191dbe38e9b83310c.jpg' | relative_url }}" alt="Listing image for Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5ac191dbe38e9b83310c.jpg' | relative_url }}" alt="Listing image for Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aristotle Quote Philosophy - We Are Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/787a693b1c0a413b5cae.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/787a693b1c0a413b5cae.jpg' | relative_url }}" alt="Listing image for PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHILOSOPHY Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewording-when-explanations-just-rename-the-claim-logical-fallacies-philosophy-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -657,7 +657,7 @@ Recognising reworded conclusions is therefore an important skill in evaluating a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -677,7 +677,7 @@ Recognising reworded conclusions is therefore an important skill in evaluating a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -709,7 +709,7 @@ Recognising reworded conclusions is therefore an important skill in evaluating a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -739,7 +739,7 @@ Recognising reworded conclusions is therefore an important skill in evaluating a
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -797,122 +797,122 @@ Recognising reworded conclusions is therefore an important skill in evaluating a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.podcasts.ox.ac.uk  
-   Link: <a href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</p></details>
+   Link:<a href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Scientific Explanation  
-   Link: <a href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</p></details>
    Published: May 2003  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: science theory observation  
-   Link: <a href="https://plato.stanford.edu/entries/science-theory-observation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/science-theory-observation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyTheory and Observation in Scienceby NM Boyd · 2009 · Cited by 101 — The strict contrast between theory...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/science-theory-observation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/science-theory-observation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyTheory and Observation in Scienceby NM Boyd · 2009 · Cited by 101 — The strict contrast between theory...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Circular reasoning  
-   Link: <a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They include more than one inference. Descartes...Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They include more than one inference. Descartes...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Moli%C3%A8re" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moli%C3%A8re</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MolièreFrench playwright, actor, and poet, ing that is why your daughter is mute&quot; to mock an unsatisfactory explanation...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Moli%C3%A8re" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moli%C3%A8re</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MolièreFrench playwright, actor, and poet, ing that is why your daughter is mute&quot; to mock an unsatisfactory explanation...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/analysis/s1.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/analysis/s1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Descriptions of AnalysisThis supplement collects together various definitions and descriptions of analysis that have been offered in...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/analysis/s1.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/analysis/s1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Descriptions of AnalysisThis supplement collects together various definitions and descriptions of analysis that have been offered in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/analysis/s1.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/analysis/s1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Descriptions of AnalysisThis supplement collects together various definitions and descriptions of analysis that have been offered in...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall2019/entries/analysis/s1.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/analysis/s1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Descriptions of AnalysisThis supplement collects together various definitions and descriptions of analysis that have been offered in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: causation law  
-   Link: <a href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-law/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Law - Stanford Encyclopedia of Philosophyby M Moore · 2019 · Cited by 92 — The basic questions concerning causation in the law are...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-law/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the Law - Stanford Encyclopedia of Philosophyby M Moore · 2019 · Cited by 92 — The basic questions concerning causation in the law are...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: mathematics explanation  
-   Link: <a href="https://plato.stanford.edu/entries/mathematics-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/mathematics-explanation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanationby P Mancosu · 2008 · Cited by 88 — The philosophical analysis of mathematical explanation concerns itself with two different...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/mathematics-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/mathematics-explanation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explanationby P Mancosu · 2008 · Cited by 88 — The philosophical analysis of mathematical explanation concerns itself with two different...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: elanortaylor.org  
-   Link: <a href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</p></details>
+   Link:<a href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/biography/Moliere-French-dramatist" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Moliere-French-dramatist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Molière | Plays, Tartuffe, Dom Juan, Misanthrope, &amp; FactsIn his plays, on a double vision that holds together opposing ideas, such as wis...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Moliere-French-dramatist" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Moliere-French-dramatist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Molière | Plays, Tartuffe, Dom Juan, Misanthrope, &amp; FactsIn his plays, on a double vision that holds together opposing ideas, such as wis...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/352181896150872/posts/1317544012947984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/352181896150872/posts/1317544012947984/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Molière&#x27;s Timeless Comedic Genius and SatireWhat people are saying. Commenters praise Moliere&#x27;s slapstick humor and satire, citing favori...</p></details>
+   Link:<a href="https://www.facebook.com/groups/352181896150872/posts/1317544012947984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/352181896150872/posts/1317544012947984/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Molière&#x27;s Timeless Comedic Genius and SatireWhat people are saying. Commenters praise Moliere&#x27;s slapstick humor and satire, citing favori...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/291986502_Moliere_Reasoning_With_Fools" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291986502_Moliere_Reasoning_With_Fools</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Molière: Reasoning With FoolsThis book argues that new light can be shed on the words and actions of these characters, and on the tenor o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/291986502_Moliere_Reasoning_With_Fools" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291986502_Moliere_Reasoning_With_Fools</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Molière: Reasoning With FoolsThis book argues that new light can be shed on the words and actions of these characters, and on the tenor o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/19524/1/13.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/19524/1/13.pdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Digital Library of EthiopiaRealism about causality in philosophy and social scienceby R Groff · Cited by 93 — This book is a uni...</p></details>
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/19524/1/13.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/19524/1/13.pdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Digital Library of EthiopiaRealism about causality in philosophy and social scienceby R Groff · Cited by 93 — This book is a uni...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/7/7f/Opium_and_the_opium-appetite_-_with_notices_of_alcoholic_beverages%2C_cannabis_indica%2C_tobacco_and_coca%2C_and_tea_and_coffee%2C_in_their_hygienic_aspects_and_pathologic_relations_%28IA_66640160R.nlm.nih.gov%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/7/7f/Opium_and_the_opium-appetite_-_with_notices_of_alcoholic_beverages%2C_cannabis_indica%2C_tobacco_and_coca%2C_and_tea_and_coffee%2C_in_their_hygienic_aspects_and_pathologic_relations_%28IA_66640160R.nlm.nih.gov%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the opium-appetiteown person. Afterswallowing in succession several lozenges to the amount of 4 grains in all, he began to have an un...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/7/7f/Opium_and_the_opium-appetite_-_with_notices_of_alcoholic_beverages%2C_cannabis_indica%2C_tobacco_and_coca%2C_and_tea_and_coffee%2C_in_their_hygienic_aspects_and_pathologic_relations_%28IA_66640160R.nlm.nih.gov%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/7/7f/Opium_and_the_opium-appetite_-_with_notices_of_alcoholic_beverages%2C_cannabis_indica%2C_tobacco_and_coca%2C_and_tea_and_coffee%2C_in_their_hygienic_aspects_and_pathologic_relations_%28IA_66640160R.nlm.nih.gov%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the opium-appetiteown person. Afterswallowing in succession several lozenges to the amount of 4 grains in all, he began to have an un...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/6knpt3/are_dormitive_virtues_fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/6knpt3/are_dormitive_virtues_fallacies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Dormitive Virtues fallacies?: r/askphilosophyMoliere&#x27;s famous criticism of abstract philosophy is his satire of a group of doctor&#x27;s...</p></details>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/6knpt3/are_dormitive_virtues_fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/6knpt3/are_dormitive_virtues_fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Dormitive Virtues fallacies?: r/askphilosophyMoliere&#x27;s famous criticism of abstract philosophy is his satire of a group of doctor&#x27;s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mastodon.online  
    Title: hosted on mastodon.online""Dormitive virtue" (or "virtus…"  
-   Link: <a href="https://mastodon.online/%40tomstafford/111875480426003891" target="_blank" rel="noopener noreferrer nofollow">https://mastodon.online/%40tomstafford/111875480426003891</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastodon hosted on mastodon.online&quot;&quot;Dormitive virtue&quot; (or &quot;virtus…&quot; - Tom Stafford4 Feb 2024 — &quot;Dormitive virtue&quot; (or &quot;virtus dormitiva&quot;)...</p></details>
+   Link:<a href="https://mastodon.online/%40tomstafford/111875480426003891" target="_blank" rel="noopener noreferrer nofollow">https://mastodon.online/%40tomstafford/111875480426003891</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastodon hosted on mastodon.online&quot;&quot;Dormitive virtue&quot; (or &quot;virtus…&quot; - Tom Stafford4 Feb 2024 — &quot;Dormitive virtue&quot; (or &quot;virtus dormitiva&quot;)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: escholarship.org  
    Title: qt35n0642p noSplash e8fa9c0ce12eebc92b923d6f4b6a2d25  
-   Link: <a href="https://escholarship.org/content/qt35n0642p/qt35n0642p_noSplash_e8fa9c0ce12eebc92b923d6f4b6a2d25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt35n0642p/qt35n0642p_noSplash_e8fa9c0ce12eebc92b923d6f4b6a2d25.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government of the Senses Aesthetic Subjectivity and...by JJ Weiner · 2015 · Cited by 1 — Locke gives the further example of painting...</p></details>
+   Link:<a href="https://escholarship.org/content/qt35n0642p/qt35n0642p_noSplash_e8fa9c0ce12eebc92b923d6f4b6a2d25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt35n0642p/qt35n0642p_noSplash_e8fa9c0ce12eebc92b923d6f4b6a2d25.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Government of the Senses Aesthetic Subjectivity and...by JJ Weiner · 2015 · Cited by 1 — Locke gives the further example of painting...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/archive/LAWPTB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/LAWPTB.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Permission to believe: - Descriptive and prescriptive beliefs...by CP Lawrence · 2020 — Molière&#x27;s jibe about opium putting you to sleep...</p></details>
+   Link:<a href="https://philpapers.org/archive/LAWPTB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/LAWPTB.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Permission to believe: - Descriptive and prescriptive beliefs...by CP Lawrence · 2020 — Molière&#x27;s jibe about opium putting you to sleep...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fitelson.org  
-   Link: <a href="https://fitelson.org/confirmation/hume_enquiry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fitelson.org/confirmation/hume_enquiry.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Enquiry concerning Human Understandingby D HUME · Cited by 12965 — rhubarb always proved a purge, or opium a soporific* to every one...</p></details>
+   Link:<a href="https://fitelson.org/confirmation/hume_enquiry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fitelson.org/confirmation/hume_enquiry.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Enquiry concerning Human Understandingby D HUME · Cited by 12965 — rhubarb always proved a purge, or opium a soporific* to every one...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/456860881/Moliere-Encyclopedia-Britannica" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456860881/Moliere-Encyclopedia-Britannica</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and beginnings in the theater, forming a troupe and touring...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/456860881/Moliere-Encyclopedia-Britannica" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456860881/Moliere-Encyclopedia-Britannica</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and beginnings in the theater, forming a troupe and touring...Read more...</p></details>

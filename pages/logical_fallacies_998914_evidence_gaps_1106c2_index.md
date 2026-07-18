@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-evidence-gaps/
 description: Focused pages that expand on Evidence Gaps.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914_evidence_gaps_1106c2
 parent_title: Evidence Gaps
@@ -16,7 +16,7 @@ parent_permalink: /evidence-gaps/
 
 # Explore Topics in Evidence Gaps
 
-The following pages expand on the main **[Evidence Gaps]({{ '/evidence-gaps/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Evidence Gaps]({{ '/evidence-gaps/' | relative_url }})** page and cover its key branches in.
 
 - [Ad Claims]({{ '/ad-claims/' | relative_url }})
 - [Anecdotes]({{ '/anecdotes-277b8a/' | relative_url }})

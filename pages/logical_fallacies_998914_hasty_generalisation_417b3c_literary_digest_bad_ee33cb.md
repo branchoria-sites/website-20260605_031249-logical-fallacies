@@ -268,20 +268,20 @@ image: /assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_liter
 
 ## Introduction
 
-The 1936 *Literary Digest* poll is one of the most famous examples of how a hasty generalisation can arise from a weak sample. The magazine collected an astonishing number of responses—more than two million—and yet reached a conclusion that was dramatically wrong. It predicted that Republican candidate Alf Landon would defeat President Franklin D. Roosevelt in the United States presidential election. Instead, Roosevelt won in a landslide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historymatters.gmu.edu">[History Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historymatters.gmu.edu</span><span class="citation-popover-snippet">History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</span></span></span>
+The 1936 *Literary Digest* poll is one of the most famous examples of how a hasty generalisation can arise from a weak sample. The magazine collected an astonishing number of responses—more than two million—and yet reached a conclusion that was dramatically wrong. It predicted that Republican candidate Alf Landon would defeat President Franklin D. Roosevelt in the United States presidential election. Instead, Roosevelt won in a landslide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historymatters.gmu.edu">[History Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historymatters.gmu.edu</span><span class="citation-popover-snippet">History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-1-dark.svg" | relative_url }}" alt="Digest Poll illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The case remains important because it demonstrates a crucial lesson about evidence: a large quantity of data does not guarantee a reliable conclusion. If the people being measured are not representative of the wider population, increasing the sample size may simply produce a more precise version of the wrong answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</span></span></span>
+The case remains important because it demonstrates a crucial lesson about evidence: a large quantity of data does not guarantee a reliable conclusion. If the people being measured are not representative of the wider population, increasing the sample size may simply produce a more precise version of the wrong answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YydGemJLTlM" title="Survey Says: With Guests W. Joseph Campbell &amp; Emily Oster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YydGemJLTlM" target="_blank" rel="noopener noreferrer">Survey Says: With Guests W. Joseph Campbell &amp; Emily Oster</a></p><p class="youtube-embed-meta">Channel: Charles Schwab &middot; Views: 111 &middot; Uploaded: December 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YydGemJLTlM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YydGemJLTlM">Open on YouTube</a></p></div></div></div>
 
 ## What the Poll Predicted
 
-For several elections before 1936, *The Literary Digest* had successfully predicted the winner and had built a reputation for polling accuracy. In 1936 the magazine launched an enormous survey, mailing millions of ballot cards to potential voters and receiving more than two million responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineTaking the Next Step in Exploring the Literary Digest 1936...by B Chance · 2024 — Their methods correctly predict...</span></span></span>
+For several elections before 1936, *The Literary Digest* had successfully predicted the winner and had built a reputation for polling accuracy. In 1936 the magazine launched an enormous survey, mailing millions of ballot cards to potential voters and receiving more than two million responses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineTaking the Next Step in Exploring the Literary Digest 1936...by B Chance · 2024 — Their methods correctly predict...</span></span></span>
 
-Based on those returns, the magazine forecast that Landon would receive about 57% of the popular vote and comfortably defeat Roosevelt. The prediction appeared convincing because the number of responses was unprecedented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historymatters.gmu.edu">[History Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historymatters.gmu.edu</span><span class="citation-popover-snippet">History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</span></span></span>
+Based on those returns, the magazine forecast that Landon would receive about 57% of the popular vote and comfortably defeat Roosevelt. The prediction appeared convincing because the number of responses was unprecedented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historymatters.gmu.edu">[History Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historymatters.gmu.edu</span><span class="citation-popover-snippet">History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</span></span></span>
 
-The actual election result was almost the reverse. Roosevelt won more than 60% of the popular vote and carried all but two states. The polling error was so large that it became a landmark case in the history of survey research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Literary Digest</span><span class="citation-popover-snippet">The Literary Digest</span></span></span>
+The actual election result was almost the reverse. Roosevelt won more than 60% of the popular vote and carried all but two states. The polling error was so large that it became a landmark case in the history of survey research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Literary Digest</span><span class="citation-popover-snippet">The Literary Digest</span></span></span>
 
 For students of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the significance is clear. The magazine treated its evidence as representative of the electorate as a whole and generalised from it to a national conclusion. The problem was not a lack of data. The problem was the quality of the sample.
 
@@ -289,18 +289,18 @@ For students of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), 
 
 ## Why the Sample Frame Skewed the Result
 
-The central flaw lay in how the magazine chose the people it contacted. Its mailing lists were drawn largely from telephone directories, automobile registration records, and its own subscriber lists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
+The central flaw lay in how the magazine chose the people it contacted. Its mailing lists were drawn largely from telephone directories, automobile registration records, and its own subscriber lists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
 
-Today, owning a telephone or a car may not seem unusual. In 1936, however, the United States was still experiencing the effects of the Great Depression. Telephone owners, car owners, and magazine subscribers tended to be wealthier than average citizens. Those wealthier voters were more likely to support Landon than Roosevelt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">19361936 (MCMXXXVI) was a leap year starting on Wednesday of the Gregorian calendar, the 1936th year of the Common Era (CE) and Anno D...</span></span></span>
+Today, owning a telephone or a car may not seem unusual. In 1936, however, the United States was still experiencing the effects of the Great Depression. Telephone owners, car owners, and magazine subscribers tended to be wealthier than average citizens. Those wealthier voters were more likely to support Landon than Roosevelt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">19361936 (MCMXXXVI) was a leap year starting on Wednesday of the Gregorian calendar, the 1936th year of the Common Era (CE) and Anno D...</span></span></span>
 
-As a result, the poll's sampling frame—the pool from which respondents were selected—did not closely match the voting population it was supposed to represent. Even before anyone returned a ballot, the survey was already tilted towards a particular segment of society. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
+As a result, the poll's sampling frame—the pool from which respondents were selected—did not closely match the voting population it was supposed to represent. Even before anyone returned a ballot, the survey was already tilted towards a particular segment of society.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
 
-A second problem made matters worse. Only a minority of the people who received ballots actually replied. Research conducted after the election suggested that Roosevelt opponents were more likely to return the survey, creating an additional layer of bias. This is known as non-response bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
+A second problem made matters worse. Only a minority of the people who received ballots actually replied. Research conducted after the election suggested that Roosevelt opponents were more likely to return the survey, creating an additional layer of bias. This is known as non-response bias.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
 
 The result was a sample that differed from the electorate in two ways:
 
 * The people contacted were not representative of all voters.
-* The people who chose to respond were not representative even of those contacted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
+* The people who chose to respond were not representative even of those contacted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
 
 These distortions combined to produce a highly misleading picture of public opinion.
 
@@ -309,11 +309,11 @@ These distortions combined to produce a highly misleading picture of public opin
 
 The most enduring lesson of the *Literary Digest* failure is that sample size and sample quality are different issues.
 
-Many people assume that a survey becomes reliable once enough responses are collected. The 1936 poll appears to support that intuition: more than two million people participated. Yet the prediction was disastrously inaccurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historymatters.gmu.edu">[History Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historymatters.gmu.edu</span><span class="citation-popover-snippet">History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</span></span></span>
+Many people assume that a survey becomes reliable once enough responses are collected. The 1936 poll appears to support that intuition: more than two million people participated. Yet the prediction was disastrously inaccurate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historymatters.gmu.edu">[History Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historymatters.gmu.edu</span><span class="citation-popover-snippet">History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</span></span></span>
 
-The reason is that adding more observations from a biased source does not remove the bias. If a survey repeatedly measures the wrong group, collecting additional responses simply reinforces the same distortion. A huge sample can reduce random error while leaving systematic error untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
+The reason is that adding more observations from a biased source does not remove the bias. If a survey repeatedly measures the wrong group, collecting additional responses simply reinforces the same distortion. A huge sample can reduce random error while leaving systematic error untouched.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
 
-The contrast with George Gallup's polling operation became famous. Gallup used a far smaller sample—tens of thousands rather than millions—but paid much closer attention to representativeness. His poll correctly identified Roosevelt as the likely winner. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1936_Summer_Olympics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1936 Summer Olympics</span><span class="citation-popover-snippet">1936 Summer OlympicsOlympiade) and officially branded as Berlin 1936, were an international multi-sport event held from August 1st to...</span></span></span>
+The contrast with George Gallup's polling operation became famous. Gallup used a far smaller sample—tens of thousands rather than millions—but paid much closer attention to representativeness. His poll correctly identified Roosevelt as the likely winner.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1936_Summer_Olympics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1936 Summer Olympics</span><span class="citation-popover-snippet">1936 Summer OlympicsOlympiade) and officially branded as Berlin 1936, were an international multi-sport event held from August 1st to...</span></span></span>
 
 This comparison highlights a key principle behind avoiding hasty generalisations:
 
@@ -321,7 +321,7 @@ This comparison highlights a key principle behind avoiding hasty generalisations
 
 * **More data** helps only when the data reasonably reflects the population being studied.
 * **Representative sampling** is often more important than sheer quantity.
-* **Biased evidence remains biased**, even when collected on a massive scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
+* **Biased evidence remains biased**, even when collected on a massive scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
 
 </div>
 
@@ -331,276 +331,276 @@ This comparison highlights a key principle behind avoiding hasty generalisations
 
 The *Literary Digest* poll endures as a cautionary example because it challenges an intuitive but mistaken belief: that a very large number of examples automatically creates strong evidence.
 
-In reality, the poll's millions of responses encouraged confidence in a conclusion that rested on a badly selected sample. The magazine effectively generalised from a subset of wealthier and disproportionately anti-Roosevelt voters to the entire electorate. That leap from an unrepresentative sample to a broad claim is exactly the kind of reasoning error that lies behind hasty generalisations and weak-sample arguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Literary Digest</span><span class="citation-popover-snippet">The Literary Digest</span></span></span>
+In reality, the poll's millions of responses encouraged confidence in a conclusion that rested on a badly selected sample. The magazine effectively generalised from a subset of wealthier and disproportionately anti-Roosevelt voters to the entire electorate. That leap from an unrepresentative sample to a broad claim is exactly the kind of reasoning error that lies behind hasty generalisations and weak-sample arguments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Literary Digest</span><span class="citation-popover-snippet">The Literary Digest</span></span></span>
 
-The episode remains memorable because it shows that the crucial question is not merely “How many examples do we have?” but “Do these examples genuinely represent the wider group?” When the answer is no, even millions of observations can lead to the wrong conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</span></span></span>
+The episode remains memorable because it shows that the crucial question is not merely “How many examples do we have?” but “Do these examples genuinely represent the wider group?” When the answer is no, even millions of observations can lead to the wrong conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-3-dark.svg" | relative_url }}" alt="Digest Poll illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Huge Poll That Got It Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Huge Poll That Got It Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Discusses prediction, polling, and why large datasets can still mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses prediction, polling, and why large datasets can still mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Clarifies sampling, representativeness, and inference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies sampling, representativeness, and inference.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows why impressive numbers do not guarantee valid conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why impressive numbers do not guarantee valid conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Focuses on data literacy and avoiding misleading impressions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on data literacy and avoiding misleading impressions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 - Wall POSTER Print Art - 1979 Margaret Thatcher Election Advert Poster"><img src="{{ '/assets/images/marketplace-covers/d2f43ac968d592fe3fae.jpg' | relative_url }}" alt="Listing image for A4 - Wall POSTER Print Art - 1979 Margaret Thatcher Election Advert Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A4 - Wall POSTER Print Art - 1979 Margaret Thatcher Election Advert Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for election poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: election poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 - Wall POSTER Print Art - 1979 Margaret Thatcher Election Advert Poster"><img src="{{ '/assets/images/marketplace-covers/d2f43ac968d592fe3fae.jpg' | relative_url }}" alt="Listing image for A4 - Wall POSTER Print Art - 1979 Margaret Thatcher Election Advert Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A4 - Wall POSTER Print Art - 1979 Margaret Thatcher Election Advert Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for election poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: election poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ELECTION - WITHERSPOON / PAYNE / BRODERICK - ORIGINAL LARGE FRENCH MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/6ec3f221d3e9001c9c3d.jpg' | relative_url }}" alt="Listing image for ELECTION - WITHERSPOON / PAYNE / BRODERICK - ORIGINAL LARGE FRENCH MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ELECTION - WITHERSPOON / PAYNE / BRODERICK - ORIGINAL LARGE FRENCH MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for election poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: election poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ELECTION - WITHERSPOON / PAYNE / BRODERICK - ORIGINAL LARGE FRENCH MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/6ec3f221d3e9001c9c3d.jpg' | relative_url }}" alt="Listing image for ELECTION - WITHERSPOON / PAYNE / BRODERICK - ORIGINAL LARGE FRENCH MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ELECTION - WITHERSPOON / PAYNE / BRODERICK - ORIGINAL LARGE FRENCH MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for election poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: election poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for General Election Map 1964 Political Poster The Times Newspaper"><img src="{{ '/assets/images/marketplace-covers/141e1479d15507f5200b.jpg' | relative_url }}" alt="Listing image for General Election Map 1964 Political Poster The Times Newspaper" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">General Election Map 1964 Political Poster The Times Newspaper</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for election poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: election poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for General Election Map 1964 Political Poster The Times Newspaper"><img src="{{ '/assets/images/marketplace-covers/141e1479d15507f5200b.jpg' | relative_url }}" alt="Listing image for General Election Map 1964 Political Poster The Times Newspaper" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">General Election Map 1964 Political Poster The Times Newspaper</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for election poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: election poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Labour Isn&#x27;t Working Conservative Party Election Poster A3/A4 Print"><img src="{{ '/assets/images/marketplace-covers/7b4663373697567c7758.jpg' | relative_url }}" alt="Listing image for Labour Isn&#x27;t Working Conservative Party Election Poster A3/A4 Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Labour Isn&#x27;t Working Conservative Party Election Poster A3/A4 Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for election poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: election poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Labour Isn&#x27;t Working Conservative Party Election Poster A3/A4 Print"><img src="{{ '/assets/images/marketplace-covers/7b4663373697567c7758.jpg' | relative_url }}" alt="Listing image for Labour Isn&#x27;t Working Conservative Party Election Poster A3/A4 Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Labour Isn&#x27;t Working Conservative Party Election Poster A3/A4 Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for election poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: election poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=election+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digest-poll-the-huge-poll-that-got-it-wrong-logical-fallacies-election-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -616,7 +616,7 @@ The episode remains memorable because it shows that the crucial question is not 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -636,7 +636,7 @@ The episode remains memorable because it shows that the crucial question is not 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -668,7 +668,7 @@ The episode remains memorable because it shows that the crucial question is not 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ The episode remains memorable because it shows that the crucial question is not 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -756,95 +756,95 @@ The episode remains memorable because it shows that the crucial question is not 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Literary Digest  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Literary_Digest</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Literary_Digest</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/1936" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1936</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19361936 (MCMXXXVI) was a leap year starting on Wednesday of the Gregorian calendar, the 1936th year of the Common Era (CE) and Anno D...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1936" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19361936 (MCMXXXVI) was a leap year starting on Wednesday of the Gregorian calendar, the 1936th year of the Common Era (CE) and Anno D...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 1936 Summer Olympics  
-   Link: <a href="https://en.wikipedia.org/wiki/1936_Summer_Olympics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1936_Summer_Olympics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1936 Summer OlympicsOlympiade) and officially branded as Berlin 1936, were an international multi-sport event held from August 1st to...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1936_Summer_Olympics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1936_Summer_Olympics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1936 Summer OlympicsOlympiade) and officially branded as Berlin 1936, were an international multi-sport event held from August 1st to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: historymatters.gmu.edu  
-   Link: <a href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow">https://historymatters.gmu.edu/d/5168/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</p></details>
+   Link:<a href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow">https://historymatters.gmu.edu/d/5168/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bitbybitbook.com  
    Title: Bit by Bit Asking questions  
-   Link: <a href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</p></details>
+   Link:<a href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineTaking the Next Step in Exploring the Literary Digest 1936...by B Chance · 2024 — Their methods correctly predict...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineTaking the Next Step in Exploring the Literary Digest 1936...by B Chance · 2024 — Their methods correctly predict...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/literary" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/literary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LITERARY Definition &amp; Meaning6 days ago — The meaning of LITERARY is of, relating to, or having the characteristics of humane learning or...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/literary" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/literary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LITERARY Definition &amp; Meaning6 days ago — The meaning of LITERARY is of, relating to, or having the characteristics of humane learning or...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: randomservices.org  
-   Link: <a href="https://www.randomservices.org/random/data/LiteraryDigest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.randomservices.org/random/data/LiteraryDigest.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Literary Digest PollThe candidates were Franklin Delano Roosevelt (the incumbent president, a democrat) and Alfred (Alf) Mossman Land...</p></details>
+   Link:<a href="https://www.randomservices.org/random/data/LiteraryDigest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.randomservices.org/random/data/LiteraryDigest.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Literary Digest PollThe candidates were Franklin Delano Roosevelt (the incumbent president, a democrat) and Alfred (Alf) Mossman Land...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 315940924 Roosevelt Predicted to Win Revisiting the 1936 Literary Digest Poll  
-   Link: <a href="https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roosevelt Predicted to Win: Revisiting the 1936 Literary...The Literary Digest poll of 1936, which incorrectly predicted that Landon wou...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roosevelt Predicted to Win: Revisiting the 1936 Literary...The Literary Digest poll of 1936, which incorrectly predicted that Landon wou...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theatlantic.com  
    Title: cellphones skew political polls did landlines do the same thing in 1936  
-   Link: <a href="https://www.theatlantic.com/technology/archive/2012/09/cellphones-skew-political-polls-did-landlines-do-the-same-thing-in-1936/262640/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/technology/archive/2012/09/cellphones-skew-political-polls-did-landlines-do-the-same-thing-in-1936/262640/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cellphones Skew Political Polls: Did Landlines Do...20 Sept 2012 — The infamous Literary Digest poll of 1936 predicted Alf Landon would...</p></details>
+   Link:<a href="https://www.theatlantic.com/technology/archive/2012/09/cellphones-skew-political-polls-did-landlines-do-the-same-thing-in-1936/262640/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/technology/archive/2012/09/cellphones-skew-political-polls-did-landlines-do-the-same-thing-in-1936/262640/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cellphones Skew Political Polls: Did Landlines Do...20 Sept 2012 — The infamous Literary Digest poll of 1936 predicted Alf Landon would...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pivotalresearch.ca  
    Title: the poll that changed polling selection bias and the 1936 us election  
-   Link: <a href="https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/" target="_blank" rel="noopener noreferrer nofollow">https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Poll that Changed Polling (Selection bias and the 1936...3 Jul 2024 — In advance of the 1936 presidential election, the Literary Dig...</p></details>
+   Link:<a href="https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/" target="_blank" rel="noopener noreferrer nofollow">https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Poll that Changed Polling (Selection bias and the 1936...3 Jul 2024 — In advance of the 1936 presidential election, the Literary Dig...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalww2museum.org  
    Title: 1936 year worker labor action and reelection franklin d roosevelt  
-   Link: <a href="https://www.nationalww2museum.org/war/articles/1936-year-worker-labor-action-and-reelection-franklin-d-roosevelt" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/1936-year-worker-labor-action-and-reelection-franklin-d-roosevelt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1936, a Year for the Worker: Labor Action and...Jul 13, 2023 — In 1936, strikes and protests achieved major gains for American workers a...</p></details>
+   Link:<a href="https://www.nationalww2museum.org/war/articles/1936-year-worker-labor-action-and-reelection-franklin-d-roosevelt" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/1936-year-worker-labor-action-and-reelection-franklin-d-roosevelt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1936, a Year for the Worker: Labor Action and...Jul 13, 2023 — In 1936, strikes and protests achieved major gains for American workers a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publisher. An intro to a statistical bias that makes its...Read more...</p></details>
+   Link:<a href="https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publisher. An intro to a statistical bias that makes its...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blogs.library.duke.edu  
-   Link: <a href="https://blogs.library.duke.edu/digital-collections/adaccess/timeline/1936-1940/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.duke.edu/digital-collections/adaccess/timeline/1936-1940/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>duke.edu1936-1940 | Digital Collections Blog1936. Part of Roosevelt&#x27;s New Deal policies, the Agricultural Adjustment Act (AAA), is deemed...</p></details>
+   Link:<a href="https://blogs.library.duke.edu/digital-collections/adaccess/timeline/1936-1940/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.duke.edu/digital-collections/adaccess/timeline/1936-1940/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>duke.edu1936-1940 | Digital Collections Blog1936. Part of Roosevelt&#x27;s New Deal policies, the Agricultural Adjustment Act (AAA), is deemed...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mathcenter.oxford.emory.edu  
    Title: historical Blunders  
-   Link: <a href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow">https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Math CenterFamous Statistical Blunders in HistoryIn 1936, Literary Digest, a national magazine of the time, sent out 10 million &quot;straw&quot; b...</p></details>
+   Link:<a href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow">https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Math CenterFamous Statistical Blunders in HistoryIn 1936, Literary Digest, a national magazine of the time, sent out 10 million &quot;straw&quot; b...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2107.14166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.14166</a>
+   Link:<a href="https://arxiv.org/abs/2107.14166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.14166</a>

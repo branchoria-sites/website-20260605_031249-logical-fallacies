@@ -271,7 +271,7 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_cu
 Claims that a team is losing because of a cursed logo are easy to make and hard to test. A logo change often happens at a memorable moment, and any subsequent losing streak feels like confirmation. Yet a serious causal claim requires more than timing. To show that a logo caused poorer results, evidence would need to rule out stronger explanations such as injuries, tactical changes, opponent strength, recruitment problems, random variation and confidence effects. In logical-fallacy terms, the key mistake is often moving from “this happened before the losses” to “this caused the losses”.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Checks illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A better evidence check asks a simple question: what evidence would persuade a sceptical observer that the logo, rather than ordinary sporting factors, explains the results? Once that standard is applied, most logo-curse claims become much weaker. At the same time, there remains a narrower possibility that branding changes can influence morale or fan behaviour indirectly. The challenge is distinguishing symbolic effects from performance effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.e.jimdo.com">[Jimdo Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.e.jimdo.com</span><span class="citation-popover-snippet">Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
+A better evidence check asks a simple question: what evidence would persuade a sceptical observer that the logo, rather than ordinary sporting factors, explains the results? Once that standard is applied, most logo-curse claims become much weaker. At the same time, there remains a narrower possibility that branding changes can influence morale or fan behaviour indirectly. The challenge is distinguishing symbolic effects from performance effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.e.jimdo.com">[Jimdo Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.e.jimdo.com</span><span class="citation-popover-snippet">Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
 
 ## What Evidence a Logo Claim Would Need
 
@@ -279,9 +279,9 @@ A genuine logo-causation claim needs more than anecdotes and losing streaks. It 
 
 First, there must be a plausible pathway from the symbol to on-field performance. A logo itself does not tackle, score or defend. Therefore, supporters would need to show how the logo changed player behaviour, preparation, concentration, motivation or another factor that influences results.
 
-Second, the effect should appear consistently rather than selectively. If a team wins repeatedly after a redesign, those matches must count as evidence too. One of the strongest warning signs of superstition is remembering the “hits” and forgetting the “misses”. Research on sports superstition shows that people often maintain beliefs because occasional successes reinforce them, even when failures occur just as often. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Demystifying Sport Superstition</span><span class="citation-popover-snippet">Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</span><span class="citation-popover-meta">Published: August 16, 2016</span></span></span>
+Second, the effect should appear consistently rather than selectively. If a team wins repeatedly after a redesign, those matches must count as evidence too. One of the strongest warning signs of superstition is remembering the “hits” and forgetting the “misses”. Research on sports superstition shows that people often maintain beliefs because occasional successes reinforce them, even when failures occur just as often.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Demystifying Sport Superstition</span><span class="citation-popover-snippet">Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</span><span class="citation-popover-meta">Published: August 16, 2016</span></span></span>
 
-Third, the claim should survive comparison with similar teams. If dozens of clubs redesign logos and most [experience]({{ 'experience/' | relative_url }}) no unusual decline, that weakens the idea that redesigns typically cause competitive failure. Research on sport rebranding has found measurable effects on fan attitudes and merchandise intentions, but that is different from demonstrating a direct effect on wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> CoLab A useful test is to ask whether an analyst who knew nothing about the logo would still predict the team's decline from injuries <span class="citation-chip-wrap"><a class="citation-chip" href="https://colab.ws/articles/10.1108/ijsms-01-2021-0016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colab.ws">[colab.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colab.ws</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...28 Jun 2021 — The findings advance the current body of knowledge on sp...</span></span></span>, squad age, financial constraints or tactical issues alone. If the answer is yes, the logo adds little explanatory value.
+Third, the claim should survive comparison with similar teams. If dozens of clubs redesign logos and most [experience]({{ 'experience/' | relative_url }}) no unusual decline, that weakens the idea that redesigns typically cause competitive failure. Research on sport rebranding has found measurable effects on fan attitudes and merchandise intentions, but that is different from demonstrating a direct effect on wins and losses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> CoLab A useful test is to ask whether an analyst who knew nothing about the logo would still predict the team's decline from injuries<span class="citation-chip-wrap"><a class="citation-chip" href="https://colab.ws/articles/10.1108/ijsms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colab.ws">[colab.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colab.ws</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...28 Jun 2021 — The findings advance the current body of knowledge on sp...</span></span></span>, squad age, financial constraints or tactical issues alone. If the answer is yes, the logo adds little explanatory value.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GIR6x6AdyOg" title="The Last of the Sports Curses (HBO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GIR6x6AdyOg" target="_blank" rel="noopener noreferrer">The Last of the Sports Curses (HBO)</a></p><p class="youtube-embed-meta">Channel: Any Given Wednesday with Bill Simmons &middot; Views: 12.5K &middot; Uploaded: November 2016 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GIR6x6AdyOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GIR6x6AdyOg">Open on YouTube</a></p></div></div></div>
 
@@ -289,24 +289,24 @@ Third, the claim should survive comparison with similar teams. If dozens of club
 
 Before considering a curse explanation, several performance variables deserve attention because they have known links to sporting outcomes.
 
-**Player availability.** Injuries and suspensions can dramatically affect team quality. Modern sports analytics devotes extensive effort to understanding injury risk because player availability is one of the most important drivers of performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCJinx, Control, and the Necessity of Adjustment</span><span class="citation-popover-snippet">nih.govJinx, Control, and the Necessity of Adjustment - PMC - NIHby O Levental · 2021 · Cited by 26 — This paper aims to provide a qualit...</span></span></span>
+**Player availability.** Injuries and suspensions can dramatically affect team quality. Modern sports analytics devotes extensive effort to understanding injury risk because player availability is one of the most important drivers of performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCJinx, Control, and the Necessity of Adjustment</span><span class="citation-popover-snippet">nih.govJinx, Control, and the Necessity of Adjustment - PMC - NIHby O Levental · 2021 · Cited by 26 — This paper aims to provide a qualit...</span></span></span>
 
 **Opponent quality.** A difficult run of fixtures can make a strong team look weak. A losing streak against elite opponents is not equivalent to a losing streak against struggling teams.
 
-**Underlying performance data.** Results can be misleading in [small samples]({{ 'small-samples/' | relative_url }}). Football analysts often examine shot quality, expected goals and related measures because they reveal performance patterns that raw wins and losses may hide. A team can play well and still lose several matches through variance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oec.uzh.ch">[OEC UZH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oec.uzh.ch</span><span class="citation-popover-snippet">Luck vs. skill – the role of sports data analyticsShots are positively correlated with goals and occur much more often. However, b...</span></span></span>
+**Underlying performance data.** Results can be misleading in [small samples]({{ 'small-samples/' | relative_url }}). Football analysts often examine shot quality, expected goals and related measures because they reveal performance patterns that raw wins and losses may hide. A team can play well and still lose several matches through variance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oec.uzh.ch">[OEC UZH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oec.uzh.ch</span><span class="citation-popover-snippet">Luck vs. skill – the role of sports data analyticsShots are positively correlated with goals and occur much more often. However, b...</span></span></span>
 
 **Tactical and coaching changes.** New systems frequently require adaptation. Short-term declines may reflect tactical transition rather than symbolic factors.
 
-**Luck and randomness.** Sporting outcomes contain substantial uncertainty. Research on luck in sport highlights how random variation can cluster, creating apparent patterns that observers mistake for meaningful causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scitechnol.com">[SciTechnol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scitechnol.com</span><span class="citation-popover-snippet">Luck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</span></span></span>
+**Luck and randomness.** Sporting outcomes contain substantial uncertainty. Research on luck in sport highlights how random variation can cluster, creating apparent patterns that observers mistake for meaningful causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scitechnol.com">[SciTechnol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scitechnol.com</span><span class="citation-popover-snippet">Luck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</span></span></span>
 
 These variables are not merely alternative explanations. They are explanations with established [mechanisms]({{ 'mechanisms/' | relative_url }}) linking them to results. A logo-curse theory must outperform them, not simply coexist with them.
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Checks illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Fan Reactions Are Not the Same as Match Outcomes
 
-Supporters often react strongly to logo changes because logos are tied to identity, [tradition]({{ 'tradition/' | relative_url }}) and belonging. Studies of sport rebranding consistently find that redesigns can affect attitudes toward the team brand and willingness to purchase merchandise, particularly among highly identified fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> ResearchGate This matters because it explains why logo disputes feel important. Fans are not irrational for caring about symbols. The mistake occurs when <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</span></span></span> dissatisfaction with a redesign is automatically treated as evidence about competitive performance.
+Supporters often react strongly to logo changes because logos are tied to identity, [tradition]({{ 'tradition/' | relative_url }}) and belonging. Studies of sport rebranding consistently find that redesigns can affect attitudes toward the team brand and willingness to purchase merchandise, particularly among highly identified fans.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> ResearchGate This matters because it explains why logo disputes feel important. Fans are not irrational for caring about symbols. The mistake occurs when<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</span></span></span> dissatisfaction with a redesign is automatically treated as evidence about competitive performance.
 
-Research on fan identification and superstition also shows that stronger emotional attachment can be associated with greater superstition and ritual behaviour. Highly committed supporters are often more likely to perceive symbolic actions as consequential. ResearchGate <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Importance of Team Identification, Sport Fandom, and...by DL Wann · 2018 · Cited by 20 — Previous research had found that both team iden...</span></span></span>
+Research on fan identification and superstition also shows that stronger emotional attachment can be associated with greater superstition and ritual behaviour. Highly committed supporters are often more likely to perceive symbolic actions as consequential. ResearchGate<span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Importance of Team Identification, Sport Fandom, and...by DL Wann · 2018 · Cited by 20 — Previous research had found that both team iden...</span></span></span>
 
 As a result, a logo may become a focal point for frustration during poor seasons. The symbol is visible everywhere, whereas tactical errors, declining athleticism or fixture difficulty are less emotionally memorable.
 
@@ -316,7 +316,7 @@ A complete rejection of logo effects would go too far. There is a narrow and mor
 
 Suppose a logo change becomes part of a broader organisational conflict. Fans feel alienated, media criticism intensifies, club leadership loses trust, and players face constant controversy. In that scenario, the logo is not causing defeats directly. Instead, it may be one element in a wider climate that affects morale and confidence.
 
-This indirect pathway is more plausible because it uses recognised psychological and organisational mechanisms. Research on fan identity and branding demonstrates that symbols can influence attitudes and feelings of connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineUnderstanding the use of superstitious rituals in sports...by B Morris · 2025 · Cited by 4 — Athletes may create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineUnderstanding the use of superstitious rituals in sports...by B Morris · 2025 · Cited by 4 — Athletes may create...</span></span></span>
+This indirect pathway is more plausible because it uses recognised psychological and organisational mechanisms. Research on fan identity and branding demonstrates that symbols can influence attitudes and feelings of connection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineUnderstanding the use of superstitious rituals in sports...by B Morris · 2025 · Cited by 4 — Athletes may create...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineUnderstanding the use of superstitious rituals in sports...by B Morris · 2025 · Cited by 4 — Athletes may create...</span></span></span>
 
 However, even here the logo is usually acting as a signal rather than a magical force. The relevant causal story becomes:
 
@@ -344,278 +344,278 @@ When encountering a logo-curse claim, ask five questions:
 2. **What competing explanations have been tested?** Have injuries, tactics and opponent quality been examined?
 3. **Is the pattern consistent?** Are successful periods after the logo change being counted?
 4. **Would the same conclusion survive a comparison with other teams?** Do similar redesigns usually produce similar outcomes?
-5. **Is there evidence beyond timing?** Correlation alone does not establish causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.e.jimdo.com">[Jimdo Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.e.jimdo.com</span><span class="citation-popover-snippet">Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
+5. **Is there evidence beyond timing?** Correlation alone does not establish causation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.e.jimdo.com">[Jimdo Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.e.jimdo.com</span><span class="citation-popover-snippet">Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
 
 </div>
 
-If those questions cannot be answered convincingly, the logo-curse explanation is usually better understood as a sports superstition reinforced by selective memory, emotional attachment and the human tendency to see causes in visible events. The stronger evidence almost always lies in the measurable factors that shape sporting performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Demystifying Sport Superstition</span><span class="citation-popover-snippet">Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</span><span class="citation-popover-meta">Published: August 16, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</span></span></span>
+If those questions cannot be answered convincingly, the logo-curse explanation is usually better understood as a sports superstition reinforced by selective memory, emotional attachment and the human tendency to see causes in visible events. The stronger evidence almost always lies in the measurable factors that shape sporting performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Demystifying Sport Superstition</span><span class="citation-popover-snippet">Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</span><span class="citation-popover-meta">Published: August 16, 2016</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Checks illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Test a Sports Logo Curse. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Test a Sports Logo Curse. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Ideal for evaluating causal claims and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for evaluating causal claims and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains causal misconceptions and biases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains causal misconceptions and biases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Not+to+Be+Wrong+by+Jordan+Ellenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Not to Be Wrong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HtjZCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Not to Be Wrong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Not+to+Be+Wrong+by+Jordan+Ellenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Not to Be Wrong">How Not to Be Wrong</a>
-        </h4>
-        <p class="fr-book-author">By Jordan Ellenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Not+to+Be+Wrong+by+Jordan+Ellenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Not to Be Wrong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HtjZCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Not to Be Wrong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Not+to+Be+Wrong+by+Jordan+Ellenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Not to Be Wrong">How Not to Be Wrong</a>
+</h4>
+<p class="fr-book-author">By Jordan Ellenberg</p>
         
-        <p class="fr-book-desc">Shows how to reason about data and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Not+to+Be+Wrong+by+Jordan+Ellenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to reason about data and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Not+to+Be+Wrong+by+Jordan+Ellenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to losing streaks and causal myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to losing streaks and causal myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Not+to+Be+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Not to Be Wrong</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Not+to+Be+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Not to Be Wrong</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/392bddff7648d90b67cb.jpg' | relative_url }}" alt="Listing image for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/392bddff7648d90b67cb.jpg' | relative_url }}" alt="Listing image for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e2f39c1ac653353fab2.jpg' | relative_url }}" alt="Listing image for Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e2f39c1ac653353fab2.jpg' | relative_url }}" alt="Listing image for Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Team One (logo) Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd9a96ce1d8be158f4b6.jpg' | relative_url }}" alt="Listing image for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd9a96ce1d8be158f4b6.jpg' | relative_url }}" alt="Listing image for Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lewandowski team big logo Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sports Team Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2c055f1066f525cd4ebb.jpg' | relative_url }}" alt="Listing image for Sports Team Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sports Team Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sports Team Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2c055f1066f525cd4ebb.jpg' | relative_url }}" alt="Listing image for Sports Team Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sports Team Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for team logo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: team logo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=team+logo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-checks-how-to-test-a-sports-logo-curse-logical-fallacies-team-logo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -631,7 +631,7 @@ If those questions cannot be answered convincingly, the logo-curse explanation i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -651,7 +651,7 @@ If those questions cannot be answered convincingly, the logo-curse explanation i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -683,7 +683,7 @@ If those questions cannot be answered convincingly, the logo-curse explanation i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ If those questions cannot be answered convincingly, the logo-curse explanation i
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -771,146 +771,146 @@ If those questions cannot be answered convincingly, the logo-curse explanation i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: storage.e.jimdo.com  
-   Link: <a href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</p></details>
+   Link:<a href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</p></details>
    Published: June 7, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</p></details>
+   Link:<a href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: colab.ws  
-   Link: <a href="https://colab.ws/articles/10.1108/ijsms-01-2021-0016" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1108/ijsms-01-2021-0016</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport rebranding: the effect of different degrees of sport logo...28 Jun 2021 — The findings advance the current body of knowledge on sp...</p></details>
+   Link:<a href="https://colab.ws/articles/10.1108/ijsms" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1108/ijsms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sport rebranding: the effect of different degrees of sport logo...28 Jun 2021 — The findings advance the current body of knowledge on sp...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oec.uzh.ch  
-   Link: <a href="https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luck vs. skill – the role of sports data analyticsShots are positively correlated with goals and occur much more often. However, b...</p></details>
+   Link:<a href="https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luck vs. skill – the role of sports data analyticsShots are positively correlated with goals and occur much more often. However, b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scitechnol.com  
-   Link: <a href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow">https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</p></details>
+   Link:<a href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow">https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the superstitions of sport fans... Studies have shown that the more fans identify with their team, the more likely...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the superstitions of sport fans... Studies have shown that the more fans identify with their team, the more likely...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: go.gale.com  
-   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Team Identification, Sport Fandom, and...by DL Wann · 2018 · Cited by 20 — Previous research had found that both team iden...</p></details>
+   Link:<a href="https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Team Identification, Sport Fandom, and...by DL Wann · 2018 · Cited by 20 — Previous research had found that both team iden...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCJinx, Control, and the Necessity of Adjustment  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govJinx, Control, and the Necessity of Adjustment - PMC - NIHby O Levental · 2021 · Cited by 26 — This paper aims to provide a qualit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govJinx, Control, and the Necessity of Adjustment - PMC - NIHby O Levental · 2021 · Cited by 26 — This paper aims to provide a qualit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Demystifying Sport Superstition  
-   Link: <a href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</p></details>
+   Link:<a href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</p></details>
    Published: August 16, 2016  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineUnderstanding the use of superstitious rituals in sports...by B Morris · 2025 · Cited by 4 — Athletes may create...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineUnderstanding the use of superstitious rituals in sports...by B Morris · 2025 · Cited by 4 — Athletes may create...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Factors Influencing Fan Acceptance or Rejection of a Sport  
-   Link: <a href="https://journals.sagepub.com/doi/10.32731/SMQ.322.062023.01" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.32731/SMQ.322.062023.01</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>identification on attitude and purchase intention of team-logoed merchandise. Journal of Sport Management, 27(1), 11–23. Crossref · Googl...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.32731/SMQ.322.062023.01" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.32731/SMQ.322.062023.01</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>identification on attitude and purchase intention of team-logoed merchandise. Journal of Sport Management, 27(1), 11–23. Crossref · Googl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12457826/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12457826/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Xie · 2025 · Cited by 2 — Causal inference of athletic injuries provides the critical foundations for the development of effectiv...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12457826/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12457826/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by T Xie · 2025 · Cited by 2 — Causal inference of athletic injuries provides the critical foundations for the development of effectiv...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/16184742.2025.2462643" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/16184742.2025.2462643</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineIt&#x27;s all about community: how new niche sports franchises...by J Boehmer · 2025 · Cited by 3 — This study investi...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/16184742.2025.2462643" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/16184742.2025.2462643</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineIt&#x27;s all about community: how new niche sports franchises...by J Boehmer · 2025 · Cited by 3 — This study investi...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2110.00001" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.00001</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relative Importance of Ability, Luck and Motivation in Team Sports: a Bayesian Model of Performance in the English Rugby Premier...</p></details>
+   Link:<a href="https://arxiv.org/abs/2110.00001" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.00001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Relative Importance of Ability, Luck and Motivation in Team Sports: a Bayesian Model of Performance in the English Rugby Premier...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
+   Link:<a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: westga.edu  
-   Link: <a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>  
+   Link:<a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scienceon.kisti.re.kr  
    Title: kisti.re.kr[논문]Sport rebranding: the effect of different degrees  
-   Link: <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART117712579" target="_blank" rel="noopener noreferrer nofollow">https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART117712579</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>logo redesign and fan identification levels on brand attitude and purchase intention. Moreover, the current research has important implic...</p></details>
+   Link:<a href="https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART117712579" target="_blank" rel="noopener noreferrer nofollow">https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART117712579</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>logo redesign and fan identification levels on brand attitude and purchase intention. Moreover, the current research has important implic...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: catapult.com  
    Title: It's a new approach that takes the guesswork out of coaching  
-   Link: <a href="https://www.catapult.com/blog/what-is-sports-analytics" target="_blank" rel="noopener noreferrer nofollow">https://www.catapult.com/blog/what-is-sports-analytics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sports Analytics: What is it &amp; How it Improves Performance?20 Mar 2024 — Sports analytics is about using data to help athletes an...</p></details>
+   Link:<a href="https://www.catapult.com/blog/what-is-sports-analytics" target="_blank" rel="noopener noreferrer nofollow">https://www.catapult.com/blog/what-is-sports-analytics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sports Analytics: What is it &amp; How it Improves Performance?20 Mar 2024 — Sports analytics is about using data to help athletes an...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1464666821000357</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1464666821000357</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=145316" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=145316</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ics and the performance metrics in professional football using sport data analytics...</p></details>
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=145316" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=145316</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ics and the performance metrics in professional football using sport data analytics...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: econbiz.de  
-   Link: <a href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow">https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...</p></details>
+   Link:<a href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow">https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: spectrum.library.concordia.ca  
    Title: International Journal of Sports Marketing  
-   Link: <a href="https://spectrum.library.concordia.ca/id/eprint/995226/" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.library.concordia.ca/id/eprint/995226/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Effects of a Sports Team&#x27;s Rebranding on its...by J Wimez · 2025 — Sport rebranding: the effect of different degrees of sport logo r...</p></details>
+   Link:<a href="https://spectrum.library.concordia.ca/id/eprint/995226/" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.library.concordia.ca/id/eprint/995226/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Effects of a Sports Team&#x27;s Rebranding on its...by J Wimez · 2025 — Sport rebranding: the effect of different degrees of sport logo r...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nikhilpmarihal9/correlation-vs-causation-in-sports-why-your-favorite-player-isnt-always-the-mvp-8fdf79d0fa80" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikhilpmarihal9/correlation-vs-causation-in-sports-why-your-favorite-player-isnt-always-the-mvp-8fdf79d0fa80</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>causes your team to win, that&#x27;s causation. The catch: not every...</p></details>
+   Link:<a href="https://medium.com/%40nikhilpmarihal9/correlation-vs-causation-in-sports-why-your-favorite-player-isnt-always-the-mvp-8fdf79d0fa80" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikhilpmarihal9/correlation-vs-causation-in-sports-why-your-favorite-player-isnt-always-the-mvp-8fdf79d0fa80</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>causes your team to win, that&#x27;s causation. The catch: not every...</p></details>

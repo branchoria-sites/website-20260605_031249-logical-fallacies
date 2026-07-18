@@ -268,23 +268,23 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_rede
 
 ## Introduction
 
-Not every change in a definition is a No True Scotsman fallacy. Sometimes a group really does have membership rules, legal [boundaries]({{ 'boundaries/' | relative_url }}), professional qualifications, or widely shared criteria that determine who belongs and who does not. The key question is not whether a definition becomes narrower, but whether the boundary is justified independently of the argument being defended. When the criteria exist before the dispute, can be applied consistently, and are not invented solely to escape a counterexample, redefining a group may be legitimate rather than fallacious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span> Within debates about [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this distinction matters because definitions serve two different purposes. They can clarify what a term means, or they can be manipulated to protect a claim from evidence. The difference lies in the source, timing, and consistency of the criteria being used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious How to Spot the No True Scotsman Fallacy</span><span class="citation-popover-snippet">How to Spot the No True Scotsman Fallacy16 May 2026 — The No True Scotsman fallacy happens when someone responds to a counterexample by r...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Not every change in a definition is a No True Scotsman fallacy. Sometimes a group really does have membership rules, legal [boundaries]({{ 'boundaries/' | relative_url }}), professional qualifications, or widely shared criteria that determine who belongs and who does not. The key question is not whether a definition becomes narrower, but whether the boundary is justified independently of the argument being defended. When the criteria exist before the dispute, can be applied consistently, and are not invented solely to escape a counterexample, redefining a group may be legitimate rather than fallacious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span> Within debates about [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this distinction matters because definitions serve two different purposes. They can clarify what a term means, or they can be manipulated to protect a claim from evidence. The difference lies in the source, timing, and consistency of the criteria being used.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious How to Spot the No True Scotsman Fallacy</span><span class="citation-popover-snippet">How to Spot the No True Scotsman Fallacy16 May 2026 — The No True Scotsman fallacy happens when someone responds to a counterexample by r...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-1-dark.svg" | relative_url }}" alt="Fair Redefinition illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Legal and Credential-Based Boundaries
 
 One of the clearest cases of legitimate redefinition occurs when membership is determined by formal rules rather than personal preference.
 
-A person is not a licensed physician simply because they practise medicine-like activities. In most jurisdictions, legal status depends on meeting licensing requirements established by government agencies or professional regulators. Similarly, a lawyer, accountant, engineer, or other regulated professional may lose the right to claim that status if licensing conditions are not met. These boundaries are not created during an argument; they exist independently and can be checked against published standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.ctfassets.net">[Contentful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.ctfassets.net</span><span class="citation-popover-title">Contentful Licensing Credentialing</span><span class="citation-popover-snippet">ContentfulLicensing CredentialingJuly 27, 2023 — Licensing and credentialing ensures patient safety by verifying that you, as a medical p...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawsociety.bc.ca/getContentAsset/676ef5e8-b9dd-4c60-ba67-3b02220a7ffd/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Furlong_Report_-_A_Competence-Based_System_for_Lawyer_Licensing_in_BC.pdf?language=en-CA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawsociety.bc.ca">[2lawsociety.bc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawsociety.bc.ca</span><span class="citation-popover-title">Furlong Report A Competence Based System for Lawyer Licensing in BC</span><span class="citation-popover-snippet">A Competence-Based System For Lawyer Licensing in...10 May 2022 — The Law Society might soon have a mandate to set licensing and compete...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+A person is not a licensed physician simply because they practise medicine-like activities. In most jurisdictions, legal status depends on meeting licensing requirements established by government agencies or professional regulators. Similarly, a lawyer, accountant, engineer, or other regulated professional may lose the right to claim that status if licensing conditions are not met. These boundaries are not created during an argument; they exist independently and can be checked against published standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.ctfassets.net">[Contentful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.ctfassets.net</span><span class="citation-popover-title">Contentful Licensing Credentialing</span><span class="citation-popover-snippet">ContentfulLicensing CredentialingJuly 27, 2023 — Licensing and credentialing ensures patient safety by verifying that you, as a medical p...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawsociety.bc.ca/getContentAsset/676ef5e8-b9dd-4c60-ba67-3b02220a7ffd/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Furlong_Report_-_A_Competence-Based_System_for_Lawyer_Licensing_in_BC.pdf?language=en-CA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawsociety.bc.ca">[2lawsociety.bc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawsociety.bc.ca</span><span class="citation-popover-title">Furlong Report A Competence Based System for Lawyer Licensing in BC</span><span class="citation-popover-snippet">A Competence-Based System For Lawyer Licensing in...10 May 2022 — The Law Society might soon have a mandate to set licensing and compete...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 Consider the difference between two statements:
 
 * “[No true]({{ 'no-true/' | relative_url }}) doctor would make that mistake.”
 * “This person is not a licensed doctor because they do not hold the required licence.”
 
-The first risks becoming a No True Scotsman argument if “true doctor” merely means “a doctor who behaves correctly”. The second relies on an external credentialing system that defines membership before the dispute arises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+The first risks becoming a No True Scotsman argument if “true doctor” merely means “a doctor who behaves correctly”. The second relies on an external credentialing system that defines membership before the dispute arises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
-Professional regulation exists precisely because societies create recognised standards for entry and continued membership. Licensing and credentialing systems verify qualifications, competence, and compliance with professional requirements. Whether those standards are wise or effective can be debated, but their existence provides a non-ad hoc basis for determining who belongs to the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10002239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by O Gershuni · 2023 · Cited by 42 — The review presents specific professional regulation and credentialing approaches without favorin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.ctfassets.net">[Contentful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.ctfassets.net</span><span class="citation-popover-title">Contentful Licensing Credentialing</span><span class="citation-popover-snippet">ContentfulLicensing CredentialingJuly 27, 2023 — Licensing and credentialing ensures patient safety by verifying that you, as a medical p...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
+Professional regulation exists precisely because societies create recognised standards for entry and continued membership. Licensing and credentialing systems verify qualifications, competence, and compliance with professional requirements. Whether those standards are wise or effective can be debated, but their existence provides a non-ad hoc basis for determining who belongs to the group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10002239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by O Gershuni · 2023 · Cited by 42 — The review presents specific professional regulation and credentialing approaches without favorin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.ctfassets.net">[Contentful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.ctfassets.net</span><span class="citation-popover-title">Contentful Licensing Credentialing</span><span class="citation-popover-snippet">ContentfulLicensing CredentialingJuly 27, 2023 — Licensing and credentialing ensures patient safety by verifying that you, as a medical p...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cMTAUr3Nm6I" title="Meghan Trainor - NO (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cMTAUr3Nm6I" target="_blank" rel="noopener noreferrer">Meghan Trainor - NO (Official Video)</a></p><p class="youtube-embed-meta">Channel: MeghanTrainorVEVO &middot; Views: 682.8M &middot; Uploaded: March 2016 &middot; Length: 3 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cMTAUr3Nm6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cMTAUr3Nm6I">Open on YouTube</a></p></div></div></div>
 
@@ -292,11 +292,11 @@ Professional regulation exists precisely because societies create recognised sta
 
 Legitimate redefinition can also occur in everyday language when a discussion reveals that participants are using different meanings of the same term.
 
-Definitions are not always fixed by law. Many categories depend on ordinary usage and shared understanding. Philosophers of language have long noted that definitions help establish what a discussion is actually about. Clarifying a disputed term is often necessary before evidence can be evaluated properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Definitions</span><span class="citation-popover-snippet">Plato&#x27;s early dialogues portray Socrates raising questions about definitions.Read more...</span></span></span> Encyclopedia of Philosophy
+Definitions are not always fixed by law. Many categories depend on ordinary usage and shared understanding. Philosophers of language have long noted that definitions help establish what a discussion is actually about. Clarifying a disputed term is often necessary before evidence can be evaluated properly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Definitions</span><span class="citation-popover-snippet">Plato&#x27;s early dialogues portray Socrates raising questions about definitions.Read more...</span></span></span> Encyclopedia of Philosophy
 
 For example, imagine a discussion about whether a particular vehicle counts as a motorcycle. Participants may consult statutory definitions, industry standards, or common usage. If the conversation concludes that the vehicle falls outside the accepted category, that is not automatically a fallacy. The category boundary existed independently of the immediate dispute.
 
-The important distinction is that the criteria apply across cases. A legitimate definition should classify both favourable and unfavourable examples using the same standard. If a boundary excludes only the inconvenient counterexample while leaving everything else untouched, suspicion is warranted. If the same rule would also exclude examples that support the speaker's position, the definition is more likely to be genuine. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</span></span></span>
+The important distinction is that the criteria apply across cases. A legitimate definition should classify both favourable and unfavourable examples using the same standard. If a boundary excludes only the inconvenient counterexample while leaving everything else untouched, suspicion is warranted. If the same rule would also exclude examples that support the speaker's position, the definition is more likely to be genuine. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-2-dark.svg" | relative_url }}" alt="Fair Redefinition illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Tell the Difference
@@ -305,19 +305,19 @@ A practical way to distinguish fair redefinition from a No True Scotsman move is
 
 **Was the criterion established before the counterexample appeared?**
 
-Definitions that pre-date the disagreement are generally more credible than definitions introduced only after a challenge. The classic fallacy involves an after-the-fact adjustment designed to save a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious How to Spot the No True Scotsman Fallacy</span><span class="citation-popover-snippet">How to Spot the No True Scotsman Fallacy16 May 2026 — The No True Scotsman fallacy happens when someone responds to a counterexample by r...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Definitions that pre-date the disagreement are generally more credible than definitions introduced only after a challenge. The classic fallacy involves an after-the-fact adjustment designed to save a claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious How to Spot the No True Scotsman Fallacy</span><span class="citation-popover-snippet">How to Spot the No True Scotsman Fallacy16 May 2026 — The No True Scotsman fallacy happens when someone responds to a counterexample by r...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 **Can the criterion be applied consistently?**
 
-A legitimate boundary should produce predictable results across multiple cases. If membership changes depending on who is being discussed, the definition is functioning as a rhetorical shield rather than a genuine standard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is No True Scotsman a fallacy?: r/askphilosophyThe idea of the No True Scotsman is that it ad hoc revises a claim that is, str...</span></span></span>
+A legitimate boundary should produce predictable results across multiple cases. If membership changes depending on who is being discussed, the definition is functioning as a rhetorical shield rather than a genuine standard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is No True Scotsman a fallacy?: r/askphilosophyThe idea of the No True Scotsman is that it ad hoc revises a claim that is, str...</span></span></span>
 
 **Is there an independent authority or shared practice behind it?**
 
-Legal classifications, organisational membership rules, professional licences, and long-established technical definitions often provide objective criteria. Personal preferences usually do not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.ctfassets.net">[Contentful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.ctfassets.net</span><span class="citation-popover-title">Contentful Licensing Credentialing</span><span class="citation-popover-snippet">ContentfulLicensing CredentialingJuly 27, 2023 — Licensing and credentialing ensures patient safety by verifying that you, as a medical p...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawsociety.bc.ca/getContentAsset/676ef5e8-b9dd-4c60-ba67-3b02220a7ffd/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Furlong_Report_-_A_Competence-Based_System_for_Lawyer_Licensing_in_BC.pdf?language=en-CA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawsociety.bc.ca">[2lawsociety.bc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawsociety.bc.ca</span><span class="citation-popover-title">Furlong Report A Competence Based System for Lawyer Licensing in BC</span><span class="citation-popover-snippet">A Competence-Based System For Lawyer Licensing in...10 May 2022 — The Law Society might soon have a mandate to set licensing and compete...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Legal classifications, organisational membership rules, professional licences, and long-established technical definitions often provide objective criteria. Personal preferences usually do not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.ctfassets.net">[Contentful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.ctfassets.net</span><span class="citation-popover-title">Contentful Licensing Credentialing</span><span class="citation-popover-snippet">ContentfulLicensing CredentialingJuly 27, 2023 — Licensing and credentialing ensures patient safety by verifying that you, as a medical p...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawsociety.bc.ca/getContentAsset/676ef5e8-b9dd-4c60-ba67-3b02220a7ffd/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Furlong_Report_-_A_Competence-Based_System_for_Lawyer_Licensing_in_BC.pdf?language=en-CA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawsociety.bc.ca">[2lawsociety.bc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawsociety.bc.ca</span><span class="citation-popover-title">Furlong Report A Competence Based System for Lawyer Licensing in BC</span><span class="citation-popover-snippet">A Competence-Based System For Lawyer Licensing in...10 May 2022 — The Law Society might soon have a mandate to set licensing and compete...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 **Does the definition help explain reality or avoid it?**
 
-A useful definition clarifies the discussion and improves understanding. A fallacious redefinition mainly serves to protect a sweeping claim from falsification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logical-fallacy.com">[Logical Fallacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logical-fallacy.com</span><span class="citation-popover-title">Logical Fallacy No True Scotsman</span><span class="citation-popover-snippet">No True Scotsman - Definition and Examples - Logical Fallacy21 Sept 2024 — The “No True Scotsman” logical fallacy is a common rhetorical...</span></span></span>
+A useful definition clarifies the discussion and improves understanding. A fallacious redefinition mainly serves to protect a sweeping claim from falsification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logical-fallacy.com">[Logical Fallacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logical-fallacy.com</span><span class="citation-popover-title">Logical Fallacy No True Scotsman</span><span class="citation-popover-snippet">No True Scotsman - Definition and Examples - Logical Fallacy21 Sept 2024 — The “No True Scotsman” logical fallacy is a common rhetorical...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bvTS9Jw2JDM" title="Logical Fallacies - Definitional retreat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bvTS9Jw2JDM" target="_blank" rel="noopener noreferrer">Logical Fallacies - Definitional retreat</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 3.9K &middot; Uploaded: January 2015 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bvTS9Jw2JDM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bvTS9Jw2JDM">Open on YouTube</a></p></div></div></div>
 
@@ -325,213 +325,213 @@ A useful definition clarifies the discussion and improves understanding. A falla
 
 The most difficult cases arise when a group has genuine standards or ideals.
 
-Religious traditions, political movements, professions, and philosophical schools often maintain normative commitments. A person may argue that a particular action violates the movement's principles. That claim is not automatically fallacious. Saying that a member acted contrary to the group's stated values differs from saying that the member was never really part of the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
+Religious traditions, political movements, professions, and philosophical schools often maintain normative commitments. A person may argue that a particular action violates the movement's principles. That claim is not automatically fallacious. Saying that a member acted contrary to the group's stated values differs from saying that the member was never really part of the group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
 
 For example:
 
 * “This member violated the organisation's code of conduct” is a claim about behaviour relative to established standards.
-* “Anyone who violates the code was never a real member” may become a No True Scotsman argument if the exclusion is invented only to preserve a universal claim about members' behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</span></span></span>
+* “Anyone who violates the code was never a real member” may become a No True Scotsman argument if the exclusion is invented only to preserve a universal claim about members' behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</span></span></span>
 
-The difference often turns on whether membership rules already include expulsion criteria. If an organisation's constitution specifies that certain actions terminate membership, invoking that rule is not a fallacy. If the rule appears only after a damaging counterexample emerges, the move becomes much harder to justify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.molinahealthcare.com/providers/oh/marketplace/manual/PDF/12%20Credentialing.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: molinahealthcare.com">[Molina Healthcare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">molinahealthcare.com</span><span class="citation-popover-title">Molina Healthcare Section 12</span><span class="citation-popover-snippet">Credentialing and RecredentialingPractitioner must not have been convicted of a felony or pled guilty to a felony for a healthcare relate...</span></span></span>
+The difference often turns on whether membership rules already include expulsion criteria. If an organisation's constitution specifies that certain actions terminate membership, invoking that rule is not a fallacy. If the rule appears only after a damaging counterexample emerges, the move becomes much harder to justify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.molinahealthcare.com/providers/oh/marketplace/manual/PDF/12%20Credentialing.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: molinahealthcare.com">[Molina Healthcare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">molinahealthcare.com</span><span class="citation-popover-title">Molina Healthcare Section 12</span><span class="citation-popover-snippet">Credentialing and RecredentialingPractitioner must not have been convicted of a felony or pled guilty to a felony for a healthcare relate...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-3-dark.svg" | relative_url }}" alt="Fair Redefinition illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Distinction Matters
 
 Treating every definitional dispute as a No True Scotsman fallacy would make meaningful classification impossible. Law, science, professional practice, and ordinary communication all depend on drawing boundaries between categories. At the same time, allowing definitions to change whenever a counterexample appears would make claims immune to evidence.
 
-The governing principle is consistency. Legitimate redefinition relies on criteria that are independent, publicly understandable, and applicable before the argument begins. Fallacious redefinition creates criteria only when they are needed to rescue a threatened claim. The presence of a boundary is not the problem; the problem is a boundary that moves whenever the evidence arrives. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
+The governing principle is consistency. Legitimate redefinition relies on criteria that are independent, publicly understandable, and applicable before the argument begins. Fallacious redefinition creates criteria only when they are needed to rescue a threatened claim. The presence of a boundary is not the problem; the problem is a boundary that moves whenever the evidence arrives. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5zzSqL--d_I" title="The &quot;No True Scotsman&quot; Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5zzSqL--d_I" target="_blank" rel="noopener noreferrer">The &quot;No True Scotsman&quot; Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 235.3K &middot; Uploaded: October 2014 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5zzSqL--d_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5zzSqL--d_I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Is Redefinition Not a Fallacy?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Is Redefinition Not a Fallacy?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-        </h4>
-        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+</h4>
+<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-        <p class="fr-book-desc">Teaches how to evaluate definitions and standards fairly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to evaluate definitions and standards fairly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
-        </h4>
-        <p class="fr-book-author">By Madsen Pirie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Every Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cQQCzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Win Every Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Every Argument">How to Win Every Argument</a>
+</h4>
+<p class="fr-book-author">By Madsen Pirie</p>
         
-        <p class="fr-book-desc">Discusses legitimate versus illegitimate argumentative moves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses legitimate versus illegitimate argumentative moves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Every+Argument+by+Madsen+Pirie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Supports evidence-based evaluation of competing definitions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based evaluation of competing definitions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Ali Almossawi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Illustrated Book of Bad Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXF4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Illustrated Book of Bad Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Illustrated Book of Bad Arguments">An Illustrated Book of Bad Arguments</a>
+</h4>
+<p class="fr-book-author">By Ali Almossawi</p>
         
-        <p class="fr-book-desc">Provides context for recognizing definitional fallacies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for recognizing definitional fallacies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Illustrated+Book+of+Bad+Arguments+by+Ali+Almossawi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Every+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Every Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="https://i.ebayimg.com/images/g/TFEAAOSwCm9nqP-h/s-l225.jpg" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="https://i.ebayimg.com/images/g/TFEAAOSwCm9nqP-h/s-l225.jpg" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2aMAAeSwQYlp1Tf6/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2aMAAeSwQYlp1Tf6/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-redefinition-not-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-is-redefinition-not-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ The governing principle is consistency. Legitimate redefinition relies on criter
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ The governing principle is consistency. Legitimate redefinition relies on criter
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ The governing principle is consistency. Legitimate redefinition relies on criter
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ The governing principle is consistency. Legitimate redefinition relies on criter
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ The governing principle is consistency. Legitimate redefinition relies on criter
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,153 +737,153 @@ The governing principle is consistency. Legitimate redefinition relies on criter
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: No true Scotsman  
-   Link: <a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy | Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy | Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is No True Scotsman a fallacy?: r/askphilosophyThe idea of the No True Scotsman is that it ad hoc revises a claim that is, str...</p></details>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why is No True Scotsman a fallacy?: r/askphilosophyThe idea of the No True Scotsman is that it ad hoc revises a claim that is, str...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Definitions  
-   Link: <a href="https://plato.stanford.edu/entries/definitions/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/definitions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plato&#x27;s early dialogues portray Socrates raising questions about definitions.Read more...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/definitions/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/definitions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plato&#x27;s early dialogues portray Socrates raising questions about definitions.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lawsociety.bc.ca  
    Title: Furlong Report A Competence Based System for Lawyer Licensing in BC  
-   Link: <a href="https://www.lawsociety.bc.ca/getContentAsset/676ef5e8-b9dd-4c60-ba67-3b02220a7ffd/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Furlong_Report_-_A_Competence-Based_System_for_Lawyer_Licensing_in_BC.pdf?language=en-CA" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.bc.ca/getContentAsset/676ef5e8-b9dd-4c60-ba67-3b02220a7ffd/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Furlong_Report_-_A_Competence-Based_System_for_Lawyer_Licensing_in_BC.pdf?language=en-CA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Competence-Based System For Lawyer Licensing in...10 May 2022 — The Law Society might soon have a mandate to set licensing and compete...</p></details>
+   Link:<a href="https://www.lawsociety.bc.ca/getContentAsset/676ef5e8-b9dd-4c60-ba67-3b02220a7ffd/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Furlong_Report_-_A_Competence-Based_System_for_Lawyer_Licensing_in_BC.pdf?language=en-CA" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.bc.ca/getContentAsset/676ef5e8-b9dd-4c60-ba67-3b02220a7ffd/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Furlong_Report_-_A_Competence-Based_System_for_Lawyer_Licensing_in_BC.pdf?language=en-CA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Competence-Based System For Lawyer Licensing in...10 May 2022 — The Law Society might soon have a mandate to set licensing and compete...</p></details>
    Published: May 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: logical-fallacy.com  
    Title: Logical Fallacy No True Scotsman  
-   Link: <a href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/no-true-scotsman/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman - Definition and Examples - Logical Fallacy21 Sept 2024 — The “No True Scotsman” logical fallacy is a common rhetorical...</p></details>
+   Link:<a href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/no-true-scotsman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman - Definition and Examples - Logical Fallacy21 Sept 2024 — The “No True Scotsman” logical fallacy is a common rhetorical...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NoStupidQuestions/comments/17od10y/why_is_no_true_scotsman_considered_a_logical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoStupidQuestions/comments/17od10y/why_is_no_true_scotsman_considered_a_logical/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is &quot;No True Scotsman&quot; considered a logical fallacy?In an argument, there can be a &quot;True Scotsman&quot;, and a &quot;No True Scotsman&quot;...</p></details>
+   Link:<a href="https://www.reddit.com/r/NoStupidQuestions/comments/17od10y/why_is_no_true_scotsman_considered_a_logical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoStupidQuestions/comments/17od10y/why_is_no_true_scotsman_considered_a_logical/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why is &quot;No True Scotsman&quot; considered a logical fallacy?In an argument, there can be a &quot;True Scotsman&quot;, and a &quot;No True Scotsman&quot;...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: <a href="https://www.youtube.com/watch?v=bvTS9Jw2JDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvTS9Jw2JDM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Motte and Bailey Fallacy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bvTS9Jw2JDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvTS9Jw2JDM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Motte and Bailey Fallacy...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/scotsman.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/scotsman.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: logicallyfallacious.com  
    Title: Logically Fallacious How to Spot the No True Scotsman Fallacy  
-   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot the No True Scotsman Fallacy16 May 2026 — The No True Scotsman fallacy happens when someone responds to a counterexample by r...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot the No True Scotsman Fallacy16 May 2026 — The No True Scotsman fallacy happens when someone responds to a counterexample by r...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.ctfassets.net  
    Title: Contentful Licensing Credentialing  
-   Link: <a href="https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ContentfulLicensing CredentialingJuly 27, 2023 — Licensing and credentialing ensures patient safety by verifying that you, as a medical p...</p></details>
+   Link:<a href="https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.ctfassets.net/7b49qn4tvor3/2wlw55ETjAQTJevkryEwW0/72314a96333e7b8823dde202ab357584/Whitepaper-L_C_101_FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ContentfulLicensing CredentialingJuly 27, 2023 — Licensing and credentialing ensures patient safety by verifying that you, as a medical p...</p></details>
    Published: July 27, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10002239/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10002239/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by O Gershuni · 2023 · Cited by 42 — The review presents specific professional regulation and credentialing approaches without favorin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10002239/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10002239/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by O Gershuni · 2023 · Cited by 42 — The review presents specific professional regulation and credentialing approaches without favorin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: molinahealthcare.com  
    Title: Molina Healthcare Section 12  
-   Link: <a href="https://www.molinahealthcare.com/providers/oh/marketplace/manual/PDF/12%20Credentialing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.molinahealthcare.com/providers/oh/marketplace/manual/PDF/12%20Credentialing.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Credentialing and RecredentialingPractitioner must not have been convicted of a felony or pled guilty to a felony for a healthcare relate...</p></details>
+   Link:<a href="https://www.molinahealthcare.com/providers/oh/marketplace/manual/PDF/12%20Credentialing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.molinahealthcare.com/providers/oh/marketplace/manual/PDF/12%20Credentialing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Credentialing and RecredentialingPractitioner must not have been convicted of a felony or pled guilty to a felony for a healthcare relate...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: quillbot.com  
    Title: no true scotsman fallacy  
-   Link: <a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; DefinitionJun 25, 2024 — The no true Scotsman fallacy attempts to protect a generalization from being falsified by spuriously...</p></details>
+   Link:<a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; DefinitionJun 25, 2024 — The no true Scotsman fallacy attempts to protect a generalization from being falsified by spuriously...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: diplomacy.edu  
    Title: No true Scotsman  
-   Link: <a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diplo25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-exa...</p></details>
+   Link:<a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diplo25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-exa...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy in PhilosophyThe No True Scotsman (NTS) fallacy is an error in logic wherein one person defends a generalization...</p></details>
+   Link:<a href="https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy in PhilosophyThe No True Scotsman (NTS) fallacy is an error in logic wherein one person defends a generalization...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/378921623_Credentialism_by_Members_of_Licensed_Professions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378921623_Credentialism_by_Members_of_Licensed_Professions</a>  
+   Link:<a href="https://www.researchgate.net/publication/378921623_Credentialism_by_Members_of_Licensed_Professions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378921623_Credentialism_by_Members_of_Licensed_Professions</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mololamken.com  
-   Link: <a href="https://www.mololamken.com/assets/htmldocuments/The%20Watchman%20for%20Truth_%20Professional%20Licensing%20and%20the%20First%20Amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mololamken.com/assets/htmldocuments/The%20Watchman%20for%20Truth_%20Professional%20Licensing%20and%20the%20First%20Amendment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y fall outside the protection of the First Amendment because they have material nonexpressive...Read more...</p></details>
+   Link:<a href="https://www.mololamken.com/assets/htmldocuments/The%20Watchman%20for%20Truth_%20Professional%20Licensing%20and%20the%20First%20Amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mololamken.com/assets/htmldocuments/The%20Watchman%20for%20Truth_%20Professional%20Licensing%20and%20the%20First%20Amendment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y fall outside the protection of the First Amendment because they have material nonexpressive...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: danmickle.com  
    Title: Logical Fallacies Series: No True Scotsman  
-   Link: <a href="https://www.danmickle.com/logical-fallacies-series-no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.danmickle.com/logical-fallacies-series-no-true-scotsman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2025 — The No True Scotsman fallacy happens when someone changes the definition of a group or concept to avoid disproving their a...</p></details>
+   Link:<a href="https://www.danmickle.com/logical-fallacies-series-no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.danmickle.com/logical-fallacies-series-no-true-scotsman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2025 — The No True Scotsman fallacy happens when someone changes the definition of a group or concept to avoid disproving their a...</p></details>
    Published: May 24, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: briantubbs.medium.com  
    Title: the no true scotsman fallacy a2ec0aafe548  
-   Link: <a href="https://briantubbs.medium.com/the-no-true-scotsman-fallacy-a2ec0aafe548" target="_blank" rel="noopener noreferrer nofollow">https://briantubbs.medium.com/the-no-true-scotsman-fallacy-a2ec0aafe548</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“No True Scotsman” Fallacy - Brian Tubbs - MediumThe No True Scotsman Fallacy is when a person dismisses an example (or counterexample)...</p></details>
+   Link:<a href="https://briantubbs.medium.com/the-no-true-scotsman-fallacy-a2ec0aafe548" target="_blank" rel="noopener noreferrer nofollow">https://briantubbs.medium.com/the-no-true-scotsman-fallacy-a2ec0aafe548</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“No True Scotsman” Fallacy - Brian Tubbs - MediumThe No True Scotsman Fallacy is when a person dismisses an example (or counterexample)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/answerscanada/videos/what-counts-as-a-no-true-scotsman-fallacy/388720536291391/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/answerscanada/videos/what-counts-as-a-no-true-scotsman-fallacy/388720536291391/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mething; for instance, no true scientist would reject evolution...</p></details>
+   Link:<a href="https://www.facebook.com/answerscanada/videos/what-counts-as-a-no-true-scotsman-fallacy/388720536291391/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/answerscanada/videos/what-counts-as-a-no-true-scotsman-fallacy/388720536291391/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mething; for instance, no true scientist would reject evolution...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thoughtco.com  
    Title: the no true scotsman fallacy 250339  
-   Link: <a href="https://www.thoughtco.com/the-no-true-scotsman-fallacy-250339" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/the-no-true-scotsman-fallacy-250339</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the &quot;No True Scotsman&quot; FallacyNov 5, 2019 — It&#x27;s a common statement used in debating or concluding a particular point that...</p></details>
+   Link:<a href="https://www.thoughtco.com/the-no-true-scotsman-fallacy-250339" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/the-no-true-scotsman-fallacy-250339</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the &quot;No True Scotsman&quot; FallacyNov 5, 2019 — It&#x27;s a common statement used in debating or concluding a particular point that...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: answersingenesis.org  
    Title: logical fallacies no true scotsman  
-   Link: <a href="https://answersingenesis.org/blogs/patricia-engler/2021/02/03/logical-fallacies-no-true-scotsman/?srsltid=AfmBOoqdohZp-ghUZBMvhBb7zoywHQ3OICN4V8bSTVtIo_0E0TippvB2" target="_blank" rel="noopener noreferrer nofollow">https://answersingenesis.org/blogs/patricia-engler/2021/02/03/logical-fallacies-no-true-scotsman/?srsltid=AfmBOoqdohZp-ghUZBMvhBb7zoywHQ3OICN4V8bSTVtIo_0E0TippvB2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: No True ScotsmanFeb 3, 2021 — “No true Scotsman” fallacies happen when someone tries to win an argument by changing th...</p></details>
+   Link:<a href="https://answersingenesis.org/blogs/patricia-engler/2021/02/03/logical-fallacies-no-true-scotsman/?srsltid=AfmBOoqdohZp-ghUZBMvhBb7zoywHQ3OICN4V8bSTVtIo_0E0TippvB2" target="_blank" rel="noopener noreferrer nofollow">https://answersingenesis.org/blogs/patricia-engler/2021/02/03/logical-fallacies-no-true-scotsman/?srsltid=AfmBOoqdohZp-ghUZBMvhBb7zoywHQ3OICN4V8bSTVtIo_0E0TippvB2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: No True ScotsmanFeb 3, 2021 — “No true Scotsman” fallacies happen when someone tries to win an argument by changing th...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/no-true-scotsman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/no-true-scotsman</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>criticisms or flaws of your argument.Read more...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/no-true-scotsman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/no-true-scotsman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>criticisms or flaws of your argument.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.vanderbilt.edu  
    Title: Licensing Knowledge  
-   Link: <a href="https://cdn.vanderbilt.edu/vu-wordpress-0/wp-content/uploads/sites/278/2019/03/19115927/Licensing-Knowledge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.vanderbilt.edu/vu-wordpress-0/wp-content/uploads/sites/278/2019/03/19115927/Licensing-Knowledge.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledgeby CE Haupt · Cited by 51 — When professionals give advice, they disseminate professional knowledge to their clients. Profession...</p></details>
+   Link:<a href="https://cdn.vanderbilt.edu/vu-wordpress-0/wp-content/uploads/sites/278/2019/03/19115927/Licensing-Knowledge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.vanderbilt.edu/vu-wordpress-0/wp-content/uploads/sites/278/2019/03/19115927/Licensing-Knowledge.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledgeby CE Haupt · Cited by 51 — When professionals give advice, they disseminate professional knowledge to their clients. Profession...</p></details>

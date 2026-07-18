@@ -268,14 +268,14 @@ image: /assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_bl
 
 ## Introduction
 
-A common form of [slippery slope]({{ 'slippery-slope/' | relative_url }}) reasoning begins with a genuine problem: many categories do not have perfectly sharp edges. There is no obvious grain of sand that turns a non-heap into a heap, no precise moment when someone becomes old, and no single millimetre that transforms a short person into a tall one. From this observation, some arguments make a further leap: if the boundary is unclear, then any distinction must be arbitrary, and once we accept one case we must eventually accept every neighbouring case as well. That leap is where a boundary problem can become a slippery slope claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy
+A common form of [slippery slope]({{ 'slippery-slope/' | relative_url }}) reasoning begins with a genuine problem: many categories do not have perfectly sharp edges. There is no obvious grain of sand that turns a non-heap into a heap, no precise moment when someone becomes old, and no single millimetre that transforms a short person into a tall one. From this observation, some arguments make a further leap: if the boundary is unclear, then any distinction must be arbitrary, and once we accept one case we must eventually accept every neighbouring case as well. That leap is where a boundary problem can become a slippery slope claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy
 
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-1-dark.svg" | relative_url }}" alt="Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key mistake is confusing **vagueness** with **indistinguishability**. A blurry border may make classification difficult at the margins, but it does not automatically erase meaningful differences across the entire range. Understanding how this transition occurs helps explain one of the most persistent forms of slippery slope reasoning in ethics, law, and public policy.
 
 ## Does a Blurry Line Mean No Line?
 
-The philosophical background is often called the **Sorites paradox**, from the Greek word for “heap”. The classic puzzle asks when a collection of grains becomes a heap. If one grain is not a heap, and adding a single grain cannot make the difference, then repeating that reasoning seems to imply that even a mountain of sand is not a heap. The paradox arises because ordinary language contains vague terms with borderline cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span>
+The philosophical background is often called the **Sorites paradox**, from the Greek word for “heap”. The classic puzzle asks when a collection of grains becomes a heap. If one grain is not a heap, and adding a single grain cannot make the difference, then repeating that reasoning seems to imply that even a mountain of sand is not a heap. The paradox arises because ordinary language contains vague terms with borderline cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span>
 
 This observation is important because many conceptual slippery slope arguments use the same structure. They proceed roughly as follows:
 
@@ -288,12 +288,12 @@ This observation is important because many conceptual slippery slope arguments u
 
 </div>
 
-The argument's force comes from the fact that each individual step looks harmless. What is often overlooked is that the conclusion depends on chaining together many small similarities and treating them as if they eliminated all larger differences. Philosophers have long recognised the connection between sorites reasoning and certain slippery slope arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/12050662/The_Uses_of_Slippery_Slope_Argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Uses of Slippery Slope ArgumentIn this paper, I shall intend to show that the Sorites argument lies at the core of the Slippe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/VASFAT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">FUZZINESS AND THE SORITES PARADOXby M Vasconez · 2006 — kind of reasoning, then one embarks upon a slippery slope argument, wh...</span></span></span>
+The argument's force comes from the fact that each individual step looks harmless. What is often overlooked is that the conclusion depends on chaining together many small similarities and treating them as if they eliminated all larger differences. Philosophers have long recognised the connection between sorites reasoning and certain slippery slope arguments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/12050662/The_Uses_of_Slippery_Slope_Argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Uses of Slippery Slope ArgumentIn this paper, I shall intend to show that the Sorites argument lies at the core of the Slippe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/VASFAT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">FUZZINESS AND THE SORITES PARADOXby M Vasconez · 2006 — kind of reasoning, then one embarks upon a slippery slope argument, wh...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-3-dark.svg" | relative_url }}" alt="Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Heap Problem and Gradual Change
 
-The heap paradox demonstrates a genuine intellectual difficulty. Many concepts are gradual rather than binary. Someone can become bald gradually. Colours blend into one another. Human development occurs across a continuum rather than through sudden transformations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy
+The heap paradox demonstrates a genuine intellectual difficulty. Many concepts are gradual rather than binary. Someone can become bald gradually. Colours blend into one another. Human development occurs across a continuum rather than through sudden transformations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy
 
 Because change is gradual, it is often impossible to identify a single decisive transition point. Slippery slope arguments exploit this fact by suggesting that if no exact point exists, then no distinction can be justified.
 
@@ -302,7 +302,7 @@ Historically, however, philosophers have generally treated these as different qu
 * **Question 1:** Is there a perfectly precise boundary?
 * **Question 2:** Can we still make useful distinctions?
 
-The first question may have a negative answer. The second often has a positive one. A lack of perfect precision does not automatically make every classification worthless. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span>
+The first question may have a negative answer. The second often has a positive one. A lack of perfect precision does not automatically make every classification worthless.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span>
 
 For example, there may be difficult borderline cases between youth and adulthood. Yet that does not imply that a six-year-old and a thirty-year-old must be treated identically under the law. The existence of marginal cases does not eliminate obvious cases.
 
@@ -312,13 +312,13 @@ For example, there may be difficult borderline cases between youth and adulthood
 
 Many institutions operate successfully despite fuzzy concepts. Legal systems, regulators, schools, and medical organisations routinely establish thresholds even when nature itself does not provide a sharp dividing line.
 
-Age-based rules provide a clear illustration. Developmental research shows that different capacities mature at different rates, which is one reason legal systems often use different age thresholds for different activities rather than claiming that maturity appears at a single precise moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6551607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adolescents&#x27; Cognitive Capacity Reaches Adult Levels Prior...by G Icenogle · 2019 · Cited by 347 — We argue it is therefore reasonabl...</span></span></span>
+Age-based rules provide a clear illustration. Developmental research shows that different capacities mature at different rates, which is one reason legal systems often use different age thresholds for different activities rather than claiming that maturity appears at a single precise moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6551607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adolescents&#x27; Cognitive Capacity Reaches Adult Levels Prior...by G Icenogle · 2019 · Cited by 347 — We argue it is therefore reasonabl...</span></span></span>
 
 The important point is not that these thresholds are perfect. It is that they are workable.
 
-A voting age of eighteen, for example, does not imply that everyone becomes politically mature on their eighteenth birthday. Rather, it reflects a practical decision about where to draw a line in a continuous reality. Similar line-drawing occurs with driving ages, retirement ages, tax brackets, and countless administrative rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/highlights/spotlight/issue-143" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">issue 143</span><span class="citation-popover-snippet">American Psychological AssociationDrawing Legal Age Boundaries: A Tale of Two Maturities3 Jul 2019 — That said, age boundaries are in flu...</span></span></span>
+A voting age of eighteen, for example, does not imply that everyone becomes politically mature on their eighteenth birthday. Rather, it reflects a practical decision about where to draw a line in a continuous reality. Similar line-drawing occurs with driving ages, retirement ages, tax brackets, and countless administrative rules.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/highlights/spotlight/issue-143" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">issue 143</span><span class="citation-popover-snippet">American Psychological AssociationDrawing Legal Age Boundaries: A Tale of Two Maturities3 Jul 2019 — That said, age boundaries are in flu...</span></span></span>
 
-Legal and philosophical discussions of vagueness have long noted that societies often need determinate rules even when concepts contain grey areas. A rule can be justified because it provides consistency, predictability, and fairness, not because it captures a metaphysically perfect boundary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">The slippery slope argumentby GA den Hartogh · Cited by 66 — Even so, arbitrary boundaries will be most acceptable, if they draw...</span></span></span>
+Legal and philosophical discussions of vagueness have long noted that societies often need determinate rules even when concepts contain grey areas. A rule can be justified because it provides consistency, predictability, and fairness, not because it captures a metaphysically perfect boundary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">The slippery slope argumentby GA den Hartogh · Cited by 66 — Even so, arbitrary boundaries will be most acceptable, if they draw...</span></span></span>
 
 ## How Boundary Blur Gets Misused
 
@@ -336,7 +336,7 @@ Even if each adjacent step is small, the total difference across many steps can 
 
 **Assuming line-drawing is impossible.**
 
-The argument treats imperfect boundaries as evidence that no defensible boundary can exist. In practice, institutions routinely draw workable lines despite acknowledged grey areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">The slippery slope argumentby GA den Hartogh · Cited by 66 — Even so, arbitrary boundaries will be most acceptable, if they draw...</span></span></span>
+The argument treats imperfect boundaries as evidence that no defensible boundary can exist. In practice, institutions routinely draw workable lines despite acknowledged grey areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">The slippery slope argumentby GA den Hartogh · Cited by 66 — Even so, arbitrary boundaries will be most acceptable, if they draw...</span></span></span>
 
 **Converting uncertainty into inevitability.**
 
@@ -347,9 +347,9 @@ These moves are especially common in debates about ethics and public policy, whe
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-2-dark.svg" | relative_url }}" alt="Boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Concern Is Legitimate
 
-Not every boundary-based slippery slope argument is fallacious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://garyherstein.com/2016/10/13/slippery-slope/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: garyherstein.com">[garyherstein.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">garyherstein.com</span><span class="citation-popover-snippet">Slippery Slope - THE QUANTUM of EXPLANATIONOct 13, 2016 — So, in a sense, slippery slope is going down the hill, while sorites is going u...</span></span></span>
+Not every boundary-based slippery slope argument is fallacious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://garyherstein.com/2016/10/13/slippery-slope/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: garyherstein.com">[garyherstein.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">garyherstein.com</span><span class="citation-popover-snippet">Slippery Slope - THE QUANTUM of EXPLANATIONOct 13, 2016 — So, in a sense, slippery slope is going down the hill, while sorites is going u...</span></span></span>
 
-Sometimes a policy really does depend on a principle that becomes difficult to limit once accepted. In those cases, the challenge is not merely that the boundary is blurry but that there is no clear rationale for stopping at one point rather than another. Scholars of slippery slope arguments note that some versions raise legitimate questions about consistency and precedent rather than committing an outright fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/archive/JEFSSA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers This is the pre-peer reviewed version of the following</span><span class="citation-popover-snippet">This is the pre-peer reviewed version of the following...June 3, 2014 — by A Jefferson · 2014 · Cited by 38 — Slippery Slope A...</span><span class="citation-popover-meta">Published: June 3, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic The Basic Slippery Slope Argument</span><span class="citation-popover-snippet">Informal LogicThe Basic Slippery Slope Argument - Informal Logicby D Walton · 2015 · Cited by 67 — Cet article permet de résoudre ce prob...</span></span></span>
+Sometimes a policy really does depend on a principle that becomes difficult to limit once accepted. In those cases, the challenge is not merely that the boundary is blurry but that there is no clear rationale for stopping at one point rather than another. Scholars of slippery slope arguments note that some versions raise legitimate questions about consistency and precedent rather than committing an outright fallacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/archive/JEFSSA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers This is the pre-peer reviewed version of the following</span><span class="citation-popover-snippet">This is the pre-peer reviewed version of the following...June 3, 2014 — by A Jefferson · 2014 · Cited by 38 — Slippery Slope A...</span><span class="citation-popover-meta">Published: June 3, 2014</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic The Basic Slippery Slope Argument</span><span class="citation-popover-snippet">Informal LogicThe Basic Slippery Slope Argument - Informal Logicby D Walton · 2015 · Cited by 67 — Cet article permet de résoudre ce prob...</span></span></span>
 
 The crucial difference is evidence.
 
@@ -367,203 +367,203 @@ The second claim requires analysis of institutions, principles, incentives, and 
 
 ## The Practical Lesson
 
-Boundary problems reveal a real feature of human concepts: many categories are vague, gradual, and resistant to perfectly precise definitions. The Sorites paradox shows why drawing lines can be intellectually difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy
+Boundary problems reveal a real feature of human concepts: many categories are vague, gradual, and resistant to perfectly precise definitions. The Sorites paradox shows why drawing lines can be intellectually difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span> Encyclopedia of Philosophy
 
 What it does not show is that every line is meaningless.
 
-The central error occurs when a genuine observation about vagueness is converted into a slippery slope claim. A blurry boundary may create hard cases at the margins, but it does not automatically eliminate the possibility of useful distinctions, practical thresholds, or principled stopping points. The existence of grey areas is evidence that line-drawing requires judgement, not proof that judgement is impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">The slippery slope argumentby GA den Hartogh · Cited by 66 — Even so, arbitrary boundaries will be most acceptable, if they draw...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span>
+The central error occurs when a genuine observation about vagueness is converted into a slippery slope claim. A blurry boundary may create hard cases at the margins, but it does not automatically eliminate the possibility of useful distinctions, practical thresholds, or principled stopping points. The existence of grey areas is evidence that line-drawing requires judgement, not proof that judgement is impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">The slippery slope argumentby GA den Hartogh · Cited by 66 — Even so, arbitrary boundaries will be most acceptable, if they draw...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Sorites paradox</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b2yC-kQK_1o" title="The Paradox of the Heap (90 Second Philosophy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b2yC-kQK_1o" target="_blank" rel="noopener noreferrer">The Paradox of the Heap (90 Second Philosophy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 29.8K &middot; Uploaded: August 2013 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b2yC-kQK_1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b2yC-kQK_1o">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does a Blurry Line Mean No Line?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does a Blurry Line Mean No Line?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pig+That+Wants+to+Be+Eaten+by+Julian+Baggini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pig That Wants to Be Eaten on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x3vQZ8A5u6kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pig That Wants to Be Eaten" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pig+That+Wants+to+Be+Eaten+by+Julian+Baggini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pig That Wants to Be Eaten">The Pig That Wants to Be Eaten</a>
-        </h4>
-        <p class="fr-book-author">By Julian Baggini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pig+That+Wants+to+Be+Eaten+by+Julian+Baggini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pig That Wants to Be Eaten on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x3vQZ8A5u6kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pig That Wants to Be Eaten" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pig+That+Wants+to+Be+Eaten+by+Julian+Baggini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pig That Wants to Be Eaten">The Pig That Wants to Be Eaten</a>
+</h4>
+<p class="fr-book-author">By Julian Baggini</p>
         
-        <p class="fr-book-desc">Covers boundary cases and conceptual reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pig+That+Wants+to+Be+Eaten+by+Julian+Baggini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers boundary cases and conceptual reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pig+That+Wants+to+Be+Eaten+by+Julian+Baggini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+by+Simon+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEEITQSyxAMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+by+Simon+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think">Think</a>
-        </h4>
-        <p class="fr-book-author">By Simon Blackburn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+by+Simon+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEEITQSyxAMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+by+Simon+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think">Think</a>
+</h4>
+<p class="fr-book-author">By Simon Blackburn</p>
         
-        <p class="fr-book-desc">Introduces vagueness, reasoning and philosophical puzzles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+by+Simon+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces vagueness, reasoning and philosophical puzzles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+by+Simon+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides tools for analyzing fuzzy judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for analyzing fuzzy judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful distinctions and skeptical inquiry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful distinctions and skeptical inquiry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pig+That+Wants+to+Be+Eaten&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pig That Wants to Be Eaten</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pig+That+Wants+to+Be+Eaten&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pig That Wants to Be Eaten</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Logic Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/oQQAAOSwGVNidEo0/s-l225.jpg" alt="Listing image for Large A3 Logic Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Large A3 Logic Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Logic Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/oQQAAOSwGVNidEo0/s-l225.jpg" alt="Listing image for Large A3 Logic Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Large A3 Logic Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph"><img src="https://i.ebayimg.com/images/g/OakAAeSwANhpVBzJ/s-l225.jpg" alt="Listing image for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph"><img src="https://i.ebayimg.com/images/g/OakAAeSwANhpVBzJ/s-l225.jpg" alt="Listing image for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch"><img src="https://i.ebayimg.com/images/g/No4AAOSwgyBmw8Rr/s-l225.jpg" alt="Listing image for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch"><img src="https://i.ebayimg.com/images/g/No4AAOSwgyBmw8Rr/s-l225.jpg" alt="Listing image for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-blurry-line-mean-no-line-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="does-a-blurry-line-mean-no-line-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ The central error occurs when a genuine observation about vagueness is converted
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ The central error occurs when a genuine observation about vagueness is converted
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ The central error occurs when a genuine observation about vagueness is converted
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ The central error occurs when a genuine observation about vagueness is converted
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ The central error occurs when a genuine observation about vagueness is converted
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,180 +769,180 @@ The central error occurs when a genuine observation about vagueness is converted
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Sorites paradox  
-   Link: <a href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/sorites-paradox/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/sorites-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophyby D Raffman · 1997 · Cited by 5 — The sorites pa...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/vagueness/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/vagueness/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyVaguenessVagueness is standardly defined as the possession of borderline cases. For example, `tall&#x27; is...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/fall1997/entries/vagueness/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/vagueness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyVaguenessVagueness is standardly defined as the possession of borderline cases. For example, `tall&#x27; is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Sorites paradox  
-   Link: <a href="https://plato.stanford.edu/archives/win2011/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2011/entries/sorites-paradox/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophy17 Jan 1997 — The sorites paradox is the name giv...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/win2011/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2011/entries/sorites-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophySorites paradox - Stanford Encyclopedia of Philosophy17 Jan 1997 — The sorites paradox is the name giv...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: sorites paradox  
-   Link: <a href="https://plato.stanford.edu/archives/sum2005/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2005/entries/sorites-paradox/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophySorites paradox30 July 2004 — The sorites paradox is the name given to a class of paradoxical argument...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/sum2005/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2005/entries/sorites-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophySorites paradox30 July 2004 — The sorites paradox is the name given to a class of paradoxical argument...</p></details>
    Published: July 2004  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/12050662/The_Uses_of_Slippery_Slope_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12050662/The_Uses_of_Slippery_Slope_Argument</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Uses of Slippery Slope ArgumentIn this paper, I shall intend to show that the Sorites argument lies at the core of the Slippe...</p></details>
+   Link:<a href="https://www.academia.edu/12050662/The_Uses_of_Slippery_Slope_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12050662/The_Uses_of_Slippery_Slope_Argument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Uses of Slippery Slope ArgumentIn this paper, I shall intend to show that the Sorites argument lies at the core of the Slippe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/archive/VASFAT" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/VASFAT</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FUZZINESS AND THE SORITES PARADOXby M Vasconez · 2006 — kind of reasoning, then one embarks upon a slippery slope argument, wh...</p></details>
+   Link:<a href="https://philarchive.org/archive/VASFAT" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/VASFAT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FUZZINESS AND THE SORITES PARADOXby M Vasconez · 2006 — kind of reasoning, then one embarks upon a slippery slope argument, wh...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/spr2002/entries/vagueness/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2002/entries/vagueness/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyVaguenessFeb 22, 2002 — Vagueness is standardly defined as the possession of borderline cases. For exa...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/spr2002/entries/vagueness/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2002/entries/vagueness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyVaguenessFeb 22, 2002 — Vagueness is standardly defined as the possession of borderline cases. For exa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6551607/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6551607/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adolescents&#x27; Cognitive Capacity Reaches Adult Levels Prior...by G Icenogle · 2019 · Cited by 347 — We argue it is therefore reasonabl...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6551607/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6551607/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adolescents&#x27; Cognitive Capacity Reaches Adult Levels Prior...by G Icenogle · 2019 · Cited by 347 — We argue it is therefore reasonabl...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The slippery slope argumentby GA den Hartogh · Cited by 66 — Even so, arbitrary boundaries will be most acceptable, if they draw...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The slippery slope argumentby GA den Hartogh · Cited by 66 — Even so, arbitrary boundaries will be most acceptable, if they draw...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: philpapers.org  
    Title: Phil Papers This is the pre-peer reviewed version of the following  
-   Link: <a href="https://philpapers.org/archive/JEFSSA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/JEFSSA.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the pre-peer reviewed version of the following...June 3, 2014 — by A Jefferson · 2014 · Cited by 38 — Slippery Slope A...</p></details>
+   Link:<a href="https://philpapers.org/archive/JEFSSA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/JEFSSA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is the pre-peer reviewed version of the following...June 3, 2014 — by A Jefferson · 2014 · Cited by 38 — Slippery Slope A...</p></details>
    Published: June 3, 2014  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/sum2018/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2018/entries/sorites-paradox/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>paradox - Stanford Encyclopedia of PhilosophyMar 26, 2018 — At least three conditions must be met for an argument to be an instance of th...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/sum2018/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2018/entries/sorites-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>paradox - Stanford Encyclopedia of PhilosophyMar 26, 2018 — At least three conditions must be met for an argument to be an instance of th...</p></details>
 
-12. <a id="endnote-12"></a>
-   Source: plato.stanford.edu  
-   Title: sorites paradox  
-   Link: <a href="https://plato.stanford.edu/archives/win2012/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2012/entries/sorites-paradox/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>paradox - Stanford Encyclopedia of PhilosophyJan 17, 1997 — The sorites paradox is the name given to a class of paradoxical arguments, al...</p></details>
-
-13. <a id="endnote-13"></a>
+12.<a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: sorites paradox  
-   Link: <a href="https://plato.stanford.edu/archives/win2003/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2003/entries/sorites-paradox/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>paradoxThis phenomenon at the heart of the paradoxes is now recognised as the phenomenon of vagueness. Once identified, vagueness can be...</p></details>
+   Link:<a href="https://plato.stanford.edu/archives/win2012/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2012/entries/sorites-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>paradox - Stanford Encyclopedia of PhilosophyJan 17, 1997 — The sorites paradox is the name given to a class of paradoxical arguments, al...</p></details>
 
-14. <a id="endnote-14"></a>
+13.<a id="endnote-13"></a>
+   Source: plato.stanford.edu  
+   Title: sorites paradox  
+   Link:<a href="https://plato.stanford.edu/archives/win2003/entries/sorites-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2003/entries/sorites-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>paradoxThis phenomenon at the heart of the paradoxes is now recognised as the phenomenon of vagueness. Once identified, vagueness can be...</p></details>
+
+14.<a id="endnote-14"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/archive/CLBTNA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/CLBTNA.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PHD THESISby M Călborean · 2020 · Cited by 1 — 55 Dominic Hyde and Diana Raffman, &quot;Sorites Paradox&quot;, The Stanford Encyclopedia of Philoso...</p></details>
+   Link:<a href="https://philpapers.org/archive/CLBTNA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/CLBTNA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHD THESISby M Călborean · 2020 · Cited by 1 — 55 Dominic Hyde and Diana Raffman, &quot;Sorites Paradox&quot;, The Stanford Encyclopedia of Philoso...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart the slippery slope fallacy? - Elizabeth Cox...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart the slippery slope fallacy? - Elizabeth Cox...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apa.org  
    Title: issue 143  
-   Link: <a href="https://www.apa.org/pubs/highlights/spotlight/issue-143" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/highlights/spotlight/issue-143</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationDrawing Legal Age Boundaries: A Tale of Two Maturities3 Jul 2019 — That said, age boundaries are in flu...</p></details>
+   Link:<a href="https://www.apa.org/pubs/highlights/spotlight/issue-143" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/highlights/spotlight/issue-143</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationDrawing Legal Age Boundaries: A Tale of Two Maturities3 Jul 2019 — That said, age boundaries are in flu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: informallogic.ca  
    Title: [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) The Basic Slippery Slope Argument  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4286/3764</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicThe Basic Slippery Slope Argument - Informal Logicby D Walton · 2015 · Cited by 67 — Cet article permet de résoudre ce prob...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4286/3764</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicThe Basic Slippery Slope Argument - Informal Logicby D Walton · 2015 · Cited by 67 — Cet article permet de résoudre ce prob...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Sorites paradox  
-   Link: <a href="https://en.wikipedia.org/wiki/Sorites_paradox" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sorites_paradox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sorites paradoxThe paradox is to consider what happens when the process is repeated enough times that only one grain remains and if it...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sorites_paradox" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sorites_paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sorites paradoxThe paradox is to consider what happens when the process is repeated enough times that only one grain remains and if it...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: garyherstein.com  
-   Link: <a href="https://garyherstein.com/2016/10/13/slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://garyherstein.com/2016/10/13/slippery-slope/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - THE QUANTUM of EXPLANATIONOct 13, 2016 — So, in a sense, slippery slope is going down the hill, while sorites is going u...</p></details>
+   Link:<a href="https://garyherstein.com/2016/10/13/slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://garyherstein.com/2016/10/13/slippery-slope/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - THE QUANTUM of EXPLANATIONOct 13, 2016 — So, in a sense, slippery slope is going down the hill, while sorites is going u...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribbr.com  
    Title: slippery slope fallacy  
-   Link: <a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples14 Apr 2023 — The slippery slope fallacy is an argument that suggests an initial event will inevitably cause another...</p></details>
+   Link:<a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples14 Apr 2023 — The slippery slope fallacy is an argument that suggests an initial event will inevitably cause another...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tdx.cat  
-   Link: <a href="https://www.tdx.cat/bitstream/10803/687446/1/MAHOOZI_PhD_THESIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tdx.cat/bitstream/10803/687446/1/MAHOOZI_PhD_THESIS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy of Vagueness: A Topological PerspectiveTo solve the Sorites paradox, then, subvaluationists contend that the argument is not v...</p></details>
+   Link:<a href="https://www.tdx.cat/bitstream/10803/687446/1/MAHOOZI_PhD_THESIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tdx.cat/bitstream/10803/687446/1/MAHOOZI_PhD_THESIS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy of Vagueness: A Topological PerspectiveTo solve the Sorites paradox, then, subvaluationists contend that the argument is not v...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: www2.law.ucla.edu  
-   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) of the Slippery Slopeby E Volokh — The analysis in this Article implicitly rebuts the argument that slippery slope arguments a...</p></details>
+   Link:<a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) of the Slippery Slopeby E Volokh — The analysis in this Article implicitly rebuts the argument that slippery slope arguments a...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: yalelawjournal.org  
-   Link: <a href="https://yalelawjournal.org/feature/constitutional-law-in-an-age-of-proportionality" target="_blank" rel="noopener noreferrer nofollow">https://yalelawjournal.org/feature/constitutional-law-in-an-age-of-proportionality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Constitutional Law in an Age of ProportionalityI argue here for greater use of proportionality principles and doctrine; I also argue that...</p></details>
+   Link:<a href="https://yalelawjournal.org/feature/constitutional-law-in-an-age-of-proportionality" target="_blank" rel="noopener noreferrer nofollow">https://yalelawjournal.org/feature/constitutional-law-in-an-age-of-proportionality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constitutional Law in an Age of ProportionalityI argue here for greater use of proportionality principles and doctrine; I also argue that...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sic.ici.ro  
-   Link: <a href="https://sic.ici.ro/documents/1200/Art._9_Issue_3_SIC_1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sic.ici.ro/documents/1200/Art._9_Issue_3_SIC_1998.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Concepts and Sorites ParadoxesThis new form of the sorites argument was called the subjectivist version. Consider, as above, predicate P...</p></details>
+   Link:<a href="https://sic.ici.ro/documents/1200/Art._9_Issue_3_SIC_1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sic.ici.ro/documents/1200/Art._9_Issue_3_SIC_1998.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concepts and Sorites ParadoxesThis new form of the sorites argument was called the subjectivist version. Consider, as above, predicate P...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: bankofengland.co.uk  
    Title: implementation of the basel 3 1 standards near final policy statement part 2  
-   Link: <a href="https://www.bankofengland.co.uk/prudential-regulation/publication/2024/september/implementation-of-the-basel-3-1-standards-near-final-policy-statement-part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.bankofengland.co.uk/prudential-regulation/publication/2024/september/implementation-of-the-basel-3-1-standards-near-final-policy-statement-part-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PS9/24 – Implementation of the Basel 3.1 standards near-...12 Sept 2024 — This Prudential Regulation Authority (PRA) near-final policy s...</p></details>
+   Link:<a href="https://www.bankofengland.co.uk/prudential-regulation/publication/2024/september/implementation-of-the-basel-3-1-standards-near-final-policy-statement-part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.bankofengland.co.uk/prudential-regulation/publication/2024/september/implementation-of-the-basel-3-1-standards-near-final-policy-statement-part-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PS9/24 – Implementation of the Basel 3.1 standards near-...12 Sept 2024 — This Prudential Regulation Authority (PRA) near-final policy s...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228237461_Ambiguity_And_Vagueness_In_Legal_Interpretation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228237461_Ambiguity_And_Vagueness_In_Legal_Interpretation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The article first delimits vagueness and ambiguity and sets it into relation...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228237461_Ambiguity_And_Vagueness_In_Legal_Interpretation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228237461_Ambiguity_And_Vagueness_In_Legal_Interpretation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The article first delimits vagueness and ambiguity and sets it into relation...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/223926097_The_Psychological_Mechanism_of_the_Slippery_Slope_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223926097_The_Psychological_Mechanism_of_the_Slippery_Slope_Argument</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>verses the onus of proof, so that rather than arguing about a particular...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/223926097_The_Psychological_Mechanism_of_the_Slippery_Slope_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223926097_The_Psychological_Mechanism_of_the_Slippery_Slope_Argument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>verses the onus of proof, so that rather than arguing about a particular...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/yktzji/i_was_on_the_stanford_encyclopedia_of_philosophy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/yktzji/i_was_on_the_stanford_encyclopedia_of_philosophy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t mean vagueness. It comes from Sorites, so it would...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/askphilosophy/comments/yktzji/i_was_on_the_stanford_encyclopedia_of_philosophy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/yktzji/i_was_on_the_stanford_encyclopedia_of_philosophy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t mean vagueness. It comes from Sorites, so it would...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: criminalbar.com  
-   Link: <a href="https://www.criminalbar.com/wp-content/uploads/2021/12/CLRNN3-Deception-Consultation-Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criminalbar.com/wp-content/uploads/2021/12/CLRNN3-Deception-Consultation-Paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g a line between permissible and impermissible.Read more...</p></details>
+   Link:<a href="https://www.criminalbar.com/wp-content/uploads/2021/12/CLRNN3-Deception-Consultation-Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criminalbar.com/wp-content/uploads/2021/12/CLRNN3-Deception-Consultation-Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g a line between permissible and impermissible.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: supremecourt.uk  
    Title: speech lord sales 240919 1e4f3f8d1f  
-   Link: <a href="https://supremecourt.uk/uploads/speech_lord_sales_240919_1e4f3f8d1f.pdf" target="_blank" rel="noopener noreferrer nofollow">https://supremecourt.uk/uploads/speech_lord_sales_240919_1e4f3f8d1f.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 The role of purpose in legislative interpretation19 Sept 2024 — This feature of interpretation is particularly strong in relation to st...</p></details>
+   Link:<a href="https://supremecourt.uk/uploads/speech_lord_sales_240919_1e4f3f8d1f.pdf" target="_blank" rel="noopener noreferrer nofollow">https://supremecourt.uk/uploads/speech_lord_sales_240919_1e4f3f8d1f.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 The role of purpose in legislative interpretation19 Sept 2024 — This feature of interpretation is particularly strong in relation to st...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the case of the slippery slope and the ad hominem argumentsby M Lillo-Unglaube · 2014 · Cited by 13 — The slippery slope argument is a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the case of the slippery slope and the ad hominem argumentsby M Lillo-Unglaube · 2014 · Cited by 13 — The slippery slope argument is a...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID1445308 code383968  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>slope argumentsFull slippery slope argument A version of the slippery slope argument that combines various other versions in one complex...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>slope argumentsFull slippery slope argument A version of the slippery slope argument that combines various other versions in one complex...</p></details>

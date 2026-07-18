@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-index/
 description: Focused pages that expand on Logical Fallacies.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: logical_fallacies_998914
 parent_title: Logical Fallacies
@@ -16,7 +16,7 @@ parent_permalink: /logical-fallacies/
 
 # Explore Topics in Logical Fallacies
 
-The following pages expand on the main **[Logical Fallacies]({{ '/logical-fallacies/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Logical Fallacies]({{ '/logical-fallacies/' | relative_url }})** page and cover its key branches in.
 
 - [Ad Hominem]({{ '/ad-hominem/' | relative_url }})
 - [Advertising]({{ '/advertising/' | relative_url }})

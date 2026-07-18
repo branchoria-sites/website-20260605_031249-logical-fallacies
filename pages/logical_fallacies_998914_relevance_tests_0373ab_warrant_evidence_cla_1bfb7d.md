@@ -268,10 +268,10 @@ image: /assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_ev
 
 ## Introduction
 
-A warrant is the missing bridge between evidence and a claim. When people evaluate an argument, they often focus on whether the evidence is true. A stronger test asks a different question: even if the evidence is true, why should it lead us to this conclusion? The answer is the warrant—the usually unstated assumption, rule, principle, or causal link that connects the evidence to the claim. In the Toulmin model of argument, the warrant is the element that explains how grounds (evidence) support a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</span></span></span>
+A warrant is the missing bridge between evidence and a claim. When people evaluate an argument, they often focus on whether the evidence is true. A stronger test asks a different question: even if the evidence is true, why should it lead us to this conclusion? The answer is the warrant—the usually unstated assumption, rule, principle, or causal link that connects the evidence to the claim. In the Toulmin model of argument, the warrant is the element that explains how grounds (evidence) support a claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-1-dark.svg" | relative_url }}" alt="Warrants illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) arise not from false evidence but from weak, hidden, or unsupported warrants. An argument can sound persuasive while quietly relying on an assumption that does not hold. Warrant tests are therefore a practical [relevance]({{ 'relevance/' | relative_url }}) check: they expose gaps between what has been shown and what has merely been asserted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3900/3149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Understanding Fallacies on Toulmin&#x27;s Layout of Argument</span><span class="citation-popover-snippet">This is because the warrant is the source of relevance between the data and the claim (ibid.Read more...</span></span></span>
+This matters because many [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) arise not from false evidence but from weak, hidden, or unsupported warrants. An argument can sound persuasive while quietly relying on an assumption that does not hold. Warrant tests are therefore a practical [relevance]({{ 'relevance/' | relative_url }}) check: they expose gaps between what has been shown and what has merely been asserted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3900/3149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Understanding Fallacies on Toulmin&#x27;s Layout of Argument</span><span class="citation-popover-snippet">This is because the warrant is the source of relevance between the data and the claim (ibid.Read more...</span></span></span>
 
 ## What a Warrant Does in an Argument
 
@@ -284,15 +284,15 @@ Consider this argument:
 
 The evidence does not automatically prove the claim. The hidden warrant is something like: “Skills that produce success in business tend to produce success in municipal government.”
 
-Once the warrant is stated, the real issue becomes visible. Is that assumption justified? Are business management and public administration similar enough for the inference to work? The quality of the argument depends largely on the answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</span></span></span>
+Once the warrant is stated, the real issue becomes visible. Is that assumption justified? Are business management and public administration similar enough for the inference to work? The quality of the argument depends largely on the answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</span></span></span>
 
-Argumentation guides often describe the warrant as the bridge between data and conclusion. Without it, the audience is left to supply its own assumptions. Sometimes that is harmless because the warrant is widely accepted. In other cases, the hidden assumption is exactly where the reasoning fails. Lincoln University <span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Miami UniversitySupporting an ArgumentWarrant (&quot;the bridge&quot;): The belief, value, assumption, and/or experience the writer hopes the audie...</span></span></span>
+Argumentation guides often describe the warrant as the bridge between data and conclusion. Without it, the audience is left to supply its own assumptions. Sometimes that is harmless because the warrant is widely accepted. In other cases, the hidden assumption is exactly where the reasoning fails. Lincoln University<span class="citation-chip-wrap"><a class="citation-chip" href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: miamioh.edu">[Miami University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">miamioh.edu</span><span class="citation-popover-snippet">Miami UniversitySupporting an ArgumentWarrant (&quot;the bridge&quot;): The belief, value, assumption, and/or experience the writer hopes the audie...</span></span></span>
 
 A useful way to think about warrants is that they answer the question:
 
 **“Why does this evidence make that conclusion more likely?”**
 
-If no convincing answer emerges, the argument has an evidence-to-claim gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statisticssolutions.com">[statisticssolutions.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statisticssolutions.com</span><span class="citation-popover-snippet">Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</span></span></span>
+If no convincing answer emerges, the argument has an evidence-to-claim gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statisticssolutions.com">[statisticssolutions.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statisticssolutions.com</span><span class="citation-popover-snippet">Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</span></span></span>
 
 ## How to Test Whether the Bridge Holds
 
@@ -319,11 +319,11 @@ A practical test is to rewrite the argument in three parts:
 
 1. What is the evidence?
 2. What is the claim?
-3. What assumption must be true for the evidence to support the claim? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statisticssolutions.com">[statisticssolutions.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statisticssolutions.com</span><span class="citation-popover-snippet">Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</span></span></span>
+3. What assumption must be true for the evidence to support the claim?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statisticssolutions.com">[statisticssolutions.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statisticssolutions.com</span><span class="citation-popover-snippet">Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</span></span></span>
 
 </div>
 
-If the third step produces an implausible assumption, the bridge is weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</span></span></span>
+If the third step produces an implausible assumption, the bridge is weak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</span></span></span>
 
 ### Ask Whether the Warrant Is Generalisable
 
@@ -343,7 +343,7 @@ Now compare:
 
 Here the warrant relies on a much weaker principle: that a single anecdote can establish effectiveness.
 
-The evidence is not necessarily false. The warrant simply lacks sufficient authority to support the strength of the conclusion. Toulmin-based analyses emphasise that warrants vary in strength and backing; some provide only weak relevance while others provide strong relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3900/3149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Understanding Fallacies on Toulmin&#x27;s Layout of Argument</span><span class="citation-popover-snippet">This is because the warrant is the source of relevance between the data and the claim (ibid.Read more...</span></span></span>
+The evidence is not necessarily false. The warrant simply lacks sufficient authority to support the strength of the conclusion. Toulmin-based analyses emphasise that warrants vary in strength and backing; some provide only weak relevance while others provide strong relevance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3900/3149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Understanding Fallacies on Toulmin&#x27;s Layout of Argument</span><span class="citation-popover-snippet">This is because the warrant is the source of relevance between the data and the claim (ibid.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-2-dark.svg" | relative_url }}" alt="Warrants illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reverse the Argument
@@ -365,7 +365,7 @@ This test is particularly effective against appeals to irrelevant authority, pop
 
 ### Check the Claim Strength
 
-Evidence often supports a weaker claim than the one being asserted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statisticssolutions.com">[statisticssolutions.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statisticssolutions.com</span><span class="citation-popover-snippet">Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</span></span></span>
+Evidence often supports a weaker claim than the one being asserted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statisticssolutions.com">[statisticssolutions.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statisticssolutions.com</span><span class="citation-popover-snippet">Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</span></span></span>
 
 For example:
 
@@ -374,7 +374,7 @@ For example:
 
 The warrant assumes that limited evidence justifies certainty. A better conclusion might be that the relationship is plausible or deserves further investigation.
 
-Recent research on evidence evaluation highlights this problem. Evidence may be relevant to a claim while still failing to warrant the claim's full strength, scope, certainty, or specificity. The mismatch occurs when conclusions exceed what the evidence can reasonably support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</span><span class="citation-popover-meta">Published: May 27, 2026</span></span></span>
+Recent research on evidence evaluation highlights this problem. Evidence may be relevant to a claim while still failing to warrant the claim's full strength, scope, certainty, or specificity. The mismatch occurs when conclusions exceed what the evidence can reasonably support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</span><span class="citation-popover-meta">Published: May 27, 2026</span></span></span>
 
 ## When Evidence Supports a Nearby Claim Instead
 
@@ -403,7 +403,7 @@ Warrant testing reveals the shift. The hidden bridge often turns out to be:
 * Legality implies morality.
 * [Tradition]({{ 'tradition/' | relative_url }}) implies correctness.
 
-Each bridge requires separate justification. Without it, the argument commits a relevance error by moving from one type of claim to another without adequate support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurelearn.com">[FutureLearn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurelearn.com</span><span class="citation-popover-snippet">How to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of Relevance...</span></span></span>
+Each bridge requires separate justification. Without it, the argument commits a relevance error by moving from one type of claim to another without adequate support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurelearn.com">[FutureLearn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurelearn.com</span><span class="citation-popover-snippet">How to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of Relevance...</span></span></span>
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-3-dark.svg" | relative_url }}" alt="Warrants illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Warning Signs of an Evidence-to-Claim Gap
@@ -422,199 +422,199 @@ These warning signs do not automatically prove a fallacy. They indicate places w
 
 The most valuable feature of a warrant test is that it changes the question from “Is this evidence true?” to “Does this evidence justify this conclusion?” An argument may survive the first question and fail the second.
 
-Strong reasoning requires more than facts. It requires a defensible connection between facts and conclusions. Warrants supply that connection, and warrant tests expose whether the connection is genuine, overstated, or missing altogether. In the context of logical fallacies, this makes warrant analysis one of the most effective tools for detecting relevance failures that would otherwise remain hidden beneath persuasive evidence and confident claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</span><span class="citation-popover-meta">Published: May 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=1BMnv2oleLo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[3Purdue OWL 3Purdue Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Claim, Evidence, Warrant &#124; Essay Writing &#124; The Nature of Writing</span><span class="citation-popover-snippet">Toulmin Model of Argumentation...</span></span></span> Success Center](#endnote-10 "Snippet: Purdue Global Success CenterThe Toulmin Model of Argument PodcastThe warrant is the assumption, or belief, the writer has in mind when fo...")
+Strong reasoning requires more than facts. It requires a defensible connection between facts and conclusions. Warrants supply that connection, and warrant tests expose whether the connection is genuine, overstated, or missing altogether. In the context of logical fallacies, this makes warrant analysis one of the most effective tools for detecting relevance failures that would otherwise remain hidden beneath persuasive evidence and confident claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</span><span class="citation-popover-meta">Published: May 27, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=1BMnv2oleLo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[3Purdue OWL 3Purdue Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Claim, Evidence, Warrant &#124; Essay Writing &#124; The Nature of Writing</span><span class="citation-popover-snippet">Toulmin Model of Argumentation...</span></span></span> Success Center](#endnote-10 "Snippet: Purdue Global Success CenterThe Toulmin Model of Argument PodcastThe warrant is the assumption, or belief, the writer has in mind when fo...")
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8g6R9dRtAww" title="Stephen Toulmin model of argumentation - how to construct the best argument" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8g6R9dRtAww" target="_blank" rel="noopener noreferrer">Stephen Toulmin model of argumentation - how to construct the best argument</a></p><p class="youtube-embed-meta">Channel: flixabout.com &middot; Views: 11.0K &middot; Uploaded: September 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8g6R9dRtAww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8g6R9dRtAww">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Missing Bridge Between Evidence and Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Missing Bridge Between Evidence and Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Weston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+</h4>
+<p class="fr-book-author">By Anthony Weston</p>
         
-        <p class="fr-book-desc">Shows how to evaluate support, assumptions, and reasoning links.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to evaluate support, assumptions, and reasoning links.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uses+of+Argument+by+Stephen+E.+Toulmin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uses of Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8UYgegaB1S0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Uses of Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uses+of+Argument+by+Stephen+E.+Toulmin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uses of Argument">The Uses of Argument</a>
-        </h4>
-        <p class="fr-book-author">By Stephen E. Toulmin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uses+of+Argument+by+Stephen+E.+Toulmin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uses of Argument on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8UYgegaB1S0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Uses of Argument" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uses+of+Argument+by+Stephen+E.+Toulmin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uses of Argument">The Uses of Argument</a>
+</h4>
+<p class="fr-book-author">By Stephen E. Toulmin</p>
         
-        <p class="fr-book-desc">Introduces warrants as the bridge between evidence and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uses+of+Argument+by+Stephen+E.+Toulmin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces warrants as the bridge between evidence and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uses+of+Argument+by+Stephen+E.+Toulmin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-        </h4>
-        <p class="fr-book-author">By D.Q. McInerny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+</h4>
+<p class="fr-book-author">By D.Q. McInerny</p>
         
-        <p class="fr-book-desc">Covers sound inference and hidden assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers sound inference and hidden assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that distort evidence-to-claim reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that distort evidence-to-claim reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uses+of+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uses of Argument</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uses+of+Argument&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uses of Argument</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Logical&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Logical</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/4O4AAeSwOI9o7NfA/s-l225.jpg" alt="Listing image for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/4O4AAeSwOI9o7NfA/s-l225.jpg" alt="Listing image for Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Under Pressure Album Poster/Print A3/A4/A5 230gsm Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3"><img src="https://i.ebayimg.com/images/g/aqgAAOSw0s9mAMYz/s-l225.jpg" alt="Listing image for LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3"><img src="https://i.ebayimg.com/images/g/aqgAAOSw0s9mAMYz/s-l225.jpg" alt="Listing image for LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER SIGNED AUTOGRAPH POSTER PRINT A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/~WAAAeSwEdBpYQ3U/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/~WAAAeSwEdBpYQ3U/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-bridge-between-evidence-and-claim-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="the-missing-bridge-between-evidence-and-claim-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -630,7 +630,7 @@ Strong reasoning requires more than facts. It requires a defensible connection b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -650,7 +650,7 @@ Strong reasoning requires more than facts. It requires a defensible connection b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -682,7 +682,7 @@ Strong reasoning requires more than facts. It requires a defensible connection b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -734,7 +734,7 @@ Strong reasoning requires more than facts. It requires a defensible connection b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -779,7 +779,7 @@ Strong reasoning requires more than facts. It requires a defensible connection b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -820,139 +820,139 @@ Strong reasoning requires more than facts. It requires a defensible connection b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLToulmin Argument  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: informallogic.ca  
    Title: Understanding Fallacies on Toulmin's Layout of Argument  
-   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/3900/3149" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3900/3149</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is because the warrant is the source of relevance between the data and the claim (ibid.Read more...</p></details>
+   Link:<a href="https://informallogic.ca/index.php/informal_logic/article/view/3900/3149" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3900/3149</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is because the warrant is the source of relevance between the data and the claim (ibid.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: futurelearn.com  
-   Link: <a href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of Relevance...</p></details>
+   Link:<a href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of Relevance...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lincoln.edu  
-   Link: <a href="https://www.lincoln.edu/_files/_pdfs/Guide-to-Writing-and-Analyzing-an-Argument.pptx" target="_blank" rel="noopener noreferrer nofollow">https://www.lincoln.edu/_files/_pdfs/Guide-to-Writing-and-Analyzing-an-Argument.pptx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lincoln UniversityClaim and Evidence WorkshopWarrant (also referred to as a bridge): Explanation of why or how the data supports the clai...</p></details>
+   Link:<a href="https://www.lincoln.edu/_files/_pdfs/Guide-to-Writing-and-Analyzing-an-Argument.pptx" target="_blank" rel="noopener noreferrer nofollow">https://www.lincoln.edu/_files/_pdfs/Guide-to-Writing-and-Analyzing-an-Argument.pptx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lincoln UniversityClaim and Evidence WorkshopWarrant (also referred to as a bridge): Explanation of why or how the data supports the clai...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.28044</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.28044</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</p></details>
    Published: May 27, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence  
-   Link: <a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
+   Link:<a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
+   Link:<a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: owl.purdue.edu  
    Title: organizing your argument  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Argument - Purdue OWLThe Toulmin Method is a formula that allows writers to build a sturdy logical foundation for their arguments. F...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Argument - Purdue OWLThe Toulmin Method is a formula that allows writers to build a sturdy logical foundation for their arguments. F...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.%20Two%20lines%20of%20text%2C%20no%20heading%20%3Cstrong%3Eformatting%3C/strong%3E%20apa%20Share%20Improve%20this%20question%20Follow%20asked%20Mar%2020%2C%202017%20at%201%3A44%20Mitch%20Talmadge%20123%204%20Add%20a%20comment%201%20Answer%20%E2%80%A6Make%20a%20claim.%20Provide%20the%20grounds%20%28evidence%29%20for%20the%20claim.%20Explain%20the%20warrant%20%28how%20the%20grounds%20support%20the%20claim%29%20Discuss%20possible%20rebuttals%20to%20the%20claim%2C%20identifying%20the%20limits%20of%20the%20argument%20and%20showing%20that%20you%20have%20considered%20alternative%20perspectives.%20The%20Toulmin%20model%20is%20a%20common%20approach%20in%20academic%20%3Cstrong%3Eessays%3C/strong%3E.For%20up-to-date%20guidance%2C%20see%20the%20ninth%20edition%20of%20the%20MLA%20Handbook.%20Set%20the%20margins%20of%20your%20document%20to%201%20inch%20on%20all%20sides.%20Indent%20the%20first%20line%20of%20each%20%3Cstrong%3Eparagraph%3C/strong%3E%20one%20half-inch%20from%20the%20left%20margin.General%20CMOS%20Guidelines.%20Text%20should%20be%20consistently%20double-spaced%2C%20except%20for%20block%20quotations%2C%20notes%2C%20bibliography%20entries%2C%20table%20titles%2C%20and%20figure%20captions.%20For%20block%20quotations%2C%20which%20are%20also%20called%20extracts%3A%20A%20prose%20quotation%20of%20five%20or%20more%20lines%2C%20or%20more%20than%20100%20words%2C%20should%20be%20blocked.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.%20Two%20lines%20of%20text%2C%20no%20heading%20%3Cstrong%3Eformatting%3C/strong%3E%20apa%20Share%20Improve%20this%20question%20Follow%20asked%20Mar%2020%2C%202017%20at%201%3A44%20Mitch%20Talmadge%20123%204%20Add%20a%20comment%201%20Answer%20%E2%80%A6Make%20a%20claim.%20Provide%20the%20grounds%20%28evidence%29%20for%20the%20claim.%20Explain%20the%20warrant%20%28how%20the%20grounds%20support%20the%20claim%29%20Discuss%20possible%20rebuttals%20to%20the%20claim%2C%20identifying%20the%20limits%20of%20the%20argument%20and%20showing%20that%20you%20have%20considered%20alternative%20perspectives.%20The%20Toulmin%20model%20is%20a%20common%20approach%20in%20academic%20%3Cstrong%3Eessays%3C/strong%3E.For%20up-to-date%20guidance%2C%20see%20the%20ninth%20edition%20of%20the%20MLA%20Handbook.%20Set%20the%20margins%20of%20your%20document%20to%201%20inch%20on%20all%20sides.%20Indent%20the%20first%20line%20of%20each%20%3Cstrong%3Eparagraph%3C/strong%3E%20one%20half-inch%20from%20the%20left%20margin.General%20CMOS%20Guidelines.%20Text%20should%20be%20consistently%20double-spaced%2C%20except%20for%20block%20quotations%2C%20notes%2C%20bibliography%20entries%2C%20table%20titles%2C%20and%20figure%20captions.%20For%20block%20quotations%2C%20which%20are%20also%20called%20extracts%3A%20A%20prose%20quotation%20of%20five%20or%20more%20lines%2C%20or%20more%20than%20100%20words%2C%20should%20be%20blocked.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChoicesProvide the grounds (evidence) for the claim. Explain the warrant (how the grounds support the claim) Discuss possible rebuttals t...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.%20Two%20lines%20of%20text%2C%20no%20heading%20%3Cstrong%3Eformatting%3C/strong%3E%20apa%20Share%20Improve%20this%20question%20Follow%20asked%20Mar%2020%2C%202017%20at%201%3A44%20Mitch%20Talmadge%20123%204%20Add%20a%20comment%201%20Answer%20%E2%80%A6Make%20a%20claim.%20Provide%20the%20grounds%20%28evidence%29%20for%20the%20claim.%20Explain%20the%20warrant%20%28how%20the%20grounds%20support%20the%20claim%29%20Discuss%20possible%20rebuttals%20to%20the%20claim%2C%20identifying%20the%20limits%20of%20the%20argument%20and%20showing%20that%20you%20have%20considered%20alternative%20perspectives.%20The%20Toulmin%20model%20is%20a%20common%20approach%20in%20academic%20%3Cstrong%3Eessays%3C/strong%3E.For%20up-to-date%20guidance%2C%20see%20the%20ninth%20edition%20of%20the%20MLA%20Handbook.%20Set%20the%20margins%20of%20your%20document%20to%201%20inch%20on%20all%20sides.%20Indent%20the%20first%20line%20of%20each%20%3Cstrong%3Eparagraph%3C/strong%3E%20one%20half-inch%20from%20the%20left%20margin.General%20CMOS%20Guidelines.%20Text%20should%20be%20consistently%20double-spaced%2C%20except%20for%20block%20quotations%2C%20notes%2C%20bibliography%20entries%2C%20table%20titles%2C%20and%20figure%20captions.%20For%20block%20quotations%2C%20which%20are%20also%20called%20extracts%3A%20A%20prose%20quotation%20of%20five%20or%20more%20lines%2C%20or%20more%20than%20100%20words%2C%20should%20be%20blocked.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.%20Two%20lines%20of%20text%2C%20no%20heading%20%3Cstrong%3Eformatting%3C/strong%3E%20apa%20Share%20Improve%20this%20question%20Follow%20asked%20Mar%2020%2C%202017%20at%201%3A44%20Mitch%20Talmadge%20123%204%20Add%20a%20comment%201%20Answer%20%E2%80%A6Make%20a%20claim.%20Provide%20the%20grounds%20%28evidence%29%20for%20the%20claim.%20Explain%20the%20warrant%20%28how%20the%20grounds%20support%20the%20claim%29%20Discuss%20possible%20rebuttals%20to%20the%20claim%2C%20identifying%20the%20limits%20of%20the%20argument%20and%20showing%20that%20you%20have%20considered%20alternative%20perspectives.%20The%20Toulmin%20model%20is%20a%20common%20approach%20in%20academic%20%3Cstrong%3Eessays%3C/strong%3E.For%20up-to-date%20guidance%2C%20see%20the%20ninth%20edition%20of%20the%20MLA%20Handbook.%20Set%20the%20margins%20of%20your%20document%20to%201%20inch%20on%20all%20sides.%20Indent%20the%20first%20line%20of%20each%20%3Cstrong%3Eparagraph%3C/strong%3E%20one%20half-inch%20from%20the%20left%20margin.General%20CMOS%20Guidelines.%20Text%20should%20be%20consistently%20double-spaced%2C%20except%20for%20block%20quotations%2C%20notes%2C%20bibliography%20entries%2C%20table%20titles%2C%20and%20figure%20captions.%20For%20block%20quotations%2C%20which%20are%20also%20called%20extracts%3A%20A%20prose%20quotation%20of%20five%20or%20more%20lines%2C%20or%20more%20than%20100%20words%2C%20should%20be%20blocked.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChoicesProvide the grounds (evidence) for the claim. Explain the warrant (how the grounds support the claim) Discuss possible rebuttals t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Claim, Evidence, Warrant | Essay Writing | The Nature of Writing  
-   Link: <a href="https://www.youtube.com/watch?v=1BMnv2oleLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1BMnv2oleLo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Model of Argumentation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1BMnv2oleLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1BMnv2oleLo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Model of Argumentation...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: miamioh.edu  
-   Link: <a href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miami UniversitySupporting an ArgumentWarrant (&quot;the bridge&quot;): The belief, value, assumption, and/or [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) the writer hopes the audie...</p></details>
+   Link:<a href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Miami UniversitySupporting an ArgumentWarrant (&quot;the bridge&quot;): The belief, value, assumption, and/or [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) the writer hopes the audie...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-024-03151-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03151-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A backing...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-024-03151-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03151-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A backing...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sites.google.com  
-   Link: <a href="https://sites.google.com/site/writingwithpete/warrants" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/site/writingwithpete/warrants</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art of Academic Writing - WarrantsThe two key types of claims you will make in writing are thesis statements and topic sentences. A thesi...</p></details>
+   Link:<a href="https://sites.google.com/site/writingwithpete/warrants" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/site/writingwithpete/warrants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Art of Academic Writing - WarrantsThe two key types of claims you will make in writing are thesis statements and topic sentences. A thesi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: utminers.utep.edu  
-   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesFallacies are fake or deceptive arguments, &quot;junk cognition,&quot; that is, arguments that seem irrefutable but prove...</p></details>
+   Link:<a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesFallacies are fake or deceptive arguments, &quot;junk cognition,&quot; that is, arguments that seem irrefutable but prove...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1BMnv2ojkLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1BMnv2ojkLo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim, Evidence, Warrant | Essay Writing | The Nature of WritingClaim, Evidence, Warrant | Essay Writing | The Nature of Writing 81K view...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1BMnv2ojkLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1BMnv2ojkLo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim, Evidence, Warrant | Essay Writing | The Nature of WritingClaim, Evidence, Warrant | Essay Writing | The Nature of Writing 81K view...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: azhin.org  
-   Link: <a href="https://azhin.org/cummings/argument" target="_blank" rel="noopener noreferrer nofollow">https://azhin.org/cummings/argument</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing: Arguments: The Basics9 Mar 2026 — An argument makes a claim and uses evidence to back it up. Arguments all follow the same basic...</p></details>
+   Link:<a href="https://azhin.org/cummings/argument" target="_blank" rel="noopener noreferrer nofollow">https://azhin.org/cummings/argument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing: Arguments: The Basics9 Mar 2026 — An argument makes a claim and uses evidence to back it up. Arguments all follow the same basic...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: statisticssolutions.com  
-   Link: <a href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</p></details>
+   Link:<a href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/[Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/[Debate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Method: r/DebateThe tenets he includes are Claim, Ground, Warrant, Backing, Rebuttal, and Qualifier. Can anyone else confirm whe...</p></details>
+   Link:<a href="https://www.reddit.com/r/[Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/[Debate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Method: r/DebateThe tenets he includes are Claim, Ground, Warrant, Backing, Rebuttal, and Qualifier. Can anyone else confirm whe...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sjsu.edu  
-   Link: <a href="https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin&#x27;s Model of Argumentative WritingIt consists of six parts: three fundamental elements are the claim, grounds, and warrant; then, t...</p></details>
+   Link:<a href="https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin&#x27;s Model of Argumentative WritingIt consists of six parts: three fundamental elements are the claim, grounds, and warrant; then, t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ciris.info  
-   Link: <a href="https://www.ciris.info/learningcenter/toulmins-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.ciris.info/learningcenter/toulmins-model/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin&#x27;s model of ArgumentationThe Toulmin model shows how reasoning moves from evidence (grounds) to a conclusion (claim), supported by...</p></details>
+   Link:<a href="https://www.ciris.info/learningcenter/toulmins-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.ciris.info/learningcenter/toulmins-model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin&#x27;s model of ArgumentationThe Toulmin model shows how reasoning moves from evidence (grounds) to a conclusion (claim), supported by...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: publications.coventry.ac.uk  
-   Link: <a href="https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568" target="_blank" rel="noopener noreferrer nofollow">https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students How to Tame the Warrant with...This teaching practice paper deals with some practical ideas of teaching the concept of &#x27;warrant...</p></details>
+   Link:<a href="https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568" target="_blank" rel="noopener noreferrer nofollow">https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Students How to Tame the Warrant with...This teaching practice paper deals with some practical ideas of teaching the concept of &#x27;warrant...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mhcc.pressbooks.pub  
-   Link: <a href="https://mhcc.pressbooks.pub/2ndwr122/chapter/8/" target="_blank" rel="noopener noreferrer nofollow">https://mhcc.pressbooks.pub/2ndwr122/chapter/8/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis (Claims and Data)The Toulmin method is a style of argumentation that breaks arguments down into six component parts: claim, grou...</p></details>
+   Link:<a href="https://mhcc.pressbooks.pub/2ndwr122/chapter/8/" target="_blank" rel="noopener noreferrer nofollow">https://mhcc.pressbooks.pub/2ndwr122/chapter/8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis (Claims and Data)The Toulmin method is a style of argumentation that breaks arguments down into six component parts: claim, grou...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesA fallacy is a kind of error in reasoning. The list of fallacies below contains 231 names of...</p></details>
+   Link:<a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesA fallacy is a kind of error in reasoning. The list of fallacies below contains 231 names of...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: learn.academy4sc.org  
    Title: the toulmin model of argumentation claims data and warrants oh my  
-   Link: <a href="https://learn.academy4sc.org/video/the-toulmin-model-of-argumentation-claims-data-and-warrants-oh-my/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/the-toulmin-model-of-argumentation-claims-data-and-warrants-oh-my/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Model of Argumentation: Claims, Data, and...Toulmin identified six elements of an effective argument: claims, data, warrants, ba...</p></details>
+   Link:<a href="https://learn.academy4sc.org/video/the-toulmin-model-of-argumentation-claims-data-and-warrants-oh-my/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/the-toulmin-model-of-argumentation-claims-data-and-warrants-oh-my/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Model of Argumentation: Claims, Data, and...Toulmin identified six elements of an effective argument: claims, data, warrants, ba...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thequillguy.com  
-   Link: <a href="https://www.thequillguy.com/developing-academic-argument-using-claims-reasons-evidence-and-warrants-using-turabians-manual-for-writers/" target="_blank" rel="noopener noreferrer nofollow">https://www.thequillguy.com/developing-academic-argument-using-claims-reasons-evidence-and-warrants-using-turabians-manual-for-writers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Academic Argument Using Claims, Reasons...So a warrant tests the relevance of a reason to a claim: it is the bridge between them...</p></details>
+   Link:<a href="https://www.thequillguy.com/developing-academic-argument-using-claims-reasons-evidence-and-warrants-using-turabians-manual-for-writers/" target="_blank" rel="noopener noreferrer nofollow">https://www.thequillguy.com/developing-academic-argument-using-claims-reasons-evidence-and-warrants-using-turabians-manual-for-writers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Academic Argument Using Claims, Reasons...So a warrant tests the relevance of a reason to a claim: it is the bridge between them...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED028180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED028180.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ttern for both the evaluation and construction of argument...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED028180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED028180.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ttern for both the evaluation and construction of argument...</p></details>
